@@ -1,4 +1,6 @@
-const { inferType, isTechRelevant, requestOptions } = require('./platform-utils');
+const {
+  hasDevelopmentOutput, inferType, isTechRelevant, requestOptions,
+} = require('./platform-utils');
 
 function mapTicketaEvent(x, source, now = new Date()) {
   const closesAt = x?.start_date || x?.end_date;
@@ -6,6 +8,8 @@ function mapTicketaEvent(x, source, now = new Date()) {
     || !isTechRelevant(x.title, x.organization_id)) return null;
   const url = `https://ticketa.co/event/${x.id}`;
   const type = inferType(x.title);
+  const developmentOutput = hasDevelopmentOutput(x.title, x.organization_id);
+  if (type === 'HACKATHON' && !developmentOutput) return null;
   return {
     type, sourceId: source.id, externalId: x.id, url, title: x.title,
     organization: x.organization_id || '티켓타코 등록 기관', status: 'OPEN', closesAt,
@@ -13,7 +17,8 @@ function mapTicketaEvent(x, source, now = new Date()) {
     eligibility: ['참가 조건 상세 확인'], tags: ['개발자 행사'],
     summary: `${x.venues?.place_name || '행사 장소 상세 확인'} · 행사 시작 전 신청`,
     summaryEvidence: [url], attributes: { sourcePriority: source.priority,
-      developmentOutput: type === 'HACKATHON', immediateCategory: type !== 'HACKATHON' },
+      developmentOutput: type === 'HACKATHON' && developmentOutput,
+      immediateCategory: type !== 'HACKATHON' },
   };
 }
 

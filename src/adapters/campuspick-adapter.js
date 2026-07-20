@@ -17,7 +17,7 @@ function mapCampuspickDetail(html, source, listingUrl, type, now = new Date()) {
     summaryEvidence: [...new Set([listingUrl, url])],
     attributes: { listingUrl, originalUrl: url, sourcePriority: source.priority,
       developmentOutput: type === 'HACKATHON'
-        && hasDevelopmentOutput(x.title, x.company),
+        && hasDevelopmentOutput(x.title, x.description, x.company),
       immediateCategory: false,
       financialSupport: Boolean(x.prize_top || x.prize_total || x.prize_benefit) },
   };

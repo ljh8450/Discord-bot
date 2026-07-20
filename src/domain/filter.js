@@ -1,4 +1,5 @@
 const { TYPES } = require('./opportunity');
+const { hasDevelopmentOutput } = require('./development-relevance');
 
 function searchableText(opportunity) {
   return [
@@ -40,7 +41,15 @@ function filterJob(opportunity, profile) {
 }
 
 function filterHackathon(opportunity) {
-  if (opportunity.attributes.developmentOutput === true) {
+  if (
+    opportunity.attributes.developmentOutput === true
+    && hasDevelopmentOutput(
+      opportunity.title,
+      opportunity.organization,
+      opportunity.tags,
+      opportunity.summary,
+    )
+  ) {
     return { decision: 'APPROVED', reason: '개발 결과물을 만드는 행사' };
   }
   return { decision: 'REJECTED', reason: '개발 결과물 행사 근거 없음' };

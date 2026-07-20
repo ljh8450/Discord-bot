@@ -2,6 +2,8 @@ const assert = require('node:assert/strict');
 const test = require('node:test');
 
 const { mapLinkareerDetail } = require('../src/adapters/linkareer-adapter');
+const { mapTicketaEvent } = require('../src/adapters/ticketa-adapter');
+const { hasDevelopmentOutput } = require('../src/domain/development-relevance');
 const { applyProfileFilter } = require('../src/domain/filter');
 
 function linkareerHtml(activity) {
@@ -28,6 +30,36 @@ test('does not treat an AI video contest as a developer-output competition', () 
   const decision = applyProfileFilter({
     ...item, canonicalUrl: item.url, tags: item.tags || [], eligibility: item.eligibility || [],
   }, {});
+  assert.equal(decision.decision, 'REJECTED');
+});
+
+test('rejects creative AI competitions without explicit implementation evidence', () => {
+  assert.equal(hasDevelopmentOutput('AI 미디어아트 공모전'), false);
+  assert.equal(hasDevelopmentOutput('생성형 AI 영화제 및 숏필름 공모전'), false);
+  assert.equal(hasDevelopmentOutput('AI 콘텐츠 제작 UCC 대회'), false);
+});
+
+test('keeps creative-domain competitions with explicit software implementation', () => {
+  assert.equal(hasDevelopmentOutput('AI 영상 분석 모델 개발 경진대회'), true);
+  assert.equal(hasDevelopmentOutput('미디어아트 컴퓨터 비전 API 구현 해커톤'), true);
+});
+
+test('drops a Ticketa AI film contest before it reaches the radar', () => {
+  const item = mapTicketaEvent({
+    id: 'film-1', title: '생성형 AI 숏필름 공모전', status: 'PUBLIC',
+    start_date: '2026-08-20T09:00:00+09:00', organization_id: 'AI 문화재단', venues: {},
+  }, { id: 'ticketa', priority: 70 }, new Date('2026-07-20'));
+
+  assert.equal(item, null);
+});
+
+test('final hackathon filter overrides an incorrect development-output flag', () => {
+  const decision = applyProfileFilter({
+    type: 'HACKATHON', title: 'AI 미디어아트 영화제 공모전', organization: '문화재단',
+    tags: ['AI', '영상 제작'], eligibility: [], locations: [], summary: 'AI 창작 작품 제출',
+    attributes: { developmentOutput: true },
+  }, {});
+
   assert.equal(decision.decision, 'REJECTED');
 });
 
