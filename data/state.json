@@ -34,7 +34,7 @@
       "contentHash": "sha256:86820cb19059e7663d87b9213796d99cabbd711b5d5f75ea5c400e264d8053f7",
       "dedupeKey": "discovered:b820b25f9665623f196e2d32ed122a761f0d848d347c50876c061415f9abe804",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -78,7 +78,7 @@
       "contentHash": "sha256:6cb80b54e6477762d288fdb290f8713e7af074f07dffd8ca5a81760f899ce2b5",
       "dedupeKey": "discovered:7bc9f9d1627a3d31042289814bfb63f51219d73ebe642f5151f603d4cdee0c3e",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -122,7 +122,7 @@
       "contentHash": "sha256:c29088b33c06507779d5521b04576043833f92bb61f6d39df2edb705f6cdf9d5",
       "dedupeKey": "discovered:5e28c8e1b715ffb4d03492043234a613ff3b1f7b282e8937d47b9339bf83fbf2",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -167,7 +167,7 @@
       "contentHash": "sha256:7765b4a2baa0172753bb7de8cc42805d2c7dd3131b74334501122d37df59c4f7",
       "dedupeKey": "discovered:5dbd9849522ffbdb066a6317567602b12023b821acd4d294b396bf48ab770d35",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -211,7 +211,7 @@
       "contentHash": "sha256:5634176560b57a0555ee37a050f08c7dd39323ec7eca4930e81a179954da1946",
       "dedupeKey": "discovered:33a71448a11bf0bdd4e6e47003f27ddf2d3070de2d193011d36a7ef9f6ad3d2d",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -255,7 +255,7 @@
       "contentHash": "sha256:a212c39b65d30969b324627adc0defef7445f8622c1d5396521db905c66a40c3",
       "dedupeKey": "discovered:f07da709f2268b6f53f4058739d434b1e2d84882cf76e4597aa38c93c1e3303f",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -300,7 +300,7 @@
       "contentHash": "sha256:d302d65ffa240c2550c417b4e99dd1b588a00420edc1fc09a3a42be2ef0a3221",
       "dedupeKey": "discovered:738fa6526c31dce5b046d6a77db291dc827db78c6efaa58388b0309f8b3f9da2",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -345,7 +345,7 @@
       "contentHash": "sha256:f5d23b7da4de86baf369f41eaaf8bd8426b531a8cd28e968f6cb0fa4d73d0a28",
       "dedupeKey": "discovered:a6aa6ef63a58d907002b8104dabd72547b1eccfe317fbaccdbb39d64449610e1",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -390,7 +390,7 @@
       "contentHash": "sha256:1ee76998f2667b70623ed7df520a9da508593a420474aeb9031c8ceb5b43c99c",
       "dedupeKey": "discovered:d7f4eccd0705deb971f73ab4c79e45df0f19839227a97c216fabfa0d3f049a45",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -434,7 +434,7 @@
       "contentHash": "sha256:9526c8fc005fb798bf8136f7e23d606dd6353b3dd8e93cdfb318ffa5ba038c57",
       "dedupeKey": "discovered:586153988dd250ebc6c9bf552e9fcd7c917a7ad224a9ca8e58b8388faee7c4a8",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -478,7 +478,7 @@
       "contentHash": "sha256:b9e8c483ef7d236649ef7793b39c90c3dce962d587d24ed4344dab2f8472a3fa",
       "dedupeKey": "discovered:e462f4dc7ea50d584d05fa306dcff3455e31010c1e6cf4dd7a4aefbbb8e0cd85",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -523,7 +523,7 @@
       "contentHash": "sha256:7f8b39c5afc09e182bcd4ad5550a617337efe765db0ceca7cd0cb2231a49e52c",
       "dedupeKey": "discovered:c6775781f4b9c2dc4fb235a1a76aa4557242214a46ba57e4bf517aa56bdcb768",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -567,7 +567,7 @@
       "contentHash": "sha256:adf9eae26c9157240c6bd5cf2460c1cad1f22fdb08e49651b35897e0ce1c377c",
       "dedupeKey": "discovered:a7e14d1de3f5fd25f4383aa127a90bdef2167750b2fc70d757961b72f8da0792",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -611,7 +611,7 @@
       "contentHash": "sha256:b485ff581727c6026d5d53cbe401b7e0f2913982a13894372a452358dead3316",
       "dedupeKey": "discovered:3a023c7f51e783d0d0ab1c9c45eb329e6098996346230107aa3d2eec01796f23",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -655,7 +655,7 @@
       "contentHash": "sha256:c82859a6c05d4b855f3a8507692ea06fc1e600c1bc8e653552b696c309be1770",
       "dedupeKey": "discovered:ff5b9e24e7d0d98b645e18803a5b6a71634d8384aaf5e4881b0ddeae519a7c21",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -699,7 +699,7 @@
       "contentHash": "sha256:7f65adf477dc28d98f243c257228b384466fa09e874c2fb49a187499d4d769cc",
       "dedupeKey": "discovered:a84f03f61f7672b8a7d5b08c4d48321f6ab11e802688427beced63b6621dfd3a",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -744,7 +744,7 @@
       "contentHash": "sha256:bde78a3c4997be525eed6a8bbdd06cc145c77e2f72a508999a4acbb38b712917",
       "dedupeKey": "discovered:0ca72661fefa0b194118fbc39789a3ccd65edce521c62f28246c867ca13c00ba",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -788,7 +788,7 @@
       "contentHash": "sha256:ee4eabecd8da694233dabbc1ede4d607155dc648331dbeed33c74946e8cba7e4",
       "dedupeKey": "discovered:acbcec4a71bcdcce7493a9fd80e4db915fff8c196fd9a4e891007644a7a7e741",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -832,7 +832,7 @@
       "contentHash": "sha256:061bab93bac207e594c2491b86019ff2261f40fe527ded5d66cce278533e3e73",
       "dedupeKey": "discovered:337df0e43932b28cda60bfeabc21875cad234738bcb8bef4ae18d72cedbbdfb5",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -874,7 +874,7 @@
       "contentHash": "sha256:ae90d10161c81d944b2edcf8d9ae45e2bfc03a8431fd3c3f653086be4e2423b0",
       "dedupeKey": "discovered:25ab1d0c81ed007a636996529e4f74cab8ccfae00e1747f42f9a50397e50d99d",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -916,7 +916,7 @@
       "contentHash": "sha256:1936b5bc46aa00a21c7b492d8e989283849a7bef839d3b7515e0abd3c95ed005",
       "dedupeKey": "discovered:e37393c341386f670ed62ad20aed8c521b1c90c92178119fe61c9b8bb8831cf3",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -958,7 +958,7 @@
       "contentHash": "sha256:16fa535e7722367e8d474449a0a41108b47041d67991bc8855424f85454ab3ba",
       "dedupeKey": "discovered:f14c425f4786de290dd73887afe18cc4f46edaae9ad2089cd170a6edd65250f0",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1000,7 +1000,7 @@
       "contentHash": "sha256:603b4a88bf4e7b204e1230c43fc7366cce275552f53fb4c3878088679fa2aea4",
       "dedupeKey": "discovered:4578996d2f141dcba84140e0fbbd682d572d6f235f3b2d7a161f65fcf74a7eba",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1042,7 +1042,7 @@
       "contentHash": "sha256:d1e88c5cee1ecee1ea1b4b060544a7413bc878ee393e507c4b030e0e0b32a56c",
       "dedupeKey": "discovered:dc30d86b76f71126d5fa139d7fe6dcb0fd64e2f0d2e7bc3f0e54c57124713a3f",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1084,7 +1084,7 @@
       "contentHash": "sha256:2e29ac5190b309c165a446dd9d15baa858f794583bfed444b6023a943243643b",
       "dedupeKey": "discovered:385d92bef119e8841c1ecd9c327320c68c979fcb7d2dca0ac5ef62da24a1ba87",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1126,7 +1126,7 @@
       "contentHash": "sha256:159c38ba749fc8437a34ff1d9a469ce290205352dc4db583c1d726132489e8fc",
       "dedupeKey": "discovered:b64a887b14e47e172b22a1a44594a718b50d8f647aa423c4d5d0ede776f8693b",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -1168,7 +1168,7 @@
       "contentHash": "sha256:c60888557665b1c4d66a92940f9bd6bfe5a74310f282216cfb24daa8b1ea9483",
       "dedupeKey": "discovered:62650d0a3d52f1c76a5fb67e9ef6379311150c2a744555ba33d5ce78cfdf0aa9",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T11:22:13.141Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1176,6 +1176,2374 @@
       },
       "lifecycle": {
         "missingRuns": 0
+      }
+    },
+    "opp_9e9c19dcb6e867a3095d": {
+      "id": "opp_9e9c19dcb6e867a3095d",
+      "type": "HACKATHON",
+      "sourceId": "linkareer",
+      "externalId": "336412",
+      "canonicalUrl": "https://sotong.go.kr/front/epilogue/epilogueNewViewPage.do?menu_id=527&bbs_id=74aa4c0de56a4799848cfb2ef207740f&pagetype=bbs&search_result=&search_result_cnddt=&epilogue_bgnde=&epilogue_endde=&date_range=all&epilogue_bgnde_cnddt=&epilogue_endde_cnddt=&date",
+      "title": "[포항시] 2026 포항시 데이터 분석 아이디어 공모전",
+      "organization": "포항시",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-14T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [
+        "대상 제한 없음"
+      ],
+      "tags": [
+        "기획/아이디어",
+        "건축/건설/인테리어"
+      ],
+      "summary": "DAY · 상장 수여",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336412",
+        "https://sotong.go.kr/front/epilogue/epilogueNewViewPage.do?menu_id=527&bbs_id=74aa4c0de56a4799848cfb2ef207740f&pagetype=bbs&search_result=&search_result_cnddt=&epilogue_bgnde=&epilogue_endde=&date_range=all&epilogue_bgnde_cnddt=&epilogue_endde_cnddt=&date"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336412",
+        "originalUrl": "https://sotong.go.kr/front/epilogue/epilogueNewViewPage.do?menu_id=527&bbs_id=74aa4c0de56a4799848cfb2ef207740f&pagetype=bbs&search_result=&search_result_cnddt=&epilogue_bgnde=&epilogue_endde=&date_range=all&epilogue_bgnde_cnddt=&epilogue_endde_cnddt=&date",
+        "sourcePriority": 100,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:525a8cad0339a916a7f5479d82481e0112db10b5adef9a5f73cd26ec10b15555",
+      "dedupeKey": "discovered:9e9c19dcb6e867a3095dcb9e09d3b8eb8c4f13a845809d33401cfde192643cc4",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "원문 URL 확인 실패: fetch failed"
+      }
+    },
+    "opp_83b039ad6c81db639e9f": {
+      "id": "opp_83b039ad6c81db639e9f",
+      "type": "HACKATHON",
+      "sourceId": "linkareer",
+      "externalId": "336342",
+      "canonicalUrl": "https://linkareer.com/activity/336342",
+      "title": "심야공포촌 AI 영상 공모전",
+      "organization": "한국민속촌",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-27T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [
+        "대상 제한 없음"
+      ],
+      "tags": [
+        "사진/영상/UCC"
+      ],
+      "summary": "DAY · 상장 수여",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336342"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336342",
+        "originalUrl": "https://linkareer.com/activity/336342",
+        "sourcePriority": 100,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:57259c8e4810234e744f4d9504bf988c3a7a3cfa22496d461ab8b8f06b2b57b0",
+      "dedupeKey": "discovered:83b039ad6c81db639e9fbee2c2ad729245a12e9b0bd22108f13d554e00f74b98",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "개발 결과물을 만드는 행사"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336342",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_9b95119c11349d288260": {
+      "id": "opp_9b95119c11349d288260",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336620",
+      "canonicalUrl": "https://linkareer.com/activity/336620",
+      "title": "[AI Shift Track] AI 서비스 개발자 과정",
+      "organization": "송파여성인력개발센터",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-10T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "프론트엔드 개발",
+        "모바일 앱 개발",
+        "백엔드 개발",
+        "컴퓨터 공학/SW 엔지니어링",
+        "데이터엔지니어링",
+        "AI/ML",
+        "컴퓨터비전",
+        "클라우드",
+        "프로그래밍",
+        "데이터사이언스",
+        "인공지능",
+        "클라우드 · 보안"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336620"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336620",
+        "originalUrl": "https://linkareer.com/activity/336620",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:dd3baa7e5162777b215607870de13f2d1622684fd135765fbbaf79a96637a3ba",
+      "dedupeKey": "discovered:9b95119c11349d288260ec616721a03ada80eda4bbdf3bb0a8bc4fcc152b607f",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336620",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_9538879bf936bb90b37f": {
+      "id": "opp_9538879bf936bb90b37f",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336607",
+      "canonicalUrl": "https://linkareer.com/activity/336607",
+      "title": "(새싹 동대문 4기) 기업연계형 AI 서비스·클라우드 실무 과정",
+      "organization": "한국클라우드컴퓨팅연구조합",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-17T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "클라우드",
+        "인프라",
+        "데브옵스",
+        "AI/ML",
+        "ChatGPT",
+        "클라우드 · 보안",
+        "데이터사이언스",
+        "인공지능",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336607"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336607",
+        "originalUrl": "https://linkareer.com/activity/336607",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:2364973da8063cde333b85c75d68b91f4b0a7b49a8a4a75d731aa1b13a451c16",
+      "dedupeKey": "discovered:9538879bf936bb90b37fb3bcfd6176314e24924eb372d8c11b9ba9d7ffa0f2ac",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336607",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_8a4ed24caa5b25f965e9": {
+      "id": "opp_8a4ed24caa5b25f965e9",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336599",
+      "canonicalUrl": "https://hyundai-rotem-ai-sy.vercel.app/",
+      "title": "현대로템 방산+AI부트캠프[국방기술학회 이사장 채용추천서] 수료자 전원 제공",
+      "organization": "현대로템",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-31T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "데이터분석",
+        "데이터엔지니어링",
+        "머신러닝",
+        "AI/ML",
+        "자연어처리",
+        "딥러닝",
+        "컴퓨터비전",
+        "데이터사이언스",
+        "인공지능",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336599",
+        "https://hyundai-rotem-ai-sy.vercel.app"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336599",
+        "originalUrl": "https://hyundai-rotem-ai-sy.vercel.app",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:e655839cd4cdef859dee729b78910e668c821c5a52b4dfe2050d33f4f0e552d6",
+      "dedupeKey": "discovered:8a4ed24caa5b25f965e9eb9e8e8e308b003c65607b9d3f2da4b0129491a4bc3d",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_7f9b69a835c51a776387": {
+      "id": "opp_7f9b69a835c51a776387",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336597",
+      "canonicalUrl": "https://kt-cloud-tech-up-full-stack-rbwm.vercel.app/",
+      "title": "KT클라우드 부트캠프 [풀스택 개발/클라우드 인프라] 국비지원 '온라인 교육'",
+      "organization": "kt cloud",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-31T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "DevOps/Infra",
+        "프론트엔드 개발",
+        "모바일 앱 개발",
+        "컴퓨터 공학/SW 엔지니어링",
+        "백엔드 개발",
+        "클라우드",
+        "인프라",
+        "보안",
+        "데브옵스",
+        "프로그래밍",
+        "클라우드 · 보안",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336597",
+        "https://kt-cloud-tech-up-full-stack-rbwm.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336597",
+        "originalUrl": "https://kt-cloud-tech-up-full-stack-rbwm.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:51434801a41e758d3ee416662da2c8fa5ae8a03a912d8278daaa5e18ea7d1bbd",
+      "dedupeKey": "discovered:7f9b69a835c51a7763870b5dea23b7a9a91aff1b7378cf68f4ca897e84fe620d",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_7504931075bd1022b492": {
+      "id": "opp_7504931075bd1022b492",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336596",
+      "canonicalUrl": "https://smuniverse.vercel.app/",
+      "title": "[SM UNIVERSE] 버츄얼 콘텐츠 IT개발자 교육_비전공자 전문 국비교육",
+      "organization": "SM Universe",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-23T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "게임 개발",
+        "모바일 앱 개발",
+        "프론트엔드 개발",
+        "백엔드 개발",
+        "컴퓨터 공학/SW 엔지니어링",
+        "프로그래밍",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336596",
+        "https://smuniverse.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336596",
+        "originalUrl": "https://smuniverse.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:ab091e4828d0f3c97163821af03cd6e5199c97ee645d714389b99f34d15d0131",
+      "dedupeKey": "discovered:7504931075bd1022b492936167e3d277fb8c270ca9553909c44a5d1a7b449ed3",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://smuniverse.vercel.app/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_e39d302f321a873d7a92": {
+      "id": "opp_e39d302f321a873d7a92",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336592",
+      "canonicalUrl": "https://ansan-edu.vercel.app/",
+      "title": "기숙사有) DB보안/사이버보안 [비전공자/고졸] 국비지원 정보보안 취업",
+      "organization": "한국직업능력교육원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-10T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "보안",
+        "인프라",
+        "클라우드",
+        "데브옵스",
+        "클라우드 · 보안",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336592",
+        "https://ansan-edu.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336592",
+        "originalUrl": "https://ansan-edu.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:05a22fef01bb7df55b233904442cdde35e3680c5db52d95566cc1d394d7a38f2",
+      "dedupeKey": "discovered:e39d302f321a873d7a9205869435e7b17bd60a307012dbcdb7fff3b4824e6f3f",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://ansan-edu.vercel.app/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_c1238bf222a944774eab": {
+      "id": "opp_c1238bf222a944774eab",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336590",
+      "canonicalUrl": "https://one-itedu.com/",
+      "title": "비전공자 맞춤교육_웹/앱 개발 국비교육 +IT취업전문상담",
+      "organization": "한국정보교육원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-10T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "모바일 앱 개발",
+        "프론트엔드 개발",
+        "백엔드 개발",
+        "게임 개발",
+        "컴퓨터 공학/SW 엔지니어링",
+        "DevOps/Infra",
+        "프로그래밍",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336590",
+        "https://one-itedu.com/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336590",
+        "originalUrl": "https://one-itedu.com/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:00cda64f0bd1f991aecbb2c326c9064e81eb67a5776ef53640f4f130c3b79655",
+      "dedupeKey": "discovered:c1238bf222a944774eab541794ab722a7a3b64c00600cf9d45e2dd66717bff8a",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://one-itedu.com/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_5d5bd707f1033e104858": {
+      "id": "opp_5d5bd707f1033e104858",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336588",
+      "canonicalUrl": "https://ai-iot-embedded-ms.vercel.app/",
+      "title": "국내 유일 MCU 임베디드&펌웨어 국비지원 교육 부트캠프 [기숙사 지원]",
+      "organization": "한국직업능력교육원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-24T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "임베디드",
+        "IoT",
+        "반도체",
+        "로보틱스",
+        "IoT · 임베디드 · 반도체",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336588",
+        "https://ai-iot-embedded-ms.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336588",
+        "originalUrl": "https://ai-iot-embedded-ms.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:f87f9dc0dd5d05d89930f82a800795e2cd451059a97a736d0f9eac103251af94",
+      "dedupeKey": "discovered:5d5bd707f1033e1048582351a64c8a14d423a10fc4784d8354606fef5a3b016a",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_5d0423c041b5e7265ce2": {
+      "id": "opp_5d0423c041b5e7265ce2",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336539",
+      "canonicalUrl": "https://hn.kd-academy.co.kr/",
+      "title": "[하남/AI영상편집] (산대특)AI기반 영상콘텐츠 제작·편집 실무자 양성 과정",
+      "organization": "주식회사 케이디아카데미 하남미사점",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-10-18T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "영상/사진",
+        "모션그래픽",
+        "영상 · 3D"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336539",
+        "https://hn.kd-academy.co.kr/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336539",
+        "originalUrl": "https://hn.kd-academy.co.kr/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:0b4e4f5f8f43d6370d6a6cc925963672f7de2dde0c5f377811fcf0a16d54a276",
+      "dedupeKey": "discovered:5d0423c041b5e7265ce2fb450f1c1c2fb7e9b37bb7bc25ed49bbd19c7e38b65c",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://hn.kd-academy.co.kr/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_85762413124f55bb4139": {
+      "id": "opp_85762413124f55bb4139",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336501",
+      "canonicalUrl": "https://linkareer.com/activity/336501",
+      "title": "★(AI 전문인력 양성) 업무 자동 고도화 에이전트 기반 AI 서비스 엔지니어(LLM-RAG 실무 프로젝트)★",
+      "organization": "더조은컴퓨터아카데미 구로캠퍼스",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-10T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "데이터분석",
+        "AI/ML",
+        "데이터사이언스"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336501"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336501",
+        "originalUrl": "https://linkareer.com/activity/336501",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": true
+      },
+      "contentHash": "sha256:4ef85111403adf864a18016c0a5f5a58f13cee2df50044393277601d463d5d18",
+      "dedupeKey": "discovered:85762413124f55bb4139a529023962f77f1ccd48f8869dfaf28b7b9652887905",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336501",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_ef53ea8e47c63e400830": {
+      "id": "opp_ef53ea8e47c63e400830",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336477",
+      "canonicalUrl": "https://linkareer.com/activity/336477",
+      "title": "서울AI스마트시티센터 청년 특별 프로그램 [취준 맛떼루]",
+      "organization": "주식회사 내일시스템",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-23T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "ChatGPT 활용",
+        "취업/이직",
+        "업무생산성",
+        "비즈니스"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336477"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336477",
+        "originalUrl": "https://linkareer.com/activity/336477",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:0336a9f621395c24faefb07ebc9b82500bda0c0e069264a5af56a274a3648600",
+      "dedupeKey": "discovered:ef53ea8e47c63e400830679b6b109c077c99bc26714a0b6a6aba4a68c22fe80b",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336477",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_d674bbe33f3113a634e2": {
+      "id": "opp_d674bbe33f3113a634e2",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336431",
+      "canonicalUrl": "https://linkareer.com/activity/336431",
+      "title": "매일유업 More than Food Academy 교육생 모집중!",
+      "organization": "대한상공회의소 광주인력개발원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-09-07T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "기타",
+        "기타",
+        "체험형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336431"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336431",
+        "originalUrl": "https://linkareer.com/activity/336431",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:3857000e3b0e45585824acb3ccc4f86d61d7b87d494fba22e81d90945324746e",
+      "dedupeKey": "discovered:d674bbe33f3113a634e239c67a3ed7b72f218aa8acdc79140e5d989cc8101259",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "즉시 통과 교육·활동 유형"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336431",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_e23c67ebba2987a10aa0": {
+      "id": "opp_e23c67ebba2987a10aa0",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336427",
+      "canonicalUrl": "https://linkareer.com/activity/336427",
+      "title": "[채용연계형] 메디컬 AI with 스마트웰니스 교육생 모집",
+      "organization": "한국IT교육원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-19T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "데이터엔지니어링",
+        "머신러닝",
+        "데이터분석",
+        "딥러닝",
+        "데이터사이언스",
+        "인공지능",
+        "AI/ML",
+        "컴퓨터비전",
+        "자연어처리",
+        "ChatGPT",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336427"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336427",
+        "originalUrl": "https://linkareer.com/activity/336427",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:d0226a418c153870364abda77aadc8c8fc858abe997aa88d3ac323398b6872f0",
+      "dedupeKey": "discovered:e23c67ebba2987a10aa0b739c2b45ee52de8ee86dc48e293efa27147bab9538e",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://linkareer.com/activity/336427",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_dfad5a8d840611392d07": {
+      "id": "opp_dfad5a8d840611392d07",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336417",
+      "canonicalUrl": "http://pf.kakao.com/_xoUbxlj/chat",
+      "title": "[AI Shift Track] AI 서비스 개발자 과정",
+      "organization": "메가스터디 AI캠퍼스",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-10-18T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "데이터분석",
+        "데이터엔지니어링",
+        "AI/ML",
+        "머신러닝",
+        "딥러닝",
+        "자연어처리",
+        "데이터사이언스",
+        "인공지능",
+        "체험형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336417",
+        "http://pf.kakao.com/_xoUbxlj/chat"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336417",
+        "originalUrl": "http://pf.kakao.com/_xoUbxlj/chat",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:bf9cc34ff0bee77946b78e97f740fb3f195c1e51a388d38fe7cf6963d8a01c14",
+      "dedupeKey": "discovered:dfad5a8d840611392d0705bf9f4b30d78f348aea62e27252a03e06c03f1f5be6",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://pf.kakao.com/_xoUbxlj/chat",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_f8611df0e823e3a311ed": {
+      "id": "opp_f8611df0e823e3a311ed",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "336415",
+      "canonicalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeLWuuHjoO9V6RVh9rPuwStMIeoNHlSPi3QT-X4FsH5N5kc5g/viewform?usp=dialog",
+      "title": "골든래빗 빠르게 따는 빅데이터분석기사 실기(Python) 베타리더 30명 한정 모집",
+      "organization": "골든래빗",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-12T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "데이터분석",
+        "자격증",
+        "데이터사이언스",
+        "비즈니스",
+        "체험형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/336415",
+        "https://docs.google.com/forms/d/e/1FAIpQLSeLWuuHjoO9V6RVh9rPuwStMIeoNHlSPi3QT-X4FsH5N5kc5g/viewform?usp=dialog"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/336415",
+        "originalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeLWuuHjoO9V6RVh9rPuwStMIeoNHlSPi3QT-X4FsH5N5kc5g/viewform?usp=dialog",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:999ec13d3be3c05756218557038a7112011f619d45f9e14b958767e87a8f029f",
+      "dedupeKey": "discovered:f8611df0e823e3a311edb9b7166fdaadecd502a5d7084edf3305eea885f568a5",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeLWuuHjoO9V6RVh9rPuwStMIeoNHlSPi3QT-X4FsH5N5kc5g/viewform?usp=dialog",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_4311dfa44bcc71943e37": {
+      "id": "opp_4311dfa44bcc71943e37",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35107",
+      "canonicalUrl": "https://kisg.29sking.com/notices/53",
+      "title": "[29역숏폼왕] 제2회 동반성장 숏폼 영화제",
+      "organization": "동반성장연구소",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-25T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "[29역숏폼왕] 제2회 동반성장 숏폼 영화제 “이 구역의 숏폼왕을 찾아라!” 안녕하세요. 29역숏폼왕 일곱 번째 프로젝트, &lt;제2회 동반성장 숏폼 영화제> 개최소식을 전해 드립니다! 사람 간, 세대 간, 지역 간, 남녀 간, 기업 간, 도농 간, 국가 간... 다 함께 잘 사는 건강한 사회를 만들기 위해 2012년부터 동반성장 포럼 개최, 동반성장 컨퍼런스, 청년포럼, 공익 연구활동 등 다양한 움직임을 이어 오고 있는 사단법인 동반성장연구소가 29역숏폼왕을 찾아왔습니다. “왕관을 쓰려는 자",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35107",
+        "https://kisg.29sking.com/notices/53"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35107",
+        "originalUrl": "https://kisg.29sking.com/notices/53",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:013001752a595e39cad17a811a8612359c0de4e68b6afd90c2de089724b7d3ce",
+      "dedupeKey": "discovered:4311dfa44bcc71943e379c49d58b7293d34a83afc6f7b3dc5e88fda82e730b2c",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://kisg.29sking.com/notices/53",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_7a513fdb4e8151bf6f3a": {
+      "id": "opp_7a513fdb4e8151bf6f3a",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35096",
+      "canonicalUrl": "https://upstage-bdai-skillthon.figma.site/",
+      "title": "2026 제1회 Upstage X BDAI Harness Engineer",
+      "organization": "UPSTAGE X BDAI",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-25T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "데이터 분석 워크플로우 설계부터 재현 가능한 스킬 자동화까지 ✨ 업스테이지와 함께하는 이번 스킬톤, 놓치지 마세요! 📌 대회 소개 BDAI Skillthon은 아이디어를 실제로 동작하는 AI Skill로 완성해보는 온라인 해커톤이에요. 짧은 기간 안에 기획→제작→제출까지 전 과정을 직접 경험하며 실전 감각 뿜뿜 키울 수 있는 기회📈 🗓️ 접수 기간: ~7/25(토) 🎯 주제: 데이터 분석 Agent \"공개 데이터를 분석해 인사이트를 내는 에이전트\"라는 요건만 충족하면",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35096",
+        "https://upstage-bdai-skillthon.figma.site/?utm_source=campuspick&utm_medium=poster&utm_campaign=upstage_02"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35096",
+        "originalUrl": "https://upstage-bdai-skillthon.figma.site/?utm_source=campuspick&utm_medium=poster&utm_campaign=upstage_02",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:c039b94a6192dfa55827c35f72c36a3c85747551e3bd9447d61769d33647181e",
+      "dedupeKey": "discovered:7a513fdb4e8151bf6f3a1aa8a084e56a40afe422ca5fa1211d078887519740cc",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://upstage-bdai-skillthon.figma.site/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_257d318649d7882b57b1": {
+      "id": "opp_257d318649d7882b57b1",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35091",
+      "canonicalUrl": "https://blog.naver.com/n_privacy/224338108463",
+      "title": "네이버 프라이버시 챌린지",
+      "organization": "네이버 주식회사",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-31T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "NAVER는 AI 시대를 맞아 더욱 안전하고 신뢰할 수 있는 온라인 생태계를 함께 고민하기 위해, 대학(원)생 여러분을 초대하는 NAVER PRIVACY CHALLENGE를 마련하였습니다. 이번 챌린지는 여러분이 직접 개인정보보호 담당자가 되어 이용자가 믿고 사용할 수 있는 안전한 서비스에 대한 아이디어를 제안하는 자리입니다. IT 전공자가 아니어도, 개인정보를 잘 몰라도 괜찮습니다. 온라인 서비스를 이용하며 '이런 부분은 개인정보가 더 강화되었으면 좋겠다'는 생각을 한 번이라도 해보셨",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35091",
+        "https://blog.naver.com/n_privacy/224338108463"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35091",
+        "originalUrl": "https://blog.naver.com/n_privacy/224338108463",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:8ceec30043d3bd676dbc523453bc62d36b83a5c144b91357c1f55a243e0255ac",
+      "dedupeKey": "discovered:257d318649d7882b57b1efeb76c51718ffda6f8107702765b50f1e1f82414584",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://blog.naver.com/n_privacy/224338108463",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_5e488b4323af9d4af9c0": {
+      "id": "opp_5e488b4323af9d4af9c0",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35080",
+      "canonicalUrl": "https://www.xn--ob0bxit6rl6ew7as7cgxpjti12ah8eth85kr6yfwqsul.com/",
+      "title": "2026년 국립서울현충원 미디어아트 공모전",
+      "organization": "국가보훈부",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-23T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "□ 공모 목적 - 역사성과 상징성을 바탕으로 보훈의 가치를 현대적인 미디어아트 콘텐츠로 재해석 - 미디어월을 활용해 연중 송출 가능한 보훈 콘텐츠를 발굴하여 시민 일상 속 보훈문화를 확산 - 영상·미디어아트·AI 등 다양한 분야의 창작자 참여를 통해 지속 가능한 보훈 콘텐츠 자산을 확보 공모 주제 □ 주제: 일상 속에서 마주하는 보훈, 빛으로 전하는 가치 공모 대상 □ 영상·미디어아트·AI 등 관련 분야 창작자 및 관심 있는 국민 누구나 □ 개인 / 팀 접수 가능 (※ 팀 5인 이내 제한) □",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35080",
+        "https://www.xn--ob0bxit6rl6ew7as7cgxpjti12ah8eth85kr6yfwqsul.com/"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35080",
+        "originalUrl": "https://www.xn--ob0bxit6rl6ew7as7cgxpjti12ah8eth85kr6yfwqsul.com/",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:806b6c861769efa4245a40908a900b7fbb80ae3e5d40b3cfd493dd6900c6b5cb",
+      "dedupeKey": "discovered:5e488b4323af9d4af9c009f6bdf301160cc5039fb201f18749a16d7c7bb69b97",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.xn--ob0bxit6rl6ew7as7cgxpjti12ah8eth85kr6yfwqsul.com/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_b668321fc7bda7984b23": {
+      "id": "opp_b668321fc7bda7984b23",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35072",
+      "canonicalUrl": "https://jongnonoin.or.kr/bbs/board.php?bo_table=050101&wr_id=2794",
+      "title": "2026년 ECO RE:ART 에코스테이션 자원재순환 창작공모전",
+      "organization": "종로노인종합복지관",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-09-18T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "○ 공모개요 - 버려지는 자원에 새로운 가치를 더하는 정크아트의 의미를 알리고 환경보호와 자원재순환의 중요성을 함께 공감할 수 있는 공모전을 통해 주민참여 친환경 문화를 조성하고자 함 ○ 공모주제 [정크아트] - 업사이클링을 제외한 순수 예술적 작품 - 일상에서 버려지는 자원을 활용한 작품 - 폐자원을 활용하여 제작한 전시성 있는 작품 [영상] - 자원재순환, 환경보호 메시지가 담긴 영상 - 브이로그, 취재, 드라마, 패러디, 애니메이션 등 장르 무관 ○ 기간 및",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35072",
+        "https://jongnonoin.or.kr/bbs/board.php?bo_table=050101&wr_id=2794"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35072",
+        "originalUrl": "https://jongnonoin.or.kr/bbs/board.php?bo_table=050101&wr_id=2794",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:59f68712deb75e2c99db0f036f3cb91dbb3a2af3d86f092e1d85c7278b234f71",
+      "dedupeKey": "discovered:b668321fc7bda7984b23478e8f231683a940cf10c0ff9e7b24eb31848b5d6eda",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://jongnonoin.or.kr/bbs/board.php?bo_table=050101&wr_id=2794",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_9c941313d919ea88ea58": {
+      "id": "opp_9c941313d919ea88ea58",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35059",
+      "canonicalUrl": "https://bswin.net/051about",
+      "title": "2026 제10회 &lt;051영화제> 51초 영화 공모전",
+      "organization": "부산광역시사회복지협의회 / 부산일보사 / 부산광역시",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-31T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "2026 제10회 051영화제 51초 영화 공모전 공모요강 ■ 공모 주제: '연결' - 당신의 이야기가 부산의 내일을 '연결'합니다. - 부산의 지역번호 051에서 시작된 51초 영화가 지난 10년의 시간을 넘어, 이제는 시민과 시민, 현재와 미래를 잇는 '복지의 가교'가 됩니다. - 너와 나, 우리를 단단하게 잇는 ‘연결의 순간’을 51초 영상에 담아주세요. ■ 기간 및 일정 - 51초 영상제출: 2026.7.1(수) 10:00 ~ 7.31.(금) 16:00 - 수상작 발표: 8",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35059",
+        "https://bswin.net/051about"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35059",
+        "originalUrl": "https://bswin.net/051about",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:393757bf8ef42b1f162f00006433db0667097fe71fd15f5b67f552a1f8f23a3e",
+      "dedupeKey": "discovered:9c941313d919ea88ea582e2067ee49bd3432c8d92c5edad6d4823cfd3604abac",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://bswin.net/051about",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_6204bd6d58c55b1bbec0": {
+      "id": "opp_6204bd6d58c55b1bbec0",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35055",
+      "canonicalUrl": "https://jusomap.lx.or.kr/kor/article/ATCL998b3548c/1722?mno=&pageIndex=1&searchCondition=&searchKeyword=",
+      "title": "2026년 주소정보 활용 대국민 공모전",
+      "organization": "행정안전부",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-31T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "「2026년 주소정보 활용 대국민 공모전」 □ 공모주제 [정책아이디어] ① 국민 생활·편의증진 ② 재난·안전 및 사회문제 해결 ③ AI·디지털 혁신 서비스 발굴 ④ 민간활용 확대 및 사업화 모델 창출 [홍보] ① 주소정보 가치확산 ② 주소정보 기반 생활 공감 ③ 자유형식 □ 응모자격 - 국민 누구나 개인 또는 팀을 구성하여 참가 ※ (정책아이디어) 4인이내, (홍보) 3인이내 □ 접수방법 - 참가신청 서류 및 작품파일 이메일(juso@lx.or.kr) 제출 □",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35055",
+        "https://jusomap.lx.or.kr/kor/article/ATCL998b3548c/1722?mno=&pageIndex=1&searchCondition=&searchKeyword="
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35055",
+        "originalUrl": "https://jusomap.lx.or.kr/kor/article/ATCL998b3548c/1722?mno=&pageIndex=1&searchCondition=&searchKeyword=",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:2f548203603508fc3a601b229f317ff8b9da03b2629a0b8e2fa6e0b2cf02f293",
+      "dedupeKey": "discovered:6204bd6d58c55b1bbec063779f097741ca64cf88596c0d1fbdcae374bd5b3d33",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://jusomap.lx.or.kr/kor/article/ATCL998b3548c/1722?mno=&pageIndex=1&searchCondition=&searchKeyword=",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_7c776557e6aee574344b": {
+      "id": "opp_7c776557e6aee574344b",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35046",
+      "canonicalUrl": "https://litt.ly/kord",
+      "title": "희귀·난치성질환 인식개선 콘텐츠 공모전",
+      "organization": "(사)한국희귀·난치성질환연합회·한국글로벌의약산업협회(KRPIA)",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-31T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "[한 줄 소개] 희귀•난치성질환 이야기를 영상•이미지로 — 보건복지부 장관상• 총상금 1,000만원. 응모 완료 선착순 100명 기프티콘 증정! [공모 개요] • 주최•주관: (사)한국희귀·난치성질환연합회·한국글로벌의약산업협회(KRPIA) / 후원: 보건복지부·질병관리청 • 접수 기간: 2026. 7. 20.(월) ~ 2026. 8. 31.(월) • 참여 대상: 전 국민 누구나 (만 14세 미만 아동은 법정대리인 사전 동의 필수) [공모 주제] (둘 중 선택) • 주제 1. 희귀질환, 우리",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35046",
+        "https://litt.ly/kord"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35046",
+        "originalUrl": "https://litt.ly/kord",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:f1fc3c5575d11fd3ce6407e40fdc1570729281db86947fb2ee5b8996227126ec",
+      "dedupeKey": "discovered:7c776557e6aee574344be4d1247d25b3af0ecfa320eed03703f7c932e17e7503",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://litt.ly/kord",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_27df0bf16664b7957af0": {
+      "id": "opp_27df0bf16664b7957af0",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35039",
+      "canonicalUrl": "https://cpsrcosmetic.or.kr/",
+      "title": "2026 숏폼 영상 공모전 - 안전한 화장품, 함께 만들어요!",
+      "organization": "식품의약품안전처",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-20T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "2026 숏폼 영상 공모전 「안전한 화장품, 함께 만들어요!」 공고 식품의약품안전처와 화장품안전성평가지원추진단은 화장품 안전성 평가 제도에 대한 국민적 이해와 공감대를 확산하고, 소비자 안심 및 K뷰티 신뢰도 제고를 위해 「2026 숏폼 영상 공모전」을 아래와 같이 개최하오니 많은 관심과 참여 바랍니다. □ 공모주제 - 화장품 안전성 평가의 필요성과 가치를 쉽고 재미있게 알리는 쇼츠영상 - 소비자 안심과 K뷰티 신뢰를 높이는 화장품 안전성평가 홍보 영상 □ 모집기간 2026. 7. 20.(월",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35039",
+        "https://cpsrcosmetic.or.kr"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35039",
+        "originalUrl": "https://cpsrcosmetic.or.kr",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:a1900af9a789959b24b77577f2a219e841cc1296779143f0586f5f8c079dcd2a",
+      "dedupeKey": "discovered:27df0bf16664b7957af013971368d2bbc485268216357e330e99c952ff754202",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://cpsrcosmetic.or.kr/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_6ce3a8e8574efe2b63ed": {
+      "id": "opp_6ce3a8e8574efe2b63ed",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35038",
+      "canonicalUrl": "https://www.blaybus.com/activities/928/landing",
+      "title": "[해커톤] 2026 스타트업 영그라운드 MVP 개발 해커톤(~7/30)",
+      "organization": "강동구청년해냄센터/블레이버스",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-30T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "\"이력서에 링크 하나 붙일 수 있습니까?\" 강동구 청년해냄센터와 blaybus가 IT 청년 100명을 모집합니다. 토이 프로젝트 100개보다, 검증된 MVP 하나가 진짜 살아남는 아이템이죠. 검증된 예비 창업팀의 아이템을 현실화할 지원자를 찾습니다! 마감은 7월 30일 자정.(얼마남지 않았습니다👀) 📌 참여 안내 · 지원 기간: 2026.07.10.(금) ~ 07.30.(목) 자정 · 프로그램 기간: 2026.08.01.(토) ~ 08.20.(목) · 파이널데이: 2026.08.20.(목",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35038",
+        "https://www.blaybus.com/activities/928/landing?utm_source=campuspick&utm_medium=contest&utm_campaign=mvp_hack_2026"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35038",
+        "originalUrl": "https://www.blaybus.com/activities/928/landing?utm_source=campuspick&utm_medium=contest&utm_campaign=mvp_hack_2026",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:a2fd4d85979830e6c83883b13469d3802462f9f3804a9d447f00a1ae55950005",
+      "dedupeKey": "discovered:6ce3a8e8574efe2b63ed5cde6b88b674e1499ba8d8582398c29428c0fdfdb44c",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.blaybus.com/activities/928/landing",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_a37123f1ede61861890b": {
+      "id": "opp_a37123f1ede61861890b",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35034",
+      "canonicalUrl": "https://brand.naver.com/woongjinfood",
+      "title": "[웅진식품] 제2회 생차(生茶)-LOG AI 숏필름 공모전",
+      "organization": "웅진식품(주)",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-09T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "🔥 뜨거운 반응으로 돌아온 생차-LOG 🔥 📢 제2회 생차(生茶)-LOG AI 숏필름 공모전 START! 1회에 보내주신 뜨거운 관심에 힘입어, 더 다채로운 아이디어와 함께 제2회 생차-LOG가 시작됩니다💚 신제품 '생차 녹차 · 호지차🌱' 는 갓 수확한 국산 생찻잎을 우려내 떫은 맛은 줄이고, 신선하고 깔끔한 풍미를 담은 차음료입니다. 여러분만의 감각과 AI를 더해, 일상의 떨떠름한 순간이 '생차'와 함께 신선하고 기분 좋은 순간으로 바뀌는 이야기를 자유롭게 표현해주세요✨ 📌",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35034",
+        "https://brand.naver.com/woongjinfood"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35034",
+        "originalUrl": "https://brand.naver.com/woongjinfood",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:db540c2245fe373e2c15967d73fc0b3a80c125afc0af61808e9ac55c2d808623",
+      "dedupeKey": "discovered:a37123f1ede61861890b6533e2d38aa5ab29f13d468684ce443b585bfffee2f1",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "원문 URL 접근 실패: HTTP 429"
+      },
+      "verification": {
+        "ok": false,
+        "status": 429,
+        "finalUrl": "https://brand.naver.com/woongjinfood",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_ec5ed01a76df075612d9": {
+      "id": "opp_ec5ed01a76df075612d9",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35031",
+      "canonicalUrl": "https://www.kaami.or.kr/",
+      "title": "2026 자율주행 해커톤 경진대회(AMET) 안내",
+      "organization": "한국자율주행산업협회",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-22T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "2026 자율주행 해커톤 경진대회(2026 AMET)를 2026년 8월 25일(화)부터 8월 27일(목)까지 Coex Hall B에서 개최합니다. 산업통상부, 현대모비스, HL클레무브와 함께하는 이번 대회는 자율주행 분야의 미래를 이끌어갈 여러분의 도전을 응원합니다. 자율주행 분야에 관심 있는 대학(원)생 여러분의 많은 관심과 참여를 부탁드립니다. ※ 자세한 사항은 아래 홈페이지를 참고해 주시기 바랍니다. https://www.kaami.or.kr/notice/event/read.jsp?reqPa",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35031",
+        "https://www.kaami.or.kr/"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35031",
+        "originalUrl": "https://www.kaami.or.kr/",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:967e0a391ad549b999f9df8d38b08b162cea18baa43b40b33310a84a5d6871fc",
+      "dedupeKey": "discovered:ec5ed01a76df075612d96e309878c7ed8077f82643854be8419dc7b542cd69fd",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://hosting.vizensoft.com/throttle.html",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_025d2e05b5158bb3696f": {
+      "id": "opp_025d2e05b5158bb3696f",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "campuspick",
+      "externalId": "35097",
+      "canonicalUrl": "https://tenspoon.imweb.me/",
+      "title": "[십시일밥] 2026년 하반기 신입 사무국원 모집 (~08.02 마감)",
+      "organization": "십시일밥",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-02T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "대외활동",
+        "개발"
+      ],
+      "summary": "\"면접에서 십시일밥 활동을 어필했더니 면접관이 구체적인 성과까지 질문하며 관심을 보여주셨어요.\" — 前 사무국원 취업 포트폴리오가 되는 대외활동을 찾고 있다면, 십시일밥과 함께하세요. 청년 빈곤 문제 해결을 위해 활동하는 서울시 공인 비영리 민간 단체 십시일밥🍚✨ 현재 150여 명 이상의 봉사자와 함께 전국 대학생 대상 식권 나눔 프로젝트를 운영하고 있으며, 함께 성장해나갈 새로운 사무국원을 모집합니다. —------------------------------------------------",
+      "summaryEvidence": [
+        "https://www.campuspick.com/activity/view?id=35097",
+        "https://tenspoon.imweb.me/"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/activity/view?id=35097",
+        "originalUrl": "https://tenspoon.imweb.me/",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:7090ff072bdc4d7449a189fae1fd510c8b0c16c2d20d8dea1e10570713e5d1b9",
+      "dedupeKey": "discovered:025d2e05b5158bb3696fd4489c5a6bbfe72858f0fea44ab28f54f18e0a191d23",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://tenspoon.imweb.me/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_575406cd8fd2bc8b5eeb": {
+      "id": "opp_575406cd8fd2bc8b5eeb",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "campuspick",
+      "externalId": "35090",
+      "canonicalUrl": "https://forms.gle/UN4iU7Gosj2i9NSNA",
+      "title": "코드하나 SW·AI교육서포터즈 코더스(coderS) 5기 모집",
+      "organization": "(주)코드하나",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-02T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "대외활동",
+        "개발"
+      ],
+      "summary": "🌟 알파세대에게 SW·AI를 전하는 최신 멘토가 되어보세요! 👩‍🏫 보조 강사 경험부터 커리큘럼 제작까지, 직접 참여하며 성장하는 기회! 📜 수료증과 봉사활동 인증까지! 코더스 5기, 지금 바로 도전하세요 🚀 🚀안녕하세요 코드하나 SW교육운영팀입니다. (주)코드하나에서 SW·AI 교육서포터즈 코더스(coderS) 5기를 모집합니다. 코더스(coderS)란, 알파세대에게 요즘 소통방식으로 요즘 언어를 쉽게 알려주는 요즘 멘토들의 모임을 의미합니다. 코더스 활동을 통해 코드",
+      "summaryEvidence": [
+        "https://www.campuspick.com/activity/view?id=35090",
+        "https://forms.gle/UN4iU7Gosj2i9NSNA"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/activity/view?id=35090",
+        "originalUrl": "https://forms.gle/UN4iU7Gosj2i9NSNA",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:4dedea816c791149c12e90fcef85dc23316c8abf051042706d05895922e77b5e",
+      "dedupeKey": "discovered:575406cd8fd2bc8b5eebfc8837933aa5da4bd1f11cc5c539e627c0b585dbd027",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+      }
+    },
+    "opp_19d634198439ac96dafc": {
+      "id": "opp_19d634198439ac96dafc",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "campuspick",
+      "externalId": "35082",
+      "canonicalUrl": "https://learncle.com/event/sCgsj",
+      "title": "충청권 ICT이노베이션스퀘어 개발 역량 강화 멘토링",
+      "organization": "세종테크노파크",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-24T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "대외활동",
+        "개발"
+      ],
+      "summary": "| 사업명 : 2026년 충청권 ICT이노베이션스퀘어 개발 역량 강화 멘토링 사업 | 공모주제 : AI, SW, ICT를 통한 프로젝트 개발 | 모집 대상 : 충청권 ICT이노베이션 스퀘어 교육 수료자· 대학생· 예비창업자· 재직자· 지역기업 실무자 등 33팀 ( 팀별 1~4인 구성 ) ** 소재지가 타지역, 학교및 소속이 충청권 => 신청가능 O ** 소재지가 충청권, 학교 및 소속이 타지역 => 신청가능 O ** 소재지, 학교 및 소속이 타지역인 팀원 보유 => 팀별 50% 이",
+      "summaryEvidence": [
+        "https://www.campuspick.com/activity/view?id=35082",
+        "https://learncle.com/event/sCgsj"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/activity/view?id=35082",
+        "originalUrl": "https://learncle.com/event/sCgsj",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:140478adefc00b37e6304e1f8f0b0bcf576086fec9552a2446bad290cf72f5b5",
+      "dedupeKey": "discovered:19d634198439ac96dafc59965be45c2770cf3aa8530b255248447ab7ce59d114",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+      }
+    },
+    "opp_5a005ac3dfa8a20a7ca6": {
+      "id": "opp_5a005ac3dfa8a20a7ca6",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "campuspick",
+      "externalId": "35063",
+      "canonicalUrl": "https://blog.naver.com/PostView.naver?blogId=mceekorea&logNo=224340557686&categoryNo=14&parentCategoryNo=14&from=thumbnailList",
+      "title": "2026 원료·제조물 분야 중대시민재해 홍보단",
+      "organization": "기후에너지환경부",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-22T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "대외활동",
+        "개발"
+      ],
+      "summary": "■ 대외 활동명 2026 원료·제조물 분야 중대시민재해 홍보단 2기 모집 ■ 모집 대상 (1) 글, 사진, 영상, 웹툰 등 다양한 디지털콘텐츠 직접 제작 능력이 있는 사람 (2) 취재 활동에 열정이 있는 개인 블로그 채널 운영자 (3) 안전과 관련된 콘텐츠를 업로드한 이력이 있다면 가산점 부여 ■ 모집 기간 2026.07.08 (수) ~ 2026.07.22(수) ※ 마감일 23:59까지 지원서 접수 완료 ※ 우편/방문 접수 불가, 접수된 자료와 서류는 반환하지 않음 (제출 후 수정 불가) ■",
+      "summaryEvidence": [
+        "https://www.campuspick.com/activity/view?id=35063",
+        "https://blog.naver.com/PostView.naver?blogId=mceekorea&logNo=224340557686&categoryNo=14&parentCategoryNo=14&from=thumbnailList"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/activity/view?id=35063",
+        "originalUrl": "https://blog.naver.com/PostView.naver?blogId=mceekorea&logNo=224340557686&categoryNo=14&parentCategoryNo=14&from=thumbnailList",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:f1dfef924d054e4837d85535fd54e2624895040e7bc607cde1a68be04056e02f",
+      "dedupeKey": "discovered:5a005ac3dfa8a20a7ca6206f58a4a4293984aa611ca2085bfd6ab94f10ae2685",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://blog.naver.com/PostView.naver?blogId=mceekorea&logNo=224340557686&categoryNo=14&parentCategoryNo=14&from=thumbnailList",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_ab6c5b37917be943c797": {
+      "id": "opp_ab6c5b37917be943c797",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "ticketa",
+      "externalId": "j6qfe3id",
+      "canonicalUrl": "https://ticketa.co/event/j6qfe3id",
+      "title": "맞다AI가 7월 밋업 - 하네스 엔지니어링의 모든 것",
+      "organization": "matdaaiga",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-22T09:00:00+00:00",
+      "locations": [
+        "대구",
+        "동구",
+        "대구스케일업허브"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "개발자 행사"
+      ],
+      "summary": "대구스케일업허브 · 행사 시작 전 신청",
+      "summaryEvidence": [
+        "https://ticketa.co/event/j6qfe3id"
+      ],
+      "attributes": {
+        "sourcePriority": 70,
+        "developmentOutput": false,
+        "immediateCategory": true
+      },
+      "contentHash": "sha256:ac585221214122a6a1b0432d02328a6344e4206579947a59dcb804ab97c7b47e",
+      "dedupeKey": "discovered:ab6c5b37917be943c79785842543d8fc253ab0a6b33a975b53a7896f016500f8",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://ticketa.co/event/j6qfe3id",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_3778598e6079324e8d52": {
+      "id": "opp_3778598e6079324e8d52",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "ticketa",
+      "externalId": "c99wxzdg",
+      "canonicalUrl": "https://ticketa.co/event/c99wxzdg",
+      "title": "멀티 에이전트 워크샵 with GitHub Copilot",
+      "organization": "msftkrdevrel",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-14T01:00:00+00:00",
+      "locations": [
+        "서울",
+        "종로구",
+        "한국마이크로소프트"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "개발자 행사"
+      ],
+      "summary": "한국마이크로소프트 · 행사 시작 전 신청",
+      "summaryEvidence": [
+        "https://ticketa.co/event/c99wxzdg"
+      ],
+      "attributes": {
+        "sourcePriority": 70,
+        "developmentOutput": false,
+        "immediateCategory": true
+      },
+      "contentHash": "sha256:9a3ef4c02505e20eb727af076197f5645c49d702fe7462fd434788a804676df8",
+      "dedupeKey": "discovered:3778598e6079324e8d5265c0ca939b3b18682f8f586dff7320045549d5f30734",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://ticketa.co/event/c99wxzdg",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_07a91ee5026b6f225e5d": {
+      "id": "opp_07a91ee5026b6f225e5d",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "ticketa",
+      "externalId": "4abv3eo7",
+      "canonicalUrl": "https://ticketa.co/event/4abv3eo7",
+      "title": "AX 시대를 위한 AWS AI 활용 전략: 서버리스 아키텍처와 AI 보안 실전 가이드",
+      "organization": "zgqbxladtv",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-25T04:00:00+00:00",
+      "locations": [
+        "서울",
+        "강서구",
+        "디캠프"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "개발자 행사"
+      ],
+      "summary": "디캠프 · 행사 시작 전 신청",
+      "summaryEvidence": [
+        "https://ticketa.co/event/4abv3eo7"
+      ],
+      "attributes": {
+        "sourcePriority": 70,
+        "developmentOutput": false,
+        "immediateCategory": true
+      },
+      "contentHash": "sha256:c927d2ae0998f976295e426ebfdcc76ce48aebc0e4562e403e341e907105fd9c",
+      "dedupeKey": "discovered:07a91ee5026b6f225e5d778bcdc03481502ba81c1d2986ea15a0e9073c266ffc",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://ticketa.co/event/4abv3eo7",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_799dfe869b8d0d040de0": {
+      "id": "opp_799dfe869b8d0d040de0",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "ticketa",
+      "externalId": "jxxdbwmn",
+      "canonicalUrl": "https://ticketa.co/event/jxxdbwmn",
+      "title": "맞다톤 | 바이브 코딩으로 하루 만에 AI 서비스 MVP 완성",
+      "organization": "matdaaiga",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-22T00:00:00+00:00",
+      "locations": [
+        "대구",
+        "중구"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "개발자 행사"
+      ],
+      "summary": "행사 장소 상세 확인 · 행사 시작 전 신청",
+      "summaryEvidence": [
+        "https://ticketa.co/event/jxxdbwmn"
+      ],
+      "attributes": {
+        "sourcePriority": 70,
+        "developmentOutput": false,
+        "immediateCategory": true
+      },
+      "contentHash": "sha256:e98e0e42402ad8bf478c342c623f5ce412372541bc36935f3f01c897f6f5da15",
+      "dedupeKey": "discovered:799dfe869b8d0d040de0ecff89901bd14c331e1170bf7ce89b76c268b6c7480d",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://ticketa.co/event/jxxdbwmn",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_5a9de8b8d5c9b3132b6e": {
+      "id": "opp_5a9de8b8d5c9b3132b6e",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "eventus",
+      "externalId": "129466",
+      "canonicalUrl": "https://event-us.kr/nccf/event/129466",
+      "title": "시니어와 AI 기술, 우리의 미래를 보다",
+      "organization": "ncfoundation",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-21T12:00:00+00:00",
+      "locations": [
+        "서울/경기/인천",
+        "서울 종로구",
+        "NC문화재단 지하1층 Stage Black"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "IT/프로그래밍",
+        "강연/세미나",
+        "개발자 행사"
+      ],
+      "summary": "강연/세미나 · 서울 종로구",
+      "summaryEvidence": [
+        "https://event-us.kr/nccf/event/129466"
+      ],
+      "attributes": {
+        "sourcePriority": 70,
+        "developmentOutput": false,
+        "immediateCategory": true
+      },
+      "contentHash": "sha256:633ea5da6f09a204657a858ee1612467f3f466c24a9f41465635279807f297c1",
+      "dedupeKey": "discovered:5a9de8b8d5c9b3132b6ebac6c7942766eab0b7b6f3930c5a1d6156b7ab5a3133",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://event-us.kr/nccf/event/129466",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_5287fac2dd4be1e05ea7": {
+      "id": "opp_5287fac2dd4be1e05ea7",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "eventus",
+      "externalId": "127906",
+      "canonicalUrl": "https://event-us.kr/bsco20121129/event/127906",
+      "title": "부산주민운동교육원 주민조직화 아카데미-AI로 풀어내는 주민조직화 성과 측정 (feat. 척도, 관계망)",
+      "organization": "부산주민운동교육원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-24T08:00:00+00:00",
+      "locations": [
+        "부산/울산/경남",
+        "부산 연제구",
+        "코리아빌딩 8층 부산인권센터 인권배움터"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "기타",
+        "강연/세미나",
+        "개발자 행사"
+      ],
+      "summary": "강연/세미나 · 부산 연제구",
+      "summaryEvidence": [
+        "https://event-us.kr/bsco20121129/event/127906"
+      ],
+      "attributes": {
+        "sourcePriority": 70,
+        "developmentOutput": false,
+        "immediateCategory": true
+      },
+      "contentHash": "sha256:bf41ff56967f70d3aad5d9a4b636b5737c18890566ed499043d8fd42966f61cb",
+      "dedupeKey": "discovered:5287fac2dd4be1e05ea75868383c855de3c312f61107449795a5d35341bc84bc",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://event-us.kr/bsco20121129/event/127906",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_56d9570760f70d48cbc2": {
+      "id": "opp_56d9570760f70d48cbc2",
+      "type": "HACKATHON",
+      "sourceId": "dacon-ai-competitions",
+      "externalId": "competition-236727",
+      "canonicalUrl": "https://dacon.io/competitions/official/236727/overview/description",
+      "title": "제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026",
+      "organization": "DACON",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-14T09:59:59+09:00",
+      "locations": [
+        "온라인"
+      ],
+      "eligibility": [
+        "참가 자격 상세 확인"
+      ],
+      "tags": [
+        "알고리즘",
+        "사전 워크샵",
+        "정형",
+        "회귀",
+        "에너지",
+        "정산금",
+        "NMAE"
+      ],
+      "summary": "알고리즘 · 사전 워크샵 · 정형 · 회귀 · 에너지 · 정산금 · NMAE 분야 AI·개발 경진대회",
+      "summaryEvidence": [
+        "https://dacon.io/competitions/official/236727/overview/description"
+      ],
+      "attributes": {
+        "developmentOutput": true,
+        "sourcePriority": 60
+      },
+      "contentHash": "sha256:2aa1a52e707e9fa2a80fae2416d1257e5c0af9f99dcc3b0759963390448f15b9",
+      "dedupeKey": "discovered:56d9570760f70d48cbc2b1c82a31da8fe8d64df957fb3e51089c2a6e65e79707",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://dacon.io/competitions/official/236727/overview/description",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_6de314c9c206bedf3721": {
+      "id": "opp_6de314c9c206bedf3721",
+      "type": "HACKATHON",
+      "sourceId": "dacon-ai-competitions",
+      "externalId": "hackathon-55243a57-4641-442e-a53b-f62772cd64c5",
+      "canonicalUrl": "https://daker.ai/public/hackathons/2026-finance-ai-challenge",
+      "title": "2026 금융 AI Challenge: 상상을 넘어 실제로, AI로 움직이는 금융의 미래",
+      "organization": "금융보안원",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-10-23T10:00:00+09:00",
+      "locations": [
+        "온라인"
+      ],
+      "eligibility": [
+        "참가 자격 상세 확인"
+      ],
+      "tags": [
+        "AI",
+        "개발",
+        "해커톤"
+      ],
+      "summary": "팀 빌딩과 결과물 구현을 포함하는 AI·개발 해커톤",
+      "summaryEvidence": [
+        "https://daker.ai/public/hackathons/2026-finance-ai-challenge"
+      ],
+      "attributes": {
+        "developmentOutput": true,
+        "sourcePriority": 60
+      },
+      "contentHash": "sha256:53295b945634a33d8972185b525daaf20161cea7b0bf8e5afc17c544f72d0096",
+      "dedupeKey": "discovered:6de314c9c206bedf3721cb5bf4cb7abdf04f2e4221b202b8f09e23671081fb1d",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://daker.ai/public/hackathons/2026-finance-ai-challenge",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_cbfc6ea59bc7bb6719f8": {
+      "id": "opp_cbfc6ea59bc7bb6719f8",
+      "type": "HACKATHON",
+      "sourceId": "dacon-ai-competitions",
+      "externalId": "hackathon-72543eac-0a36-4c68-a0c9-0d7ae8275664",
+      "canonicalUrl": "https://daker.ai/public/hackathons/media-stats-analysis-competition",
+      "title": "언론 통계 분석·활용 경진대회",
+      "organization": "한국언론진흥재단",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-24T10:00:00+09:00",
+      "locations": [
+        "온라인"
+      ],
+      "eligibility": [
+        "참가 자격 상세 확인"
+      ],
+      "tags": [
+        "AI",
+        "개발",
+        "해커톤"
+      ],
+      "summary": "팀 빌딩과 결과물 구현을 포함하는 AI·개발 해커톤",
+      "summaryEvidence": [
+        "https://daker.ai/public/hackathons/media-stats-analysis-competition"
+      ],
+      "attributes": {
+        "developmentOutput": true,
+        "sourcePriority": 60
+      },
+      "contentHash": "sha256:53b124512e1ab7131f6646882ca2fc3d995cb6777781bf2f44917ff0f3dad389",
+      "dedupeKey": "discovered:cbfc6ea59bc7bb6719f871d7cf0f3196ab6382b9232d14d668062af0f549d24a",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://daker.ai/public/hackathons/media-stats-analysis-competition",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_017cd4d444f8d6045dc6": {
+      "id": "opp_017cd4d444f8d6045dc6",
+      "type": "HACKATHON",
+      "sourceId": "dacon-ai-competitions",
+      "externalId": "hackathon-ae1d9c81-9328-4733-902c-b093561b566c",
+      "canonicalUrl": "https://daker.ai/public/hackathons/world-cup-manager-tactics-web-challenge",
+      "title": "월간 해커톤: 내가 축구 감독이라면 - 월드컵 전술 웹서비스 챌린지",
+      "organization": "데이콘",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-18T23:59:00+09:00",
+      "locations": [
+        "온라인"
+      ],
+      "eligibility": [
+        "참가 자격 상세 확인"
+      ],
+      "tags": [
+        "AI",
+        "개발",
+        "해커톤"
+      ],
+      "summary": "팀 빌딩과 결과물 구현을 포함하는 AI·개발 해커톤",
+      "summaryEvidence": [
+        "https://daker.ai/public/hackathons/world-cup-manager-tactics-web-challenge"
+      ],
+      "attributes": {
+        "developmentOutput": true,
+        "sourcePriority": 60
+      },
+      "contentHash": "sha256:00a96d6fb08a59c5fb177d1acb7dfe9ed71044d2a683b61611f97aa1a69a1c8a",
+      "dedupeKey": "discovered:017cd4d444f8d6045dc6913e0a327f8d5e001f46d9dbe476b80dd0f269681fa2",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://daker.ai/public/hackathons/world-cup-manager-tactics-web-challenge",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_82f925fe13ea71bea333": {
+      "id": "opp_82f925fe13ea71bea333",
+      "type": "HACKATHON",
+      "sourceId": "dacon-ai-competitions",
+      "externalId": "hackathon-33e970e9-3101-4e12-bec6-55609f0a9718",
+      "canonicalUrl": "https://daker.ai/public/hackathons/quantum-service-innovation-challenge-megazonecloud",
+      "title": "Quantum Reframing Challenge 2026",
+      "organization": "메가존 클라우드, KISTI, 한국양자융합센터",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-20T10:00:00+09:00",
+      "locations": [
+        "온라인"
+      ],
+      "eligibility": [
+        "참가 자격 상세 확인"
+      ],
+      "tags": [
+        "AI",
+        "개발",
+        "해커톤"
+      ],
+      "summary": "팀 빌딩과 결과물 구현을 포함하는 AI·개발 해커톤",
+      "summaryEvidence": [
+        "https://daker.ai/public/hackathons/quantum-service-innovation-challenge-megazonecloud"
+      ],
+      "attributes": {
+        "developmentOutput": true,
+        "sourcePriority": 60
+      },
+      "contentHash": "sha256:03bd5472c8bc993cb54893a70dca56530169e9a265347058fc5245fc9a3d21a6",
+      "dedupeKey": "discovered:82f925fe13ea71bea333bd490741326aea0772dc2999ba603d3fb211423e43dd",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://daker.ai/public/hackathons/quantum-service-innovation-challenge-megazonecloud",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
+      }
+    },
+    "opp_2d72e6dccc83bfe27799": {
+      "id": "opp_2d72e6dccc83bfe27799",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "gdg-korea-events",
+      "externalId": "https://gdg.community.dev/events/details/google-gdg-korea-android-presents-gdg-korea-android-2026-io-extended/",
+      "canonicalUrl": "https://gdg.community.dev/events/details/google-gdg-korea-android-presents-gdg-korea-android-2026-io-extended",
+      "title": "GDG Korea Android: 2026 I/O Extended",
+      "organization": "Google Developer Groups",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-25T13:30:00+09:00",
+      "locations": [
+        "서울특별시"
+      ],
+      "eligibility": [
+        "참가 자격 상세 확인"
+      ],
+      "tags": [
+        "개발자 행사",
+        "커뮤니티",
+        "AI"
+      ],
+      "summary": "안녕하세요, 안드로이드 개발자 여러분! 2026 I/O Extended Android는 Google I/O에서 공개된 Android 생태계의 최신 소식과 기술 흐름을 함께 살펴보고, 국내 Android 개발자들과 경험을 나누는 커뮤니티 행사입니다. 올해 행사에서는 Android 플랫폼의 변화부터 개발 도구, Android CLI, On-device AI, App functions 핸즈온까지 Android 개발자가 주목할 만한 다양한 주제를 다룹니다.",
+      "summaryEvidence": [
+        "https://gdg.community.dev/events/details/google-gdg-korea-android-presents-gdg-korea-android-2026-io-extended/"
+      ],
+      "attributes": {
+        "developmentOutput": false,
+        "immediateCategory": true,
+        "eventStartsAt": "2026-07-25T13:30:00+09:00",
+        "sourcePriority": 60
+      },
+      "contentHash": "sha256:23e31a19f0aaf740a315f45228e1e45c61a64601a616eb1774255ec67483fbe8",
+      "dedupeKey": "discovered:2d72e6dccc83bfe27799f115735cb0a6dbdead7066d18f4495270d4ca6c14159",
+      "firstSeenAt": "2026-07-20T12:31:00.993Z",
+      "lastSeenAt": "2026-07-20T12:31:00.993Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "DEFERRED",
+        "reason": "실행당 발송 상한 10건 초과"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://gdg.community.dev/events/details/google-gdg-korea-android-presents-gdg-korea-android-2026-io-extended/",
+        "checkedAt": "2026-07-20T12:31:00.993Z"
       }
     }
   },
@@ -1191,8 +3559,89 @@
       "opportunityId": "opp_b64a887b14e47e172b22",
       "sentAt": "2026-07-20T08:10:29.734Z",
       "messageId": "1528675459750166610"
+    },
+    "discovered:83b039ad6c81db639e9fbee2c2ad729245a12e9b0bd22108f13d554e00f74b98": {
+      "status": "SENT",
+      "opportunityId": "opp_83b039ad6c81db639e9f",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741064041562314"
+    },
+    "discovered:9b95119c11349d288260ec616721a03ada80eda4bbdf3bb0a8bc4fcc152b607f": {
+      "status": "SENT",
+      "opportunityId": "opp_9b95119c11349d288260",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741067879616593"
+    },
+    "discovered:9538879bf936bb90b37fb3bcfd6176314e24924eb372d8c11b9ba9d7ffa0f2ac": {
+      "status": "SENT",
+      "opportunityId": "opp_9538879bf936bb90b37f",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741071541239830"
+    },
+    "discovered:7504931075bd1022b492936167e3d277fb8c270ca9553909c44a5d1a7b449ed3": {
+      "status": "SENT",
+      "opportunityId": "opp_7504931075bd1022b492",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741074452090994"
+    },
+    "discovered:e39d302f321a873d7a9205869435e7b17bd60a307012dbcdb7fff3b4824e6f3f": {
+      "status": "SENT",
+      "opportunityId": "opp_e39d302f321a873d7a92",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741076918210703"
+    },
+    "discovered:c1238bf222a944774eab541794ab722a7a3b64c00600cf9d45e2dd66717bff8a": {
+      "status": "SENT",
+      "opportunityId": "opp_c1238bf222a944774eab",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741082362417214"
+    },
+    "discovered:5d0423c041b5e7265ce2fb450f1c1c2fb7e9b37bb7bc25ed49bbd19c7e38b65c": {
+      "status": "SENT",
+      "opportunityId": "opp_5d0423c041b5e7265ce2",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741087739379784"
+    },
+    "discovered:85762413124f55bb4139a529023962f77f1ccd48f8869dfaf28b7b9652887905": {
+      "status": "SENT",
+      "opportunityId": "opp_85762413124f55bb4139",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741092424548453"
+    },
+    "discovered:ef53ea8e47c63e400830679b6b109c077c99bc26714a0b6a6aba4a68c22fe80b": {
+      "status": "SENT",
+      "opportunityId": "opp_ef53ea8e47c63e400830",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741094982942743"
+    },
+    "discovered:d674bbe33f3113a634e239c67a3ed7b72f218aa8acdc79140e5d989cc8101259": {
+      "status": "SENT",
+      "opportunityId": "opp_d674bbe33f3113a634e2",
+      "sentAt": "2026-07-20T12:31:00.993Z",
+      "messageId": "1528741098028273787"
     }
   },
-  "pending": {},
+  "pending": {
+    "opp_8a4ed24caa5b25f965e9": {
+      "createdAt": "2026-07-20T12:31:00.993Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_7f9b69a835c51a776387": {
+      "createdAt": "2026-07-20T12:31:00.993Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_5d5bd707f1033e104858": {
+      "createdAt": "2026-07-20T12:31:00.993Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_575406cd8fd2bc8b5eeb": {
+      "createdAt": "2026-07-20T12:31:00.993Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_19d634198439ac96dafc": {
+      "createdAt": "2026-07-20T12:31:00.993Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    }
+  },
   "feedback": []
 }
