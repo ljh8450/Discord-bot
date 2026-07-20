@@ -2,7 +2,9 @@ name: Opportunity Radar
 
 on:
   schedule:
-    - cron: "7,37 * * * *"
+    # Retry every 10 minutes so a delayed or dropped schedule event is
+    # recovered by the next off-peak invocation.
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -33,6 +35,13 @@ jobs:
           FEEDBACK_BASE_URL: ${{ vars.FEEDBACK_BASE_URL }}
           RADAR_MAX_NOTIFICATIONS_PER_RUN: ${{ vars.RADAR_MAX_NOTIFICATIONS_PER_RUN }}
           SARAMIN_ACCESS_KEY: ${{ secrets.SARAMIN_ACCESS_KEY }}
+      - name: Report successful run heartbeat
+        if: success()
+        continue-on-error: true
+        env:
+          RADAR_HEARTBEAT_URL: ${{ secrets.RADAR_HEARTBEAT_URL }}
+        run: |
+          [ -z "$RADAR_HEARTBEAT_URL" ] || curl --fail --silent --show-error --retry 3 "$RADAR_HEARTBEAT_URL"
       - name: Persist delivery state
         if: always()
         run: |
