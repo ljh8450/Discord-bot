@@ -8,7 +8,8 @@
     "test": "node --test",
     "radar": "node src/cli.js run",
     "recover": "node src/cli.js recover",
-    "dry-run": "node src/cli.js dry-run"
+    "dry-run": "node src/cli.js dry-run",
+    "digest": "node src/digest-cli.js"
   },
   "engines": {
     "node": ">=20"

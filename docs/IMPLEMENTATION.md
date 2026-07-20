@@ -15,6 +15,7 @@
 - 30분 수집 및 일일 복구 GitHub Actions
 - NAVER, NAVER Cloud, NAVER Z, 카카오 테크 공식 채용 출처
 - 실제 발송 없이 후보를 확인하는 npm run dry-run
+- 현재 유효 공고를 한 줄씩 묶어 보내는 npm run digest
 - 중요 필드 변경의 UPDATED 이벤트와 발송 직후 상태 체크포인트
 - JOB, HACKATHON, CONTENT, EXTERNAL_ACTIVITY, EDUCATION 채널 라우터
 
