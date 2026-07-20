@@ -3,7 +3,14 @@ name: Opportunity Daily Digest
 on:
   schedule:
     - cron: "0 0 * * *"
+    - cron: "0 9 * * *"
   workflow_dispatch:
+    inputs:
+      brief_only:
+        description: Send only the developer insights brief
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: opportunity-radar
@@ -22,6 +29,7 @@ jobs:
           node-version: 24
       - run: npm test
       - run: npm run digest
+        if: github.event.schedule == '0 0 * * *' || (github.event_name == 'workflow_dispatch' && inputs.brief_only != true)
         env:
           DISCORD_JOBS_WEBHOOK_URL: ${{ secrets.DISCORD_JOBS_WEBHOOK_URL }}
           DISCORD_OPPORTUNITIES_WEBHOOK_URL: ${{ secrets.DISCORD_OPPORTUNITIES_WEBHOOK_URL }}

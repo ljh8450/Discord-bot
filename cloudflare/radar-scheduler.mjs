@@ -1,5 +1,6 @@
-const DISPATCH_URL =
-  'https://api.github.com/repos/ljh8450/Discord-bot/actions/workflows/opportunity-radar.yml/dispatches';
+const WORKFLOW_API_ROOT =
+  'https://api.github.com/repos/ljh8450/Discord-bot/actions/workflows';
+const DIGEST_CRON = '5 0,9 * * *';
 
 function jsonResponse(body, status = 200, headers = {}) {
   return new Response(JSON.stringify(body), {
@@ -8,10 +9,10 @@ function jsonResponse(body, status = 200, headers = {}) {
   });
 }
 
-export async function dispatchRadar(env) {
+export async function dispatchWorkflow(env, workflowFile, inputs) {
   if (!env.GITHUB_TOKEN) throw new Error('GITHUB_TOKEN is not configured');
 
-  const response = await fetch(DISPATCH_URL, {
+  const response = await fetch(`${WORKFLOW_API_ROOT}/${workflowFile}/dispatches`, {
     method: 'POST',
     headers: {
       accept: 'application/vnd.github+json',
@@ -20,7 +21,7 @@ export async function dispatchRadar(env) {
       'user-agent': 'discord-bot-cloudflare-scheduler',
       'x-github-api-version': '2026-03-10',
     },
-    body: JSON.stringify({ ref: 'main' }),
+    body: JSON.stringify({ ref: 'main', ...(inputs ? { inputs } : {}) }),
   });
   const text = await response.text();
 
@@ -31,10 +32,23 @@ export async function dispatchRadar(env) {
   return { status: response.status, response: text ? JSON.parse(text) : null };
 }
 
+export function dispatchRadar(env) {
+  return dispatchWorkflow(env, 'opportunity-radar.yml');
+}
+
+export function dispatchDigest(env) {
+  return dispatchWorkflow(env, 'opportunity-digest.yml', { brief_only: true });
+}
+
 const worker = {
   async scheduled(controller, env, ctx) {
-    ctx.waitUntil(dispatchRadar(env).then((result) => {
-      console.log('Opportunity Radar dispatch accepted', {
+    const isDigest = controller.cron === DIGEST_CRON;
+    const workflowFile = isDigest ? 'opportunity-digest.yml' : 'opportunity-radar.yml';
+    const dispatch = isDigest ? dispatchDigest(env) : dispatchRadar(env);
+    ctx.waitUntil(dispatch.then((result) => {
+      console.log('GitHub workflow dispatch accepted', {
+        workflowFile,
+        cron: controller.cron,
         scheduledTime: controller.scheduledTime,
         status: result.status,
         workflowRunId: result.response?.workflow_run_id || null,
