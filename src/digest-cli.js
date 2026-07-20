@@ -1,5 +1,6 @@
 const { loadLocalEnv } = require('./config/load-env');
 const { sendOpportunityDigest } = require('./discord/digest');
+const { sendOperationsAlert } = require('./discord/operations-alert');
 const { resolveWebhookUrl } = require('./discord/router');
 const { JsonStore } = require('./store/json-store');
 
@@ -25,7 +26,17 @@ async function main() {
   })}\n`);
 }
 
-main().catch((error) => {
+main().catch(async (error) => {
   process.stderr.write(`${error.stack || error.message}\n`);
+  try {
+    await sendOperationsAlert({
+      command: 'digest',
+      errors: [{ sourceId: 'daily-digest', error: error.message }],
+      warnings: [],
+      report: {},
+    });
+  } catch (alertError) {
+    process.stderr.write(`운영 경고 발송 실패: ${alertError.message}\n`);
+  }
   process.exitCode = 1;
 });

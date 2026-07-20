@@ -39,6 +39,16 @@
       "organization": "카카오",
       "locations": ["경기"],
       "maxPages": 10
+    },
+    {
+      "id": "wanted-entry-developers",
+      "kind": "wanted-careers",
+      "enabled": true,
+      "url": "https://www.wanted.co.kr/api/v4/jobs",
+      "tagTypeId": "518",
+      "years": 0,
+      "maxItems": 40,
+      "detailConcurrency": 5
     }
   ]
 }

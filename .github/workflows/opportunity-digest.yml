@@ -1,0 +1,25 @@
+name: Opportunity Daily Digest
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: opportunity-radar
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm test
+      - run: npm run digest
+        env:
+          DISCORD_JOBS_WEBHOOK_URL: ${{ secrets.DISCORD_JOBS_WEBHOOK_URL }}
+          DISCORD_OPPORTUNITIES_WEBHOOK_URL: ${{ secrets.DISCORD_OPPORTUNITIES_WEBHOOK_URL }}
+          DISCORD_OPERATIONS_WEBHOOK_URL: ${{ secrets.DISCORD_OPERATIONS_WEBHOOK_URL }}

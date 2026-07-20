@@ -4,8 +4,10 @@ const path = require('node:path');
 const { collectAll } = require('./adapters');
 const { loadLocalEnv } = require('./config/load-env');
 const { createCategoryNotifier } = require('./discord/router');
+const { sendOperationsAlert } = require('./discord/operations-alert');
 const { runRadar } = require('./pipeline/run-radar');
 const { JsonStore } = require('./store/json-store');
+const { verifyUrl } = require('./validation/url-verifier');
 
 async function readJson(filePath) {
   return JSON.parse(await readFile(path.resolve(filePath), 'utf8'));
@@ -28,7 +30,10 @@ async function main() {
         save: async () => undefined,
       }
     : persistedStore;
-  const { items, errors } = await collectAll(sourceConfig.sources, { rootDir: process.cwd() });
+  const { items, errors, successfulSourceIds, sourceCounts } = await collectAll(
+    sourceConfig.sources,
+    { rootDir: process.cwd() },
+  );
   if (command === 'recover') {
     const state = await store.load();
     const cutoff = Date.now() - (24 * 60 * 60 * 1000);
@@ -47,8 +52,37 @@ async function main() {
         timezone: profile.timezone,
         feedbackBaseUrl: process.env.FEEDBACK_BASE_URL,
       });
-  const report = await runRadar({ rawItems: items, profile, store, notify });
-  process.stdout.write(`${JSON.stringify({ command, report, sourceErrors: errors, candidates }, null, 2)}\n`);
+  const verifyOpportunityUrl = dryRun || process.env.RADAR_VERIFY_URLS === 'false'
+    ? undefined
+    : (url) => verifyUrl(url);
+  const emptySourceIds = successfulSourceIds.filter((sourceId) => sourceCounts[sourceId] === 0);
+  const checkedSourceIds = successfulSourceIds.filter((sourceId) => sourceCounts[sourceId] > 0);
+  const configuredLimit = Number.parseInt(process.env.RADAR_MAX_NOTIFICATIONS_PER_RUN || '10', 10);
+  const maxNotifications = Number.isInteger(configuredLimit) && configuredLimit > 0
+    ? configuredLimit
+    : 10;
+  const report = await runRadar({
+    rawItems: items,
+    profile,
+    store,
+    notify,
+    checkedSourceIds,
+    verifyOpportunityUrl,
+    maxNotifications,
+  });
+  const warnings = emptySourceIds.map((sourceId) => (
+    `${sourceId}: 수집 결과가 0건이어서 종료 판정을 보류했습니다.`
+  ));
+  if (!dryRun && (errors.length || warnings.length || report.failed)) {
+    try {
+      await sendOperationsAlert({ command, errors, warnings, report });
+    } catch (error) {
+      process.stderr.write(`운영 경고 발송 실패: ${error.message}\n`);
+    }
+  }
+  process.stdout.write(`${JSON.stringify({
+    command, report, sourceErrors: errors, sourceWarnings: warnings, sourceCounts, candidates,
+  }, null, 2)}\n`);
   if (errors.length || report.failed) process.exitCode = 1;
 }
 

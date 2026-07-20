@@ -18,7 +18,11 @@ function formatDate(value, timezone = 'Asia/Seoul') {
 }
 
 function buildWebhookPayload(opportunity, options = {}) {
-  const eventLabel = opportunity.eventType === 'UPDATED' ? '업데이트 · ' : '';
+  const eventLabel = opportunity.eventType === 'UPDATED'
+    ? '업데이트 · '
+    : opportunity.eventType === 'DEADLINE_APPROACHING'
+      ? `${opportunity.deadlineStage || '마감 임박'} · `
+      : '';
   const facts = [
     opportunity.eligibility[0],
     opportunity.locations.join('·'),
@@ -50,7 +54,7 @@ function buildWebhookPayload(opportunity, options = {}) {
       title: `🚀 [${eventLabel}${TYPE_LABELS[opportunity.type]}] ${opportunity.title}`,
       url: opportunity.canonicalUrl,
       description: `${facts}\n한 줄: ${opportunity.summary}`,
-      color: 0x5865f2,
+      color: opportunity.eventType === 'DEADLINE_APPROACHING' ? 0xf59e0b : 0x5865f2,
       footer: { text: `${opportunity.organization || opportunity.sourceId} · ${opportunity.sourceId}` },
     }],
     components: [{ type: 1, components: buttons }],

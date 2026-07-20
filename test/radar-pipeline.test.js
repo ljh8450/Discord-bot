@@ -86,3 +86,91 @@ test('holds conditional education for one run before benefit review', async () =
   assert.equal(second.sent, 1);
   assert.equal(sent.length, 1);
 });
+
+test('refreshes lastSeenAt and closes an item after repeated source absence', async () => {
+  const store = new MemoryStore();
+  const notify = async () => ({ id: 'message' });
+  await runRadar({ rawItems: [rawJob()], profile, store, notify, now });
+  const later = new Date('2026-07-20T01:00:00Z');
+  await runRadar({ rawItems: [rawJob()], profile, store, notify, now: later });
+  let [item] = Object.values(store.state.opportunities);
+  assert.equal(item.lastSeenAt, later.toISOString());
+
+  for (let index = 0; index < 3; index += 1) {
+    await runRadar({
+      rawItems: [], profile, store, notify, now: later,
+      checkedSourceIds: ['official-careers'], missingThreshold: 3,
+    });
+  }
+  [item] = Object.values(store.state.opportunities);
+  assert.equal(item.status, 'CLOSED');
+  assert.equal(item.lifecycle.closeReason, '공식 출처에서 연속 미확인');
+});
+
+test('does not send an approved opportunity when its source URL is unavailable', async () => {
+  const store = new MemoryStore();
+  let sent = 0;
+  const report = await runRadar({
+    rawItems: [rawJob()], profile, store, now,
+    notify: async () => { sent += 1; },
+    verifyOpportunityUrl: async () => ({ ok: false, status: 404 }),
+  });
+  assert.equal(sent, 0);
+  assert.equal(report.rejected, 1);
+  assert.match(Object.values(store.state.opportunities)[0].review.reason, /HTTP 404/);
+});
+
+test('sends D-3, D-1, and same-day deadline reminders once each', async () => {
+  const store = new MemoryStore();
+  const sent = [];
+  const notify = async (item) => {
+    sent.push({ eventType: item.eventType, deadlineStage: item.deadlineStage });
+    return { id: `message-${sent.length}` };
+  };
+  const job = rawJob({ closesAt: '2026-07-23T18:00:00+09:00' });
+
+  await runRadar({
+    rawItems: [job], profile, store, notify,
+    now: new Date('2026-07-19T00:00:00Z'),
+  });
+  const d3 = await runRadar({ rawItems: [job], profile, store, notify, now });
+  const repeatedD3 = await runRadar({ rawItems: [job], profile, store, notify, now });
+  const d1 = await runRadar({
+    rawItems: [job], profile, store, notify,
+    now: new Date('2026-07-22T00:00:00Z'),
+  });
+  const sameDay = await runRadar({
+    rawItems: [job], profile, store, notify,
+    now: new Date('2026-07-23T00:00:00Z'),
+  });
+
+  assert.equal(d3.deadlineSent, 1);
+  assert.equal(repeatedD3.deadlineSent, 0);
+  assert.equal(d1.deadlineSent, 1);
+  assert.equal(sameDay.deadlineSent, 1);
+  assert.deepEqual(sent.map((item) => item.deadlineStage), [undefined, 'D-3', 'D-1', '오늘 마감']);
+});
+
+test('defers notifications beyond the per-run limit and sends them next run', async () => {
+  const store = new MemoryStore();
+  const sent = [];
+  const notify = async (item) => {
+    sent.push(item.externalId);
+    return { id: `message-${sent.length}` };
+  };
+  const jobs = [
+    rawJob({ externalId: 'job-1' }),
+    rawJob({ externalId: 'job-2', url: 'https://example.com/jobs/2' }),
+  ];
+  const limited = await runRadar({
+    rawItems: jobs, profile, store, notify, now, maxNotifications: 1,
+  });
+  const next = await runRadar({
+    rawItems: jobs, profile, store, notify, now, maxNotifications: 1,
+  });
+
+  assert.equal(limited.sent, 1);
+  assert.equal(limited.deferred, 1);
+  assert.equal(next.sent, 1);
+  assert.deepEqual(sent, ['job-1', 'job-2']);
+});

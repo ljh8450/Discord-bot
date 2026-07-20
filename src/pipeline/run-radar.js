@@ -2,6 +2,31 @@ const { applyProfileFilter } = require('../domain/filter');
 const { normalizeOpportunity } = require('../domain/opportunity');
 const { assessBenefit, validateMinimum } = require('../domain/validation');
 
+function localDayNumber(value, timezone) {
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: timezone,
+    year: 'numeric',
+    month: 'numeric',
+    day: 'numeric',
+  }).formatToParts(value);
+  const part = (type) => Number(parts.find((item) => item.type === type)?.value);
+  return Date.UTC(part('year'), part('month') - 1, part('day')) / 86_400_000;
+}
+
+function createDeadlineEvent(opportunity, now, timezone, thresholds) {
+  if (opportunity.status !== 'OPEN' || !opportunity.closesAt) return null;
+  const deadline = new Date(opportunity.closesAt);
+  if (Number.isNaN(deadline.getTime()) || deadline.getTime() < now.getTime()) return null;
+  const daysRemaining = localDayNumber(deadline, timezone) - localDayNumber(now, timezone);
+  if (!thresholds.includes(daysRemaining)) return null;
+  return {
+    ...opportunity,
+    eventType: 'DEADLINE_APPROACHING',
+    deadlineStage: daysRemaining === 0 ? '오늘 마감' : `D-${daysRemaining}`,
+    dedupeKey: `deadline:${opportunity.id}:${opportunity.closesAt}:d-${daysRemaining}`,
+  };
+}
+
 async function runRadar(options) {
   const {
     rawItems,
@@ -9,9 +34,20 @@ async function runRadar(options) {
     store,
     notify,
     now = new Date(),
+    checkedSourceIds = [],
+    missingThreshold = 3,
+    verifyOpportunityUrl,
+    timezone = profile.timezone || 'Asia/Seoul',
+    deadlineThresholds = [3, 1, 0],
+    maxNotifications = Number.POSITIVE_INFINITY,
   } = options;
   const state = await store.load();
-  const report = { discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0 };
+  const report = {
+    discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0, closed: 0,
+    deadlineSent: 0, deferred: 0,
+  };
+  const seenIds = new Set();
+  const sentOpportunityIds = new Set();
 
   for (const raw of rawItems) {
     let opportunity;
@@ -23,10 +59,10 @@ async function runRadar(options) {
     }
 
     const previous = state.opportunities[opportunity.id];
+    seenIds.add(opportunity.id);
     const unchanged = previous?.contentHash === opportunity.contentHash;
     if (previous) opportunity.firstSeenAt = previous.firstSeenAt;
     if (unchanged) {
-      opportunity.lastSeenAt = previous.lastSeenAt;
       opportunity.eventType = previous.eventType || 'DISCOVERED';
       opportunity.dedupeKey = previous.dedupeKey;
       opportunity.review = previous.review;
@@ -42,6 +78,9 @@ async function runRadar(options) {
     ) {
       opportunity.review = { status: 'SENT', reason: '발송 이력에서 복구' };
     }
+    opportunity.lifecycle = { ...(previous?.lifecycle || {}), missingRuns: 0 };
+    delete opportunity.lifecycle.closedAt;
+    delete opportunity.lifecycle.closeReason;
     state.opportunities[opportunity.id] = opportunity;
     report.discovered += previous ? 0 : 1;
 
@@ -74,6 +113,39 @@ async function runRadar(options) {
 
     report.approved += 1;
     state.opportunities[opportunity.id].review = { status: 'APPROVED', reason: decision.reason };
+    if (verifyOpportunityUrl) {
+      try {
+        const verification = await verifyOpportunityUrl(opportunity.canonicalUrl);
+        state.opportunities[opportunity.id].verification = {
+          ...verification,
+          checkedAt: now.toISOString(),
+        };
+        if (!verification.ok) {
+          state.opportunities[opportunity.id].review = {
+            status: 'REJECTED',
+            reason: `원문 URL 접근 실패: HTTP ${verification.status}`,
+          };
+          report.approved -= 1;
+          report.rejected += 1;
+          continue;
+        }
+      } catch (error) {
+        state.opportunities[opportunity.id].review = {
+          status: 'REJECTED', reason: `원문 URL 확인 실패: ${error.message}`,
+        };
+        report.approved -= 1;
+        report.rejected += 1;
+        continue;
+      }
+    }
+    if (report.sent >= maxNotifications) {
+      state.opportunities[opportunity.id].review = {
+        status: 'DEFERRED',
+        reason: `실행당 발송 상한 ${maxNotifications}건 초과`,
+      };
+      report.deferred += 1;
+      continue;
+    }
     let message;
     try {
       message = await notify(opportunity);
@@ -96,11 +168,61 @@ async function runRadar(options) {
     };
     state.opportunities[opportunity.id].review.status = 'SENT';
     report.sent += 1;
+    sentOpportunityIds.add(opportunity.id);
     await store.save(state);
+  }
+
+  for (const opportunity of Object.values(state.opportunities)) {
+    if (!seenIds.has(opportunity.id) || sentOpportunityIds.has(opportunity.id)) continue;
+    if (opportunity.review?.status !== 'SENT') continue;
+    const event = createDeadlineEvent(opportunity, now, timezone, deadlineThresholds);
+    if (!event || state.deliveries[event.dedupeKey]?.status === 'SENT') continue;
+    if (report.sent >= maxNotifications) {
+      report.deferred += 1;
+      continue;
+    }
+    if (verifyOpportunityUrl) {
+      try {
+        const verification = await verifyOpportunityUrl(event.canonicalUrl);
+        if (!verification.ok) continue;
+      } catch {
+        continue;
+      }
+    }
+    try {
+      const message = await notify(event);
+      state.deliveries[event.dedupeKey] = {
+        status: 'SENT', opportunityId: event.id, sentAt: now.toISOString(),
+        messageId: message?.id || null,
+      };
+      report.sent += 1;
+      report.deadlineSent += 1;
+    } catch (error) {
+      state.deliveries[event.dedupeKey] = {
+        status: 'FAILED', opportunityId: event.id, attemptedAt: now.toISOString(), error: error.message,
+      };
+      report.failed += 1;
+    }
+    await store.save(state);
+  }
+
+  const checked = new Set(checkedSourceIds);
+  if (checked.size) {
+    for (const opportunity of Object.values(state.opportunities)) {
+      if (!checked.has(opportunity.sourceId) || seenIds.has(opportunity.id)) continue;
+      const missingRuns = (opportunity.lifecycle?.missingRuns || 0) + 1;
+      opportunity.lifecycle = { ...(opportunity.lifecycle || {}), missingRuns };
+      if (opportunity.status === 'OPEN' && missingRuns >= missingThreshold) {
+        opportunity.status = 'CLOSED';
+        opportunity.lifecycle.closedAt = now.toISOString();
+        opportunity.lifecycle.closeReason = '공식 출처에서 연속 미확인';
+        report.closed += 1;
+      }
+    }
   }
 
   await store.save(state);
   return report;
 }
 
-module.exports = { runRadar };
+module.exports = { createDeadlineEvent, runRadar };
