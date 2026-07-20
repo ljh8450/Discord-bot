@@ -3,6 +3,8 @@ const path = require('node:path');
 
 const { collectAll } = require('./adapters');
 const { loadLocalEnv } = require('./config/load-env');
+const { AGGREGATOR_SOURCES, OPPORTUNITY_SOURCES } = require('./config/builtin-sources');
+const { dedupeAcrossSources } = require('./domain/cross-source-dedupe');
 const { createCategoryNotifier } = require('./discord/router');
 const { sendOperationsAlert } = require('./discord/operations-alert');
 const { runRadar } = require('./pipeline/run-radar');
@@ -30,10 +32,13 @@ async function main() {
         save: async () => undefined,
       }
     : persistedStore;
-  const { items, errors, successfulSourceIds, sourceCounts } = await collectAll(
-    sourceConfig.sources,
+  const sources = [...AGGREGATOR_SOURCES, ...OPPORTUNITY_SOURCES, ...sourceConfig.sources];
+  const collected = await collectAll(
+    sources,
     { rootDir: process.cwd() },
   );
+  const { errors, successfulSourceIds, sourceCounts } = collected;
+  const items = dedupeAcrossSources(collected.items);
   if (command === 'recover') {
     const state = await store.load();
     const cutoff = Date.now() - (24 * 60 * 60 * 1000);
@@ -55,7 +60,10 @@ async function main() {
   const verifyOpportunityUrl = dryRun || process.env.RADAR_VERIFY_URLS === 'false'
     ? undefined
     : (url) => verifyUrl(url);
-  const emptySourceIds = successfulSourceIds.filter((sourceId) => sourceCounts[sourceId] === 0);
+  const allowEmpty = new Set(sources.filter((source) => source.allowEmpty).map((source) => source.id));
+  const emptySourceIds = successfulSourceIds.filter((sourceId) => (
+    sourceCounts[sourceId] === 0 && !allowEmpty.has(sourceId)
+  ));
   const checkedSourceIds = successfulSourceIds.filter((sourceId) => sourceCounts[sourceId] > 0);
   const configuredLimit = Number.parseInt(process.env.RADAR_MAX_NOTIFICATIONS_PER_RUN || '10', 10);
   const maxNotifications = Number.isInteger(configuredLimit) && configuredLimit > 0

@@ -9,7 +9,9 @@
     "radar": "node src/cli.js run",
     "recover": "node src/cli.js recover",
     "dry-run": "node src/cli.js dry-run",
-    "digest": "node src/digest-cli.js"
+    "digest": "node src/digest-cli.js",
+    "brief": "node src/brief-cli.js",
+    "brief-dry-run": "node src/brief-cli.js dry-run"
   },
   "engines": {
     "node": ">=20"
