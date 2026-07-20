@@ -37,11 +37,9 @@ jobs:
           SARAMIN_ACCESS_KEY: ${{ secrets.SARAMIN_ACCESS_KEY }}
       - name: Report successful run heartbeat
         if: success()
-        continue-on-error: true
         env:
           RADAR_HEARTBEAT_URL: ${{ secrets.RADAR_HEARTBEAT_URL }}
-        run: |
-          [ -z "$RADAR_HEARTBEAT_URL" ] || curl --fail --silent --show-error --retry 3 "$RADAR_HEARTBEAT_URL"
+        run: npm run heartbeat
       - name: Persist delivery state
         if: always()
         run: |
