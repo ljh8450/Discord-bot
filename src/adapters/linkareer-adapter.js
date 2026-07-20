@@ -1,4 +1,6 @@
-const { extractJsonScript, isTechRelevant, requestOptions } = require('./platform-utils');
+const {
+  extractJsonScript, hasDevelopmentOutput, isTechRelevant, requestOptions,
+} = require('./platform-utils');
 const TYPES = { contest: 'HACKATHON', education: 'EDUCATION', activity: 'EXTERNAL_ACTIVITY' };
 
 function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
@@ -21,7 +23,10 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
     summaryEvidence: [...new Set([listingUrl, url])],
     attributes: {
       listingUrl, originalUrl: url, sourcePriority: source.priority,
-      developmentOutput: type === 'HACKATHON', immediateCategory: type !== 'HACKATHON',
+      developmentOutput: type === 'HACKATHON'
+        && hasDevelopmentOutput(x.title, tags, x.organizationName),
+      immediateCategory: false,
+      requiresBenefitReview: type === 'EDUCATION',
       freeOrFunded: /무료|지원/.test(`${x.cost || ''} ${benefits}`),
       trustedOrganizer: Boolean(x.organizationName), portfolioProject: /프로젝트|포트폴리오/.test(x.title),
     },

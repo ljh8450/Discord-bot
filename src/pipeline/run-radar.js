@@ -2,6 +2,23 @@ const { applyProfileFilter } = require('../domain/filter');
 const { normalizeOpportunity } = require('../domain/opportunity');
 const { assessBenefit, validateMinimum } = require('../domain/validation');
 
+const NOTIFICATION_TYPE_ORDER = ['HACKATHON', 'JOB', 'EXTERNAL_ACTIVITY', 'EDUCATION', 'CONTENT'];
+
+function balanceByType(items, typeOrder = NOTIFICATION_TYPE_ORDER) {
+  const queues = new Map(typeOrder.map((type) => [type, []]));
+  for (const item of items) {
+    if (!queues.has(item.type)) queues.set(item.type, []);
+    queues.get(item.type).push(item);
+  }
+  const ordered = [];
+  while ([...queues.values()].some((queue) => queue.length)) {
+    for (const queue of queues.values()) {
+      if (queue.length) ordered.push(queue.shift());
+    }
+  }
+  return ordered;
+}
+
 function localDayNumber(value, timezone) {
   const parts = new Intl.DateTimeFormat('en-US', {
     timeZone: timezone,
@@ -40,16 +57,17 @@ async function runRadar(options) {
     timezone = profile.timezone || 'Asia/Seoul',
     deadlineThresholds = [3, 1, 0],
     maxNotifications = Number.POSITIVE_INFINITY,
+    maxNotificationsByType = {},
   } = options;
   const state = await store.load();
   const report = {
     discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0, closed: 0,
-    deadlineSent: 0, deferred: 0,
+    deadlineSent: 0, deferred: 0, sentByType: {}, deferredByType: {},
   };
   const seenIds = new Set();
   const sentOpportunityIds = new Set();
 
-  for (const raw of rawItems) {
+  for (const raw of balanceByType(rawItems)) {
     let opportunity;
     try {
       opportunity = normalizeOpportunity(raw, now);
@@ -138,12 +156,27 @@ async function runRadar(options) {
         continue;
       }
     }
+    const configuredTypeLimit = Number(maxNotificationsByType[opportunity.type]);
+    if (
+      Number.isFinite(configuredTypeLimit)
+      && configuredTypeLimit >= 0
+      && (report.sentByType[opportunity.type] || 0) >= configuredTypeLimit
+    ) {
+      state.opportunities[opportunity.id].review = {
+        status: 'DEFERRED',
+        reason: `${opportunity.type} 실행당 발송 상한 ${configuredTypeLimit}건 초과`,
+      };
+      report.deferred += 1;
+      report.deferredByType[opportunity.type] = (report.deferredByType[opportunity.type] || 0) + 1;
+      continue;
+    }
     if (report.sent >= maxNotifications) {
       state.opportunities[opportunity.id].review = {
         status: 'DEFERRED',
         reason: `실행당 발송 상한 ${maxNotifications}건 초과`,
       };
       report.deferred += 1;
+      report.deferredByType[opportunity.type] = (report.deferredByType[opportunity.type] || 0) + 1;
       continue;
     }
     let message;
@@ -168,6 +201,7 @@ async function runRadar(options) {
     };
     state.opportunities[opportunity.id].review.status = 'SENT';
     report.sent += 1;
+    report.sentByType[opportunity.type] = (report.sentByType[opportunity.type] || 0) + 1;
     sentOpportunityIds.add(opportunity.id);
     await store.save(state);
   }
@@ -179,6 +213,7 @@ async function runRadar(options) {
     if (!event || state.deliveries[event.dedupeKey]?.status === 'SENT') continue;
     if (report.sent >= maxNotifications) {
       report.deferred += 1;
+      report.deferredByType[opportunity.type] = (report.deferredByType[opportunity.type] || 0) + 1;
       continue;
     }
     if (verifyOpportunityUrl) {
@@ -196,6 +231,7 @@ async function runRadar(options) {
         messageId: message?.id || null,
       };
       report.sent += 1;
+      report.sentByType[event.type] = (report.sentByType[event.type] || 0) + 1;
       report.deadlineSent += 1;
     } catch (error) {
       state.deliveries[event.dedupeKey] = {
@@ -225,4 +261,4 @@ async function runRadar(options) {
   return report;
 }
 
-module.exports = { createDeadlineEvent, runRadar };
+module.exports = { balanceByType, createDeadlineEvent, runRadar };

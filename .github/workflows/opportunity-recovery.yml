@@ -16,10 +16,10 @@ jobs:
   recover:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run recover
         env:
           DISCORD_JOBS_WEBHOOK_URL: ${{ secrets.DISCORD_JOBS_WEBHOOK_URL }}
@@ -29,6 +29,7 @@ jobs:
           DISCORD_EDUCATION_WEBHOOK_URL: ${{ secrets.DISCORD_EDUCATION_WEBHOOK_URL }}
           DISCORD_OPERATIONS_WEBHOOK_URL: ${{ secrets.DISCORD_OPERATIONS_WEBHOOK_URL }}
           DISCORD_OPPORTUNITIES_WEBHOOK_URL: ${{ secrets.DISCORD_OPPORTUNITIES_WEBHOOK_URL }}
+          SARAMIN_ACCESS_KEY: ${{ secrets.SARAMIN_ACCESS_KEY }}
           FEEDBACK_BASE_URL: ${{ vars.FEEDBACK_BASE_URL }}
           RADAR_MAX_NOTIFICATIONS_PER_RUN: ${{ vars.RADAR_MAX_NOTIFICATIONS_PER_RUN }}
       - name: Persist recovery state

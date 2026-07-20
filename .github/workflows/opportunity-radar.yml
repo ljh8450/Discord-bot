@@ -2,7 +2,7 @@ name: Opportunity Radar
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,10 +16,10 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
       - run: npm test
       - run: npm run radar
         env:
@@ -32,6 +32,7 @@ jobs:
           DISCORD_OPPORTUNITIES_WEBHOOK_URL: ${{ secrets.DISCORD_OPPORTUNITIES_WEBHOOK_URL }}
           FEEDBACK_BASE_URL: ${{ vars.FEEDBACK_BASE_URL }}
           RADAR_MAX_NOTIFICATIONS_PER_RUN: ${{ vars.RADAR_MAX_NOTIFICATIONS_PER_RUN }}
+          SARAMIN_ACCESS_KEY: ${{ secrets.SARAMIN_ACCESS_KEY }}
       - name: Persist delivery state
         if: always()
         run: |

@@ -11,6 +11,8 @@ const { collectFromProgrammersEducation } = require('./programmers-education-ada
 const { collectFromRssFeed } = require('./rss-feed-adapter');
 const { collectFromTicketa } = require('./ticketa-adapter');
 const { collectFromWantedCareers } = require('./wanted-careers-adapter');
+const { collectFromSaraminCareers } = require('./saramin-careers-adapter');
+const { collectFromGreenhouseCareers } = require('./greenhouse-careers-adapter');
 
 async function collectSource(source, options = {}) {
   if (source.kind === 'file') return collectFromFile(source, options.rootDir);
@@ -28,16 +30,29 @@ async function collectSource(source, options = {}) {
   if (source.kind === 'rss') return collectFromRssFeed(source, options.fetchImpl);
   if (source.kind === 'ticketa') return collectFromTicketa(source, options.fetchImpl);
   if (source.kind === 'wanted-careers') return collectFromWantedCareers(source, options.fetchImpl);
+  if (source.kind === 'saramin-careers') {
+    return collectFromSaraminCareers(source, options.fetchImpl, options.env);
+  }
+  if (source.kind === 'greenhouse-careers') {
+    return collectFromGreenhouseCareers(source, options.fetchImpl);
+  }
   throw new TypeError(`unsupported source kind: ${source.kind}`);
 }
 
 async function collectAll(sources, options = {}) {
-  const enabled = sources.filter((source) => source.enabled !== false);
+  const configured = sources.filter((source) => source.enabled !== false);
+  const env = options.env || process.env;
+  const skippedSources = configured
+    .filter((source) => source.requiredEnv && !env[source.requiredEnv])
+    .map((source) => ({ sourceId: source.id, reason: `missing ${source.requiredEnv}` }));
+  const skippedIds = new Set(skippedSources.map((source) => source.sourceId));
+  const enabled = configured.filter((source) => !skippedIds.has(source.id));
   const settled = await Promise.allSettled(enabled.map((source) => collectSource(source, options)));
   const items = [];
   const errors = [];
   const successfulSourceIds = [];
   const sourceCounts = {};
+  for (const source of skippedSources) sourceCounts[source.sourceId] = 'SKIPPED';
 
   settled.forEach((result, index) => {
     if (result.status === 'fulfilled') {
@@ -53,7 +68,7 @@ async function collectAll(sources, options = {}) {
       errors.push({ sourceId: enabled[index].id, error: result.reason.message });
     }
   });
-  return { items, errors, successfulSourceIds, sourceCounts };
+  return { items, errors, successfulSourceIds, sourceCounts, skippedSources };
 }
 
 module.exports = { collectAll, collectSource };

@@ -10,5 +10,13 @@
   },
   "benefit": {
     "approvalThreshold": 3
+  },
+  "notifications": {
+    "maxPerRunByType": {
+      "JOB": 4,
+      "HACKATHON": 5,
+      "EXTERNAL_ACTIVITY": 3,
+      "EDUCATION": 2
+    }
   }
 }

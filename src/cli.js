@@ -37,7 +37,7 @@ async function main() {
     sources,
     { rootDir: process.cwd() },
   );
-  const { errors, successfulSourceIds, sourceCounts } = collected;
+  const { errors, successfulSourceIds, sourceCounts, skippedSources } = collected;
   const items = dedupeAcrossSources(collected.items);
   if (command === 'recover') {
     const state = await store.load();
@@ -77,6 +77,7 @@ async function main() {
     checkedSourceIds,
     verifyOpportunityUrl,
     maxNotifications,
+    maxNotificationsByType: profile.notifications?.maxPerRunByType,
   });
   const warnings = emptySourceIds.map((sourceId) => (
     `${sourceId}: 수집 결과가 0건이어서 종료 판정을 보류했습니다.`
@@ -89,7 +90,8 @@ async function main() {
     }
   }
   process.stdout.write(`${JSON.stringify({
-    command, report, sourceErrors: errors, sourceWarnings: warnings, sourceCounts, candidates,
+    command, report, sourceErrors: errors, sourceWarnings: warnings,
+    skippedSources, sourceCounts, candidates,
   }, null, 2)}\n`);
   if (errors.length || report.failed) process.exitCode = 1;
 }

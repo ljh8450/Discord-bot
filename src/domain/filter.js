@@ -40,8 +40,7 @@ function filterJob(opportunity, profile) {
 }
 
 function filterHackathon(opportunity) {
-  const developmentTerms = ['개발', '해커톤', '소프트웨어', 'ai', 'web', '앱', '서비스'];
-  if (opportunity.attributes.developmentOutput || includesAny(searchableText(opportunity), developmentTerms)) {
+  if (opportunity.attributes.developmentOutput === true) {
     return { decision: 'APPROVED', reason: '개발 결과물을 만드는 행사' };
   }
   return { decision: 'REJECTED', reason: '개발 결과물 행사 근거 없음' };

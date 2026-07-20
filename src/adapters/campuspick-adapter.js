@@ -1,4 +1,6 @@
-const { extractJsonScript, isTechRelevant, requestOptions } = require('./platform-utils');
+const {
+  extractJsonScript, hasDevelopmentOutput, isTechRelevant, requestOptions,
+} = require('./platform-utils');
 
 function mapCampuspickDetail(html, source, listingUrl, type, now = new Date()) {
   const x = extractJsonScript(html, '__INITIAL_STATE__')?.activity;
@@ -14,7 +16,9 @@ function mapCampuspickDetail(html, source, listingUrl, type, now = new Date()) {
     summary: String(x.description || '모집 내용은 원문 확인').replace(/<[^>]*>/g, ' ').slice(0, 280),
     summaryEvidence: [...new Set([listingUrl, url])],
     attributes: { listingUrl, originalUrl: url, sourcePriority: source.priority,
-      developmentOutput: type === 'HACKATHON', immediateCategory: type !== 'HACKATHON',
+      developmentOutput: type === 'HACKATHON'
+        && hasDevelopmentOutput(x.title, x.company),
+      immediateCategory: false,
       financialSupport: Boolean(x.prize_top || x.prize_total || x.prize_benefit) },
   };
 }

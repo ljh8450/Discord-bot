@@ -1,4 +1,6 @@
-const { inferType, isTechRelevant, requestOptions } = require('./platform-utils');
+const {
+  hasDevelopmentOutput, inferType, isTechRelevant, requestOptions,
+} = require('./platform-utils');
 const value = (x, key) => x?.[key]?.raw ?? null;
 
 function mapEventusResult(x, source, now = new Date()) {
@@ -7,6 +9,10 @@ function mapEventusResult(x, source, now = new Date()) {
   if (!id || !title || !subdomain || !closesAt || new Date(closesAt) < now
     || !isTechRelevant(title, value(x, 'category'), value(x, 'event_type'))) return null;
   const url = `https://event-us.kr/${subdomain}/event/${id}`; const type = inferType(title);
+  const developmentOutput = hasDevelopmentOutput(
+    title, value(x, 'category'), value(x, 'event_type'),
+  );
+  if (!developmentOutput) return null;
   return {
     type, sourceId: source.id, externalId: String(id), url, title, closesAt, status: 'OPEN',
     organization: value(x, 'fullname') || value(x, 'app_title') || '이벤터스 등록 기관',

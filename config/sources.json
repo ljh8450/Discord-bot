@@ -41,9 +41,32 @@
       "maxPages": 10
     },
     {
+      "id": "coupang-entry-developers",
+      "kind": "greenhouse-careers",
+      "enabled": true,
+      "allowEmpty": true,
+      "url": "https://boards-api.greenhouse.io/v1/boards/coupang/jobs",
+      "organization": "\ucfe0\ud321",
+      "locationPattern": "Korea|Seoul|\uc11c\uc6b8",
+      "roleTerms": ["software", "backend", "back-end", "frontend", "front-end", "fullstack", "engineer", "developer", "machine learning", "data scientist", "AI"],
+      "entryLevelTerms": ["\uc2e0\uc785", "\uc778\ud134", "intern", "entry level", "university", "graduate"],
+      "maxItems": 40
+    },
+    {
+      "id": "saramin-entry-developers",
+      "kind": "saramin-careers",
+      "enabled": true,
+      "requiredEnv": "SARAMIN_ACCESS_KEY",
+      "accessKeyEnv": "SARAMIN_ACCESS_KEY",
+      "url": "https://oapi.saramin.co.kr/job-search",
+      "jobMidCode": "2",
+      "locationCodes": "101000 102000 108000",
+      "maxItems": 100
+    },
+    {
       "id": "wanted-entry-developers",
       "kind": "wanted-careers",
-      "enabled": true,
+      "enabled": false,
       "url": "https://www.wanted.co.kr/api/v4/jobs",
       "tagTypeId": "518",
       "years": 0,
