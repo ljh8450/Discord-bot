@@ -34,7 +34,7 @@
       "contentHash": "sha256:86820cb19059e7663d87b9213796d99cabbd711b5d5f75ea5c400e264d8053f7",
       "dedupeKey": "discovered:b820b25f9665623f196e2d32ed122a761f0d848d347c50876c061415f9abe804",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -74,7 +74,7 @@
       "contentHash": "sha256:6cb80b54e6477762d288fdb290f8713e7af074f07dffd8ca5a81760f899ce2b5",
       "dedupeKey": "discovered:7bc9f9d1627a3d31042289814bfb63f51219d73ebe642f5151f603d4cdee0c3e",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -114,7 +114,7 @@
       "contentHash": "sha256:c29088b33c06507779d5521b04576043833f92bb61f6d39df2edb705f6cdf9d5",
       "dedupeKey": "discovered:5e28c8e1b715ffb4d03492043234a613ff3b1f7b282e8937d47b9339bf83fbf2",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "선호 직무 조건 불일치"
@@ -155,7 +155,7 @@
       "contentHash": "sha256:7765b4a2baa0172753bb7de8cc42805d2c7dd3131b74334501122d37df59c4f7",
       "dedupeKey": "discovered:5dbd9849522ffbdb066a6317567602b12023b821acd4d294b396bf48ab770d35",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -195,7 +195,7 @@
       "contentHash": "sha256:5634176560b57a0555ee37a050f08c7dd39323ec7eca4930e81a179954da1946",
       "dedupeKey": "discovered:33a71448a11bf0bdd4e6e47003f27ddf2d3070de2d193011d36a7ef9f6ad3d2d",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -235,7 +235,7 @@
       "contentHash": "sha256:a212c39b65d30969b324627adc0defef7445f8622c1d5396521db905c66a40c3",
       "dedupeKey": "discovered:f07da709f2268b6f53f4058739d434b1e2d84882cf76e4597aa38c93c1e3303f",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "선호 직무 조건 불일치"
@@ -276,7 +276,7 @@
       "contentHash": "sha256:d302d65ffa240c2550c417b4e99dd1b588a00420edc1fc09a3a42be2ef0a3221",
       "dedupeKey": "discovered:738fa6526c31dce5b046d6a77db291dc827db78c6efaa58388b0309f8b3f9da2",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -317,7 +317,7 @@
       "contentHash": "sha256:f5d23b7da4de86baf369f41eaaf8bd8426b531a8cd28e968f6cb0fa4d73d0a28",
       "dedupeKey": "discovered:a6aa6ef63a58d907002b8104dabd72547b1eccfe317fbaccdbb39d64449610e1",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -358,7 +358,7 @@
       "contentHash": "sha256:1ee76998f2667b70623ed7df520a9da508593a420474aeb9031c8ceb5b43c99c",
       "dedupeKey": "discovered:d7f4eccd0705deb971f73ab4c79e45df0f19839227a97c216fabfa0d3f049a45",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -398,7 +398,7 @@
       "contentHash": "sha256:9526c8fc005fb798bf8136f7e23d606dd6353b3dd8e93cdfb318ffa5ba038c57",
       "dedupeKey": "discovered:586153988dd250ebc6c9bf552e9fcd7c917a7ad224a9ca8e58b8388faee7c4a8",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -438,7 +438,7 @@
       "contentHash": "sha256:b9e8c483ef7d236649ef7793b39c90c3dce962d587d24ed4344dab2f8472a3fa",
       "dedupeKey": "discovered:e462f4dc7ea50d584d05fa306dcff3455e31010c1e6cf4dd7a4aefbbb8e0cd85",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -479,7 +479,7 @@
       "contentHash": "sha256:7f8b39c5afc09e182bcd4ad5550a617337efe765db0ceca7cd0cb2231a49e52c",
       "dedupeKey": "discovered:c6775781f4b9c2dc4fb235a1a76aa4557242214a46ba57e4bf517aa56bdcb768",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -519,7 +519,7 @@
       "contentHash": "sha256:adf9eae26c9157240c6bd5cf2460c1cad1f22fdb08e49651b35897e0ce1c377c",
       "dedupeKey": "discovered:a7e14d1de3f5fd25f4383aa127a90bdef2167750b2fc70d757961b72f8da0792",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -559,7 +559,7 @@
       "contentHash": "sha256:b485ff581727c6026d5d53cbe401b7e0f2913982a13894372a452358dead3316",
       "dedupeKey": "discovered:3a023c7f51e783d0d0ab1c9c45eb329e6098996346230107aa3d2eec01796f23",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -599,7 +599,7 @@
       "contentHash": "sha256:c82859a6c05d4b855f3a8507692ea06fc1e600c1bc8e653552b696c309be1770",
       "dedupeKey": "discovered:ff5b9e24e7d0d98b645e18803a5b6a71634d8384aaf5e4881b0ddeae519a7c21",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "선호 직무 조건 불일치"
@@ -639,7 +639,7 @@
       "contentHash": "sha256:7f65adf477dc28d98f243c257228b384466fa09e874c2fb49a187499d4d769cc",
       "dedupeKey": "discovered:a84f03f61f7672b8a7d5b08c4d48321f6ab11e802688427beced63b6621dfd3a",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "선호 직무 조건 불일치"
@@ -680,7 +680,7 @@
       "contentHash": "sha256:bde78a3c4997be525eed6a8bbdd06cc145c77e2f72a508999a4acbb38b712917",
       "dedupeKey": "discovered:0ca72661fefa0b194118fbc39789a3ccd65edce521c62f28246c867ca13c00ba",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z"
+      "lastSeenAt": "2026-07-20T08:21:43.729Z"
     },
     "opp_acbcec4a71bcdcce7493": {
       "id": "opp_acbcec4a71bcdcce7493",
@@ -716,7 +716,7 @@
       "contentHash": "sha256:ee4eabecd8da694233dabbc1ede4d607155dc648331dbeed33c74946e8cba7e4",
       "dedupeKey": "discovered:acbcec4a71bcdcce7493a9fd80e4db915fff8c196fd9a4e891007644a7a7e741",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -756,7 +756,7 @@
       "contentHash": "sha256:061bab93bac207e594c2491b86019ff2261f40fe527ded5d66cce278533e3e73",
       "dedupeKey": "discovered:337df0e43932b28cda60bfeabc21875cad234738bcb8bef4ae18d72cedbbdfb5",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "선호 직무 조건 불일치"
@@ -794,7 +794,7 @@
       "contentHash": "sha256:ae90d10161c81d944b2edcf8d9ae45e2bfc03a8431fd3c3f653086be4e2423b0",
       "dedupeKey": "discovered:25ab1d0c81ed007a636996529e4f74cab8ccfae00e1747f42f9a50397e50d99d",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -832,7 +832,7 @@
       "contentHash": "sha256:1936b5bc46aa00a21c7b492d8e989283849a7bef839d3b7515e0abd3c95ed005",
       "dedupeKey": "discovered:e37393c341386f670ed62ad20aed8c521b1c90c92178119fe61c9b8bb8831cf3",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -870,7 +870,7 @@
       "contentHash": "sha256:16fa535e7722367e8d474449a0a41108b47041d67991bc8855424f85454ab3ba",
       "dedupeKey": "discovered:f14c425f4786de290dd73887afe18cc4f46edaae9ad2089cd170a6edd65250f0",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -908,7 +908,7 @@
       "contentHash": "sha256:603b4a88bf4e7b204e1230c43fc7366cce275552f53fb4c3878088679fa2aea4",
       "dedupeKey": "discovered:4578996d2f141dcba84140e0fbbd682d572d6f235f3b2d7a161f65fcf74a7eba",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -946,7 +946,7 @@
       "contentHash": "sha256:d1e88c5cee1ecee1ea1b4b060544a7413bc878ee393e507c4b030e0e0b32a56c",
       "dedupeKey": "discovered:dc30d86b76f71126d5fa139d7fe6dcb0fd64e2f0d2e7bc3f0e54c57124713a3f",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -984,7 +984,7 @@
       "contentHash": "sha256:2e29ac5190b309c165a446dd9d15baa858f794583bfed444b6023a943243643b",
       "dedupeKey": "discovered:385d92bef119e8841c1ecd9c327320c68c979fcb7d2dca0ac5ef62da24a1ba87",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
@@ -1022,7 +1022,7 @@
       "contentHash": "sha256:159c38ba749fc8437a34ff1d9a469ce290205352dc4db583c1d726132489e8fc",
       "dedupeKey": "discovered:b64a887b14e47e172b22a1a44594a718b50d8f647aa423c4d5d0ede776f8693b",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z"
+      "lastSeenAt": "2026-07-20T08:21:43.729Z"
     },
     "opp_62650d0a3d52f1c76a5f": {
       "id": "opp_62650d0a3d52f1c76a5f",
@@ -1056,7 +1056,7 @@
       "contentHash": "sha256:c60888557665b1c4d66a92940f9bd6bfe5a74310f282216cfb24daa8b1ea9483",
       "dedupeKey": "discovered:62650d0a3d52f1c76a5fb67e9ef6379311150c2a744555ba33d5ce78cfdf0aa9",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "lastSeenAt": "2026-07-20T08:21:43.729Z",
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
