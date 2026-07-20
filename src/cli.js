@@ -3,7 +3,7 @@ const path = require('node:path');
 
 const { collectAll } = require('./adapters');
 const { loadLocalEnv } = require('./config/load-env');
-const { createDiscordNotifier } = require('./discord/notifier');
+const { createCategoryNotifier } = require('./discord/router');
 const { runRadar } = require('./pipeline/run-radar');
 const { JsonStore } = require('./store/json-store');
 
@@ -20,12 +20,14 @@ async function main() {
   const sourceConfig = await readJson(process.env.RADAR_SOURCES || 'config/sources.json');
   const candidates = [];
   const dryRun = command === 'dry-run';
+  const persistedStore = new JsonStore(process.env.RADAR_STATE_FILE || 'data/state.json');
+  const dryState = dryRun ? await persistedStore.load() : null;
   const store = dryRun
     ? {
-        load: async () => ({ opportunities: {}, deliveries: {}, pending: {}, feedback: [] }),
+        load: async () => structuredClone(dryState),
         save: async () => undefined,
       }
-    : new JsonStore(process.env.RADAR_STATE_FILE || 'data/state.json');
+    : persistedStore;
   const { items, errors } = await collectAll(sourceConfig.sources, { rootDir: process.cwd() });
   if (command === 'recover') {
     const state = await store.load();
@@ -41,7 +43,7 @@ async function main() {
         candidates.push({ title: opportunity.title, url: opportunity.canonicalUrl });
         return {};
       }
-    : createDiscordNotifier({
+    : createCategoryNotifier({
         timezone: profile.timezone,
         feedbackBaseUrl: process.env.FEEDBACK_BASE_URL,
       });

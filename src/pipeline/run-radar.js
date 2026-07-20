@@ -23,7 +23,25 @@ async function runRadar(options) {
     }
 
     const previous = state.opportunities[opportunity.id];
+    const unchanged = previous?.contentHash === opportunity.contentHash;
     if (previous) opportunity.firstSeenAt = previous.firstSeenAt;
+    if (unchanged) {
+      opportunity.lastSeenAt = previous.lastSeenAt;
+      opportunity.eventType = previous.eventType || 'DISCOVERED';
+      opportunity.dedupeKey = previous.dedupeKey;
+      opportunity.review = previous.review;
+    } else if (previous) {
+      opportunity.eventType = 'UPDATED';
+      opportunity.dedupeKey = `updated:${opportunity.id}:${opportunity.contentHash}`;
+    } else {
+      opportunity.eventType = 'DISCOVERED';
+    }
+    if (
+      !opportunity.review
+      && state.deliveries[opportunity.dedupeKey]?.status === 'SENT'
+    ) {
+      opportunity.review = { status: 'SENT', reason: '발송 이력에서 복구' };
+    }
     state.opportunities[opportunity.id] = opportunity;
     report.discovered += previous ? 0 : 1;
 
@@ -56,16 +74,9 @@ async function runRadar(options) {
 
     report.approved += 1;
     state.opportunities[opportunity.id].review = { status: 'APPROVED', reason: decision.reason };
+    let message;
     try {
-      const message = await notify(opportunity);
-      state.deliveries[opportunity.dedupeKey] = {
-        status: 'SENT',
-        opportunityId: opportunity.id,
-        sentAt: now.toISOString(),
-        messageId: message?.id || null,
-      };
-      state.opportunities[opportunity.id].review.status = 'SENT';
-      report.sent += 1;
+      message = await notify(opportunity);
     } catch (error) {
       state.deliveries[opportunity.dedupeKey] = {
         status: 'FAILED',
@@ -74,7 +85,18 @@ async function runRadar(options) {
         error: error.message,
       };
       report.failed += 1;
+      await store.save(state);
+      continue;
     }
+    state.deliveries[opportunity.dedupeKey] = {
+      status: 'SENT',
+      opportunityId: opportunity.id,
+      sentAt: now.toISOString(),
+      messageId: message?.id || null,
+    };
+    state.opportunities[opportunity.id].review.status = 'SENT';
+    report.sent += 1;
+    await store.save(state);
   }
 
   await store.save(state);

@@ -23,9 +23,15 @@ jobs:
       - run: npm test
       - run: npm run radar
         env:
+          DISCORD_JOBS_WEBHOOK_URL: ${{ secrets.DISCORD_JOBS_WEBHOOK_URL }}
+          DISCORD_HACKATHONS_WEBHOOK_URL: ${{ secrets.DISCORD_HACKATHONS_WEBHOOK_URL }}
+          DISCORD_INSIGHTS_WEBHOOK_URL: ${{ secrets.DISCORD_INSIGHTS_WEBHOOK_URL }}
+          DISCORD_ACTIVITIES_WEBHOOK_URL: ${{ secrets.DISCORD_ACTIVITIES_WEBHOOK_URL }}
+          DISCORD_EDUCATION_WEBHOOK_URL: ${{ secrets.DISCORD_EDUCATION_WEBHOOK_URL }}
           DISCORD_OPPORTUNITIES_WEBHOOK_URL: ${{ secrets.DISCORD_OPPORTUNITIES_WEBHOOK_URL }}
           FEEDBACK_BASE_URL: ${{ vars.FEEDBACK_BASE_URL }}
       - name: Persist delivery state
+        if: always()
         run: |
           git status --porcelain -- data/state.json | grep -q . || exit 0
           git config user.name "github-actions[bot]"

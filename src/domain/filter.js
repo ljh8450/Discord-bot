@@ -61,10 +61,28 @@ function filterEducation(opportunity) {
   return { decision: 'REJECTED', reason: '교육·활동 통과 기준 불충족' };
 }
 
+function filterExternalActivity(opportunity) {
+  const text = searchableText(opportunity);
+  const immediate = ['개발 동아리', '멘토링'];
+  const needsBenefitReview = ['유료', '창업', '서포터즈', '풀타임'];
+
+  if (includesAny(text, needsBenefitReview) || opportunity.attributes.requiresBenefitReview === true) {
+    return { decision: 'PENDING_BENEFIT', reason: '시간 부담 대비 활동 혜택 추가 심사 필요' };
+  }
+  if (includesAny(text, immediate) || opportunity.attributes.immediateCategory === true) {
+    return { decision: 'APPROVED', reason: '개발 대외활동 통과 기준 충족' };
+  }
+  return { decision: 'REJECTED', reason: '대외활동 통과 기준 불충족' };
+}
+
 function applyProfileFilter(opportunity, profile) {
   if (opportunity.type === TYPES.JOB) return filterJob(opportunity, profile);
   if (opportunity.type === TYPES.HACKATHON) return filterHackathon(opportunity);
+  if (opportunity.type === TYPES.EXTERNAL_ACTIVITY) return filterExternalActivity(opportunity);
   if (opportunity.type === TYPES.EDUCATION) return filterEducation(opportunity);
+  if (opportunity.type === TYPES.CONTENT) {
+    return { decision: 'REJECTED', reason: '오전 9시 일일 인사이트 파이프라인 대상' };
+  }
   return { decision: 'REJECTED', reason: '지원하지 않는 유형' };
 }
 

@@ -44,3 +44,19 @@ test('benefit assessment uses explicit evidence flags', () => {
   const opportunity = job({ attributes: { freeOrFunded: true, industryMentoring: true, portfolioProject: true } });
   assert.deepEqual(assessBenefit(opportunity, 3), { decision: 'APPROVED', reason: '혜택 근거 3/8개', score: 3 });
 });
+
+test('normalizes external activities as a separate channel type', () => {
+  const activity = normalizeOpportunity({
+    type: 'EXTERNAL_ACTIVITY',
+    sourceId: 'activity-source',
+    externalId: 'activity-1',
+    url: 'https://example.com/activities/1',
+    title: '개발 동아리 모집',
+    organization: '개발 커뮤니티',
+    status: 'OPEN',
+    summary: '팀 프로젝트를 진행하는 개발 동아리',
+    summaryEvidence: ['https://example.com/activities/1'],
+  });
+  assert.equal(activity.type, 'EXTERNAL_ACTIVITY');
+  assert.equal(applyProfileFilter(activity, profile).decision, 'APPROVED');
+});

@@ -30,6 +30,27 @@ test('sends a matching opportunity exactly once', async () => {
   assert.equal(first.sent, 1);
   assert.equal(second.sent, 0);
   assert.equal(sent.length, 1);
+  assert.equal(Object.values(store.state.opportunities)[0].review.status, 'SENT');
+});
+
+test('sends one UPDATED event when important content changes', async () => {
+  const store = new MemoryStore();
+  const sent = [];
+  const notify = async (item) => { sent.push(item); return { id: `message-${sent.length}` }; };
+
+  await runRadar({ rawItems: [rawJob()], profile, store, notify, now });
+  const changed = rawJob({
+    summary: '변경된 결제·정산 API를 개발하는 포지션',
+    closesAt: '2026-08-05T18:00:00+09:00',
+  });
+  const update = await runRadar({ rawItems: [changed], profile, store, notify, now });
+  const repeated = await runRadar({ rawItems: [changed], profile, store, notify, now });
+
+  assert.equal(update.sent, 1);
+  assert.equal(repeated.sent, 0);
+  assert.equal(sent.length, 2);
+  assert.equal(sent[1].eventType, 'UPDATED');
+  assert.match(sent[1].dedupeKey, /^updated:/);
 });
 
 test('retries a Discord delivery that failed', async () => {
@@ -41,6 +62,7 @@ test('retries a Discord delivery that failed', async () => {
     return { id: 'message-2' };
   };
   const failed = await runRadar({ rawItems: [rawJob()], profile, store, notify, now });
+  assert.equal(Object.values(store.state.deliveries)[0].status, 'FAILED');
   const recovered = await runRadar({ rawItems: [rawJob()], profile, store, notify, now });
   assert.equal(failed.failed, 1);
   assert.equal(recovered.sent, 1);

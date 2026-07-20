@@ -1,7 +1,9 @@
 const TYPE_LABELS = {
   JOB: '신입 채용',
   HACKATHON: '해커톤·공모전',
-  EDUCATION: '교육·활동',
+  CONTENT: '개발 인사이트',
+  EXTERNAL_ACTIVITY: '대외활동',
+  EDUCATION: '교육',
 };
 
 function formatDate(value, timezone = 'Asia/Seoul') {
@@ -16,6 +18,7 @@ function formatDate(value, timezone = 'Asia/Seoul') {
 }
 
 function buildWebhookPayload(opportunity, options = {}) {
+  const eventLabel = opportunity.eventType === 'UPDATED' ? '업데이트 · ' : '';
   const facts = [
     opportunity.eligibility[0],
     opportunity.locations.join('·'),
@@ -44,7 +47,7 @@ function buildWebhookPayload(opportunity, options = {}) {
   return {
     username: options.username || 'Opportunity Radar',
     embeds: [{
-      title: `🚀 [${TYPE_LABELS[opportunity.type]}] ${opportunity.title}`,
+      title: `🚀 [${eventLabel}${TYPE_LABELS[opportunity.type]}] ${opportunity.title}`,
       url: opportunity.canonicalUrl,
       description: `${facts}\n한 줄: ${opportunity.summary}`,
       color: 0x5865f2,

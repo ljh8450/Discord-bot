@@ -3,6 +3,8 @@ const { createHash } = require('node:crypto');
 const TYPES = Object.freeze({
   JOB: 'JOB',
   HACKATHON: 'HACKATHON',
+  CONTENT: 'CONTENT',
+  EXTERNAL_ACTIVITY: 'EXTERNAL_ACTIVITY',
   EDUCATION: 'EDUCATION',
 });
 
