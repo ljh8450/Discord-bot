@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "discord-bot-radar-scheduler",
+  "main": "cloudflare/radar-scheduler.mjs",
+  "compatibility_date": "2026-07-21",
+  "triggers": {
+    "crons": ["2,12,22,32,42,52 * * * *"]
+  },
+  "observability": {
+    "enabled": true
+  }
+}
