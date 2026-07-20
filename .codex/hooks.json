@@ -1,0 +1,43 @@
+{
+  "description": "Mirror Codex chat transcripts into this workspace.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \".codex/hooks/mirror-session.js\"",
+            "commandWindows": "node \"C:\\discord-bot\\.codex\\hooks\\mirror-session.js\"",
+            "timeout": 10,
+            "statusMessage": "Mirroring Codex session"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \".codex/hooks/mirror-session.js\"",
+            "commandWindows": "node \"C:\\discord-bot\\.codex\\hooks\\mirror-session.js\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \".codex/hooks/mirror-session.js\"",
+            "commandWindows": "node \"C:\\discord-bot\\.codex\\hooks\\mirror-session.js\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

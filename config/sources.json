@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "id": "local-example",
+      "kind": "file",
+      "enabled": false,
+      "path": "fixtures/opportunities.json"
+    },
+    {
+      "id": "naver-careers",
+      "kind": "naver-careers",
+      "enabled": true,
+      "url": "https://recruit.navercorp.com/rcrt/list.do?lang=ko",
+      "organization": "네이버",
+      "locations": ["경기"]
+    },
+    {
+      "id": "naver-cloud-careers",
+      "kind": "naver-careers",
+      "enabled": true,
+      "url": "https://recruit.navercloudcorp.com/rcrt/list.do?lang=ko",
+      "organization": "네이버클라우드",
+      "locations": ["경기"]
+    },
+    {
+      "id": "naver-z-careers",
+      "kind": "naver-careers",
+      "enabled": true,
+      "url": "https://recruit.naverz-corp.com/rcrt/list.do?lang=ko",
+      "organization": "네이버제트",
+      "locations": ["경기"]
+    },
+    {
+      "id": "kakao-tech-careers",
+      "kind": "kakao-careers",
+      "enabled": true,
+      "url": "https://careers.kakao.com/public/api/job-list",
+      "part": "TECHNOLOGY",
+      "organization": "카카오",
+      "locations": ["경기"],
+      "maxPages": 10
+    }
+  ]
+}

@@ -1,0 +1,1082 @@
+{
+  "opportunities": {
+    "opp_b820b25f9665623f196e": {
+      "id": "opp_b820b25f9665623f196e",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005125",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005125&lang=ko",
+      "title": "[NAVER] 쇼핑 신사업 개발 담당 (경력)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-21T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Service & Business",
+        "Business Development"
+      ],
+      "summary": "Service & Business · Business Development 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005125&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Business Development",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:86820cb19059e7663d87b9213796d99cabbd711b5d5f75ea5c400e264d8053f7",
+      "dedupeKey": "discovered:b820b25f9665623f196e2d32ed122a761f0d848d347c50876c061415f9abe804",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_7bc9f9d1627a3d310422": {
+      "id": "opp_7bc9f9d1627a3d310422",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005128",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005128&lang=ko",
+      "title": "[NAVER] 쇼핑 e쿠폰 사업 개발 담당 (경력)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-21T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Service & Business",
+        "Business Development"
+      ],
+      "summary": "Service & Business · Business Development 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005128&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Business Development",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:6cb80b54e6477762d288fdb290f8713e7af074f07dffd8ca5a81760f899ce2b5",
+      "dedupeKey": "discovered:7bc9f9d1627a3d31042289814bfb63f51219d73ebe642f5151f603d4cdee0c3e",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_5e28c8e1b715ffb4d034": {
+      "id": "opp_5e28c8e1b715ffb4d034",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005139",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005139&lang=ko",
+      "title": "[NAVER] 헬스케어 산업 리서치 (체험형 인턴)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-22T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "신입",
+        "인턴"
+      ],
+      "tags": [
+        "Service & Business",
+        "공통"
+      ],
+      "summary": "Service & Business · 공통 분야의 인턴 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005139&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "공통",
+        "employment": "인턴"
+      },
+      "contentHash": "sha256:c29088b33c06507779d5521b04576043833f92bb61f6d39df2edb705f6cdf9d5",
+      "dedupeKey": "discovered:5e28c8e1b715ffb4d03492043234a613ff3b1f7b282e8937d47b9339bf83fbf2",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "선호 직무 조건 불일치"
+      }
+    },
+    "opp_5dbd9849522ffbdb066a": {
+      "id": "opp_5dbd9849522ffbdb066a",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005076",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005076&lang=ko",
+      "title": "[네이버웹툰] 웹툰 계약/정산 백엔드 시스템 기획자 (경력)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-20T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Service & Business",
+        "Product Development",
+        "백엔드"
+      ],
+      "summary": "Service & Business · Product Development 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005076&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Product Development",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:7765b4a2baa0172753bb7de8cc42805d2c7dd3131b74334501122d37df59c4f7",
+      "dedupeKey": "discovered:5dbd9849522ffbdb066a6317567602b12023b821acd4d294b396bf48ab770d35",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_33a71448a11bf0bdd4e6": {
+      "id": "opp_33a71448a11bf0bdd4e6",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005144",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005144&lang=ko",
+      "title": "[네이버웹툰] 영상 컨텐츠 기획 및 제작 담당 (계약직)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-21T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "계약"
+      ],
+      "tags": [
+        "Service & Business",
+        "Content Development"
+      ],
+      "summary": "Service & Business · Content Development 분야의 계약 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005144&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Content Development",
+        "employment": "계약"
+      },
+      "contentHash": "sha256:5634176560b57a0555ee37a050f08c7dd39323ec7eca4930e81a179954da1946",
+      "dedupeKey": "discovered:33a71448a11bf0bdd4e6e47003f27ddf2d3070de2d193011d36a7ef9f6ad3d2d",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_f07da709f2268b6f53f4": {
+      "id": "opp_f07da709f2268b6f53f4",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005137",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005137&lang=ko",
+      "title": "[네이버웹툰] HR Assistant (체험형 인턴)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-22T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "신입",
+        "인턴"
+      ],
+      "tags": [
+        "Corporate",
+        "Human Resources"
+      ],
+      "summary": "Corporate · Human Resources 분야의 인턴 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005137&lang=ko"
+      ],
+      "attributes": {
+        "department": "Corporate",
+        "field": "Human Resources",
+        "employment": "인턴"
+      },
+      "contentHash": "sha256:a212c39b65d30969b324627adc0defef7445f8622c1d5396521db905c66a40c3",
+      "dedupeKey": "discovered:f07da709f2268b6f53f4058739d434b1e2d84882cf76e4597aa38c93c1e3303f",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "선호 직무 조건 불일치"
+      }
+    },
+    "opp_738fa6526c31dce5b046": {
+      "id": "opp_738fa6526c31dce5b046",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005126",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005126&lang=ko",
+      "title": "[네이버랩스] Embodied AI Research Engineer (VLA, World Models & E2E Navigation)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-23T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Tech",
+        "공통",
+        "AI Engineer"
+      ],
+      "summary": "Tech · 공통 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005126&lang=ko"
+      ],
+      "attributes": {
+        "department": "Tech",
+        "field": "공통",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:d302d65ffa240c2550c417b4e99dd1b588a00420edc1fc09a3a42be2ef0a3221",
+      "dedupeKey": "discovered:738fa6526c31dce5b046d6a77db291dc827db78c6efaa58388b0309f8b3f9da2",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_a6aa6ef63a58d907002b": {
+      "id": "opp_a6aa6ef63a58d907002b",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005124",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005124&lang=ko",
+      "title": "[네이버웹툰] 백엔드 서버 개발 (경력)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-26T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Tech",
+        "Backend",
+        "백엔드"
+      ],
+      "summary": "Tech · Backend 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005124&lang=ko"
+      ],
+      "attributes": {
+        "department": "Tech",
+        "field": "Backend",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:f5d23b7da4de86baf369f41eaaf8bd8426b531a8cd28e968f6cb0fa4d73d0a28",
+      "dedupeKey": "discovered:a6aa6ef63a58d907002b8104dabd72547b1eccfe317fbaccdbb39d64449610e1",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_d7f4eccd0705deb971f7": {
+      "id": "opp_d7f4eccd0705deb971f7",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005112",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005112&lang=ko",
+      "title": "[네이버웹툰] 웹툰 계약/정산 백엔드 정책/통제 (계약직)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-26T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "계약"
+      ],
+      "tags": [
+        "Corporate",
+        "Risk Management",
+        "백엔드"
+      ],
+      "summary": "Corporate · Risk Management 분야의 계약 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005112&lang=ko"
+      ],
+      "attributes": {
+        "department": "Corporate",
+        "field": "Risk Management",
+        "employment": "계약"
+      },
+      "contentHash": "sha256:1ee76998f2667b70623ed7df520a9da508593a420474aeb9031c8ceb5b43c99c",
+      "dedupeKey": "discovered:d7f4eccd0705deb971f73ab4c79e45df0f19839227a97c216fabfa0d3f049a45",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_586153988dd250ebc6c9": {
+      "id": "opp_586153988dd250ebc6c9",
+      "type": "JOB",
+      "sourceId": "naver-careers",
+      "externalId": "30005102",
+      "canonicalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005102&lang=ko",
+      "title": "[네이버웹툰] 재무회계 (경력)",
+      "organization": "네이버",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-26T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Corporate",
+        "회계"
+      ],
+      "summary": "Corporate · 회계 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005102&lang=ko"
+      ],
+      "attributes": {
+        "department": "Corporate",
+        "field": "회계",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:9526c8fc005fb798bf8136f7e23d606dd6353b3dd8e93cdfb318ffa5ba038c57",
+      "dedupeKey": "discovered:586153988dd250ebc6c9bf552e9fcd7c917a7ad224a9ca8e58b8388faee7c4a8",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_e462f4dc7ea50d584d05": {
+      "id": "opp_e462f4dc7ea50d584d05",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005170",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005170&lang=ko",
+      "title": "[NAVER Cloud] 커머셜 세일즈 담당자 (경력)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-05T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Service & Business",
+        "어카운트/세일즈"
+      ],
+      "summary": "Service & Business · 어카운트/세일즈 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005170&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "어카운트/세일즈",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:b9e8c483ef7d236649ef7793b39c90c3dce962d587d24ed4344dab2f8472a3fa",
+      "dedupeKey": "discovered:e462f4dc7ea50d584d05fa306dcff3455e31010c1e6cf4dd7a4aefbbb8e0cd85",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_c6775781f4b9c2dc4fb2": {
+      "id": "opp_c6775781f4b9c2dc4fb2",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005146",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005146&lang=ko",
+      "title": "[NAVER Cloud] AX·AI 신사업 전략 기획 (경력)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-05T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Service & Business",
+        "Business Development",
+        "AI Engineer"
+      ],
+      "summary": "Service & Business · Business Development 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005146&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Business Development",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:7f8b39c5afc09e182bcd4ad5550a617337efe765db0ceca7cd0cb2231a49e52c",
+      "dedupeKey": "discovered:c6775781f4b9c2dc4fb235a1a76aa4557242214a46ba57e4bf517aa56bdcb768",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_a7e14d1de3f5fd25f438": {
+      "id": "opp_a7e14d1de3f5fd25f438",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005136",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005136&lang=ko",
+      "title": "[NAVER Cloud] 클라우드 비즈니스 테크 컨설팅 (경력)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-29T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Service & Business",
+        "어카운트/세일즈"
+      ],
+      "summary": "Service & Business · 어카운트/세일즈 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005136&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "어카운트/세일즈",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:adf9eae26c9157240c6bd5cf2460c1cad1f22fdb08e49651b35897e0ce1c377c",
+      "dedupeKey": "discovered:a7e14d1de3f5fd25f4383aa127a90bdef2167750b2fc70d757961b72f8da0792",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_3a023c7f51e783d0d0ab": {
+      "id": "opp_3a023c7f51e783d0d0ab",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005129",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005129&lang=ko",
+      "title": "[NAVER Cloud] 대외전략 및 협력 담당자 (경력)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-29T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "경력",
+        "정규"
+      ],
+      "tags": [
+        "Corporate",
+        "Strategic Communication"
+      ],
+      "summary": "Corporate · Strategic Communication 분야의 정규 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005129&lang=ko"
+      ],
+      "attributes": {
+        "department": "Corporate",
+        "field": "Strategic Communication",
+        "employment": "정규"
+      },
+      "contentHash": "sha256:b485ff581727c6026d5d53cbe401b7e0f2913982a13894372a452358dead3316",
+      "dedupeKey": "discovered:3a023c7f51e783d0d0ab1c9c45eb329e6098996346230107aa3d2eec01796f23",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_ff5b9e24e7d0d98b645e": {
+      "id": "opp_ff5b9e24e7d0d98b645e",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005163",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005163&lang=ko",
+      "title": "[NAVER Cloud] 클라우드 사업 분야 채용 (체험형 인턴)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-29T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "신입",
+        "인턴"
+      ],
+      "tags": [
+        "Service & Business",
+        "어카운트/세일즈"
+      ],
+      "summary": "Service & Business · 어카운트/세일즈 분야의 인턴 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005163&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "어카운트/세일즈",
+        "employment": "인턴"
+      },
+      "contentHash": "sha256:c82859a6c05d4b855f3a8507692ea06fc1e600c1bc8e653552b696c309be1770",
+      "dedupeKey": "discovered:ff5b9e24e7d0d98b645e18803a5b6a71634d8384aaf5e4881b0ddeae519a7c21",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "선호 직무 조건 불일치"
+      }
+    },
+    "opp_a84f03f61f7672b8a7d5": {
+      "id": "opp_a84f03f61f7672b8a7d5",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005134",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005134&lang=ko",
+      "title": "[NAVER Cloud] 글로벌 사업 개발 (체험형 인턴)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-29T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "신입",
+        "인턴"
+      ],
+      "tags": [
+        "Service & Business",
+        "Business Development"
+      ],
+      "summary": "Service & Business · Business Development 분야의 인턴 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005134&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Business Development",
+        "employment": "인턴"
+      },
+      "contentHash": "sha256:7f65adf477dc28d98f243c257228b384466fa09e874c2fb49a187499d4d769cc",
+      "dedupeKey": "discovered:a84f03f61f7672b8a7d5b08c4d48321f6ab11e802688427beced63b6621dfd3a",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "선호 직무 조건 불일치"
+      }
+    },
+    "opp_0ca72661fefa0b194118": {
+      "id": "opp_0ca72661fefa0b194118",
+      "type": "JOB",
+      "sourceId": "naver-cloud-careers",
+      "externalId": "30005133",
+      "canonicalUrl": "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005133&lang=ko",
+      "title": "[NAVER Cloud] HyperCLOVA X Omni-modal Model Recipe 개발 (체험형 인턴)",
+      "organization": "네이버클라우드",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-29T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "신입",
+        "인턴"
+      ],
+      "tags": [
+        "Tech",
+        "AI/ML",
+        "AI Engineer"
+      ],
+      "summary": "Tech · AI/ML 분야의 인턴 공고",
+      "summaryEvidence": [
+        "https://recruit.navercloudcorp.com/rcrt/view.do?annoId=30005133&lang=ko"
+      ],
+      "attributes": {
+        "department": "Tech",
+        "field": "AI/ML",
+        "employment": "인턴"
+      },
+      "contentHash": "sha256:bde78a3c4997be525eed6a8bbdd06cc145c77e2f72a508999a4acbb38b712917",
+      "dedupeKey": "discovered:0ca72661fefa0b194118fbc39789a3ccd65edce521c62f28246c867ca13c00ba",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z"
+    },
+    "opp_acbcec4a71bcdcce7493": {
+      "id": "opp_acbcec4a71bcdcce7493",
+      "type": "JOB",
+      "sourceId": "naver-z-careers",
+      "externalId": "30005172",
+      "canonicalUrl": "https://recruit.naverz-corp.com/rcrt/view.do?annoId=30005172&lang=ko",
+      "title": "[NAVER Z] 제페토 월드 유니티 제작 (계약직)",
+      "organization": "네이버제트",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-08-02T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "무관",
+        "계약"
+      ],
+      "tags": [
+        "Tech",
+        "Unity"
+      ],
+      "summary": "Tech · Unity 분야의 계약 공고",
+      "summaryEvidence": [
+        "https://recruit.naverz-corp.com/rcrt/view.do?annoId=30005172&lang=ko"
+      ],
+      "attributes": {
+        "department": "Tech",
+        "field": "Unity",
+        "employment": "계약"
+      },
+      "contentHash": "sha256:ee4eabecd8da694233dabbc1ede4d607155dc648331dbeed33c74946e8cba7e4",
+      "dedupeKey": "discovered:acbcec4a71bcdcce7493a9fd80e4db915fff8c196fd9a4e891007644a7a7e741",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_337df0e43932b28cda60": {
+      "id": "opp_337df0e43932b28cda60",
+      "type": "JOB",
+      "sourceId": "naver-z-careers",
+      "externalId": "30005120",
+      "canonicalUrl": "https://recruit.naverz-corp.com/rcrt/view.do?annoId=30005120&lang=ko",
+      "title": "[NAVER Z] 8월 전분야 체험형 인턴 - 2차",
+      "organization": "네이버제트",
+      "status": "OPEN",
+      "publishedAt": null,
+      "closesAt": "2026-07-23T23:59:59+09:00",
+      "locations": [
+        "경기"
+      ],
+      "eligibility": [
+        "신입",
+        "인턴"
+      ],
+      "tags": [
+        "Service & Business",
+        "Content Management 외"
+      ],
+      "summary": "Service & Business · Content Management 외 분야의 인턴 공고",
+      "summaryEvidence": [
+        "https://recruit.naverz-corp.com/rcrt/view.do?annoId=30005120&lang=ko"
+      ],
+      "attributes": {
+        "department": "Service & Business",
+        "field": "Content Management 외",
+        "employment": "인턴"
+      },
+      "contentHash": "sha256:061bab93bac207e594c2491b86019ff2261f40fe527ded5d66cce278533e3e73",
+      "dedupeKey": "discovered:337df0e43932b28cda60bfeabc21875cad234738bcb8bef4ae18d72cedbbdfb5",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "선호 직무 조건 불일치"
+      }
+    },
+    "opp_25ab1d0c81ed007a6369": {
+      "id": "opp_25ab1d0c81ed007a6369",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14469",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14469",
+      "title": "AI Platform 추론 최적화 Engineer(경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2026-06-11T09:34:19+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "Server"
+      ],
+      "summary": "- LLM 추론 엔진 기반의 AI 서빙 플랫폼 설계 및 최적화 - vLLM, SGLang, TensorRT-LLM 등 오픈소스 추론 엔진의 도입, 적용 및 운영 - LLM 추론 성능 향상을 위한 캐시, 배칭, 양자…",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14469"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:ae90d10161c81d944b2edcf8d9ae45e2bfc03a8431fd3c3f653086be4e2423b0",
+      "dedupeKey": "discovered:25ab1d0c81ed007a636996529e4f74cab8ccfae00e1747f42f9a50397e50d99d",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_e37393c341386f670ed6": {
+      "id": "opp_e37393c341386f670ed6",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14276",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14276",
+      "title": "Data Analytics Engineer (경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2025-10-27T18:44:42+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "기타"
+      ],
+      "summary": "- 사용자의 요구 사항에 맞는 다양한 형태와 성격의 데이터셋을 설계하고 개발, 운영합니다.",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14276"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:1936b5bc46aa00a21c7b492d8e989283849a7bef839d3b7515e0abd3c95ed005",
+      "dedupeKey": "discovered:e37393c341386f670ed62ad20aed8c521b1c90c92178119fe61c9b8bb8831cf3",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_f14c425f4786de290dd7": {
+      "id": "opp_f14c425f4786de290dd7",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14318",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14318",
+      "title": "Machine Learning Engineer (Search) (경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2025-12-02T19:03:49+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "Algorithm/ML"
+      ],
+      "summary": "- Semantic Search 기술 설계 및 개발 (RAG, Embedding, Reranker) - 쇼핑, 로컬 등 버티컬 서비스에 특화된 전용 검색 모델 및 랭킹 알고리즘 개발 - 실시간 검색을 위한 모델 경…",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14318"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:16fa535e7722367e8d474449a0a41108b47041d67991bc8855424f85454ab3ba",
+      "dedupeKey": "discovered:f14c425f4786de290dd73887afe18cc4f46edaae9ad2089cd170a6edd65250f0",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_4578996d2f141dcba841": {
+      "id": "opp_4578996d2f141dcba841",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14324",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14324",
+      "title": "Data Scientist (경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2025-12-04T19:11:36+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "Algorithm/ML"
+      ],
+      "summary": "데이터 사이언티스트로서 카카오의 핵심 서비스에 적용되는 알고리즘을 연구하고 개발하게 됩니다.",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14324"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:603b4a88bf4e7b204e1230c43fc7366cce275552f53fb4c3878088679fa2aea4",
+      "dedupeKey": "discovered:4578996d2f141dcba84140e0fbbd682d572d6f235f3b2d7a161f65fcf74a7eba",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_dc30d86b76f71126d5fa": {
+      "id": "opp_dc30d86b76f71126d5fa",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14402",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14402",
+      "title": "Multimodal LLM Research Engineer (경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2026-03-16T18:37:33+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "Algorithm/ML"
+      ],
+      "summary": "- 이미지·오디오·텍스트 등 다양한 모달리티를 다루는 Multimodal LLM 기반 서비스 특화 모델 개발 - SFT(Supervised Fine-tuning) 및 Off-policy/On-policy RL을 통…",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14402"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:d1e88c5cee1ecee1ea1b4b060544a7413bc878ee393e507c4b030e0e0b32a56c",
+      "dedupeKey": "discovered:dc30d86b76f71126d5fa139d7fe6dcb0fd64e2f0d2e7bc3f0e54c57124713a3f",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_385d92bef119e8841c1e": {
+      "id": "opp_385d92bef119e8841c1e",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14472",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14472",
+      "title": "AI 추론/학습 효율화 엔지니어 (경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2026-06-12T17:24:29+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "Algorithm/ML"
+      ],
+      "summary": "- LLM/LMM 서버 환경 추론 성능 개선 - LLM 학습 성능 개선",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14472"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:2e29ac5190b309c165a446dd9d15baa858f794583bfed444b6023a943243643b",
+      "dedupeKey": "discovered:385d92bef119e8841c1ecd9c327320c68c979fcb7d2dca0ac5ef62da24a1ba87",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    },
+    "opp_b64a887b14e47e172b22": {
+      "id": "opp_b64a887b14e47e172b22",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-14476",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-14476",
+      "title": "LLM Research Engineer (Pre-training) (신입/경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2026-06-18T11:51:04+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "신입"
+      ],
+      "tags": [
+        "테크",
+        "Algorithm/ML"
+      ],
+      "summary": "- 추론 및 학습에 효율적인 LLM 구조 탐색 및 최적화 (e.g.",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-14476"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:159c38ba749fc8437a34ff1d9a469ce290205352dc4db583c1d726132489e8fc",
+      "dedupeKey": "discovered:b64a887b14e47e172b22a1a44594a718b50d8f647aa423c4d5d0ede776f8693b",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z"
+    },
+    "opp_62650d0a3d52f1c76a5f": {
+      "id": "opp_62650d0a3d52f1c76a5f",
+      "type": "JOB",
+      "sourceId": "kakao-tech-careers",
+      "externalId": "P-13744",
+      "canonicalUrl": "https://careers.kakao.com/jobs/P-13744",
+      "title": "서비스/플랫폼 QA 담당자 (경력)",
+      "organization": "카카오",
+      "status": "OPEN",
+      "publishedAt": "2024-08-01T10:59:21+09:00",
+      "closesAt": null,
+      "locations": [
+        "판교",
+        "경기"
+      ],
+      "eligibility": [
+        "경력"
+      ],
+      "tags": [
+        "테크",
+        "QA"
+      ],
+      "summary": "소프트웨어 개발 라이프사이클 전반에 걸친 품질 활동 - QA 플랜 및 효율적인 테스트 전략 수립 - 리스크 기반의 요구사항 및 스펙 분석 - 테스트 케이스 구조 설계 - 테스트 진행사항 관리, 이슈관리 및 형상 관…",
+      "summaryEvidence": [
+        "https://careers.kakao.com/jobs/P-13744"
+      ],
+      "attributes": {
+        "employeeType": "정규직"
+      },
+      "contentHash": "sha256:c60888557665b1c4d66a92940f9bd6bfe5a74310f282216cfb24daa8b1ea9483",
+      "dedupeKey": "discovered:62650d0a3d52f1c76a5fb67e9ef6379311150c2a744555ba33d5ce78cfdf0aa9",
+      "firstSeenAt": "2026-07-20T08:10:29.734Z",
+      "lastSeenAt": "2026-07-20T08:11:13.561Z",
+      "review": {
+        "status": "REJECTED",
+        "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      }
+    }
+  },
+  "deliveries": {
+    "discovered:0ca72661fefa0b194118fbc39789a3ccd65edce521c62f28246c867ca13c00ba": {
+      "status": "SENT",
+      "opportunityId": "opp_0ca72661fefa0b194118",
+      "sentAt": "2026-07-20T08:10:29.734Z",
+      "messageId": "1528675458005073921"
+    },
+    "discovered:b64a887b14e47e172b22a1a44594a718b50d8f647aa423c4d5d0ede776f8693b": {
+      "status": "SENT",
+      "opportunityId": "opp_b64a887b14e47e172b22",
+      "sentAt": "2026-07-20T08:10:29.734Z",
+      "messageId": "1528675459750166610"
+    }
+  },
+  "pending": {},
+  "feedback": []
+}

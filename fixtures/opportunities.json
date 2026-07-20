@@ -1,0 +1,17 @@
+[
+  {
+    "type": "JOB",
+    "sourceId": "local-example",
+    "externalId": "job-001",
+    "url": "https://example.com/jobs/001",
+    "title": "신입 백엔드 개발자 모집",
+    "organization": "예시테크",
+    "status": "OPEN",
+    "locations": ["서울"],
+    "eligibility": ["신입"],
+    "tags": ["백엔드", "Java", "Spring"],
+    "summary": "주문 플랫폼을 개발하는 신입 백엔드 포지션",
+    "summaryEvidence": ["https://example.com/jobs/001"],
+    "closesAt": "2026-07-31T18:00:00+09:00"
+  }
+]

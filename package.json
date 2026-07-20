@@ -1,0 +1,16 @@
+{
+  "name": "developer-opportunity-radar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Discord radar for entry-level developer opportunities in the Seoul metropolitan area",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "radar": "node src/cli.js run",
+    "recover": "node src/cli.js recover",
+    "dry-run": "node src/cli.js dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

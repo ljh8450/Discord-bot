@@ -1,0 +1,14 @@
+{
+  "timezone": "Asia/Seoul",
+  "job": {
+    "locations": ["서울", "경기", "인천", "remote"],
+    "entryLevelTerms": ["신입", "인턴", "경력 무관", "entry level", "intern"],
+    "preferredRoles": ["백엔드", "풀스택", "fde", "프론트엔드", "ai engineer"],
+    "developerRoleTerms": ["개발자", "개발 엔지니어", "developer", "engineer"],
+    "conservativeTerms": ["embedded", "임베디드", ".net", "닷넷", "c developer", "c 개발자"],
+    "organizationAllowlist": ["네이버", "카카오", "라인", "쿠팡", "배달의민족", "토스"]
+  },
+  "benefit": {
+    "approvalThreshold": 3
+  }
+}

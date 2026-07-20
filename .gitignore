@@ -1,0 +1,6 @@
+# Codex transcripts can contain prompts, local file contents, and tool output.
+logs/codex-sessions/
+data/*.tmp
+.env
+.env.*
+!.env.example
