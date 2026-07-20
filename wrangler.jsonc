@@ -4,7 +4,10 @@
   "main": "cloudflare/radar-scheduler.mjs",
   "compatibility_date": "2026-07-20",
   "triggers": {
-    "crons": ["2,12,22,32,42,52 * * * *"]
+    "crons": [
+      "2,12,22,32,42,52 * * * *",
+      "5 0,9 * * *"
+    ]
   },
   "observability": {
     "enabled": true
