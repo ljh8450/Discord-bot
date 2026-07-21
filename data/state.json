@@ -3428,6 +3428,72 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_b8b3ac0ef1a02fee92d8": {
+      "id": "opp_b8b3ac0ef1a02fee92d8",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "canonicalUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "summaryEvidence": [
+        "https://openai.com/index/safety-alignment-long-horizon-models"
+      ],
+      "attributes": {},
+      "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
+      "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
+      "firstSeenAt": "2026-07-21T00:05:11.640Z",
+      "lastSeenAt": "2026-07-21T00:05:11.640Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_205a4c96cefa532c9d32": {
+      "id": "opp_205a4c96cefa532c9d32",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97607",
+      "canonicalUrl": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community",
+      "title": "$100 million for open source: A milestone built by the community",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 20 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/"
+      ],
+      "attributes": {},
+      "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
+      "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
+      "firstSeenAt": "2026-07-21T00:05:11.640Z",
+      "lastSeenAt": "2026-07-21T00:05:11.640Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -3676,6 +3742,18 @@
       "opportunityId": "opp_9e9c19dcb6e867a3095d",
       "sentAt": "2026-07-20T23:12:20.889Z",
       "messageId": "1528902416160915741"
+    },
+    "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6": {
+      "status": "SENT",
+      "opportunityId": "opp_205a4c96cefa532c9d32",
+      "sentAt": "2026-07-21T00:05:11.640Z",
+      "messageId": "1528915712779747339"
+    },
+    "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324": {
+      "status": "SENT",
+      "opportunityId": "opp_b8b3ac0ef1a02fee92d8",
+      "sentAt": "2026-07-21T00:05:11.640Z",
+      "messageId": "1528915712779747339"
     }
   },
   "pending": {
