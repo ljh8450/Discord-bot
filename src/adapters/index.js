@@ -13,6 +13,8 @@ const { collectFromTicketa } = require('./ticketa-adapter');
 const { collectFromWantedCareers } = require('./wanted-careers-adapter');
 const { collectFromSaraminCareers } = require('./saramin-careers-adapter');
 const { collectFromGreenhouseCareers } = require('./greenhouse-careers-adapter');
+const { collectFromGeekNews } = require('./geeknews-adapter');
+const { collectFromYouTube } = require('./youtube-feed-adapter');
 
 async function collectSource(source, options = {}) {
   if (source.kind === 'file') return collectFromFile(source, options.rootDir);
@@ -36,6 +38,8 @@ async function collectSource(source, options = {}) {
   if (source.kind === 'greenhouse-careers') {
     return collectFromGreenhouseCareers(source, options.fetchImpl);
   }
+  if (source.kind === 'geeknews') return collectFromGeekNews(source, options.fetchImpl);
+  if (source.kind === 'youtube') return collectFromYouTube(source, options.fetchImpl);
   throw new TypeError(`unsupported source kind: ${source.kind}`);
 }
 
