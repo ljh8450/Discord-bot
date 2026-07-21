@@ -18,6 +18,7 @@ concurrency:
 
 permissions:
   contents: write
+  models: read
 
 jobs:
   digest:
@@ -36,6 +37,8 @@ jobs:
           DISCORD_OPERATIONS_WEBHOOK_URL: ${{ secrets.DISCORD_OPERATIONS_WEBHOOK_URL }}
       - run: node src/brief-cli.js
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_MODELS_MODEL: openai/gpt-4o-mini
           DISCORD_INSIGHTS_WEBHOOK_URL: ${{ secrets.DISCORD_INSIGHTS_WEBHOOK_URL }}
           DISCORD_OPERATIONS_WEBHOOK_URL: ${{ secrets.DISCORD_OPERATIONS_WEBHOOK_URL }}
       - name: Persist brief state

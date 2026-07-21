@@ -1,6 +1,6 @@
 function buildDeveloperBrief(items, options = {}) {
   const lines = items.map((item) => (
-    `• [${item.title}](${item.canonicalUrl}) — ${item.summary}\n  _${item.organization || item.sourceId}_`
+    `• [${item.title}](${item.canonicalUrl}) — ${item.koreanSummary || item.summary}\n  _${item.organization || item.sourceId}_`
   ));
   return {
     username: options.username || 'Developer Brief',
