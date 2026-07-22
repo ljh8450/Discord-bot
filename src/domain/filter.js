@@ -41,6 +41,9 @@ function filterJob(opportunity, profile) {
 }
 
 function filterHackathon(opportunity) {
+  if (opportunity.attributes.platformDeveloperEvent === true) {
+    return { decision: 'APPROVED', reason: '개발자 행사 출처' };
+  }
   if (
     opportunity.attributes.developmentOutput === true
     && hasDevelopmentOutput(
@@ -73,9 +76,17 @@ function filterExternalActivity(opportunity) {
   const text = searchableText(opportunity);
   const immediate = ['개발 동아리', '멘토링'];
   const needsBenefitReview = ['유료', '창업', '서포터즈', '풀타임'];
+  const conservativeAggregator = ['linkareer', 'campuspick'].includes(opportunity.sourceId);
+
+  if (conservativeAggregator && opportunity.attributes.verifiedDevelopmentActivity !== true) {
+    return { decision: 'REJECTED', reason: '명시적인 개발 결과물 근거 없음' };
+  }
 
   if (includesAny(text, needsBenefitReview) || opportunity.attributes.requiresBenefitReview === true) {
     return { decision: 'PENDING_BENEFIT', reason: '시간 부담 대비 활동 혜택 추가 심사 필요' };
+  }
+  if (conservativeAggregator) {
+    return { decision: 'APPROVED', reason: '명시적인 개발 결과물 활동' };
   }
   if (includesAny(text, immediate) || opportunity.attributes.immediateCategory === true) {
     return { decision: 'APPROVED', reason: '개발 대외활동 통과 기준 충족' };

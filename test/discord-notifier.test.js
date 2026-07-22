@@ -20,17 +20,3 @@ test('builds a compact Discord message with action links', () => {
     '공고 보기', '관심 있어요', '지원했어요', '관련 없어요',
   ]);
 });
-
-test('labels deadline reminders distinctly', () => {
-  const opportunity = normalizeOpportunity({
-    type: 'JOB', sourceId: 'careers', externalId: '2', url: 'https://example.com/jobs/2',
-    title: '신입 AI 엔지니어', organization: '예시테크', locations: ['서울'], eligibility: ['신입'],
-    summary: 'AI 플랫폼 개발 포지션', summaryEvidence: ['https://example.com/jobs/2'],
-    closesAt: '2026-07-23T18:00:00+09:00',
-  });
-  opportunity.eventType = 'DEADLINE_APPROACHING';
-  opportunity.deadlineStage = 'D-3';
-  const payload = buildWebhookPayload(opportunity);
-  assert.match(payload.embeds[0].title, /D-3/);
-  assert.equal(payload.embeds[0].color, 0xf59e0b);
-});

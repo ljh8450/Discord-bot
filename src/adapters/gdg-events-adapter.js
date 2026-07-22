@@ -43,7 +43,7 @@ function parseEventPage(html, source, url, now = new Date()) {
   const address = event.location?.address || {};
   const location = address.addressLocality || address.addressRegion || event.location?.name || '온라인';
   return {
-    type: /hackathon|해커톤/i.test(event.name) ? 'HACKATHON' : 'EXTERNAL_ACTIVITY',
+    type: 'HACKATHON',
     sourceId: source.id, externalId: url, url, title: cleanText(event.name),
     organization: event.organizer?.name || 'Google Developer Groups', status: 'OPEN',
     closesAt: event.startDate, locations: [cleanText(location)], eligibility: ['참가 자격 상세 확인'],
@@ -52,7 +52,7 @@ function parseEventPage(html, source, url, now = new Date()) {
     summaryEvidence: [url],
     attributes: {
       developmentOutput: /hackathon|해커톤|hands-on|워크숍/i.test(`${event.name} ${event.description}`),
-      immediateCategory: true, eventStartsAt: event.startDate,
+      platformDeveloperEvent: true, eventStartsAt: event.startDate,
     },
   };
 }

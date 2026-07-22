@@ -19,31 +19,6 @@ function balanceByType(items, typeOrder = NOTIFICATION_TYPE_ORDER) {
   return ordered;
 }
 
-function localDayNumber(value, timezone) {
-  const parts = new Intl.DateTimeFormat('en-US', {
-    timeZone: timezone,
-    year: 'numeric',
-    month: 'numeric',
-    day: 'numeric',
-  }).formatToParts(value);
-  const part = (type) => Number(parts.find((item) => item.type === type)?.value);
-  return Date.UTC(part('year'), part('month') - 1, part('day')) / 86_400_000;
-}
-
-function createDeadlineEvent(opportunity, now, timezone, thresholds) {
-  if (opportunity.status !== 'OPEN' || !opportunity.closesAt) return null;
-  const deadline = new Date(opportunity.closesAt);
-  if (Number.isNaN(deadline.getTime()) || deadline.getTime() < now.getTime()) return null;
-  const daysRemaining = localDayNumber(deadline, timezone) - localDayNumber(now, timezone);
-  if (!thresholds.includes(daysRemaining)) return null;
-  return {
-    ...opportunity,
-    eventType: 'DEADLINE_APPROACHING',
-    deadlineStage: daysRemaining === 0 ? '오늘 마감' : `D-${daysRemaining}`,
-    dedupeKey: `deadline:${opportunity.id}:${opportunity.closesAt}:d-${daysRemaining}`,
-  };
-}
-
 async function runRadar(options) {
   const {
     rawItems,
@@ -54,18 +29,15 @@ async function runRadar(options) {
     checkedSourceIds = [],
     missingThreshold = 3,
     verifyOpportunityUrl,
-    timezone = profile.timezone || 'Asia/Seoul',
-    deadlineThresholds = [3, 1, 0],
     maxNotifications = Number.POSITIVE_INFINITY,
     maxNotificationsByType = {},
   } = options;
   const state = await store.load();
   const report = {
     discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0, closed: 0,
-    deadlineSent: 0, deferred: 0, sentByType: {}, deferredByType: {},
+    deferred: 0, sentByType: {}, deferredByType: {},
   };
   const seenIds = new Set();
-  const sentOpportunityIds = new Set();
 
   for (const raw of balanceByType(rawItems)) {
     let opportunity;
@@ -79,8 +51,16 @@ async function runRadar(options) {
     const previous = state.opportunities[opportunity.id];
     seenIds.add(opportunity.id);
     const unchanged = previous?.contentHash === opportunity.contentHash;
+    const previouslySent = previous && (
+      previous.review?.status === 'SENT'
+      || state.deliveries[previous.dedupeKey]?.status === 'SENT'
+    );
     if (previous) opportunity.firstSeenAt = previous.firstSeenAt;
-    if (unchanged) {
+    if (previouslySent) {
+      opportunity.eventType = previous.eventType || 'DISCOVERED';
+      opportunity.dedupeKey = previous.dedupeKey;
+      opportunity.review = previous.review || { status: 'SENT', reason: '기존 발송 완료' };
+    } else if (unchanged) {
       opportunity.eventType = previous.eventType || 'DISCOVERED';
       opportunity.dedupeKey = previous.dedupeKey;
       opportunity.review = previous.review;
@@ -202,43 +182,6 @@ async function runRadar(options) {
     state.opportunities[opportunity.id].review.status = 'SENT';
     report.sent += 1;
     report.sentByType[opportunity.type] = (report.sentByType[opportunity.type] || 0) + 1;
-    sentOpportunityIds.add(opportunity.id);
-    await store.save(state);
-  }
-
-  for (const opportunity of Object.values(state.opportunities)) {
-    if (!seenIds.has(opportunity.id) || sentOpportunityIds.has(opportunity.id)) continue;
-    if (opportunity.review?.status !== 'SENT') continue;
-    const event = createDeadlineEvent(opportunity, now, timezone, deadlineThresholds);
-    if (!event || state.deliveries[event.dedupeKey]?.status === 'SENT') continue;
-    if (report.sent >= maxNotifications) {
-      report.deferred += 1;
-      report.deferredByType[opportunity.type] = (report.deferredByType[opportunity.type] || 0) + 1;
-      continue;
-    }
-    if (verifyOpportunityUrl) {
-      try {
-        const verification = await verifyOpportunityUrl(event.canonicalUrl);
-        if (!verification.ok) continue;
-      } catch {
-        continue;
-      }
-    }
-    try {
-      const message = await notify(event);
-      state.deliveries[event.dedupeKey] = {
-        status: 'SENT', opportunityId: event.id, sentAt: now.toISOString(),
-        messageId: message?.id || null,
-      };
-      report.sent += 1;
-      report.sentByType[event.type] = (report.sentByType[event.type] || 0) + 1;
-      report.deadlineSent += 1;
-    } catch (error) {
-      state.deliveries[event.dedupeKey] = {
-        status: 'FAILED', opportunityId: event.id, attemptedAt: now.toISOString(), error: error.message,
-      };
-      report.failed += 1;
-    }
     await store.save(state);
   }
 
@@ -261,4 +204,4 @@ async function runRadar(options) {
   return report;
 }
 
-module.exports = { balanceByType, createDeadlineEvent, runRadar };
+module.exports = { balanceByType, runRadar };

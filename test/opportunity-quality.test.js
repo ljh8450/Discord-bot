@@ -2,6 +2,7 @@ const assert = require('node:assert/strict');
 const test = require('node:test');
 
 const { mapLinkareerDetail } = require('../src/adapters/linkareer-adapter');
+const { mapCampuspickDetail } = require('../src/adapters/campuspick-adapter');
 const { mapTicketaEvent } = require('../src/adapters/ticketa-adapter');
 const { hasDevelopmentOutput } = require('../src/domain/development-relevance');
 const { applyProfileFilter } = require('../src/domain/filter');
@@ -72,6 +73,97 @@ test('keeps data and API implementation competitions as developer opportunities'
     ...item, canonicalUrl: item.url, tags: item.tags || [], eligibility: item.eligibility || [],
   }, {});
   assert.equal(decision.decision, 'APPROVED');
+});
+
+test('accepts curated platform developer events in the hackathon channel', () => {
+  const decision = applyProfileFilter({
+    type: 'HACKATHON', title: 'Android 개발자 밋업', organization: 'GDG',
+    tags: ['개발자 행사'], eligibility: [], locations: ['서울'], summary: '기술 발표',
+    attributes: { developmentOutput: false, platformDeveloperEvent: true },
+  }, {});
+
+  assert.equal(decision.decision, 'APPROVED');
+});
+
+test('rejects an IT crew without a required development output', () => {
+  const item = mapActivity({
+    title: '대학생 IT 크루 모집', skills: ['IT'],
+    description: 'SNS 콘텐츠 제작과 행사 홍보 및 친목 활동',
+  }, 'EXTERNAL_ACTIVITY');
+  const decision = applyProfileFilter(item, {});
+
+  assert.equal(item.attributes.verifiedDevelopmentActivity, false);
+  assert.equal(decision.decision, 'REJECTED');
+  assert.match(decision.reason, /개발 결과물/);
+});
+
+test('accepts Protocol Camp as an explicit product-building activity', () => {
+  const item = mapActivity({
+    title: 'Protocol Camp 10기 모집',
+    description: '12주 동안 블록체인 제품 MVP를 개발하고 배포하는 빌더 프로그램',
+  }, 'EXTERNAL_ACTIVITY');
+  const decision = applyProfileFilter(item, {});
+
+  assert.equal(item.attributes.verifiedDevelopmentActivity, true);
+  assert.equal(decision.decision, 'APPROVED');
+});
+
+test('accepts GIWA GASOK as an explicit builder activity', () => {
+  const item = mapActivity({
+    title: 'GIWA GASOK 빌더 프로그램',
+    description: 'MVP 구축부터 테스트넷과 메인넷 배포까지 진행',
+  }, 'EXTERNAL_ACTIVITY');
+  const decision = applyProfileFilter(item, {});
+
+  assert.equal(item.attributes.verifiedDevelopmentActivity, true);
+  assert.equal(decision.decision, 'APPROVED');
+});
+
+test('applies the conservative activity rule to Campuspick too', () => {
+  const html = `<script id='__INITIAL_STATE__'>${JSON.stringify({ activity: {
+    id: 11, title: 'AI 서비스 홍보 크루 모집', end_date: '2026-08-20',
+    company: '예시 기관', description: 'SNS 카드뉴스와 홍보 영상 제작',
+  } })}</script>`;
+  const item = mapCampuspickDetail(
+    html, { id: 'campuspick', priority: 80 },
+    'https://campuspick.com/activity/view?id=11', 'EXTERNAL_ACTIVITY',
+    new Date('2026-07-20'),
+  );
+  const decision = applyProfileFilter(item, {});
+
+  assert.equal(item.attributes.verifiedDevelopmentActivity, false);
+  assert.equal(decision.decision, 'REJECTED');
+});
+
+test('keeps LG AImers but rejects broad AI programs and hackathon staff roles', () => {
+  const cases = [
+    {
+      title: 'LG AImers 9기 모집',
+      description: 'AI 코딩 역량으로 실제 데이터 모델을 개발하는 온라인 해커톤',
+      expected: 'APPROVED',
+    },
+    {
+      title: 'SK 대학생 대외활동 써니 C',
+      description: 'AI Literacy 학습과 현업 문제 해결 AI 팀 프로젝트',
+      expected: 'REJECTED',
+    },
+    {
+      title: 'ONSO FutuRES College 모집',
+      description: '미래 사회 문제를 정의하고 해결 솔루션을 기획하는 활동',
+      expected: 'REJECTED',
+    },
+    {
+      title: 'AI 해커톤 멘토 모집',
+      description: '참가팀 모델 개발과 프로젝트 구현 과정의 기술 멘토링',
+      expected: 'REJECTED',
+    },
+  ];
+
+  for (const [index, current] of cases.entries()) {
+    const item = mapActivity({ id: index + 20, ...current }, 'EXTERNAL_ACTIVITY');
+    const actual = item ? applyProfileFilter(item, {}).decision : 'REJECTED';
+    assert.equal(actual, current.expected, current.title);
+  }
 });
 
 test('sends aggregator education through benefit review instead of immediate approval', () => {

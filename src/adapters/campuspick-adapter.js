@@ -1,6 +1,7 @@
 const {
   extractJsonScript, hasDevelopmentOutput, isTechRelevant, requestOptions,
 } = require('./platform-utils');
+const { hasExplicitDevelopmentActivity } = require('../domain/development-relevance');
 
 function mapCampuspickDetail(html, source, listingUrl, type, now = new Date()) {
   const x = extractJsonScript(html, '__INITIAL_STATE__')?.activity;
@@ -18,6 +19,8 @@ function mapCampuspickDetail(html, source, listingUrl, type, now = new Date()) {
     attributes: { listingUrl, originalUrl: url, sourcePriority: source.priority,
       developmentOutput: type === 'HACKATHON'
         && hasDevelopmentOutput(x.title, x.description, x.company),
+      verifiedDevelopmentActivity: type === 'EXTERNAL_ACTIVITY'
+        && hasExplicitDevelopmentActivity(x.title, x.description, x.company),
       immediateCategory: false,
       financialSupport: Boolean(x.prize_top || x.prize_total || x.prize_benefit) },
   };

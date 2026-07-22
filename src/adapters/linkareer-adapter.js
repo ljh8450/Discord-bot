@@ -1,6 +1,7 @@
 const {
   extractJsonScript, hasDevelopmentOutput, isTechRelevant, requestOptions,
 } = require('./platform-utils');
+const { hasExplicitDevelopmentActivity } = require('../domain/development-relevance');
 const TYPES = { contest: 'HACKATHON', education: 'EDUCATION', activity: 'EXTERNAL_ACTIVITY' };
 
 function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
@@ -10,7 +11,11 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
   if (closesAt && new Date(closesAt) < now) return null;
   const tags = [...(x.categories || []), ...(x.educationTypes || []), ...(x.skills || [])]
     .map((v) => typeof v === 'string' ? v : v?.name).filter(Boolean);
-  if (!isTechRelevant(x.title, tags, x.organizationName)) return null;
+  const activityDetails = [
+    x.description, x.content, x.detail, x.activityContent, x.recruitmentDetail,
+    x.qualification, x.preferentialTreatment, x.mainActivity,
+  ];
+  if (!isTechRelevant(x.title, tags, x.organizationName, activityDetails)) return null;
   const url = x.homepageURL || listingUrl;
   const benefits = [x.additionalBenefit, ...(x.benefits || [])]
     .map((v) => typeof v === 'string' ? v : v?.name).filter(Boolean).join(' ');
@@ -25,6 +30,10 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
       listingUrl, originalUrl: url, sourcePriority: source.priority,
       developmentOutput: type === 'HACKATHON'
         && hasDevelopmentOutput(x.title, tags, x.organizationName),
+      verifiedDevelopmentActivity: type === 'EXTERNAL_ACTIVITY'
+        && hasExplicitDevelopmentActivity(
+          x.title, tags, x.organizationName, benefits, activityDetails,
+        ),
       immediateCategory: false,
       requiresBenefitReview: type === 'EDUCATION',
       freeOrFunded: /무료|지원/.test(`${x.cost || ''} ${benefits}`),

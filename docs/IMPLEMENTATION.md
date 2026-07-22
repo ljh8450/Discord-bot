@@ -16,9 +16,9 @@
 - NAVER, NAVER Cloud, NAVER Z, 카카오 테크 공식 채용 출처
 - 실제 발송 없이 후보를 확인하는 npm run dry-run
 - 현재 유효 공고를 한 줄씩 묶어 보내는 npm run digest
-- 중요 필드 변경의 UPDATED 이벤트와 발송 직후 상태 체크포인트
+- 중요 필드 변경의 상태 갱신과 발송 직후 상태 체크포인트
 - JOB, HACKATHON, CONTENT, EXTERNAL_ACTIVITY, EDUCATION 채널 라우터
-- D-3, D-1, 당일 마감 알림과 이벤트별 중복 방지
+- 기회별 최초 성공 발송 이후 모든 재알림 방지
 - 출처 오류·0건 급감·Discord 발송 실패의 운영 채널 경고
 - 수집 결과가 갑자기 0건일 때 기존 공고 종료 판정을 보류하는 안전장치
 - 실행당 기본 10건 발송 상한과 다음 실행 자동 이월

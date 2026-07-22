@@ -28,6 +28,24 @@ const EXPLICIT_IMPLEMENTATION_PATTERNS = [
   /software|backend|frontend|fullstack|computer\s*vision|prototype/,
 ];
 
+const EXPLICIT_ACTIVITY_OUTPUT_PATTERNS = [
+  /(?:mvp|prototype|product|service|project|app|web|api|model|dapp|smart\s*contract).{0,40}(?:build|develop|implement|deploy|launch|ship)/i,
+  /(?:build|develop|implement|deploy|launch|ship).{0,40}(?:mvp|prototype|product|service|project|app|web|api|model|dapp|smart\s*contract)/i,
+  /(?:mvp|프로토타입|프로덕트|제품|서비스|프로젝트|앱|웹|api|모델|디앱|스마트\s*컨트랙트).{0,40}(?:개발|구현|제작|구축|빌드|배포|출시)/i,
+  /(?:개발|구현|제작|구축|빌드|배포|출시).{0,40}(?:mvp|프로토타입|프로덕트|제품|서비스|프로젝트|앱|웹|api|모델|디앱|스마트\s*컨트랙트)/i,
+  /코드.{0,20}(?:작성|구현|제출|배포)|(?:코딩|프로그래밍).{0,20}(?:프로젝트|실습|과제)/i,
+];
+
+const VERIFIED_BUILDER_PROGRAM_PATTERNS = [
+  /protocol\s*camp/i,
+  /\bgiwa\b.{0,40}\bgasok\b|\bgasok\b.{0,40}\bgiwa\b/i,
+];
+
+const NON_PARTICIPANT_ROLE_PATTERNS = [
+  /(?:멘토|강사|운영진|운영요원|스태프|심사위원)\s*(?:모집|선발)/i,
+  /(?:해커톤|경진대회|공모전).{0,30}(?:멘토|강사|운영진|운영요원|스태프|심사위원)/i,
+];
+
 function relevanceText(values) {
   return values.flat(Infinity).filter(Boolean).join(' ').toLowerCase();
 }
@@ -43,4 +61,11 @@ function hasDevelopmentOutput(...values) {
   return matchesAny(text, EXPLICIT_IMPLEMENTATION_PATTERNS);
 }
 
-module.exports = { hasDevelopmentOutput };
+function hasExplicitDevelopmentActivity(...values) {
+  const text = relevanceText(values);
+  if (matchesAny(text, NON_PARTICIPANT_ROLE_PATTERNS)) return false;
+  if (matchesAny(text, VERIFIED_BUILDER_PROGRAM_PATTERNS)) return true;
+  return hasDevelopmentOutput(text) && matchesAny(text, EXPLICIT_ACTIVITY_OUTPUT_PATTERNS);
+}
+
+module.exports = { hasDevelopmentOutput, hasExplicitDevelopmentActivity };

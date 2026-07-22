@@ -9,6 +9,7 @@ const { parseGeekNewsPopular } = require('../src/adapters/geeknews-adapter');
 const { collectFromYouTube, parseYouTubeFeed } = require('../src/adapters/youtube-feed-adapter');
 const { mapLinkareerDetail } = require('../src/adapters/linkareer-adapter');
 const { mapCampuspickDetail } = require('../src/adapters/campuspick-adapter');
+const { mapEventusResult } = require('../src/adapters/eventus-adapter');
 const { mapTicketaEvent } = require('../src/adapters/ticketa-adapter');
 
 test('maps current DACON competitions and hackathons', () => {
@@ -36,7 +37,8 @@ test('maps future GDG schema events', () => {
     html, { id: 'gdg' }, 'https://gdg.community.dev/events/details/example/',
     new Date('2026-07-20T00:00:00Z'),
   );
-  assert.equal(item.type, 'EXTERNAL_ACTIVITY');
+  assert.equal(item.type, 'HACKATHON');
+  assert.equal(item.attributes.platformDeveloperEvent, true);
   assert.deepEqual(item.locations, ['서울']);
 });
 
@@ -196,4 +198,18 @@ test('maps Campuspick and Ticketa tech events', () => {
     start_date: '2026-08-03T10:00:00Z', venues: { province: '서울' } },
   { id: 'ticketa', priority: 70 }, new Date('2026-07-20'));
   assert.equal(ticket.url, 'https://ticketa.co/event/abc');
+  assert.equal(ticket.type, 'HACKATHON');
+  assert.equal(ticket.attributes.platformDeveloperEvent, true);
+});
+
+test('routes Event-us developer events to hackathons and competitions', () => {
+  const raw = (value) => ({ raw: value });
+  const item = mapEventusResult({
+    id: raw(129466), title: raw('AI 개발자 세미나'), subdomain: raw('example'),
+    close_date: raw('2026-08-03T10:00:00+09:00'), category: raw('IT/프로그래밍'),
+    event_type: raw('강연/세미나'), fullname: raw('개발자 커뮤니티'),
+  }, { id: 'eventus', priority: 70 }, new Date('2026-07-20'));
+
+  assert.equal(item.type, 'HACKATHON');
+  assert.equal(item.attributes.platformDeveloperEvent, true);
 });

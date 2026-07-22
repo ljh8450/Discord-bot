@@ -119,8 +119,7 @@
 예를 들어 하나의 채용공고는 생애주기 동안 여러 이벤트를 만든다.
 
 ```text
-DISCOVERED -> OPENED -> DEADLINE_APPROACHING -> CLOSED
-                  \-> UPDATED
+DISCOVERED -> OPENED -> UPDATED -> CLOSED
 ```
 
 ### Opportunity 공통 필드
@@ -154,13 +153,13 @@ DISCOVERED -> OPENED -> DEADLINE_APPROACHING -> CLOSED
 {
   "id": "event-id",
   "opportunityId": "internal-id",
-  "eventType": "DEADLINE_APPROACHING",
-  "detectedAt": "2026-07-28T09:00:00+09:00",
-  "effectiveAt": "2026-07-28T09:00:00+09:00",
-  "before": { "daysRemaining": 4 },
-  "after": { "daysRemaining": 3 },
+  "eventType": "UPDATED",
+  "detectedAt": "2026-07-25T09:00:00+09:00",
+  "effectiveAt": "2026-07-25T09:00:00+09:00",
+  "before": { "closesAt": "2026-07-31T18:00:00+09:00" },
+  "after": { "closesAt": "2026-08-02T18:00:00+09:00" },
   "confidence": 0.98,
-  "dedupeKey": "internal-id:deadline:d-3",
+  "dedupeKey": "internal-id:updated:content-hash",
   "evidence": ["source-url"]
 }
 ```
@@ -170,7 +169,6 @@ DISCOVERED -> OPENED -> DEADLINE_APPROACHING -> CLOSED
 - `DISCOVERED`: 처음 발견됨
 - `OPENED`: 모집·지원·신청이 시작됨
 - `UPDATED`: 지원 판단에 중요한 필드가 변경됨
-- `DEADLINE_APPROACHING`: 정해진 기준일에 진입함(D-3, D-1, 당일)
 - `CLOSED`: 모집 또는 신청이 종료됨
 - `POPULARITY_SPIKE`: 관심도가 기준선보다 급상승함
 - `RELEASED`: 새 버전 또는 모델이 공개됨
@@ -190,14 +188,12 @@ DISCOVERED -> OPENED -> DEADLINE_APPROACHING -> CLOSED
 
 - 매 수집 결과의 정규화 필드를 이전 스냅샷과 비교한다.
 - 제목 장식, 공백, 조회수처럼 중요하지 않은 차이는 무시한다.
-- 마감일, 상태, 자격, 직무, 장소, 신청 URL 변경은 알림 가능한 변화로 본다.
+- 마감일, 상태, 자격, 직무, 장소, 신청 URL 변경은 상태에 기록하지만 재알림하지 않는다.
 
 ### 마감 임박
 
-- 기본 기준은 D-3, D-1, 당일이다.
-- 같은 기준에 대해서는 한 번만 이벤트를 만든다.
-- 종료 시각이 없는 날짜는 해당 지역 시간대의 23:59로 처리하되, 알림에 “시간 미표기”를 표시한다.
-- 상시 모집과 채용 시 마감은 임박 알림 대상에서 제외한다.
+- 마감일은 메시지 정보로 표시하지만 별도의 리마인더 이벤트는 만들지 않는다.
+- 최초 성공 발송 뒤에는 마감 임박이나 내용 변경으로 다시 알리지 않는다.
 
 ### 관심 기업·개인화
 
@@ -214,7 +210,7 @@ notification_score = relevance + urgency + source_trust + novelty - duplicate_ri
 ```
 
 - 관련도: 관심 직무·기술·기업·경력 조건 일치
-- 긴급도: 모집 시작, D-3, D-1, 오늘 마감
+- 긴급도: 최초 모집 발견 시점
 - 출처 신뢰도: 공식 사이트 > 공식 SNS/RSS > 검증된 집계 사이트 > 커뮤니티 제보
 - 새로움: 최초 발견 또는 중요한 필드 변경
 - 중복 위험: 동일 대상의 다른 URL, 재게시, 낮은 파싱 확신
@@ -235,12 +231,12 @@ notification_score = relevance + urgency + source_trust + novelty - duplicate_ri
 ### 알림 한 건의 구성
 
 ```text
-[D-3 · 관심 기업] 네이버 신입 백엔드 개발자 채용
+[관심 기업] 네이버 신입 백엔드 개발자 채용
 
 왜 알림? 관심 기업 ‘네이버’, 직무 ‘백엔드’와 일치
 마감: 7월 31일 18:00 (Asia/Seoul)
 기술: Java, Spring
-변화: 지원 마감 D-3 진입
+변화: 새 공고 발견
 
 [공고 보기]  [관심 없음]  [저장]
 출처: 네이버 Careers · 확인 5분 전
@@ -303,8 +299,8 @@ Source Adapter
 
 1. 새 항목을 한 번만 알린다.
 2. 같은 항목을 다시 수집해도 알리지 않는다.
-3. 마감일이 변경되면 변경 내용을 알린다.
-4. D-3, D-1, 당일 알림을 각각 한 번만 보낸다.
+3. 마감일이나 내용이 변경되어도 이미 알린 항목은 다시 알리지 않는다.
+4. 시간이 지나 마감일에 가까워져도 같은 항목을 다시 알리지 않는다.
 5. 사용자의 관심 조건과 맞지 않으면 즉시 알림을 보내지 않는다.
 
 ## 15. 구현 단계
@@ -313,7 +309,7 @@ Source Adapter
 
 - Opportunity, Snapshot, ChangeEvent, Subscription 모델
 - 정규화 URL과 중복 키
-- 상태 비교 및 D-day 이벤트 생성
+- 상태 비교 및 중요 변경 이벤트 생성
 - 단위 테스트용 고정 시계
 
 ### 2단계 — 수집 파일럿
@@ -357,10 +353,10 @@ Source Adapter
 - 대상: 한국의 대학생·취준생 및 주니어 개발자
 - 전달: 개인별 조건은 DM, 공용 큐레이션은 서버 채널
 - 초기 분야: 채용·인턴, 포트폴리오 활동, 해커톤·대회
-- 알림: 관심 기업 신규 공고와 D-1은 즉시, 나머지는 일일 요약
+- 알림: 기회별 최초 발견만 즉시 발송
 - 출처: 공식 출처 우선, 집계 사이트는 발견 보조용
 - 기술 접근: 규칙 기반 정규화·감지를 먼저 만들고 AI는 분류 보조에만 사용
 
 이 범위에서 가장 먼저 검증할 가설은 다음과 같다.
 
-> 사용자는 많은 링크보다, 자신의 조건에 맞고 왜 지금 확인해야 하는지가 설명된 모집 시작·마감 임박 알림을 더 유용하게 느낀다.
+> 사용자는 많은 반복 알림보다, 자신의 조건에 맞고 왜 확인해야 하는지가 설명된 최초 발견 알림을 더 유용하게 느낀다.

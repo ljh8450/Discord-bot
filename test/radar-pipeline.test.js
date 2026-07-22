@@ -33,7 +33,7 @@ test('sends a matching opportunity exactly once', async () => {
   assert.equal(Object.values(store.state.opportunities)[0].review.status, 'SENT');
 });
 
-test('sends one UPDATED event when important content changes', async () => {
+test('does not resend an opportunity when important content changes', async () => {
   const store = new MemoryStore();
   const sent = [];
   const notify = async (item) => { sent.push(item); return { id: `message-${sent.length}` }; };
@@ -46,11 +46,10 @@ test('sends one UPDATED event when important content changes', async () => {
   const update = await runRadar({ rawItems: [changed], profile, store, notify, now });
   const repeated = await runRadar({ rawItems: [changed], profile, store, notify, now });
 
-  assert.equal(update.sent, 1);
+  assert.equal(update.sent, 0);
   assert.equal(repeated.sent, 0);
-  assert.equal(sent.length, 2);
-  assert.equal(sent[1].eventType, 'UPDATED');
-  assert.match(sent[1].dedupeKey, /^updated:/);
+  assert.equal(sent.length, 1);
+  assert.equal(Object.values(store.state.opportunities)[0].summary, changed.summary);
 });
 
 test('retries a Discord delivery that failed', async () => {
@@ -120,7 +119,7 @@ test('does not send an approved opportunity when its source URL is unavailable',
   assert.match(Object.values(store.state.opportunities)[0].review.reason, /HTTP 404/);
 });
 
-test('sends D-3, D-1, and same-day deadline reminders once each', async () => {
+test('does not send deadline reminders after the first notification', async () => {
   const store = new MemoryStore();
   const sent = [];
   const notify = async (item) => {
@@ -134,7 +133,6 @@ test('sends D-3, D-1, and same-day deadline reminders once each', async () => {
     now: new Date('2026-07-19T00:00:00Z'),
   });
   const d3 = await runRadar({ rawItems: [job], profile, store, notify, now });
-  const repeatedD3 = await runRadar({ rawItems: [job], profile, store, notify, now });
   const d1 = await runRadar({
     rawItems: [job], profile, store, notify,
     now: new Date('2026-07-22T00:00:00Z'),
@@ -144,11 +142,10 @@ test('sends D-3, D-1, and same-day deadline reminders once each', async () => {
     now: new Date('2026-07-23T00:00:00Z'),
   });
 
-  assert.equal(d3.deadlineSent, 1);
-  assert.equal(repeatedD3.deadlineSent, 0);
-  assert.equal(d1.deadlineSent, 1);
-  assert.equal(sameDay.deadlineSent, 1);
-  assert.deepEqual(sent.map((item) => item.deadlineStage), [undefined, 'D-3', 'D-1', '오늘 마감']);
+  assert.equal(d3.sent, 0);
+  assert.equal(d1.sent, 0);
+  assert.equal(sameDay.sent, 0);
+  assert.deepEqual(sent.map((item) => item.deadlineStage), [undefined]);
 });
 
 test('defers notifications beyond the per-run limit and sends them next run', async () => {
