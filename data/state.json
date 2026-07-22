@@ -3526,12 +3526,12 @@
         "practicalValue": 2,
         "sourcePriority": 0,
         "feedFormat": "rss",
-        "contentScore": 13,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 13,
+          "total": 12,
           "relevance": 4,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 3,
           "novelty": 2,
           "community": 0
@@ -3539,8 +3539,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-22T09:05:33.940Z",
-      "lastSeenAt": "2026-07-22T09:05:33.940Z",
+      "firstSeenAt": "2026-07-22T11:07:05.017Z",
+      "lastSeenAt": "2026-07-22T11:07:05.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3587,8 +3587,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-22T09:05:33.940Z",
-      "lastSeenAt": "2026-07-22T09:05:33.940Z",
+      "firstSeenAt": "2026-07-22T11:07:05.017Z",
+      "lastSeenAt": "2026-07-22T11:07:05.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -9642,6 +9642,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_03cf44eebf4a14ea22f9": {
+      "id": "opp_03cf44eebf4a14ea22f9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31682",
+      "canonicalUrl": "https://news.hada.io/topic?id=31682",
+      "title": "Show GN: PokeTokenBar – AI 토큰으로 포켓몬을 키우는 macOS 메뉴바 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:45:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "요즘 Claude Code, Codex 같은 AI 코딩 도구를 자주 사용하다 보니 토큰 사용량이 계속 쌓이는데, 결국 대시보드의 숫자로만 남는 게 조금 아쉽더...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31682"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a8bc577965054a0f44372e4c32ad8813fdfc909ffd838bcdf2dd83c9c0ab06af",
+      "dedupeKey": "brief:opp_03cf44eebf4a14ea22f9:sha256:a8bc577965054a0f44372e4c32ad8813fdfc909ffd838bcdf2dd83c9c0ab06af",
+      "firstSeenAt": "2026-07-22T11:07:05.017Z",
+      "lastSeenAt": "2026-07-22T11:07:05.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d333e68d97aea4754fc5": {
+      "id": "opp_d333e68d97aea4754fc5",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:sOfgvKTy7tc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sOfgvKTy7tc",
+      "title": "[한영자막] Cursor 의 미래",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Cursor의 ML 엔지니어 Lee Robinson이 AI Engineer World's Fair 무대에서, 모델이 스스로를 더 똑똑하게 만드는 재귀적 모델 개선의 원리를 들려드립니다. 주요 포인트 - 아우터 루프와 이너 루프로 나뉜 Cursor의 두 단계 모델 훈련 프레임워크 - Composer 2.5 출시 이후의 성과와 다음 모델을 향한 방향 - 공개 벤치마크에서 발견한 리워드 해킹 사례와 대응 방법 - SpaceX 파트너십으로 확보한 컴퓨팅과 Colossus 데이터센터 이야기 - 모델이 다음",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sOfgvKTy7tc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-22T09:00:19.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8cd6be71349f07f2103bbada9369354d065f5c71f72e46614ac6c2582adca949",
+      "dedupeKey": "brief:opp_d333e68d97aea4754fc5:sha256:8cd6be71349f07f2103bbada9369354d065f5c71f72e46614ac6c2582adca949",
+      "firstSeenAt": "2026-07-22T11:07:05.017Z",
+      "lastSeenAt": "2026-07-22T11:07:05.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_79d6e326151dda294da4": {
+      "id": "opp_79d6e326151dda294da4",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:9LVbZJcraRw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9LVbZJcraRw",
+      "title": "인간 vs AI, 다시 붙다 | 신진서 카타고전으로 본 바둑 AI 10년의 변화",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:44:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "2016년 이세돌 9단 이후 10년 만에, 인간 최고수가 다시 정상급 바둑 AI를 꺾었습니다. 신진서 9단은 카타고를 상대로 290수 끝에 흑 4집 반 승리를 거뒀는데요. 다만 이번 대국은 흑돌 두 개를 먼저 놓는 2점 접바둑이었습니다. 약 18집의 우위를 받고 시작한 승부였지만, 같은 조건의 1국에서는 패했던 만큼 결과가 정해진 경기는 아니었죠. 그렇다면 이번 승리는 인간이 AI를 다시 따라잡았다는 뜻일까요? 영상에서는 이 질문을 출발점으로 알파고와 카타고 사이의 10년을 따라가 봅니다. 인간",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=9LVbZJcraRw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-22T09:44:35.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4e5e41c2595ed8790d8a274cae0c243d6fa0410b9c6af2958bb4c5547ae721e4",
+      "dedupeKey": "brief:opp_79d6e326151dda294da4:sha256:4e5e41c2595ed8790d8a274cae0c243d6fa0410b9c6af2958bb4c5547ae721e4",
+      "firstSeenAt": "2026-07-22T11:07:05.017Z",
+      "lastSeenAt": "2026-07-22T11:07:05.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -10154,6 +10309,24 @@
       "opportunityId": "opp_f5f5792f5d525e08f016",
       "sentAt": "2026-07-22T09:05:33.940Z",
       "messageId": "1529414103741894778"
+    },
+    "brief:opp_d333e68d97aea4754fc5:sha256:8cd6be71349f07f2103bbada9369354d065f5c71f72e46614ac6c2582adca949": {
+      "status": "SENT",
+      "opportunityId": "opp_d333e68d97aea4754fc5",
+      "sentAt": "2026-07-22T11:07:05.017Z",
+      "messageId": "1529444681824600115"
+    },
+    "brief:opp_79d6e326151dda294da4:sha256:4e5e41c2595ed8790d8a274cae0c243d6fa0410b9c6af2958bb4c5547ae721e4": {
+      "status": "SENT",
+      "opportunityId": "opp_79d6e326151dda294da4",
+      "sentAt": "2026-07-22T11:07:05.017Z",
+      "messageId": "1529444681824600115"
+    },
+    "brief:opp_03cf44eebf4a14ea22f9:sha256:a8bc577965054a0f44372e4c32ad8813fdfc909ffd838bcdf2dd83c9c0ab06af": {
+      "status": "SENT",
+      "opportunityId": "opp_03cf44eebf4a14ea22f9",
+      "sentAt": "2026-07-22T11:07:05.017Z",
+      "messageId": "1529444681824600115"
     }
   },
   "pending": {
