@@ -3516,8 +3516,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3551,12 +3551,12 @@
         "practicalValue": 3,
         "sourcePriority": 0,
         "feedFormat": "rss",
-        "contentScore": 15,
+        "contentScore": 14,
         "contentScoreBreakdown": {
-          "total": 15,
+          "total": 14,
           "relevance": 4,
           "practicalValue": 3,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 3,
           "novelty": 2,
           "community": 0
@@ -3564,8 +3564,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6053,8 +6053,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 6,
+        "communityPoints": 6,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6068,8 +6068,8 @@
       },
       "contentHash": "sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc",
       "dedupeKey": "brief:opp_4619aae2db9257466078:sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6102,26 +6102,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 19,
-        "communityRank": 8,
-        "contentScore": 12,
+        "communityPoints": 21,
+        "communityRank": 6,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:39bff88c02df25b1bf45f108d652d96903afbbc71f758dd80d8377e5a75efb99",
       "dedupeKey": "brief:opp_ac6c55aafdd940737db0:sha256:39bff88c02df25b1bf45f108d652d96903afbbc71f758dd80d8377e5a75efb99",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -6152,7 +6152,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 14,
-        "communityRank": 13,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6166,8 +6166,8 @@
       },
       "contentHash": "sha256:fefe78a205aff13be38f82ad8a08a64035015669a9a9aff239fd0e9f9f6fe1e7",
       "dedupeKey": "brief:opp_141a446d6ae489c9516d:sha256:fefe78a205aff13be38f82ad8a08a64035015669a9a9aff239fd0e9f9f6fe1e7",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6201,7 +6201,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 13,
-        "communityRank": 16,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6215,8 +6215,8 @@
       },
       "contentHash": "sha256:4d7528cfd17731b1596e441680ef9795b3e89015d880c1965cb011c90f552e4b",
       "dedupeKey": "brief:opp_98651d5d4c48597eecb7:sha256:4d7528cfd17731b1596e441680ef9795b3e89015d880c1965cb011c90f552e4b",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6249,8 +6249,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 19,
+        "communityPoints": 11,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6264,8 +6264,8 @@
       },
       "contentHash": "sha256:632fd35a207cb2f645eed24dc5af181b2b14be018e2e300f52fc93a8c9441ba0",
       "dedupeKey": "brief:opp_d09083a7d61953300505:sha256:632fd35a207cb2f645eed24dc5af181b2b14be018e2e300f52fc93a8c9441ba0",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6298,23 +6298,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 20,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 17,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:86646142432d964831eac56b0fec2199f4b96f8a743875ec21cc10fec706e6fa",
       "dedupeKey": "brief:opp_0e5ddb1767ff8f90955b:sha256:86646142432d964831eac56b0fec2199f4b96f8a743875ec21cc10fec706e6fa",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6578,8 +6578,8 @@
       },
       "contentHash": "sha256:ceda1c4cabb790b0e7f480faaa6088cb34e16b6d10cd93651271c492b0ae7133",
       "dedupeKey": "brief:opp_ae505a042bfd6fb0e229:sha256:ceda1c4cabb790b0e7f480faaa6088cb34e16b6d10cd93651271c492b0ae7133",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6949,8 +6949,8 @@
       },
       "contentHash": "sha256:b08cac7d78caf3ab49bebad718805d064a4135c2751fc56bc7d6d84b6cd65a62",
       "dedupeKey": "brief:opp_40134c1ddac72ddb6271:sha256:b08cac7d78caf3ab49bebad718805d064a4135c2751fc56bc7d6d84b6cd65a62",
-      "firstSeenAt": "2026-07-21T11:05:59.541Z",
-      "lastSeenAt": "2026-07-21T11:05:59.541Z",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -7150,6 +7150,398 @@
       },
       "lifecycle": {
         "missingRuns": 0
+      }
+    },
+    "opp_ce0995553f9f278f6c71": {
+      "id": "opp_ce0995553f9f278f6c71",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31650",
+      "canonicalUrl": "https://news.hada.io/topic?id=31650",
+      "title": "Show GN: EasyPaper: AI 기반 논문 번역 & 챗 어시스턴트로 쉽게 읽는 논문 (오픈소스)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-21T12:37:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 학술 PDF 논문을 더 편하고 빠르게 읽고 분석할 수 있도록 돕는 웹 프로그램 EasyPaper를 소개해 드립니다. 문라이트와 비슷한 서비스...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31650"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:415d107afa28689bc82517c3a3745b05ac9e01fc3e5554531fc9874bfb1f9eeb",
+      "dedupeKey": "brief:opp_ce0995553f9f278f6c71:sha256:415d107afa28689bc82517c3a3745b05ac9e01fc3e5554531fc9874bfb1f9eeb",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_af1f3eb1d14c0afe1006": {
+      "id": "opp_af1f3eb1d14c0afe1006",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31647",
+      "canonicalUrl": "https://news.hada.io/topic?id=31647",
+      "title": "Show GN: 비개발자가 Claude Code로 만든 유튜버 협찬 할인 정보 서비스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-21T10:47:07+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "유튜브 영상 설명란에 흩어진 협찬 특가와 할인 링크를 한곳에 모아주는 서비스를 만들었습니다. 쇼핑/뷰티 유튜버 영상 보면 \"할인 링크는 더보기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31647"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a238e42061839bb5b7a6b76ecab5e933e5c1a0d6a5c73cbf73d136de876817ee",
+      "dedupeKey": "brief:opp_af1f3eb1d14c0afe1006:sha256:a238e42061839bb5b7a6b76ecab5e933e5c1a0d6a5c73cbf73d136de876817ee",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2273aaf59ad03dc6de06": {
+      "id": "opp_2273aaf59ad03dc6de06",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "canonicalUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-chatgpt-small-business-program"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:20557595ddfb39a631b7aa3f494328503232b5a8582779780982d1ac44c683d5",
+      "dedupeKey": "brief:opp_2273aaf59ad03dc6de06:sha256:20557595ddfb39a631b7aa3f494328503232b5a8582779780982d1ac44c683d5",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_93fb0de2832b99dd3b73": {
+      "id": "opp_93fb0de2832b99dd3b73",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "canonicalUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "summaryEvidence": [
+        "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:212d8f382c58c8c3b93a7edc5b07e941f662995a0143f43d04ce42437284c8ba",
+      "dedupeKey": "brief:opp_93fb0de2832b99dd3b73:sha256:212d8f382c58c8c3b93a7edc5b07e941f662995a0143f43d04ce42437284c8ba",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_365f01d15c78fcd363be": {
+      "id": "opp_365f01d15c78fcd363be",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "canonicalUrl": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "summaryEvidence": [
+        "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:069231a532d29f5d89e2419c4ca324752959db8bb0d38a3cd4fb5d4e1049e603",
+      "dedupeKey": "brief:opp_365f01d15c78fcd363be:sha256:069231a532d29f5d89e2419c4ca324752959db8bb0d38a3cd4fb5d4e1049e603",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2c3b31362de415dda0b4": {
+      "id": "opp_2c3b31362de415dda0b4",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97611",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+      "title": "How to build interactive experiences with canvases",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 21 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:622e9f42284b3ae02acbb70cc767ed5a381ca9a3a15e7eb4c001336683307bc2",
+      "dedupeKey": "brief:opp_2c3b31362de415dda0b4:sha256:622e9f42284b3ae02acbb70cc767ed5a381ca9a3a15e7eb4c001336683307bc2",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_960c4e9d254515704e78": {
+      "id": "opp_960c4e9d254515704e78",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/5788040",
+      "canonicalUrl": "https://d2.naver.com/helloworld/5788040",
+      "title": "VictoriaMetrics 운영기 2편 — 장비 증설 없이 리소스 위기를 해결한 3단계 최적화 전략",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-07-21T18:35:44Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<p><a href=\"https://d2.naver.com/helloworld/6475419\">VictoriaMetrics 운영기 1편</a>에서는 네이버 검색의 대규모 메트릭 저장소 VictoriaMetrics 클러스터의 규모, 2계층 아키텍처, 180대 노드의 무중단 장비 교체와 증설 전략을 소개했습니다. 2편에서는 장비를 더 늘리지 않고 리소스 위기를 해결하기 위해 진행한 소프트웨어적 최적화 과정을 다룹니다.</p> <p>메모리 문제를 해결한 뒤에도 쿠버네티스 전환은 계속 빨라졌고, 컨테이너",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/5788040"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f4a86d1a959181bee8dd462c31b5dfab9bb9386cce30821f1a60bc942fc1de1f",
+      "dedupeKey": "brief:opp_960c4e9d254515704e78:sha256:f4a86d1a959181bee8dd462c31b5dfab9bb9386cce30821f1a60bc942fc1de1f",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a7fdedcf727df2a06997": {
+      "id": "opp_a7fdedcf727df2a06997",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:le-jtop9tLk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=le-jtop9tLk",
+      "title": "OpenAI 내부자가 직접 알려주는 GPT-5.6과 Codex 활용법",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-07-21T11:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 바이브 코딩 1인 창업: https://www.yes24.com/product/goods/189855418 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ 🕖목차 00:00 인트로 01:43 GPT-live 소개 03:21 Cerebras와의 협업 04:08 Codex 실전 데모 11:03 Codex Pets 12:55 Digital Ocean 플러그인 16:18 최종 정리 17:20 끝인사 17:31",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=le-jtop9tLk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-21T11:00:02.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:da0d2b4b14a9fe573cbb0fd14475892145a2eb5a667b61d5b3328f4ba312ba04",
+      "dedupeKey": "brief:opp_a7fdedcf727df2a06997:sha256:da0d2b4b14a9fe573cbb0fd14475892145a2eb5a667b61d5b3328f4ba312ba04",
+      "firstSeenAt": "2026-07-22T00:05:52.568Z",
+      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     }
   },
@@ -7525,6 +7917,42 @@
       "opportunityId": "opp_2d72e6dccc83bfe27799",
       "sentAt": "2026-07-21T15:03:03.670Z",
       "messageId": "1529141678319865958"
+    },
+    "brief:opp_960c4e9d254515704e78:sha256:f4a86d1a959181bee8dd462c31b5dfab9bb9386cce30821f1a60bc942fc1de1f": {
+      "status": "SENT",
+      "opportunityId": "opp_960c4e9d254515704e78",
+      "sentAt": "2026-07-22T00:05:52.568Z",
+      "messageId": "1529278291519864974"
+    },
+    "brief:opp_2c3b31362de415dda0b4:sha256:622e9f42284b3ae02acbb70cc767ed5a381ca9a3a15e7eb4c001336683307bc2": {
+      "status": "SENT",
+      "opportunityId": "opp_2c3b31362de415dda0b4",
+      "sentAt": "2026-07-22T00:05:52.568Z",
+      "messageId": "1529278291519864974"
+    },
+    "brief:opp_2273aaf59ad03dc6de06:sha256:20557595ddfb39a631b7aa3f494328503232b5a8582779780982d1ac44c683d5": {
+      "status": "SENT",
+      "opportunityId": "opp_2273aaf59ad03dc6de06",
+      "sentAt": "2026-07-22T00:05:52.568Z",
+      "messageId": "1529278291519864974"
+    },
+    "brief:opp_a7fdedcf727df2a06997:sha256:da0d2b4b14a9fe573cbb0fd14475892145a2eb5a667b61d5b3328f4ba312ba04": {
+      "status": "SENT",
+      "opportunityId": "opp_a7fdedcf727df2a06997",
+      "sentAt": "2026-07-22T00:05:52.568Z",
+      "messageId": "1529278291519864974"
+    },
+    "brief:opp_93fb0de2832b99dd3b73:sha256:212d8f382c58c8c3b93a7edc5b07e941f662995a0143f43d04ce42437284c8ba": {
+      "status": "SENT",
+      "opportunityId": "opp_93fb0de2832b99dd3b73",
+      "sentAt": "2026-07-22T00:05:52.568Z",
+      "messageId": "1529278291519864974"
+    },
+    "brief:opp_ac6c55aafdd940737db0:sha256:39bff88c02df25b1bf45f108d652d96903afbbc71f758dd80d8377e5a75efb99": {
+      "status": "SENT",
+      "opportunityId": "opp_ac6c55aafdd940737db0",
+      "sentAt": "2026-07-22T00:05:52.568Z",
+      "messageId": "1529278291519864974"
     }
   },
   "pending": {
