@@ -3531,8 +3531,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-22T03:49:50.056Z",
-      "lastSeenAt": "2026-07-22T03:49:50.056Z",
+      "firstSeenAt": "2026-07-22T03:59:30.658Z",
+      "lastSeenAt": "2026-07-22T03:59:30.658Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3579,8 +3579,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-22T03:49:50.056Z",
-      "lastSeenAt": "2026-07-22T03:49:50.056Z",
+      "firstSeenAt": "2026-07-22T03:59:30.658Z",
+      "lastSeenAt": "2026-07-22T03:59:30.658Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6105,11 +6105,11 @@
       },
       "contentHash": "sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc",
       "dedupeKey": "brief:opp_4619aae2db9257466078:sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc",
-      "firstSeenAt": "2026-07-22T03:49:50.056Z",
-      "lastSeenAt": "2026-07-22T03:49:50.056Z",
+      "firstSeenAt": "2026-07-22T03:59:30.658Z",
+      "lastSeenAt": "2026-07-22T03:59:30.658Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8305,6 +8305,12 @@
       "opportunityId": "opp_4bf8759a9b8068877df5",
       "sentAt": "2026-07-22T03:49:50.056Z",
       "messageId": "1529334643214778519"
+    },
+    "brief:opp_4619aae2db9257466078:sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc": {
+      "status": "SENT",
+      "opportunityId": "opp_4619aae2db9257466078",
+      "sentAt": "2026-07-22T03:59:30.658Z",
+      "messageId": "1529337076422676562"
     }
   },
   "pending": {
