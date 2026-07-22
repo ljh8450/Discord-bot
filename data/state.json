@@ -3531,8 +3531,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-22T02:45:45.874Z",
-      "lastSeenAt": "2026-07-22T02:45:45.874Z",
+      "firstSeenAt": "2026-07-22T03:49:50.056Z",
+      "lastSeenAt": "2026-07-22T03:49:50.056Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3579,8 +3579,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-22T02:45:45.874Z",
-      "lastSeenAt": "2026-07-22T02:45:45.874Z",
+      "firstSeenAt": "2026-07-22T03:49:50.056Z",
+      "lastSeenAt": "2026-07-22T03:49:50.056Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6091,13 +6091,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityRank": 17,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -6105,15 +6105,12 @@
       },
       "contentHash": "sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc",
       "dedupeKey": "brief:opp_4619aae2db9257466078:sha256:d404e0893d348924a8385dbcd42971e729f9c3e780d0943716386dfde65e7bfc",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T03:42:02.228Z",
+      "firstSeenAt": "2026-07-22T03:49:50.056Z",
+      "lastSeenAt": "2026-07-22T03:49:50.056Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_ac6c55aafdd940737db0": {
@@ -7745,15 +7742,12 @@
       },
       "contentHash": "sha256:9d0f10e3b22328d8a920cd34cffe8842b4689869ed13da0d8540a88e683f4e83",
       "dedupeKey": "brief:opp_4bf8759a9b8068877df5:sha256:9d0f10e3b22328d8a920cd34cffe8842b4689869ed13da0d8540a88e683f4e83",
-      "firstSeenAt": "2026-07-22T02:45:45.874Z",
-      "lastSeenAt": "2026-07-22T03:42:02.228Z",
+      "firstSeenAt": "2026-07-22T03:49:50.056Z",
+      "lastSeenAt": "2026-07-22T03:49:50.056Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_9b2b3a429d70dd062ee3": {
@@ -7799,6 +7793,55 @@
       "dedupeKey": "brief:opp_9b2b3a429d70dd062ee3:sha256:d57afbdc0c774bed90b58a5ae45473e8bb1cb870420b3390f2037e5abe970cb3",
       "firstSeenAt": "2026-07-22T02:45:45.874Z",
       "lastSeenAt": "2026-07-22T02:45:45.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a138144c02d273748534": {
+      "id": "opp_a138144c02d273748534",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31674",
+      "canonicalUrl": "https://news.hada.io/topic?id=31674",
+      "title": "Show GN: Life Tile – 하루를 몬드리안 격자로 기록하는 온디바이스 아이폰 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:01:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프론트엔드 개발자. 이전에 Claude Code로 웹 앱은 만들어 봤지만 네이티브 앱은 처음. 올 4월부터 약 3개월간 개발 후 출시. 아이폰용으로 만들어...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31674"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:918c36b087555d7789c0b2d19547bca01f5d52d54912fdbee44276dbcf92372a",
+      "dedupeKey": "brief:opp_a138144c02d273748534:sha256:918c36b087555d7789c0b2d19547bca01f5d52d54912fdbee44276dbcf92372a",
+      "firstSeenAt": "2026-07-22T03:49:50.056Z",
+      "lastSeenAt": "2026-07-22T03:49:50.056Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -8250,6 +8293,18 @@
       "opportunityId": "opp_40134c1ddac72ddb6271",
       "sentAt": "2026-07-22T02:45:45.874Z",
       "messageId": "1529318522709213205"
+    },
+    "brief:opp_a138144c02d273748534:sha256:918c36b087555d7789c0b2d19547bca01f5d52d54912fdbee44276dbcf92372a": {
+      "status": "SENT",
+      "opportunityId": "opp_a138144c02d273748534",
+      "sentAt": "2026-07-22T03:49:50.056Z",
+      "messageId": "1529334643214778519"
+    },
+    "brief:opp_4bf8759a9b8068877df5:sha256:9d0f10e3b22328d8a920cd34cffe8842b4689869ed13da0d8540a88e683f4e83": {
+      "status": "SENT",
+      "opportunityId": "opp_4bf8759a9b8068877df5",
+      "sentAt": "2026-07-22T03:49:50.056Z",
+      "messageId": "1529334643214778519"
     }
   },
   "pending": {
