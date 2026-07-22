@@ -3537,8 +3537,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-22T04:16:01.468Z",
-      "lastSeenAt": "2026-07-22T04:16:01.468Z",
+      "firstSeenAt": "2026-07-22T09:05:33.940Z",
+      "lastSeenAt": "2026-07-22T09:05:33.940Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3585,8 +3585,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-22T04:16:01.468Z",
-      "lastSeenAt": "2026-07-22T04:16:01.468Z",
+      "firstSeenAt": "2026-07-22T09:05:33.940Z",
+      "lastSeenAt": "2026-07-22T09:05:33.940Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -9493,6 +9493,153 @@
         "closedAt": "2026-07-22T09:02:39.642Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
+    },
+    "opp_db6663baffc838e2a56e": {
+      "id": "opp_db6663baffc838e2a56e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31687",
+      "canonicalUrl": "https://x.com/appledelhi/status/2079022142663094356",
+      "title": "OpenMMO - AI Agent와 인간 플레이어가 동등하게 대우받는 MMORPG",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T14:40:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "엑스엘게임즈 창업자 송재경님이 공개한 1인 프로젝트입니다. 특징: Agent-인간 동등성 : Agent와 인간 플레이어는 완전히 동일한 WebSocket 프로...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31687"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:584e982e6b47174843ab0acbcbfe49ef553e9e8398e4d788806a56a2a7aeaf42",
+      "dedupeKey": "brief:opp_db6663baffc838e2a56e:sha256:584e982e6b47174843ab0acbcbfe49ef553e9e8398e4d788806a56a2a7aeaf42",
+      "firstSeenAt": "2026-07-22T09:05:33.940Z",
+      "lastSeenAt": "2026-07-22T09:05:33.940Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f5f5792f5d525e08f016": {
+      "id": "opp_f5f5792f5d525e08f016",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31681",
+      "canonicalUrl": "https://williaminmon.substack.com/p/data-management-in-the-age-of-ai",
+      "title": "AI 시대의 데이터 관리",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:37:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "생성형 AI가 신뢰할 수 있는 데이터로 작동하지 않으면 분석 결과도 신뢰하기 어려워지면서, 데이터 관리는 기술 지원 업무에서 전략적 핵심 기능...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31681"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d1e7b57a42578778b41b196a73f6c99b99f3e85df18916e8de4d0c593612651a",
+      "dedupeKey": "brief:opp_f5f5792f5d525e08f016:sha256:d1e7b57a42578778b41b196a73f6c99b99f3e85df18916e8de4d0c593612651a",
+      "firstSeenAt": "2026-07-22T09:05:33.940Z",
+      "lastSeenAt": "2026-07-22T09:05:33.940Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fc1fee60f186d8b6b2e4": {
+      "id": "opp_fc1fee60f186d8b6b2e4",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/donation-public-first-action",
+      "canonicalUrl": "https://www.anthropic.com/news/donation-public-first-action",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/donation-public-first-action"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1c0392646c137ae98ec47844aea62cfaffc14331788820c66aeeb8b265581bc7",
+      "dedupeKey": "brief:opp_fc1fee60f186d8b6b2e4:sha256:1c0392646c137ae98ec47844aea62cfaffc14331788820c66aeeb8b265581bc7",
+      "firstSeenAt": "2026-07-22T09:05:33.940Z",
+      "lastSeenAt": "2026-07-22T09:05:33.940Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -9987,6 +10134,24 @@
       "opportunityId": "opp_0b4133a3c51a3a72dba8",
       "sentAt": "2026-07-22T07:52:38.672Z",
       "messageId": "1529395759634579469"
+    },
+    "brief:opp_db6663baffc838e2a56e:sha256:584e982e6b47174843ab0acbcbfe49ef553e9e8398e4d788806a56a2a7aeaf42": {
+      "status": "SENT",
+      "opportunityId": "opp_db6663baffc838e2a56e",
+      "sentAt": "2026-07-22T09:05:33.940Z",
+      "messageId": "1529414103741894778"
+    },
+    "brief:opp_fc1fee60f186d8b6b2e4:sha256:1c0392646c137ae98ec47844aea62cfaffc14331788820c66aeeb8b265581bc7": {
+      "status": "SENT",
+      "opportunityId": "opp_fc1fee60f186d8b6b2e4",
+      "sentAt": "2026-07-22T09:05:33.940Z",
+      "messageId": "1529414103741894778"
+    },
+    "brief:opp_f5f5792f5d525e08f016:sha256:d1e7b57a42578778b41b196a73f6c99b99f3e85df18916e8de4d0c593612651a": {
+      "status": "SENT",
+      "opportunityId": "opp_f5f5792f5d525e08f016",
+      "sentAt": "2026-07-22T09:05:33.940Z",
+      "messageId": "1529414103741894778"
     }
   },
   "pending": {
