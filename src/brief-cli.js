@@ -5,6 +5,7 @@ const { sendDeveloperBrief } = require('./discord/brief');
 const { sendOperationsAlert } = require('./discord/operations-alert');
 const { resolveWebhookUrl } = require('./discord/router');
 const { addKoreanSummariesWithFallback } = require('./enrichment/korean-summary');
+const { classifyBriefSourceErrors } = require('./pipeline/brief-health');
 const { runBrief } = require('./pipeline/run-brief');
 const { JsonStore } = require('./store/json-store');
 
@@ -16,7 +17,13 @@ async function main() {
   const store = dryRun
     ? { load: async () => structuredClone(dryState), save: async () => undefined }
     : persistedStore;
-  const { items, errors, sourceCounts } = await collectAll(BRIEF_SOURCES);
+  const {
+    items, errors: collectionErrors, successfulSourceIds, sourceCounts,
+  } = await collectAll(BRIEF_SOURCES);
+  const { errors, warnings } = classifyBriefSourceErrors(
+    collectionErrors,
+    successfulSourceIds,
+  );
   const selected = [];
   const summarize = (briefItems) => addKoreanSummariesWithFallback(briefItems, {
     token: process.env.GITHUB_TOKEN,
@@ -37,7 +44,8 @@ async function main() {
     await sendOperationsAlert({ command: 'brief', errors, warnings: [], report });
   }
   process.stdout.write(`${JSON.stringify({
-    command: dryRun ? 'brief-dry-run' : 'brief', report, sourceErrors: errors, sourceCounts,
+    command: dryRun ? 'brief-dry-run' : 'brief', report,
+    sourceErrors: errors, sourceWarnings: warnings, sourceCounts,
     candidates: selected.map(({ title, canonicalUrl, organization, koreanSummary }) => ({
       title, url: canonicalUrl, organization, koreanSummary,
     })),

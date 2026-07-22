@@ -4,7 +4,9 @@ const test = require('node:test');
 const { parseDaconPage } = require('../src/adapters/dacon-adapter');
 const { collectFromGdgEvents, parseEventPage } = require('../src/adapters/gdg-events-adapter');
 const { parseCoursePage } = require('../src/adapters/programmers-education-adapter');
-const { parseRssFeed } = require('../src/adapters/rss-feed-adapter');
+const {
+  collectFromRssFeed, parseRssFeed, parseWordPressPosts,
+} = require('../src/adapters/rss-feed-adapter');
 const { parseGeekNewsPopular } = require('../src/adapters/geeknews-adapter');
 const { parseAnthropicNews } = require('../src/adapters/anthropic-news-adapter');
 const { collectFromYouTube, parseYouTubeFeed } = require('../src/adapters/youtube-feed-adapter');
@@ -99,6 +101,48 @@ test('maps Atom entries from Korean tech blogs', () => {
   assert.equal(item.externalId, 'post-1');
   assert.equal(item.url, 'https://d2.naver.com/helloworld/1');
   assert.equal(item.attributes.feedFormat, 'atom');
+});
+
+test('falls back to WordPress REST when a tech blog RSS feed is blocked', async () => {
+  let attempts = 0;
+  const fetchImpl = async (url) => {
+    if (url.endsWith('/feed/')) {
+      attempts += 1;
+      return { ok: false, status: 403 };
+    }
+    return {
+      ok: true,
+      async json() {
+        return [{
+          id: 26624,
+          link: 'https://techblog.woowahan.com/26624/',
+          date_gmt: '2026-07-21T07:46:26',
+          title: { rendered: '기술이 없던 곳에 기술 더하기' },
+          excerpt: { rendered: '<p>사내 해커톤 플랫폼 개발기</p>' },
+        }];
+      },
+    };
+  };
+  const items = await collectFromRssFeed({
+    id: 'woowahan-tech', url: 'https://techblog.woowahan.com/feed/',
+    fallbackUrl: 'https://techblog.woowahan.com/wp-json/wp/v2/posts',
+    fallbackKind: 'wordpress-rest', organization: '우아한형제들 기술 블로그',
+    retryAttempts: 2, retryDelayMs: 0,
+  }, fetchImpl);
+  assert.equal(attempts, 2);
+  assert.equal(items.length, 1);
+  assert.equal(items[0].attributes.feedFormat, 'wordpress-rest');
+  assert.equal(items[0].externalId, '26624');
+});
+
+test('maps WordPress REST posts into content opportunities', () => {
+  const [item] = parseWordPressPosts([{
+    id: 1, link: 'https://example.com/1', date: '2026-07-21T12:00:00',
+    title: { rendered: 'AI &amp; 백엔드 사례' },
+    excerpt: { rendered: '<p>운영 자동화 이야기</p>' },
+  }], { id: 'wordpress', organization: 'Tech Blog', tags: ['AI'] });
+  assert.equal(item.title, 'AI & 백엔드 사례');
+  assert.equal(item.summary, '운영 자동화 이야기');
 });
 
 test('maps Anthropic newsroom list items into content opportunities', () => {
