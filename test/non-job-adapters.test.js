@@ -5,7 +5,7 @@ const { parseDaconPage } = require('../src/adapters/dacon-adapter');
 const { collectFromGdgEvents, parseEventPage } = require('../src/adapters/gdg-events-adapter');
 const { parseCoursePage } = require('../src/adapters/programmers-education-adapter');
 const {
-  collectFromRssFeed, parseRssFeed, parseWordPressPosts,
+  collectFromRssFeed, parseFeedlyItems, parseRssFeed, parseWordPressPosts,
 } = require('../src/adapters/rss-feed-adapter');
 const { parseGeekNewsPopular } = require('../src/adapters/geeknews-adapter');
 const { parseAnthropicNews } = require('../src/adapters/anthropic-news-adapter');
@@ -143,6 +143,43 @@ test('maps WordPress REST posts into content opportunities', () => {
   }], { id: 'wordpress', organization: 'Tech Blog', tags: ['AI'] });
   assert.equal(item.title, 'AI & 백엔드 사례');
   assert.equal(item.summary, '운영 자동화 이야기');
+});
+
+test('uses a cached Feedly copy when both official endpoints are blocked', async () => {
+  const fetchImpl = async (url) => {
+    if (!url.includes('cloud.feedly.com')) return { ok: false, status: 403 };
+    return {
+      ok: true,
+      async json() {
+        return { items: [{
+          id: 'feedly-1', originId: 'https://techblog.woowa.in/?p=26624',
+          title: '사내 해커톤 플랫폼 만들기', published: 1784620286000,
+          alternate: [{ href: 'https://techblog.woowahan.com/26624/', type: 'text/html' }],
+          summary: { content: '<p>AI와 함께 만든 운영 시스템</p>' },
+        }] };
+      },
+    };
+  };
+  const items = await collectFromRssFeed({
+    id: 'woowahan-tech', url: 'https://techblog.woowahan.com/feed/',
+    fallbackUrl: 'https://techblog.woowahan.com/wp-json/wp/v2/posts',
+    fallbackKind: 'wordpress-rest',
+    fallbacks: [{ kind: 'feedly', url: 'https://cloud.feedly.com/feed' }],
+    organization: '우아한형제들 기술 블로그', retryAttempts: 1,
+  }, fetchImpl);
+  assert.equal(items.length, 1);
+  assert.equal(items[0].attributes.feedFormat, 'feedly-cache');
+  assert.equal(items[0].url, 'https://techblog.woowahan.com/26624/');
+});
+
+test('maps Feedly cached entries while preserving the official article URL', () => {
+  const [item] = parseFeedlyItems({ items: [{
+    id: 'feedly-1', title: 'AI 운영 사례', published: 1784620286000,
+    alternate: [{ href: 'https://techblog.woowahan.com/1/', type: 'text/html' }],
+    summary: { content: '<p>실서비스 적용기</p>' },
+  }] }, { id: 'woowahan-tech', organization: '우아한형제들 기술 블로그' });
+  assert.equal(item.url, 'https://techblog.woowahan.com/1/');
+  assert.equal(item.summary, '실서비스 적용기');
 });
 
 test('maps Anthropic newsroom list items into content opportunities', () => {

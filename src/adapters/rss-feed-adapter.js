@@ -80,6 +80,35 @@ function parseWordPressPosts(posts, source) {
     .filter(Boolean);
 }
 
+function parseFeedlyItems(body, source) {
+  return (Array.isArray(body?.items) ? body.items : [])
+    .slice(0, source.maxItems || 30)
+    .map((entry) => {
+      const url = cleanText(entry.alternate?.find((link) => link.type === 'text/html')?.href
+        || entry.alternate?.[0]?.href);
+      const title = cleanText(entry.title);
+      if (!url || !title) return null;
+      const summary = cleanText(entry.summary?.content || entry.content?.content).slice(0, 280);
+      const published = Number(entry.published || entry.updated || entry.crawled);
+      return {
+        type: 'CONTENT', sourceId: source.id,
+        externalId: String(entry.originId || entry.id || url),
+        url, title, organization: source.organization, status: 'OPEN',
+        publishedAt: Number.isFinite(published) ? new Date(published).toISOString() : null,
+        tags: source.tags || [],
+        summary: summary || `${source.organization} 공식 업데이트`,
+        summaryEvidence: [url],
+        attributes: {
+          authority: source.authority ?? 2,
+          practicalValue: source.practicalValue ?? 1,
+          sourcePriority: source.priority ?? 0,
+          feedFormat: 'feedly-cache',
+        },
+      };
+    })
+    .filter(Boolean);
+}
+
 async function fetchWithRetry(url, source, fetchImpl) {
   const attempts = source.retryAttempts || 3;
   const baseDelayMs = source.retryDelayMs ?? 500;
@@ -114,18 +143,27 @@ async function collectFromRssFeed(source, fetchImpl = fetch) {
     const response = await fetchWithRetry(source.url, source, fetchImpl);
     return parseRssFeed(await response.text(), source);
   } catch (primaryError) {
-    if (!source.fallbackUrl) throw new Error(`${source.id}: ${primaryError.message}`);
-    try {
-      const fallback = await fetchWithRetry(source.fallbackUrl, source, fetchImpl);
-      if (source.fallbackKind === 'wordpress-rest') {
-        return parseWordPressPosts(await fallback.json(), source);
+    const fallbacks = [
+      ...(source.fallbackUrl ? [{ url: source.fallbackUrl, kind: source.fallbackKind }] : []),
+      ...(source.fallbacks || []),
+    ];
+    if (!fallbacks.length) throw new Error(`${source.id}: ${primaryError.message}`);
+    const failures = [`primary ${primaryError.message}`];
+    for (const candidate of fallbacks) {
+      try {
+        const fallback = await fetchWithRetry(candidate.url, source, fetchImpl);
+        if (candidate.kind === 'wordpress-rest') {
+          return parseWordPressPosts(await fallback.json(), source);
+        }
+        if (candidate.kind === 'feedly') {
+          return parseFeedlyItems(await fallback.json(), source);
+        }
+        return parseRssFeed(await fallback.text(), source);
+      } catch (fallbackError) {
+        failures.push(`${candidate.kind || 'rss'} ${fallbackError.message}`);
       }
-      return parseRssFeed(await fallback.text(), source);
-    } catch (fallbackError) {
-      throw new Error(
-        `${source.id}: primary ${primaryError.message}; fallback ${fallbackError.message}`,
-      );
     }
+    throw new Error(`${source.id}: ${failures.join('; ')}`);
   }
 }
 
@@ -133,6 +171,7 @@ module.exports = {
   atomLink,
   collectFromRssFeed,
   fetchWithRetry,
+  parseFeedlyItems,
   parseRssFeed,
   parseWordPressPosts,
 };

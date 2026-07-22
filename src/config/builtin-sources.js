@@ -78,6 +78,10 @@ const BRIEF_SOURCES = [
     url: 'https://techblog.woowahan.com/feed/', organization: '우아한형제들 기술 블로그',
     fallbackUrl: 'https://techblog.woowahan.com/wp-json/wp/v2/posts?per_page=30&_fields=id,link,date,date_gmt,title,excerpt',
     fallbackKind: 'wordpress-rest', retryAttempts: 3,
+    fallbacks: [{
+      kind: 'feedly',
+      url: 'https://cloud.feedly.com/v3/streams/contents?streamId=feed%2Fhttps%3A%2F%2Ftechblog.woowahan.com%2Ffeed%2F&count=30',
+    }],
     tags: ['개발', '백엔드', '프론트엔드', '데이터', 'AI'],
     authority: 3, practicalValue: 3, maxItems: 30,
   },
