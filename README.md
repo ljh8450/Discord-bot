@@ -17,8 +17,8 @@
 
 - 네이버·카카오·쿠팡·사람인 등 개발자 채용 수집
 - 링커리어·캠퍼스픽·DACON·GDG·프로그래머스 등 개발 기회 수집
-- OpenAI·GitHub·Google Developers 공식 업데이트 기반 일일 개발 브리프
-- GeekNews 인기글과 NAVER D2·카카오·토스·당근 기술 아티클 수집
+- OpenAI·Anthropic·GitHub·Google Developers 공식 업데이트 기반 일일 개발 브리프
+- GeekNews 인기글과 NAVER D2·카카오·토스·당근·우아한형제들·LINE/LY 기술 아티클 수집
 - 실밸개발자·AI Frontier Korea·Tech Bridge·미드나잇 로그·조코딩 YouTube 수집
 - EO Korea·안될공학에서 AI·개발 관련 영상만 선택 수집
 - 관련성·실용성·신선도·권위·새로움·커뮤니티 반응 기반 콘텐츠 점수
@@ -36,8 +36,8 @@
 
 | 종류 | 수집 출처 |
 |---|---|
-| 글로벌 공식 업데이트 | OpenAI News, GitHub Blog, Google Developers Blog |
-| 국내 현업 기술 사례 | NAVER D2, Kakao Tech, 토스 기술 블로그, 당근 기술 블로그 |
+| 글로벌 공식 업데이트 | OpenAI News, Anthropic Newsroom, GitHub Blog, Google Developers Blog |
+| 국내 현업 기술 사례 | NAVER D2, Kakao Tech, 토스, 당근, 우아한형제들, LINE·LY 기술 블로그 |
 | 커뮤니티 인기글 | GeekNews 상위 20위 중 추천 5점 이상 |
 | 핵심 YouTube | 실밸개발자, AI Frontier Korea, Tech Bridge, 미드나잇 로그, 조코딩 |
 | 선택 YouTube | EO Korea와 안될공학의 AI·개발 관련 영상 |

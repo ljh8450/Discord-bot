@@ -15,8 +15,12 @@ const { collectFromSaraminCareers } = require('./saramin-careers-adapter');
 const { collectFromGreenhouseCareers } = require('./greenhouse-careers-adapter');
 const { collectFromGeekNews } = require('./geeknews-adapter');
 const { collectFromYouTube } = require('./youtube-feed-adapter');
+const { collectFromAnthropicNews } = require('./anthropic-news-adapter');
 
 async function collectSource(source, options = {}) {
+  if (source.kind === 'anthropic-news') {
+    return collectFromAnthropicNews(source, options.fetchImpl);
+  }
   if (source.kind === 'file') return collectFromFile(source, options.rootDir);
   if (source.kind === 'campuspick') return collectFromCampuspick(source, options.fetchImpl);
   if (source.kind === 'dacon') return collectFromDacon(source, options.fetchImpl);

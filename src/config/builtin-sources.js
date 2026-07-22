@@ -37,6 +37,12 @@ const BRIEF_SOURCES = [
     practicalValue: 2, maxItems: 30,
   },
   {
+    id: 'anthropic-news', kind: 'anthropic-news', enabled: true,
+    url: 'https://www.anthropic.com/news', organization: 'Anthropic',
+    tags: ['AI', 'Claude', '모델', '개발 도구'], authority: 3,
+    practicalValue: 2, maxItems: 30,
+  },
+  {
     id: 'github-blog', kind: 'rss', enabled: true, url: 'https://github.blog/feed/',
     organization: 'GitHub', tags: ['개발', 'GitHub', 'Copilot'], authority: 3,
     practicalValue: 3, maxItems: 30,
@@ -65,6 +71,18 @@ const BRIEF_SOURCES = [
   {
     id: 'daangn-tech', kind: 'rss', enabled: true, url: 'https://medium.com/feed/daangn',
     organization: '당근 기술 블로그', tags: ['개발', '백엔드', '프론트엔드', '데이터'],
+    authority: 3, practicalValue: 3, maxItems: 30,
+  },
+  {
+    id: 'woowahan-tech', kind: 'rss', enabled: true,
+    url: 'https://techblog.woowahan.com/feed/', organization: '우아한형제들 기술 블로그',
+    tags: ['개발', '백엔드', '프론트엔드', '데이터', 'AI'],
+    authority: 3, practicalValue: 3, maxItems: 30,
+  },
+  {
+    id: 'lycorp-tech', kind: 'rss', enabled: true,
+    url: 'https://techblog.lycorp.co.jp/ko/feed/index.xml', organization: 'LINE·LY 기술 블로그',
+    tags: ['개발', '백엔드', '프론트엔드', '데이터', 'AI'],
     authority: 3, practicalValue: 3, maxItems: 30,
   },
   {

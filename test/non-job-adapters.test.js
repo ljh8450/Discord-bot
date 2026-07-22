@@ -6,6 +6,7 @@ const { collectFromGdgEvents, parseEventPage } = require('../src/adapters/gdg-ev
 const { parseCoursePage } = require('../src/adapters/programmers-education-adapter');
 const { parseRssFeed } = require('../src/adapters/rss-feed-adapter');
 const { parseGeekNewsPopular } = require('../src/adapters/geeknews-adapter');
+const { parseAnthropicNews } = require('../src/adapters/anthropic-news-adapter');
 const { collectFromYouTube, parseYouTubeFeed } = require('../src/adapters/youtube-feed-adapter');
 const { mapLinkareerDetail } = require('../src/adapters/linkareer-adapter');
 const { mapCampuspickDetail } = require('../src/adapters/campuspick-adapter');
@@ -98,6 +99,21 @@ test('maps Atom entries from Korean tech blogs', () => {
   assert.equal(item.externalId, 'post-1');
   assert.equal(item.url, 'https://d2.naver.com/helloworld/1');
   assert.equal(item.attributes.feedFormat, 'atom');
+});
+
+test('maps Anthropic newsroom list items into content opportunities', () => {
+  const html = `<ul><li><a href="/news/claude-update" class="PublicationList__listItem">
+    <div><time class="PublicationList__date">Jul 14, 2026</time>
+    <span class="PublicationList__subject">Product</span></div>
+    <span class="PublicationList__title">Claude &amp; API update</span>
+  </a></li></ul>`;
+  const [item] = parseAnthropicNews(html, {
+    id: 'anthropic-news', url: 'https://www.anthropic.com/news', organization: 'Anthropic',
+  });
+  assert.equal(item.type, 'CONTENT');
+  assert.equal(item.externalId, '/news/claude-update');
+  assert.equal(item.title, 'Claude & API update');
+  assert.equal(item.attributes.contentCategory, 'Product');
 });
 
 test('keeps only popular GeekNews homepage items', () => {
