@@ -3529,8 +3529,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3577,8 +3577,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6613,11 +6613,11 @@
       },
       "contentHash": "sha256:ceda1c4cabb790b0e7f480faaa6088cb34e16b6d10cd93651271c492b0ae7133",
       "dedupeKey": "brief:opp_ae505a042bfd6fb0e229:sha256:ceda1c4cabb790b0e7f480faaa6088cb34e16b6d10cd93651271c492b0ae7133",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -6984,11 +6984,11 @@
       },
       "contentHash": "sha256:b08cac7d78caf3ab49bebad718805d064a4135c2751fc56bc7d6d84b6cd65a62",
       "dedupeKey": "brief:opp_40134c1ddac72ddb6271:sha256:b08cac7d78caf3ab49bebad718805d064a4135c2751fc56bc7d6d84b6cd65a62",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -7214,7 +7214,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 8,
+        "communityRank": 17,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -7228,11 +7228,11 @@
       },
       "contentHash": "sha256:415d107afa28689bc82517c3a3745b05ac9e01fc3e5554531fc9874bfb1f9eeb",
       "dedupeKey": "brief:opp_ce0995553f9f278f6c71:sha256:415d107afa28689bc82517c3a3745b05ac9e01fc3e5554531fc9874bfb1f9eeb",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -7421,11 +7421,11 @@
       },
       "contentHash": "sha256:069231a532d29f5d89e2419c4ca324752959db8bb0d38a3cd4fb5d4e1049e603",
       "dedupeKey": "brief:opp_365f01d15c78fcd363be:sha256:069231a532d29f5d89e2419c4ca324752959db8bb0d38a3cd4fb5d4e1049e603",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T00:05:52.568Z",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -7621,6 +7621,153 @@
       },
       "lifecycle": {
         "missingRuns": 0
+      }
+    },
+    "opp_fa5b8f5aacb72c5d9dd4": {
+      "id": "opp_fa5b8f5aacb72c5d9dd4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31678",
+      "canonicalUrl": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
+      "title": "안목은 위임할 수 없다 - AI 시대, 위원회식 디자인의 종말",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:20:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 인터페이스/이미지/제품을 누구나 생성할 수 있게 만들면서 디자이너의 가치는 결과물의 양보다 무엇이 존재할 가치가 있는지 선택하는 판단...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31678"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:f2dce0617767106854175f338d3c7b0be38458761e8f4ed537198e3d8da921fd",
+      "dedupeKey": "brief:opp_fa5b8f5aacb72c5d9dd4:sha256:f2dce0617767106854175f338d3c7b0be38458761e8f4ed537198e3d8da921fd",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4bf8759a9b8068877df5": {
+      "id": "opp_4bf8759a9b8068877df5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31683",
+      "canonicalUrl": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689",
+      "title": "AI 시대에 번영할 사람들",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T10:01:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 시대에 사람을 가르는 기준은 지능보다 정신적 노력과 맺는 관계이며, 지능이 흔해질수록 스스로 사고하고 성장하려는 의지(volition) 가 더 귀...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31683"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9d0f10e3b22328d8a920cd34cffe8842b4689869ed13da0d8540a88e683f4e83",
+      "dedupeKey": "brief:opp_4bf8759a9b8068877df5:sha256:9d0f10e3b22328d8a920cd34cffe8842b4689869ed13da0d8540a88e683f4e83",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9b2b3a429d70dd062ee3": {
+      "id": "opp_9b2b3a429d70dd062ee3",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/rare-disease-research-grants",
+      "canonicalUrl": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/rare-disease-research-grants"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 1,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d57afbdc0c774bed90b58a5ae45473e8bb1cb870420b3390f2037e5abe970cb3",
+      "dedupeKey": "brief:opp_9b2b3a429d70dd062ee3:sha256:d57afbdc0c774bed90b58a5ae45473e8bb1cb870420b3390f2037e5abe970cb3",
+      "firstSeenAt": "2026-07-22T02:45:45.874Z",
+      "lastSeenAt": "2026-07-22T02:45:45.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     }
   },
@@ -8032,6 +8179,42 @@
       "opportunityId": "opp_ac6c55aafdd940737db0",
       "sentAt": "2026-07-22T00:05:52.568Z",
       "messageId": "1529278291519864974"
+    },
+    "brief:opp_fa5b8f5aacb72c5d9dd4:sha256:f2dce0617767106854175f338d3c7b0be38458761e8f4ed537198e3d8da921fd": {
+      "status": "SENT",
+      "opportunityId": "opp_fa5b8f5aacb72c5d9dd4",
+      "sentAt": "2026-07-22T02:45:45.874Z",
+      "messageId": "1529318522709213205"
+    },
+    "brief:opp_ce0995553f9f278f6c71:sha256:415d107afa28689bc82517c3a3745b05ac9e01fc3e5554531fc9874bfb1f9eeb": {
+      "status": "SENT",
+      "opportunityId": "opp_ce0995553f9f278f6c71",
+      "sentAt": "2026-07-22T02:45:45.874Z",
+      "messageId": "1529318522709213205"
+    },
+    "brief:opp_365f01d15c78fcd363be:sha256:069231a532d29f5d89e2419c4ca324752959db8bb0d38a3cd4fb5d4e1049e603": {
+      "status": "SENT",
+      "opportunityId": "opp_365f01d15c78fcd363be",
+      "sentAt": "2026-07-22T02:45:45.874Z",
+      "messageId": "1529318522709213205"
+    },
+    "brief:opp_9b2b3a429d70dd062ee3:sha256:d57afbdc0c774bed90b58a5ae45473e8bb1cb870420b3390f2037e5abe970cb3": {
+      "status": "SENT",
+      "opportunityId": "opp_9b2b3a429d70dd062ee3",
+      "sentAt": "2026-07-22T02:45:45.874Z",
+      "messageId": "1529318522709213205"
+    },
+    "brief:opp_ae505a042bfd6fb0e229:sha256:ceda1c4cabb790b0e7f480faaa6088cb34e16b6d10cd93651271c492b0ae7133": {
+      "status": "SENT",
+      "opportunityId": "opp_ae505a042bfd6fb0e229",
+      "sentAt": "2026-07-22T02:45:45.874Z",
+      "messageId": "1529318522709213205"
+    },
+    "brief:opp_40134c1ddac72ddb6271:sha256:b08cac7d78caf3ab49bebad718805d064a4135c2751fc56bc7d6d84b6cd65a62": {
+      "status": "SENT",
+      "opportunityId": "opp_40134c1ddac72ddb6271",
+      "sentAt": "2026-07-22T02:45:45.874Z",
+      "messageId": "1529318522709213205"
     }
   },
   "pending": {
