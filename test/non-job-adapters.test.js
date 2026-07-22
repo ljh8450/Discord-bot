@@ -270,6 +270,29 @@ test('retries a transient YouTube feed response', async () => {
   assert.equal(items.length, 1);
 });
 
+test('uses a Feedly cached channel when the YouTube feed is unavailable', async () => {
+  const fetchImpl = async (url) => {
+    if (url.includes('youtube.com/feeds')) return { ok: false, status: 404 };
+    return {
+      ok: true,
+      async json() {
+        return { items: [{
+          id: 'cached-video', title: 'AI 에이전트 개발 사례', published: 1784620286000,
+          alternate: [{ href: 'https://www.youtube.com/watch?v=cached', type: 'text/html' }],
+          summary: { content: '<p>프로덕션 운영 경험</p>' },
+        }] };
+      },
+    };
+  };
+  const items = await collectFromYouTube({
+    id: 'youtube-cached', channelId: 'channel-4', organization: '캐시 채널',
+    tags: ['AI'], retryAttempts: 1, fallbackRetryAttempts: 1,
+  }, fetchImpl);
+  assert.equal(items.length, 1);
+  assert.equal(items[0].attributes.feedFormat, 'feedly-cache');
+  assert.equal(items[0].attributes.contentFormat, 'VIDEO');
+});
+
 test('maps a tech contest from Linkareer with its original URL', () => {
   const activity = { id: 7, title: 'AI 서비스 공모전', organizationName: '테크재단',
     recruitCloseAt: Date.parse('2026-08-01T09:00:00Z'), categories: [{ name: '과학/공학' }],

@@ -1,4 +1,4 @@
-const { parseRssFeed } = require('./rss-feed-adapter');
+const { fetchWithRetry, parseFeedlyItems, parseRssFeed } = require('./rss-feed-adapter');
 
 const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504]);
 
@@ -16,12 +16,8 @@ function matchesTerms(item, terms = []) {
   return terms.some((term) => text.includes(String(term).toLowerCase()));
 }
 
-function parseYouTubeFeed(xml, source, now = new Date()) {
-  const items = parseRssFeed(xml, {
-    ...source,
-    kind: 'rss',
-    maxItems: source.feedMaxItems || 30,
-  }).filter((item) => !isShortForm(item));
+function normalizeYouTubeItems(rawItems, source, now = new Date()) {
+  const items = rawItems.filter((item) => !isShortForm(item));
   const latestPublishedAt = items.reduce((latest, item) => {
     const publishedAt = new Date(item.publishedAt).getTime();
     return Number.isFinite(publishedAt) ? Math.max(latest, publishedAt) : latest;
@@ -41,6 +37,21 @@ function parseYouTubeFeed(xml, source, now = new Date()) {
       latestChannelActivityAt: new Date(latestPublishedAt).toISOString(),
     },
   })).slice(0, source.maxItems || 15);
+}
+
+function parseYouTubeFeed(xml, source, now = new Date()) {
+  return normalizeYouTubeItems(parseRssFeed(xml, {
+    ...source,
+    kind: 'rss',
+    maxItems: source.feedMaxItems || 30,
+  }), source, now);
+}
+
+function feedlyYouTubeUrl(source) {
+  const feedUrl = source.url
+    || `https://www.youtube.com/feeds/videos.xml?channel_id=${source.channelId}`;
+  const streamId = encodeURIComponent(`feed/${feedUrl}`);
+  return `https://cloud.feedly.com/v3/streams/contents?streamId=${streamId}&count=${source.feedMaxItems || 30}`;
 }
 
 async function fetchYouTubeFeed(source, fetchImpl) {
@@ -73,13 +84,30 @@ async function fetchYouTubeFeed(source, fetchImpl) {
 
 async function collectFromYouTube(source, fetchImpl = fetch) {
   if (!source.channelId && !source.url) throw new Error(`${source.id}: channelId or url is required`);
-  return parseYouTubeFeed(await fetchYouTubeFeed(source, fetchImpl), source);
+  try {
+    return parseYouTubeFeed(await fetchYouTubeFeed(source, fetchImpl), source);
+  } catch (primaryError) {
+    try {
+      const response = await fetchWithRetry(feedlyYouTubeUrl(source), {
+        ...source,
+        retryAttempts: source.fallbackRetryAttempts || 2,
+      }, fetchImpl);
+      return normalizeYouTubeItems(parseFeedlyItems(await response.json(), {
+        ...source,
+        maxItems: source.feedMaxItems || 30,
+      }), source);
+    } catch (fallbackError) {
+      throw new Error(`${primaryError.message}; Feedly fallback ${fallbackError.message}`);
+    }
+  }
 }
 
 module.exports = {
   collectFromYouTube,
   fetchYouTubeFeed,
+  feedlyYouTubeUrl,
   isShortForm,
   matchesTerms,
+  normalizeYouTubeItems,
   parseYouTubeFeed,
 };
