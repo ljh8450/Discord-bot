@@ -3541,8 +3541,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-22T11:07:05.017Z",
-      "lastSeenAt": "2026-07-22T11:07:05.017Z",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3576,12 +3576,12 @@
         "practicalValue": 3,
         "sourcePriority": 0,
         "feedFormat": "rss",
-        "contentScore": 14,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 14,
+          "total": 13,
           "relevance": 4,
           "practicalValue": 3,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 3,
           "novelty": 2,
           "community": 0
@@ -3589,8 +3589,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-22T11:07:05.017Z",
-      "lastSeenAt": "2026-07-22T11:07:05.017Z",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6239,14 +6239,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
-        "communityRank": 14,
-        "contentScore": 11,
+        "communityPoints": 16,
+        "communityRank": 16,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -6254,15 +6254,12 @@
       },
       "contentHash": "sha256:fefe78a205aff13be38f82ad8a08a64035015669a9a9aff239fd0e9f9f6fe1e7",
       "dedupeKey": "brief:opp_141a446d6ae489c9516d:sha256:fefe78a205aff13be38f82ad8a08a64035015669a9a9aff239fd0e9f9f6fe1e7",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T03:42:02.228Z",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_98651d5d4c48597eecb7": {
@@ -6291,14 +6288,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 15,
-        "contentScore": 11,
+        "communityPoints": 15,
+        "communityRank": 17,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -6306,15 +6303,12 @@
       },
       "contentHash": "sha256:4d7528cfd17731b1596e441680ef9795b3e89015d880c1965cb011c90f552e4b",
       "dedupeKey": "brief:opp_98651d5d4c48597eecb7:sha256:4d7528cfd17731b1596e441680ef9795b3e89015d880c1965cb011c90f552e4b",
-      "firstSeenAt": "2026-07-22T00:05:52.568Z",
-      "lastSeenAt": "2026-07-22T03:42:02.228Z",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_d09083a7d61953300505": {
@@ -9843,6 +9837,640 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_f79f8578adcd9df086b8": {
+      "id": "opp_f79f8578adcd9df086b8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31679",
+      "canonicalUrl": "https://www.malloydata.dev/",
+      "title": "Malloy - 데이터 관계/변환/모델링을 위한 모던 오픈소스 언어",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "시맨틱 모델링 언어이자 쿼리 언어로, 기존 SQL 엔진을 사용해 쿼리를 실행하는 이중 성격의 언어 작성한 Malloy 쿼리는 사용 중인 DB에 최적화된 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31679"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:685425881af55492187a76585581acacb575717a8e0f77738e048d967726e071",
+      "dedupeKey": "brief:opp_f79f8578adcd9df086b8:sha256:685425881af55492187a76585581acacb575717a8e0f77738e048d967726e071",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8e5d08b714ebe79a5272": {
+      "id": "opp_8e5d08b714ebe79a5272",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31668",
+      "canonicalUrl": "https://freeink.org/",
+      "title": "FreeInk - 전자책 리더를 위한 개방형 생태계",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T07:19:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "전자종이 리더의 소프트웨어·펌웨어·하드웨어 전 계층을 공개해 누구나 기기를 확장하거나 직접 만들 수 있는 오픈소스 생태계임 CrossPoint Reade...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31668"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
+      "dedupeKey": "brief:opp_8e5d08b714ebe79a5272:sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dc254715a6be3812c8b8": {
+      "id": "opp_dc254715a6be3812c8b8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31666",
+      "canonicalUrl": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "title": "Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T07:14:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Qwen-Image 시리즈의 3세대 기반 이미지 생성 모델로, 보기 좋은 이미지를 넘어 생산성 작업에 활용할 수 있는 ‘Real(实)’을 핵심 목표로 삼음 최...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31666"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:82e19fac5060aae9c65a38f4ac523ea8293d62c711ccf23ff47a85c6afd83ca7",
+      "dedupeKey": "brief:opp_dc254715a6be3812c8b8:sha256:82e19fac5060aae9c65a38f4ac523ea8293d62c711ccf23ff47a85c6afd83ca7",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ab3f362c847fe45a9f1d": {
+      "id": "opp_ab3f362c847fe45a9f1d",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "canonicalUrl": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "summaryEvidence": [
+        "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:96ca9ad0327550263406ad9995f1b3551ff0ea211cde88e0b803be2bca33ac4f",
+      "dedupeKey": "brief:opp_ab3f362c847fe45a9f1d:sha256:96ca9ad0327550263406ad9995f1b3551ff0ea211cde88e0b803be2bca33ac4f",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_62a2f0a3a608ec5b24de": {
+      "id": "opp_62a2f0a3a608ec5b24de",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "canonicalUrl": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-news-organizations-are-using-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f595996bba788fda4d4e80740d62483090f7cef549bc06f74c309306a1313b2",
+      "dedupeKey": "brief:opp_62a2f0a3a608ec5b24de:sha256:3f595996bba788fda4d4e80740d62483090f7cef549bc06f74c309306a1313b2",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b346f3154adcae113166": {
+      "id": "opp_b346f3154adcae113166",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "canonicalUrl": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "title": "Advancing the next era of national science",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "summaryEvidence": [
+        "https://openai.com/index/advancing-the-next-era-of-national-science"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9316dd471d88d2562b37855d7242dfda2136954a591aa29dcde7f98b39e437b6",
+      "dedupeKey": "brief:opp_b346f3154adcae113166:sha256:9316dd471d88d2562b37855d7242dfda2136954a591aa29dcde7f98b39e437b6",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0cd02a681644b78fe69f": {
+      "id": "opp_0cd02a681644b78fe69f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-openai-presence",
+      "canonicalUrl": "https://openai.com/index/introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-openai-presence"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b456c8a853c2a47eae8fb9b45376d9e4dee5f2b494c936129c97b461a006334a",
+      "dedupeKey": "brief:opp_0cd02a681644b78fe69f:sha256:b456c8a853c2a47eae8fb9b45376d9e4dee5f2b494c936129c97b461a006334a",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e725dbf0696230180343": {
+      "id": "opp_e725dbf0696230180343",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/ntt-data",
+      "canonicalUrl": "https://openai.com/index/ntt-data",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "summaryEvidence": [
+        "https://openai.com/index/ntt-data"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:03f611a65bd18857c24c747174b7efc3eb29ffd454f000a92892efcd485f051f",
+      "dedupeKey": "brief:opp_e725dbf0696230180343:sha256:03f611a65bd18857c24c747174b7efc3eb29ffd454f000a92892efcd485f051f",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f3703517960bac8e5aac": {
+      "id": "opp_f3703517960bac8e5aac",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/economic-futures-research-fund-agenda",
+      "canonicalUrl": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Economic Research · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Economic Research",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cd46fb22b93d71758cf6ee2c52921ee10ca278f3048cb1cfc5890b952bae4b77",
+      "dedupeKey": "brief:opp_f3703517960bac8e5aac:sha256:cd46fb22b93d71758cf6ee2c52921ee10ca278f3048cb1cfc5890b952bae4b77",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4fa6f4561d024b65472e": {
+      "id": "opp_4fa6f4561d024b65472e",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/anthropic-economic-index-connector",
+      "canonicalUrl": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Product · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/anthropic-economic-index-connector"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Product",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c094578ac12cdef73a3a4d1d24a4a49034a9e03f59a677cd1b6b90fc4afbcac5",
+      "dedupeKey": "brief:opp_4fa6f4561d024b65472e:sha256:c094578ac12cdef73a3a4d1d24a4a49034a9e03f59a677cd1b6b90fc4afbcac5",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2e9d4a0d9d7f30d21b0c": {
+      "id": "opp_2e9d4a0d9d7f30d21b0c",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97686",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 19:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:aabc40503a56903122569c693792b402afa10f1a5eb6040843e0a3ef023f85d7",
+      "dedupeKey": "brief:opp_2e9d4a0d9d7f30d21b0c:sha256:aabc40503a56903122569c693792b402afa10f1a5eb6040843e0a3ef023f85d7",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8fa432db9864cb766f15": {
+      "id": "opp_8fa432db9864cb766f15",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97671",
+      "canonicalUrl": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program",
+      "title": "Next chapter: Restructuring GitHub&#8217;s bug bounty program",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 22 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub&#8217;s bug bounty program appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d56ec7531cba21e3b4a47a876a06c0389ccdf1882001afdd54bba47c84532a63",
+      "dedupeKey": "brief:opp_8fa432db9864cb766f15:sha256:d56ec7531cba21e3b4a47a876a06c0389ccdf1882001afdd54bba47c84532a63",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a85a5edd1bbd28c96d8": {
+      "id": "opp_8a85a5edd1bbd28c96d8",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:6XX-yR3qomM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6XX-yR3qomM",
+      "title": "[LIVE] Solar Open Weight Day",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T11:13:56+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] Solar Open Weight Day",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6XX-yR3qomM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-22T11:13:56.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:07a2923e3e7b786a2bf8ad5b0c286dabb97a855c854fc258bb76abc750e78fc4",
+      "dedupeKey": "brief:opp_8a85a5edd1bbd28c96d8:sha256:07a2923e3e7b786a2bf8ad5b0c286dabb97a855c854fc258bb76abc750e78fc4",
+      "firstSeenAt": "2026-07-23T00:06:08.852Z",
+      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -10373,6 +11001,42 @@
       "opportunityId": "opp_03cf44eebf4a14ea22f9",
       "sentAt": "2026-07-22T11:07:05.017Z",
       "messageId": "1529444681824600115"
+    },
+    "brief:opp_2e9d4a0d9d7f30d21b0c:sha256:aabc40503a56903122569c693792b402afa10f1a5eb6040843e0a3ef023f85d7": {
+      "status": "SENT",
+      "opportunityId": "opp_2e9d4a0d9d7f30d21b0c",
+      "sentAt": "2026-07-23T00:06:08.852Z",
+      "messageId": "1529640743269044305"
+    },
+    "brief:opp_8fa432db9864cb766f15:sha256:d56ec7531cba21e3b4a47a876a06c0389ccdf1882001afdd54bba47c84532a63": {
+      "status": "SENT",
+      "opportunityId": "opp_8fa432db9864cb766f15",
+      "sentAt": "2026-07-23T00:06:08.852Z",
+      "messageId": "1529640743269044305"
+    },
+    "brief:opp_0cd02a681644b78fe69f:sha256:b456c8a853c2a47eae8fb9b45376d9e4dee5f2b494c936129c97b461a006334a": {
+      "status": "SENT",
+      "opportunityId": "opp_0cd02a681644b78fe69f",
+      "sentAt": "2026-07-23T00:06:08.852Z",
+      "messageId": "1529640743269044305"
+    },
+    "brief:opp_ab3f362c847fe45a9f1d:sha256:96ca9ad0327550263406ad9995f1b3551ff0ea211cde88e0b803be2bca33ac4f": {
+      "status": "SENT",
+      "opportunityId": "opp_ab3f362c847fe45a9f1d",
+      "sentAt": "2026-07-23T00:06:08.852Z",
+      "messageId": "1529640743269044305"
+    },
+    "brief:opp_f79f8578adcd9df086b8:sha256:685425881af55492187a76585581acacb575717a8e0f77738e048d967726e071": {
+      "status": "SENT",
+      "opportunityId": "opp_f79f8578adcd9df086b8",
+      "sentAt": "2026-07-23T00:06:08.852Z",
+      "messageId": "1529640743269044305"
+    },
+    "brief:opp_8a85a5edd1bbd28c96d8:sha256:07a2923e3e7b786a2bf8ad5b0c286dabb97a855c854fc258bb76abc750e78fc4": {
+      "status": "SENT",
+      "opportunityId": "opp_8a85a5edd1bbd28c96d8",
+      "sentAt": "2026-07-23T00:06:08.852Z",
+      "messageId": "1529640743269044305"
     }
   },
   "pending": {
