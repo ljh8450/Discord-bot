@@ -15,7 +15,7 @@
 
 ## 주요 기능
 
-- 네이버·카카오·쿠팡·사람인 등 개발자 채용 수집
+- 네이버·카카오·쿠팡·사람인·직행 등 개발자 채용 수집
 - 링커리어·캠퍼스픽 최근 7일 페이지네이션과 상세 URL 실행 내 캐시
 - 이벤터스 IT 카테고리·개발 키워드 검색과 GIWA 등 공식 개발 프로그램 수집
 - OpenAI·Anthropic·GitHub·Google Developers 공식 업데이트 기반 일일 개발 브리프
@@ -25,7 +25,7 @@
 - 관련성·실용성·신선도·권위·새로움·커뮤니티 반응 기반 콘텐츠 점수
 - 신입·인턴, 수도권·원격, 선호 개발 직무 기준 필터링
 - 원문 URL, 모집 상태, 마감일, 지원 자격, 요약 근거 검증
-- URL·제목·마감일 기반 출처 간 중복 제거
+- 기업명·제목 기반 채용 출처 간 중복 제거
 - 신규 발견 알림만 발송
 - 채용·해커톤·대외활동·교육·개발 인사이트별 Discord 채널 라우팅
 - 전송 실패 재시도, 출처 장애 경고, heartbeat 모니터링
@@ -88,8 +88,9 @@ Cloudflare / GitHub Scheduler
 
 GitHub Actions가 실제 수집·검증·전송을 실행하고, Cloudflare Worker는 GitHub workflow를 호출하는 독립 보조 스케줄러로 동작합니다.
 
-- 다중 스케줄러 기반의 짧은 주기 기회 수집
-- 일일 채용 목록 및 개발 인사이트 브리프
+- GitHub Actions 기반 30분 주기 기회 수집
+- Cloudflare 수동 트리거를 통한 필요 시 즉시 복구 실행
+- 최초 발견 채용 알림 및 일일 개발 인사이트 브리프
 - 일일 복구 작업으로 최근 미전송 항목 재처리
 - workflow 동시 실행 제한
 - 실행당 전체 및 카테고리별 알림 상한
@@ -114,7 +115,7 @@ npm run radar
 ```bash
 npm run recover        # 최근 미전송 기회 복구
 npm run diagnose -- "GIWA GASOK" # 수집·검증·필터 중 누락 단계를 진단
-npm run digest         # 현재 유효한 채용 목록 전송
+npm run digest         # 채용 일일 목록 비활성화 상태 확인
 npm run brief          # 일일 개발 인사이트 전송
 npm run brief-dry-run  # 브리프 후보만 확인
 npm run heartbeat      # 스케줄러 heartbeat 전송

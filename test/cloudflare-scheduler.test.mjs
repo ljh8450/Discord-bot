@@ -30,22 +30,6 @@ test('rejects an unauthenticated manual dispatch', async () => {
   assert.equal(response.status, 401);
 });
 
-test('scheduled handler waits for the GitHub dispatch', async (t) => {
-  const originalFetch = globalThis.fetch;
-  t.after(() => { globalThis.fetch = originalFetch; });
-  globalThis.fetch = async () => new Response(null, { status: 204 });
-  let scheduledWork;
-
-  worker.scheduled(
-    { cron: '2,12,22,32,42,52 * * * *', scheduledTime: 1_753_000_000_000 },
-    { GITHUB_TOKEN: 'test-token' },
-    { waitUntil(promise) { scheduledWork = promise; } },
-  );
-
-  assert.ok(scheduledWork instanceof Promise);
-  await scheduledWork;
-});
-
 test('dispatches the developer brief workflow on the morning and evening cron', async (t) => {
   const originalFetch = globalThis.fetch;
   t.after(() => { globalThis.fetch = originalFetch; });
@@ -66,8 +50,5 @@ test('dispatches the developer brief workflow on the morning and evening cron', 
   await scheduledWork;
 
   assert.match(requestedUrl, /opportunity-digest\.yml\/dispatches$/);
-  assert.deepEqual(JSON.parse(requestOptions.body), {
-    ref: 'main',
-    inputs: { brief_only: true },
-  });
+  assert.deepEqual(JSON.parse(requestOptions.body), { ref: 'main' });
 });

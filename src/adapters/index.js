@@ -11,6 +11,7 @@ const { collectFromProgrammersEducation } = require('./programmers-education-ada
 const { collectFromRssFeed } = require('./rss-feed-adapter');
 const { collectFromTicketa } = require('./ticketa-adapter');
 const { collectFromWantedCareers } = require('./wanted-careers-adapter');
+const { collectFromZighangCareers } = require('./zighang-careers-adapter');
 const { collectFromSaraminCareers } = require('./saramin-careers-adapter');
 const { collectFromGreenhouseCareers } = require('./greenhouse-careers-adapter');
 const { collectFromGeekNews } = require('./geeknews-adapter');
@@ -37,6 +38,9 @@ async function collectSource(source, options = {}) {
   if (source.kind === 'rss') return collectFromRssFeed(source, options.fetchImpl);
   if (source.kind === 'ticketa') return collectFromTicketa(source, options.fetchImpl);
   if (source.kind === 'wanted-careers') return collectFromWantedCareers(source, options.fetchImpl);
+  if (source.kind === 'zighang-careers') {
+    return collectFromZighangCareers(source, options.fetchImpl);
+  }
   if (source.kind === 'saramin-careers') {
     return collectFromSaraminCareers(source, options.fetchImpl, options.env);
   }

@@ -37,7 +37,7 @@ export function dispatchRadar(env) {
 }
 
 export function dispatchDigest(env) {
-  return dispatchWorkflow(env, 'opportunity-digest.yml', { brief_only: true });
+  return dispatchWorkflow(env, 'opportunity-digest.yml');
 }
 
 const worker = {

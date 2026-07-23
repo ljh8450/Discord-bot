@@ -2,9 +2,9 @@ name: Opportunity Radar
 
 on:
   schedule:
-    # Retry every 10 minutes so a delayed or dropped schedule event is
-    # recovered by the next off-peak invocation.
-    - cron: "7,17,27,37,47,57 * * * *"
+    # Poll twice an hour. Delivery state prevents repeat notifications,
+    # while the wider interval keeps source and Actions load reasonable.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:

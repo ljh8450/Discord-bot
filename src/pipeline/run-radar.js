@@ -1,8 +1,30 @@
 const { applyProfileFilter } = require('../domain/filter');
+const { normalizedTitle } = require('../domain/cross-source-dedupe');
 const { normalizeOpportunity } = require('../domain/opportunity');
 const { assessBenefit, validateMinimum } = require('../domain/validation');
 
 const NOTIFICATION_TYPE_ORDER = ['HACKATHON', 'JOB', 'EXTERNAL_ACTIVITY', 'EDUCATION', 'CONTENT'];
+
+function normalizedOrganization(value) {
+  return String(value || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
+}
+
+function findPreviouslySentEquivalentJob(state, opportunity) {
+  if (opportunity.type !== 'JOB') return null;
+  const organization = normalizedOrganization(opportunity.organization);
+  const title = normalizedTitle(opportunity.title);
+  if (!organization || !title) return null;
+
+  return Object.values(state.opportunities).find((candidate) => {
+    if (candidate.id === opportunity.id || candidate.type !== 'JOB') return false;
+    if (candidate.sourceId === opportunity.sourceId) return false;
+    const sent = candidate.review?.status === 'SENT'
+      || state.deliveries[candidate.dedupeKey]?.status === 'SENT';
+    if (!sent || candidate.status !== 'OPEN') return false;
+    return normalizedOrganization(candidate.organization) === organization
+      && normalizedTitle(candidate.title) === title;
+  }) || null;
+}
 
 function balanceByType(items, typeOrder = NOTIFICATION_TYPE_ORDER) {
   const queues = new Map(typeOrder.map((type) => [type, []]));
@@ -35,7 +57,7 @@ async function runRadar(options) {
   const state = await store.load();
   const report = {
     discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0, closed: 0,
-    deferred: 0, sentByType: {}, deferredByType: {}, bySource: {},
+    deferred: 0, duplicates: 0, sentByType: {}, deferredByType: {}, bySource: {},
   };
   const seenIds = new Set();
 
@@ -43,7 +65,7 @@ async function runRadar(options) {
     const sourceId = raw?.sourceId || 'unknown';
     const sourceReport = report.bySource[sourceId] ||= {
       candidates: 0, normalized: 0, approved: 0, pending: 0,
-      rejected: 0, sent: 0, deferred: 0, failed: 0,
+      rejected: 0, sent: 0, deferred: 0, duplicates: 0, failed: 0,
     };
     sourceReport.candidates += 1;
     let opportunity;
@@ -63,11 +85,29 @@ async function runRadar(options) {
       previous.review?.status === 'SENT'
       || state.deliveries[previous.dedupeKey]?.status === 'SENT'
     );
+    const equivalentSent = previouslySent
+      ? null
+      : findPreviouslySentEquivalentJob(state, opportunity);
     if (previous) opportunity.firstSeenAt = previous.firstSeenAt;
     if (previouslySent) {
       opportunity.eventType = previous.eventType || 'DISCOVERED';
       opportunity.dedupeKey = previous.dedupeKey;
       opportunity.review = previous.review || { status: 'SENT', reason: '기존 발송 완료' };
+    } else if (equivalentSent) {
+      opportunity.eventType = 'DISCOVERED';
+      opportunity.review = {
+        status: 'SENT',
+        reason: `동일 채용공고 발송 완료: ${equivalentSent.id}`,
+      };
+      state.deliveries[opportunity.dedupeKey] = {
+        status: 'SENT',
+        opportunityId: opportunity.id,
+        sentAt: now.toISOString(),
+        suppressedDuplicate: true,
+        duplicateOf: equivalentSent.id,
+      };
+      report.duplicates += 1;
+      sourceReport.duplicates += 1;
     } else if (unchanged) {
       opportunity.eventType = previous.eventType || 'DISCOVERED';
       opportunity.dedupeKey = previous.dedupeKey;

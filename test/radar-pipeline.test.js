@@ -33,6 +33,34 @@ test('sends a matching opportunity exactly once', async () => {
   assert.equal(Object.values(store.state.opportunities)[0].review.status, 'SENT');
 });
 
+test('sends an equivalent job from multiple sources only on its first discovery', async () => {
+  const store = new MemoryStore();
+  const sent = [];
+  const notify = async (item) => {
+    sent.push(item.sourceId);
+    return { id: `message-${sent.length}` };
+  };
+  const official = rawJob();
+  const aggregator = rawJob({
+    sourceId: 'zighang-entry-developers',
+    externalId: 'zighang-job-1',
+    url: 'https://aggregator.example/recruitment/1',
+  });
+
+  const report = await runRadar({
+    rawItems: [official, aggregator], profile, store, notify, now,
+  });
+
+  assert.equal(report.sent, 1);
+  assert.equal(report.duplicates, 1);
+  assert.deepEqual(sent, ['official-careers']);
+  const duplicate = Object.values(store.state.opportunities)
+    .find((item) => item.sourceId === 'zighang-entry-developers');
+  assert.equal(duplicate.review.status, 'SENT');
+  assert.match(duplicate.review.reason, /동일 채용공고/);
+  assert.equal(store.state.deliveries[duplicate.dedupeKey].suppressedDuplicate, true);
+});
+
 test('does not resend an opportunity when important content changes', async () => {
   const store = new MemoryStore();
   const sent = [];

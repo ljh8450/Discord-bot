@@ -72,6 +72,22 @@
       "years": 0,
       "maxItems": 40,
       "detailConcurrency": 5
+    },
+    {
+      "id": "zighang-entry-developers",
+      "kind": "zighang-careers",
+      "enabled": true,
+      "url": "https://api.zighang.com/api/recruitments/v3",
+      "depthOnes": ["IT_개발", "AI_데이터"],
+      "regions": ["서울", "경기", "인천"],
+      "careerMin": 0,
+      "careerMax": 0,
+      "inferredCareerMaxYears": 3,
+      "sortCondition": "LATEST",
+      "orderCondition": "DESC",
+      "maxItems": 40,
+      "detailConcurrency": 5,
+      "allowEmpty": true
     }
   ]
 }
