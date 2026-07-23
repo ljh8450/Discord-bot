@@ -7,11 +7,11 @@ function mapTicketaEvent(x, source, now = new Date()) {
   if (!x?.id || x.status !== 'PUBLIC' || !closesAt || new Date(closesAt) < now
     || !isTechRelevant(x.title, x.organization_id)) return null;
   const url = `https://ticketa.co/event/${x.id}`;
-  const inferredType = inferType(x.title);
+  const inferredType = inferType(x.title, 'HACKATHON');
   const developmentOutput = hasDevelopmentOutput(x.title, x.organization_id);
   if (inferredType === 'HACKATHON' && !developmentOutput) return null;
   return {
-    type: 'HACKATHON', sourceId: source.id, externalId: x.id, url, title: x.title,
+    type: inferredType, sourceId: source.id, externalId: x.id, url, title: x.title,
     organization: x.organization_id || '티켓타코 등록 기관', status: 'OPEN', closesAt,
     locations: [x.venues?.province, x.venues?.district, x.venues?.place_name].filter(Boolean),
     eligibility: ['참가 조건 상세 확인'], tags: ['개발자 행사'],

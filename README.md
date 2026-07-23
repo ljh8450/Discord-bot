@@ -19,7 +19,7 @@
 - 링커리어·캠퍼스픽·DACON·GDG·프로그래머스 등 개발 기회 수집
 - OpenAI·Anthropic·GitHub·Google Developers 공식 업데이트 기반 일일 개발 브리프
 - GeekNews 인기글과 NAVER D2·카카오·토스·당근·우아한형제들·LINE/LY 기술 아티클 수집
-- 실밸개발자·AI Frontier Korea·Tech Bridge·미드나잇 로그·조코딩 YouTube 수집
+- 실밸개발자·AI Frontier Korea·Tech Bridge·미드나잇 로그·조코딩·AgentOS·코딩하는 기술사·코딩애플 YouTube 수집
 - EO Korea·안될공학에서 AI·개발 관련 영상만 선택 수집
 - 관련성·실용성·신선도·권위·새로움·커뮤니티 반응 기반 콘텐츠 점수
 - 신입·인턴, 수도권·원격, 선호 개발 직무 기준 필터링
@@ -39,7 +39,7 @@
 | 글로벌 공식 업데이트 | OpenAI News, Anthropic Newsroom, GitHub Blog, Google Developers Blog |
 | 국내 현업 기술 사례 | NAVER D2, Kakao Tech, 토스, 당근, 우아한형제들, LINE·LY 기술 블로그 |
 | 커뮤니티 인기글 | GeekNews 상위 20위 중 추천 5점 이상 |
-| 핵심 YouTube | 실밸개발자, AI Frontier Korea, Tech Bridge, 미드나잇 로그, 조코딩 |
+| 핵심 YouTube | 실밸개발자, AI Frontier Korea, Tech Bridge, 미드나잇 로그, 조코딩, AgentOS, 코딩하는 기술사, 코딩애플 |
 | 선택 YouTube | EO Korea와 안될공학의 AI·개발 관련 영상 |
 
 YouTube는 공식 Atom 피드를 사용해 API 키 없이 수집합니다. Shorts는 제외하며 최근 90일 동안 일반 영상이 없으면 채널을 휴면 처리합니다. 이후 새 영상이 올라오면 다음 실행에서 자동으로 다시 활성화됩니다. 같은 글이나 영상이 여러 출처에 등장하면 URL과 제목으로 합치고, 한 출처에서 최대 2개만 뽑아 Brief가 특정 채널에 편중되지 않게 합니다.

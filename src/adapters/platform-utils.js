@@ -20,12 +20,24 @@ function extractJsonScript(html, id) {
   return value ? JSON.parse(value) : null;
 }
 
-function inferType(title, fallback = 'EXTERNAL_ACTIVITY') {
-  return /해커톤|공모전|경진대회|contest|competition/i.test(title || '') ? 'HACKATHON' : fallback;
+const EXTERNAL_EVENT_PATTERN = /포럼|컨퍼런스|콘퍼런스|강연|세미나|forum|conference|seminar|lecture/i;
+
+function isExternalEvent(...values) {
+  const text = values.flat(Infinity).filter(Boolean).join(' ');
+  return EXTERNAL_EVENT_PATTERN.test(text);
+}
+
+function inferType(values, fallback = 'EXTERNAL_ACTIVITY') {
+  const text = [values].flat(Infinity).filter(Boolean).join(' ');
+  if (isExternalEvent(text)) return 'EXTERNAL_ACTIVITY';
+  if (fallback === 'EXTERNAL_ACTIVITY') return fallback;
+  return /해커톤|공모전|경진대회|contest|competition/i.test(text) ? 'HACKATHON' : fallback;
 }
 
 function requestOptions() {
   return { headers: { 'user-agent': 'Mozilla/5.0 OpportunityRadar/1.0' }, signal: AbortSignal.timeout(30_000) };
 }
 
-module.exports = { extractJsonScript, hasDevelopmentOutput, inferType, isTechRelevant, requestOptions };
+module.exports = {
+  extractJsonScript, hasDevelopmentOutput, inferType, isExternalEvent, isTechRelevant, requestOptions,
+};

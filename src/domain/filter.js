@@ -78,12 +78,14 @@ function filterExternalActivity(opportunity) {
   const needsBenefitReview = ['유료', '창업', '서포터즈', '풀타임'];
   const conservativeAggregator = ['linkareer', 'campuspick'].includes(opportunity.sourceId);
 
-  if (conservativeAggregator && opportunity.attributes.verifiedDevelopmentActivity !== true) {
-    return { decision: 'REJECTED', reason: '명시적인 개발 결과물 근거 없음' };
-  }
-
   if (includesAny(text, needsBenefitReview) || opportunity.attributes.requiresBenefitReview === true) {
     return { decision: 'PENDING_BENEFIT', reason: '시간 부담 대비 활동 혜택 추가 심사 필요' };
+  }
+  if (opportunity.attributes.platformDeveloperEvent === true) {
+    return { decision: 'APPROVED', reason: '개발자 포럼·컨퍼런스·강연·세미나' };
+  }
+  if (conservativeAggregator && opportunity.attributes.verifiedDevelopmentActivity !== true) {
+    return { decision: 'REJECTED', reason: '명시적인 개발 결과물 근거 없음' };
   }
   if (conservativeAggregator) {
     return { decision: 'APPROVED', reason: '명시적인 개발 결과물 활동' };

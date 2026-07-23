@@ -129,6 +129,24 @@ const BRIEF_SOURCES = [
     dormancyDays: 90, maxItems: 10, allowEmpty: true,
   },
   {
+    id: 'youtube-agent-os', kind: 'youtube', enabled: true,
+    channelId: 'UC2ODfJSf8L4PeCw4ebTECJQ', organization: 'AgentOS',
+    tags: ['AI', 'AI Agent', '개발자 커리어'], authority: 2, practicalValue: 3,
+    dormancyDays: 90, maxItems: 10, allowEmpty: true,
+  },
+  {
+    id: 'youtube-coding-pe', kind: 'youtube', enabled: true,
+    channelId: 'UCRpOx7jjy2PuuVeRrYKbdCA', organization: '코딩하는 기술사',
+    tags: ['개발', '소프트웨어 아키텍처', '개발자 커리어'], authority: 2, practicalValue: 3,
+    dormancyDays: 90, maxItems: 10, allowEmpty: true,
+  },
+  {
+    id: 'youtube-codingapple', kind: 'youtube', enabled: true,
+    channelId: 'UCSLrpBAzr-ROVGHQ5EmxnUg', organization: '코딩애플',
+    tags: ['개발', '코딩', '개발 트렌드'], authority: 2, practicalValue: 3,
+    dormancyDays: 90, maxItems: 10, allowEmpty: true,
+  },
+  {
     id: 'youtube-unrealtech', kind: 'youtube', enabled: true,
     channelId: 'UCeN2YeJcBCRJoXgzF_OU3qw', organization: '안될공학',
     tags: ['AI', '인프라', '개발 도구'], authority: 2, practicalValue: 2,

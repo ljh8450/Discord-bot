@@ -1,5 +1,5 @@
 const {
-  extractJsonScript, hasDevelopmentOutput, isTechRelevant, requestOptions,
+  extractJsonScript, hasDevelopmentOutput, inferType, isExternalEvent, isTechRelevant, requestOptions,
 } = require('./platform-utils');
 const { hasExplicitDevelopmentActivity } = require('../domain/development-relevance');
 const TYPES = { contest: 'HACKATHON', education: 'EDUCATION', activity: 'EXTERNAL_ACTIVITY' };
@@ -11,6 +11,7 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
   if (closesAt && new Date(closesAt) < now) return null;
   const tags = [...(x.categories || []), ...(x.educationTypes || []), ...(x.skills || [])]
     .map((v) => typeof v === 'string' ? v : v?.name).filter(Boolean);
+  const resolvedType = inferType([x.title, tags], type);
   const activityDetails = [
     x.description, x.content, x.detail, x.activityContent, x.recruitmentDetail,
     x.qualification, x.preferentialTreatment, x.mainActivity,
@@ -20,7 +21,7 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
   const benefits = [x.additionalBenefit, ...(x.benefits || [])]
     .map((v) => typeof v === 'string' ? v : v?.name).filter(Boolean).join(' ');
   return {
-    type, sourceId: source.id, externalId: String(x.id), url, title: x.title,
+    type: resolvedType, sourceId: source.id, externalId: String(x.id), url, title: x.title,
     organization: x.organizationName || '링커리어 등록 기관', status: 'OPEN', closesAt,
     locations: [...(x.regions || []), ...(x.addresses || [])].map((v) => v?.name || v).filter(Boolean),
     eligibility: (x.targets || []).map((v) => v?.name || v).filter(Boolean), tags,
@@ -28,14 +29,16 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
     summaryEvidence: [...new Set([listingUrl, url])],
     attributes: {
       listingUrl, originalUrl: url, sourcePriority: source.priority,
-      developmentOutput: type === 'HACKATHON'
+      developmentOutput: resolvedType === 'HACKATHON'
         && hasDevelopmentOutput(x.title, tags, x.organizationName),
-      verifiedDevelopmentActivity: type === 'EXTERNAL_ACTIVITY'
+      verifiedDevelopmentActivity: resolvedType === 'EXTERNAL_ACTIVITY'
         && hasExplicitDevelopmentActivity(
           x.title, tags, x.organizationName, benefits, activityDetails,
         ),
+      platformDeveloperEvent: resolvedType === 'EXTERNAL_ACTIVITY'
+        && isExternalEvent(x.title, tags),
       immediateCategory: false,
-      requiresBenefitReview: type === 'EDUCATION',
+      requiresBenefitReview: resolvedType === 'EDUCATION',
       freeOrFunded: /무료|지원/.test(`${x.cost || ''} ${benefits}`),
       trustedOrganizer: Boolean(x.organizationName), portfolioProject: /프로젝트|포트폴리오/.test(x.title),
     },

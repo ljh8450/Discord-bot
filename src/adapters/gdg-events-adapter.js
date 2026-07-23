@@ -1,4 +1,5 @@
 const { cleanText } = require('./xml-utils');
+const { inferType, isExternalEvent } = require('./platform-utils');
 
 const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504]);
 
@@ -42,8 +43,9 @@ function parseEventPage(html, source, url, now = new Date()) {
   if (Number.isNaN(endsAt.getTime()) || endsAt < now) return null;
   const address = event.location?.address || {};
   const location = address.addressLocality || address.addressRegion || event.location?.name || '온라인';
+  const eventText = `${event.name} ${event.description || ''}`;
   return {
-    type: 'HACKATHON',
+    type: inferType(eventText, 'HACKATHON'),
     sourceId: source.id, externalId: url, url, title: cleanText(event.name),
     organization: event.organizer?.name || 'Google Developer Groups', status: 'OPEN',
     closesAt: event.startDate, locations: [cleanText(location)], eligibility: ['참가 자격 상세 확인'],
@@ -52,7 +54,8 @@ function parseEventPage(html, source, url, now = new Date()) {
     summaryEvidence: [url],
     attributes: {
       developmentOutput: /hackathon|해커톤|hands-on|워크숍/i.test(`${event.name} ${event.description}`),
-      platformDeveloperEvent: true, eventStartsAt: event.startDate,
+      platformDeveloperEvent: true, externalEvent: isExternalEvent(eventText),
+      eventStartsAt: event.startDate,
     },
   };
 }

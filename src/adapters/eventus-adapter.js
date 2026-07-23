@@ -1,5 +1,5 @@
 const {
-  hasDevelopmentOutput, isTechRelevant, requestOptions,
+  hasDevelopmentOutput, inferType, isExternalEvent, isTechRelevant, requestOptions,
 } = require('./platform-utils');
 const value = (x, key) => x?.[key]?.raw ?? null;
 
@@ -12,9 +12,11 @@ function mapEventusResult(x, source, now = new Date()) {
   const developmentOutput = hasDevelopmentOutput(
     title, value(x, 'category'), value(x, 'event_type'),
   );
-  if (!developmentOutput) return null;
+  const eventText = [title, value(x, 'category'), value(x, 'event_type')];
+  const type = inferType(eventText, 'HACKATHON');
+  if (type === 'HACKATHON' && !developmentOutput) return null;
   return {
-    type: 'HACKATHON', sourceId: source.id, externalId: String(id), url, title, closesAt,
+    type, sourceId: source.id, externalId: String(id), url, title, closesAt,
     status: 'OPEN',
     organization: value(x, 'fullname') || value(x, 'app_title') || '이벤터스 등록 기관',
     locations: [value(x, 'area'), value(x, 'area_detail'), value(x, 'place')].filter(Boolean),
@@ -22,7 +24,7 @@ function mapEventusResult(x, source, now = new Date()) {
     tags: [value(x, 'category'), value(x, 'event_type'), '개발자 행사'].filter(Boolean),
     summary: `${value(x, 'event_type') || '행사'} · ${value(x, 'area_detail') || '장소 상세 확인'}`,
     summaryEvidence: [url], attributes: { sourcePriority: source.priority,
-      developmentOutput, platformDeveloperEvent: true },
+      developmentOutput, platformDeveloperEvent: isExternalEvent(eventText) },
   };
 }
 

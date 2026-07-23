@@ -1,5 +1,5 @@
 const {
-  extractJsonScript, hasDevelopmentOutput, isTechRelevant, requestOptions,
+  extractJsonScript, hasDevelopmentOutput, inferType, isExternalEvent, isTechRelevant, requestOptions,
 } = require('./platform-utils');
 const { hasExplicitDevelopmentActivity } = require('../domain/development-relevance');
 
@@ -9,18 +9,21 @@ function mapCampuspickDetail(html, source, listingUrl, type, now = new Date()) {
   const closesAt = x.end_date ? new Date(x.end_date).toISOString() : null;
   if ((closesAt && new Date(closesAt) < now) || !isTechRelevant(x.title, x.description, x.company)) return null;
   const url = x.website || listingUrl;
+  const resolvedType = inferType([x.title, x.description], type);
   return {
-    type, sourceId: source.id, externalId: String(x.id), url, title: x.title,
+    type: resolvedType, sourceId: source.id, externalId: String(x.id), url, title: x.title,
     organization: x.company || '캠퍼스픽 등록 기관', status: 'OPEN', closesAt,
     locations: [x.region, x.online_type].filter(Boolean), eligibility: ['지원 자격 상세 확인'],
-    tags: [type === 'HACKATHON' ? '공모전' : '대외활동', '개발'],
+    tags: [resolvedType === 'HACKATHON' ? '공모전' : '대외활동', '개발'],
     summary: String(x.description || '모집 내용은 원문 확인').replace(/<[^>]*>/g, ' ').slice(0, 280),
     summaryEvidence: [...new Set([listingUrl, url])],
     attributes: { listingUrl, originalUrl: url, sourcePriority: source.priority,
-      developmentOutput: type === 'HACKATHON'
+      developmentOutput: resolvedType === 'HACKATHON'
         && hasDevelopmentOutput(x.title, x.description, x.company),
-      verifiedDevelopmentActivity: type === 'EXTERNAL_ACTIVITY'
+      verifiedDevelopmentActivity: resolvedType === 'EXTERNAL_ACTIVITY'
         && hasExplicitDevelopmentActivity(x.title, x.description, x.company),
+      platformDeveloperEvent: resolvedType === 'EXTERNAL_ACTIVITY'
+        && isExternalEvent(x.title, x.description),
       immediateCategory: false,
       financialSupport: Boolean(x.prize_top || x.prize_total || x.prize_benefit) },
   };

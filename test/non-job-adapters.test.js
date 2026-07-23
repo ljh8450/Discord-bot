@@ -330,6 +330,6 @@ test('routes Event-us developer events to hackathons and competitions', () => {
     event_type: raw('강연/세미나'), fullname: raw('개발자 커뮤니티'),
   }, { id: 'eventus', priority: 70 }, new Date('2026-07-20'));
 
-  assert.equal(item.type, 'HACKATHON');
+  assert.equal(item.type, 'EXTERNAL_ACTIVITY');
   assert.equal(item.attributes.platformDeveloperEvent, true);
 });

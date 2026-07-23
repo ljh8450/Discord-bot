@@ -6,6 +6,7 @@ const { mapCampuspickDetail } = require('../src/adapters/campuspick-adapter');
 const { mapTicketaEvent } = require('../src/adapters/ticketa-adapter');
 const { hasDevelopmentOutput } = require('../src/domain/development-relevance');
 const { applyProfileFilter } = require('../src/domain/filter');
+const { BRIEF_SOURCES } = require('../src/config/builtin-sources');
 
 function linkareerHtml(activity) {
   return `<script id='__NEXT_DATA__'>${JSON.stringify({ props: { pageProps: {
@@ -83,6 +84,26 @@ test('accepts curated platform developer events in the hackathon channel', () =>
   }, {});
 
   assert.equal(decision.decision, 'APPROVED');
+});
+
+test('routes forum, conference, lecture, and seminar contests to external activities', () => {
+  for (const title of [
+    'AI 개발 포럼 공모전', '클라우드 컨퍼런스 공모전',
+    '백엔드 강연 공모전', '개발자 세미나 공모전',
+  ]) {
+    const item = mapActivity({ title, skills: ['개발'] }, 'HACKATHON');
+    const decision = applyProfileFilter(item, {});
+    assert.equal(item.type, 'EXTERNAL_ACTIVITY', title);
+    assert.equal(decision.decision, 'APPROVED', title);
+  }
+});
+
+test('includes the requested YouTube insight channels without duplicating EO Korea', () => {
+  const youtubeSources = BRIEF_SOURCES.filter((source) => source.kind === 'youtube');
+  const organizations = youtubeSources.map((source) => source.organization);
+  for (const organization of ['AgentOS', 'EO Korea', '코딩하는 기술사', '코딩애플']) {
+    assert.equal(organizations.filter((name) => name === organization).length, 1, organization);
+  }
 });
 
 test('rejects an IT crew without a required development output', () => {
