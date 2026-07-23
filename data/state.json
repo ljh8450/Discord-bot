@@ -3607,8 +3607,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-23T09:05:22.144Z",
-      "lastSeenAt": "2026-07-23T09:05:22.144Z",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -9977,8 +9977,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 18,
+        "communityPoints": 9,
+        "communityRank": 20,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -9992,15 +9992,12 @@
       },
       "contentHash": "sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
       "dedupeKey": "brief:opp_8e5d08b714ebe79a5272:sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
-      "firstSeenAt": "2026-07-23T02:51:51.609Z",
-      "lastSeenAt": "2026-07-23T03:40:58.575Z",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_dc254715a6be3812c8b8": {
@@ -10617,8 +10614,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
-        "communityRank": 5,
+        "communityPoints": 13,
+        "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -10632,11 +10629,11 @@
       },
       "contentHash": "sha256:1309e8a728ab4f5c921a955a9b24b0eea9b35df30b9313c4ab1755990a4ad3a7",
       "dedupeKey": "brief:opp_a9a76910eda63d37a0a6:sha256:1309e8a728ab4f5c921a955a9b24b0eea9b35df30b9313c4ab1755990a4ad3a7",
-      "firstSeenAt": "2026-07-23T09:05:22.144Z",
-      "lastSeenAt": "2026-07-23T09:05:22.144Z",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10715,26 +10712,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 18,
-        "communityRank": 3,
-        "contentScore": 12,
+        "communityPoints": 20,
+        "communityRank": 2,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:f07503d74e1bf02991b98023356f38993149264d9a249b09f7543005bf2eedd8",
       "dedupeKey": "brief:opp_8ec7a6c4acbe89de875d:sha256:f07503d74e1bf02991b98023356f38993149264d9a249b09f7543005bf2eedd8",
-      "firstSeenAt": "2026-07-23T09:05:22.144Z",
-      "lastSeenAt": "2026-07-23T09:05:22.144Z",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10765,7 +10762,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 17,
-        "communityRank": 4,
+        "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -10779,8 +10776,8 @@
       },
       "contentHash": "sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
       "dedupeKey": "brief:opp_a61786ae6a62b8f41feb:sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
-      "firstSeenAt": "2026-07-23T09:05:22.144Z",
-      "lastSeenAt": "2026-07-23T09:05:22.144Z",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -10828,8 +10825,8 @@
       },
       "contentHash": "sha256:ee0ee2922b50058ab3af88406d3e255a6beb6c67dbf3da20e91985a640ffb9ce",
       "dedupeKey": "brief:opp_f857b60b5c35e8ffb6e3:sha256:ee0ee2922b50058ab3af88406d3e255a6beb6c67dbf3da20e91985a640ffb9ce",
-      "firstSeenAt": "2026-07-23T09:05:22.144Z",
-      "lastSeenAt": "2026-07-23T09:05:22.144Z",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -12265,6 +12262,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_5b3eee374c8ce0377e18": {
+      "id": "opp_5b3eee374c8ce0377e18",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/f8b32edb2eb1",
+      "canonicalUrl": "https://medium.com/daangn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%ED%95%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-f8b32edb2eb1?source=rss----4505f82a2dbd---4",
+      "title": "프론트엔드와 백엔드를 한 팀으로 합치면 어떤 일이 일어날까?",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 23 Jul 2026 09:39:17 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 엔지니어링 매니저를 맡고 있는 일택(Iltaek)이에요. 제가 속한 광고주플랫폼팀은 광고주가 당근의 내부 구조를 몰라도 광고를 만들고, 운영하고, 결과를 이해할 수 있는 플랫폼을 만들어요. 광고를 시작하려고 광고 만들기 버튼을 누른 순간부터 집행 결과 리포트를 확인하기까지, 광고주가 만나는 모든 여정을 저희가 책임지고 있죠. 그리고 그 경험이 매끄럽게 흘러가려면, 웹 화면부터 그 뒤의 서버까지가 하나의 흐름으로 이어져야 해요. 그런데 올해 초까지만 해도,",
+      "summaryEvidence": [
+        "https://medium.com/daangn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%ED%95%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-f8b32edb2eb1?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4ba414fa23c5b4e07a0a5e43110b541910f2381a72b5877abe9cbf4672eaa6df",
+      "dedupeKey": "brief:opp_5b3eee374c8ce0377e18:sha256:4ba414fa23c5b4e07a0a5e43110b541910f2381a72b5877abe9cbf4672eaa6df",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f263728f5c63d75a81d7": {
+      "id": "opp_f263728f5c63d75a81d7",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:V52isFZ0bjE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V52isFZ0bjE",
+      "title": "[한영자막] 혼자 몇 시간이고 일하는 Claude, 비결이 있었습니다 — Anthropic Lance Martin",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T10:00:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic의 Lance Martin이 AI Engineer World's Fair에서 발표한 \"비동기 에이전트\"에 대한 이야기입니다. Claude가 몇 시간씩 혼자 일할 수 있게 만든 아키텍처 원칙들을 소개합니다. 주요 내용 - 두뇌(하네스)와 손(실행 환경)을 분리해 세션을 안전하게 백업하는 Managed Agents 아키텍처 - 자기 채점의 함정을 피하기 위해 검증을 별도 컨텍스트로 분리하는 \"루프\" 패턴 - 포켓몬 실험으로 확인한 실시간 기억 기록과 \"드리밍\"을 통한 오프라인 기억 교",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=V52isFZ0bjE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T10:00:18.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f24d0185eab30ab39f25003356f59b329ed69ee87eb4ed89152b1818c8c556c",
+      "dedupeKey": "brief:opp_f263728f5c63d75a81d7:sha256:3f24d0185eab30ab39f25003356f59b329ed69ee87eb4ed89152b1818c8c556c",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fae7e3f8c305b8acbbc6": {
+      "id": "opp_fae7e3f8c305b8acbbc6",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:11EZFKPCt5A",
+      "canonicalUrl": "https://www.youtube.com/shorts/11EZFKPCt5A",
+      "title": "중국에 등장한 현실판 '리얼 스틸'",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T09:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "✅ 조코딩과 코딩 공부하기 https://jocoding.net/ VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira님, 천사슥님, jsp3356님, 예스타님, yubizen님, shintony667님 감사드립니다. https://www.youtube.com/@jocoding/join #ai #휴머노이드 #격투기 #리얼스틸",
+      "summaryEvidence": [
+        "https://www.youtube.com/shorts/11EZFKPCt5A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T09:00:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5a3bf66959cff33756f7bb2c5c8b3fc82355395899192d4a37e22f843a1a2a05",
+      "dedupeKey": "brief:opp_fae7e3f8c305b8acbbc6:sha256:5a3bf66959cff33756f7bb2c5c8b3fc82355395899192d4a37e22f843a1a2a05",
+      "firstSeenAt": "2026-07-23T11:07:15.343Z",
+      "lastSeenAt": "2026-07-23T11:07:15.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -12903,6 +13055,36 @@
       "opportunityId": "opp_55b02a05d4978f0876ba",
       "sentAt": "2026-07-23T09:05:22.144Z",
       "messageId": "1529776436209258578"
+    },
+    "brief:opp_5b3eee374c8ce0377e18:sha256:4ba414fa23c5b4e07a0a5e43110b541910f2381a72b5877abe9cbf4672eaa6df": {
+      "status": "SENT",
+      "opportunityId": "opp_5b3eee374c8ce0377e18",
+      "sentAt": "2026-07-23T11:07:15.343Z",
+      "messageId": "1529807118272565259"
+    },
+    "brief:opp_fae7e3f8c305b8acbbc6:sha256:5a3bf66959cff33756f7bb2c5c8b3fc82355395899192d4a37e22f843a1a2a05": {
+      "status": "SENT",
+      "opportunityId": "opp_fae7e3f8c305b8acbbc6",
+      "sentAt": "2026-07-23T11:07:15.343Z",
+      "messageId": "1529807118272565259"
+    },
+    "brief:opp_8ec7a6c4acbe89de875d:sha256:f07503d74e1bf02991b98023356f38993149264d9a249b09f7543005bf2eedd8": {
+      "status": "SENT",
+      "opportunityId": "opp_8ec7a6c4acbe89de875d",
+      "sentAt": "2026-07-23T11:07:15.343Z",
+      "messageId": "1529807118272565259"
+    },
+    "brief:opp_f263728f5c63d75a81d7:sha256:3f24d0185eab30ab39f25003356f59b329ed69ee87eb4ed89152b1818c8c556c": {
+      "status": "SENT",
+      "opportunityId": "opp_f263728f5c63d75a81d7",
+      "sentAt": "2026-07-23T11:07:15.343Z",
+      "messageId": "1529807118272565259"
+    },
+    "brief:opp_a9a76910eda63d37a0a6:sha256:1309e8a728ab4f5c921a955a9b24b0eea9b35df30b9313c4ab1755990a4ad3a7": {
+      "status": "SENT",
+      "opportunityId": "opp_a9a76910eda63d37a0a6",
+      "sentAt": "2026-07-23T11:07:15.343Z",
+      "messageId": "1529807118272565259"
     }
   },
   "pending": {
