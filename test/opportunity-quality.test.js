@@ -195,12 +195,12 @@ test('sends aggregator education through benefit review instead of immediate app
   assert.equal(item.attributes.requiresBenefitReview, true);
 });
 
-function filteredEvent(title, type, summary = '') {
+function filteredEvent(title, type, summary = '', organization = '예시 기관') {
   return applyProfileFilter({
     type,
     sourceId: 'eventus',
     title,
-    organization: '예시 기관',
+    organization,
     tags: ['IT', '강연/세미나'],
     eligibility: ['참가 조건 상세 확인'],
     locations: [],
@@ -242,5 +242,28 @@ test('excludes non-development events and training programs from external activi
   for (const [title, summary] of cases) {
     const decision = filteredEvent(title, 'EXTERNAL_ACTIVITY', summary);
     assert.equal(decision.decision, 'REJECTED', title);
+  }
+});
+
+test('excludes vocational academy openings advertised as Eventus seminars', () => {
+  const cases = [
+    [
+      '[내배카드 8월 18일 개강] AWS 자바 풀스택(FastAPI, React)',
+      '중앙정보처리학원',
+    ],
+    [
+      '국민내일배움카드로 시작하는 클라우드 엔지니어 과정',
+      '예시 기관',
+    ],
+    [
+      'AWS 자바 풀스택 8월 개강',
+      '중앙정보처리학원',
+    ],
+  ];
+
+  for (const [title, organization] of cases) {
+    const decision = filteredEvent(title, 'EXTERNAL_ACTIVITY', '강연/세미나', organization);
+    assert.equal(decision.decision, 'REJECTED', title);
+    assert.equal(decision.reason, '부트캠프·직업교육 과정 제외', title);
   }
 });
