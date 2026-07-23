@@ -3541,8 +3541,8 @@
       },
       "contentHash": "sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
       "dedupeKey": "brief:opp_b8b3ac0ef1a02fee92d8:sha256:26d07d64375d71662d29a058924658b5a6ef6da13517d4834b4fc4879f53d324",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -3589,8 +3589,8 @@
       },
       "contentHash": "sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
       "dedupeKey": "brief:opp_205a4c96cefa532c9d32:sha256:b669512575edda0a56d7be590d1edb09ad06aa4b680317e0e957e7312d34b6d6",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -9915,8 +9915,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 13,
+        "communityPoints": 7,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -9930,8 +9930,8 @@
       },
       "contentHash": "sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
       "dedupeKey": "brief:opp_8e5d08b714ebe79a5272:sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -10075,11 +10075,11 @@
       },
       "contentHash": "sha256:3f595996bba788fda4d4e80740d62483090f7cef549bc06f74c309306a1313b2",
       "dedupeKey": "brief:opp_62a2f0a3a608ec5b24de:sha256:3f595996bba788fda4d4e80740d62483090f7cef549bc06f74c309306a1313b2",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10123,11 +10123,11 @@
       },
       "contentHash": "sha256:9316dd471d88d2562b37855d7242dfda2136954a591aa29dcde7f98b39e437b6",
       "dedupeKey": "brief:opp_b346f3154adcae113166:sha256:9316dd471d88d2562b37855d7242dfda2136954a591aa29dcde7f98b39e437b6",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10219,8 +10219,8 @@
       },
       "contentHash": "sha256:03f611a65bd18857c24c747174b7efc3eb29ffd454f000a92892efcd485f051f",
       "dedupeKey": "brief:opp_e725dbf0696230180343:sha256:03f611a65bd18857c24c747174b7efc3eb29ffd454f000a92892efcd485f051f",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -10268,11 +10268,11 @@
       },
       "contentHash": "sha256:cd46fb22b93d71758cf6ee2c52921ee10ca278f3048cb1cfc5890b952bae4b77",
       "dedupeKey": "brief:opp_f3703517960bac8e5aac:sha256:cd46fb22b93d71758cf6ee2c52921ee10ca278f3048cb1cfc5890b952bae4b77",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10317,11 +10317,11 @@
       },
       "contentHash": "sha256:c094578ac12cdef73a3a4d1d24a4a49034a9e03f59a677cd1b6b90fc4afbcac5",
       "dedupeKey": "brief:opp_4fa6f4561d024b65472e:sha256:c094578ac12cdef73a3a4d1d24a4a49034a9e03f59a677cd1b6b90fc4afbcac5",
-      "firstSeenAt": "2026-07-23T00:06:08.852Z",
-      "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10468,6 +10468,402 @@
       "dedupeKey": "brief:opp_8a85a5edd1bbd28c96d8:sha256:07a2923e3e7b786a2bf8ad5b0c286dabb97a855c854fc258bb76abc750e78fc4",
       "firstSeenAt": "2026-07-23T00:06:08.852Z",
       "lastSeenAt": "2026-07-23T00:06:08.852Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e6635b423e1684b7151": {
+      "id": "opp_7e6635b423e1684b7151",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31710",
+      "canonicalUrl": "https://github.com/diegosouzapw/OmniRoute",
+      "title": "OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T09:31:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "하나의 로컬 엔드포인트(localhost:20128/v1)로 271개 프로바이더/500개 이상 모델을 연결하고 Claude Code/Codex/Cursor/Cline/Copilot 등 26개 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31710"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 1,
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:63979d5f053fc39bd04cab1fbcc9c228b9b85b5b57914042bb9ceafd67df598f",
+      "dedupeKey": "brief:opp_7e6635b423e1684b7151:sha256:63979d5f053fc39bd04cab1fbcc9c228b9b85b5b57914042bb9ceafd67df598f",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a9a76910eda63d37a0a6": {
+      "id": "opp_a9a76910eda63d37a0a6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31715",
+      "canonicalUrl": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459",
+      "title": "디자이너들은 잘못된 싸움을 위해 칼을 갈고 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T09:48:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 제품 구현 비용과 시간을 크게 낮췄지만, 무엇을 누구를 위해 만들어야 하는지 결정하는 전략의 병목은 그대로 남아 있음 디자인 업계의 논의...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31715"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1309e8a728ab4f5c921a955a9b24b0eea9b35df30b9313c4ab1755990a4ad3a7",
+      "dedupeKey": "brief:opp_a9a76910eda63d37a0a6:sha256:1309e8a728ab4f5c921a955a9b24b0eea9b35df30b9313c4ab1755990a4ad3a7",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4a2691331af824f4ef9a": {
+      "id": "opp_4a2691331af824f4ef9a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31718",
+      "canonicalUrl": "https://www.youtube.com/watch?v=k2ek5MsUEMo",
+      "title": "45권의 기술 서적에서 얻은 핵심 인사이트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T10:43:23+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "목차 Book Overflow 2주년 기념: 45권의 기술 서적에서 얻은 핵심 인사이트 팟캐스트 소개 및 2주년 회고 주요 기술 서적별 핵심 인사이트 지난 2...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31718"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:eb11dce8cd70d0786639f74171995f9be8677e24cbdc286471b0e3efe9fd34bd",
+      "dedupeKey": "brief:opp_4a2691331af824f4ef9a:sha256:eb11dce8cd70d0786639f74171995f9be8677e24cbdc286471b0e3efe9fd34bd",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8ec7a6c4acbe89de875d": {
+      "id": "opp_8ec7a6c4acbe89de875d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31704",
+      "canonicalUrl": "https://bento.page/slides",
+      "title": "Bento - 파일 하나에 모두 들어가는 오피스 스위트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T06:19:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "문서/편집기/뷰어/발표 도구를 하나의 .bento.html 파일에 담아, 브라우저만 있으면 열고 편집하고 발표할 수 있는 PowerPoint 대체제 약 570KB 파...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31704"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f07503d74e1bf02991b98023356f38993149264d9a249b09f7543005bf2eedd8",
+      "dedupeKey": "brief:opp_8ec7a6c4acbe89de875d:sha256:f07503d74e1bf02991b98023356f38993149264d9a249b09f7543005bf2eedd8",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a61786ae6a62b8f41feb": {
+      "id": "opp_a61786ae6a62b8f41feb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31706",
+      "canonicalUrl": "https://hatchet.run/blog/postgres-survival-guide",
+      "title": "스타트업의 Postgres 생존 가이드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T06:26:29+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Hatchet이 2년간 프로덕션에서 겪은 문제를 바탕으로, 초기 스키마·쿼리 설계부터 대량 쓰기와 테이블 마이그레이션까지 단계별 운영 원칙을 정리...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31706"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
+      "dedupeKey": "brief:opp_a61786ae6a62b8f41feb:sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f857b60b5c35e8ffb6e3": {
+      "id": "opp_f857b60b5c35e8ffb6e3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31696",
+      "canonicalUrl": "https://news.hada.io/topic?id=31696",
+      "title": "Show GN: 집 근처 도서관들의 책 대출 가능 여부를 한 번에 검색하는 서비스를 만들었어요",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T22:36:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 비개발자인데 AI 코딩 도구의 도움을 받아 처음으로 웹 서비스를 만들어 운영하고 있습니다. 집 주변 도서관 여러 곳을 즐겨 쓰는데, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31696"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ee0ee2922b50058ab3af88406d3e255a6beb6c67dbf3da20e91985a640ffb9ce",
+      "dedupeKey": "brief:opp_f857b60b5c35e8ffb6e3:sha256:ee0ee2922b50058ab3af88406d3e255a6beb6c67dbf3da20e91985a640ffb9ce",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_680088632237c862ff05": {
+      "id": "opp_680088632237c862ff05",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31688",
+      "canonicalUrl": "https://news.hada.io/topic?id=31688",
+      "title": "Show GN: 가다가 - 목적지 가는 길에 있는 매장을 &#039;우회시간순&#039;으로 찾아주는 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T15:15:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 차량,도보 이동 시 \"가는 길에 잠깐 들를 곳\" 찾는 게 늘 불편해서, 제가 쓰려고 만든 앱입니다. 만들게 된 계기: 저는 이런 상황이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31688"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 16,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bd166f224e2b64478a52c7b441af06af8687c163039b933b40b5acbf0794a829",
+      "dedupeKey": "brief:opp_680088632237c862ff05:sha256:bd166f224e2b64478a52c7b441af06af8687c163039b933b40b5acbf0794a829",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dd191c560d9bc679ddce": {
+      "id": "opp_dd191c560d9bc679ddce",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:CaKpQHqLpJo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CaKpQHqLpJo",
+      "title": "[한영자막] AI에는 HTML이 최고입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T00:35:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "HeyGen의 Hyperframes 테크리드 James Russo가 AI Engineer World's Fair에서 발표한 세션입니다. 코딩 에이전트가 만든 제품을 어떻게 HTML만으로 영상까지 만들게 했는지 소개합니다. 주요 내용 - HTML, CSS, JavaScript가 LLM의 모국어인 이유와 다른 DSL/커스텀 포맷을 가르칠 때의 한계 - After Effects, Lottie, Remotion 등 여러 프레임워크를 1년간 시도한 끝에 HTML로 정착한 과정 - 브라우저의 비동기 특성을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=CaKpQHqLpJo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T00:35:25.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3d14d61bdc995517befa0cd240c42473017b8ee86110a2b22d7a9b9512481767",
+      "dedupeKey": "brief:opp_dd191c560d9bc679ddce:sha256:3d14d61bdc995517befa0cd240c42473017b8ee86110a2b22d7a9b9512481767",
+      "firstSeenAt": "2026-07-23T02:51:51.609Z",
+      "lastSeenAt": "2026-07-23T02:51:51.609Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -11039,6 +11435,42 @@
       "opportunityId": "opp_8a85a5edd1bbd28c96d8",
       "sentAt": "2026-07-23T00:06:08.852Z",
       "messageId": "1529640743269044305"
+    },
+    "brief:opp_7e6635b423e1684b7151:sha256:63979d5f053fc39bd04cab1fbcc9c228b9b85b5b57914042bb9ceafd67df598f": {
+      "status": "SENT",
+      "opportunityId": "opp_7e6635b423e1684b7151",
+      "sentAt": "2026-07-23T02:51:51.609Z",
+      "messageId": "1529682446860423241"
+    },
+    "brief:opp_62a2f0a3a608ec5b24de:sha256:3f595996bba788fda4d4e80740d62483090f7cef549bc06f74c309306a1313b2": {
+      "status": "SENT",
+      "opportunityId": "opp_62a2f0a3a608ec5b24de",
+      "sentAt": "2026-07-23T02:51:51.609Z",
+      "messageId": "1529682446860423241"
+    },
+    "brief:opp_b346f3154adcae113166:sha256:9316dd471d88d2562b37855d7242dfda2136954a591aa29dcde7f98b39e437b6": {
+      "status": "SENT",
+      "opportunityId": "opp_b346f3154adcae113166",
+      "sentAt": "2026-07-23T02:51:51.609Z",
+      "messageId": "1529682446860423241"
+    },
+    "brief:opp_dd191c560d9bc679ddce:sha256:3d14d61bdc995517befa0cd240c42473017b8ee86110a2b22d7a9b9512481767": {
+      "status": "SENT",
+      "opportunityId": "opp_dd191c560d9bc679ddce",
+      "sentAt": "2026-07-23T02:51:51.609Z",
+      "messageId": "1529682446860423241"
+    },
+    "brief:opp_f3703517960bac8e5aac:sha256:cd46fb22b93d71758cf6ee2c52921ee10ca278f3048cb1cfc5890b952bae4b77": {
+      "status": "SENT",
+      "opportunityId": "opp_f3703517960bac8e5aac",
+      "sentAt": "2026-07-23T02:51:51.609Z",
+      "messageId": "1529682446860423241"
+    },
+    "brief:opp_4fa6f4561d024b65472e:sha256:c094578ac12cdef73a3a4d1d24a4a49034a9e03f59a677cd1b6b90fc4afbcac5": {
+      "status": "SENT",
+      "opportunityId": "opp_4fa6f4561d024b65472e",
+      "sentAt": "2026-07-23T02:51:51.609Z",
+      "messageId": "1529682446860423241"
     }
   },
   "pending": {
