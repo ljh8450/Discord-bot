@@ -16,6 +16,33 @@ function includesAny(text, terms) {
   return terms.some((term) => text.includes(String(term).toLowerCase()));
 }
 
+const TRAINING_PROGRAM_PATTERNS = [
+  /부트\s*캠프|boot\s*camp/i,
+  /(?:교육생|수강생|훈련생)\s*모집/i,
+  /(?:전문가|엔지니어|관리자|인재)\s*양성\s*(?:과정|교육|프로그램)?/i,
+  /양성\s*과정/i,
+  /(?:국비|k-?digital|kdt|훈련\s*수당).{0,40}(?:교육|과정|아카데미|academy|훈련)/i,
+  /(?:아카데미|academy).{0,30}(?:교육생|수강생)\s*모집/i,
+  /(?:사용자|재직자|중소기업).{0,50}(?:기본\s*)?교육/i,
+];
+
+const QUALIFICATION_PROGRAM_PATTERNS = [
+  /자격증|자격\s*시험/i,
+  /(?:정보관리|컴퓨터시스템응용)?\s*기술사/i,
+  /(?:기사|산업기사).{0,20}(?:필기|실기|검정|시험|설명회)/i,
+];
+
+function excludedProgramReason(opportunity) {
+  const text = searchableText(opportunity);
+  if (TRAINING_PROGRAM_PATTERNS.some((pattern) => pattern.test(text))) {
+    return '부트캠프·직업교육 과정 제외';
+  }
+  if (QUALIFICATION_PROGRAM_PATTERNS.some((pattern) => pattern.test(opportunity.title))) {
+    return '자격증·기술사 과정 제외';
+  }
+  return null;
+}
+
 function filterJob(opportunity, profile) {
   const text = searchableText(opportunity);
   const allowedOrganization = profile.job.organizationAllowlist
@@ -41,6 +68,9 @@ function filterJob(opportunity, profile) {
 }
 
 function filterHackathon(opportunity) {
+  const excludedReason = excludedProgramReason(opportunity);
+  if (excludedReason) return { decision: 'REJECTED', reason: excludedReason };
+
   if (opportunity.attributes.platformDeveloperEvent === true) {
     return { decision: 'APPROVED', reason: '개발자 행사 출처' };
   }
@@ -77,11 +107,21 @@ function filterExternalActivity(opportunity) {
   const immediate = ['개발 동아리', '멘토링'];
   const needsBenefitReview = ['유료', '창업', '서포터즈', '풀타임'];
   const conservativeAggregator = ['linkareer', 'campuspick'].includes(opportunity.sourceId);
+  const excludedReason = excludedProgramReason(opportunity);
 
+  if (excludedReason) return { decision: 'REJECTED', reason: excludedReason };
   if (includesAny(text, needsBenefitReview) || opportunity.attributes.requiresBenefitReview === true) {
     return { decision: 'PENDING_BENEFIT', reason: '시간 부담 대비 활동 혜택 추가 심사 필요' };
   }
   if (opportunity.attributes.platformDeveloperEvent === true) {
+    if (!hasDevelopmentOutput(
+      opportunity.title,
+      opportunity.organization,
+      opportunity.tags,
+      opportunity.summary,
+    )) {
+      return { decision: 'REJECTED', reason: '비개발 행사·기획 활동 제외' };
+    }
     return { decision: 'APPROVED', reason: '개발자 포럼·컨퍼런스·강연·세미나' };
   }
   if (conservativeAggregator && opportunity.attributes.verifiedDevelopmentActivity !== true) {

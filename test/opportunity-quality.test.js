@@ -194,3 +194,53 @@ test('sends aggregator education through benefit review instead of immediate app
   assert.equal(item.attributes.immediateCategory, false);
   assert.equal(item.attributes.requiresBenefitReview, true);
 });
+
+function filteredEvent(title, type, summary = '') {
+  return applyProfileFilter({
+    type,
+    sourceId: 'eventus',
+    title,
+    organization: '예시 기관',
+    tags: ['IT', '강연/세미나'],
+    eligibility: ['참가 조건 상세 확인'],
+    locations: [],
+    summary,
+    attributes: {
+      developmentOutput: true,
+      platformDeveloperEvent: type === 'EXTERNAL_ACTIVITY',
+    },
+  }, {});
+}
+
+test('excludes bootcamps, long-term training, and qualification programs from hackathons', () => {
+  const titles = [
+    '훈련수당 주는 IT 무료교육',
+    '네트워크 보안 운영 관리자 양성과정',
+    'AI 기반 바이오 헬스케어 전문가 양성과정 교육생 모집',
+    '2027년 대비 정보관리 및 컴퓨터시스템응용기술사 필기',
+  ];
+
+  for (const title of titles) {
+    const decision = filteredEvent(title, 'HACKATHON');
+    assert.equal(decision.decision, 'REJECTED', title);
+    assert.match(decision.reason, /교육|자격증|기술사/, title);
+  }
+});
+
+test('excludes non-development events and training programs from external activities', () => {
+  const cases = [
+    ['미디어 비평 캠프', '미디어를 읽고 비평문을 작성하는 문화 캠프'],
+    ["AI가 대신 못할 나만의 '문화예술 솔루션' 기획", '문화예술 아이디어를 기획하는 강연'],
+    ['[KT Cloud] 클라우드 엔지니어링 (인프라) - 5기', 'KT cloud 부트캠프 클라우드 엔지니어'],
+    ['보안 위협 대응을 위한 클라우드 기반 보안 엔지니어 양성과정', '취업 연계형 전문 교육 과정'],
+    ['핑거세일즈 사용자 기본 교육', 'CRM 솔루션 제품 숙지 교육'],
+    ['[더존비즈온] Cloud DX Academy 수강생모집', '강연/세미나'],
+    ['[한국인터넷진흥원] 중소기업 대상 ISMS-P 구축·운영 교육 (6차)', '강연/세미나'],
+    ['2027년 대비 정보관리 및 컴퓨터시스템응용기술사 Fact 설명회! (무료)', '기술사 검정 대비 과정'],
+  ];
+
+  for (const [title, summary] of cases) {
+    const decision = filteredEvent(title, 'EXTERNAL_ACTIVITY', summary);
+    assert.equal(decision.decision, 'REJECTED', title);
+  }
+});
