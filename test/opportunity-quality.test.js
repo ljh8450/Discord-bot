@@ -101,7 +101,7 @@ test('routes forum, conference, lecture, and seminar contests to external activi
 test('includes the requested YouTube insight channels without duplicating EO Korea', () => {
   const youtubeSources = BRIEF_SOURCES.filter((source) => source.kind === 'youtube');
   const organizations = youtubeSources.map((source) => source.organization);
-  for (const organization of ['AgentOS', 'EO Korea', '코딩하는 기술사', '코딩애플']) {
+  for (const organization of ['AgentOS', 'EO Korea', '코딩하는 기술사', '코딩애플', 'Chase AI']) {
     assert.equal(organizations.filter((name) => name === organization).length, 1, organization);
   }
 });

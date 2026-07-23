@@ -7,7 +7,8 @@ function delay(milliseconds) {
 }
 
 function isShortForm(item) {
-  return /(?:#|\b)shorts?\b|쇼츠/i.test(`${item.title} ${item.summary}`);
+  return /(?:#|\b)shorts?\b|쇼츠/i.test(`${item.title} ${item.summary}`)
+    || /youtube\.com\/shorts\//i.test(item.url || '');
 }
 
 function matchesTerms(item, terms = []) {

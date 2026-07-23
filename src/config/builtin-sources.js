@@ -1,12 +1,24 @@
 const AGGREGATOR_SOURCES = [
   { id: 'linkareer', kind: 'linkareer', enabled: true, priority: 100,
-    routes: ['contest', 'education', 'activity'], maxItemsPerRoute: 20 },
+    routes: ['contest', 'education', 'activity'], recentDays: 7,
+    maxPagesPerRoute: 5, maxItemsPerRoute: 100 },
   { id: 'campuspick', kind: 'campuspick', enabled: true, priority: 80,
-    routes: ['contest', 'activity'], maxItemsPerRoute: 20, allowEmpty: true },
+    routes: ['contest', 'activity'], recentDays: 7,
+    maxPagesPerRoute: 5, maxItemsPerRoute: 100, allowEmpty: true },
   { id: 'ticketa', kind: 'ticketa', enabled: true, priority: 70, allowEmpty: true,
     url: 'https://vlizxsubseudvtswwsjd.supabase.co/functions/v1/events?locale=ko', maxItems: 30 },
   { id: 'eventus', kind: 'eventus', enabled: true, priority: 70, allowEmpty: true,
-    url: 'https://event-us.kr/search', categories: ['IT/프로그래밍', '과학기술', '커리어'], maxItems: 30 },
+    url: 'https://event-us.kr/search',
+    apiUrl: 'https://api.event-us.kr/api/v1/engine/search',
+    categories: ['IT/프로그래밍', '과학기술', '커리어'],
+    maxPagesPerCategory: 3, pageSize: 12, maxItems: 100 },
+  {
+    id: 'eventus-keyword-discovery', kind: 'eventus', enabled: true, priority: 75, allowEmpty: true,
+    url: 'https://event-us.kr/search',
+    apiUrl: 'https://api.event-us.kr/api/v1/engine/search',
+    keywords: ['해커톤', 'AI Agent', '빌더', 'MVP', '개발자'],
+    maxKeywordPages: 2, pageSize: 12, maxItems: 100,
+  },
 ];
 
 const OPPORTUNITY_SOURCES = [
@@ -22,6 +34,33 @@ const OPPORTUNITY_SOURCES = [
   {
     id: 'programmers-devcourse', kind: 'programmers-education', enabled: true, priority: 60,
     url: 'https://programmers.co.kr/pages/edu-devcourse', maxItems: 20, allowEmpty: true,
+  },
+  {
+    id: 'official-curated-developer-programs',
+    kind: 'official-opportunity',
+    enabled: true,
+    priority: 110,
+    allowEmpty: true,
+    organization: '공식 주최 기관',
+    preferredDomains: ['giwa.io', 'upbit.com'],
+    tags: ['개발', '빌더', '공식 공지'],
+    pages: [
+      {
+        externalId: 'giwa-gasok-2026',
+        url: 'https://giwa.io/gasok?lang=ko',
+        applicationUrl: 'https://giwa.io/gasok?lang=ko',
+        title: 'UPBIT × GIWA 빌더 성장 지원 프로그램 GASOK',
+        organization: '두나무·GIWA',
+        type: 'HACKATHON',
+        publishedAt: '2026-07-14T00:00:00+09:00',
+        closesAt: '2026-07-31T23:59:59+09:00',
+        eligibility: ['GIWA 체인에서 프로젝트를 구축 중이거나 구축할 개인 또는 팀'],
+        tags: ['Web3', 'dApp', 'MVP', '스마트 컨트랙트'],
+        summary: 'GIWA 체인 기반 프로젝트를 개발하고 MVP 데모·웹사이트 또는 스마트 컨트랙트 링크를 제출하는 공식 빌더 프로그램',
+        developmentOutput: true,
+        financialSupport: true,
+      },
+    ],
   },
 ];
 
@@ -144,6 +183,12 @@ const BRIEF_SOURCES = [
     id: 'youtube-codingapple', kind: 'youtube', enabled: true,
     channelId: 'UCSLrpBAzr-ROVGHQ5EmxnUg', organization: '코딩애플',
     tags: ['개발', '코딩', '개발 트렌드'], authority: 2, practicalValue: 3,
+    dormancyDays: 90, maxItems: 10, allowEmpty: true,
+  },
+  {
+    id: 'youtube-chase-ai', kind: 'youtube', enabled: true,
+    channelId: 'UCoy6cTJ7Tg0dqS-DI-_REsA', organization: 'Chase AI',
+    tags: ['AI', 'AI Agent', 'Claude Code', '자동화'], authority: 2, practicalValue: 3,
     dormancyDays: 90, maxItems: 10, allowEmpty: true,
   },
   {

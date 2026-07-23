@@ -16,10 +16,11 @@
 ## 주요 기능
 
 - 네이버·카카오·쿠팡·사람인 등 개발자 채용 수집
-- 링커리어·캠퍼스픽·DACON·GDG·프로그래머스 등 개발 기회 수집
+- 링커리어·캠퍼스픽 최근 7일 페이지네이션과 상세 URL 실행 내 캐시
+- 이벤터스 IT 카테고리·개발 키워드 검색과 GIWA 등 공식 개발 프로그램 수집
 - OpenAI·Anthropic·GitHub·Google Developers 공식 업데이트 기반 일일 개발 브리프
 - GeekNews 인기글과 NAVER D2·카카오·토스·당근·우아한형제들·LINE/LY 기술 아티클 수집
-- 실밸개발자·AI Frontier Korea·Tech Bridge·미드나잇 로그·조코딩·AgentOS·코딩하는 기술사·코딩애플 YouTube 수집
+- 실밸개발자·AI Frontier Korea·Tech Bridge·미드나잇 로그·조코딩·AgentOS·코딩하는 기술사·코딩애플·Chase AI YouTube 수집
 - EO Korea·안될공학에서 AI·개발 관련 영상만 선택 수집
 - 관련성·실용성·신선도·권위·새로움·커뮤니티 반응 기반 콘텐츠 점수
 - 신입·인턴, 수도권·원격, 선호 개발 직무 기준 필터링
@@ -29,6 +30,7 @@
 - 채용·해커톤·대외활동·교육·개발 인사이트별 Discord 채널 라우팅
 - 전송 실패 재시도, 출처 장애 경고, heartbeat 모니터링
 - GitHub Models를 이용한 한국어 한 줄 요약과 실패 시 원문 요약 폴백
+- 출처별 수집·필터 단계 통계와 제목 기반 누락 진단 명령
 
 ## Developer Brief
 
@@ -39,7 +41,7 @@
 | 글로벌 공식 업데이트 | OpenAI News, Anthropic Newsroom, GitHub Blog, Google Developers Blog |
 | 국내 현업 기술 사례 | NAVER D2, Kakao Tech, 토스, 당근, 우아한형제들, LINE·LY 기술 블로그 |
 | 커뮤니티 인기글 | GeekNews 상위 20위 중 추천 5점 이상 |
-| 핵심 YouTube | 실밸개발자, AI Frontier Korea, Tech Bridge, 미드나잇 로그, 조코딩, AgentOS, 코딩하는 기술사, 코딩애플 |
+| 핵심 YouTube | 실밸개발자, AI Frontier Korea, Tech Bridge, 미드나잇 로그, 조코딩, AgentOS, 코딩하는 기술사, 코딩애플, Chase AI |
 | 선택 YouTube | EO Korea와 안될공학의 AI·개발 관련 영상 |
 
 YouTube는 공식 Atom 피드를 사용해 API 키 없이 수집합니다. Shorts는 제외하며 최근 90일 동안 일반 영상이 없으면 채널을 휴면 처리합니다. 이후 새 영상이 올라오면 다음 실행에서 자동으로 다시 활성화됩니다. 같은 글이나 영상이 여러 출처에 등장하면 URL과 제목으로 합치고, 한 출처에서 최대 2개만 뽑아 Brief가 특정 채널에 편중되지 않게 합니다.
@@ -103,6 +105,7 @@ Node.js 20 이상이 필요하며 외부 패키지 의존성은 없습니다.
 ```bash
 npm test
 npm run dry-run
+npm run diagnose -- "AGENT:24"
 npm run radar
 ```
 
@@ -110,6 +113,7 @@ npm run radar
 
 ```bash
 npm run recover        # 최근 미전송 기회 복구
+npm run diagnose -- "GIWA GASOK" # 수집·검증·필터 중 누락 단계를 진단
 npm run digest         # 현재 유효한 채용 목록 전송
 npm run brief          # 일일 개발 인사이트 전송
 npm run brief-dry-run  # 브리프 후보만 확인

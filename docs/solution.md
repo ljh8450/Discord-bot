@@ -282,6 +282,10 @@ YouTube 초기 핵심 출처:
 - Tech Bridge
 - 미드나잇 로그 Midnight Log
 - 조코딩 JoCoding
+- AgentOS
+- 코딩하는 기술사
+- 코딩애플
+- Chase AI
 
 선택적 출처:
 

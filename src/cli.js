@@ -37,7 +37,9 @@ async function main() {
     sources,
     { rootDir: process.cwd() },
   );
-  const { errors, successfulSourceIds, sourceCounts, skippedSources } = collected;
+  const {
+    errors, successfulSourceIds, sourceCounts, sourceStats, skippedSources,
+  } = collected;
   const items = dedupeAcrossSources(collected.items);
   if (command === 'recover') {
     const state = await store.load();
@@ -91,7 +93,7 @@ async function main() {
   }
   process.stdout.write(`${JSON.stringify({
     command, report, sourceErrors: errors, sourceWarnings: warnings,
-    skippedSources, sourceCounts, candidates,
+    skippedSources, sourceCounts, sourceStats, candidates,
   }, null, 2)}\n`);
   if (errors.length || report.failed) process.exitCode = 1;
 }

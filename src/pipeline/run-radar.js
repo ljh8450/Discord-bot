@@ -35,18 +35,26 @@ async function runRadar(options) {
   const state = await store.load();
   const report = {
     discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0, closed: 0,
-    deferred: 0, sentByType: {}, deferredByType: {},
+    deferred: 0, sentByType: {}, deferredByType: {}, bySource: {},
   };
   const seenIds = new Set();
 
   for (const raw of balanceByType(rawItems)) {
+    const sourceId = raw?.sourceId || 'unknown';
+    const sourceReport = report.bySource[sourceId] ||= {
+      candidates: 0, normalized: 0, approved: 0, pending: 0,
+      rejected: 0, sent: 0, deferred: 0, failed: 0,
+    };
+    sourceReport.candidates += 1;
     let opportunity;
     try {
       opportunity = normalizeOpportunity(raw, now);
     } catch {
       report.rejected += 1;
+      sourceReport.rejected += 1;
       continue;
     }
+    sourceReport.normalized += 1;
 
     const previous = state.opportunities[opportunity.id];
     seenIds.add(opportunity.id);
@@ -88,6 +96,7 @@ async function runRadar(options) {
     if (!validation.valid) {
       state.opportunities[opportunity.id].review = { status: 'REJECTED', reasons: validation.errors };
       report.rejected += 1;
+      sourceReport.rejected += 1;
       continue;
     }
 
@@ -97,6 +106,7 @@ async function runRadar(options) {
         state.pending[opportunity.id] = { createdAt: now.toISOString(), reason: decision.reason };
         state.opportunities[opportunity.id].review = { status: 'PENDING_BENEFIT', reason: decision.reason };
         report.pending += 1;
+        sourceReport.pending += 1;
         continue;
       }
       decision = assessBenefit(opportunity, profile.benefit.approvalThreshold);
@@ -106,10 +116,12 @@ async function runRadar(options) {
     if (decision.decision !== 'APPROVED') {
       state.opportunities[opportunity.id].review = { status: 'REJECTED', reason: decision.reason };
       report.rejected += 1;
+      sourceReport.rejected += 1;
       continue;
     }
 
     report.approved += 1;
+    sourceReport.approved += 1;
     state.opportunities[opportunity.id].review = { status: 'APPROVED', reason: decision.reason };
     if (verifyOpportunityUrl) {
       try {
@@ -125,6 +137,8 @@ async function runRadar(options) {
           };
           report.approved -= 1;
           report.rejected += 1;
+          sourceReport.approved -= 1;
+          sourceReport.rejected += 1;
           continue;
         }
       } catch (error) {
@@ -133,6 +147,8 @@ async function runRadar(options) {
         };
         report.approved -= 1;
         report.rejected += 1;
+        sourceReport.approved -= 1;
+        sourceReport.rejected += 1;
         continue;
       }
     }
@@ -147,6 +163,7 @@ async function runRadar(options) {
         reason: `${opportunity.type} 실행당 발송 상한 ${configuredTypeLimit}건 초과`,
       };
       report.deferred += 1;
+      sourceReport.deferred += 1;
       report.deferredByType[opportunity.type] = (report.deferredByType[opportunity.type] || 0) + 1;
       continue;
     }
@@ -156,6 +173,7 @@ async function runRadar(options) {
         reason: `실행당 발송 상한 ${maxNotifications}건 초과`,
       };
       report.deferred += 1;
+      sourceReport.deferred += 1;
       report.deferredByType[opportunity.type] = (report.deferredByType[opportunity.type] || 0) + 1;
       continue;
     }
@@ -170,6 +188,7 @@ async function runRadar(options) {
         error: error.message,
       };
       report.failed += 1;
+      sourceReport.failed += 1;
       await store.save(state);
       continue;
     }
@@ -181,6 +200,7 @@ async function runRadar(options) {
     };
     state.opportunities[opportunity.id].review.status = 'SENT';
     report.sent += 1;
+    sourceReport.sent += 1;
     report.sentByType[opportunity.type] = (report.sentByType[opportunity.type] || 0) + 1;
     await store.save(state);
   }

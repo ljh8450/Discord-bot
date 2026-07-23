@@ -16,6 +16,7 @@ const { collectFromGreenhouseCareers } = require('./greenhouse-careers-adapter')
 const { collectFromGeekNews } = require('./geeknews-adapter');
 const { collectFromYouTube } = require('./youtube-feed-adapter');
 const { collectFromAnthropicNews } = require('./anthropic-news-adapter');
+const { collectFromOfficialOpportunities } = require('./official-opportunity-adapter');
 
 async function collectSource(source, options = {}) {
   if (source.kind === 'anthropic-news') {
@@ -44,6 +45,9 @@ async function collectSource(source, options = {}) {
   }
   if (source.kind === 'geeknews') return collectFromGeekNews(source, options.fetchImpl);
   if (source.kind === 'youtube') return collectFromYouTube(source, options.fetchImpl);
+  if (source.kind === 'official-opportunity') {
+    return collectFromOfficialOpportunities(source, options.fetchImpl);
+  }
   throw new TypeError(`unsupported source kind: ${source.kind}`);
 }
 
@@ -60,6 +64,7 @@ async function collectAll(sources, options = {}) {
   const errors = [];
   const successfulSourceIds = [];
   const sourceCounts = {};
+  const sourceStats = {};
   for (const source of skippedSources) sourceCounts[source.sourceId] = 'SKIPPED';
 
   settled.forEach((result, index) => {
@@ -70,13 +75,17 @@ async function collectAll(sources, options = {}) {
       })));
       successfulSourceIds.push(enabled[index].id);
       sourceCounts[enabled[index].id] = result.value.length;
+      sourceStats[enabled[index].id] = result.value.collectionStats || {
+        mapped: result.value.length,
+      };
     }
     else {
       sourceCounts[enabled[index].id] = null;
+      sourceStats[enabled[index].id] = { error: result.reason.message };
       errors.push({ sourceId: enabled[index].id, error: result.reason.message });
     }
   });
-  return { items, errors, successfulSourceIds, sourceCounts, skippedSources };
+  return { items, errors, successfulSourceIds, sourceCounts, sourceStats, skippedSources };
 }
 
 module.exports = { collectAll, collectSource };

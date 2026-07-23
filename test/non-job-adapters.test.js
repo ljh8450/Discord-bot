@@ -231,6 +231,30 @@ test('collects recent regular YouTube videos and excludes Shorts', () => {
   assert.match(items[0].summary, /개발 실무/);
 });
 
+test('excludes YouTube Shorts identified by their URL even without a Shorts title', () => {
+  const items = parseYouTubeFeed(`<?xml version="1.0"?>
+    <feed xmlns="http://www.w3.org/2005/Atom">
+      <entry>
+        <id>short-url</id>
+        <title>AI benchmark quick take</title>
+        <link href="https://www.youtube.com/shorts/abc123"/>
+        <published>2026-07-20T00:00:00Z</published>
+        <content>AI 개발 뉴스</content>
+      </entry>
+      <entry>
+        <id>regular</id>
+        <title>Production AI agent architecture</title>
+        <link href="https://www.youtube.com/watch?v=regular"/>
+        <published>2026-07-21T00:00:00Z</published>
+        <content>AI 개발 사례</content>
+      </entry>
+    </feed>`, {
+    id: 'youtube-test', channelId: 'channel', organization: 'Test',
+  }, new Date('2026-07-24'));
+
+  assert.deepEqual(items.map((item) => item.externalId), ['regular']);
+});
+
 test('marks a YouTube channel dormant when it has no recent regular video', () => {
   const xml = `<feed><entry>
     <id>yt:video:old</id><title>오래된 AI 영상</title>
