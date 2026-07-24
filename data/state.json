@@ -10751,26 +10751,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 25,
-        "communityRank": 1,
-        "contentScore": 12,
+        "communityPoints": 30,
+        "communityRank": 5,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 2
+          "community": 3
         }
       },
       "contentHash": "sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
       "dedupeKey": "brief:opp_a61786ae6a62b8f41feb:sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
-      "firstSeenAt": "2026-07-24T00:05:17.310Z",
-      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20287,11 +20287,11 @@
       },
       "contentHash": "sha256:d1de3bfe3402d5f83864f14b8e5d17fee5571cf0018825d6c349295b05e308b8",
       "dedupeKey": "brief:opp_79b7c3ab4ed39e42e72a:sha256:d1de3bfe3402d5f83864f14b8e5d17fee5571cf0018825d6c349295b05e308b8",
-      "firstSeenAt": "2026-07-24T00:05:17.310Z",
-      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20340,11 +20340,11 @@
       },
       "contentHash": "sha256:8fee6f2ab5928962ee6ca849cfd1f3483c3b68f3f3052b946530a98f031c99c4",
       "dedupeKey": "brief:opp_aac7284b2bb772ad67ca:sha256:8fee6f2ab5928962ee6ca849cfd1f3483c3b68f3f3052b946530a98f031c99c4",
-      "firstSeenAt": "2026-07-24T00:05:17.310Z",
-      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20393,11 +20393,11 @@
       },
       "contentHash": "sha256:b23e7498677676fb22eac799984e41ddb744427249bb4b3b7c56bebd9c817759",
       "dedupeKey": "brief:opp_c272a073855314e38e38:sha256:b23e7498677676fb22eac799984e41ddb744427249bb4b3b7c56bebd9c817759",
-      "firstSeenAt": "2026-07-24T00:05:17.310Z",
-      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20433,12 +20433,12 @@
         "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-07-23T23:38:27.000Z",
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 1,
           "practicalValue": 3,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -20446,8 +20446,8 @@
       },
       "contentHash": "sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f",
       "dedupeKey": "brief:opp_17925867032df333e1cf:sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f",
-      "firstSeenAt": "2026-07-24T00:05:17.310Z",
-      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -20607,8 +20607,8 @@
       },
       "contentHash": "sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03",
       "dedupeKey": "brief:opp_d0dbb56958711ab6298d:sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03",
-      "firstSeenAt": "2026-07-24T00:05:17.310Z",
-      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -20790,6 +20790,157 @@
       "review": {
         "status": "REJECTED",
         "reason": "부트캠프·직업교육 과정 제외"
+      }
+    },
+    "opp_88af82bf6dd2f1001564": {
+      "id": "opp_88af82bf6dd2f1001564",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31744",
+      "canonicalUrl": "https://omp.sh/",
+      "title": "omp - Pi를 IDE 수준으로 확장한 터미널 AI 코딩 에이전트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T09:36:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "omp는 Mario Zechner의 오픈소스 코딩 에이전트 Pi를 기반으로, IDE 수준의 개발 도구와 실전 기능을 기본 탑재한 터미널 코딩 에이전트 단순한 UI...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31744"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f2ae0a3d373916c18a6c301d35c4994bd6cba6249544b0fa2b64e3dfcbf29551",
+      "dedupeKey": "brief:opp_88af82bf6dd2f1001564:sha256:f2ae0a3d373916c18a6c301d35c4994bd6cba6249544b0fa2b64e3dfcbf29551",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd04f8b2444488dd9b82": {
+      "id": "opp_cd04f8b2444488dd9b82",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31746",
+      "canonicalUrl": "https://www.adhamdannaway.com/blog/ui-design/ui-design-tips",
+      "title": "큰 효과를 만드는 작은 UI 디자인 팁들",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T09:39:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "UI 디자인은 예술적 감각보다 일관된 논리 규칙을 적용해 배치/간격/서체/색상 결정을 내릴 때 더 빠르고 예측 가능하게 개선할 수 있음 관련 요소...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31746"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1159f51552cde520bb506e28c2a04497cebcfbe3df2036c39ab3380949dc48fb",
+      "dedupeKey": "brief:opp_cd04f8b2444488dd9b82:sha256:1159f51552cde520bb506e28c2a04497cebcfbe3df2036c39ab3380949dc48fb",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_54b05efcec2cd3295059": {
+      "id": "opp_54b05efcec2cd3295059",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:Lx5irDaSijE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Lx5irDaSijE",
+      "title": "구글, Gemini 칩에 새긴 새로운 AI칩 만든다｜프로즌 v2와 컴퓨트 부족 (feat. Q2 실적발표)",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T00:14:00+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 구글이 제미나이에 최적화된 서버용 AI 칩을 개발하고 있다는 보도가 나왔습니다. 내부 코드명은 프로즌 v2, 목표 배치 시점은 2028년입니다. 모델의 일부 구조와 처리 방식을 칩 설계 단계에서 고정한다는 것이 어떤 의미인지, 가중치까지 새기려던 초기 구상은 왜 폐기됐는지 정리했습니다. SpaceX와의 대규모 컴퓨팅 임차 계약, 메타에 대한 공급 부족, 그리고 지난 22일 발표된 2분기 실적까지 살펴봤습니다. 클라우드 매",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Lx5irDaSijE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-24T00:14:00.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:962514e6ba8a41f528f79098e1ae658ca605ad17bd1d295c289b8edaa216cf75",
+      "dedupeKey": "brief:opp_54b05efcec2cd3295059:sha256:962514e6ba8a41f528f79098e1ae658ca605ad17bd1d295c289b8edaa216cf75",
+      "firstSeenAt": "2026-07-24T02:46:44.035Z",
+      "lastSeenAt": "2026-07-24T02:46:44.035Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     }
   },
@@ -21826,6 +21977,42 @@
       "opportunityId": "opp_f3d3cd8dcbaebbc83ebd",
       "sentAt": "2026-07-24T01:09:18.440Z",
       "messageId": "1530019027328565369"
+    },
+    "brief:opp_54b05efcec2cd3295059:sha256:962514e6ba8a41f528f79098e1ae658ca605ad17bd1d295c289b8edaa216cf75": {
+      "status": "SENT",
+      "opportunityId": "opp_54b05efcec2cd3295059",
+      "sentAt": "2026-07-24T02:46:44.035Z",
+      "messageId": "1530043545275338774"
+    },
+    "brief:opp_a61786ae6a62b8f41feb:sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c": {
+      "status": "SENT",
+      "opportunityId": "opp_a61786ae6a62b8f41feb",
+      "sentAt": "2026-07-24T02:46:44.035Z",
+      "messageId": "1530043545275338774"
+    },
+    "brief:opp_88af82bf6dd2f1001564:sha256:f2ae0a3d373916c18a6c301d35c4994bd6cba6249544b0fa2b64e3dfcbf29551": {
+      "status": "SENT",
+      "opportunityId": "opp_88af82bf6dd2f1001564",
+      "sentAt": "2026-07-24T02:46:44.035Z",
+      "messageId": "1530043545275338774"
+    },
+    "brief:opp_c272a073855314e38e38:sha256:b23e7498677676fb22eac799984e41ddb744427249bb4b3b7c56bebd9c817759": {
+      "status": "SENT",
+      "opportunityId": "opp_c272a073855314e38e38",
+      "sentAt": "2026-07-24T02:46:44.035Z",
+      "messageId": "1530043545275338774"
+    },
+    "brief:opp_aac7284b2bb772ad67ca:sha256:8fee6f2ab5928962ee6ca849cfd1f3483c3b68f3f3052b946530a98f031c99c4": {
+      "status": "SENT",
+      "opportunityId": "opp_aac7284b2bb772ad67ca",
+      "sentAt": "2026-07-24T02:46:44.035Z",
+      "messageId": "1530043545275338774"
+    },
+    "brief:opp_79b7c3ab4ed39e42e72a:sha256:d1de3bfe3402d5f83864f14b8e5d17fee5571cf0018825d6c349295b05e308b8": {
+      "status": "SENT",
+      "opportunityId": "opp_79b7c3ab4ed39e42e72a",
+      "sentAt": "2026-07-24T02:46:44.035Z",
+      "messageId": "1530043545275338774"
     }
   },
   "pending": {
