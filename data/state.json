@@ -9967,23 +9967,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 20,
+        "communityPoints": 10,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
       "dedupeKey": "brief:opp_8e5d08b714ebe79a5272:sha256:f235546c3c2c0ff4e4c4b6d69f6a74b62ddcf26c287fa2a755df0e87fd5b3568",
-      "firstSeenAt": "2026-07-23T11:07:15.343Z",
-      "lastSeenAt": "2026-07-23T11:07:15.343Z",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -10751,23 +10751,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 17,
-        "communityRank": 5,
+        "communityPoints": 25,
+        "communityRank": 1,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
       "dedupeKey": "brief:opp_a61786ae6a62b8f41feb:sha256:f63a2d2597e732b974047d8ebf009efebeb477560086791102923a7ca54bbd4c",
-      "firstSeenAt": "2026-07-23T11:07:15.343Z",
-      "lastSeenAt": "2026-07-23T11:07:15.343Z",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -20061,6 +20061,577 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_6232eb5fbe103f5b61bc": {
+      "id": "opp_6232eb5fbe103f5b61bc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31724",
+      "canonicalUrl": "https://github.com/marcelroed/gigatoken",
+      "title": "GigaToken - 언어 모델 토큰화를 약 1,000배 가속",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T15:33:21+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "다양한 CPU와 널리 쓰이는 토크나이저를 지원하며, 텍스트를 GB/s 단위로 처리하는 Tiktoken 과 HuggingFace Tokenizers 대체 도구 정규식 엔진이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31724"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3149a129ab9b91369d389519a5c550f902e1a2ab729d18596e9ed09482c8055e",
+      "dedupeKey": "brief:opp_6232eb5fbe103f5b61bc:sha256:3149a129ab9b91369d389519a5c550f902e1a2ab729d18596e9ed09482c8055e",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_968f047fe3fd591ad382": {
+      "id": "opp_968f047fe3fd591ad382",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/health-in-chatgpt",
+      "canonicalUrl": "https://openai.com/index/health-in-chatgpt",
+      "title": "Launching Health in ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "summaryEvidence": [
+        "https://openai.com/index/health-in-chatgpt"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37d5210f892fd354164b551c642e69369db60beb8612ab8aa79a25b0df756f9b",
+      "dedupeKey": "brief:opp_968f047fe3fd591ad382:sha256:37d5210f892fd354164b551c642e69369db60beb8612ab8aa79a25b0df756f9b",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b076f0241183219ed185": {
+      "id": "opp_b076f0241183219ed185",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97619",
+      "canonicalUrl": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates",
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 23 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first o",
+      "summaryEvidence": [
+        "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:223c090ead8664ec7f8496af3f5763d11f8cd2abc8f47b72d9a102adeca10f6d",
+      "dedupeKey": "brief:opp_b076f0241183219ed185:sha256:223c090ead8664ec7f8496af3f5763d11f8cd2abc8f47b72d9a102adeca10f6d",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8b3eebd93143dcc9982f": {
+      "id": "opp_8b3eebd93143dcc9982f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:c3lEFK5BJAM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=c3lEFK5BJAM",
+      "title": "[한영자막] 에이전트 시스템에 온톨로지가 필요한 이유 — 프랭크 코일, UC 버클리",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T22:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 왜 중복 환불, 잘못된 송금 같은 어이없는 실수를 저지르는지, 그리고 온톨로지가 어떻게 이 문제를 막는 가드레일이 되는지 UC 버클리 프랭크 코일이 설명합니다. 주요 내용 - LLM은 원래 확률적으로 작동하는 존재라, 환각과 실수가 결함이 아니라 본질적인 특징이라는 관점 - 뉴로심볼릭 AI: 확률적 추론(LLM)과 형식 논리(온톨로지)를 함께 쓰는 접근 방식 - RDFS·OWL 같은 오래된 기술로 \"환불은 한 번만\", \"고객과 상담원은 별개\" 같은 도메인 규칙을 강제하는 법 - P",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=c3lEFK5BJAM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T22:00:15.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6879d98eb1eced5398d53589c0ef1bc2402c83510844a35f2b9460f19c2420d3",
+      "dedupeKey": "brief:opp_8b3eebd93143dcc9982f:sha256:6879d98eb1eced5398d53589c0ef1bc2402c83510844a35f2b9460f19c2420d3",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_79b7c3ab4ed39e42e72a": {
+      "id": "opp_79b7c3ab4ed39e42e72a",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:DtVILWXGLYA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DtVILWXGLYA",
+      "title": "SKT 퇴사 후 홀로 서기 후일담 | 나는 솔로프리너다, 조쉬 | 이오서재",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T11:27:24+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[📚 댓글 이벤트가 있어요!] 삶의 주인이 되고 싶은 사람들을 위한 북 팟캐스트, 이오서재. 두 번째 에피소드에서는 12년 차 대기업 직장인에서 퇴사해 1년 만에 억 단위 매출을 만든 창업가, 『나는 솔로프리너다』 저자 조쉬님과 함께합니다. 15시간씩 뉴스레터를 쓰다가 1인 창업으로, 그리고 한 차례 피봇을 거쳐 기업의 AI 전환(AX)을 돕는 빌더가 된 조쉬 님은 1년 만에 5명의 채용을 거쳐 현재 6인 회사, 조슈아앤컴퍼니를 이끌고 계십니다. 트렌드에 빠르게 발 맞춰 움직이면서도 나만의 감도",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=DtVILWXGLYA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T11:27:24.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d1de3bfe3402d5f83864f14b8e5d17fee5571cf0018825d6c349295b05e308b8",
+      "dedupeKey": "brief:opp_79b7c3ab4ed39e42e72a:sha256:d1de3bfe3402d5f83864f14b8e5d17fee5571cf0018825d6c349295b05e308b8",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aac7284b2bb772ad67ca": {
+      "id": "opp_aac7284b2bb772ad67ca",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:sdIfMnxALuY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sdIfMnxALuY",
+      "title": "[연속재생] 성능 향상의 핵심, 캐시 완전 정복 | 브라우저 캐시 부터 Redis까지",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T23:38:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "캐시와 관련된 영상을 모두 모아서 고봉밥으로 만들었습니다. 캐시고봉밥! 00:00 캐시라고 다 같은 캐시가 아니다 14:59 브라우저 캐시 완벽 정리 35:36 메모리 계층 구조와 레이턴시(Latency) 40:46 성능향상애 양대 산맥, 읽기성능과 쓰기성능 53:31 성능튜닝에 양대산맥, 캐시와 큐 01:00:28 싱글스레드 Redis가 수십만 QPS를 내는 구조적 비밀 01:20:00 100만건 순위 탐색, 과연 누가 빠를까? Redis vs MySQL 01:22:57 (설계 퀴즈) 수십만명의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sdIfMnxALuY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T23:38:27.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8fee6f2ab5928962ee6ca849cfd1f3483c3b68f3f3052b946530a98f031c99c4",
+      "dedupeKey": "brief:opp_aac7284b2bb772ad67ca:sha256:8fee6f2ab5928962ee6ca849cfd1f3483c3b68f3f3052b946530a98f031c99c4",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c272a073855314e38e38": {
+      "id": "opp_c272a073855314e38e38",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:Z53SHQGrTvU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Z53SHQGrTvU",
+      "title": "[연속재생] MSA 아키텍처 시리즈",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T04:24:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "MSA 아키텍처 관련 영상을 모아서 통합본으로 만들었습니다. 00:00 스타트업의 딜레마! 모놀리스냐 MSA냐? 09:52 MSA 가기전, 이것부터 | 모듈러 모놀리스 15:34 MSA의 필수 관문, API Gateway 22:01 도커(Docker)와 VM(가상머신). 실무에서는 이렇게 나눠씁니다. 27:55 MSA에서 장애를 다루는 방법, 서킷 브레이커 34:56 MSA에서 똑똑하게 서비스 찾기 | Service Discovery 42:37 신입 개발자, MSA 공부 해야 할까? ───────",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Z53SHQGrTvU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T23:38:27.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b23e7498677676fb22eac799984e41ddb744427249bb4b3b7c56bebd9c817759",
+      "dedupeKey": "brief:opp_c272a073855314e38e38:sha256:b23e7498677676fb22eac799984e41ddb744427249bb4b3b7c56bebd9c817759",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_17925867032df333e1cf": {
+      "id": "opp_17925867032df333e1cf",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:Hxe0IHiJLJA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Hxe0IHiJLJA",
+      "title": "너무 일찍 오는 지원자에 대한 면접관의 생각",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T01:49:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "면접 시간에 너무 일찍 오는 지원자 어떠신가요? 성실하다고 느끼시나요? 아니면 조금 부담스럽다고 느끼시나요? 저의 개인적인 경험과 의견을 소소하게 전달드립니다. ────────────────── 개발자 이직·면접·커리어 멘토링 https://inf.run/gRZHG 아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/playlist?list=UUMORpOx7jjy2PuuVeRrYKbdCA Redis 실전 가이드: 기초부터 실무 패턴까지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Hxe0IHiJLJA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T23:38:27.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f",
+      "dedupeKey": "brief:opp_17925867032df333e1cf:sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5eaca43e06e15815d86b": {
+      "id": "opp_5eaca43e06e15815d86b",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:RrYPBkmnUwc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RrYPBkmnUwc",
+      "title": "진정한 남자는 포토샵 대신 html 쓴다고 함",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-07-22T03:04:59+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🧠 Notion Agent를 사용해 보세요 → https://ntn.so/codingapple 남자되기 https://codingapple.com/ 개별강의 10% 할인쿠폰 templeos2018 (자주 바뀜 최신영상 참고) 코드 https://github.com/codingapple1/svg-filters 사용한 자료 https://tenor.com/bU7Q0.gif https://tenor.com/bsmJ6.gif https://tenor.com/bffQU17pLuH.gif youtube.c",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=RrYPBkmnUwc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-22T03:04:59.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:11401bfcecf2226fda5f2d057e9a82480082ace90c6b77e92cae021a809297a9",
+      "dedupeKey": "brief:opp_5eaca43e06e15815d86b:sha256:11401bfcecf2226fda5f2d057e9a82480082ace90c6b77e92cae021a809297a9",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5bd37701159a38e7ff54": {
+      "id": "opp_5bd37701159a38e7ff54",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:7FU98O0JLHs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7FU98O0JLHs",
+      "title": "3 Ways To Fix Claude Code's #1 Web Design Problem",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T16:53:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🟡Higgsfield: https://higgsfield.ai/s/mcp-chase-h-ai-ohgbot ⚡Master Claude Code: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Lets defeat AI slop and learn how to actually injec",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=7FU98O0JLHs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T16:53:38.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e3c6856b9f3f2cd9fdd2cc8844ba4498f13af05f9c70a2160c061142d7f9964f",
+      "dedupeKey": "brief:opp_5bd37701159a38e7ff54:sha256:e3c6856b9f3f2cd9fdd2cc8844ba4498f13af05f9c70a2160c061142d7f9964f",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d0dbb56958711ab6298d": {
+      "id": "opp_d0dbb56958711ab6298d",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:Joqh7Tui9B8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Joqh7Tui9B8",
+      "title": "Move Over Loop Engineering, Graph Engineering Is Now Here",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-07-21T23:33:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Is the loop engineering era already over? Graph engineering is the",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Joqh7Tui9B8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-23T16:53:38.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 1,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03",
+      "dedupeKey": "brief:opp_d0dbb56958711ab6298d:sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03",
+      "firstSeenAt": "2026-07-24T00:05:17.310Z",
+      "lastSeenAt": "2026-07-24T00:05:17.310Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -21042,6 +21613,42 @@
       "opportunityId": "opp_6642ae6f092face27322",
       "sentAt": "2026-07-23T23:37:33.747Z",
       "messageId": "1529995943087308881"
+    },
+    "brief:opp_b076f0241183219ed185:sha256:223c090ead8664ec7f8496af3f5763d11f8cd2abc8f47b72d9a102adeca10f6d": {
+      "status": "SENT",
+      "opportunityId": "opp_b076f0241183219ed185",
+      "sentAt": "2026-07-24T00:05:17.310Z",
+      "messageId": "1530002913840336971"
+    },
+    "brief:opp_5bd37701159a38e7ff54:sha256:e3c6856b9f3f2cd9fdd2cc8844ba4498f13af05f9c70a2160c061142d7f9964f": {
+      "status": "SENT",
+      "opportunityId": "opp_5bd37701159a38e7ff54",
+      "sentAt": "2026-07-24T00:05:17.310Z",
+      "messageId": "1530002913840336971"
+    },
+    "brief:opp_968f047fe3fd591ad382:sha256:37d5210f892fd354164b551c642e69369db60beb8612ab8aa79a25b0df756f9b": {
+      "status": "SENT",
+      "opportunityId": "opp_968f047fe3fd591ad382",
+      "sentAt": "2026-07-24T00:05:17.310Z",
+      "messageId": "1530002913840336971"
+    },
+    "brief:opp_5eaca43e06e15815d86b:sha256:11401bfcecf2226fda5f2d057e9a82480082ace90c6b77e92cae021a809297a9": {
+      "status": "SENT",
+      "opportunityId": "opp_5eaca43e06e15815d86b",
+      "sentAt": "2026-07-24T00:05:17.310Z",
+      "messageId": "1530002913840336971"
+    },
+    "brief:opp_8b3eebd93143dcc9982f:sha256:6879d98eb1eced5398d53589c0ef1bc2402c83510844a35f2b9460f19c2420d3": {
+      "status": "SENT",
+      "opportunityId": "opp_8b3eebd93143dcc9982f",
+      "sentAt": "2026-07-24T00:05:17.310Z",
+      "messageId": "1530002913840336971"
+    },
+    "brief:opp_6232eb5fbe103f5b61bc:sha256:3149a129ab9b91369d389519a5c550f902e1a2ab729d18596e9ed09482c8055e": {
+      "status": "SENT",
+      "opportunityId": "opp_6232eb5fbe103f5b61bc",
+      "sentAt": "2026-07-24T00:05:17.310Z",
+      "messageId": "1530002913840336971"
     }
   },
   "pending": {
