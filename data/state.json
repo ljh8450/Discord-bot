@@ -20331,15 +20331,12 @@
       },
       "contentHash": "sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f",
       "dedupeKey": "brief:opp_17925867032df333e1cf:sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f",
-      "firstSeenAt": "2026-07-24T02:46:44.035Z",
-      "lastSeenAt": "2026-07-24T03:40:26.516Z",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_5eaca43e06e15815d86b": {
@@ -20495,15 +20492,12 @@
       },
       "contentHash": "sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03",
       "dedupeKey": "brief:opp_d0dbb56958711ab6298d:sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03",
-      "firstSeenAt": "2026-07-24T02:46:44.035Z",
-      "lastSeenAt": "2026-07-24T03:40:26.516Z",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_3d3ce26b18c90062fc66": {
@@ -20758,30 +20752,27 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
-        "contentScore": 11,
+        "communityPoints": 20,
+        "communityRank": 1,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 2
         }
       },
       "contentHash": "sha256:1159f51552cde520bb506e28c2a04497cebcfbe3df2036c39ab3380949dc48fb",
       "dedupeKey": "brief:opp_cd04f8b2444488dd9b82:sha256:1159f51552cde520bb506e28c2a04497cebcfbe3df2036c39ab3380949dc48fb",
-      "firstSeenAt": "2026-07-24T02:46:44.035Z",
-      "lastSeenAt": "2026-07-24T03:40:26.516Z",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "REJECTED",
-        "reason": "오전 9시 일일 인사이트 파이프라인 대상"
-      },
-      "lifecycle": {
-        "missingRuns": 0
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     },
     "opp_54b05efcec2cd3295059": {
@@ -23724,6 +23715,206 @@
         "finalUrl": "https://event-us.kr/zinidata/event/131149",
         "checkedAt": "2026-07-24T07:41:25.138Z"
       }
+    },
+    "opp_7161f8f500daa837af73": {
+      "id": "opp_7161f8f500daa837af73",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31741",
+      "canonicalUrl": "https://abhi.now/blog/calm-technologies",
+      "title": "나를 설레게 하는 차분한 기술들",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T09:11:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기술은 사용자를 계속 붙잡기보다 원하는 일을 돕고 물러나는 집중형 컴퓨팅(Focused Compute) 이어야 하며, 하나의 인간적 기능에 집중하는 기기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31741"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:a30915fccfd1a27e98ae2a522cb3fe720c5e2da4c1a592ae8b8237f7d7128ec0",
+      "dedupeKey": "brief:opp_7161f8f500daa837af73:sha256:a30915fccfd1a27e98ae2a522cb3fe720c5e2da4c1a592ae8b8237f7d7128ec0",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5770aa8da9d5a1112a81": {
+      "id": "opp_5770aa8da9d5a1112a81",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31734",
+      "canonicalUrl": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "title": "모든 개발자가 SIMD를 알아야 하는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-23T23:35:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SIMD는 최고 성능 소프트웨어만을 위한 복잡한 기법이 아니라, 연속된 데이터를 여러 값씩 처리해 평범한 반복문을 가속하는 일상적 최적화 수단임...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31734"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:39b614979b5448bc91b21f5b3d522452c394e48bda9f19881985f929cb71bfc4",
+      "dedupeKey": "brief:opp_5770aa8da9d5a1112a81:sha256:39b614979b5448bc91b21f5b3d522452c394e48bda9f19881985f929cb71bfc4",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2ee05278c7d6cf55e4ac": {
+      "id": "opp_2ee05278c7d6cf55e4ac",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31736",
+      "canonicalUrl": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware",
+      "title": "과제형 면접 프로젝트를 열어보니 조직적인 악성코드 작전이었다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T06:34:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LinkedIn에서 월 $10,000~15,000의 원격 Python 개발자 자리를 제안한 가짜 채용 담당자가 정상적인 FastAPI 과제로 위장한 ZIP 파일을 보내고, Gi...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31736"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:21ac1b5f683772d0c4a1cc448aba525dc8d42822aa10a02e3e9aee532d87a11e",
+      "dedupeKey": "brief:opp_2ee05278c7d6cf55e4ac:sha256:21ac1b5f683772d0c4a1cc448aba525dc8d42822aa10a02e3e9aee532d87a11e",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fe3d5d011a89f7476ca0": {
+      "id": "opp_fe3d5d011a89f7476ca0",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:EfduvIqbtX0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EfduvIqbtX0",
+      "title": "[한영자막] 일론 머스크 \"AI는 10년 안에 인간의 통제를 벗어납니다\"",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T04:13:49+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "일론 머스크가 이코노미스트와의 인터뷰에서 AI가 인간 지능을 뛰어넘는 시점과 인간의 통제력 상실 가능성을 솔직하게 털어놓습니다. 주요 내용 - AI가 5년 안에 인류 전체의 지능을 합친 것보다 뛰어나질 거라는 전망 - 10년 안에 인간이 AI에 대한 주도권을 잃을 가능성이 낮지 않다는 견해 - 살인 로봇이 인류를 위협할 확률을 10~20%로 본 이유 - AI 기업들이 서로를 검증하며 위험을 낮추자는 제안 - 샘 알트먼과 다리오 아모데이를 향한 솔직한 평가 #일론머스크 #AI #인공지능 #테슬라 #",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=EfduvIqbtX0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-24T04:13:49.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cd99dc90e2fbc31ac91f19e76544a653b234eeb8cc231660ff8c3e6f86f19b1e",
+      "dedupeKey": "brief:opp_fe3d5d011a89f7476ca0:sha256:cd99dc90e2fbc31ac91f19e76544a653b234eeb8cc231660ff8c3e6f86f19b1e",
+      "firstSeenAt": "2026-07-24T09:05:24.491Z",
+      "lastSeenAt": "2026-07-24T09:05:24.491Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -24867,6 +25058,36 @@
       "opportunityId": "opp_6bb04735c893a7024161",
       "sentAt": "2026-07-24T07:41:25.138Z",
       "messageId": "1530117714608263250"
+    },
+    "brief:opp_cd04f8b2444488dd9b82:sha256:1159f51552cde520bb506e28c2a04497cebcfbe3df2036c39ab3380949dc48fb": {
+      "status": "SENT",
+      "opportunityId": "opp_cd04f8b2444488dd9b82",
+      "sentAt": "2026-07-24T09:05:24.491Z",
+      "messageId": "1530138839383937168"
+    },
+    "brief:opp_fe3d5d011a89f7476ca0:sha256:cd99dc90e2fbc31ac91f19e76544a653b234eeb8cc231660ff8c3e6f86f19b1e": {
+      "status": "SENT",
+      "opportunityId": "opp_fe3d5d011a89f7476ca0",
+      "sentAt": "2026-07-24T09:05:24.491Z",
+      "messageId": "1530138839383937168"
+    },
+    "brief:opp_7161f8f500daa837af73:sha256:a30915fccfd1a27e98ae2a522cb3fe720c5e2da4c1a592ae8b8237f7d7128ec0": {
+      "status": "SENT",
+      "opportunityId": "opp_7161f8f500daa837af73",
+      "sentAt": "2026-07-24T09:05:24.491Z",
+      "messageId": "1530138839383937168"
+    },
+    "brief:opp_d0dbb56958711ab6298d:sha256:8a1749920a589f963a6eb72e60851b2fd443b7af09860018d59770b2b60dab03": {
+      "status": "SENT",
+      "opportunityId": "opp_d0dbb56958711ab6298d",
+      "sentAt": "2026-07-24T09:05:24.491Z",
+      "messageId": "1530138839383937168"
+    },
+    "brief:opp_17925867032df333e1cf:sha256:bfafe04f05a4b6c7149e5ce21e339914a7443f1d0879cda50defbfd536a7037f": {
+      "status": "SENT",
+      "opportunityId": "opp_17925867032df333e1cf",
+      "sentAt": "2026-07-24T09:05:24.491Z",
+      "messageId": "1530138839383937168"
     }
   },
   "pending": {
