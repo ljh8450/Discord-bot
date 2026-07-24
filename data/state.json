@@ -37,7 +37,7 @@
       "lastSeenAt": "2026-07-21T03:41:20.517Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 419
+        "missingRuns": 420
       },
       "review": {
         "status": "REJECTED",
@@ -83,7 +83,7 @@
       "lastSeenAt": "2026-07-21T03:41:20.517Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 419
+        "missingRuns": 420
       },
       "review": {
         "status": "REJECTED",
@@ -136,7 +136,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_5dbd9849522ffbdb066a": {
@@ -177,7 +177,7 @@
       "lastSeenAt": "2026-07-21T03:41:20.517Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 419
+        "missingRuns": 420
       },
       "review": {
         "status": "REJECTED",
@@ -231,7 +231,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_f07da709f2268b6f53f4": {
@@ -278,7 +278,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_738fa6526c31dce5b046": {
@@ -319,7 +319,7 @@
       "lastSeenAt": "2026-07-24T03:40:26.516Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       },
       "review": {
         "status": "REJECTED",
@@ -364,7 +364,7 @@
       "contentHash": "sha256:f5d23b7da4de86baf369f41eaaf8bd8426b531a8cd28e968f6cb0fa4d73d0a28",
       "dedupeKey": "discovered:a6aa6ef63a58d907002b8104dabd72547b1eccfe317fbaccdbb39d64449610e1",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -409,7 +409,7 @@
       "contentHash": "sha256:1ee76998f2667b70623ed7df520a9da508593a420474aeb9031c8ceb5b43c99c",
       "dedupeKey": "discovered:d7f4eccd0705deb971f73ab4c79e45df0f19839227a97c216fabfa0d3f049a45",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -453,7 +453,7 @@
       "contentHash": "sha256:9526c8fc005fb798bf8136f7e23d606dd6353b3dd8e93cdfb318ffa5ba038c57",
       "dedupeKey": "discovered:586153988dd250ebc6c9bf552e9fcd7c917a7ad224a9ca8e58b8388faee7c4a8",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -497,7 +497,7 @@
       "contentHash": "sha256:b9e8c483ef7d236649ef7793b39c90c3dce962d587d24ed4344dab2f8472a3fa",
       "dedupeKey": "discovered:e462f4dc7ea50d584d05fa306dcff3455e31010c1e6cf4dd7a4aefbbb8e0cd85",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -542,7 +542,7 @@
       "contentHash": "sha256:7f8b39c5afc09e182bcd4ad5550a617337efe765db0ceca7cd0cb2231a49e52c",
       "dedupeKey": "discovered:c6775781f4b9c2dc4fb235a1a76aa4557242214a46ba57e4bf517aa56bdcb768",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -586,7 +586,7 @@
       "contentHash": "sha256:adf9eae26c9157240c6bd5cf2460c1cad1f22fdb08e49651b35897e0ce1c377c",
       "dedupeKey": "discovered:a7e14d1de3f5fd25f4383aa127a90bdef2167750b2fc70d757961b72f8da0792",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -630,7 +630,7 @@
       "contentHash": "sha256:b485ff581727c6026d5d53cbe401b7e0f2913982a13894372a452358dead3316",
       "dedupeKey": "discovered:3a023c7f51e783d0d0ab1c9c45eb329e6098996346230107aa3d2eec01796f23",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -674,7 +674,7 @@
       "contentHash": "sha256:c82859a6c05d4b855f3a8507692ea06fc1e600c1bc8e653552b696c309be1770",
       "dedupeKey": "discovered:ff5b9e24e7d0d98b645e18803a5b6a71634d8384aaf5e4881b0ddeae519a7c21",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -718,7 +718,7 @@
       "contentHash": "sha256:7f65adf477dc28d98f243c257228b384466fa09e874c2fb49a187499d4d769cc",
       "dedupeKey": "discovered:a84f03f61f7672b8a7d5b08c4d48321f6ab11e802688427beced63b6621dfd3a",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -763,7 +763,7 @@
       "contentHash": "sha256:bde78a3c4997be525eed6a8bbdd06cc145c77e2f72a508999a4acbb38b712917",
       "dedupeKey": "discovered:0ca72661fefa0b194118fbc39789a3ccd65edce521c62f28246c867ca13c00ba",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -807,7 +807,7 @@
       "contentHash": "sha256:ee4eabecd8da694233dabbc1ede4d607155dc648331dbeed33c74946e8cba7e4",
       "dedupeKey": "discovered:acbcec4a71bcdcce7493a9fd80e4db915fff8c196fd9a4e891007644a7a7e741",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -854,7 +854,7 @@
       "lastSeenAt": "2026-07-24T03:40:26.516Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       },
       "review": {
         "status": "REJECTED",
@@ -896,7 +896,7 @@
       "contentHash": "sha256:ae90d10161c81d944b2edcf8d9ae45e2bfc03a8431fd3c3f653086be4e2423b0",
       "dedupeKey": "discovered:25ab1d0c81ed007a636996529e4f74cab8ccfae00e1747f42f9a50397e50d99d",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -938,7 +938,7 @@
       "contentHash": "sha256:1936b5bc46aa00a21c7b492d8e989283849a7bef839d3b7515e0abd3c95ed005",
       "dedupeKey": "discovered:e37393c341386f670ed62ad20aed8c521b1c90c92178119fe61c9b8bb8831cf3",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -980,7 +980,7 @@
       "contentHash": "sha256:16fa535e7722367e8d474449a0a41108b47041d67991bc8855424f85454ab3ba",
       "dedupeKey": "discovered:f14c425f4786de290dd73887afe18cc4f46edaae9ad2089cd170a6edd65250f0",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1022,7 +1022,7 @@
       "contentHash": "sha256:603b4a88bf4e7b204e1230c43fc7366cce275552f53fb4c3878088679fa2aea4",
       "dedupeKey": "discovered:4578996d2f141dcba84140e0fbbd682d572d6f235f3b2d7a161f65fcf74a7eba",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1064,7 +1064,7 @@
       "contentHash": "sha256:d1e88c5cee1ecee1ea1b4b060544a7413bc878ee393e507c4b030e0e0b32a56c",
       "dedupeKey": "discovered:dc30d86b76f71126d5fa139d7fe6dcb0fd64e2f0d2e7bc3f0e54c57124713a3f",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1106,7 +1106,7 @@
       "contentHash": "sha256:a2ec02f795f4a24d74e57383014f2fbc34df8c918e838804abe9ce43b9a8d29d",
       "dedupeKey": "updated:opp_385d92bef119e8841c1e:sha256:a2ec02f795f4a24d74e57383014f2fbc34df8c918e838804abe9ce43b9a8d29d",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -1148,7 +1148,7 @@
       "contentHash": "sha256:159c38ba749fc8437a34ff1d9a469ce290205352dc4db583c1d726132489e8fc",
       "dedupeKey": "discovered:b64a887b14e47e172b22a1a44594a718b50d8f647aa423c4d5d0ede776f8693b",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -1190,7 +1190,7 @@
       "contentHash": "sha256:c60888557665b1c4d66a92940f9bd6bfe5a74310f282216cfb24daa8b1ea9483",
       "dedupeKey": "discovered:62650d0a3d52f1c76a5fb67e9ef6379311150c2a744555ba33d5ce78cfdf0aa9",
       "firstSeenAt": "2026-07-20T08:10:29.734Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -1247,7 +1247,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 3,
+        "missingRuns": 4,
         "closedAt": "2026-07-24T07:41:25.138Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1295,7 +1295,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 421,
+        "missingRuns": 422,
         "closedAt": "2026-07-21T03:41:20.517Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1354,7 +1354,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 405,
+        "missingRuns": 406,
         "closedAt": "2026-07-21T06:03:16.361Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1408,7 +1408,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 405,
+        "missingRuns": 406,
         "closedAt": "2026-07-21T06:03:16.361Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1466,7 +1466,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_7f9b69a835c51a776387": {
@@ -1526,7 +1526,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_7504931075bd1022b492": {
@@ -1577,7 +1577,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 405,
+        "missingRuns": 406,
         "closedAt": "2026-07-21T06:03:16.361Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1629,7 +1629,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 405,
+        "missingRuns": 406,
         "closedAt": "2026-07-21T06:03:16.361Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1683,7 +1683,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 405,
+        "missingRuns": 406,
         "closedAt": "2026-07-21T06:03:16.361Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1737,7 +1737,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_5d0423c041b5e7265ce2": {
@@ -1786,7 +1786,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 405,
+        "missingRuns": 406,
         "closedAt": "2026-07-21T06:03:16.361Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1834,7 +1834,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 429,
+        "missingRuns": 430,
         "closedAt": "2026-07-21T02:22:20.665Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1883,7 +1883,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 429,
+        "missingRuns": 430,
         "closedAt": "2026-07-21T02:22:20.665Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1933,7 +1933,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 429,
+        "missingRuns": 430,
         "closedAt": "2026-07-21T02:22:20.665Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -1989,7 +1989,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 429,
+        "missingRuns": 430,
         "closedAt": "2026-07-21T02:22:20.665Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2046,7 +2046,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 429,
+        "missingRuns": 430,
         "closedAt": "2026-07-21T02:22:20.665Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2099,7 +2099,7 @@
         "reason": "즉시 통과 교육·활동 유형"
       },
       "lifecycle": {
-        "missingRuns": 429,
+        "missingRuns": 430,
         "closedAt": "2026-07-21T02:22:20.665Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2150,7 +2150,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       }
     },
     "opp_7a513fdb4e8151bf6f3a": {
@@ -2199,7 +2199,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 3,
+        "missingRuns": 4,
         "closedAt": "2026-07-24T07:41:25.138Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2250,7 +2250,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 3,
+        "missingRuns": 4,
         "closedAt": "2026-07-24T07:41:25.138Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2300,7 +2300,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 87,
+        "missingRuns": 88,
         "closedAt": "2026-07-23T06:42:25.710Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2350,7 +2350,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 87,
+        "missingRuns": 88,
         "closedAt": "2026-07-23T06:42:25.710Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2400,7 +2400,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 99,
+        "missingRuns": 100,
         "closedAt": "2026-07-23T04:49:19.555Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2450,7 +2450,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 112,
+        "missingRuns": 113,
         "closedAt": "2026-07-23T02:53:06.190Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2502,7 +2502,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_27df0bf16664b7957af0": {
@@ -2551,7 +2551,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_6ce3a8e8574efe2b63ed": {
@@ -2598,7 +2598,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 387,
+        "missingRuns": 388,
         "closedAt": "2026-07-21T09:03:19.656Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2649,7 +2649,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_ec5ed01a76df075612d9": {
@@ -2696,7 +2696,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 387,
+        "missingRuns": 388,
         "closedAt": "2026-07-21T09:03:19.656Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2748,7 +2748,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_575406cd8fd2bc8b5eeb": {
@@ -2798,7 +2798,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_19d634198439ac96dafc": {
@@ -2849,7 +2849,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_5a005ac3dfa8a20a7ca6": {
@@ -2899,7 +2899,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_ab6c5b37917be943c797": {
@@ -2943,7 +2943,7 @@
         "reason": "개발 대외활동 통과 기준 충족"
       },
       "lifecycle": {
-        "missingRuns": 228,
+        "missingRuns": 229,
         "closedAt": "2026-07-22T09:22:38.045Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -2989,7 +2989,7 @@
         "reason": "개발 대외활동 통과 기준 충족"
       },
       "lifecycle": {
-        "missingRuns": 24,
+        "missingRuns": 25,
         "closedAt": "2026-07-23T16:22:51.798Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -3028,7 +3028,7 @@
       "contentHash": "sha256:66c314d315e26b17f4013a228a71ae78054a52cc2fea73dfca9b77ff7c67dff6",
       "dedupeKey": "discovered:07a91ee5026b6f225e5d778bcdc03481502ba81c1d2986ea15a0e9073c266ffc",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3071,7 +3071,7 @@
       "contentHash": "sha256:e98e0e42402ad8bf478c342c623f5ce412372541bc36935f3f01c897f6f5da15",
       "dedupeKey": "discovered:799dfe869b8d0d040de0ecff89901bd14c331e1170bf7ce89b76c268b6c7480d",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3124,7 +3124,7 @@
         "reason": "개발 대외활동 통과 기준 충족"
       },
       "lifecycle": {
-        "missingRuns": 76,
+        "missingRuns": 77,
         "closedAt": "2026-07-23T08:22:25.195Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -3168,7 +3168,7 @@
       "lastSeenAt": "2026-07-21T03:41:20.517Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 130
+        "missingRuns": 131
       },
       "review": {
         "status": "REJECTED",
@@ -3214,7 +3214,7 @@
       "contentHash": "sha256:2aa1a52e707e9fa2a80fae2416d1257e5c0af9f99dcc3b0759963390448f15b9",
       "dedupeKey": "discovered:56d9570760f70d48cbc2b1c82a31da8fe8d64df957fb3e51089c2a6e65e79707",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3257,7 +3257,7 @@
       "contentHash": "sha256:53295b945634a33d8972185b525daaf20161cea7b0bf8e5afc17c544f72d0096",
       "dedupeKey": "discovered:6de314c9c206bedf3721cb5bf4cb7abdf04f2e4221b202b8f09e23671081fb1d",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3300,7 +3300,7 @@
       "contentHash": "sha256:53b124512e1ab7131f6646882ca2fc3d995cb6777781bf2f44917ff0f3dad389",
       "dedupeKey": "discovered:cbfc6ea59bc7bb6719f871d7cf0f3196ab6382b9232d14d668062af0f549d24a",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3343,7 +3343,7 @@
       "contentHash": "sha256:00a96d6fb08a59c5fb177d1acb7dfe9ed71044d2a683b61611f97aa1a69a1c8a",
       "dedupeKey": "discovered:017cd4d444f8d6045dc6913e0a327f8d5e001f46d9dbe476b80dd0f269681fa2",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3386,7 +3386,7 @@
       "contentHash": "sha256:03bd5472c8bc993cb54893a70dca56530169e9a265347058fc5245fc9a3d21a6",
       "dedupeKey": "discovered:82f925fe13ea71bea333bd490741326aea0772dc2999ba603d3fb211423e43dd",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3432,7 +3432,7 @@
       "contentHash": "sha256:23e31a19f0aaf740a315f45228e1e45c61a64601a616eb1774255ec67483fbe8",
       "dedupeKey": "discovered:2d72e6dccc83bfe27799f115735cb0a6dbdead7066d18f4495270d4ca6c14159",
       "firstSeenAt": "2026-07-20T12:31:00.993Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -3485,7 +3485,7 @@
         "reason": "개발 대외활동 통과 기준 충족"
       },
       "lifecycle": {
-        "missingRuns": 150,
+        "missingRuns": 151,
         "closedAt": "2026-07-21T00:52:20.342Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -3524,7 +3524,7 @@
       "contentHash": "sha256:4d1dcc55f81da27708ac04c7ab51bf08d07258e465f4fdea7ae0d66a5ccaa691",
       "dedupeKey": "discovered:cab45c8116eb2fe449971b490869adf9af20246e016ca50ca1beee644dd45aae",
       "firstSeenAt": "2026-07-20T16:43:03.412Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -3664,7 +3664,7 @@
       "contentHash": "sha256:70085de414547f7b8f018efb8927a97f8e765d8affbf04dd8ef91486ebc6de11",
       "dedupeKey": "discovered:45219198b773484409d242706bc2ba99bf4d771435385d01044d17e9f07bee36",
       "firstSeenAt": "2026-07-21T01:02:24.012Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -3708,7 +3708,7 @@
       "contentHash": "sha256:0dd98bf87d22152c32f422c82e543bdbc7144a9d7876939583ce2e33c6d64aee",
       "dedupeKey": "discovered:6f728e13e72872888008ffa921e93c3697174311f63d7e263721364c95effffb",
       "firstSeenAt": "2026-07-21T01:02:24.012Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -3787,7 +3787,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_7175f9d5f841c6cbab5a": {
@@ -3857,7 +3857,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_136180e1a41484ae72ad": {
@@ -3921,7 +3921,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_6709bcd92c8ce6de9f42": {
@@ -4002,7 +4002,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_54a6042cdada1885af1c": {
@@ -4078,7 +4078,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_370e5e13cf8e885e964f": {
@@ -4144,7 +4144,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_58c7b09e943ec4202f57": {
@@ -4216,7 +4216,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_fc2d49cec9780b0e5548": {
@@ -4309,7 +4309,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_5b15e18e587d7c832959": {
@@ -4357,7 +4357,7 @@
         "reason": "개발 결과물 행사 근거 없음"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_ea48ff9a3e7f1edea270": {
@@ -4406,7 +4406,7 @@
         "reason": "개발 결과물 행사 근거 없음"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_dd989a716bbf417ad167": {
@@ -4458,7 +4458,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_dc72f9754c232d394cdb": {
@@ -4511,7 +4511,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_b4285ddde49ac7f641c5": {
@@ -4564,7 +4564,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_81979f932dd7c105944d": {
@@ -4614,7 +4614,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_f5f8bb52492cad30356e": {
@@ -4683,7 +4683,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_db7d56de880266a5280c": {
@@ -4745,7 +4745,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_3991d4705acc3d5c1b5d": {
@@ -4798,7 +4798,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_f4fd39caa906f92b6003": {
@@ -4867,7 +4867,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_d9b96d312103edee3d83": {
@@ -4909,7 +4909,7 @@
       "contentHash": "sha256:65228e78e5aac67bfeb560b5b9f35cbf72f47acd939b05630dc8ff52e2d15360",
       "dedupeKey": "discovered:d9b96d312103edee3d8305a15650b201989fbfe5e3905155e773a7453def0407",
       "firstSeenAt": "2026-07-21T06:23:17.557Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -4978,7 +4978,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_e8101d076c501a612c33": {
@@ -5038,7 +5038,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_796e75f082b38f7045c2": {
@@ -5087,7 +5087,7 @@
         "reason": "개발 결과물 행사 근거 없음"
       },
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       }
     },
     "opp_aa861b5421fddd6eb884": {
@@ -5136,11 +5136,11 @@
       "contentHash": "sha256:c4965c6bbbb70ad7997371a4776b4d4a9b5b5bbffb8c07435911cf92f980f6e2",
       "dedupeKey": "updated:opp_aa861b5421fddd6eb884:sha256:c4965c6bbbb70ad7997371a4776b4d4a9b5b5bbffb8c07435911cf92f980f6e2",
       "firstSeenAt": "2026-07-21T07:53:15.898Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -5188,11 +5188,11 @@
       "contentHash": "sha256:2222a00b6af10e3d1a16c18baf34dea31efe32b9f418146f5e3f4e28bf6b331a",
       "dedupeKey": "updated:opp_47fe928d95cd06b91c4c:sha256:2222a00b6af10e3d1a16c18baf34dea31efe32b9f418146f5e3f4e28bf6b331a",
       "firstSeenAt": "2026-07-21T07:53:15.898Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -5257,7 +5257,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_36d4a3418fd029c5fa7e": {
@@ -5310,7 +5310,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_fb231548e18998572584": {
@@ -5355,7 +5355,7 @@
       "contentHash": "sha256:c6fe8053d5584767f97b443d26644ed31ad6f5eeec379863ed51755f166d7e9a",
       "dedupeKey": "updated:opp_fb231548e18998572584:sha256:c6fe8053d5584767f97b443d26644ed31ad6f5eeec379863ed51755f166d7e9a",
       "firstSeenAt": "2026-07-21T08:03:19.222Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -5416,7 +5416,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_63cd290ab984a9b5ef1c": {
@@ -5468,7 +5468,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_963eb6f903003fea4da3": {
@@ -5525,7 +5525,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_a3e145651206a794f03b": {
@@ -5581,7 +5581,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_352cbff1789df6f20eb2": {
@@ -5636,7 +5636,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_6d2e32dbddf9ee0d0dc5": {
@@ -5694,7 +5694,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_16afa845cb4acda53cfa": {
@@ -5749,7 +5749,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_8614f21bb2ca39849060": {
@@ -5800,7 +5800,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_162f95f0ac38c7441316": {
@@ -5842,7 +5842,7 @@
       "contentHash": "sha256:4ec4c7914dc4e8c62b423655e09f36645c57dc3da4eee943424333c1048b810c",
       "dedupeKey": "discovered:162f95f0ac38c74413167badbeafaafced154a4eaf9807cca0a102236f160efb",
       "firstSeenAt": "2026-07-21T08:43:20.221Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -5891,7 +5891,7 @@
       "contentHash": "sha256:4c8a4ab9ef1063531c87e79590fc042e2934ec54db35aea3c60138f83cacf296",
       "dedupeKey": "discovered:ae6d5bfb0488a17466d1c2078f63cb4420286eaa6e0d85b76e4f929a87c22cf1",
       "firstSeenAt": "2026-07-21T08:43:20.221Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -5940,7 +5940,7 @@
       "contentHash": "sha256:34cfbb41bf213e7b6ad8bcdece0a10f71635351092edcf05e67ea770ffe80b42",
       "dedupeKey": "discovered:4579f6ea793055a55fde1cd8e3dc2f0489d532fbbbb94c9ada37b7c7eee6f2d7",
       "firstSeenAt": "2026-07-21T08:53:17.055Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -7135,7 +7135,7 @@
       "contentHash": "sha256:d2a1638f767a0a691fafbae746d63f462b2289e60179d875d99e5380cc8d44bc",
       "dedupeKey": "discovered:c7407e558e368569ec310a1ac136e558f0b7bc9e0735e74544bc92ee27618849",
       "firstSeenAt": "2026-07-21T10:00:38.433Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -7285,7 +7285,7 @@
       "contentHash": "sha256:d6718c631de957844d65d690d78804407e048e9a1343bca4ac3289771fe8b98d",
       "dedupeKey": "discovered:47abf93eff2ca07feb272467ac54c8172ba5764c32a335324d1bced4d49dbbc9",
       "firstSeenAt": "2026-07-21T15:03:03.670Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -7724,7 +7724,7 @@
       "contentHash": "sha256:0a757d2304d2ebd6a32c9ac01a4486a8fced74f3c3e09bde17f4011fd6be87ec",
       "dedupeKey": "discovered:8fc96ede6803a98fecd0a153616debf4dab2686f6da96ee2371ab37530dbef39",
       "firstSeenAt": "2026-07-22T01:03:00.016Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -8019,7 +8019,7 @@
       "contentHash": "sha256:76b39cb2d5b86dfa2cca01b27efa50fe9b8fec430260066eafd5a47cbc6483c6",
       "dedupeKey": "discovered:1b304f10fb4ad36f96be4e7013dbbf541f9be7ab9f8bbb07b86be6cbfe423f87",
       "firstSeenAt": "2026-07-22T04:43:02.740Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -8073,7 +8073,7 @@
       "contentHash": "sha256:60719d1b5b2240da5dcdb0e86648ed58655cda5209f15b4a02ac154ec1b61b30",
       "dedupeKey": "updated:opp_1a507b424572084931cb:sha256:60719d1b5b2240da5dcdb0e86648ed58655cda5209f15b4a02ac154ec1b61b30",
       "firstSeenAt": "2026-07-22T04:43:02.740Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -8122,7 +8122,7 @@
       "contentHash": "sha256:3bbfb63d9d9ee5f8ba87976016a0073bcc9f472318deb05b5c57dccae58644e0",
       "dedupeKey": "discovered:97d16b91c01ffed3d7d05e63bb87404b90446c97240e604b3ae73c8cb70755d7",
       "firstSeenAt": "2026-07-22T05:12:58.992Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -8176,7 +8176,7 @@
       "contentHash": "sha256:31fc145966fea9cc268d3f95395a9c01fc36a12def55c55830a93d31a18c5e1d",
       "dedupeKey": "discovered:af3ac2baf3bac01caeef7269191577531197b869a56efa00f2b69746e0a5df11",
       "firstSeenAt": "2026-07-22T05:22:59.650Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -8232,7 +8232,7 @@
         "reason": "명시적인 개발 결과물 근거 없음"
       },
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       }
     },
     "opp_a5ef3c1c8ef555dfcee8": {
@@ -8281,7 +8281,7 @@
         "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       }
     },
     "opp_5a10547db1dc10d5761f": {
@@ -8323,7 +8323,7 @@
       "contentHash": "sha256:35a5a8dffb6fdc8c2128fbcf447f55bc2093ba60aeae1296c0f9af22b14fd0fd",
       "dedupeKey": "discovered:5a10547db1dc10d5761f7556945690a59eec10fd22b6570a6d8b8c8893d1e6f1",
       "firstSeenAt": "2026-07-22T07:12:43.995Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -8382,7 +8382,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_c441e80afa303ad44d48": {
@@ -8435,7 +8435,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_3ad23b3b470fe6fd737e": {
@@ -8493,7 +8493,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_1c2acb106368aae076ce": {
@@ -8568,7 +8568,7 @@
         "reason": "혜택 근거 2/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_eb48d6606d32a71ce1c3": {
@@ -8621,7 +8621,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_3f383be563b7b87d0771": {
@@ -8673,7 +8673,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_91fae9fe4258465e0a50": {
@@ -8733,7 +8733,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_aafb2e49281528a390c5": {
@@ -8781,7 +8781,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_da637bf2479c8ca7bcb7": {
@@ -8826,7 +8826,7 @@
       "lastSeenAt": "2026-07-24T03:40:26.516Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       },
       "review": {
         "status": "REJECTED",
@@ -8891,7 +8891,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_52fbd46070fdf4c02e99": {
@@ -8942,7 +8942,7 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       }
     },
     "opp_c5746c0a1ef1977b1807": {
@@ -8995,7 +8995,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_ebfa6b78fc2dbe702c34": {
@@ -9055,7 +9055,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_e152f5a34bc48fe0ba61": {
@@ -9111,7 +9111,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_2ddb27c2cab25fbb5486": {
@@ -9153,7 +9153,7 @@
       "contentHash": "sha256:b5cb5a895f05b2382b58933c8b83e8598128e49bca8adec59865815e3a787d0a",
       "dedupeKey": "discovered:2ddb27c2cab25fbb5486085f0cdf0a567c7943c1182509ae84215b4d87360747",
       "firstSeenAt": "2026-07-22T07:42:41.458Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -9202,7 +9202,7 @@
       "contentHash": "sha256:50873a5c355eda1dc0ab4ef741807eb71fae361b58a4205c29dd3fe2768958b1",
       "dedupeKey": "discovered:3ad04f1fe8132b1ae743a740f13a53f7caf081d1b6120d5c04d664fd0bf5edaf",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -9251,7 +9251,7 @@
       "contentHash": "sha256:9677e064c99cadad6d9d0201158974cb5d50d26e73e8edf9619df561fa5b20fa",
       "dedupeKey": "updated:opp_1120a4fff72dcd0f7b75:sha256:9677e064c99cadad6d9d0201158974cb5d50d26e73e8edf9619df561fa5b20fa",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -9300,11 +9300,11 @@
       "contentHash": "sha256:b5eb9d9024799c088156dbef05931b4a3b4d0e34602e5d9ab9ca2442ff6eec0f",
       "dedupeKey": "discovered:372bf4bfcc27946d005105af39c4bc9947dc913e8f6f1c955bfa4058d450bb26",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -9350,7 +9350,7 @@
       "contentHash": "sha256:2db579982170edeb29f64c74385333801f4dbd1e9cec50ca8f8ff4e85f42d2ee",
       "dedupeKey": "discovered:938d9be0b5d724071b79c68b7d2ec13a2eaf28014c7c7914ac53975606c6e204",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -9398,7 +9398,7 @@
       "contentHash": "sha256:49c1bad46aee46dd1f3a26fffda1dc87a2ed6854e01a0f66450fb79761a7bd2f",
       "dedupeKey": "discovered:6fe1c68c8f6ac3507ab35f2d09fb8a98ffe2370be02986abc9a043d67df8f964",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -9446,7 +9446,7 @@
       "contentHash": "sha256:e22e2025c7ce09f102f0c33e670725733f117e3fc4bd437991cf1e525d3ddb85",
       "dedupeKey": "discovered:0b4133a3c51a3a72dba8a04df8f1d29d2fd92cdf444786505a6f10d9b4db1f7f",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -9494,7 +9494,7 @@
       "contentHash": "sha256:b4a93f5f1f8194dd135447c8d35246ceed80aba4fcdb9e26969bbc06df959fd8",
       "dedupeKey": "updated:opp_573d8b1b8913cb220215:sha256:b4a93f5f1f8194dd135447c8d35246ceed80aba4fcdb9e26969bbc06df959fd8",
       "firstSeenAt": "2026-07-22T07:52:38.672Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -9543,14 +9543,14 @@
       "contentHash": "sha256:6200d6dcefb0dc6b2ec7770b817c263fc65675d55ddd48ba93feb58e95a2b497",
       "dedupeKey": "updated:opp_06ba2148405602613126:sha256:6200d6dcefb0dc6b2ec7770b817c263fc65675d55ddd48ba93feb58e95a2b497",
       "firstSeenAt": "2026-07-22T08:22:43.694Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "개발 결과물 행사 근거 없음"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_db6663baffc838e2a56e": {
@@ -9896,7 +9896,7 @@
         "reason": "선호 직무 조건 불일치"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_f79f8578adcd9df086b8": {
@@ -10980,7 +10980,7 @@
       "contentHash": "sha256:a30dd65570d83538440f1c41f8fc6d07fb2c044bb5fa8a981e909d7085449413",
       "dedupeKey": "discovered:6dfcca561da78a3fd420c4773fd2802d671baab241b0a817e7cf18072a3eaa57",
       "firstSeenAt": "2026-07-23T04:33:06.670Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -10998,7 +10998,7 @@
       "canonicalUrl": "https://www.biobigdata.kr/",
       "title": "국가통합바이오빅데이터구축사업 대학생 서포터즈 2기 모집",
       "organization": "국가통합바이오빅데이터구축사업단",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-23T04:37:39.000Z",
       "closesAt": "2026-08-12T14:59:59.999Z",
       "locations": [
@@ -11039,7 +11039,9 @@
         "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_dee9f86f3cc4559801bc": {
@@ -11081,7 +11083,7 @@
       "contentHash": "sha256:079a1dfbd17e817504e958b8cee60ac380f8f81a79157026714c551580fe975d",
       "dedupeKey": "discovered:dee9f86f3cc4559801bce40415c48cba68a608aef5b07952c0389c4ed6050873",
       "firstSeenAt": "2026-07-23T06:22:25.055Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -11132,11 +11134,11 @@
       "contentHash": "sha256:64b2399fff232389fd75909a6247bb46254a9b9dc2fb2eeb855e6eb467a2b234",
       "dedupeKey": "discovered:cbfbec9f0605c419d2fc793cdeb3fb5e7f345a641b7101f28d1c971508ef71f5",
       "firstSeenAt": "2026-07-23T07:02:26.451Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11193,7 +11195,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_566ccf3691a8994eb579": {
@@ -11247,7 +11249,7 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_8fec9fd68272a51b5217": {
@@ -11289,11 +11291,11 @@
       "contentHash": "sha256:570dd7f3de2e14d219bb7d6c1d7b8148c0f96248b1bf245c084389d58502c903",
       "dedupeKey": "discovered:8fec9fd68272a51b521715b7ba810c7a4418f329f852aab5a0aba5a8a75f5196",
       "firstSeenAt": "2026-07-23T07:22:29.755Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11357,11 +11359,11 @@
       "contentHash": "sha256:aac9fe2f4fb0d69c0b7fdc7a39fc40d642f764b977ff99e4c525f9ca5aeb0841",
       "dedupeKey": "discovered:e5a0773302a52e6a4f2958abb9cbcb716513749c084c3650aa06812bd72ea23d",
       "firstSeenAt": "2026-07-23T07:22:29.755Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11438,11 +11440,11 @@
       "contentHash": "sha256:0733369026306ab66ea5028b5be031e3c66ca4fd34f7e82a7f6226766357e530",
       "dedupeKey": "discovered:e8051f8d61ea580125158aa0852c9f0df059965f47f995f420cbbebf76bad950",
       "firstSeenAt": "2026-07-23T07:22:29.755Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11503,11 +11505,11 @@
       "contentHash": "sha256:76974caf4930ba0566751311eae0bcf4637e03c999d88220d99e29512640c15e",
       "dedupeKey": "discovered:f2d65b1a2aa047459c87ceb11c584b5f9b56635375af0291b6fe77292cb6a02e",
       "firstSeenAt": "2026-07-23T07:22:29.755Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11553,11 +11555,11 @@
       "contentHash": "sha256:54abae331814dea09faec48e6ea3dbb2b1fc5712c47169d311a052dc037c6031",
       "dedupeKey": "discovered:1f276d0ffba9e0cafc7a98d6fd758bfc368b487978e8cfe60289a9830b95b58c",
       "firstSeenAt": "2026-07-23T07:22:29.755Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11603,11 +11605,11 @@
       "contentHash": "sha256:a981ea5c99ec5bd8013c9447aa7c905df5863bc7a0cba162643880ea478cfeea",
       "dedupeKey": "discovered:2306924c570deef832d84b24dd025c8911f269892b4a4ba36db96503b1ed7031",
       "firstSeenAt": "2026-07-23T07:22:29.755Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 2/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11661,11 +11663,11 @@
       "contentHash": "sha256:e7706c8a3e72bf1dabd07c806792b622e45164af4378dc9c4b0f470dd37d1bf0",
       "dedupeKey": "discovered:43b5d26f75ee7fc08329a5e3d051cc52a760de0c0ef9769c51ac0845779da99f",
       "firstSeenAt": "2026-07-23T07:30:55.607Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11711,11 +11713,11 @@
       "contentHash": "sha256:925fa51a0301c91a2c31970d1e4d8a4decfe5f6db0a796c78ccab75035015461",
       "dedupeKey": "discovered:b9ac24823655fb119c2dc072138565dfca403e76dd810cf9ccbb15b912d6e3a0",
       "firstSeenAt": "2026-07-23T07:30:55.607Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11760,11 +11762,11 @@
       "contentHash": "sha256:2388b14997f1862d2633b401932b0bb14919c89ccf819f04b31f668757b5cf2e",
       "dedupeKey": "discovered:929e0be70804a8bf50cdc0fa7a6fc7b17a20f44f3baaceb0d3a5c9627786681e",
       "firstSeenAt": "2026-07-23T07:30:55.607Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -11816,7 +11818,7 @@
       "contentHash": "sha256:46ce28a11123449d09f6e94c29f9fbc6ad70f88b9ef08bcdffcc9f574ddbf3d5",
       "dedupeKey": "discovered:ea54ed892c377abfa159247a2533f7341f37b0a41c6ec340ed757aa14038c867",
       "firstSeenAt": "2026-07-23T07:30:55.607Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -11864,7 +11866,7 @@
       "contentHash": "sha256:aa3169f87c21360b874ab932d96fc4254b80d4a741a314e81f4dc23f1a33285e",
       "dedupeKey": "discovered:28e97c129ca32f00f300afe5aa709fe39fa7e37f9f43cccfa98007f8c03548e5",
       "firstSeenAt": "2026-07-23T07:52:25.279Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -11914,7 +11916,7 @@
       "contentHash": "sha256:7e50d99bffb5c7934c580960161cc4c9c63479ce9011e276a0fe8dc76cd67558",
       "dedupeKey": "discovered:2d7dd743e11b4353f1a14a000136aa422e76b82c99c4276dcc2c3a8c47fca703",
       "firstSeenAt": "2026-07-23T07:52:25.279Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -11964,7 +11966,7 @@
       "contentHash": "sha256:9c127739ad7985503638bc04cd829bf7181b0accf8899bf2b8fb546fe468eebf",
       "dedupeKey": "discovered:5301952ccaaae78827c5cab09be0ee905c1e0dc015ba9acdb2c877acd3df3625",
       "firstSeenAt": "2026-07-23T07:52:25.279Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -12017,11 +12019,11 @@
       "contentHash": "sha256:549e33db64d1bc587fb3216a69887df8d48f707c195b02d192656307cfe35b6e",
       "dedupeKey": "discovered:d0a14c699284f59ed7e596a1c32864e5f1dc688d580d4584f65d6ed10fb4e531",
       "firstSeenAt": "2026-07-23T08:02:26.012Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -12066,11 +12068,11 @@
       "contentHash": "sha256:c8bc2391f71e0fbe8450b54273d3612fbd43167f9e2a33cc88981eb738446edb",
       "dedupeKey": "discovered:47fb8a2677b8beb70f0d2204b0d703a33575d4683d31d1a825342e35a51400eb",
       "firstSeenAt": "2026-07-23T08:02:26.012Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -12119,7 +12121,7 @@
         "reason": "개발자 행사 출처"
       },
       "lifecycle": {
-        "missingRuns": 13,
+        "missingRuns": 14,
         "closedAt": "2026-07-23T18:03:19.167Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -12132,7 +12134,7 @@
       "canonicalUrl": "https://bumpy-consonant-b17.notion.site/2026-inD-398eb3e4e0918024810ee7b2a3574e7f?source=copy_link",
       "title": "인디 in D 게임잼 2026",
       "organization": "대전정보문화산업진흥원",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-23T08:20:30.000Z",
       "closesAt": "2026-07-24T00:00:00.000Z",
       "locations": [
@@ -12172,7 +12174,9 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_939fc97d89e440ea0c95": {
@@ -12214,7 +12218,7 @@
       "contentHash": "sha256:348e461a963fc58186fc32ac908e8e55605d247b2996c5c6761340198d01a114",
       "dedupeKey": "updated:opp_939fc97d89e440ea0c95:sha256:348e461a963fc58186fc32ac908e8e55605d247b2996c5c6761340198d01a114",
       "firstSeenAt": "2026-07-23T08:32:27.710Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -12469,7 +12473,7 @@
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_ce0ba90ab3e40580c9cd": {
@@ -12513,7 +12517,7 @@
       "lastSeenAt": "2026-07-24T03:40:26.516Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3
       },
       "review": {
         "status": "REJECTED",
@@ -12565,7 +12569,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 13,
+        "missingRuns": 14,
         "closedAt": "2026-07-23T18:03:19.167Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -12609,7 +12613,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 13,
+        "missingRuns": 14,
         "closedAt": "2026-07-23T18:03:19.167Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -12653,7 +12657,7 @@
       "contentHash": "sha256:84891df26ca7e5b4dc99342f4eeae4010ae707951e2485edba2754fb2f5add60",
       "dedupeKey": "discovered:b03fc1b541d6b929d39c52ab2825817b90daf10ee14ba3ec82bdae8fa742c2ba",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -12725,11 +12729,11 @@
       "contentHash": "sha256:ba4e088d1bde018f3e7727469e1cded6b7a6284ffe6c3d3e7abd9959e0dfa06b",
       "dedupeKey": "discovered:e8a6821286678965a5668cc045210557ec273061db1b577f8a83d5adfd8db1c6",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -12743,7 +12747,7 @@
       "canonicalUrl": "https://linkareer.com/activity/336617",
       "title": "[굿네이버스] SDGs PROJECT [ZERO] 지속가능개발협력 서포터즈 모집",
       "organization": "굿네이버스 경기동부사업본부",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-20T07:59:43.000Z",
       "closesAt": "2026-07-30T14:59:59.999Z",
       "locations": [
@@ -12795,7 +12799,9 @@
         "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_b3948b499e0d7ad16512": {
@@ -12845,14 +12851,14 @@
       "contentHash": "sha256:84ce4693177757cc6b050ee668b938ca1bf0ccb08b13f383714c3dc8532453e5",
       "dedupeKey": "updated:opp_b3948b499e0d7ad16512:sha256:84ce4693177757cc6b050ee668b938ca1bf0ccb08b13f383714c3dc8532453e5",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
       }
     },
     "opp_6dcd27da1d05fe99896c": {
@@ -12908,7 +12914,7 @@
       "lastSeenAt": "2026-07-24T07:41:25.138Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       },
       "review": {
         "status": "REJECTED",
@@ -12961,7 +12967,7 @@
       "lastSeenAt": "2026-07-24T07:41:25.138Z",
       "eventType": "UPDATED",
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       },
       "review": {
         "status": "REJECTED",
@@ -12976,7 +12982,7 @@
       "canonicalUrl": "https://networks-aicamp.io/program",
       "title": "SK네트웍스 FAMILY AI 캠프 36기",
       "organization": "(주)엔코아",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-22T08:42:35.000Z",
       "closesAt": "2026-08-06T14:59:59.999Z",
       "locations": [
@@ -13034,7 +13040,9 @@
         "reason": "혜택 근거 1/8개"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_5afb977ce19d04a9397e": {
@@ -13083,7 +13091,7 @@
         "reason": "개발 결과물 행사 근거 없음"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_14a7ee2b0ada76909424": {
@@ -13127,7 +13135,7 @@
       "contentHash": "sha256:fe6ef0870f1bbb0385f51aca96983fe0d4899f3b2080a8bbc8f82149a91ffd36",
       "dedupeKey": "discovered:14a7ee2b0ada76909424f9cfab067188953e054ea2bde671ae46447001260acd",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13174,7 +13182,7 @@
       "contentHash": "sha256:b7df31d95cd78e383d8f81f70fdd37e6e1985a028dc4e1a897b25794c8f7e582",
       "dedupeKey": "discovered:446369f8e5f09d94fd661b19d01dc14d7a60505793a067c6c03a9445e9ed3534",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13225,7 +13233,7 @@
       "contentHash": "sha256:5fc7cbbf207b1efa28c4368ec0c42632fb9cd2cc81d8938eb6c5478226152ebf",
       "dedupeKey": "discovered:a6f614b5b22ba5e37e12aa011c6414e0f224d83a1d109c6c082a0dda2e37e8b9",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13272,7 +13280,7 @@
       "contentHash": "sha256:0f523dd7ebde77da0c34aff2deb510648882a2d6409aedd93b9af9175cf73ee3",
       "dedupeKey": "discovered:fb858f7d9d2e6d1e9edb9ddf17ee52cdb1088292ef8575b57624e83ddcbaad0b",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13323,7 +13331,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_13be7258089789a5d548": {
@@ -13363,7 +13371,7 @@
       "contentHash": "sha256:4b0840fed877ab421be19cc2cef280aa4dccb08d3bab5d95172fae5e4c304d76",
       "dedupeKey": "discovered:13be7258089789a5d5485c9fb7aab914c40be2a4e13faa275dcc0a96755a6bb1",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13409,7 +13417,7 @@
       "contentHash": "sha256:1ed0d71105593c9146a6c1b5871b8a0a1d54f0f2c7266a975dd1b2148156da3e",
       "dedupeKey": "discovered:4cddfa200a3a2250926bab7f18eb62adea2fc7010c7e53055cca3670bf9a7e49",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13461,7 +13469,7 @@
       "contentHash": "sha256:0415089058e7a933126a157d9244c8095f59c7e2416978ccd54de3fab17a2ae9",
       "dedupeKey": "discovered:368f81032aa957acd35d0e7d153835f934340f48ab2071c73446561e10a97cd3",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13514,7 +13522,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_7fa200078ad6df077bdf": {
@@ -13555,7 +13563,7 @@
       "contentHash": "sha256:2c785f736f9c9bbba3793f99a9184da90f0d0667634f37dfc34f38da4ab4bc95",
       "dedupeKey": "discovered:7fa200078ad6df077bdf41e4e386784c9ca344145d75b11da72f9843d509c355",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13608,7 +13616,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_061dec91b7d08ba15ceb": {
@@ -13652,7 +13660,7 @@
       "contentHash": "sha256:e91514e04a0062e0c38ffada580af6e51ba70d6cf2a4d70dc3ad3b08b31d0938",
       "dedupeKey": "discovered:061dec91b7d08ba15ceb9a5599774fbb46351d477aa7c31074ab3db645ee1b16",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13709,7 +13717,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_d0f786d9e88e3f19ff8a": {
@@ -13753,7 +13761,7 @@
       "contentHash": "sha256:a4247940230efd50a43162fc61e41607556748557065e39f46e9e4c9542f624b",
       "dedupeKey": "discovered:d0f786d9e88e3f19ff8af3e3ac3e00d830b21b307fcce929082d5f235430394e",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13810,7 +13818,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_1459310dd2122046cb3c": {
@@ -13831,11 +13839,11 @@
       "tags": [
         "IT/프로그래밍",
         "대회/공모전",
-        "블록체인",
-        "해커톤",
-        "솔라나",
-        "구글클라우드",
         "AI에이전트",
+        "구글클라우드",
+        "솔라나",
+        "해커톤",
+        "블록체인",
         "개발자 행사"
       ],
       "summary": "Build the Future of Agentic Commerce",
@@ -13847,10 +13855,10 @@
         "developmentOutput": true,
         "platformDeveloperEvent": false
       },
-      "contentHash": "sha256:52ee59724e886ae827ee1a24bab68fde76851ba73bfa1e9de314f8705769a27a",
+      "contentHash": "sha256:57057753bde9f1a3b638834896f93a26f834ab33f322af8663f3d5adb0184f3a",
       "dedupeKey": "discovered:1459310dd2122046cb3ca33a6a2da09faa752458f55041af4074dd098eaddbff",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -13901,7 +13909,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_21f559617f659c4119ff": {
@@ -13950,7 +13958,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_69b4d17e3cba4edde1a4": {
@@ -13994,7 +14002,7 @@
       "contentHash": "sha256:c4175c8989ca0368ea24041b68d786035973c32fb79ad9acac1c7b6a2b300078",
       "dedupeKey": "discovered:69b4d17e3cba4edde1a46cbd8ca34bab2eff29dab444a3f181aa454e15f6f811",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14012,7 +14020,7 @@
       "canonicalUrl": "https://event-us.kr/skkukdt/event/131011",
       "title": "[성균관대] AI 트렌드 취업 인사이트 세미나 - SKKU SAY AI INSIGHT SUMMER Ⅱ",
       "organization": "성균관대학교",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-21T06:43:33+00:00",
       "closesAt": "2026-08-05T14:30:00+00:00",
       "locations": [
@@ -14047,7 +14055,9 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_832168a7fd9c03b47ed3": {
@@ -14105,7 +14115,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_df9ca6e8990092e167d9": {
@@ -14149,7 +14159,7 @@
       "contentHash": "sha256:d329ea17723b89adaa1cb4a108a87e8d72a7ad8e424e4bc600c1bdfd9180b589",
       "dedupeKey": "discovered:df9ca6e8990092e167d9ea0433d45a74f8418da39a02db8ae86579940d94cf10",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14200,7 +14210,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 4,
+        "missingRuns": 5,
         "closedAt": "2026-07-24T04:53:44.626Z",
         "closeReason": "공식 출처에서 연속 미확인"
       }
@@ -14257,7 +14267,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_e1f1e5cefd06890583e1": {
@@ -14301,7 +14311,7 @@
       "contentHash": "sha256:2528716a50cd6ee1d99aa960bca15ae2e413a6c086ff8f43c114a1fc30c9a15e",
       "dedupeKey": "discovered:e1f1e5cefd06890583e17cf806ec7eba4e338a440877e5e6c3bdbe24d19cb73b",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14352,7 +14362,7 @@
       "contentHash": "sha256:6e1e880ff0613541800b801d2303f21ee945bba13e63f95210484d03c770684d",
       "dedupeKey": "discovered:a8efb003c3021470b004e8b195326ca0ada8e09f2707d96de7d8f0a654141850",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -14413,7 +14423,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_ff4f08ad1fe81c144f24": {
@@ -14457,7 +14467,7 @@
       "contentHash": "sha256:aa89b7709f815c76dd29067048f56d7a21d7bb6bccf13093445f91fda566f3d8",
       "dedupeKey": "discovered:ff4f08ad1fe81c144f243474cdccb099314c5fc45fc5043470015e3c4f40398a",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14508,7 +14518,7 @@
       "contentHash": "sha256:7d0e9c0ee8e678635bd5c4255e47005bf57336bdd592e6728af344ff7838c216",
       "dedupeKey": "discovered:84148a4ed45de8ebb2ee39a455e76cc98bf2c3d2ae96ae9a2448db3a13cea981",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14564,7 +14574,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_78221d2f301f69a940d2": {
@@ -14615,7 +14625,7 @@
         "reason": "개발 결과물을 만드는 행사"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_210ba6d4130ec4076e7d": {
@@ -14659,7 +14669,7 @@
       "contentHash": "sha256:3bf1a474e311f59e819c72b2bd509a324f1ff8e0f10b46be3a1e3d0a7e229e6e",
       "dedupeKey": "discovered:210ba6d4130ec4076e7d4cc2ae87979364604885c2736eb44dc3847640ddc01d",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14723,7 +14733,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_9dd9ca33e8c1f47d43ce": {
@@ -14766,7 +14776,7 @@
       "contentHash": "sha256:9d356a6ae489d73bd7edc9a85e1e2f7cdbff3908387b244d43cc0db8944d02ba",
       "dedupeKey": "discovered:9dd9ca33e8c1f47d43cecef0fe816f6bd6d8f530778788c7c4fb04756e19d7ad",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14784,7 +14794,7 @@
       "canonicalUrl": "https://event-us.kr/kiaf/event/130876",
       "title": "AI G3를 위한 K-AI 정책방향[과학기술정보통신부 류제명 제2차관 초청 포럼]",
       "organization": "박서우",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-20T03:18:54+00:00",
       "closesAt": "2026-07-28T00:00:00+00:00",
       "locations": [
@@ -14824,7 +14834,9 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_823e62933830a9778941": {
@@ -14872,7 +14884,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_ead3a2f5ceba59e666a8": {
@@ -14916,7 +14928,7 @@
       "contentHash": "sha256:b5077b9e296da483e7e25e4081cfc042b323ac387f53493fe134c12de24fbdd1",
       "dedupeKey": "discovered:ead3a2f5ceba59e666a8e4ad143ed78baeeb2585dd1762772e6d498b4ddf1bc4",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -14948,11 +14960,11 @@
       "tags": [
         "과학기술",
         "강연/세미나",
+        "클라우드",
         "바이브코딩",
         "AI",
         "AI에이전트",
         "무료교육",
-        "클라우드",
         "개발자 행사"
       ],
       "summary": "만 19~34세 비재학생, 미취업 청년에게 기업들과 함께 단기 AI교육 무료 제공 및 장학금 지급",
@@ -14964,10 +14976,10 @@
         "developmentOutput": true,
         "platformDeveloperEvent": true
       },
-      "contentHash": "sha256:ced99d66e0c0b7e364f71a3a4b0675eddc5790f9c232524a739c61a0c6b123b0",
-      "dedupeKey": "updated:opp_aa645da75c66eec36ce4:sha256:ced99d66e0c0b7e364f71a3a4b0675eddc5790f9c232524a739c61a0c6b123b0",
+      "contentHash": "sha256:db94b1faf3d36676728d298b8f90f8b0a932146d46f78901ef66a35b3054c1f1",
+      "dedupeKey": "updated:opp_aa645da75c66eec36ce4:sha256:db94b1faf3d36676728d298b8f90f8b0a932146d46f78901ef66a35b3054c1f1",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "lifecycle": {
         "missingRuns": 0
@@ -15022,7 +15034,7 @@
         "reason": "비용·기간 대비 혜택 추가 심사 필요"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_56fa45e7985c77f5471a": {
@@ -15066,7 +15078,7 @@
       "contentHash": "sha256:828563bb5a315fb49890f49bb3955393a78431335ca8eb2a7a8ff5a0b7e648bc",
       "dedupeKey": "discovered:56fa45e7985c77f5471af3406a7c9a5268b37250c7174c2d0d28c079d9f7ce5b",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15117,14 +15129,14 @@
       "contentHash": "sha256:a8308076a145afba7c5afed01d8e767efd26ee0003402c7f93eb717ea16c5cc3",
       "dedupeKey": "updated:opp_2060434e8de49d1cfd3b:sha256:a8308076a145afba7c5afed01d8e767efd26ee0003402c7f93eb717ea16c5cc3",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "부트캠프·직업교육 과정 제외"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_3dbed487520cc64e68de": {
@@ -15168,7 +15180,7 @@
       "contentHash": "sha256:f0b9f262925e7801a614c91151e562a48c7d6737e37cbceb0a07dc44af28bd7a",
       "dedupeKey": "discovered:3dbed487520cc64e68de91d93a76a979defbad86fbc7383c8171f24333ebb0f5",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15214,7 +15226,7 @@
       "contentHash": "sha256:37ec19a25191b3711ef786b83fb352c88ea01150361122882452c22e9e3fad35",
       "dedupeKey": "discovered:12fd4746f1ce4dc6fa7b9d4e6721ebd4e6ce608d34ade574382b3f659ed8d327",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15230,7 +15242,7 @@
       "sourceId": "eventus-keyword-discovery",
       "externalId": "130830",
       "canonicalUrl": "https://event-us.kr/ddanjitlab/event/130830",
-      "title": "🟡(곧 모집종료)🟡클로드코드 [처음부터] 특강 (왕초보) 웹페이지 만들고 인터넷에 올리기까지 (비개발자 · 강남역 · 7/26)",
+      "title": "🟡(한 자리 남음)🟡클로드코드 [처음부터] 특강 (왕초보) 웹페이지 만들고 인터넷에 올리기까지 (비개발자 · 강남역 · 7/26)",
       "organization": "이준오",
       "status": "OPEN",
       "publishedAt": "2026-07-18T15:27:29+00:00",
@@ -15244,11 +15256,11 @@
       "tags": [
         "IT/프로그래밍",
         "워크샵/클리닉",
+        "바이브코딩",
         "AI",
         "비개발자",
-        "클로드코드",
-        "바이브코딩",
         "강남",
+        "클로드코드",
         "개발자 행사"
       ],
       "summary": "코딩 없이 말로 시켜서 웹페이지 만들고 인터넷 배포까지 — 2시간 라이브 (비개발자)",
@@ -15260,10 +15272,10 @@
         "developmentOutput": true,
         "platformDeveloperEvent": false
       },
-      "contentHash": "sha256:4d6582c68f59c06e475417befd13a78da89dfa596ef830b2af1206b3e6b001f4",
+      "contentHash": "sha256:caa916783482e819f7e3e59c7a0dcd292bdb546175a2b2ed67c9f0ee989f6f0a",
       "dedupeKey": "discovered:ce31f3205e027f11619906a5525a34a776fc32549b5994f604c9c2889c19f919",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15305,7 +15317,7 @@
       "contentHash": "sha256:b4e183b46d8f5d6a1e5b06d2086844bd6788e33ea8789a7d52398f01fd838354",
       "dedupeKey": "discovered:c8997873fa54ca21b0a4a9a97802adca565a18f94db1b7de27f50cdf05bdde29",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15355,7 +15367,7 @@
       "contentHash": "sha256:9ea11fc70eb09b65f56d1a84b1d7713048526139c0434651963ea8e4b9b3df86",
       "dedupeKey": "discovered:e3691d0e8ad465b89e8b12c1d3cf1ef5911ab439987c057867295d82fd0ef791",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15406,7 +15418,7 @@
       "contentHash": "sha256:c8907858a5cc2a8cc62d9b7ccb48ab7a91f8097238a13498b02cd7cc16c0666e",
       "dedupeKey": "discovered:b0c34091fc6dd1612b4bf5ce807dff316b894af63d2322212f66703914b5e54f",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15457,7 +15469,7 @@
       "contentHash": "sha256:8f5a5cdaa81cfb6c59890d1d9bd41706505052f5c2f1a4177a11d51786b9ff44",
       "dedupeKey": "discovered:60b6aa3a17ccc34a5a65a5f71d77680e76f46a179f9cc9ddf032bb7beaba05c7",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15508,14 +15520,14 @@
       "contentHash": "sha256:94bec877933771013aa725009e87f8154f46b583d4ea604770beb9752987f19d",
       "dedupeKey": "updated:opp_1c542b4b37c5419b739f:sha256:94bec877933771013aa725009e87f8154f46b583d4ea604770beb9752987f19d",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "부트캠프·직업교육 과정 제외"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_1067c220971e37b6b2d6": {
@@ -15550,7 +15562,7 @@
       "contentHash": "sha256:47e2c3b3bb83fb60f000ff056bee1bf1e84430b6e4a489a8f23cee441de80b06",
       "dedupeKey": "discovered:1067c220971e37b6b2d6bc709ed2abd9ee963de3ad0ee4727127a682409b2b79",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15601,7 +15613,7 @@
       "contentHash": "sha256:d8e99c933a3bb4e4e97460b4c71c0d28960b1b58eff9d40480a97ee3164c438b",
       "dedupeKey": "discovered:aed414763bb752b38e8610329c915f2f09a5f7beaed067225ca52cd23cddb2d1",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15652,7 +15664,7 @@
       "contentHash": "sha256:3ceb40af03dca3089af479d1a07dd4aebc219997f351194a0058daa3abe686c6",
       "dedupeKey": "discovered:7cae51ae30f4be2525b45e6d50fe532430eac1dc3156e76d3864f65f4a83bf35",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15703,7 +15715,7 @@
       "contentHash": "sha256:292264e2fab3b41c9e44f9be6109a7e677f00ca4238cb7e84eff09e2136ff279",
       "dedupeKey": "discovered:03fc0b9a2a662a32e9304cfaffa07e86281ad84e54d0d880c47ae39e687843d1",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15754,7 +15766,7 @@
       "contentHash": "sha256:44f405b8897835151b95252db9ac8110b5a06fabcdc227a7adb840507dad5fb6",
       "dedupeKey": "discovered:ce25c7a6a69ba29402663763af37534ec9848af68c51554c8be21e8c682f2665",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15805,7 +15817,7 @@
       "contentHash": "sha256:5284e0c38c3d09b0e5cae2f7dc300355d0c3df3dc408a8c4f1ca89b7da6c9fa1",
       "dedupeKey": "discovered:aa6b03a5d33ce419ffaafe9fcdf6aa88767270916acdbbbcbc18ae4fa6466240",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15851,7 +15863,7 @@
       "contentHash": "sha256:cc56bbb1ffda58462bd080721f063e55f992eae7b4214c9d695a239bbd33c848",
       "dedupeKey": "discovered:4c004a42bb702d3803132a80ab4ce2ff7c01fe6a3945b79d7905b86c5a457bcc",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -15902,7 +15914,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_43f22772b6c9ef66ae46": {
@@ -15943,7 +15955,7 @@
       "contentHash": "sha256:80b55b5059b712df6c4a06a5b83872614bb044e7fcfba73972a1cf711a7aa73f",
       "dedupeKey": "discovered:43f22772b6c9ef66ae466a91e09d7d56e77f5087ad64df8634c2dc1af8f014f4",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -15994,7 +16006,7 @@
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_af7b0be560c47d7a972c": {
@@ -16038,7 +16050,7 @@
       "contentHash": "sha256:976d2d7a00d75e903257f602900ae83f47bfa01df73d6d44e1fe49f677f23e60",
       "dedupeKey": "discovered:af7b0be560c47d7a972cd4de503ef36b192a3f287718a94d7c51e11ae42638f9",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -16089,7 +16101,7 @@
       "contentHash": "sha256:ff517d54433280275ada61bfb5e03f8ff5f25e62150cc1e490950049d21e1585",
       "dedupeKey": "discovered:f3d3cd8dcbaebbc83ebd6355fbc713ca44ab396e68702291cdfabe2695874002",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -16139,7 +16151,7 @@
       "contentHash": "sha256:92365b56b6eb32140ea2a01cfcd192fa4e3c8a176b3ec42cff8a25325d97cb8d",
       "dedupeKey": "discovered:2594f944423513292867b1c9a7f85f5b595021e09f8693bbcd5daf5f0240d80f",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -16190,11 +16202,11 @@
       "contentHash": "sha256:8a95c39c2a6406a632cbb88bea097e2d386490956b078e5b3b0c332a9588735e",
       "dedupeKey": "discovered:45c7216ef314a8279c6cdab083d027a3052014f81d80011332f45679edc58a31",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 0/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -16235,7 +16247,7 @@
       "contentHash": "sha256:cf1595a7a702a16e16f1c0fa3a841ab1ac3a657328fc76810f9c9e6e70b5ef62",
       "dedupeKey": "discovered:cf4827a24b284b09439c8a0791b581b95a9d13598c7ba334295832737a230abc",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -16253,7 +16265,7 @@
       "canonicalUrl": "https://event-us.kr/hrdkitanet/event/130425",
       "title": "[한국산업기술협회/무료교육] 생성형 AI를 활용한 PLC 제어 및 유지보수_7.27 (월)",
       "organization": "한국산업기술협회",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-10T08:33:38+00:00",
       "closesAt": "2026-07-24T01:00:00+00:00",
       "locations": [
@@ -16294,7 +16306,9 @@
         ]
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       }
     },
     "opp_8d7907904ffab02d2404": {
@@ -16333,7 +16347,7 @@
       "contentHash": "sha256:6a8966fb179441e931b434709707b62e06e39705d8597915b4feae3787e4b74a",
       "dedupeKey": "discovered:8d7907904ffab02d240466a57e795c4a006d8f3f115b4530b5e40c58c191711e",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -16387,7 +16401,7 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       },
       "verification": {
         "ok": true,
@@ -16444,7 +16458,7 @@
         "reason": "비개발 행사·기획 활동 제외"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_a0cde454f5369d345e81": {
@@ -16483,7 +16497,7 @@
       "contentHash": "sha256:4e867ac9cd0767fe2b2363ca0f20ead64a86ec23b14843f7ce80f0b779580309",
       "dedupeKey": "discovered:a0cde454f5369d345e818a78a48bb091f8c28d70ec756e1f0914ca6bf8b8e19c",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "DEFERRED",
@@ -16496,7 +16510,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/codepressohr/event/131208",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_104cbd3ea457d15126f0": {
@@ -16540,7 +16554,7 @@
       "contentHash": "sha256:a39e81f45ee312c060e88b46b27ba590d9b279d366e7e5c769767154538a6c0b",
       "dedupeKey": "updated:opp_104cbd3ea457d15126f0:sha256:a39e81f45ee312c060e88b46b27ba590d9b279d366e7e5c769767154538a6c0b",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "DEFERRED",
@@ -16553,7 +16567,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/kisia/event/131205",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_a8dbab720dfc5a4e24f1": {
@@ -16596,7 +16610,7 @@
       "contentHash": "sha256:021b384117d52b6e49c5517933f83065a232229536487034e68e2d7df3c72809",
       "dedupeKey": "updated:opp_a8dbab720dfc5a4e24f1:sha256:021b384117d52b6e49c5517933f83065a232229536487034e68e2d7df3c72809",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "DEFERRED",
@@ -16609,7 +16623,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/itagency/event/131201",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_6ea8bad77a85de7420d1": {
@@ -16653,7 +16667,7 @@
       "contentHash": "sha256:06c5efe2aefa766dd3cb8294bd45275eb7af978dd2becdd01b40ad2a3ecd19bf",
       "dedupeKey": "discovered:6ea8bad77a85de7420d1a1801a173a3d1b0105fc14358fc0acb33d2b9733033c",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -16704,7 +16718,7 @@
       "contentHash": "sha256:5900655df632e703513ac77bdeffb0878e76088310d7b3ebbec5c1f8e49737cd",
       "dedupeKey": "discovered:14b48cf4c25279f848fde6ad6547b0038ef53a7cdade93f93ba637bceb666ec2",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -16755,7 +16769,7 @@
       "contentHash": "sha256:25f8cbdd14d171a9b537a30b98d54f4a9b20c6a15eb75a51bab09146411e905d",
       "dedupeKey": "updated:opp_0b20b3ce92b9210d053a:sha256:25f8cbdd14d171a9b537a30b98d54f4a9b20c6a15eb75a51bab09146411e905d",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "DEFERRED",
@@ -16768,7 +16782,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/ozcoding/event/131153",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_cc68086ababd3db33ad1": {
@@ -16803,7 +16817,7 @@
       "contentHash": "sha256:0c6eec8a03ee35efe3da3344831e5ed05a5cfe68a4481eeb80be41946936c51b",
       "dedupeKey": "discovered:cc68086ababd3db33ad13a95aca713dfd8b4d1810e9fc1dabe977e1a16f16a5c",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -16849,7 +16863,7 @@
       "contentHash": "sha256:ad22e5c76dbc1a9f3e064725df326c3dfb673c2042f489c03ad02ca0c746cb25",
       "dedupeKey": "discovered:36f5a5f011ff1afa105a47c7bf3b3d0660e682affdcd4ba2f7f1452ee93d89f5",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -16896,7 +16910,7 @@
       "contentHash": "sha256:076ce4dfa2e09a5558c01966b100f7474d0d01288402422e3b9f5c11c57dff85",
       "dedupeKey": "discovered:944e5af225eb6ee6b8a71f7a0df339d0181c0bd4e90e31d0f35d81a9b30c56fa",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "DEFERRED",
@@ -16909,7 +16923,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/addinedu/event/131125",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_7666155ca6a49bd1b8a0": {
@@ -16944,7 +16958,7 @@
       "contentHash": "sha256:2ff2afd49bbee5e2eadb0a1891ed81f86a4d893ceec224e2f1ce6bbb66e8f630",
       "dedupeKey": "discovered:7666155ca6a49bd1b8a03f94730eb58ee4b9d3e66f518d399165b82c39ea61df",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -16997,7 +17011,7 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       },
       "verification": {
         "ok": true,
@@ -17054,7 +17068,7 @@
         "reason": "부트캠프·직업교육 과정 제외"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_95b377d3c6160bdfa375": {
@@ -17105,7 +17119,7 @@
         "reason": "부트캠프·직업교육 과정 제외"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       }
     },
     "opp_4a34a6b6f835666d5318": {
@@ -17154,7 +17168,7 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       },
       "verification": {
         "ok": true,
@@ -17211,7 +17225,7 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       },
       "verification": {
         "ok": true,
@@ -17261,7 +17275,7 @@
       "contentHash": "sha256:9a997aed493a6ce21d0984c1e491c0e089811fd3f04474c7fed97a2cf806c22c",
       "dedupeKey": "discovered:c5404b17a6a549aeb2a3aa846fc1210393aa3b375cdc57fe51f068b126880f9c",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "DEFERRED",
@@ -17274,7 +17288,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/aicoreedu/event/131076",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_41f78dd4b14a89f0ec53": {
@@ -17285,7 +17299,7 @@
       "canonicalUrl": "https://event-us.kr/oceanjob/event/131066",
       "title": "부산 소프트웨어 혁신 오픈 포럼",
       "organization": "마이스플랜즈",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-22T03:57:02+00:00",
       "closesAt": "2026-07-31T14:30:00+00:00",
       "locations": [
@@ -17325,7 +17339,9 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       },
       "verification": {
         "ok": true,
@@ -17342,7 +17358,7 @@
       "canonicalUrl": "https://event-us.kr/specter/event/131056",
       "title": "하반기 공채에 바로 적용할 수 있는 AI 도입",
       "organization": "스펙터",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-22T01:54:21+00:00",
       "closesAt": "2026-08-06T14:30:00+00:00",
       "locations": [],
@@ -17378,7 +17394,9 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       },
       "verification": {
         "ok": true,
@@ -17395,7 +17413,7 @@
       "canonicalUrl": "https://event-us.kr/goormict/event/131052",
       "title": "[수도권ICT] 평일 저녁 + 주말 하루, 생성형 AI 프로덕트 마스터 2기 모집",
       "organization": "ICT이노베이션스퀘어교육운영팀",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-22T01:10:22+00:00",
       "closesAt": "2026-08-12T14:59:00+00:00",
       "locations": [],
@@ -17426,7 +17444,9 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       },
       "verification": {
         "ok": true,
@@ -17476,7 +17496,7 @@
       "contentHash": "sha256:eb5a0b406bb0c2cc1fe838de8705c666258b3546f2e632bc79164107381ecab5",
       "dedupeKey": "updated:opp_267e92f442a8d7046de1:sha256:eb5a0b406bb0c2cc1fe838de8705c666258b3546f2e632bc79164107381ecab5",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "REJECTED",
@@ -17523,7 +17543,7 @@
       "contentHash": "sha256:4c34bf8ee6a428da5496f04daff0d73b523afcf073297a9b0f6f9051b899ecba",
       "dedupeKey": "discovered:bf2b4aba85b617a3269dc04d5f08390c2c326012c8bcbf3b99d251d0363555e8",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "DEFERRED",
@@ -17536,7 +17556,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/loopers/event/131180",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_4c4683fb4685da17fa93": {
@@ -17575,7 +17595,7 @@
       "contentHash": "sha256:2add8813aee84624efe35738a6dd2e3d614c71e6328fc364ca18b2e0674e27ae",
       "dedupeKey": "discovered:4c4683fb4685da17fa937da9dd2a771509395304aeee8f615fc54a73e3b3ca21",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -17621,7 +17641,7 @@
       "contentHash": "sha256:ee562b10d235ce42f4fe0654fdbeb25e91e6d84d07e9c87e6f96dd70314a3369",
       "dedupeKey": "discovered:5959eb70c1499ba1c559334723fbd2619dbb8a86077a8e30586e3214e7ed6d54",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -17670,7 +17690,7 @@
       "contentHash": "sha256:b1fd2150fde3b049b9b8abcfbe873e50da67c10ba089542d2956ea4f3afbd10d",
       "dedupeKey": "updated:opp_1f8ee915b04ed3b4df8f:sha256:b1fd2150fde3b049b9b8abcfbe873e50da67c10ba089542d2956ea4f3afbd10d",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "DEFERRED",
@@ -17683,7 +17703,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/swt/event/130975",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_45e6dd17570f8fa0e855": {
@@ -17727,7 +17747,7 @@
       "contentHash": "sha256:0ffe01f32b531a62e84de1a12e051d110bc1afe7451f3f477ae902f839a723b3",
       "dedupeKey": "discovered:45e6dd17570f8fa0e8555f8a91843eea8228304084ab4c647de99c7b3066ef2b",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -17745,7 +17765,7 @@
       "canonicalUrl": "https://event-us.kr/codepressohr/event/130862",
       "title": "코드프레소 [AX 실전] : 비개발자 AI 입문 5기",
       "organization": "박경화",
-      "status": "OPEN",
+      "status": "CLOSED",
       "publishedAt": "2026-07-20T01:49:13+00:00",
       "closesAt": "2026-07-24T04:00:00+00:00",
       "locations": [
@@ -17785,7 +17805,9 @@
         "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "lifecycle": {
-        "missingRuns": 2
+        "missingRuns": 3,
+        "closedAt": "2026-07-24T10:28:16.274Z",
+        "closeReason": "공식 출처에서 연속 미확인"
       },
       "verification": {
         "ok": true,
@@ -17835,7 +17857,7 @@
       "contentHash": "sha256:e4d47a038476403512c3299e389f41e77cf1db3363bd907d6b485e3ca83a585c",
       "dedupeKey": "updated:opp_1658dec60e37e433b801:sha256:e4d47a038476403512c3299e389f41e77cf1db3363bd907d6b485e3ca83a585c",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "review": {
         "status": "DEFERRED",
@@ -17848,7 +17870,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/landvaluelab/event/130755",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_a5180c7f4e481d08ae90": {
@@ -17892,11 +17914,11 @@
       "contentHash": "sha256:2e805d803e343ba3e1dcb4bd2dc6b4773a00eab322b9b405c615eec3e76136d4",
       "dedupeKey": "discovered:a5180c7f4e481d08ae90cd44cd70437769936179716513d7288c0a6f21211c98",
       "firstSeenAt": "2026-07-23T17:50:01.231Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 0/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -20648,11 +20670,11 @@
       "tags": [
         "IT/프로그래밍",
         "강연/세미나",
-        "자기개발",
-        "교육",
-        "정보보호",
-        "보안",
         "의료",
+        "보안",
+        "정보보호",
+        "교육",
+        "자기개발",
         "개발자 행사"
       ],
       "summary": "의료기기 보안 이슈로 고민하시는 모든 분들을 위한 교육",
@@ -20664,10 +20686,10 @@
         "developmentOutput": true,
         "platformDeveloperEvent": true
       },
-      "contentHash": "sha256:d6c748671f7d980e9c82064ef0c1372ee7978cacc7fc0051d9cf36e9079d9be6",
-      "dedupeKey": "updated:opp_ea16b45a8413c2f94f25:sha256:d6c748671f7d980e9c82064ef0c1372ee7978cacc7fc0051d9cf36e9079d9be6",
+      "contentHash": "sha256:b3ba69936bcbe74f0e308dbdcbc9d60e9d8803ab0c35421964b54d7771f7c4cd",
+      "dedupeKey": "updated:opp_ea16b45a8413c2f94f25:sha256:b3ba69936bcbe74f0e308dbdcbc9d60e9d8803ab0c35421964b54d7771f7c4cd",
       "firstSeenAt": "2026-07-24T01:09:18.440Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "UPDATED",
       "lifecycle": {
         "missingRuns": 0
@@ -20867,7 +20889,7 @@
       "contentHash": "sha256:2312ecfd57f3106598e4abf73f89013569f213282119e81f4c96353e14959b0a",
       "dedupeKey": "discovered:28aa0ae844a88888dcb3bd0f37edef9a82cbf6e290897bfc483a419530a24354",
       "firstSeenAt": "2026-07-24T03:40:26.516Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -20916,7 +20938,7 @@
       "contentHash": "sha256:ca1c915b65a20b9e4867cdacdf7b1876811d22054147658653c26669ef88cb17",
       "dedupeKey": "discovered:29f78bbd7e65d66ac6491d6f98eff3062e01f29971e1c9ff4b8117ec6f011534",
       "firstSeenAt": "2026-07-24T03:40:26.516Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -20958,7 +20980,7 @@
       "contentHash": "sha256:328d99b78b6b42bf4b90131e4fe5bf19fdb60c3162e61af440a993e298c676a8",
       "dedupeKey": "discovered:f204cf5ee44e58175b70d010da222a2d7256a38022f00f87d49f2ffd8c941882",
       "firstSeenAt": "2026-07-24T03:40:26.516Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -21005,7 +21027,7 @@
       "contentHash": "sha256:6c8b1ff649bb854c8089f4568115bf72249e41d1401fe68a63335ac1d0dbbf8b",
       "dedupeKey": "discovered:d91852f413b429d1a732da8fe5c1bc6ecc2f5ad0c8582cada4753fdbdcfd3c71",
       "firstSeenAt": "2026-07-24T03:40:26.516Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -21053,7 +21075,7 @@
       "contentHash": "sha256:c15d78cc67989faacd00efca6e53833066480609654eab5389f56ba08fd1eb81",
       "dedupeKey": "discovered:c951eb7d0c9212c816dab660314eb40351fe29a4489702386cd02ba5fd509d68",
       "firstSeenAt": "2026-07-24T03:40:26.516Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "DEFERRED",
@@ -21066,7 +21088,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/thelec/event/131221",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_aaa9a96a0d3c194b001c": {
@@ -21108,7 +21130,7 @@
       "contentHash": "sha256:2e149fe210323e23a63979d21cdd8973e248116b20f2dd31cea4f6afc034d5e5",
       "dedupeKey": "discovered:aaa9a96a0d3c194b001c0d4c60daaeac47c39276aa0183c3f2b3ee8e5cd79925",
       "firstSeenAt": "2026-07-24T04:53:44.626Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "REJECTED",
@@ -21171,11 +21193,11 @@
       "contentHash": "sha256:8092207d4610d060919b78067f4f8773417da0f1052b1ec2538e913d503800e9",
       "dedupeKey": "discovered:af10953ee8c9f2e0d6af48249da1a35edda506b55a257803db6508e49799cc3e",
       "firstSeenAt": "2026-07-24T04:53:44.626Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -21226,11 +21248,11 @@
       "contentHash": "sha256:c54a99a8e4f3047e295000191916244c13d19fc8f1680df45c0d7f1a1a8e2217",
       "dedupeKey": "discovered:d9836b695e8418e9f40b64a8ee7d6a11ad5a9df03ae087fa8afcb266a882a79a",
       "firstSeenAt": "2026-07-24T04:53:44.626Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
-        "status": "REJECTED",
-        "reason": "혜택 근거 1/8개"
+        "status": "PENDING_BENEFIT",
+        "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
       },
       "lifecycle": {
         "missingRuns": 0
@@ -21277,7 +21299,7 @@
       "contentHash": "sha256:8ffcfb6a604cef7cf79be0bc9f2ede0c69cd648997dd0552f26d8ea2a1846cdf",
       "dedupeKey": "discovered:7d90e35d2cd461bb8b2617cb7989c745ee9e3b636363caddd8388368f80e6380",
       "firstSeenAt": "2026-07-24T04:53:44.626Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "SENT",
@@ -21376,7 +21398,7 @@
       "lastSeenAt": "2026-07-24T04:53:44.626Z",
       "eventType": "DISCOVERED",
       "lifecycle": {
-        "missingRuns": 1
+        "missingRuns": 2
       },
       "review": {
         "status": "SENT",
@@ -21421,7 +21443,7 @@
       "contentHash": "sha256:faf071ea4469e062bf6978b9f8614091edeb2f2297da3f19a4f0f1aa3e7860e3",
       "dedupeKey": "discovered:96ff2f571ba2ec59286d899488f61962a48e59cb3cde474edb4e98d8d504accf",
       "firstSeenAt": "2026-07-24T04:53:44.626Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
       "review": {
         "status": "DEFERRED",
@@ -21434,7 +21456,7 @@
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/saltluxedu/event/131239",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_c649db1456f88d2e5d00": {
@@ -21476,14 +21498,14 @@
       "contentHash": "sha256:a70eec16214db260a9aacd56628488b111b779af34c73eb47d55bfaf62b11b23",
       "dedupeKey": "discovered:c649db1456f88d2e5d0020a8cf33caaaea2b56cd8073e05e2ff0917a1e8877c6",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "개발 결과물 행사 근거 없음"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_e616d42644dbcbad92c7": {
@@ -21520,14 +21542,14 @@
       "contentHash": "sha256:e23272a52e02a15120d533f156951cf610deaa0ba24f328bb7e0e86e8bbf0cd5",
       "dedupeKey": "discovered:e616d42644dbcbad92c7c61c2872baec22c9207209ac5f0a10822f40bd2d7621",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_266495f101fb0e5de22f": {
@@ -21589,14 +21611,14 @@
       "contentHash": "sha256:797d2ec28182348b734ac2c3b5358db1ebf70615246740517b49a275baa51a6d",
       "dedupeKey": "discovered:266495f101fb0e5de22f50a62897a6a3afd2025783e2329f6dcbefd12917642c",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 2/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_88c49694825927c610e6": {
@@ -21633,14 +21655,14 @@
       "contentHash": "sha256:6be53d09426d2ea4e34066afb7669aaf6fba5ffaafd3ae10ea89d06aac0b89d2",
       "dedupeKey": "discovered:88c49694825927c610e6dbb10011bc393e31f34cfaba13dff34f92431fd31b79",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "신입 또는 인턴 지원 가능 근거 없음"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_02b13d8f3ede72ecebcc": {
@@ -21707,14 +21729,14 @@
       "contentHash": "sha256:f6d0aff2a5313c1cd6ed18b9ae2f7b4cfd47895f4340f7bd25da4c4df7e7c83a",
       "dedupeKey": "discovered:02b13d8f3ede72ecebcc3cb729c521b52de38ec146b76cf60c6c994d33ae5466",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_931bb065f5a967bc6129": {
@@ -21756,14 +21778,14 @@
       "contentHash": "sha256:935709444904bb4c8e650daf9e84ed676f10acaff0cb068865d8ace3ac876d56",
       "dedupeKey": "discovered:931bb065f5a967bc6129a1280823b9165b1e9fc9eea47e371bf902e83cf47869",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_d53c196f6fe0f84b889e": {
@@ -21818,14 +21840,14 @@
       "contentHash": "sha256:47d2d57a5171dc7d2526e663092d8bd8b38b47aefcc40d65234c640bb6ee68a1",
       "dedupeKey": "discovered:d53c196f6fe0f84b889e43474a6a5bddd2ce76c67830c5dcafc6d2b2ba69e41e",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_67ee6597d2a29fb41244": {
@@ -21870,14 +21892,14 @@
       "contentHash": "sha256:ae98e187c2b321f9b3acedb8a98a587c1b5e810583a6e0d4e34e933fc73a35e1",
       "dedupeKey": "discovered:67ee6597d2a29fb4124466193eff4663ddc1a9dbc22073cb0baa884fff1575ef",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_78898a664f66dd72f718": {
@@ -21922,14 +21944,14 @@
       "contentHash": "sha256:a6a819b3fe3d27dcbdc447e7ec19f93e3c7df4764d03de5b15a72bb329617c2a",
       "dedupeKey": "discovered:78898a664f66dd72f718669b25156e0616889aa50a10f4e0f24780f909b67a0f",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_ce96666d0002abed4a47": {
@@ -21970,14 +21992,14 @@
       "contentHash": "sha256:a4bd64e6156041bd3e48658440d55322d91ce157a23afb5798a80a097ef45e5c",
       "dedupeKey": "discovered:ce96666d0002abed4a479ff536fcbb2b013765b1ad3475d1a4bc7fa5517251fa",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 2/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_de7a410830278c40a8ae": {
@@ -22022,14 +22044,14 @@
       "contentHash": "sha256:8bb31db15e91cafa861a5f652820688dd881843f159af9d61dfd4335c887ad43",
       "dedupeKey": "discovered:de7a410830278c40a8aed9c9baf0ed2dd099147cefa87351299c974ad0927a19",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_5d4b9bd4fec19cf88cc2": {
@@ -22100,14 +22122,14 @@
       "contentHash": "sha256:cea4d009480ff4cb5b85b12f525b83a88b5aea720d3b1b8995050fde604aea58",
       "dedupeKey": "discovered:5d4b9bd4fec19cf88cc299164c64c10d4283cbd3ab9276ed2f1223cffe2ca81e",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_ca175d60404923170907": {
@@ -22153,14 +22175,14 @@
       "contentHash": "sha256:ed12619f92962befca8cb4101fefef5ba20792deb6078ddf20449e8272926906",
       "dedupeKey": "discovered:ca175d60404923170907e757d4d5d91c3036ec13d24e4e48dfcac0e72501aae7",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_17ed1b10f5133fee89b2": {
@@ -22204,14 +22226,14 @@
       "contentHash": "sha256:957a1c04850c608ea711b9f4085914bb9b4bb5216ba6a8c2f9add00438504c4c",
       "dedupeKey": "discovered:17ed1b10f5133fee89b25238aeadc3cb7b65b8c80dc93c239997e10497e9d04d",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_0db51e9526bd0af3d1a6": {
@@ -22252,14 +22274,14 @@
       "contentHash": "sha256:4da650a8a77d04e513bf9480f7e17a61dc52db3c225401ea37a98c0a8b84835c",
       "dedupeKey": "discovered:0db51e9526bd0af3d1a602a00cdd703f9e0e3941afb153261337e99bc1f1a122",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_2a7f19a4c180fee32785": {
@@ -22300,14 +22322,14 @@
       "contentHash": "sha256:537599463daee9a0759d5b561a8f28495ef76f6f8db8fd8d04e739c0e6625a45",
       "dedupeKey": "discovered:2a7f19a4c180fee327858545166eb9def9eb75c62bb1ad480924149090fcd2d9",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_8d8e3e788b534e8e9bcf": {
@@ -22361,14 +22383,14 @@
       "contentHash": "sha256:4d79449ada0df6ff14e1a5f3ea62afcdab2f570f5f965a7909c99adf239db573",
       "dedupeKey": "discovered:8d8e3e788b534e8e9bcf235dc8c089dde0de9c526e86507a28686afdc06c8dfc",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_159afa766dfb32d1616f": {
@@ -22415,14 +22437,14 @@
       "contentHash": "sha256:b0ca2a957fd5187e848dd912706d5b505f82f9e6dab1a3bbaf848f44c0248b38",
       "dedupeKey": "discovered:159afa766dfb32d1616fd8178a070eb185db7df42b75d65b98d95a629c28e015",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_4fd253165fc07142aeda": {
@@ -22470,20 +22492,14 @@
       "contentHash": "sha256:d6b50b0b51a52907b7b4566d94bd8c60c7bc0d81c330d64b51120c588827ea53",
       "dedupeKey": "discovered:4fd253165fc07142aedadcb7a231cfbdeab6a6e00ac9d860ef601ee053964fce",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "SENT",
         "reason": "개발 결과물을 만드는 행사"
       },
-      "verification": {
-        "ok": true,
-        "status": 200,
-        "finalUrl": "https://linkareer.com/activity/337685",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_7f2897033617eb8bdaa4": {
@@ -22527,14 +22543,14 @@
       "contentHash": "sha256:ac230ba34ad6fd30177ae662c62044d282224753e0391285ebd58ef63b58f36e",
       "dedupeKey": "discovered:7f2897033617eb8bdaa444a22d6c40a5511bae0bb262975a3ae8c4ec942f4fad",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_4018c75ad53827a8a683": {
@@ -22581,14 +22597,14 @@
       "contentHash": "sha256:dd2542f6fe9b1b159988dcc90d3c8cb02aa607c22be9d449b7c3f8b89fe5d3c3",
       "dedupeKey": "discovered:4018c75ad53827a8a683d459db4e672756cede5a593bc8b23e429f020992682a",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_1d2c4355005656127a6f": {
@@ -22635,14 +22651,14 @@
       "contentHash": "sha256:908753a9705f4d56a80ac4ed0062fde4eac200e8fbc4110e17ffe4761be423f0",
       "dedupeKey": "discovered:1d2c4355005656127a6faf620cdc5564eb4f7b989658b837c5991b5170b5fe0e",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_96ebecd3d4226d8a036f": {
@@ -22681,20 +22697,14 @@
       "contentHash": "sha256:d8c8732978bfe09a45b8b8e83095efd42b372f2e8f4c83f2ef083a8f25a3f409",
       "dedupeKey": "discovered:96ebecd3d4226d8a036fd2b092a372a0db124d5bebc0cb127a612c4318a27abf",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "SENT",
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
-      "verification": {
-        "ok": true,
-        "status": 200,
-        "finalUrl": "https://event-us.kr/kea01/event/131275",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_2d2f15a696db739fdedf": {
@@ -22731,14 +22741,14 @@
       "contentHash": "sha256:aafcc830c32c37b241074ea8dad7e9ffe14faf1c697721538d5f017a0ea47e38",
       "dedupeKey": "discovered:2d2f15a696db739fdedfdbde5bdcfc3976e845c07926a8f9c8d4558368f8ea64",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "부트캠프·직업교육 과정 제외"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_81dcfadee1e1f266a255": {
@@ -22763,11 +22773,11 @@
       "tags": [
         "IT/프로그래밍",
         "강연/세미나",
-        "내일배움카드교육",
-        "취업교육",
-        "it교육",
-        "AI교육",
         "국비지원",
+        "AI교육",
+        "it교육",
+        "취업교육",
+        "내일배움카드교육",
         "개발자 행사"
       ],
       "summary": "글로벌 IT 혁신 기업 IBM 과 오픈소스 소프트웨어 리더 Red Hat의 노하우로 공동으로 설계한 실무 중심 커리큘럼!",
@@ -22779,11 +22789,11 @@
         "developmentOutput": true,
         "platformDeveloperEvent": true
       },
-      "contentHash": "sha256:b6806b6b246bb69dcda79889d7229c3c9ad84c05e6bc448b2e11b213419c1c7d",
-      "dedupeKey": "discovered:81dcfadee1e1f266a25503de65b3dd2dab04b74d4e0f9119f036a42bb33f0600",
+      "contentHash": "sha256:b21e1d3a21e7d822ede3ec634e54f8a7ea4ff514951b1d44bd0da252fc9fb8a0",
+      "dedupeKey": "updated:opp_81dcfadee1e1f266a255:sha256:b21e1d3a21e7d822ede3ec634e54f8a7ea4ff514951b1d44bd0da252fc9fb8a0",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
-      "eventType": "DISCOVERED",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "UPDATED",
       "lifecycle": {
         "missingRuns": 0
       },
@@ -22863,11 +22873,11 @@
       "tags": [
         "IT/프로그래밍",
         "강연/세미나",
-        "포용적기술",
-        "사회적기업",
-        "장애인",
-        "사회공헌",
         "AI기술",
+        "사회공헌",
+        "장애인",
+        "사회적기업",
+        "포용적기술",
         "개발자 행사"
       ],
       "summary": "장애인을 위해 만든 기술이, 결국 모두의 기술이 됩니다.",
@@ -22879,23 +22889,17 @@
         "developmentOutput": true,
         "platformDeveloperEvent": true
       },
-      "contentHash": "sha256:b84587ca8fe063988ee9d6091f88fc654dbf667ff8510a649c26884135cc838b",
+      "contentHash": "sha256:997775acd51cdd0becc35ce13c6ef162c48777d0153ae9f352f6e772cc8de140",
       "dedupeKey": "discovered:1dfaacf155a3308fb358817ca0fb6034e36f655c0e0260efd108b0d27f735b84",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "SENT",
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
-      "verification": {
-        "ok": true,
-        "status": 200,
-        "finalUrl": "https://event-us.kr/nccf/event/131079",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_391a752fc10b689a4374": {
@@ -22992,14 +22996,14 @@
       "contentHash": "sha256:6b324b66fb02637ff1437f21ed5c9a03a34ca469a3e11b317b084f5469bac80c",
       "dedupeKey": "discovered:9fbaf636fbaa98d4351a35e9f18c9c96946fcfea335d20647c065d330e95d3e3",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "REJECTED",
+        "reason": "혜택 근거 1/8개"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "PENDING_BENEFIT",
-        "reason": "비용·기간 대비 혜택 추가 심사 필요"
       }
     },
     "opp_36c4c5fa3c385409e83d": {
@@ -23400,14 +23404,14 @@
       "contentHash": "sha256:a72111901ceedf18cff7e70b7d90d0363942c42038d020698084e370679fc81a",
       "dedupeKey": "discovered:e4b34e26a98a3cffe914f5e83964d31d302f5aa40bbbf2e8e003ae5cdbbeb659",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "부트캠프·직업교육 과정 제외"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_6bb04735c893a7024161": {
@@ -23432,11 +23436,11 @@
       "tags": [
         "커리어",
         "강연/세미나",
-        "GPT",
-        "AI",
-        "데이터분석",
-        "데이터활용",
         "AI활용",
+        "데이터활용",
+        "데이터분석",
+        "AI",
+        "GPT",
         "개발자 행사"
       ],
       "summary": "강연/세미나 · 서울 금천구",
@@ -23448,23 +23452,17 @@
         "developmentOutput": true,
         "platformDeveloperEvent": true
       },
-      "contentHash": "sha256:bbc9acd3b16c08815e671a1c29b815959c7fbd9185789a5bd39a481b90876818",
+      "contentHash": "sha256:026cb070c6073b7199000819b28dd487cded113688f994bfd414b799d2155720",
       "dedupeKey": "discovered:6bb04735c893a70241615ddd1ae70071787795297be52ba2ea94d55229278d94",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "SENT",
         "reason": "개발자 포럼·컨퍼런스·강연·세미나"
       },
-      "verification": {
-        "ok": true,
-        "status": 200,
-        "finalUrl": "https://event-us.kr/hrdkitanet/event/131276",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_b79787b4921b608f0846": {
@@ -23503,14 +23501,14 @@
       "contentHash": "sha256:a60573e654817c962c34a56889cf1f87eeb4bd783f0e4a87369c3b5171274772",
       "dedupeKey": "discovered:b79787b4921b608f0846d55962451254b02fdb0a34d6603b4099534c8aaadf0c",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "부트캠프·직업교육 과정 제외"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_35eaf9232b0a56c8e9e9": {
@@ -23545,20 +23543,20 @@
       "contentHash": "sha256:dcff9548d779ee56495d215a2ce4e52e48022a3b53f4017f50140d33cb727b62",
       "dedupeKey": "discovered:35eaf9232b0a56c8e9e96b3e69434a9c594c457b4fd3d9cd56281ffcf99cc8f2",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
+      "review": {
+        "status": "SENT",
+        "reason": "개발자 포럼·컨퍼런스·강연·세미나"
+      },
       "lifecycle": {
         "missingRuns": 0
-      },
-      "review": {
-        "status": "DEFERRED",
-        "reason": "EXTERNAL_ACTIVITY 실행당 발송 상한 3건 초과"
       },
       "verification": {
         "ok": true,
         "status": 200,
         "finalUrl": "https://event-us.kr/dubiz/event/131270",
-        "checkedAt": "2026-07-24T07:41:25.138Z"
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     },
     "opp_f1f4f91d9573f321be88": {
@@ -23602,14 +23600,14 @@
       "contentHash": "sha256:ac2298516f670fcbf0eaacd03854a6f5b532a8e0a3eff361764f803474cf679b",
       "dedupeKey": "discovered:f1f4f91d9573f321be88d35d407ace92fd6aef5f6f82c7c0a71a0c5472ef91a0",
       "firstSeenAt": "2026-07-24T07:41:25.138Z",
-      "lastSeenAt": "2026-07-24T07:41:25.138Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
       "eventType": "DISCOVERED",
-      "lifecycle": {
-        "missingRuns": 0
-      },
       "review": {
         "status": "REJECTED",
         "reason": "비개발 행사·기획 활동 제외"
+      },
+      "lifecycle": {
+        "missingRuns": 0
       }
     },
     "opp_81cc1d11f9122ba0bb15": {
@@ -23651,7 +23649,7 @@
       "lastSeenAt": "2026-07-24T07:41:25.138Z",
       "eventType": "DISCOVERED",
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       },
       "review": {
         "status": "DEFERRED",
@@ -23703,7 +23701,7 @@
       "lastSeenAt": "2026-07-24T07:41:25.138Z",
       "eventType": "DISCOVERED",
       "lifecycle": {
-        "missingRuns": 0
+        "missingRuns": 1
       },
       "review": {
         "status": "DEFERRED",
@@ -23914,6 +23912,955 @@
       "review": {
         "status": "SENT",
         "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3758b8710440c841c46f": {
+      "id": "opp_3758b8710440c841c46f",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337927",
+      "canonicalUrl": "https://www.dshrd.or.kr/course_details.html?id=563",
+      "title": "[부산시] 국제물류·무역 (국제무역사) 교육 안내",
+      "organization": "동성인재개발교육원",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:31:54.000Z",
+      "closesAt": "2026-07-28T14:59:59.999Z",
+      "locations": [
+        "부산"
+      ],
+      "eligibility": [],
+      "tags": [
+        "자격증",
+        "취업/이직",
+        "반도체",
+        "기타",
+        "비즈니스",
+        "IoT · 임베디드 · 반도체",
+        "기타",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337927",
+        "https://www.dshrd.or.kr/course_details.html?id=563"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337927",
+        "originalUrl": "https://www.dshrd.or.kr/course_details.html?id=563",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:63268a2daccafaf502c871be7e325153e60e2f41d0ae5be79e5e8f9aea7dd545",
+      "dedupeKey": "discovered:3758b8710440c841c46f0dc3965ce2fa4afbe328c2aafa0abba4789656f63570",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_4151139ca142a5756194": {
+      "id": "opp_4151139ca142a5756194",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337926",
+      "canonicalUrl": "https://ai-iot-embedded-ms.vercel.app/",
+      "title": "국내 유일 MCU 임베디드&펌웨어 국비지원 교육 부트캠프 [기숙사 지원]",
+      "organization": "한국직업능력교육원",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:20:14.000Z",
+      "closesAt": "2026-08-24T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "임베디드",
+        "IoT",
+        "로보틱스",
+        "반도체",
+        "IoT · 임베디드 · 반도체",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337926",
+        "https://ai-iot-embedded-ms.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337926",
+        "originalUrl": "https://ai-iot-embedded-ms.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:63a847a98fd07ad9ee21654c891fddffe84faf810ad889eecdec867745d11fc2",
+      "dedupeKey": "discovered:4151139ca142a575619445ccc3096f8e3be16e052be5bf047148e023fe051ac6",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_049ca87606d65fd401f2": {
+      "id": "opp_049ca87606d65fd401f2",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337922",
+      "canonicalUrl": "https://smuniverse.vercel.app/",
+      "title": "[SM UNIVERSE] 버츄얼 콘텐츠 IT개발자 교육_비전공자 전문 국비교육",
+      "organization": "SM Universe",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:11:27.000Z",
+      "closesAt": "2026-08-20T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "게임 개발",
+        "백엔드 개발",
+        "프론트엔드 개발",
+        "모바일 앱 개발",
+        "컴퓨터 공학/SW 엔지니어링",
+        "프로그래밍",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337922",
+        "https://smuniverse.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337922",
+        "originalUrl": "https://smuniverse.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:8b2358ca0efe77f9fbe75900bb7c623657f92c1d07769cc94a18a47d0d9420f8",
+      "dedupeKey": "discovered:049ca87606d65fd401f2537078549ea3e143d7c4f53aa67dfe0c8f4f83d52a9e",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_4ec51c8e9c201ddcaced": {
+      "id": "opp_4ec51c8e9c201ddcaced",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337921",
+      "canonicalUrl": "https://kt-cloud-tech-up-full-stack-rbwm.vercel.app/",
+      "title": "KT클라우드 부트캠프 [클라우드 인프라/풀스택 개발] 국비지원 '온라인 교육'",
+      "organization": "kt cloud",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:08:05.000Z",
+      "closesAt": "2026-07-31T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "DevOps/Infra",
+        "프론트엔드 개발",
+        "모바일 앱 개발",
+        "컴퓨터 공학/SW 엔지니어링",
+        "백엔드 개발",
+        "클라우드",
+        "인프라",
+        "보안",
+        "데브옵스",
+        "프로그래밍",
+        "클라우드 · 보안",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337921",
+        "https://kt-cloud-tech-up-full-stack-rbwm.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337921",
+        "originalUrl": "https://kt-cloud-tech-up-full-stack-rbwm.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:b4885bd1c1bea755ead043656b21b048d9f3f1a280fa02f47d6c6d6e6a235af7",
+      "dedupeKey": "discovered:4ec51c8e9c201ddcacedffe34d93f787d0f703cf61b5ab25415e81dac4d26894",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_45929fec7faf979b62c6": {
+      "id": "opp_45929fec7faf979b62c6",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337920",
+      "canonicalUrl": "https://gr.tjoeun.co.kr/lecture/7297",
+      "title": "★[AI Shift Track] AI 서비스 개발자 과정★",
+      "organization": "더조은컴퓨터아카데미 구로캠퍼스",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:06:05.000Z",
+      "closesAt": "2026-08-18T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "컴퓨터 공학/SW 엔지니어링",
+        "딥러닝",
+        "AI/ML",
+        "데이터분석",
+        "프로그래밍",
+        "인공지능",
+        "데이터사이언스"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337920",
+        "https://gr.tjoeun.co.kr/lecture/7297"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337920",
+        "originalUrl": "https://gr.tjoeun.co.kr/lecture/7297",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:4b05a58bd4394db685db1776ca6c54e47603eacafad33e98e68eef91d7522e95",
+      "dedupeKey": "discovered:45929fec7faf979b62c687acb7cad1499476c320189c97bfb5c6703455ab3023",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_e9a400b4307825837664": {
+      "id": "opp_e9a400b4307825837664",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337917",
+      "canonicalUrl": "https://hyundai-rotem-ai-sy.vercel.app/",
+      "title": "현대로템 방산+AI부트캠프[국방기술학회 이사장 채용추천서] 수료자 전원 제공",
+      "organization": "현대로템",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:03:01.000Z",
+      "closesAt": "2026-07-31T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "데이터분석",
+        "데이터엔지니어링",
+        "머신러닝",
+        "AI/ML",
+        "딥러닝",
+        "컴퓨터비전",
+        "자연어처리",
+        "데이터사이언스",
+        "인공지능",
+        "채용연계형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337917",
+        "https://hyundai-rotem-ai-sy.vercel.app/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337917",
+        "originalUrl": "https://hyundai-rotem-ai-sy.vercel.app/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:f0a8287a9e18224bf5587684f823a2b8c5cc60f0ebfdc5fe9976dd4a439aaa65",
+      "dedupeKey": "discovered:e9a400b43078258376647d894731f61fc9adc1b71b09dcdd69b38d5c4e5e4770",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_057add82dfdb8d7b8536": {
+      "id": "opp_057add82dfdb8d7b8536",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337916",
+      "canonicalUrl": "https://linkareer.com/activity/337916",
+      "title": "2026 KOICA 공공데이터 활용 교육",
+      "organization": "한국국제협력단",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:02:02.000Z",
+      "closesAt": "2026-07-27T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "데이터분석",
+        "AI/ML",
+        "데이터사이언스"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337916"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337916",
+        "originalUrl": "https://linkareer.com/activity/337916",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:b48bb8896ff57c16a9fed56151e7bb6ca170b8fa4ee685c51b5917e2bdb8d619",
+      "dedupeKey": "discovered:057add82dfdb8d7b8536e451b73acfb46b7089db0614218bbd51e452b1efd97c",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_d5a30f42e3f29aa8b742": {
+      "id": "opp_d5a30f42e3f29aa8b742",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337912",
+      "canonicalUrl": "https://career.suwon.ac.kr/",
+      "title": "2026년 2학기 반도체 공정교육",
+      "organization": "수원대학교",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T06:48:47.000Z",
+      "closesAt": "2026-08-14T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "반도체",
+        "IoT · 임베디드 · 반도체"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337912",
+        "https://career.suwon.ac.kr/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337912",
+        "originalUrl": "https://career.suwon.ac.kr/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:86ded3c9f52f3d5a92123b7041f5f8472253696913fdc6eb51da4263b04ec0ae",
+      "dedupeKey": "discovered:d5a30f42e3f29aa8b742215de79aa9d3b640147cafee57eaf9bee2670c5a80db",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_30301a787f5bb9add449": {
+      "id": "opp_30301a787f5bb9add449",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337908",
+      "canonicalUrl": "https://www.newteamz.com/",
+      "title": "[의왕시 청년성장프로젝트] 일잘러온보딩_6기_AI 활용 PPT 제작",
+      "organization": "뉴팀즈(주)",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T06:36:56.000Z",
+      "closesAt": "2026-08-17T14:59:59.999Z",
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "취업/이직",
+        "PPT/보고서",
+        "ChatGPT 활용",
+        "엑셀/VBA/업무자동화",
+        "기타",
+        "비즈니스",
+        "업무생산성",
+        "기타"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337908",
+        "https://www.newteamz.com/"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337908",
+        "originalUrl": "https://www.newteamz.com/",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": true
+      },
+      "contentHash": "sha256:08b6dd4b6706592c28667b8119ff8afe0d4b6fd15a7fac67eaccc823893abaae",
+      "dedupeKey": "discovered:30301a787f5bb9add4499d68d7b3673db3c72dc0deec6b0a943366a99a78a112",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_98d2fa2606814ea07242": {
+      "id": "opp_98d2fa2606814ea07242",
+      "type": "EDUCATION",
+      "sourceId": "linkareer",
+      "externalId": "337905",
+      "canonicalUrl": "https://linkareer.com/activity/337905",
+      "title": "[콘텐츠 크리에이티브 콘서트 일러스트&인스타툰 특집] “스크롤을 멈추게 하는 공감의 힘, '기억에 남는 콘텐츠'의 비밀”",
+      "organization": "인천콘텐츠코리아랩",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T06:28:21.000Z",
+      "closesAt": "2026-08-08T14:59:59.999Z",
+      "locations": [
+        "지역 제한없음"
+      ],
+      "eligibility": [],
+      "tags": [
+        "2D/그래픽/브랜딩",
+        "콘텐츠마케팅",
+        "캐릭터일러스트",
+        "웹툰/웹소설",
+        "디자인",
+        "기획 · 마케팅",
+        "일러스트",
+        "UX/UI",
+        "3D/건축",
+        "PM/PO/기획",
+        "디지털마케팅",
+        "퍼포먼스마케팅",
+        "CRM마케팅",
+        "브랜드마케팅",
+        "취미드로잉",
+        "체험형"
+      ],
+      "summary": "DAY · 지원 내용은 원문 확인",
+      "summaryEvidence": [
+        "https://linkareer.com/activity/337905"
+      ],
+      "attributes": {
+        "listingUrl": "https://linkareer.com/activity/337905",
+        "originalUrl": "https://linkareer.com/activity/337905",
+        "sourcePriority": 100,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "requiresBenefitReview": true,
+        "freeOrFunded": false,
+        "trustedOrganizer": true,
+        "portfolioProject": false
+      },
+      "contentHash": "sha256:53dbd613696dba53421ced41d880c2f71458db2197b95c74c977f52c9f0d8334",
+      "dedupeKey": "discovered:98d2fa2606814ea0724274765e09ddcdf7f296d2a71ffdd6466a02b46335034e",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "PENDING_BENEFIT",
+        "reason": "비용·기간 대비 혜택 추가 심사 필요"
+      }
+    },
+    "opp_017635ed1adf26da54a7": {
+      "id": "opp_017635ed1adf26da54a7",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "campuspick",
+      "externalId": "35210",
+      "canonicalUrl": "https://forms.gle/9BTJ2rkmy3i4oqS77",
+      "title": "[미래내일 일경험] 우수기업과 함께하는 8주 실무 프로젝트 참여자 모집",
+      "organization": "대한상공회의소",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:50:59.000Z",
+      "closesAt": "2026-08-09T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "대외활동",
+        "개발"
+      ],
+      "summary": "📢 대외활동 찾고 있다면 지금이 기회! 8주만에 스펙 말고 “실무 경험” 만들어갈 사람 🙌 고용노동부와 함께하는 🔥 2026년 미래내일 일경험 사업 참여자 모집 🔥 숨고 · NC AI · 샌드박스 · SM유니버스 등 국내/글로벌 기업과 함께하는 진짜 실무 프로젝트 OPEN 🚀 ✔ 포트폴리오 제작 ✔ 현직 기업 멘토 피드백 ✔ 실무 기반 팀 프로젝트 ✔ 최대 260만원 지원 🗓 모집 기간 ~ 2026.08.09(일) 23:59 📚 프로그램 일정 ▪ 사전직무교육(광고마케팅 | 숨",
+      "summaryEvidence": [
+        "https://www.campuspick.com/activity/view?id=35210",
+        "https://forms.gle/9BTJ2rkmy3i4oqS77"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/activity/view?id=35210",
+        "originalUrl": "https://forms.gle/9BTJ2rkmy3i4oqS77",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:299742f7b3c2077513db49f63a89d7fd3e2c4ba47df8fa5bcea1457843ece945",
+      "dedupeKey": "discovered:017635ed1adf26da54a7ec5398a435458aae38a466e5c4104c32fb523fab91c3",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "명시적인 개발 결과물 근거 없음"
+      }
+    },
+    "opp_1a55220273e1e7cb940a": {
+      "id": "opp_1a55220273e1e7cb940a",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "campuspick",
+      "externalId": "35203",
+      "canonicalUrl": "https://www.issi.or.kr/sub/common_board.asp?ptype=view&num=34964&mNo=MA010000000&path_url=/sub/common_board.asp",
+      "title": "[가좌청소년센터] 「대학생과 함께하는 진로멘토링」 대학생 멘토 모집",
+      "organization": "인천광역시 서해구시설관리공단 가좌청소년센터",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:39:03.000Z",
+      "closesAt": "2026-08-06T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "대외활동",
+        "개발"
+      ],
+      "summary": "가좌청소년센터에서 제4대 청소년관장 공약사업의 일환으로 「대학생과 함께하는 진로멘토링」을 운영하고자 대학생 멘토를 모집하오니 관심있는 대학생들의 많은 참여바랍니다! ○ 일 시 : 2026. 8. 29(토) 10:00~12:00(2시간) ○ 장 소 : 가좌청소년센터(인천 서해구 원적로 7번길 12) ○ 대 상 : 13~18세 청소년(중1~고3) 전공별 10명 ○ 내 용 : 학과 소개, 학과 멘토링(진로설계 노하우, 대학교 생활, 학과 졸업 후 진로, 질의응답 등) ○ 신청자격 : 전공에 대한 이",
+      "summaryEvidence": [
+        "https://www.campuspick.com/activity/view?id=35203",
+        "https://www.issi.or.kr/sub/common_board.asp?ptype=view&num=34964&mNo=MA010000000&path_url=/sub/common_board.asp"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/activity/view?id=35203",
+        "originalUrl": "https://www.issi.or.kr/sub/common_board.asp?ptype=view&num=34964&mNo=MA010000000&path_url=/sub/common_board.asp",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:5ac4a999aaf011f69b79f3cafae3405ed2022d0136292a372050d71d15e0eb00",
+      "dedupeKey": "discovered:1a55220273e1e7cb940a9c2629b0e55df265d8ea3c80c11b8300fce1213c5594",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "명시적인 개발 결과물 근거 없음"
+      }
+    },
+    "opp_0a938f86a5cd24f6bc85": {
+      "id": "opp_0a938f86a5cd24f6bc85",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35213",
+      "canonicalUrl": "https://www.modoohorse.com/",
+      "title": "「모두의 말문화」 대국민 정책제안",
+      "organization": "한국마사회",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:54:13.000Z",
+      "closesAt": "2026-08-17T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "2026년 한국마사회 「모두의 말문화」 대국민 정책제안 ● 공모주제 두 가지 주제 중 한 가지 선택하여 제출 1번 ‘가고 싶은 경마공원’ 조성을 위한 아이디어 제안 2번 ‘국민의 일상 속 말 문화’ 확산을 위한 아이디어 제안 ● 참가자격 - 대한민국 국민 누구나 : 개인 또는 팀(대표자 포함 4인 이하 단체)으로 참여 가능 : 단 주최기관인 한국마사회 임직원의 경우 참여 불가(참가 시 수상제외) - 다음과 같은 사항에 해당하는 자는 참가 제한됨",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35213",
+        "https://www.modoohorse.com/"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35213",
+        "originalUrl": "https://www.modoohorse.com/",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:f50a30624a147a84b1572b8a010b609108dabfcab75693669bb26ccc4a2ac6c5",
+      "dedupeKey": "discovered:0a938f86a5cd24f6bc85baa2884c6ef650a98ee95ac05cf0fa0aa359b7dd9c35",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "개발 결과물 행사 근거 없음"
+      }
+    },
+    "opp_a47ee4fa18c97e76abca": {
+      "id": "opp_a47ee4fa18c97e76abca",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35211",
+      "canonicalUrl": "https://www.ihalla.com/read.php3?aid=1780844400786796012",
+      "title": "[연장접수]제33회 한라환경대상",
+      "organization": "제주특별자치도/한라일보사",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:52:22.000Z",
+      "closesAt": "2026-07-31T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "2026 제33회 한라환경대상 공모전 연장 접수 ○ 공모개요 - 환경보전운동의 생활화, 환경보전운동을 범국민적 실천운동으로 확산‧정착 - 전 국민의 친환경‧녹색성장에 대한 관심 유도 - 자원의 절약 및 자원의 재활용 추구, 환경과학기술개발 등 도모 - 기업의 ESG 경영 분위기 확산, 이를 통한 기업의 경쟁력 강화 - 기관‧단체, 기업체 및 기관, 학교, 개인 및 공무원 등을 대상으로 시상함으로써 이들의 사기를 진작시키고 환경운동의 활성화 도모",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35211",
+        "https://www.ihalla.com/read.php3?aid=1780844400786796012"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35211",
+        "originalUrl": "https://www.ihalla.com/read.php3?aid=1780844400786796012",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:c58fb45bb1301819a87eb37bd12a3e0bbca0df60ae645b973b11f8eb127ca32d",
+      "dedupeKey": "discovered:a47ee4fa18c97e76abca3ced67a029227bf49d00d426f78aeea74b02f03f4349",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "개발 결과물 행사 근거 없음"
+      }
+    },
+    "opp_d312ea44986181accf06": {
+      "id": "opp_d312ea44986181accf06",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35208",
+      "canonicalUrl": "https://www.jlcc.or.kr/business/108",
+      "title": "2026년 전주 로컬브랜딩 아이디어 해커톤 참가팀 모집",
+      "organization": "전주소통협력센터",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:46:37.000Z",
+      "closesAt": "2026-08-21T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "전주의 로컬아이템을 브랜드로 만들어 낼 분을 모집합니다. 생각만 했던 아이디어를 집중 빌드업으로 완성하고 총 상금 200만 원의 주인공이 되어 보세요! Ο 참가대상: 전주 지역자원을 활용한 아이디어가 있는 누구나 Ο 모집규모: 총 15팀 모집(2~5인 팀 구성) Ο 지원내용 - 온라인 멘토링 - 최종 피칭을 통한 시상 (총 상금 200만 원) Ο 행사일시: 2026년 9월 17일(목) 10:00 ~ 17:30 - 온라인 멘토링: 2026년 8월 31일(월) ~ 9월 16일(수) Ο",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35208",
+        "https://www.jlcc.or.kr/business/108"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35208",
+        "originalUrl": "https://www.jlcc.or.kr/business/108",
+        "sourcePriority": 80,
+        "developmentOutput": true,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:abea15104e55c2ce82c94dd2fff06e4234595ae50eec24f6951bee0e307eaaae",
+      "dedupeKey": "discovered:d312ea44986181accf06e3fd1b2616f683b3d16276dcc86c190ab7d311a37dcd",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "개발 결과물을 만드는 행사"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.jlcc.or.kr/business/108",
+        "checkedAt": "2026-07-24T10:28:16.274Z"
+      }
+    },
+    "opp_83afbd5828551d585139": {
+      "id": "opp_83afbd5828551d585139",
+      "type": "HACKATHON",
+      "sourceId": "campuspick",
+      "externalId": "35206",
+      "canonicalUrl": "https://www.hnyouth.kr/sub/community/notice?category&postNo=189",
+      "title": "2026 ‘0924 영상제’ 영상 공모전 | 최고 상금 100만 원!",
+      "organization": "하남시청소년수련",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:43:54.000Z",
+      "closesAt": "2026-10-17T00:00:00.000Z",
+      "locations": [
+        "null"
+      ],
+      "eligibility": [
+        "지원 자격 상세 확인"
+      ],
+      "tags": [
+        "공모전",
+        "개발"
+      ],
+      "summary": "1. 공모 소개 0924 영상제란? 0924 영상제는 청소년(9세~24세)의 권리와 복지, 일상 등 다양한 이야기를 영상으로 표현하는 국민 누구나 참여 가능한 공모전입니다. 2. 공모 주제 (택1) 1) 청소년 권리 어디까지 알고 있니? - 0924의 의미를 알리고, 청소년의 권리와 제도, 복지에 대해 알려주세요. 2) Show Your 0924! 너의 0924를 보여줘! - 청소년의 일상, 생각, 권리, 재능, 도전 등 청소년다운 나만의 이야기를 자유롭게 보여주세요.",
+      "summaryEvidence": [
+        "https://www.campuspick.com/contest/view?id=35206",
+        "https://www.hnyouth.kr/sub/community/notice?category&postNo=189"
+      ],
+      "attributes": {
+        "listingUrl": "https://www.campuspick.com/contest/view?id=35206",
+        "originalUrl": "https://www.hnyouth.kr/sub/community/notice?category&postNo=189",
+        "sourcePriority": 80,
+        "developmentOutput": false,
+        "verifiedDevelopmentActivity": false,
+        "platformDeveloperEvent": false,
+        "immediateCategory": false,
+        "financialSupport": true
+      },
+      "contentHash": "sha256:f31c92b41b846c167eab62e8988beba872dcbc43038c3140042b8f930808f264",
+      "dedupeKey": "discovered:83afbd5828551d585139c4c93a45d90cf70bdeb7660552c69ab336eaacb3bb5d",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "REJECTED",
+        "reason": "개발 결과물 행사 근거 없음"
+      }
+    },
+    "opp_40a8bf1bfd699fa3287c": {
+      "id": "opp_40a8bf1bfd699fa3287c",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "eventus-keyword-discovery",
+      "externalId": "131280",
+      "canonicalUrl": "https://event-us.kr/zinidata/event/131280",
+      "title": "2026 고양특례시 빅데이터 아카데미 - 오프라인 사업자를 위한 데이터 분석 및 활용전략",
+      "organization": "나이스지니데이타",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T07:49:56+00:00",
+      "closesAt": "2026-08-26T15:00:00+00:00",
+      "locations": [
+        "서울/경기/인천",
+        "경기 고양시 덕양구",
+        "고양스마트시티센터 8층 강의장"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "IT/프로그래밍",
+        "강연/세미나",
+        "개발자 행사"
+      ],
+      "summary": "우리 매장의 고객과 상권을 데이터로 읽고, AI까지 활용하는 오프라인 마케팅 실무 교육",
+      "summaryEvidence": [
+        "https://event-us.kr/zinidata/event/131280"
+      ],
+      "attributes": {
+        "sourcePriority": 75,
+        "developmentOutput": true,
+        "platformDeveloperEvent": true
+      },
+      "contentHash": "sha256:e93d73b904c146b3293f90ab0b17cea2d5ec83541c37a5ab1a7b7d70d46f5b83",
+      "dedupeKey": "discovered:40a8bf1bfd699fa3287c496fb8ef854c75fb722f5b783cdc7324bfc1a058f168",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "개발자 포럼·컨퍼런스·강연·세미나"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://event-us.kr/zinidata/event/131280",
+        "checkedAt": "2026-07-24T10:28:16.274Z"
+      }
+    },
+    "opp_c8bc240472147b283d0d": {
+      "id": "opp_c8bc240472147b283d0d",
+      "type": "EXTERNAL_ACTIVITY",
+      "sourceId": "eventus-keyword-discovery",
+      "externalId": "131269",
+      "canonicalUrl": "https://event-us.kr/zinidata/event/131269",
+      "title": "2026 고양특례시 빅데이터 아카데미 - 온라인 사업자를 위한 데이터 분석 및 활용전략",
+      "organization": "나이스지니데이타",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T06:28:47+00:00",
+      "closesAt": "2026-08-25T15:00:00+00:00",
+      "locations": [
+        "서울/경기/인천",
+        "경기 고양시 덕양구",
+        "고양스마트시티센터 8층 강의장"
+      ],
+      "eligibility": [
+        "참가 조건 상세 확인"
+      ],
+      "tags": [
+        "IT/프로그래밍",
+        "강연/세미나",
+        "개발자 행사"
+      ],
+      "summary": "광고는 해봤지만 전략이 막막하다면? 데이터와 AI로 완성하는 온라인 마케팅 실무 교육",
+      "summaryEvidence": [
+        "https://event-us.kr/zinidata/event/131269"
+      ],
+      "attributes": {
+        "sourcePriority": 75,
+        "developmentOutput": true,
+        "platformDeveloperEvent": true
+      },
+      "contentHash": "sha256:85c032b1f5bf029c52fc21c3486105e558bd0fada45a30f2e0be66ba0007fb76",
+      "dedupeKey": "discovered:c8bc240472147b283d0dd99ef84b888021d329d404190ae44f95712969b737f3",
+      "firstSeenAt": "2026-07-24T10:28:16.274Z",
+      "lastSeenAt": "2026-07-24T10:28:16.274Z",
+      "eventType": "DISCOVERED",
+      "lifecycle": {
+        "missingRuns": 0
+      },
+      "review": {
+        "status": "SENT",
+        "reason": "개발자 포럼·컨퍼런스·강연·세미나"
+      },
+      "verification": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://event-us.kr/zinidata/event/131269",
+        "checkedAt": "2026-07-24T10:28:16.274Z"
       }
     }
   },
@@ -25088,6 +26035,30 @@
       "opportunityId": "opp_17925867032df333e1cf",
       "sentAt": "2026-07-24T09:05:24.491Z",
       "messageId": "1530138839383937168"
+    },
+    "discovered:d312ea44986181accf06e3fd1b2616f683b3d16276dcc86c190ab7d311a37dcd": {
+      "status": "SENT",
+      "opportunityId": "opp_d312ea44986181accf06",
+      "sentAt": "2026-07-24T10:28:16.274Z",
+      "messageId": "1530159682855895092"
+    },
+    "discovered:40a8bf1bfd699fa3287c496fb8ef854c75fb722f5b783cdc7324bfc1a058f168": {
+      "status": "SENT",
+      "opportunityId": "opp_40a8bf1bfd699fa3287c",
+      "sentAt": "2026-07-24T10:28:16.274Z",
+      "messageId": "1530159689462190142"
+    },
+    "discovered:35eaf9232b0a56c8e9e96b3e69434a9c594c457b4fd3d9cd56281ffcf99cc8f2": {
+      "status": "SENT",
+      "opportunityId": "opp_35eaf9232b0a56c8e9e9",
+      "sentAt": "2026-07-24T10:28:16.274Z",
+      "messageId": "1530159694017204316"
+    },
+    "discovered:c8bc240472147b283d0dd99ef84b888021d329d404190ae44f95712969b737f3": {
+      "status": "SENT",
+      "opportunityId": "opp_c8bc240472147b283d0d",
+      "sentAt": "2026-07-24T10:28:16.274Z",
+      "messageId": "1530159701298511873"
     }
   },
   "pending": {
@@ -25255,125 +26226,93 @@
       "createdAt": "2026-07-24T04:53:44.626Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_266495f101fb0e5de22f": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_02b13d8f3ede72ecebcc": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_931bb065f5a967bc6129": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_d53c196f6fe0f84b889e": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_d0a14c699284f59ed7e5": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
-    },
-    "opp_67ee6597d2a29fb41244": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_78898a664f66dd72f718": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_ce96666d0002abed4a47": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_de7a410830278c40a8ae": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_5d4b9bd4fec19cf88cc2": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_ca175d60404923170907": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_17ed1b10f5133fee89b2": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_0db51e9526bd0af3d1a6": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_47fb8a2677b8beb70f0d": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
-    },
-    "opp_2a7f19a4c180fee32785": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_8d8e3e788b534e8e9bcf": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_159afa766dfb32d1616f": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
-    "opp_372bf4bfcc27946d0051": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
-    },
-    "opp_7f2897033617eb8bdaa4": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
-      "reason": "비용·기간 대비 혜택 추가 심사 필요"
-    },
     "opp_a5ef3c1c8ef555dfcee8": {
       "createdAt": "2026-07-24T07:41:25.138Z",
       "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
     },
-    "opp_4018c75ad53827a8a683": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_3758b8710440c841c46f": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_1d2c4355005656127a6f": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_4151139ca142a5756194": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_8fec9fd68272a51b5217": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_af10953ee8c9f2e0d6af": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_d9836b695e8418e9f40b": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_049ca87606d65fd401f2": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_e5a0773302a52e6a4f29": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_4ec51c8e9c201ddcaced": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_e8051f8d61ea58012515": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_cbfbec9f0605c419d2fc": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_45929fec7faf979b62c6": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_f2d65b1a2aa047459c87": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_e9a400b4307825837664": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_1f276d0ffba9e0cafc7a": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_057add82dfdb8d7b8536": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_2306924c570deef832d8": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_aa861b5421fddd6eb884": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_d5a30f42e3f29aa8b742": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_e8a6821286678965a566": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_47fe928d95cd06b91c4c": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_30301a787f5bb9add449": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
     },
-    "opp_9fbaf636fbaa98d4351a": {
-      "createdAt": "2026-07-24T07:41:25.138Z",
+    "opp_98d2fa2606814ea07242": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
       "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_43b5d26f75ee7fc08329": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_b9ac24823655fb119c2d": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_929e0be70804a8bf50cd": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_b3948b499e0d7ad16512": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "비용·기간 대비 혜택 추가 심사 필요"
+    },
+    "opp_45c7216ef314a8279c6c": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
+    },
+    "opp_a5180c7f4e481d08ae90": {
+      "createdAt": "2026-07-24T10:28:16.274Z",
+      "reason": "시간 부담 대비 활동 혜택 추가 심사 필요"
     }
   },
   "feedback": []
