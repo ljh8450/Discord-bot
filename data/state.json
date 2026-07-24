@@ -23790,7 +23790,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 10,
-        "communityRank": 8,
+        "communityRank": 9,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -23804,11 +23804,11 @@
       },
       "contentHash": "sha256:39b614979b5448bc91b21f5b3d522452c394e48bda9f19881985f929cb71bfc4",
       "dedupeKey": "brief:opp_5770aa8da9d5a1112a81:sha256:39b614979b5448bc91b21f5b3d522452c394e48bda9f19881985f929cb71bfc4",
-      "firstSeenAt": "2026-07-24T09:05:24.491Z",
-      "lastSeenAt": "2026-07-24T09:05:24.491Z",
+      "firstSeenAt": "2026-07-24T11:01:56.448Z",
+      "lastSeenAt": "2026-07-24T11:01:56.448Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -23839,7 +23839,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -23853,11 +23853,11 @@
       },
       "contentHash": "sha256:21ac1b5f683772d0c4a1cc448aba525dc8d42822aa10a02e3e9aee532d87a11e",
       "dedupeKey": "brief:opp_2ee05278c7d6cf55e4ac:sha256:21ac1b5f683772d0c4a1cc448aba525dc8d42822aa10a02e3e9aee532d87a11e",
-      "firstSeenAt": "2026-07-24T09:05:24.491Z",
-      "lastSeenAt": "2026-07-24T09:05:24.491Z",
+      "firstSeenAt": "2026-07-24T11:01:56.448Z",
+      "lastSeenAt": "2026-07-24T11:01:56.448Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24861,6 +24861,157 @@
         "status": 200,
         "finalUrl": "https://event-us.kr/zinidata/event/131269",
         "checkedAt": "2026-07-24T10:28:16.274Z"
+      }
+    },
+    "opp_dadb8e28bba5fd83acc0": {
+      "id": "opp_dadb8e28bba5fd83acc0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31743",
+      "canonicalUrl": "https://github.com/Graphify-Labs/graphify",
+      "title": "graphify - 코드베이스를 질의 가능한 지식 그래프로 바꾸는 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩 어시스턴트에서 /graphify . 하면 코드/문서/PDF/이미지/영상 전체가 지식 그래프로 매핑되어, 파일을 grep하는 대신 질문으로 탐색하는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31743"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:01b9e360d8eabf5c4ac7a4e87648cc416cfa1d3d080352111157a7a19a7b334e",
+      "dedupeKey": "brief:opp_dadb8e28bba5fd83acc0:sha256:01b9e360d8eabf5c4ac7a4e87648cc416cfa1d3d080352111157a7a19a7b334e",
+      "firstSeenAt": "2026-07-24T11:01:56.448Z",
+      "lastSeenAt": "2026-07-24T11:01:56.448Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a2ede31aff06af01b3e3": {
+      "id": "opp_a2ede31aff06af01b3e3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31751",
+      "canonicalUrl": "https://replit.com/blog/self-driving-company",
+      "title": "자율주행 기업",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T10:13:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Replit은 사람이 목표와 우선순위/절충점을 정하고, 여러 AI 에이전트가 필요한 맥락을 수집해 작업/검증/에스컬레이션을 수행하는 조직을 자율주...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31751"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d5d0612aa79dd36205bd505abf766d085a6328f4d24a756d95364f1275bf2b2a",
+      "dedupeKey": "brief:opp_a2ede31aff06af01b3e3:sha256:d5d0612aa79dd36205bd505abf766d085a6328f4d24a756d95364f1275bf2b2a",
+      "firstSeenAt": "2026-07-24T11:01:56.448Z",
+      "lastSeenAt": "2026-07-24T11:01:56.448Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7d276eb7caa7487f613b": {
+      "id": "opp_7d276eb7caa7487f613b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:fQMRyETrqtU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fQMRyETrqtU",
+      "title": "[한영자막] 'Claude Code' 만든 사람이 알려주는 개발자 '생존법'",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T09:00:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code를 만든 Boris가 남긴 글을 바탕으로, Theo가 AI 시대에 진짜 중요해진 개발자 스킬을 정리했습니다. 자동화, 도메인 지식, 팀 기여 방식까지 지금 다시 짚어봐야 할 이야기입니다. 주요 포인트 - 예전에 개발자들이 자랑하던 자동화 스킬이 지금 왜 훨씬 더 큰 무기가 됐는지 - 에이전트가 코드를 대신 짜는 시대에 프리뷰 환경과 커스텀 자동화가 왜 필수가 됐는지 - Claude.md, agents.md 같은 파일이 왜 팀 전체의 코드 품질을 좌우하는지 - 스태프 엔지니어로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fQMRyETrqtU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-24T09:00:31.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:da52ce1e24d485050a21911fea4628b1c7f18e5ac5d95c2f4904f4329f34fd3a",
+      "dedupeKey": "brief:opp_7d276eb7caa7487f613b:sha256:da52ce1e24d485050a21911fea4628b1c7f18e5ac5d95c2f4904f4329f34fd3a",
+      "firstSeenAt": "2026-07-24T11:01:56.448Z",
+      "lastSeenAt": "2026-07-24T11:01:56.448Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     }
   },
@@ -26059,6 +26210,24 @@
       "opportunityId": "opp_c8bc240472147b283d0d",
       "sentAt": "2026-07-24T10:28:16.274Z",
       "messageId": "1530159701298511873"
+    },
+    "brief:opp_7d276eb7caa7487f613b:sha256:da52ce1e24d485050a21911fea4628b1c7f18e5ac5d95c2f4904f4329f34fd3a": {
+      "status": "SENT",
+      "opportunityId": "opp_7d276eb7caa7487f613b",
+      "sentAt": "2026-07-24T11:01:56.448Z",
+      "messageId": "1530168163994697792"
+    },
+    "brief:opp_2ee05278c7d6cf55e4ac:sha256:21ac1b5f683772d0c4a1cc448aba525dc8d42822aa10a02e3e9aee532d87a11e": {
+      "status": "SENT",
+      "opportunityId": "opp_2ee05278c7d6cf55e4ac",
+      "sentAt": "2026-07-24T11:01:56.448Z",
+      "messageId": "1530168163994697792"
+    },
+    "brief:opp_5770aa8da9d5a1112a81:sha256:39b614979b5448bc91b21f5b3d522452c394e48bda9f19881985f929cb71bfc4": {
+      "status": "SENT",
+      "opportunityId": "opp_5770aa8da9d5a1112a81",
+      "sentAt": "2026-07-24T11:01:56.448Z",
+      "messageId": "1530168163994697792"
     }
   },
   "pending": {
