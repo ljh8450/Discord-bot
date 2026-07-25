@@ -1,7 +1,11 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import worker, { dispatchRadar } from '../cloudflare/radar-scheduler.mjs';
+import worker, {
+  DIGEST_CRON,
+  RADAR_CRON,
+  dispatchRadar,
+} from '../cloudflare/radar-scheduler.mjs';
 
 test('dispatches the main Opportunity Radar workflow with a GitHub token', async (t) => {
   const originalFetch = globalThis.fetch;
@@ -43,7 +47,7 @@ test('dispatches the developer brief workflow on the morning and evening cron', 
   let scheduledWork;
 
   worker.scheduled(
-    { cron: '5 0,9 * * *', scheduledTime: 1_753_000_000_000 },
+    { cron: DIGEST_CRON, scheduledTime: 1_753_000_000_000 },
     { GITHUB_TOKEN: 'test-token' },
     { waitUntil(promise) { scheduledWork = promise; } },
   );
@@ -51,4 +55,35 @@ test('dispatches the developer brief workflow on the morning and evening cron', 
 
   assert.match(requestedUrl, /opportunity-digest\.yml\/dispatches$/);
   assert.deepEqual(JSON.parse(requestOptions.body), { ref: 'main' });
+});
+
+test('dispatches the radar workflow on the primary Cloudflare cron', async (t) => {
+  const originalFetch = globalThis.fetch;
+  t.after(() => { globalThis.fetch = originalFetch; });
+  let requestedUrl;
+  globalThis.fetch = async (url) => {
+    requestedUrl = url;
+    return new Response(null, { status: 204 });
+  };
+  let scheduledWork;
+
+  worker.scheduled(
+    { cron: RADAR_CRON, scheduledTime: 1_753_000_000_000 },
+    { GITHUB_TOKEN: 'test-token' },
+    { waitUntil(promise) { scheduledWork = promise; } },
+  );
+  await scheduledWork;
+
+  assert.match(requestedUrl, /opportunity-radar\.yml\/dispatches$/);
+});
+
+test('rejects an unknown cron instead of dispatching the radar by default', async () => {
+  await assert.rejects(
+    worker.scheduled(
+      { cron: '0 0 * * *', scheduledTime: 1_753_000_000_000 },
+      { GITHUB_TOKEN: 'test-token' },
+      { waitUntil() {} },
+    ),
+    /Unknown cron trigger/,
+  );
 });

@@ -1,6 +1,7 @@
 const WORKFLOW_API_ROOT =
   'https://api.github.com/repos/ljh8450/Discord-bot/actions/workflows';
-const DIGEST_CRON = '5 0,9 * * *';
+export const RADAR_CRON = '7,37 * * * *';
+export const DIGEST_CRON = '5 0,9 * * *';
 
 function jsonResponse(body, status = 200, headers = {}) {
   return new Response(JSON.stringify(body), {
@@ -42,9 +43,18 @@ export function dispatchDigest(env) {
 
 const worker = {
   async scheduled(controller, env, ctx) {
-    const isDigest = controller.cron === DIGEST_CRON;
-    const workflowFile = isDigest ? 'opportunity-digest.yml' : 'opportunity-radar.yml';
-    const dispatch = isDigest ? dispatchDigest(env) : dispatchRadar(env);
+    let workflowFile;
+    let dispatch;
+    if (controller.cron === RADAR_CRON) {
+      workflowFile = 'opportunity-radar.yml';
+      dispatch = dispatchRadar(env);
+    } else if (controller.cron === DIGEST_CRON) {
+      workflowFile = 'opportunity-digest.yml';
+      dispatch = dispatchDigest(env);
+    } else {
+      throw new Error(`Unknown cron trigger: ${controller.cron}`);
+    }
+
     ctx.waitUntil(dispatch.then((result) => {
       console.log('GitHub workflow dispatch accepted', {
         workflowFile,

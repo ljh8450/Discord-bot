@@ -2,9 +2,9 @@ name: Opportunity Radar
 
 on:
   schedule:
-    # Poll twice an hour. Delivery state prevents repeat notifications,
-    # while the wider interval keeps source and Actions load reasonable.
-    - cron: "7,37 * * * *"
+    # Backup schedule, staggered ten minutes after Cloudflare's primary
+    # 07/37-minute trigger. Delivery state prevents repeat notifications.
+    - cron: "17,47 * * * *"
   workflow_dispatch:
 
 permissions:
