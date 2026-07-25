@@ -26053,6 +26053,210 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_03b99f5d6e1838046f6d": {
+      "id": "opp_03b99f5d6e1838046f6d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31799",
+      "canonicalUrl": "https://github.com/David-Crty/databasement",
+      "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "여러 종류의 DB를 단일 웹 UI에서 백업, 복원, 스케줄링하는 셀프 호스팅 관리자 - MySQL/PostgreSQL/MariaDB/MSSQL/MongoDB/SQLite/Firebird/Redi...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31799"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:abd7a375b0e6e4bf6e9fb612694d36cdfa5f17642d60c9cbdfd32c7b22e8bc9c",
+      "dedupeKey": "brief:opp_03b99f5d6e1838046f6d:sha256:abd7a375b0e6e4bf6e9fb612694d36cdfa5f17642d60c9cbdfd32c7b22e8bc9c",
+      "firstSeenAt": "2026-07-25T10:25:10.731Z",
+      "lastSeenAt": "2026-07-25T10:25:10.731Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bbe59ec3e9aeabb9a779": {
+      "id": "opp_bbe59ec3e9aeabb9a779",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31776",
+      "canonicalUrl": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "title": "소프트웨어 팩토리가 실패하는 이유: 하네스 엔지니어링만으로는 부족함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T03:41:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사람이 코드를 읽고 쓰지 않는 무인(lights-off) 소프트웨어 팩토리는 생성 속도를 높이지만, 장기 유지보수성을 판단할 인간까지 제거해 복잡한 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31776"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0cf283c904c0ab80a01df232a1339d3d7819b59a24aa19f4b3bd4966c733418e",
+      "dedupeKey": "brief:opp_bbe59ec3e9aeabb9a779:sha256:0cf283c904c0ab80a01df232a1339d3d7819b59a24aa19f4b3bd4966c733418e",
+      "firstSeenAt": "2026-07-25T10:25:10.731Z",
+      "lastSeenAt": "2026-07-25T10:25:10.731Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fbb7820686a3a36b8d1d": {
+      "id": "opp_fbb7820686a3a36b8d1d",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Q8PEMtBQjyk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q8PEMtBQjyk",
+      "title": "[한영자막] AI 엔지니어링, 1년 사이 완전히 달라졌다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T09:00:20+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Amplify Partners의 Barr Yaron이 2026년 AI 엔지니어링 서베이 결과를 바탕으로, 에이전트·비용·모델 선택·팀 문화가 1년 사이 어떻게 달라졌는지 데이터로 짚어드립니다. 주요 포인트 - 응답자의 95%가 에이전트를 쓰고 있고, 쓰기 권한을 가진 에이전트 비율은 작년 52%에서 올해 89%로 급증했습니다. - 이미지 생성 만족도는 작년 대비 두 배(18%→36%)로 늘었고, 오디오는 여전히 가장 강한 도입 의향을 보이고 있습니다. - 비용은 이제 엔지니어링에서 무시할 수 없는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Q8PEMtBQjyk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-25T09:00:20.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:18fbda25893f46215459b4103ca57495b8a30f42a4e23f181217317797c552ce",
+      "dedupeKey": "brief:opp_fbb7820686a3a36b8d1d:sha256:18fbda25893f46215459b4103ca57495b8a30f42a4e23f181217317797c552ce",
+      "firstSeenAt": "2026-07-25T10:25:10.731Z",
+      "lastSeenAt": "2026-07-25T10:25:10.731Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7820582372c97c864a8e": {
+      "id": "opp_7820582372c97c864a8e",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:epcN1orZZpU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=epcN1orZZpU",
+      "title": "스탠퍼드 로봇 공학자가 바라본 로봇의 시대 | Stanford, Catie Cuan",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T09:30:26+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "로봇의 미래는 정말 '더 똑똑한 AI'일까요? 스탠퍼드대학교 로봇공학자이자 로봇 안무가인 케이티 쿠안은 조금 다른 이야기를 합니다. 지금 휴머노이드 경쟁은 사람의 일을 대신하는 기능과 성능에 집중하고 있습니다. 하지만 앞으로 수십억 대의 로봇이 우리 일상에 들어온다면, 더 중요한 것은 얼마나 똑똑한지가 아니라 사람과 어떻게 상호작용하는지라는 것이죠. 케이티는 로봇 안무와 움직임, 즐거움, 감정적 교감까지도 로봇 공학의 중요한 요소라고 말합니다. ChatGPT가 AI를 대중화한 것처럼, 로봇에게도",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=epcN1orZZpU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-25T09:30:26.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:609eab9abbd404cc55a53196afcb689724ea133ce4af9b2034362ecb3419ef60",
+      "dedupeKey": "brief:opp_7820582372c97c864a8e:sha256:609eab9abbd404cc55a53196afcb689724ea133ce4af9b2034362ecb3419ef60",
+      "firstSeenAt": "2026-07-25T10:25:10.731Z",
+      "lastSeenAt": "2026-07-25T10:25:10.731Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -27394,6 +27598,30 @@
       "opportunityId": "opp_99e9df43a1d12b5325a6",
       "sentAt": "2026-07-25T09:05:24.370Z",
       "messageId": "1530501220911808603"
+    },
+    "brief:opp_7820582372c97c864a8e:sha256:609eab9abbd404cc55a53196afcb689724ea133ce4af9b2034362ecb3419ef60": {
+      "status": "SENT",
+      "opportunityId": "opp_7820582372c97c864a8e",
+      "sentAt": "2026-07-25T10:25:10.731Z",
+      "messageId": "1530521301377224826"
+    },
+    "brief:opp_fbb7820686a3a36b8d1d:sha256:18fbda25893f46215459b4103ca57495b8a30f42a4e23f181217317797c552ce": {
+      "status": "SENT",
+      "opportunityId": "opp_fbb7820686a3a36b8d1d",
+      "sentAt": "2026-07-25T10:25:10.731Z",
+      "messageId": "1530521301377224826"
+    },
+    "brief:opp_03b99f5d6e1838046f6d:sha256:abd7a375b0e6e4bf6e9fb612694d36cdfa5f17642d60c9cbdfd32c7b22e8bc9c": {
+      "status": "SENT",
+      "opportunityId": "opp_03b99f5d6e1838046f6d",
+      "sentAt": "2026-07-25T10:25:10.731Z",
+      "messageId": "1530521301377224826"
+    },
+    "brief:opp_bbe59ec3e9aeabb9a779:sha256:0cf283c904c0ab80a01df232a1339d3d7819b59a24aa19f4b3bd4966c733418e": {
+      "status": "SENT",
+      "opportunityId": "opp_bbe59ec3e9aeabb9a779",
+      "sentAt": "2026-07-25T10:25:10.731Z",
+      "messageId": "1530521301377224826"
     }
   },
   "pending": {
