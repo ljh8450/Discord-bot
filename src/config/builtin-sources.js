@@ -1,7 +1,8 @@
 const AGGREGATOR_SOURCES = [
   { id: 'linkareer', kind: 'linkareer', enabled: true, priority: 100,
     routes: ['contest', 'education', 'activity'], recentDays: 7,
-    maxPagesPerRoute: 5, maxItemsPerRoute: 100 },
+    maxPagesPerRoute: 5, maxItemsPerRoute: 100,
+    retryAttempts: 3, retryDelayMs: 750, timeoutMs: 30_000 },
   { id: 'campuspick', kind: 'campuspick', enabled: true, priority: 80,
     routes: ['contest', 'activity'], recentDays: 7,
     maxPagesPerRoute: 5, maxItemsPerRoute: 100, allowEmpty: true },

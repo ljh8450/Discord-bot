@@ -4,6 +4,7 @@ function attachCollectionStats(items, stats = {}) {
       pagesFetched: 0,
       listingItems: 0,
       detailRequests: 0,
+      failedDetailRequests: 0,
       mapped: items.length,
       rejected: 0,
       duplicates: 0,

@@ -34,8 +34,11 @@ function inferType(values, fallback = 'EXTERNAL_ACTIVITY') {
   return /해커톤|공모전|경진대회|contest|competition/i.test(text) ? 'HACKATHON' : fallback;
 }
 
-function requestOptions() {
-  return { headers: { 'user-agent': 'Mozilla/5.0 OpportunityRadar/1.0' }, signal: AbortSignal.timeout(30_000) };
+function requestOptions(timeoutMs = 30_000) {
+  return {
+    headers: { 'user-agent': 'Mozilla/5.0 OpportunityRadar/1.0' },
+    signal: AbortSignal.timeout(timeoutMs),
+  };
 }
 
 module.exports = {

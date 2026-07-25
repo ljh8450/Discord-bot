@@ -102,3 +102,87 @@ test('collects filtered Zighang summaries and enriches them with details', async
   assert.equal(listUrl.searchParams.get('sortCondition'), 'LATEST');
   assert.match(requested[1], new RegExp(`/recruitments/${detail().id}$`));
 });
+
+test('retries a timed-out Zighang detail and returns the recovered job', async () => {
+  let detailAttempts = 0;
+  const fetchImpl = async (url) => {
+    const isDetail = /\/recruitments\/[^/?]+$/.test(String(url));
+    if (isDetail) {
+      detailAttempts += 1;
+      if (detailAttempts === 1) throw new DOMException('timed out', 'TimeoutError');
+    }
+    return {
+      ok: true,
+      json: async () => ({
+        success: true,
+        data: isDetail ? detail() : { content: [{ id: detail().id }] },
+      }),
+    };
+  };
+
+  const items = await collectFromZighangCareers({
+    id: 'zighang-entry-developers',
+    maxItems: 10,
+    detailRetryAttempts: 2,
+    retryDelayMs: 0,
+  }, fetchImpl);
+
+  assert.equal(items.length, 1);
+  assert.equal(detailAttempts, 2);
+  assert.equal(items.collectionStats.failedDetailRequests, 0);
+});
+
+test('keeps healthy Zighang jobs when one detail repeatedly times out', async () => {
+  const healthy = detail();
+  const slowId = 'slow-job';
+  const fetchImpl = async (url) => {
+    const text = String(url);
+    const isDetail = /\/recruitments\/[^/?]+$/.test(text);
+    if (text.endsWith(`/${slowId}`)) throw new DOMException('timed out', 'TimeoutError');
+    return {
+      ok: true,
+      json: async () => ({
+        success: true,
+        data: isDetail
+          ? healthy
+          : { content: [{ id: slowId }, { id: healthy.id }] },
+      }),
+    };
+  };
+
+  const items = await collectFromZighangCareers({
+    id: 'zighang-entry-developers',
+    maxItems: 10,
+    detailConcurrency: 2,
+    detailRetryAttempts: 2,
+    retryDelayMs: 0,
+  }, fetchImpl);
+
+  assert.equal(items.length, 1);
+  assert.equal(items.collectionStats.detailRequests, 2);
+  assert.equal(items.collectionStats.failedDetailRequests, 1);
+  assert.equal(items.collectionStats.stopReason, 'partial detail failures');
+});
+
+test('fails Zighang clearly when every listed detail is unavailable', async () => {
+  const fetchImpl = async (url) => {
+    const isDetail = /\/recruitments\/[^/?]+$/.test(String(url));
+    if (isDetail) throw new DOMException('timed out', 'TimeoutError');
+    return {
+      ok: true,
+      json: async () => ({
+        success: true,
+        data: { content: [{ id: 'slow-job' }] },
+      }),
+    };
+  };
+
+  await assert.rejects(
+    collectFromZighangCareers({
+      id: 'zighang-entry-developers',
+      detailRetryAttempts: 2,
+      retryDelayMs: 0,
+    }, fetchImpl),
+    /all 1 detail requests failed.*after 2 attempts/,
+  );
+});

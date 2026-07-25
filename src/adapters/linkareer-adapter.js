@@ -4,6 +4,32 @@ const {
 const { hasExplicitDevelopmentActivity } = require('../domain/development-relevance');
 const { attachCollectionStats } = require('./collection-stats');
 const TYPES = { contest: 'HACKATHON', education: 'EDUCATION', activity: 'EXTERNAL_ACTIVITY' };
+const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504]);
+
+function delay(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
+async function fetchWithRetry(url, source, fetchImpl) {
+  const attempts = source.retryAttempts || 3;
+  const baseDelayMs = source.retryDelayMs ?? 500;
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      const response = await fetchImpl(url, requestOptions(source.timeoutMs || 30_000));
+      if (response.ok) return response;
+      lastError = new Error(`HTTP ${response.status}`);
+      if (!RETRYABLE_STATUSES.has(response.status)) throw lastError;
+    } catch (error) {
+      lastError = error;
+      if (/^HTTP \d+$/.test(error.message) && !RETRYABLE_STATUSES.has(
+        Number(error.message.slice(5)),
+      )) throw error;
+    }
+    if (attempt < attempts && baseDelayMs > 0) await delay(baseDelayMs * attempt);
+  }
+  throw new Error(`${lastError?.message || 'request failed'} after ${attempts} attempts`);
+}
 
 function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
   const x = extractJsonScript(html, '__NEXT_DATA__')?.props?.pageProps?.data?.activityData?.activity;
@@ -54,6 +80,7 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
   let pagesFetched = 0;
   let listingItems = 0;
   let detailRequests = 0;
+  let failedDetailRequests = 0;
   let rejected = 0;
   let duplicates = 0;
   let stopReason = 'routes exhausted';
@@ -62,8 +89,12 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
     let routeItems = 0;
     for (let page = 1; page <= maxPages; page += 1) {
       const listUrl = `https://linkareer.com/list/${route}?page=${page}`;
-      const response = await fetchImpl(listUrl, requestOptions());
-      if (!response.ok) throw new Error(`${source.id}/${route}: HTTP ${response.status}`);
+      let response;
+      try {
+        response = await fetchWithRetry(listUrl, source, fetchImpl);
+      } catch (error) {
+        throw new Error(`${source.id}/${route}: ${error.message}`);
+      }
       pagesFetched += 1;
       const data = extractJsonScript(await response.text(), '__NEXT_DATA__');
       const urls = (data?.props?.pageProps?.activityItems || [])
@@ -79,8 +110,8 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
       listingItems += urls.length;
       const settled = await Promise.allSettled(urls.map(async (url) => {
         detailRequests += 1;
-        const detail = await fetchImpl(url, requestOptions());
-        const html = detail.ok ? await detail.text() : '';
+        const detail = await fetchWithRetry(url, source, fetchImpl);
+        const html = await detail.text();
         detailCache.set(url, html);
         const raw = html
           ? extractJsonScript(html, '__NEXT_DATA__')?.props?.pageProps?.data?.activityData?.activity
@@ -90,6 +121,7 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
           item: html ? mapLinkareerDetail(html, source, url, TYPES[route]) : null,
         };
       }));
+      failedDetailRequests += settled.filter((x) => x.status === 'rejected').length;
       const details = settled.filter((x) => x.status === 'fulfilled').map((x) => x.value);
       const mapped = details.filter((x) => x.item).map((x) => x.item);
       rejected += details.length - mapped.length;
@@ -112,6 +144,7 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
     detailRequests,
     mapped: output.length,
     rejected,
+    failedDetailRequests,
     duplicates,
     stopReason,
   });

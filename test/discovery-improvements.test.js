@@ -61,6 +61,60 @@ test('paginates Linkareer until a page is older than the recent window', async (
   assert.equal(calls.some((url) => url.includes('page=3')), false);
 });
 
+test('retries a transient Linkareer listing fetch failure', async () => {
+  let listingAttempts = 0;
+  const fetchImpl = async (url) => {
+    if (url.includes('page=1')) {
+      listingAttempts += 1;
+      if (listingAttempts === 1) throw new TypeError('fetch failed');
+      return response(linkareerList('https://linkareer.com/activity/1'));
+    }
+    if (url.endsWith('/1')) {
+      return response(linkareerDetail(1, 'AI API 개발 해커톤', Date.now()));
+    }
+    throw new Error(`unexpected URL: ${url}`);
+  };
+
+  const items = await collectFromLinkareer({
+    id: 'linkareer',
+    routes: ['contest'],
+    maxPagesPerRoute: 1,
+    retryAttempts: 2,
+    retryDelayMs: 0,
+  }, fetchImpl);
+
+  assert.equal(items.length, 1);
+  assert.equal(listingAttempts, 2);
+});
+
+test('keeps healthy Linkareer details when another detail exhausts retries', async () => {
+  const fetchImpl = async (url) => {
+    if (url.includes('page=1')) {
+      return response(`<script id='__NEXT_DATA__'>${JSON.stringify({ props: { pageProps: {
+        activityItems: [
+          { url: 'https://linkareer.com/activity/1' },
+          { url: 'https://linkareer.com/activity/2' },
+        ],
+      } } })}</script>`);
+    }
+    if (url.endsWith('/1')) {
+      return response(linkareerDetail(1, 'AI API 개발 해커톤', Date.now()));
+    }
+    throw new DOMException('timed out', 'TimeoutError');
+  };
+
+  const items = await collectFromLinkareer({
+    id: 'linkareer',
+    routes: ['contest'],
+    maxPagesPerRoute: 1,
+    retryAttempts: 2,
+    retryDelayMs: 0,
+  }, fetchImpl);
+
+  assert.equal(items.length, 1);
+  assert.equal(items.collectionStats.failedDetailRequests, 1);
+});
+
 function campusList(url) {
   return `<script type='application/ld+json'>${JSON.stringify({
     itemListElement: [{ '@type': 'ListItem', url }],

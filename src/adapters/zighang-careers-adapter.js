@@ -1,4 +1,11 @@
 const { cleanText } = require('./xml-utils');
+const { attachCollectionStats } = require('./collection-stats');
+
+const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504]);
+
+function delay(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
 
 function dateTimeWithKst(value) {
   if (!value) return null;
@@ -96,21 +103,57 @@ function mapZighangJob(job, source) {
   };
 }
 
-async function fetchData(url, fetchImpl, source) {
-  const response = await fetchImpl(url, {
-    headers: {
-      accept: 'application/json',
-      origin: 'https://zighang.com',
-      'user-agent': source.userAgent || 'OpportunityRadar/1.0',
-    },
-    signal: AbortSignal.timeout(source.timeoutMs || 20_000),
-  });
-  if (!response.ok) throw new Error(`${source.id}: HTTP ${response.status}`);
-  const body = await response.json();
-  if (body.success === false) {
-    throw new Error(`${source.id}: API ${body.code || 'ERROR'} ${body.message || ''}`.trim());
+async function fetchData(url, fetchImpl, source, attempts = source.retryAttempts || 3) {
+  const baseDelayMs = source.retryDelayMs ?? 500;
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      const response = await fetchImpl(url, {
+        headers: {
+          accept: 'application/json',
+          origin: 'https://zighang.com',
+          'user-agent': source.userAgent || 'OpportunityRadar/1.0',
+        },
+        signal: AbortSignal.timeout(source.timeoutMs || 20_000),
+      });
+      if (!response.ok) {
+        lastError = new Error(`HTTP ${response.status}`);
+        if (!RETRYABLE_STATUSES.has(response.status)) throw lastError;
+      } else {
+        const body = await response.json();
+        if (body.success === false) {
+          throw new Error(`API ${body.code || 'ERROR'} ${body.message || ''}`.trim());
+        }
+        return body.data;
+      }
+    } catch (error) {
+      lastError = error;
+      if (/^(?:HTTP 4\d\d|API )/.test(error.message)
+        && !/^HTTP 429$/.test(error.message)) throw error;
+    }
+    if (attempt < attempts && baseDelayMs > 0) await delay(baseDelayMs * attempt);
   }
-  return body.data;
+  throw new Error(`${source.id}: ${lastError?.message || 'request failed'} after ${attempts} attempts`);
+}
+
+async function collectDetails(summaries, workerCount, loadDetail) {
+  const results = new Array(summaries.length);
+  let nextIndex = 0;
+  async function worker() {
+    while (nextIndex < summaries.length) {
+      const index = nextIndex;
+      nextIndex += 1;
+      try {
+        results[index] = { status: 'fulfilled', value: await loadDetail(summaries[index]) };
+      } catch (reason) {
+        results[index] = { status: 'rejected', reason };
+      }
+    }
+  }
+  await Promise.all(
+    Array.from({ length: Math.min(workerCount, summaries.length) }, () => worker()),
+  );
+  return results;
 }
 
 async function collectFromZighangCareers(source, fetchImpl = fetch) {
@@ -131,17 +174,38 @@ async function collectFromZighangCareers(source, fetchImpl = fetch) {
 
   const list = await fetchData(listUrl, fetchImpl, source);
   const summaries = (list?.content || []).slice(0, maxItems);
-  const results = [];
-  const batchSize = source.detailConcurrency || 5;
+  if (!summaries.length) return attachCollectionStats([], { stopReason: 'empty listing' });
+  const concurrency = Math.max(1, source.detailConcurrency || 5);
   const detailBaseUrl = source.detailBaseUrl || 'https://api.zighang.com/api/recruitments';
-  for (let index = 0; index < summaries.length; index += batchSize) {
-    const details = await Promise.all(summaries.slice(index, index + batchSize).map(async (summary) => {
-      const detail = await fetchData(`${detailBaseUrl}/${summary.id}`, fetchImpl, source);
-      return { ...summary, ...detail };
-    }));
-    results.push(...details.map((job) => mapZighangJob(job, source)));
+  const settled = await collectDetails(summaries, concurrency, async (summary) => {
+    const detail = await fetchData(
+      `${detailBaseUrl}/${summary.id}`,
+      fetchImpl,
+      source,
+      source.detailRetryAttempts || 2,
+    );
+    return { ...summary, ...detail };
+  });
+  const fulfilled = settled.filter((result) => result.status === 'fulfilled');
+  if (!fulfilled.length) {
+    const firstFailure = settled.find((result) => result.status === 'rejected')?.reason;
+    throw new Error(
+      `${source.id}: all ${summaries.length} detail requests failed`
+      + (firstFailure ? `; first error: ${firstFailure.message}` : ''),
+    );
   }
-  return results.filter((job) => job.status === 'OPEN' && job.title && job.url);
+  const results = fulfilled
+    .map((result) => mapZighangJob(result.value, source))
+    .filter((job) => job.status === 'OPEN' && job.title && job.url);
+  const failedDetailRequests = settled.length - fulfilled.length;
+  return attachCollectionStats(results, {
+    pagesFetched: 1,
+    listingItems: summaries.length,
+    detailRequests: summaries.length,
+    failedDetailRequests,
+    rejected: fulfilled.length - results.length,
+    stopReason: failedDetailRequests ? 'partial detail failures' : 'listing exhausted',
+  });
 }
 
 module.exports = { collectFromZighangCareers, mapZighangJob };

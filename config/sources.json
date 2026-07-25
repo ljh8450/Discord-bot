@@ -87,6 +87,10 @@
       "orderCondition": "DESC",
       "maxItems": 40,
       "detailConcurrency": 5,
+      "retryAttempts": 3,
+      "detailRetryAttempts": 2,
+      "retryDelayMs": 750,
+      "timeoutMs": 30000,
       "allowEmpty": true
     }
   ]
