@@ -24943,26 +24943,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 7,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:01b9e360d8eabf5c4ac7a4e87648cc416cfa1d3d080352111157a7a19a7b334e",
       "dedupeKey": "brief:opp_dadb8e28bba5fd83acc0:sha256:01b9e360d8eabf5c4ac7a4e87648cc416cfa1d3d080352111157a7a19a7b334e",
-      "firstSeenAt": "2026-07-24T11:01:56.448Z",
-      "lastSeenAt": "2026-07-24T11:01:56.448Z",
+      "firstSeenAt": "2026-07-25T00:05:39.949Z",
+      "lastSeenAt": "2026-07-25T00:05:39.949Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24992,8 +24992,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 7,
+        "communityPoints": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -25007,11 +25007,11 @@
       },
       "contentHash": "sha256:d5d0612aa79dd36205bd505abf766d085a6328f4d24a756d95364f1275bf2b2a",
       "dedupeKey": "brief:opp_a2ede31aff06af01b3e3:sha256:d5d0612aa79dd36205bd505abf766d085a6328f4d24a756d95364f1275bf2b2a",
-      "firstSeenAt": "2026-07-24T11:01:56.448Z",
-      "lastSeenAt": "2026-07-24T11:01:56.448Z",
+      "firstSeenAt": "2026-07-25T00:05:39.949Z",
+      "lastSeenAt": "2026-07-25T00:05:39.949Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -25758,6 +25758,211 @@
       },
       "lifecycle": {
         "missingRuns": 0
+      }
+    },
+    "opp_54a630d51b51024d126f": {
+      "id": "opp_54a630d51b51024d126f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31740",
+      "canonicalUrl": "https://www.bvp.com/atlas/roadmap-the-ai-data-center-stack",
+      "title": "로드맵: AI 데이터센터 스택",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T09:11:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 데이터센터는 건설에 12~18개월이 걸리지만 전력망 연결에는 5~7년이 필요해, GPU보다 전력/인허가/건설 역량이 확장의 핵심 제약으로 바뀌고 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31740"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1131d69b24e428950922174aeeb146711cb8c558e3b9aad8944eed3597b7fe89",
+      "dedupeKey": "brief:opp_54a630d51b51024d126f:sha256:1131d69b24e428950922174aeeb146711cb8c558e3b9aad8944eed3597b7fe89",
+      "firstSeenAt": "2026-07-25T00:05:39.949Z",
+      "lastSeenAt": "2026-07-25T00:05:39.949Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fe3b79c2d6f1458c2782": {
+      "id": "opp_fe3b79c2d6f1458c2782",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/claude-opus-5",
+      "canonicalUrl": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Product · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/claude-opus-5"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Product",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3859e1caafd3bb6e43fb100be311604857f2227ed84a4a5d54769de44de8a6bd",
+      "dedupeKey": "brief:opp_fe3b79c2d6f1458c2782:sha256:3859e1caafd3bb6e43fb100be311604857f2227ed84a4a5d54769de44de8a6bd",
+      "firstSeenAt": "2026-07-25T00:05:39.949Z",
+      "lastSeenAt": "2026-07-25T00:05:39.949Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef4fe567bca733980a50": {
+      "id": "opp_ef4fe567bca733980a50",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:8wNDbiygDKE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8wNDbiygDKE",
+      "title": "[한영자막] 이제 모든 회사엔 '브레인'이 필요하다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T22:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Y Combinator 대표 개리 탄이 AI 에이전트로 코드 생산량을 400배까지 끌어올린 방법과, 모든 회사가 갖춰야 할 '컴퍼니 브레인' 개념을 직접 설명합니다. 주요 포인트 • 2013년 하루 14줄 짜던 코드량이 지금은 약 400배로 늘어난 이유 • 스킬 파일을 '직원'처럼 다루는 AI 네이티브 조직 설계법 • 잠재 공간(LLM)과 결정적 공간(코드)을 구분해서 써야 하는 이유 • 인간의 작업 기억 한계를 뛰어넘는 '컴퍼니 브레인'(도서관 + 사서) 구조 • 일회성 작업을 스킬로 바꾸는 '",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=8wNDbiygDKE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-24T22:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:324d2351a41df22b4ff1bf88110682d375c33c064e80e072bbb742c5b9678cca",
+      "dedupeKey": "brief:opp_ef4fe567bca733980a50:sha256:324d2351a41df22b4ff1bf88110682d375c33c064e80e072bbb742c5b9678cca",
+      "firstSeenAt": "2026-07-25T00:05:39.949Z",
+      "lastSeenAt": "2026-07-25T00:05:39.949Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ba8e8e25ca125e589e5a": {
+      "id": "opp_ba8e8e25ca125e589e5a",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:Txse8Ux69Qg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Txse8Ux69Qg",
+      "title": "Opus 5 Just Dropped and Its Numbers Are Legit INSANE",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T17:34:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Opus 5 is live and its basically Fable at half the cost. RESOURCES",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Txse8Ux69Qg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-24T17:34:17.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ebc2d8971039fe6264f0a4ff08cd27da3b1746babbf818f86452e068004bb83c",
+      "dedupeKey": "brief:opp_ba8e8e25ca125e589e5a:sha256:ebc2d8971039fe6264f0a4ff08cd27da3b1746babbf818f86452e068004bb83c",
+      "firstSeenAt": "2026-07-25T00:05:39.949Z",
+      "lastSeenAt": "2026-07-25T00:05:39.949Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
       }
     }
   },
@@ -27046,6 +27251,36 @@
       "opportunityId": "opp_af81c372dd116d490207",
       "sentAt": "2026-07-24T17:50:02.659Z",
       "messageId": "1530270882755514450"
+    },
+    "brief:opp_ef4fe567bca733980a50:sha256:324d2351a41df22b4ff1bf88110682d375c33c064e80e072bbb742c5b9678cca": {
+      "status": "SENT",
+      "opportunityId": "opp_ef4fe567bca733980a50",
+      "sentAt": "2026-07-25T00:05:39.949Z",
+      "messageId": "1530365396224315454"
+    },
+    "brief:opp_ba8e8e25ca125e589e5a:sha256:ebc2d8971039fe6264f0a4ff08cd27da3b1746babbf818f86452e068004bb83c": {
+      "status": "SENT",
+      "opportunityId": "opp_ba8e8e25ca125e589e5a",
+      "sentAt": "2026-07-25T00:05:39.949Z",
+      "messageId": "1530365396224315454"
+    },
+    "brief:opp_dadb8e28bba5fd83acc0:sha256:01b9e360d8eabf5c4ac7a4e87648cc416cfa1d3d080352111157a7a19a7b334e": {
+      "status": "SENT",
+      "opportunityId": "opp_dadb8e28bba5fd83acc0",
+      "sentAt": "2026-07-25T00:05:39.949Z",
+      "messageId": "1530365396224315454"
+    },
+    "brief:opp_fe3b79c2d6f1458c2782:sha256:3859e1caafd3bb6e43fb100be311604857f2227ed84a4a5d54769de44de8a6bd": {
+      "status": "SENT",
+      "opportunityId": "opp_fe3b79c2d6f1458c2782",
+      "sentAt": "2026-07-25T00:05:39.949Z",
+      "messageId": "1530365396224315454"
+    },
+    "brief:opp_a2ede31aff06af01b3e3:sha256:d5d0612aa79dd36205bd505abf766d085a6328f4d24a756d95364f1275bf2b2a": {
+      "status": "SENT",
+      "opportunityId": "opp_a2ede31aff06af01b3e3",
+      "sentAt": "2026-07-25T00:05:39.949Z",
+      "messageId": "1530365396224315454"
     }
   },
   "pending": {
