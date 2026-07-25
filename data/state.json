@@ -25992,6 +25992,55 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_99e9df43a1d12b5325a6": {
+      "id": "opp_99e9df43a1d12b5325a6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31790",
+      "canonicalUrl": "https://glyphack.com/attention",
+      "title": "매일 집중하기가 점점 어려워지는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T08:14:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프로그래밍·학습·글쓰기에 쓰는 한 시간조차 하나의 활동으로 유지하기 어려워졌고, 10분마다 이탈한 뒤 다시 집중하는 일이 반복됨 지루하거나 어...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31790"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ce6ed22faabb2b79e4adae66651a32448eb95a7788b32e46d75716247c1b18d6",
+      "dedupeKey": "brief:opp_99e9df43a1d12b5325a6:sha256:ce6ed22faabb2b79e4adae66651a32448eb95a7788b32e46d75716247c1b18d6",
+      "firstSeenAt": "2026-07-25T09:05:24.370Z",
+      "lastSeenAt": "2026-07-25T09:05:24.370Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -27327,6 +27376,12 @@
       "opportunityId": "opp_7e7814df4075f9144d9a",
       "sentAt": "2026-07-25T06:27:23.287Z",
       "messageId": "1530461456670392331"
+    },
+    "brief:opp_99e9df43a1d12b5325a6:sha256:ce6ed22faabb2b79e4adae66651a32448eb95a7788b32e46d75716247c1b18d6": {
+      "status": "SENT",
+      "opportunityId": "opp_99e9df43a1d12b5325a6",
+      "sentAt": "2026-07-25T09:05:24.370Z",
+      "messageId": "1530501220911808603"
     }
   },
   "pending": {
