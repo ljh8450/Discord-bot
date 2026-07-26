@@ -7,6 +7,7 @@ const { AGGREGATOR_SOURCES, OPPORTUNITY_SOURCES } = require('./config/builtin-so
 const { dedupeAcrossSources } = require('./domain/cross-source-dedupe');
 const { createCategoryNotifier } = require('./discord/router');
 const { sendOperationsAlert } = require('./discord/operations-alert');
+const { buildCollectionWarnings } = require('./monitoring/source-health');
 const { runRadar } = require('./pipeline/run-radar');
 const { JsonStore } = require('./store/json-store');
 const { verifyUrl } = require('./validation/url-verifier');
@@ -62,10 +63,6 @@ async function main() {
   const verifyOpportunityUrl = dryRun || process.env.RADAR_VERIFY_URLS === 'false'
     ? undefined
     : (url) => verifyUrl(url);
-  const allowEmpty = new Set(sources.filter((source) => source.allowEmpty).map((source) => source.id));
-  const emptySourceIds = successfulSourceIds.filter((sourceId) => (
-    sourceCounts[sourceId] === 0 && !allowEmpty.has(sourceId)
-  ));
   const checkedSourceIds = successfulSourceIds.filter((sourceId) => sourceCounts[sourceId] > 0);
   const configuredLimit = Number.parseInt(process.env.RADAR_MAX_NOTIFICATIONS_PER_RUN || '10', 10);
   const maxNotifications = Number.isInteger(configuredLimit) && configuredLimit > 0
@@ -81,9 +78,13 @@ async function main() {
     maxNotifications,
     maxNotificationsByType: profile.notifications?.maxPerRunByType,
   });
-  const warnings = emptySourceIds.map((sourceId) => (
-    `${sourceId}: 수집 결과가 0건이어서 종료 판정을 보류했습니다.`
-  ));
+  const warnings = buildCollectionWarnings({
+    sources,
+    successfulSourceIds,
+    sourceCounts,
+    skippedSources,
+    report,
+  });
   if (!dryRun && (errors.length || warnings.length || report.failed)) {
     try {
       await sendOperationsAlert({ command, errors, warnings, report });

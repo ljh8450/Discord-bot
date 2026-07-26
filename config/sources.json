@@ -55,6 +55,7 @@
     {
       "id": "saramin-entry-developers",
       "kind": "saramin-careers",
+      "priority": 95,
       "enabled": true,
       "requiredEnv": "SARAMIN_ACCESS_KEY",
       "accessKeyEnv": "SARAMIN_ACCESS_KEY",
@@ -76,6 +77,7 @@
     {
       "id": "zighang-entry-developers",
       "kind": "zighang-careers",
+      "priority": 85,
       "enabled": true,
       "url": "https://api.zighang.com/api/recruitments/v3",
       "depthOnes": ["IT_개발", "AI_데이터"],

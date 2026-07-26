@@ -147,6 +147,62 @@ test('does not send an approved opportunity when its source URL is unavailable',
   assert.match(Object.values(store.state.opportunities)[0].review.reason, /HTTP 404/);
 });
 
+test('sends a detail-verified aggregator job when Wanted blocks URL verification', async () => {
+  const store = new MemoryStore();
+  let sent = 0;
+  const report = await runRadar({
+    rawItems: [rawJob({
+      sourceId: 'zighang-entry-developers',
+      url: 'https://www.wanted.co.kr/wd/376954',
+      attributes: { sourceTrust: 'AGGREGATOR_DETAIL' },
+    })],
+    profile,
+    store,
+    now,
+    notify: async () => {
+      sent += 1;
+      return { id: 'message-wanted' };
+    },
+    verifyOpportunityUrl: async () => ({
+      ok: false,
+      verdict: 'UNVERIFIABLE',
+      reason: 'BOT_PROTECTION',
+      status: 403,
+      finalUrl: 'https://www.wanted.co.kr/wd/376954',
+    }),
+  });
+
+  assert.equal(sent, 1);
+  assert.equal(report.sent, 1);
+  assert.equal(report.unverifiable, 1);
+  const [opportunity] = Object.values(store.state.opportunities);
+  assert.equal(opportunity.review.status, 'SENT');
+  assert.equal(opportunity.verification.acceptedViaTrustedSource, true);
+});
+
+test('does not trust an unverifiable Wanted URL without detail evidence', async () => {
+  const store = new MemoryStore();
+  let sent = 0;
+  const report = await runRadar({
+    rawItems: [rawJob({ url: 'https://www.wanted.co.kr/wd/376954' })],
+    profile,
+    store,
+    now,
+    notify: async () => { sent += 1; },
+    verifyOpportunityUrl: async () => ({
+      ok: false,
+      verdict: 'UNVERIFIABLE',
+      reason: 'BOT_PROTECTION',
+      status: 403,
+      finalUrl: 'https://www.wanted.co.kr/wd/376954',
+    }),
+  });
+
+  assert.equal(sent, 0);
+  assert.equal(report.rejected, 1);
+  assert.match(Object.values(store.state.opportunities)[0].review.reason, /검증 불가/);
+});
+
 test('does not send deadline reminders after the first notification', async () => {
   const store = new MemoryStore();
   const sent = [];

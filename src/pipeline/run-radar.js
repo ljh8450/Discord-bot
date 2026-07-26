@@ -2,6 +2,7 @@ const { applyProfileFilter } = require('../domain/filter');
 const { normalizedTitle } = require('../domain/cross-source-dedupe');
 const { normalizeOpportunity } = require('../domain/opportunity');
 const { assessBenefit, validateMinimum } = require('../domain/validation');
+const { URL_VERDICTS } = require('../validation/url-verifier');
 
 const NOTIFICATION_TYPE_ORDER = ['HACKATHON', 'JOB', 'EXTERNAL_ACTIVITY', 'EDUCATION', 'CONTENT'];
 
@@ -57,6 +58,7 @@ async function runRadar(options) {
   const state = await store.load();
   const report = {
     discovered: 0, approved: 0, pending: 0, rejected: 0, sent: 0, failed: 0, closed: 0,
+    unverifiable: 0,
     deferred: 0, duplicates: 0, sentByType: {}, deferredByType: {}, bySource: {},
   };
   const seenIds = new Set();
@@ -65,7 +67,7 @@ async function runRadar(options) {
     const sourceId = raw?.sourceId || 'unknown';
     const sourceReport = report.bySource[sourceId] ||= {
       candidates: 0, normalized: 0, approved: 0, pending: 0,
-      rejected: 0, sent: 0, deferred: 0, duplicates: 0, failed: 0,
+      rejected: 0, sent: 0, deferred: 0, duplicates: 0, failed: 0, unverifiable: 0,
     };
     sourceReport.candidates += 1;
     let opportunity;
@@ -163,17 +165,28 @@ async function runRadar(options) {
     report.approved += 1;
     sourceReport.approved += 1;
     state.opportunities[opportunity.id].review = { status: 'APPROVED', reason: decision.reason };
+    let acceptedUnverifiable = false;
     if (verifyOpportunityUrl) {
       try {
         const verification = await verifyOpportunityUrl(opportunity.canonicalUrl);
+        const verdict = verification.verdict
+          || (verification.ok ? URL_VERDICTS.VALID : URL_VERDICTS.INVALID);
+        const acceptedViaTrustedSource = verdict === URL_VERDICTS.UNVERIFIABLE
+          && opportunity.attributes?.sourceTrust === 'AGGREGATOR_DETAIL';
         state.opportunities[opportunity.id].verification = {
           ...verification,
+          verdict,
+          acceptedViaTrustedSource,
           checkedAt: now.toISOString(),
         };
-        if (!verification.ok) {
+        if (acceptedViaTrustedSource) {
+          acceptedUnverifiable = true;
+        } else if (verdict !== URL_VERDICTS.VALID) {
           state.opportunities[opportunity.id].review = {
             status: 'REJECTED',
-            reason: `원문 URL 접근 실패: HTTP ${verification.status}`,
+            reason: verdict === URL_VERDICTS.UNVERIFIABLE
+              ? `원문 URL 검증 불가: HTTP ${verification.status}`
+              : `원문 URL 접근 실패: HTTP ${verification.status}`,
           };
           report.approved -= 1;
           report.rejected += 1;
@@ -241,6 +254,10 @@ async function runRadar(options) {
     state.opportunities[opportunity.id].review.status = 'SENT';
     report.sent += 1;
     sourceReport.sent += 1;
+    if (acceptedUnverifiable) {
+      report.unverifiable += 1;
+      sourceReport.unverifiable += 1;
+    }
     report.sentByType[opportunity.type] = (report.sentByType[opportunity.type] || 0) + 1;
     await store.save(state);
   }

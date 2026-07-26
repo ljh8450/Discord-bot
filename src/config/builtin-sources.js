@@ -83,6 +83,13 @@ const BRIEF_SOURCES = [
     practicalValue: 2, maxItems: 30,
   },
   {
+    id: 'aws-korea-tech', kind: 'rss', enabled: true,
+    url: 'https://aws.amazon.com/ko/blogs/tech/feed/',
+    organization: 'AWS Korea 기술 블로그',
+    tags: ['개발', '클라우드', '아키텍처', 'AI'],
+    authority: 3, practicalValue: 3, priority: 90, maxItems: 30,
+  },
+  {
     id: 'github-blog', kind: 'rss', enabled: true, url: 'https://github.blog/feed/',
     organization: 'GitHub', tags: ['개발', 'GitHub', 'Copilot'], authority: 3,
     practicalValue: 3, maxItems: 30,
