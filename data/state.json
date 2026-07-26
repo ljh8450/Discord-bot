@@ -26287,6 +26287,365 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_5297d496691a5d581a24": {
+      "id": "opp_5297d496691a5d581a24",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31787",
+      "canonicalUrl": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric",
+      "title": "코딩이 해결됐다면 왜 소프트웨어는 계속 나빠지는가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T08:06:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 도구가 개발 생산성과 팀 역량을 높였지만, 소프트웨어 품질과 안정성은 그만큼 개선되지 않아 사용자는 업데이트 후 더 나쁜 경험부터 예상하...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31787"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:7460de865d4e104abb46aa1c4dd60e2385b36568580cb8e07ce22f692e8b5d42",
+      "dedupeKey": "brief:opp_5297d496691a5d581a24:sha256:7460de865d4e104abb46aa1c4dd60e2385b36568580cb8e07ce22f692e8b5d42",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b28c8056c17ac1a5a6f3": {
+      "id": "opp_b28c8056c17ac1a5a6f3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31782",
+      "canonicalUrl": "https://x.com/trq212/status/2080710971228918066",
+      "title": "Claude 5 모델을 위한 새로운 컨텍스트 엔지니어링 규칙",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T07:46:42+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Opus 5와 Claude Fable 5에서는 Claude Code의 시스템 프롬프트를 80% 이상 줄이고도 코딩 평가에서 측정 가능한 성능 저하가 없었음 과거 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31782"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:02459217717dcf11421e9a91d66f7d5fc64af660c411aa4945d082a377b1f9dc",
+      "dedupeKey": "brief:opp_b28c8056c17ac1a5a6f3:sha256:02459217717dcf11421e9a91d66f7d5fc64af660c411aa4945d082a377b1f9dc",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_747666f286b25581a39e": {
+      "id": "opp_747666f286b25581a39e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31793",
+      "canonicalUrl": "https://platform.claude.com/cookbook",
+      "title": "Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T08:23:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude 애플리케이션을 구현하는 실전 가이드와 예제를 모아 에이전트 구축부터 RAG·도구 사용·멀티모달·평가까지 폭넓게 다룸 Claude Agent SDK·M...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31793"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f8b7bf480dbc1a773e86d8e4749c2ee2f714e301d062dd476d4f4bf817cf4786",
+      "dedupeKey": "brief:opp_747666f286b25581a39e:sha256:f8b7bf480dbc1a773e86d8e4749c2ee2f714e301d062dd476d4f4bf817cf4786",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_31c4596921a2bbee49d6": {
+      "id": "opp_31c4596921a2bbee49d6",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:ZwjWj6aw2BY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZwjWj6aw2BY",
+      "title": "EP 105. AI가 연구를 할 수 있을까?",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T00:00:24+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 리서치를 할 수 있을까라는 질문을 놓고, 리젝당했던 PPO 논문부터 ICML의 논문·리뷰 폭증과 arXiv 피어리뷰 논쟁까지 학계 평가 시스템에 생긴 균열을 짚어봅니다. 이어 Dwarkesh 팟캐스트의 Grant Sanderson(3Blue1Brown)과 Adam Brown 편을 바탕으로 IMO 금메달과 실제 수학 연구의 간극, RLVR로는 보상을 주기 어려운 영역, 그리고 \"압축이 곧 지능\"이라는 관점을 이야기합니다. 허깅페이스 리프로듀스 챌린지와 리서치 랄프톤처럼 AI로 연구를 쓰고 평",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ZwjWj6aw2BY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-26T00:00:24.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9201368bf5bc90701325d2f4c03a52e91b3d4270d2d5a01a4bf1d45a791548cf",
+      "dedupeKey": "brief:opp_31c4596921a2bbee49d6:sha256:9201368bf5bc90701325d2f4c03a52e91b3d4270d2d5a01a4bf1d45a791548cf",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_82b35b86593d26825ad8": {
+      "id": "opp_82b35b86593d26825ad8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:-c43cv80FiA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-c43cv80FiA",
+      "title": "[한영자막] 코드 리뷰 없앤 지 3개월, 사이트가 터졌습니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T23:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 에이전트에게 코드 리뷰를 완전히 맡겨도 괜찮을까요? HumanLayer의 공동창업자 Dex Horthy가 2025년 7월 직접 겪은 '라이트 오프' 실험 실패담과 함께, 왜 지금 코딩 모델들이 코드베이스 유지보수성을 지키지 못하는지 설명합니다. 주요 내용 - AI 코딩 에이전트를 프로덕션에 도입한 이후 장애와 버그가 오히려 늘어나고 있는 현실 - 코드 리뷰 없이 완전 자동화한 '라이트 오프' 소프트웨어 팩토리가 실패한 이유 - Claude Code가 다른 CLI 에이전트들을 제치고 성공",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-c43cv80FiA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-25T23:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ea50436df75dc2f15e86f2896a3b4ebc4e9ee7b00170c15b13bdf32b978e562b",
+      "dedupeKey": "brief:opp_82b35b86593d26825ad8:sha256:ea50436df75dc2f15e86f2896a3b4ebc4e9ee7b00170c15b13bdf32b978e562b",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b175cab50a5aaf582b89": {
+      "id": "opp_b175cab50a5aaf582b89",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:MZImoK3lVH8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MZImoK3lVH8",
+      "title": "[한영자막] 스펙 짜는 데 시간 쓰지 마세요, 프로토타입이 답입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T13:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI에게 완벽한 스펙부터 써주려 하지 마세요. 그 시간에 프로토타입 하나를 먼저 만들어보는 게 훨씬 빠르고 정확합니다. 주요 내용 - 스펙에만 몰두하다 보면 정작 코드를 직접 짜볼 수 있다는 사실을 잊게 됩니다. - 프로토타입은 질문에 답하기 위해 쓰고 버리는 코드이며, 지금은 그 어느 때보다 저렴하게 만들 수 있습니다. - 화면 구성처럼 대화만으로 풀리지 않는 질문은 실제로 동작하는 프로토타입을 만들어봐야 답이 나옵니다. - 웨이파인더 스킬 안에서 검색창 프로토타입을 여러 버전으로 만들고, 피드",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=MZImoK3lVH8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-25T23:00:10.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2f1d9085fd8741bc91316da7dd30a5df28ff5dca7dce356f922303a7aad40866",
+      "dedupeKey": "brief:opp_b175cab50a5aaf582b89:sha256:2f1d9085fd8741bc91316da7dd30a5df28ff5dca7dce356f922303a7aad40866",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0bc5588cb7bf4e914461": {
+      "id": "opp_0bc5588cb7bf4e914461",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:UzqMBZXehPA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UzqMBZXehPA",
+      "title": "6,000명이 꼽은 AI 시대 1위 공포 — 해고가 아니라 \"같은 월급으로 두 배\"였습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-07-25T16:22:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "테크 업계에서 일하는 6,000명에게 \"AI가 당신을 어떻게 바꿨습니까\"라고 물었습니다. 절반은 일이 다시 재미있어졌다고 답했고, 나머지 절반한테서는 \"내 뇌가 썩어 가는 것 같다\"는 답이 돌아왔습니다. Lenny's Newsletter와 노엄 시걸(Noam Segal, 前 에어비앤비·트위터·메타·피그마 리서치 리드)의 연례 테크 업계 심리 조사 2026을 해설합니다. - AI가 내 정체성을 안 바꿨다고 답한 사람은 3%뿐 — 나머지는 50 대 46으로 정확히 갈렸다 - 가장 큰 두려움 1위는 \"",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=UzqMBZXehPA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-25T16:22:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8be7e793606ca5ce2817c7e909ca3d80d0cb982ef60d797920681a697082307c",
+      "dedupeKey": "brief:opp_0bc5588cb7bf4e914461:sha256:8be7e793606ca5ce2817c7e909ca3d80d0cb982ef60d797920681a697082307c",
+      "firstSeenAt": "2026-07-26T00:06:03.563Z",
+      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -27676,6 +28035,42 @@
       "opportunityId": "opp_540e2f80279b884afc9d",
       "sentAt": "2026-07-25T21:38:28.995Z",
       "messageId": "1530690743360819243"
+    },
+    "brief:opp_0bc5588cb7bf4e914461:sha256:8be7e793606ca5ce2817c7e909ca3d80d0cb982ef60d797920681a697082307c": {
+      "status": "SENT",
+      "opportunityId": "opp_0bc5588cb7bf4e914461",
+      "sentAt": "2026-07-26T00:06:03.563Z",
+      "messageId": "1530727884572987583"
+    },
+    "brief:opp_31c4596921a2bbee49d6:sha256:9201368bf5bc90701325d2f4c03a52e91b3d4270d2d5a01a4bf1d45a791548cf": {
+      "status": "SENT",
+      "opportunityId": "opp_31c4596921a2bbee49d6",
+      "sentAt": "2026-07-26T00:06:03.563Z",
+      "messageId": "1530727884572987583"
+    },
+    "brief:opp_82b35b86593d26825ad8:sha256:ea50436df75dc2f15e86f2896a3b4ebc4e9ee7b00170c15b13bdf32b978e562b": {
+      "status": "SENT",
+      "opportunityId": "opp_82b35b86593d26825ad8",
+      "sentAt": "2026-07-26T00:06:03.563Z",
+      "messageId": "1530727884572987583"
+    },
+    "brief:opp_b175cab50a5aaf582b89:sha256:2f1d9085fd8741bc91316da7dd30a5df28ff5dca7dce356f922303a7aad40866": {
+      "status": "SENT",
+      "opportunityId": "opp_b175cab50a5aaf582b89",
+      "sentAt": "2026-07-26T00:06:03.563Z",
+      "messageId": "1530727884572987583"
+    },
+    "brief:opp_747666f286b25581a39e:sha256:f8b7bf480dbc1a773e86d8e4749c2ee2f714e301d062dd476d4f4bf817cf4786": {
+      "status": "SENT",
+      "opportunityId": "opp_747666f286b25581a39e",
+      "sentAt": "2026-07-26T00:06:03.563Z",
+      "messageId": "1530727884572987583"
+    },
+    "brief:opp_5297d496691a5d581a24:sha256:7460de865d4e104abb46aa1c4dd60e2385b36568580cb8e07ce22f692e8b5d42": {
+      "status": "SENT",
+      "opportunityId": "opp_5297d496691a5d581a24",
+      "sentAt": "2026-07-26T00:06:03.563Z",
+      "messageId": "1530727884572987583"
     }
   },
   "pending": {
