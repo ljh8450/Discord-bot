@@ -26418,11 +26418,11 @@
       },
       "contentHash": "sha256:02459217717dcf11421e9a91d66f7d5fc64af660c411aa4945d082a377b1f9dc",
       "dedupeKey": "brief:opp_b28c8056c17ac1a5a6f3:sha256:02459217717dcf11421e9a91d66f7d5fc64af660c411aa4945d082a377b1f9dc",
-      "firstSeenAt": "2026-07-26T00:06:03.563Z",
-      "lastSeenAt": "2026-07-26T00:06:03.563Z",
+      "firstSeenAt": "2026-07-26T00:08:52.454Z",
+      "lastSeenAt": "2026-07-26T00:08:52.454Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -26684,6 +26684,251 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d03ca0161c6a39c5fbea": {
+      "id": "opp_d03ca0161c6a39c5fbea",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "d94a06dd8c49b164f0848420f32adc9406604de4",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aicc-builder-series-1",
+      "title": "1시간 대화로 만드는 Amazon Connect Customer AI Agent [AICC Builder 시리즈 #1]",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 24 Jul 2026 00:55:55 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Amazon Connect Customer AI Agent가 무엇으로 이루어지는지 이해하고, 코드 한 줄 없이 전화받는 PoC까지 완성하기 이 블로그는 아래 데모 영상 속 AICC Builder를 활용해 Amazon Connect Customer AI Agent를 빠르게 만드는 방법을 가이드합니다. 아래 녹음과 같이 고객 응대를 하는 우리 회사만의 AI Agent를 빠르게 구성하는 방안을 안내합니다. Amazon Connect Customer AI Agent가 배송 조회 해주는 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aicc-builder-series-1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:387851bc688e1aec3d7245842112aabe98122a73191a690ac689a291fdf187f1",
+      "dedupeKey": "brief:opp_d03ca0161c6a39c5fbea:sha256:387851bc688e1aec3d7245842112aabe98122a73191a690ac689a291fdf187f1",
+      "firstSeenAt": "2026-07-26T00:08:52.454Z",
+      "lastSeenAt": "2026-07-26T00:08:52.454Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e9b45b93d4fa91a15739": {
+      "id": "opp_e9b45b93d4fa91a15739",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "0546594dd5d78847ba90f4bff03a0c481149d1de",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-graviton-eks-optimization",
+      "title": "AWS Graviton 으로 EKS 비용 최적화 하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 24 Jul 2026 00:55:09 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "클라우드를 쓰는 모든 팀에게는 영원한 숙제가 하나 있습니다. 바로 “성능은 지키면서 비용은 줄이는 것”입니다. 트래픽이 늘면 인스턴스를 키우고, 청구서를 받아 들면 다시 줄일 궁리를 하는 일이 반복됩니다. 하지만 이런 조정만으로는 한계가 분명합니다. 같은 x86 아키텍처 안에 머무는 한, “더 쓰면 더 낸다”는 구조를 벗어나기 어렵기 때문입니다. 그래서 최근에는 이 구조 자체를 바꾸려는 움직임이 빠르게 늘고 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-graviton-eks-optimization/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4f9ebd83bde77f824b294bf6b53bee299847671c046776c1a0f1431ad965c53d",
+      "dedupeKey": "brief:opp_e9b45b93d4fa91a15739:sha256:4f9ebd83bde77f824b294bf6b53bee299847671c046776c1a0f1431ad965c53d",
+      "firstSeenAt": "2026-07-26T00:08:52.454Z",
+      "lastSeenAt": "2026-07-26T00:08:52.454Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cf0e0fa5d0c2ff46ed53": {
+      "id": "opp_cf0e0fa5d0c2ff46ed53",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "f8cf53d2fb4d44bc19d78a3e7e5dee89e505f9ef",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws",
+      "title": "Claude Apps Gateway on AWS 자세히 알아보기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 23 Jul 2026 09:50:27 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "들어가며 최근 많은 엔터프라이즈 기업들은 Amazon Bedrock을 기반한 Claude Code 및 Claude Desktop의 도입을 적용하고 있습니다. Amazon Bedrock을 통해 Claude 모델을 호출하면, 사용자의 데이터를 모델 학습에 재활용하지 않으며, Private Network 기반으로 사용자들의 Claude 사용 환경을 구성 할 수 있습니다. 또한 기존 AWS 계정·IAM 권한 체계를 통해 인증과 비용을 통합 관리할 수 있으며, Guardrails로 콘텐츠 필터링을 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 1,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b5ccb7446c54c84bf58bc574bdcc267368ddfb49bcc16b8eaccfba8973cfc511",
+      "dedupeKey": "brief:opp_cf0e0fa5d0c2ff46ed53:sha256:b5ccb7446c54c84bf58bc574bdcc267368ddfb49bcc16b8eaccfba8973cfc511",
+      "firstSeenAt": "2026-07-26T00:08:52.454Z",
+      "lastSeenAt": "2026-07-26T00:08:52.454Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_318d8a88009072e2aad0": {
+      "id": "opp_318d8a88009072e2aad0",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "81e879822c176fcb20f5c9c7e9aea6405ce8b68d",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/financial-cloud-guide-a-to-z-part2",
+      "title": "금융 클라우드 길라잡이 A to Z Part 2 – 연구개발망 예외와 망분리 개선 로드맵",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 23 Jul 2026 03:23:50 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 블로그는 2026년 6월 기준으로 작성되었으며, 이후 규제 변경이나 AWS 서비스 업데이트가 반영되지 않을 수 있습니다. 규제 관련 내용은 기술적 관점에서의 해석을 제공하며, 법률 자문을 대체하지 않습니다. 구체적인 규제 적용에 대해서는 자체 컴플라이언스 팀 및 법률 전문가와 상담하시기 바랍니다. 본 글에서는 금융 클라우드 길라잡이 A to Z Part 1 — 전자금융감독규정으로 풀어보는 클라우드 도입 첫걸음에 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/financial-cloud-guide-a-to-z-part2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 1,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8924a8048336fbbfd98887ee2ea13d2795d5f53c851d0778d3bc5c386c4e57f5",
+      "dedupeKey": "brief:opp_318d8a88009072e2aad0:sha256:8924a8048336fbbfd98887ee2ea13d2795d5f53c851d0778d3bc5c386c4e57f5",
+      "firstSeenAt": "2026-07-26T00:08:52.454Z",
+      "lastSeenAt": "2026-07-26T00:08:52.454Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_35e004cd72d267c738b2": {
+      "id": "opp_35e004cd72d267c738b2",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ad36aecfe94613a17b0fc3e0bb247b5d61387989",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/financial-cloud-guide-a-to-z-part1",
+      "title": "금융 클라우드 길라잡이 A to Z Part 1 – 전자금융감독규정으로 풀어보는 클라우드 도입 첫걸음",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 23 Jul 2026 01:57:47 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 블로그는 2026년 6월 기준으로 작성되었으며, 이후 규제 변경이나 AWS 서비스 업데이트가 반영되지 않을 수 있습니다. 규제 관련 내용은 기술적 관점에서의 해석을 제공하며, 법률 자문을 대체하지 않습니다. 구체적인 규제 적용에 대해서는 자체 컴플라이언스 팀 및 법률 전문가와 상담하시기 바랍니다. 금융회사의 클라우드 도입 시 반드시 거쳐야 할 규제 프레임워크와 안전성 확보조치를 실무 관점에서 안내합니다. 서론: 금융 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/financial-cloud-guide-a-to-z-part1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 1,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:009b41ea0544e498c010190ecb8edefe8ef245705eddd732e5aeb7152c798a33",
+      "dedupeKey": "brief:opp_35e004cd72d267c738b2:sha256:009b41ea0544e498c010190ecb8edefe8ef245705eddd732e5aeb7152c798a33",
+      "firstSeenAt": "2026-07-26T00:08:52.454Z",
+      "lastSeenAt": "2026-07-26T00:08:52.454Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -28111,6 +28356,24 @@
       "opportunityId": "opp_5297d496691a5d581a24",
       "sentAt": "2026-07-26T00:06:03.563Z",
       "messageId": "1530727884572987583"
+    },
+    "brief:opp_d03ca0161c6a39c5fbea:sha256:387851bc688e1aec3d7245842112aabe98122a73191a690ac689a291fdf187f1": {
+      "status": "SENT",
+      "opportunityId": "opp_d03ca0161c6a39c5fbea",
+      "sentAt": "2026-07-26T00:08:52.454Z",
+      "messageId": "1530728589077512314"
+    },
+    "brief:opp_e9b45b93d4fa91a15739:sha256:4f9ebd83bde77f824b294bf6b53bee299847671c046776c1a0f1431ad965c53d": {
+      "status": "SENT",
+      "opportunityId": "opp_e9b45b93d4fa91a15739",
+      "sentAt": "2026-07-26T00:08:52.454Z",
+      "messageId": "1530728589077512314"
+    },
+    "brief:opp_b28c8056c17ac1a5a6f3:sha256:02459217717dcf11421e9a91d66f7d5fc64af660c411aa4945d082a377b1f9dc": {
+      "status": "SENT",
+      "opportunityId": "opp_b28c8056c17ac1a5a6f3",
+      "sentAt": "2026-07-26T00:08:52.454Z",
+      "messageId": "1530728589077512314"
     }
   },
   "pending": {
