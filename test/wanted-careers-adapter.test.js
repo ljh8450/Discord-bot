@@ -18,7 +18,7 @@ test('maps a Wanted entry-level detail response into a grounded job', () => {
       main_tasks: '• LLM 기반 검색 API를 개발합니다.\n• 데이터 파이프라인을 운영합니다.',
       requirements: '신입 지원 가능, Python 사용 경험',
     },
-  }, { id: 'wanted-entry-developers' });
+  }, { id: 'wanted-entry-developers', priority: 90 });
 
   assert.equal(item.externalId, '12345');
   assert.equal(item.organization, '예시테크');
@@ -27,4 +27,5 @@ test('maps a Wanted entry-level detail response into a grounded job', () => {
   assert.ok(item.tags.includes('AI Engineer'));
   assert.match(item.summary, /LLM 기반 검색 API/);
   assert.equal(item.summaryEvidence[0], 'https://www.wanted.co.kr/wd/12345');
+  assert.equal(item.attributes.sourcePriority, 90);
 });

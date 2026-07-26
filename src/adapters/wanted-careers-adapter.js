@@ -49,6 +49,7 @@ function mapWantedJob(job, source) {
     attributes: {
       careerMinYears: Number.isFinite(annualFrom) ? annualFrom : null,
       careerMaxYears: Number.isFinite(Number(job.annual_to)) ? Number(job.annual_to) : null,
+      sourcePriority: source.priority || 0,
       sourceTrust: 'AGGREGATOR_DETAIL',
     },
   };

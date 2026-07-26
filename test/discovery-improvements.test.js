@@ -20,9 +20,9 @@ function response(body, kind = 'text') {
   };
 }
 
-function linkareerList(url) {
+function linkareerList(url, name) {
   return `<script id='__NEXT_DATA__'>${JSON.stringify({ props: { pageProps: {
-    activityItems: [{ url }],
+    activityItems: [{ url, name }],
   } } })}</script>`;
 }
 
@@ -113,6 +113,56 @@ test('keeps healthy Linkareer details when another detail exhausts retries', asy
 
   assert.equal(items.length, 1);
   assert.equal(items.collectionStats.failedDetailRequests, 1);
+});
+
+test('deep-scans Linkareer listing pages and only fetches relevant details', async () => {
+  const calls = [];
+  const fetchImpl = async (url) => {
+    calls.push(url);
+    if (url.includes('page=1')) {
+      return response(linkareerList(
+        'https://linkareer.com/activity/1',
+        'AI API 개발 해커톤',
+      ));
+    }
+    if (url.includes('page=2')) {
+      return response(linkareerList(
+        'https://linkareer.com/activity/2',
+        '일반 홍보 서포터즈',
+      ));
+    }
+    if (url.includes('page=3')) {
+      return response(linkareerList(
+        'https://linkareer.com/activity/3',
+        'AI Challengers 2기 온라인 부트캠프',
+      ));
+    }
+    if (url.endsWith('/1')) {
+      return response(linkareerDetail(1, 'AI API 개발 해커톤', Date.now()));
+    }
+    if (url.endsWith('/3')) {
+      return response(linkareerDetail(
+        3,
+        'AI Challengers 2기 온라인 부트캠프',
+        Date.now() - (20 * 86_400_000),
+      ));
+    }
+    throw new Error(`unexpected URL: ${url}`);
+  };
+
+  const items = await collectFromLinkareer({
+    id: 'linkareer',
+    routes: ['education'],
+    maxPagesPerRoute: 1,
+    discoveryMaxPagesPerRoute: 3,
+    maxItemsPerRoute: 1,
+  }, fetchImpl);
+
+  assert.deepEqual(items.map((item) => item.externalId), ['1', '3']);
+  assert.equal(calls.some((url) => url.endsWith('/2')), false);
+  assert.equal(items.collectionStats.pagesFetched, 3);
+  assert.equal(items.collectionStats.listingItems, 3);
+  assert.equal(items.collectionStats.detailRequests, 2);
 });
 
 function campusList(url) {

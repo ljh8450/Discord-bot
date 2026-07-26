@@ -61,6 +61,38 @@ test('sends an equivalent job from multiple sources only on its first discovery'
   assert.equal(store.state.deliveries[duplicate.dedupeKey].suppressedDuplicate, true);
 });
 
+test('suppresses a later cross-source job with a legal company-name variant', async () => {
+  const store = new MemoryStore();
+  const sent = [];
+  const notify = async (item) => {
+    sent.push(item.sourceId);
+    return { id: `message-${sent.length}` };
+  };
+  await runRadar({
+    rawItems: [rawJob({ organization: '(주)예시테크' })],
+    profile,
+    store,
+    notify,
+    now,
+  });
+  const report = await runRadar({
+    rawItems: [rawJob({
+      sourceId: 'wanted-entry-developers',
+      externalId: 'wanted-job-1',
+      url: 'https://www.wanted.co.kr/wd/1',
+      organization: '주식회사 예시테크',
+    })],
+    profile,
+    store,
+    notify,
+    now,
+  });
+
+  assert.equal(report.sent, 0);
+  assert.equal(report.duplicates, 1);
+  assert.deepEqual(sent, ['official-careers']);
+});
+
 test('does not resend an opportunity when important content changes', async () => {
   const store = new MemoryStore();
   const sent = [];

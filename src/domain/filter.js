@@ -1,5 +1,6 @@
 const { TYPES } = require('./opportunity');
 const { hasDevelopmentOutput } = require('./development-relevance');
+const { assessBenefit } = require('./validation');
 
 function searchableText(opportunity) {
   return [
@@ -72,6 +73,13 @@ function filterJob(opportunity, profile) {
 function filterHackathon(opportunity) {
   const excludedReason = excludedProgramReason(opportunity);
   if (excludedReason) return { decision: 'REJECTED', reason: excludedReason };
+  if (
+    opportunity.sourceId === 'linkareer'
+    && opportunity.attributes.aiAxRelated === true
+    && opportunity.attributes.focusedAiDevelopment !== true
+  ) {
+    return { decision: 'REJECTED', reason: 'AI·AX 명칭 외에 컴팩트한 개발 구현 근거 없음' };
+  }
 
   if (opportunity.attributes.platformDeveloperEvent === true) {
     return { decision: 'APPROVED', reason: '개발자 행사 출처' };
@@ -94,6 +102,24 @@ function filterEducation(opportunity) {
   const text = searchableText(opportunity);
   const immediate = ['개발 동아리', '기업 주관', '멘토링'];
   const needsBenefitReview = ['유료', '부트캠프', '정부 지원', '창업', '서포터즈', '풀타임'];
+  const benefit = assessBenefit(opportunity);
+
+  if (
+    opportunity.sourceId === 'linkareer'
+    && opportunity.attributes.aiAxRelated === true
+    && opportunity.attributes.focusedAiDevelopment !== true
+  ) {
+    return { decision: 'REJECTED', reason: 'AI·AX 명칭 외에 단기 실무 개발 근거 없음' };
+  }
+  const clearlyActionableProgram = opportunity.attributes.freeOrFunded === true
+    && opportunity.attributes.hiringConnection === true
+    && opportunity.attributes.reasonableTimeCommitment === true;
+  if (clearlyActionableProgram && benefit.decision === 'APPROVED') {
+    return {
+      decision: 'APPROVED',
+      reason: `무료·지원형 실무 교육 (${benefit.reason})`,
+    };
+  }
 
   if (includesAny(text, needsBenefitReview) || opportunity.attributes.requiresBenefitReview === true) {
     return { decision: 'PENDING_BENEFIT', reason: '비용·기간 대비 혜택 추가 심사 필요' };
@@ -112,6 +138,13 @@ function filterExternalActivity(opportunity) {
   const excludedReason = excludedProgramReason(opportunity);
 
   if (excludedReason) return { decision: 'REJECTED', reason: excludedReason };
+  if (
+    opportunity.sourceId === 'linkareer'
+    && opportunity.attributes.aiAxRelated === true
+    && opportunity.attributes.focusedAiDevelopment !== true
+  ) {
+    return { decision: 'REJECTED', reason: 'AI·AX 명칭 외에 실제 개발 결과물 근거 없음' };
+  }
   if (includesAny(text, needsBenefitReview) || opportunity.attributes.requiresBenefitReview === true) {
     return { decision: 'PENDING_BENEFIT', reason: '시간 부담 대비 활동 혜택 추가 심사 필요' };
   }

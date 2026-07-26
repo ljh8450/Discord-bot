@@ -1,7 +1,10 @@
 const {
   extractJsonScript, hasDevelopmentOutput, inferType, isExternalEvent, isTechRelevant, requestOptions,
 } = require('./platform-utils');
-const { hasExplicitDevelopmentActivity } = require('../domain/development-relevance');
+const {
+  hasExplicitDevelopmentActivity,
+  isAiAxFocused,
+} = require('../domain/development-relevance');
 const { attachCollectionStats } = require('./collection-stats');
 const TYPES = { contest: 'HACKATHON', education: 'EDUCATION', activity: 'EXTERNAL_ACTIVITY' };
 const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504]);
@@ -44,16 +47,57 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
     x.qualification, x.preferentialTreatment, x.mainActivity,
   ];
   if (!isTechRelevant(x.title, tags, x.organizationName, activityDetails)) return null;
-  const url = x.homepageURL || listingUrl;
+  const url = x.homepageURL || x.applyDetail || listingUrl;
   const benefits = [x.additionalBenefit, ...(x.benefits || [])]
     .map((v) => typeof v === 'string' ? v : v?.name).filter(Boolean).join(' ');
+  const evidenceText = [
+    x.title, tags, x.organizationName, benefits, activityDetails,
+  ].flat(Infinity).filter(Boolean).join(' ');
+  const freeOrFunded = Number(x.cost) === 0
+    || /무료|전액\s*지원|국비|교육비\s*지원|참가비\s*지원/i.test(evidenceText);
+  const hiringConnection = /일\s*경험|ojt|인턴|채용\s*(?:연계|우대)|취업\s*(?:연계|지원)/i
+    .test(evidenceText);
+  const industryMentoring = /현직자|실무자|기업\s*멘토|멘토링|코드\s*리뷰/i.test(evidenceText);
+  const portfolioProject = /프로젝트|포트폴리오|mvp|프로토타입|서비스\s*(?:개발|구현)/i
+    .test(evidenceText);
+  const reasonableTimeCommitment = /(?:[1-8]\s*주|단기)/i.test(evidenceText);
+  const activityDurationDays = Number.isFinite(Number(x.activityStartAt))
+    && Number.isFinite(Number(x.activityEndAt))
+    ? (Number(x.activityEndAt) - Number(x.activityStartAt)) / 86_400_000
+    : null;
+  const compactSchedule = reasonableTimeCommitment
+    || (activityDurationDays !== null && activityDurationDays > 0 && activityDurationDays <= 56);
+  const aiAxRelated = isAiAxFocused(evidenceText);
+  const explicitDevelopment = hasExplicitDevelopmentActivity(evidenceText);
+  const developerTrack = /백엔드|프론트엔드|풀스택|소프트웨어|프로그래밍|코딩|데이터\s*엔지니어|컴퓨터\s*공학|devops|개발자/i
+    .test(evidenceText);
+  const focusedAiDevelopment = !aiAxRelated || (
+    resolvedType === 'HACKATHON'
+      ? explicitDevelopment
+        || (/해커톤|경진대회|hackathon/i.test(evidenceText) && developerTrack)
+      : resolvedType === 'EXTERNAL_ACTIVITY'
+        ? explicitDevelopment
+        : resolvedType === 'EDUCATION'
+          && compactSchedule
+          && freeOrFunded
+          && (hiringConnection || portfolioProject || industryMentoring)
+          && developerTrack
+  );
+  const summaryParts = [
+    freeOrFunded ? '무료·지원' : null,
+    hiringConnection ? '일경험·취업 연계' : null,
+    portfolioProject ? '프로젝트·포트폴리오' : null,
+    benefits || null,
+  ].filter(Boolean);
   return {
     type: resolvedType, sourceId: source.id, externalId: String(x.id), url, title: x.title,
     organization: x.organizationName || '링커리어 등록 기관', status: 'OPEN', closesAt,
     publishedAt: x.createdAt ? new Date(Number(x.createdAt)).toISOString() : null,
     locations: [...(x.regions || []), ...(x.addresses || [])].map((v) => v?.name || v).filter(Boolean),
     eligibility: (x.targets || []).map((v) => v?.name || v).filter(Boolean), tags,
-    summary: `${x.dateRepresentation || '모집 일정 상세 확인'} · ${benefits || '지원 내용은 원문 확인'}`,
+    summary: summaryParts.length
+      ? summaryParts.join(' · ')
+      : `${x.dateRepresentation || '모집 일정 상세 확인'} · 지원 내용은 원문 확인`,
     summaryEvidence: [...new Set([listingUrl, url])],
     attributes: {
       listingUrl, originalUrl: url, sourcePriority: source.priority,
@@ -67,8 +111,15 @@ function mapLinkareerDetail(html, source, listingUrl, type, now = new Date()) {
         && isExternalEvent(x.title, tags),
       immediateCategory: false,
       requiresBenefitReview: resolvedType === 'EDUCATION',
-      freeOrFunded: /무료|지원/.test(`${x.cost || ''} ${benefits}`),
-      trustedOrganizer: Boolean(x.organizationName), portfolioProject: /프로젝트|포트폴리오/.test(x.title),
+      freeOrFunded,
+      trustedOrganizer: Boolean(x.organizationName),
+      portfolioProject,
+      hiringConnection,
+      industryMentoring,
+      reasonableTimeCommitment: compactSchedule,
+      aiAxRelated,
+      focusedAiDevelopment,
+      sponsoredListing: x.isSponsored === true,
     },
   };
 }
@@ -85,9 +136,14 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
   let duplicates = 0;
   let stopReason = 'routes exhausted';
   for (const route of source.routes || Object.keys(TYPES)) {
-    const maxPages = source.maxPagesPerRoute || source.maxPages || 5;
+    const regularMaxPages = source.maxPagesPerRoute || source.maxPages || 5;
+    const discoveryMaxPages = Math.max(
+      regularMaxPages,
+      source.discoveryMaxPagesPerRoute || regularMaxPages,
+    );
+    const deepDiscoveryEnabled = discoveryMaxPages > regularMaxPages;
     let routeItems = 0;
-    for (let page = 1; page <= maxPages; page += 1) {
+    for (let page = 1; page <= discoveryMaxPages; page += 1) {
       const listUrl = `https://linkareer.com/list/${route}?page=${page}`;
       let response;
       try {
@@ -97,7 +153,13 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
       }
       pagesFetched += 1;
       const data = extractJsonScript(await response.text(), '__NEXT_DATA__');
-      const urls = (data?.props?.pageProps?.activityItems || [])
+      const listingEntries = data?.props?.pageProps?.activityItems || [];
+      if (!listingEntries.length) break;
+      listingItems += listingEntries.length;
+      const candidates = page <= regularMaxPages
+        ? listingEntries
+        : listingEntries.filter((entry) => isTechRelevant(entry.name, entry.title));
+      const urls = candidates
         .map((x) => new URL(x.url, listUrl).toString())
         .filter((url) => {
           if (detailCache.has(url)) {
@@ -106,8 +168,7 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
           }
           return true;
         });
-      if (!urls.length) break;
-      listingItems += urls.length;
+      if (!urls.length) continue;
       const settled = await Promise.allSettled(urls.map(async (url) => {
         detailRequests += 1;
         const detail = await fetchWithRetry(url, source, fetchImpl);
@@ -128,11 +189,11 @@ async function collectFromLinkareer(source, fetchImpl = fetch) {
       output.push(...mapped);
       routeItems += mapped.length;
       const dates = details.map((x) => x.publishedAt).filter(Number.isFinite);
-      if (dates.length && dates.every((value) => value < cutoff)) {
+      if (!deepDiscoveryEnabled && dates.length && dates.every((value) => value < cutoff)) {
         stopReason = `${route}: older than ${source.recentDays || 7} days`;
         break;
       }
-      if (routeItems >= (source.maxItemsPerRoute || 100)) {
+      if (!deepDiscoveryEnabled && routeItems >= (source.maxItemsPerRoute || 100)) {
         stopReason = `${route}: maxItemsPerRoute reached`;
         break;
       }

@@ -1,5 +1,8 @@
 const { applyProfileFilter } = require('../domain/filter');
-const { normalizedTitle } = require('../domain/cross-source-dedupe');
+const {
+  normalizedOrganization,
+  normalizedTitle,
+} = require('../domain/cross-source-dedupe');
 const {
   DELIVERY_STATUS,
   EVENT_TYPES,
@@ -11,10 +14,6 @@ const {
 const { normalizeOpportunity } = require('../domain/opportunity');
 const { assessBenefit, validateMinimum } = require('../domain/validation');
 const { URL_VERDICTS } = require('../validation/url-verifier');
-
-function normalizedOrganization(value) {
-  return String(value || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
-}
 
 function findPreviouslySentEquivalentJob(state, opportunity) {
   if (opportunity.type !== OPPORTUNITY_TYPES.JOB) return null;

@@ -8,7 +8,10 @@ function normalizedTitle(value) {
 }
 
 function normalizedOrganization(value) {
-  return String(value || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
+  return String(value || '').toLowerCase()
+    .replace(/(?:주식회사|\(\s*주\s*\)|㈜)/gu, '')
+    .replace(/\b(?:co(?:mpany)?|corp(?:oration)?|inc(?:orporated)?|ltd)\b/giu, '')
+    .replace(/[^\p{L}\p{N}]+/gu, '');
 }
 
 function signature(item) {

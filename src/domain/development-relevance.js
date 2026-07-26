@@ -46,6 +46,14 @@ const NON_PARTICIPANT_ROLE_PATTERNS = [
   /(?:해커톤|경진대회|공모전).{0,30}(?:멘토|강사|운영진|운영요원|스태프|심사위원)/i,
 ];
 
+const AI_AX_PATTERNS = [
+  /(^|[^a-z0-9])a\.?i\.?([^a-z0-9]|$)/i,
+  /(^|[^a-z0-9])a\.?x\.?([^a-z0-9]|$)/i,
+  /인공지능|머신\s*러닝|딥\s*러닝|초거대\s*ai/i,
+  /\b(?:llm|rag|machine\s*learning|deep\s*learning|artificial\s*intelligence)\b/i,
+  /ai\s*(?:agent|에이전트)|(?:agent|에이전트)\s*ai/i,
+];
+
 function relevanceText(values) {
   return values.flat(Infinity).filter(Boolean).join(' ').toLowerCase();
 }
@@ -68,4 +76,12 @@ function hasExplicitDevelopmentActivity(...values) {
   return hasDevelopmentOutput(text) && matchesAny(text, EXPLICIT_ACTIVITY_OUTPUT_PATTERNS);
 }
 
-module.exports = { hasDevelopmentOutput, hasExplicitDevelopmentActivity };
+function isAiAxFocused(...values) {
+  return matchesAny(relevanceText(values), AI_AX_PATTERNS);
+}
+
+module.exports = {
+  hasDevelopmentOutput,
+  hasExplicitDevelopmentActivity,
+  isAiAxFocused,
+};

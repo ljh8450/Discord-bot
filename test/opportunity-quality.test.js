@@ -88,7 +88,7 @@ test('accepts curated platform developer events in the hackathon channel', () =>
 
 test('routes forum, conference, lecture, and seminar contests to external activities', () => {
   for (const title of [
-    'AI 개발 포럼 공모전', '클라우드 컨퍼런스 공모전',
+    '백엔드 개발 포럼 공모전', '클라우드 컨퍼런스 공모전',
     '백엔드 강연 공모전', '개발자 세미나 공모전',
   ]) {
     const item = mapActivity({ title, skills: ['개발'] }, 'HACKATHON');
@@ -193,6 +193,74 @@ test('sends aggregator education through benefit review instead of immediate app
   }, 'EDUCATION');
   assert.equal(item.attributes.immediateCategory, false);
   assert.equal(item.attributes.requiresBenefitReview, true);
+});
+
+test('approves a free short AI education program with work-experience benefits', () => {
+  const item = mapActivity({
+    title: '[일경험 연계] AI Challengers 2기 5주 단기 완성 AI 온라인 부트캠프',
+    organizationName: '(주)이스트소프트',
+    categories: ['AI/ML', '백엔드 개발'],
+    cost: 0,
+    applyDetail: 'https://aichallengers.careerlink.kr/2',
+    isSponsored: true,
+  }, 'EDUCATION');
+  const decision = applyProfileFilter(item, {});
+
+  assert.equal(item.url, 'https://aichallengers.careerlink.kr/2');
+  assert.equal(item.attributes.freeOrFunded, true);
+  assert.equal(item.attributes.hiringConnection, true);
+  assert.equal(item.attributes.reasonableTimeCommitment, true);
+  assert.equal(item.attributes.sponsoredListing, true);
+  assert.equal(item.attributes.aiAxRelated, true);
+  assert.equal(item.attributes.focusedAiDevelopment, true);
+  assert.equal(decision.decision, 'APPROVED');
+  assert.match(decision.reason, /무료·지원형 실무 교육/);
+});
+
+test('rejects broad Linkareer AI and AX activities without implementation evidence', () => {
+  const cases = [
+    {
+      type: 'HACKATHON',
+      title: 'AX 혁신 아이디어 공모전',
+      categories: ['인공지능'],
+      description: '기업의 AX 전환 아이디어와 기획서를 제출',
+    },
+    {
+      type: 'EXTERNAL_ACTIVITY',
+      title: '대학생 AI 앰배서더',
+      categories: ['AI/ML'],
+      description: 'AI 서비스 홍보 콘텐츠와 카드뉴스 제작',
+    },
+    {
+      type: 'EDUCATION',
+      title: 'AI 시대 커리어 아카데미',
+      categories: ['인공지능'],
+      cost: 0,
+      activityStartAt: Date.parse('2026-08-01'),
+      activityEndAt: Date.parse('2026-11-01'),
+    },
+  ];
+
+  for (const current of cases) {
+    const item = mapActivity(current, current.type);
+    const decision = applyProfileFilter(item, {});
+    assert.equal(item.attributes.aiAxRelated, true, current.title);
+    assert.equal(item.attributes.focusedAiDevelopment, false, current.title);
+    assert.equal(decision.decision, 'REJECTED', current.title);
+    assert.match(decision.reason, /AI·AX/, current.title);
+  }
+});
+
+test('accepts a compact AI hackathon with explicit service implementation', () => {
+  const item = mapActivity({
+    title: '생성형 AI 서비스 해커톤',
+    categories: ['AI/ML', '백엔드 개발'],
+    description: 'LLM API 기반 서비스를 구현하고 MVP를 배포',
+  }, 'HACKATHON');
+  const decision = applyProfileFilter(item, {});
+
+  assert.equal(item.attributes.focusedAiDevelopment, true);
+  assert.equal(decision.decision, 'APPROVED');
 });
 
 function filteredEvent(title, type, summary = '', organization = '예시 기관') {

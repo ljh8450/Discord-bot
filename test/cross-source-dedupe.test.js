@@ -9,3 +9,23 @@ test('keeps the higher-priority source for equivalent titles', () => {
     closesAt: '2026-08-01', url: 'https://high.example/a', attributes: { sourcePriority: 100 } };
   assert.deepEqual(dedupeAcrossSources([low, high]), [high]);
 });
+
+test('deduplicates legal company-name variants across recruitment services', () => {
+  const zighang = {
+    type: 'JOB',
+    sourceId: 'zighang',
+    title: '신입 백엔드 개발자 채용',
+    organization: '(주)니치AI',
+    url: 'https://zighang.com/recruitment/1',
+    attributes: { sourcePriority: 80 },
+  };
+  const wanted = {
+    ...zighang,
+    sourceId: 'wanted',
+    organization: '주식회사 니치AI',
+    url: 'https://www.wanted.co.kr/wd/2',
+    attributes: { sourcePriority: 90 },
+  };
+
+  assert.deepEqual(dedupeAcrossSources([zighang, wanted]), [wanted]);
+});
