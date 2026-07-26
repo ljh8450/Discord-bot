@@ -1,6 +1,6 @@
 const { collectAll } = require('./adapters');
-const { BRIEF_SOURCES } = require('./config/builtin-sources');
 const { loadLocalEnv } = require('./config/load-env');
+const { loadRuntimeConfig } = require('./config/runtime-config');
 const { sendDeveloperBrief } = require('./discord/brief');
 const { sendOperationsAlert } = require('./discord/operations-alert');
 const { resolveWebhookUrl } = require('./discord/router');
@@ -13,6 +13,7 @@ const { JsonStore } = require('./store/json-store');
 async function main() {
   loadLocalEnv();
   const dryRun = process.argv[2] === 'dry-run';
+  const { briefSources: sources } = await loadRuntimeConfig();
   const persistedStore = new JsonStore(process.env.RADAR_STATE_FILE || 'data/state.json');
   const dryState = dryRun ? await persistedStore.load() : null;
   const store = dryRun
@@ -20,7 +21,7 @@ async function main() {
     : persistedStore;
   const {
     items, errors: collectionErrors, successfulSourceIds, sourceCounts, skippedSources,
-  } = await collectAll(BRIEF_SOURCES);
+  } = await collectAll(sources);
   const { errors, warnings: sourceErrorWarnings } = classifyBriefSourceErrors(
     collectionErrors,
     successfulSourceIds,
@@ -28,7 +29,7 @@ async function main() {
   const warnings = [
     ...sourceErrorWarnings,
     ...buildCollectionWarnings({
-      sources: BRIEF_SOURCES,
+      sources,
       successfulSourceIds,
       sourceCounts,
       skippedSources,

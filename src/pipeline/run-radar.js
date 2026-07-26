@@ -1,27 +1,33 @@
 const { applyProfileFilter } = require('../domain/filter');
 const { normalizedTitle } = require('../domain/cross-source-dedupe');
+const {
+  DELIVERY_STATUS,
+  EVENT_TYPES,
+  NOTIFICATION_TYPE_ORDER,
+  OPPORTUNITY_STATUS,
+  OPPORTUNITY_TYPES,
+  REVIEW_STATUS,
+} = require('../domain/contracts');
 const { normalizeOpportunity } = require('../domain/opportunity');
 const { assessBenefit, validateMinimum } = require('../domain/validation');
 const { URL_VERDICTS } = require('../validation/url-verifier');
-
-const NOTIFICATION_TYPE_ORDER = ['HACKATHON', 'JOB', 'EXTERNAL_ACTIVITY', 'EDUCATION', 'CONTENT'];
 
 function normalizedOrganization(value) {
   return String(value || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
 }
 
 function findPreviouslySentEquivalentJob(state, opportunity) {
-  if (opportunity.type !== 'JOB') return null;
+  if (opportunity.type !== OPPORTUNITY_TYPES.JOB) return null;
   const organization = normalizedOrganization(opportunity.organization);
   const title = normalizedTitle(opportunity.title);
   if (!organization || !title) return null;
 
   return Object.values(state.opportunities).find((candidate) => {
-    if (candidate.id === opportunity.id || candidate.type !== 'JOB') return false;
+    if (candidate.id === opportunity.id || candidate.type !== OPPORTUNITY_TYPES.JOB) return false;
     if (candidate.sourceId === opportunity.sourceId) return false;
-    const sent = candidate.review?.status === 'SENT'
-      || state.deliveries[candidate.dedupeKey]?.status === 'SENT';
-    if (!sent || candidate.status !== 'OPEN') return false;
+    const sent = candidate.review?.status === REVIEW_STATUS.SENT
+      || state.deliveries[candidate.dedupeKey]?.status === DELIVERY_STATUS.SENT;
+    if (!sent || candidate.status !== OPPORTUNITY_STATUS.OPEN) return false;
     return normalizedOrganization(candidate.organization) === organization
       && normalizedTitle(candidate.title) === title;
   }) || null;
@@ -84,25 +90,25 @@ async function runRadar(options) {
     seenIds.add(opportunity.id);
     const unchanged = previous?.contentHash === opportunity.contentHash;
     const previouslySent = previous && (
-      previous.review?.status === 'SENT'
-      || state.deliveries[previous.dedupeKey]?.status === 'SENT'
+      previous.review?.status === REVIEW_STATUS.SENT
+      || state.deliveries[previous.dedupeKey]?.status === DELIVERY_STATUS.SENT
     );
     const equivalentSent = previouslySent
       ? null
       : findPreviouslySentEquivalentJob(state, opportunity);
     if (previous) opportunity.firstSeenAt = previous.firstSeenAt;
     if (previouslySent) {
-      opportunity.eventType = previous.eventType || 'DISCOVERED';
+      opportunity.eventType = previous.eventType || EVENT_TYPES.DISCOVERED;
       opportunity.dedupeKey = previous.dedupeKey;
-      opportunity.review = previous.review || { status: 'SENT', reason: '기존 발송 완료' };
+      opportunity.review = previous.review || { status: REVIEW_STATUS.SENT, reason: '기존 발송 완료' };
     } else if (equivalentSent) {
-      opportunity.eventType = 'DISCOVERED';
+      opportunity.eventType = EVENT_TYPES.DISCOVERED;
       opportunity.review = {
-        status: 'SENT',
+        status: REVIEW_STATUS.SENT,
         reason: `동일 채용공고 발송 완료: ${equivalentSent.id}`,
       };
       state.deliveries[opportunity.dedupeKey] = {
-        status: 'SENT',
+        status: DELIVERY_STATUS.SENT,
         opportunityId: opportunity.id,
         sentAt: now.toISOString(),
         suppressedDuplicate: true,
@@ -111,20 +117,20 @@ async function runRadar(options) {
       report.duplicates += 1;
       sourceReport.duplicates += 1;
     } else if (unchanged) {
-      opportunity.eventType = previous.eventType || 'DISCOVERED';
+      opportunity.eventType = previous.eventType || EVENT_TYPES.DISCOVERED;
       opportunity.dedupeKey = previous.dedupeKey;
       opportunity.review = previous.review;
     } else if (previous) {
-      opportunity.eventType = 'UPDATED';
+      opportunity.eventType = EVENT_TYPES.UPDATED;
       opportunity.dedupeKey = `updated:${opportunity.id}:${opportunity.contentHash}`;
     } else {
-      opportunity.eventType = 'DISCOVERED';
+      opportunity.eventType = EVENT_TYPES.DISCOVERED;
     }
     if (
       !opportunity.review
-      && state.deliveries[opportunity.dedupeKey]?.status === 'SENT'
+      && state.deliveries[opportunity.dedupeKey]?.status === DELIVERY_STATUS.SENT
     ) {
-      opportunity.review = { status: 'SENT', reason: '발송 이력에서 복구' };
+      opportunity.review = { status: REVIEW_STATUS.SENT, reason: '발송 이력에서 복구' };
     }
     opportunity.lifecycle = { ...(previous?.lifecycle || {}), missingRuns: 0 };
     delete opportunity.lifecycle.closedAt;
@@ -132,7 +138,7 @@ async function runRadar(options) {
     state.opportunities[opportunity.id] = opportunity;
     report.discovered += previous ? 0 : 1;
 
-    if (state.deliveries[opportunity.dedupeKey]?.status === 'SENT') continue;
+    if (state.deliveries[opportunity.dedupeKey]?.status === DELIVERY_STATUS.SENT) continue;
 
     const validation = validateMinimum(opportunity, now);
     if (!validation.valid) {
@@ -212,7 +218,7 @@ async function runRadar(options) {
       && (report.sentByType[opportunity.type] || 0) >= configuredTypeLimit
     ) {
       state.opportunities[opportunity.id].review = {
-        status: 'DEFERRED',
+        status: REVIEW_STATUS.DEFERRED,
         reason: `${opportunity.type} 실행당 발송 상한 ${configuredTypeLimit}건 초과`,
       };
       report.deferred += 1;
@@ -222,7 +228,7 @@ async function runRadar(options) {
     }
     if (report.sent >= maxNotifications) {
       state.opportunities[opportunity.id].review = {
-        status: 'DEFERRED',
+        status: REVIEW_STATUS.DEFERRED,
         reason: `실행당 발송 상한 ${maxNotifications}건 초과`,
       };
       report.deferred += 1;
@@ -235,7 +241,7 @@ async function runRadar(options) {
       message = await notify(opportunity);
     } catch (error) {
       state.deliveries[opportunity.dedupeKey] = {
-        status: 'FAILED',
+        status: DELIVERY_STATUS.FAILED,
         opportunityId: opportunity.id,
         attemptedAt: now.toISOString(),
         error: error.message,
@@ -246,12 +252,12 @@ async function runRadar(options) {
       continue;
     }
     state.deliveries[opportunity.dedupeKey] = {
-      status: 'SENT',
+      status: DELIVERY_STATUS.SENT,
       opportunityId: opportunity.id,
       sentAt: now.toISOString(),
       messageId: message?.id || null,
     };
-    state.opportunities[opportunity.id].review.status = 'SENT';
+    state.opportunities[opportunity.id].review.status = REVIEW_STATUS.SENT;
     report.sent += 1;
     sourceReport.sent += 1;
     if (acceptedUnverifiable) {
@@ -268,8 +274,8 @@ async function runRadar(options) {
       if (!checked.has(opportunity.sourceId) || seenIds.has(opportunity.id)) continue;
       const missingRuns = (opportunity.lifecycle?.missingRuns || 0) + 1;
       opportunity.lifecycle = { ...(opportunity.lifecycle || {}), missingRuns };
-      if (opportunity.status === 'OPEN' && missingRuns >= missingThreshold) {
-        opportunity.status = 'CLOSED';
+      if (opportunity.status === OPPORTUNITY_STATUS.OPEN && missingRuns >= missingThreshold) {
+        opportunity.status = OPPORTUNITY_STATUS.CLOSED;
         opportunity.lifecycle.closedAt = now.toISOString();
         opportunity.lifecycle.closeReason = '공식 출처에서 연속 미확인';
         report.closed += 1;

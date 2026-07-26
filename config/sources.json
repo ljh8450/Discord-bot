@@ -95,5 +95,6 @@
       "timeoutMs": 30000,
       "allowEmpty": true
     }
-  ]
+  ],
+  "briefSources": []
 }

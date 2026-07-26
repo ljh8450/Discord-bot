@@ -1,9 +1,8 @@
-const { readFile } = require('node:fs/promises');
 const path = require('node:path');
 
 const { collectAll } = require('./adapters');
 const { loadLocalEnv } = require('./config/load-env');
-const { AGGREGATOR_SOURCES, OPPORTUNITY_SOURCES } = require('./config/builtin-sources');
+const { loadRuntimeConfig } = require('./config/runtime-config');
 const { applyProfileFilter } = require('./domain/filter');
 const { normalizeOpportunity } = require('./domain/opportunity');
 const { validateMinimum } = require('./domain/validation');
@@ -36,11 +35,14 @@ function assessCollectedItem(raw, profile, now = new Date()) {
 
 async function diagnose(query, options = {}) {
   const rootDir = options.rootDir || process.cwd();
-  const readJson = async (file) => JSON.parse(await readFile(path.resolve(rootDir, file), 'utf8'));
-  const profile = options.profile || await readJson('config/profile.json');
-  const sourceConfig = options.sourceConfig || await readJson('config/sources.json');
-  const sources = options.sources
-    || [...AGGREGATOR_SOURCES, ...OPPORTUNITY_SOURCES, ...sourceConfig.sources];
+  const runtimeConfig = await loadRuntimeConfig({
+    rootDir,
+    env: options.env,
+    profile: options.profile,
+    sourceConfig: options.sourceConfig,
+  });
+  const { profile } = runtimeConfig;
+  const sources = options.sources || runtimeConfig.radarSources;
   const collected = await collectAll(sources, {
     rootDir,
     fetchImpl: options.fetchImpl,

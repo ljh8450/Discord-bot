@@ -1,9 +1,6 @@
-const { readFile } = require('node:fs/promises');
-const path = require('node:path');
-
 const { collectAll } = require('./adapters');
 const { loadLocalEnv } = require('./config/load-env');
-const { AGGREGATOR_SOURCES, OPPORTUNITY_SOURCES } = require('./config/builtin-sources');
+const { loadRuntimeConfig } = require('./config/runtime-config');
 const { dedupeAcrossSources } = require('./domain/cross-source-dedupe');
 const { createCategoryNotifier } = require('./discord/router');
 const { sendOperationsAlert } = require('./discord/operations-alert');
@@ -12,17 +9,12 @@ const { runRadar } = require('./pipeline/run-radar');
 const { JsonStore } = require('./store/json-store');
 const { verifyUrl } = require('./validation/url-verifier');
 
-async function readJson(filePath) {
-  return JSON.parse(await readFile(path.resolve(filePath), 'utf8'));
-}
-
 async function main() {
   loadLocalEnv();
   const command = process.argv[2] || 'run';
   if (!['run', 'recover', 'dry-run'].includes(command)) throw new Error(`unknown command: ${command}`);
 
-  const profile = await readJson(process.env.RADAR_PROFILE || 'config/profile.json');
-  const sourceConfig = await readJson(process.env.RADAR_SOURCES || 'config/sources.json');
+  const { profile, radarSources: sources } = await loadRuntimeConfig();
   const candidates = [];
   const dryRun = command === 'dry-run';
   const persistedStore = new JsonStore(process.env.RADAR_STATE_FILE || 'data/state.json');
@@ -33,7 +25,6 @@ async function main() {
         save: async () => undefined,
       }
     : persistedStore;
-  const sources = [...AGGREGATOR_SOURCES, ...OPPORTUNITY_SOURCES, ...sourceConfig.sources];
   const collected = await collectAll(
     sources,
     { rootDir: process.cwd() },

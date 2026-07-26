@@ -1,0 +1,51 @@
+const OPPORTUNITY_TYPES = Object.freeze({
+  JOB: 'JOB',
+  HACKATHON: 'HACKATHON',
+  CONTENT: 'CONTENT',
+  EXTERNAL_ACTIVITY: 'EXTERNAL_ACTIVITY',
+  EDUCATION: 'EDUCATION',
+});
+
+const OPPORTUNITY_STATUS = Object.freeze({
+  OPEN: 'OPEN',
+  CLOSED: 'CLOSED',
+});
+
+// Current snapshot model records only the latest detected event on Opportunity.
+// A separate event history may be introduced later without changing these values.
+const EVENT_TYPES = Object.freeze({
+  DISCOVERED: 'DISCOVERED',
+  UPDATED: 'UPDATED',
+});
+
+const REVIEW_STATUS = Object.freeze({
+  DISCOVERED: 'DISCOVERED',
+  VALIDATING: 'VALIDATING',
+  APPROVED: 'APPROVED',
+  PENDING_BENEFIT: 'PENDING_BENEFIT',
+  REJECTED: 'REJECTED',
+  DEFERRED: 'DEFERRED',
+  SENT: 'SENT',
+});
+
+const DELIVERY_STATUS = Object.freeze({
+  FAILED: 'FAILED',
+  SENT: 'SENT',
+});
+
+const NOTIFICATION_TYPE_ORDER = Object.freeze([
+  OPPORTUNITY_TYPES.HACKATHON,
+  OPPORTUNITY_TYPES.JOB,
+  OPPORTUNITY_TYPES.EXTERNAL_ACTIVITY,
+  OPPORTUNITY_TYPES.EDUCATION,
+  OPPORTUNITY_TYPES.CONTENT,
+]);
+
+module.exports = {
+  DELIVERY_STATUS,
+  EVENT_TYPES,
+  NOTIFICATION_TYPE_ORDER,
+  OPPORTUNITY_STATUS,
+  OPPORTUNITY_TYPES,
+  REVIEW_STATUS,
+};

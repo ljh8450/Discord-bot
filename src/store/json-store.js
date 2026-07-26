@@ -1,16 +1,7 @@
 const { mkdir, readFile, rename, writeFile } = require('node:fs/promises');
 const path = require('node:path');
 
-const EMPTY_STATE = Object.freeze({
-  opportunities: {},
-  deliveries: {},
-  pending: {},
-  feedback: [],
-});
-
-function freshState() {
-  return JSON.parse(JSON.stringify(EMPTY_STATE));
-}
+const { createEmptyState, hydrateState } = require('./state-contract');
 
 class JsonStore {
   constructor(filePath) {
@@ -20,9 +11,9 @@ class JsonStore {
   async load() {
     try {
       const parsed = JSON.parse(await readFile(this.filePath, 'utf8'));
-      return { ...freshState(), ...parsed };
+      return hydrateState(parsed);
     } catch (error) {
-      if (error.code === 'ENOENT') return freshState();
+      if (error.code === 'ENOENT') return createEmptyState();
       throw error;
     }
   }
