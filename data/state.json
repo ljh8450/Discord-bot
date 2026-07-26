@@ -27143,6 +27143,55 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_cbddf0a0b8254cdeb43f": {
+      "id": "opp_cbddf0a0b8254cdeb43f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31816",
+      "canonicalUrl": "https://github.com/foru17/neko-master",
+      "title": "neko-master - 네트워크 트래픽 시각화 및 분석용 대시보드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "로컬 게이트웨이 환경 전용 트래픽 분석/시각화 대시보드 네트워크 접속 서비스나 프록시 구독 없이 사용자 자신의 네트워크 데이터만 수집 WebSoc...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31816"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d4c1c68912edb9f4def863767b0cb307606297bc2718075ec15f77b13ae06f89",
+      "dedupeKey": "brief:opp_cbddf0a0b8254cdeb43f:sha256:d4c1c68912edb9f4def863767b0cb307606297bc2718075ec15f77b13ae06f89",
+      "firstSeenAt": "2026-07-26T09:05:18.520Z",
+      "lastSeenAt": "2026-07-26T09:05:18.520Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -28610,6 +28659,12 @@
       "opportunityId": "opp_000e2ec74c9cea7cc1f7",
       "sentAt": "2026-07-26T07:37:54.419Z",
       "messageId": "1530841586588450887"
+    },
+    "brief:opp_cbddf0a0b8254cdeb43f:sha256:d4c1c68912edb9f4def863767b0cb307606297bc2718075ec15f77b13ae06f89": {
+      "status": "SENT",
+      "opportunityId": "opp_cbddf0a0b8254cdeb43f",
+      "sentAt": "2026-07-26T09:05:18.520Z",
+      "messageId": "1530863582974054562"
     }
   },
   "pending": {
