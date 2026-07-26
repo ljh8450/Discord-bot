@@ -27247,6 +27247,59 @@
       "lifecycle": {
         "missingRuns": 0
       }
+    },
+    "opp_e8ac4f34a81acad54d76": {
+      "id": "opp_e8ac4f34a81acad54d76",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:-CDz4HTz5Iw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-CDz4HTz5Iw",
+      "title": "IT뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T09:02:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등 조코딩과 코딩 공부하기 https://jocoding.net/ 제보 메일: jebo@jocoding.net",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-CDz4HTz5Iw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-26T09:02:29.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:28ca91a468977fcfe5a315ea4a8b37dd95e7c00f31a101ca4f390f9dfcc106bb",
+      "dedupeKey": "brief:opp_e8ac4f34a81acad54d76:sha256:28ca91a468977fcfe5a315ea4a8b37dd95e7c00f31a101ca4f390f9dfcc106bb",
+      "firstSeenAt": "2026-07-26T10:42:49.477Z",
+      "lastSeenAt": "2026-07-26T10:42:49.477Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -28720,6 +28773,12 @@
       "opportunityId": "opp_cbddf0a0b8254cdeb43f",
       "sentAt": "2026-07-26T09:05:18.520Z",
       "messageId": "1530863582974054562"
+    },
+    "brief:opp_e8ac4f34a81acad54d76:sha256:28ca91a468977fcfe5a315ea4a8b37dd95e7c00f31a101ca4f390f9dfcc106bb": {
+      "status": "SENT",
+      "opportunityId": "opp_e8ac4f34a81acad54d76",
+      "sentAt": "2026-07-26T10:42:49.477Z",
+      "messageId": "1530888124639744122"
     }
   },
   "pending": {
