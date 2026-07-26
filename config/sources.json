@@ -56,7 +56,7 @@
       "id": "saramin-entry-developers",
       "kind": "saramin-careers",
       "priority": 95,
-      "enabled": true,
+      "enabled": false,
       "requiredEnv": "SARAMIN_ACCESS_KEY",
       "accessKeyEnv": "SARAMIN_ACCESS_KEY",
       "url": "https://oapi.saramin.co.kr/job-search",
