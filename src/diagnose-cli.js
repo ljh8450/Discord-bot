@@ -57,7 +57,7 @@ async function diagnose(query, options = {}) {
   let stateMatches = [];
   if (!matches.length) {
     const store = options.store || new JsonStore(
-      options.stateFile || path.resolve(rootDir, 'data/state.json'),
+      options.stateFile || path.resolve(rootDir, 'data/radar-state.json'),
     );
     const state = await store.load();
     stateMatches = Object.values(state.opportunities)

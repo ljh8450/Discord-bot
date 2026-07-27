@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: opportunity-radar
+  group: opportunity-brief
   cancel-in-progress: false
 
 permissions:
@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
       - uses: actions/setup-node@v5
         with:
           node-version: 24
@@ -32,10 +34,10 @@ jobs:
       - name: Persist brief state
         if: always()
         run: |
-          git status --porcelain -- data/state.json | grep -q . || exit 0
+          git status --porcelain -- data/brief-state.json | grep -q . || exit 0
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/state.json
+          git add data/brief-state.json
           git commit -m 'chore: persist developer brief state'
           for attempt in 1 2 3; do
             git fetch origin main

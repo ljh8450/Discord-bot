@@ -17,7 +17,7 @@ async function main() {
   const { profile, radarSources: sources } = await loadRuntimeConfig();
   const candidates = [];
   const dryRun = command === 'dry-run';
-  const persistedStore = new JsonStore(process.env.RADAR_STATE_FILE || 'data/state.json');
+  const persistedStore = new JsonStore(process.env.RADAR_STATE_FILE || 'data/radar-state.json');
   const dryState = dryRun ? await persistedStore.load() : null;
   const store = dryRun
     ? {

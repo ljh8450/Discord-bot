@@ -144,6 +144,7 @@ npm run heartbeat      # 스케줄러 heartbeat 전송
 - [`src/discord`](src/discord): Discord 메시지와 채널 라우팅
 - [`cloudflare/radar-scheduler.mjs`](cloudflare/radar-scheduler.mjs): Cloudflare 보조 스케줄러
 - [`.github/workflows`](.github/workflows): 수집·브리프·복구 자동화
-- [`data/state.json`](data/state.json): 기회와 전송 상태
+- [`data/radar-state.json`](data/radar-state.json): Radar opportunities and delivery state
+- [`data/brief-state.json`](data/brief-state.json): Developer Brief content and delivery state
 - [`docs/PRODUCT_DEFINITION.md`](docs/PRODUCT_DEFINITION.md): 제품 정의
 - [`docs/IMPLEMENTATION.md`](docs/IMPLEMENTATION.md): 상세 구현 가이드

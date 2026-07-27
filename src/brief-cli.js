@@ -14,7 +14,7 @@ async function main() {
   loadLocalEnv();
   const dryRun = process.argv[2] === 'dry-run';
   const { briefSources: sources } = await loadRuntimeConfig();
-  const persistedStore = new JsonStore(process.env.RADAR_STATE_FILE || 'data/state.json');
+  const persistedStore = new JsonStore(process.env.BRIEF_STATE_FILE || 'data/brief-state.json');
   const dryState = dryRun ? await persistedStore.load() : null;
   const store = dryRun
     ? { load: async () => structuredClone(dryState), save: async () => undefined }
