@@ -5807,26 +5807,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 15,
+        "communityPoints": 20,
         "communityRank": 1,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1",
       "dedupeKey": "brief:opp_15028b728a80aba4142a:sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1",
-      "firstSeenAt": "2026-07-27T09:05:53.538Z",
-      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -5954,26 +5954,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 9,
-        "contentScore": 12,
+        "communityPoints": 10,
+        "communityRank": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79",
       "dedupeKey": "brief:opp_e3117dac92bd90a9c444:sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79",
-      "firstSeenAt": "2026-07-27T09:05:53.538Z",
-      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -6004,7 +6004,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 19,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6018,8 +6018,8 @@
       },
       "contentHash": "sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
       "dedupeKey": "brief:opp_b950826ca39c0dde0f23:sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
-      "firstSeenAt": "2026-07-27T09:05:53.538Z",
-      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6460,8 +6460,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 6,
+        "communityPoints": 6,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6475,8 +6475,8 @@
       },
       "contentHash": "sha256:f19a02e5c2bbb04b379ff64035351debacc95a2b3636b538f3e033515b05f8d8",
       "dedupeKey": "brief:opp_c2318191892fa0bb2351:sha256:f19a02e5c2bbb04b379ff64035351debacc95a2b3636b538f3e033515b05f8d8",
-      "firstSeenAt": "2026-07-27T09:05:53.538Z",
-      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6509,7 +6509,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 6,
         "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -6524,11 +6524,267 @@
       },
       "contentHash": "sha256:5792c4dea3aac75af6fc20e71616a75bf7dd4bfd7e7511827ca0520291ecc29d",
       "dedupeKey": "brief:opp_2d5583b2d4408526d8aa:sha256:5792c4dea3aac75af6fc20e71616a75bf7dd4bfd7e7511827ca0520291ecc29d",
-      "firstSeenAt": "2026-07-27T09:05:53.538Z",
-      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_db441b5ca11ff2653820": {
+      "id": "opp_db441b5ca11ff2653820",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31833",
+      "canonicalUrl": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "title": "DeepSeek, 미중 AI 격차 관련 발언 유출후 투자 유치 중단 (녹취록)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T03:37:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "DeepSeek가 두 번째 투자 유치에 참여하던 일부 투자자에게 예정됐던 계약 체결을 진행하지 않고 협상을 당분간 중단한다고 구두로 통보했으며, 향...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31833"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ecac22b4062d62ceb0d9d0e53ce640ee3c494ea2eded89b145347a50f5274113",
+      "dedupeKey": "brief:opp_db441b5ca11ff2653820:sha256:ecac22b4062d62ceb0d9d0e53ce640ee3c494ea2eded89b145347a50f5274113",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1c236230036adf198f0b": {
+      "id": "opp_1c236230036adf198f0b",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "canonicalUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "How AI is expanding what people do at work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d67d1aadce68677743b26cfaa8d012a0c513a17438f8940f943011a98c5d1538",
+      "dedupeKey": "brief:opp_1c236230036adf198f0b:sha256:d67d1aadce68677743b26cfaa8d012a0c513a17438f8940f943011a98c5d1538",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4b8b9d429b74e273dfb3": {
+      "id": "opp_4b8b9d429b74e273dfb3",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:XNqrW__UD0o",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XNqrW__UD0o",
+      "title": "[한영자막] TypeScript 7 정식 출시, 컴파일 속도가 진짜 10배 빨라졌을까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T09:00:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "앤더스 헤일스버그가 직접 소개하는 TypeScript 7! 컴파일러를 통째로 Go 네이티브 코드로 옮겨 기존보다 최대 10배 빠른 성능을 보여줍니다. 주요 포인트: - VS Code 전체 컴파일 시간이 50초에서 5초 이하로 줄어드는 실시간 시연 - 공유 메모리 동시성으로 모든 CPU 코어를 활용하는 방식 - LSP 기반 새 언어 서버로 참조 검색, 오류 표시, 시작 속도까지 즉각적으로 개선 - 기존 TypeScript 6와 99.99% 호환되는 안정성 #TypeScript #TypeScript7",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XNqrW__UD0o"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T09:00:30.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5b761741ef72861dfb9dafd0cd3b7807a403f5744aeca8209184bcde1a3ba928",
+      "dedupeKey": "brief:opp_4b8b9d429b74e273dfb3:sha256:5b761741ef72861dfb9dafd0cd3b7807a403f5744aeca8209184bcde1a3ba928",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ab3ff729db952c755055": {
+      "id": "opp_ab3ff729db952c755055",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:uJkmtIPOIzE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uJkmtIPOIzE",
+      "title": "넷플릭스 CPTO가 알려준 시스템 씽킹 훈련법 — 크게 보지 말고 \"한 클릭\"만 나가세요",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T12:12:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"아주 좁고 깊은 전문화의 시대는, 이제 더 제한적으로 느껴진다.\" 넷플릭스에서 제품, 엔지니어링, 데이터 사이언스, 디자인을 전부 총괄하는 엘리자베스 스톤(Elizabeth Stone, CPTO)이 한 말입니다. 그럼 그 자리는 뭐가 채우고 있을까요. 스톤은 시스템 씽커라고 답하고, 그걸 기르는 방법을 딱 하나 알려줍니다. 한 클릭만 밖으로 나가라는 것. - 넷플릭스에도 여전히 전 세계에 몇 명 없는 전문가가 필요한 영역은 있습니다 (인코딩, 재생 시스템) - 문제 삼는 건 좁다는 것 자체가 아",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=uJkmtIPOIzE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T12:12:34.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ca1fbab5513edfe3f3f62f442265f94ea617d6698f90a36c1a56609fbe4f6fa",
+      "dedupeKey": "brief:opp_ab3ff729db952c755055:sha256:2ca1fbab5513edfe3f3f62f442265f94ea617d6698f90a36c1a56609fbe4f6fa",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a53ff84f520b95ba7ac4": {
+      "id": "opp_a53ff84f520b95ba7ac4",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:0S3EtkkVC8s",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0S3EtkkVC8s",
+      "title": "젠슨황 깐부 회동 선물 “DGX Spark” 직접 써보니… 단순한 AI PC가 아닙니다 | 엔비디아의 AI 개발자 플랫폼 큰 그림 [안될공학xNVIDIA]",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T10:00:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아는 왜 DGX를 책상 위로 가져왔을까요? 많은 분들이 DGX Spark를 단순히 AI 모델을 로컬에서 실행하는 고성능 PC 정도로 생각합니다. 하지만 이 제품의 진짜 목적은 조금 다릅니다. 이번 영상에서는 DGX Spark의 하드웨어 구성과 포지션을 먼저 살펴보고, AI Workbench, VSS Blueprint, OpenClaw, NemoClaw 등 실제 AI 개발 환경을 직접 구축하며 어떤 역할을 하는 제품인지 확인해봅니다. 그리고 왜 엔비디아가 데이터센터뿐 아니라 개발자의 책상 위까",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=0S3EtkkVC8s"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T10:00:14.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7f3b6c9c063231814da7dc88db37672fbd28853e5d5d00b54ffe3924506f6a7",
+      "dedupeKey": "brief:opp_a53ff84f520b95ba7ac4:sha256:c7f3b6c9c063231814da7dc88db37672fbd28853e5d5d00b54ffe3924506f6a7",
+      "firstSeenAt": "2026-07-27T12:20:00.633Z",
+      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -7193,6 +7449,42 @@
       "opportunityId": "opp_f112ce3b494c855af37e",
       "sentAt": "2026-07-27T09:05:53.538Z",
       "messageId": "1531226124791709839"
+    },
+    "brief:opp_1c236230036adf198f0b:sha256:d67d1aadce68677743b26cfaa8d012a0c513a17438f8940f943011a98c5d1538": {
+      "status": "SENT",
+      "opportunityId": "opp_1c236230036adf198f0b",
+      "sentAt": "2026-07-27T12:20:00.633Z",
+      "messageId": "1531274978102870047"
+    },
+    "brief:opp_ab3ff729db952c755055:sha256:2ca1fbab5513edfe3f3f62f442265f94ea617d6698f90a36c1a56609fbe4f6fa": {
+      "status": "SENT",
+      "opportunityId": "opp_ab3ff729db952c755055",
+      "sentAt": "2026-07-27T12:20:00.633Z",
+      "messageId": "1531274978102870047"
+    },
+    "brief:opp_15028b728a80aba4142a:sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1": {
+      "status": "SENT",
+      "opportunityId": "opp_15028b728a80aba4142a",
+      "sentAt": "2026-07-27T12:20:00.633Z",
+      "messageId": "1531274978102870047"
+    },
+    "brief:opp_e3117dac92bd90a9c444:sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79": {
+      "status": "SENT",
+      "opportunityId": "opp_e3117dac92bd90a9c444",
+      "sentAt": "2026-07-27T12:20:00.633Z",
+      "messageId": "1531274978102870047"
+    },
+    "brief:opp_a53ff84f520b95ba7ac4:sha256:c7f3b6c9c063231814da7dc88db37672fbd28853e5d5d00b54ffe3924506f6a7": {
+      "status": "SENT",
+      "opportunityId": "opp_a53ff84f520b95ba7ac4",
+      "sentAt": "2026-07-27T12:20:00.633Z",
+      "messageId": "1531274978102870047"
+    },
+    "brief:opp_4b8b9d429b74e273dfb3:sha256:5b761741ef72861dfb9dafd0cd3b7807a403f5744aeca8209184bcde1a3ba928": {
+      "status": "SENT",
+      "opportunityId": "opp_4b8b9d429b74e273dfb3",
+      "sentAt": "2026-07-27T12:20:00.633Z",
+      "messageId": "1531274978102870047"
     }
   },
   "pending": {},
