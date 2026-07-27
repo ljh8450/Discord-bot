@@ -5780,6 +5780,561 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_15028b728a80aba4142a": {
+      "id": "opp_15028b728a80aba4142a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31850",
+      "canonicalUrl": "https://x.com/cerebras/status/2077822555159945507",
+      "title": "Cerebras가 사내 지식 베이스를 구축한 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T09:48:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Slack/코드 저장소/문서/내부 데이터베이스를 기존 위치에서 직접 수집하는 Cerebras Knowledge를 구축해 출시 3개월 만에 직원/자동화/에이전트로...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31850"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1",
+      "dedupeKey": "brief:opp_15028b728a80aba4142a:sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_83f1ab0e37f0c48fbecb": {
+      "id": "opp_83f1ab0e37f0c48fbecb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31828",
+      "canonicalUrl": "https://www.gwagjiug.com/blog/illusion_of_talent",
+      "title": "재능이라는 허상",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T21:47:14+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "많은 주니어가 취업난, AI, 뛰어난 주변 개발자들을 보며 \"나는 개발 재능이 없다\"고 생각하고 개발자를 포기한다. 하지만 우리가 흔히 생각하는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31828"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 22,
+        "communityRank": 2,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 2
+        }
+      },
+      "contentHash": "sha256:65986e260ed92c8eae9fdc23ec79b34971b6341de2f5b098f6ff7bfa861c9de0",
+      "dedupeKey": "brief:opp_83f1ab0e37f0c48fbecb:sha256:65986e260ed92c8eae9fdc23ec79b34971b6341de2f5b098f6ff7bfa861c9de0",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6c0e318adbfa4c952097": {
+      "id": "opp_6c0e318adbfa4c952097",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31832",
+      "canonicalUrl": "https://github.com/slvDev/esp32-ai",
+      "title": "8달러짜리 마이크로컨트롤러에서 2,890만 매개변수 LLM 실행하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T00:32:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ESP32-S3에서 서버 연결 없이 2,890만 매개변수 언어 모델을 구동해 작은 화면에 약 초당 9개 토큰으로 텍스트를 출력함 전체 매개변수 중 2,500만...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31832"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1702baaf8be6f05d6876c8f79c463d45f9d951c2a73bada4598232df2b82e22e",
+      "dedupeKey": "brief:opp_6c0e318adbfa4c952097:sha256:1702baaf8be6f05d6876c8f79c463d45f9d951c2a73bada4598232df2b82e22e",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e3117dac92bd90a9c444": {
+      "id": "opp_e3117dac92bd90a9c444",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31829",
+      "canonicalUrl": "https://news.hada.io/topic?id=31829",
+      "title": "Show GN: LLM 에이전트가 매일 AI 소식을 수집해 링크 위키로 누적하는 사이트 — 72일 무인 운영",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T22:41:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Karpathy의 LLM 위키 패턴( AI 트렌드 추적에 적용해 본 개인 프로젝트입니다. 일일 요약은 다음 날이면 휘발하는데 트렌드는 누적된 데이터에서만...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31829"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79",
+      "dedupeKey": "brief:opp_e3117dac92bd90a9c444:sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b950826ca39c0dde0f23": {
+      "id": "opp_b950826ca39c0dde0f23",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31818",
+      "canonicalUrl": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9",
+      "title": "인터페이스가 화면을 벗어나고 있다 - 채팅, 음성, 에이전트형 AI가 바꾸는 UX",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T09:50:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "소프트웨어의 중심이 화면과 메뉴에서 벗어나 대화/위임/백그라운드 실행으로 이동하면서, UX 디자인의 대상도 고정된 화면이 아니라 사용자의 의...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31818"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
+      "dedupeKey": "brief:opp_b950826ca39c0dde0f23:sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1f50f124de7192f2352a": {
+      "id": "opp_1f50f124de7192f2352a",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ec4aa10af49fcdee827c8843e8f98dd77321ce49",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/claude-code-on-amazon-bedrock-training",
+      "title": "개인 생산성에서 멈춘 Claude Code, 조직의 생산성으로 – 영상 10개로 완성하는 Claude Code on Amazon Bedrock 학습 플랜",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 27 Jul 2026 00:10:12 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "AI 코딩 도구, 이제 다들 하나쯤 쓰고 계실 겁니다. 문제는 그 다음입니다. 도구를 손에 쥐는 것과, 그 도구를 조직의 실제 생산성으로 잇는 것은 전혀 다른 이야기입니다. 대부분의 Claude Code 콘텐츠는 개인 데스크톱 생산성에서 멈춥니다. “이렇게 하니 빨라지더라”까지는 보여 줍니다. 하지만 코드·프롬프트가 어떻게 흐르는지, 토큰은 얼마나 쓰는지, 감사·통제는 누가 책임지는지 — 정작 조직이 던지는 질문의 자리는 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/claude-code-on-amazon-bedrock-training/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0290cb29b391cce3e6c4701ff0a15a05496127fea7cae2fbad010d2e150b92e5",
+      "dedupeKey": "brief:opp_1f50f124de7192f2352a:sha256:0290cb29b391cce3e6c4701ff0a15a05496127fea7cae2fbad010d2e150b92e5",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_03bd275ed1cb6de2774a": {
+      "id": "opp_03bd275ed1cb6de2774a",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/4821538",
+      "canonicalUrl": "https://d2.naver.com/helloworld/4821538",
+      "title": "[AI 해커톤 후기] AI 해커톤 1위 팀이 AI에게 맡기지 않은 것",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-07-24T15:25:33Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<p>기업의 업무에 AI를 도입하면 무엇이 달라질까요? 반복 업무를 자동화하고, 매달 작성하던 보고서를 대신 만들고, 업무 시스템과 연결해 사용자가 요청한 작업까지 처리할 수 있을까요?</p> <p>네이버 사내에서 열린 ‘모두의 Engineering Day AI 해커톤’에 참여하면서 저희도 비슷한 의문을 품었습니다. 낯선 재무 업무를 이해하고 Claude Code를 활용해 실제로 동작하는 결과물을 만들어야 하는 상황에서, 처음에는 자연스럽게 ‘AI가 무엇을 해줄 수 있을까?’부터 생각했습니다.</",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/4821538"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 1,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a98334ce5677809bc3b31e30d143e8ed54f8e7584b23122f0bf7a2c4a17ed82b",
+      "dedupeKey": "brief:opp_03bd275ed1cb6de2774a:sha256:a98334ce5677809bc3b31e30d143e8ed54f8e7584b23122f0bf7a2c4a17ed82b",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f91917d917f6e94204bc": {
+      "id": "opp_f91917d917f6e94204bc",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:hywIbOy2xOc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hywIbOy2xOc",
+      "title": "EP 106. 지능 공급 전쟁: Opus 5·Kimi K3·GPT-5.6 Sol, 그리고 전기세",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T12:25:44+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "2026년 7월 25일, Opus 5와 Kimi K3, GPT-5.6 Sol 등 프론티어급 모델이 쏟아지는 상황을 노정석·박종현·최승준이 함께 정리했습니다. AI 에이전트가 허깅페이스를 공격한 보안 사고와 그 대응에 오픈웨이트 모델 GLM 5.2가 쓰인 아이러니를 짚으며, 온프레미스 시대의 현실적 비용(1.4TB 웨이트, 시간당 300달러 수준)까지 계산해 봅니다. 이어 토큰당 가격에서 태스크당 가격으로 옮겨가는 경쟁 구도, Codex가 2주 만에 WAU 10M을 찍은 사용량 이동, 그리고 '언번",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=hywIbOy2xOc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-26T12:25:44.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:72beb9965e3b38bb55abefa7fe47dc58a9472b89e67945e5e1c58942251b1330",
+      "dedupeKey": "brief:opp_f91917d917f6e94204bc:sha256:72beb9965e3b38bb55abefa7fe47dc58a9472b89e67945e5e1c58942251b1330",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9e6c98d8dd396cb29368": {
+      "id": "opp_9e6c98d8dd396cb29368",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:3HB4GZkpw58",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3HB4GZkpw58",
+      "title": "[한영자막] 당신은 에이전트 스킬을 제대로 사용하지 못하고 있습니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T01:31:50+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트 스킬, 그냥 skill.md 하나만 만들고 있다면 절반만 쓰고 계신 겁니다. 참조 자료부터 asset, 스크립트까지 함께 활용하는 법을 정리해드립니다. 주요 포인트 - 스킬은 skill.md 파일 하나로 끝나는 게 아니라 참조 자료, 블루프린트 같은 asset, 스크립트까지 포함할 수 있습니다. - 스킬을 쓰는 이유는 크게 두 가지입니다. 모델이 모르는 지식을 채워주는 지식 격차와, 원하는 방식으로 정확히 작업하게 만드는 실행 격차입니다. - 좋은 스킬은 description을 명확하게",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=3HB4GZkpw58"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T01:31:50.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:79bb0dcaf45d78c2862114491e71aac6bba03ab347ca24a23665dece4ecf9629",
+      "dedupeKey": "brief:opp_9e6c98d8dd396cb29368:sha256:79bb0dcaf45d78c2862114491e71aac6bba03ab347ca24a23665dece4ecf9629",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f112ce3b494c855af37e": {
+      "id": "opp_f112ce3b494c855af37e",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:_cz7JeXRkfg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_cz7JeXRkfg",
+      "title": "[LIVE] 한빛미디어x조코딩 바이브 코딩으로 서비스 만들기 챌린지",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-07-26T11:25:56+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] 한빛미디어x조코딩 바이브 코딩으로 서비스 만들기 챌린지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_cz7JeXRkfg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-26T11:25:56.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7f1e90d3608508088c27ce5ba0dc1e5f5452104bb8227e38b2a472b54e2b1b87",
+      "dedupeKey": "brief:opp_f112ce3b494c855af37e:sha256:7f1e90d3608508088c27ce5ba0dc1e5f5452104bb8227e38b2a472b54e2b1b87",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f9c4bd7dde0955cd2357": {
+      "id": "opp_f9c4bd7dde0955cd2357",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:ePw0u6B40kU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ePw0u6B40kU",
+      "title": "코드 리뷰를 3개월간 없애본 회사의 결론 — 에이전트 PR, 결국 다 읽어야 합니다 (AI Engineer 2026)",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T01:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트한테 일을 맡기면 PR이 쏟아집니다. 그럼 이걸 다 읽어야 할까요? 테스트는 어차피 통과했는데요. 코드 리뷰를 3개월 동안 실제로 없애봤고 다시 되돌린 사람이 그 질문에 정면으로 답합니다. AI Engineer World's Fair 2026에서 덱스 호시(Dex Horthy, HumanLayer 공동창업자·CEO)가 한 발표 \"Harness Engineering is not Enough: Why Software Factories Fail\"을 해설합니다. - 개발자 22,000명·팀 4,0",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ePw0u6B40kU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T01:00:02.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:898bfe7a6cd9b010474c70ce2018ee75b3acec98e10f5dd4ddb9b7552570d930",
+      "dedupeKey": "brief:opp_f9c4bd7dde0955cd2357:sha256:898bfe7a6cd9b010474c70ce2018ee75b3acec98e10f5dd4ddb9b7552570d930",
+      "firstSeenAt": "2026-07-27T03:19:28.326Z",
+      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -6382,6 +6937,42 @@
       "opportunityId": "opp_e8ac4f34a81acad54d76",
       "sentAt": "2026-07-26T10:42:49.477Z",
       "messageId": "1530888124639744122"
+    },
+    "brief:opp_f9c4bd7dde0955cd2357:sha256:898bfe7a6cd9b010474c70ce2018ee75b3acec98e10f5dd4ddb9b7552570d930": {
+      "status": "SENT",
+      "opportunityId": "opp_f9c4bd7dde0955cd2357",
+      "sentAt": "2026-07-27T03:19:28.326Z",
+      "messageId": "1531138947042902201"
+    },
+    "brief:opp_1f50f124de7192f2352a:sha256:0290cb29b391cce3e6c4701ff0a15a05496127fea7cae2fbad010d2e150b92e5": {
+      "status": "SENT",
+      "opportunityId": "opp_1f50f124de7192f2352a",
+      "sentAt": "2026-07-27T03:19:28.326Z",
+      "messageId": "1531138947042902201"
+    },
+    "brief:opp_6c0e318adbfa4c952097:sha256:1702baaf8be6f05d6876c8f79c463d45f9d951c2a73bada4598232df2b82e22e": {
+      "status": "SENT",
+      "opportunityId": "opp_6c0e318adbfa4c952097",
+      "sentAt": "2026-07-27T03:19:28.326Z",
+      "messageId": "1531138947042902201"
+    },
+    "brief:opp_83f1ab0e37f0c48fbecb:sha256:65986e260ed92c8eae9fdc23ec79b34971b6341de2f5b098f6ff7bfa861c9de0": {
+      "status": "SENT",
+      "opportunityId": "opp_83f1ab0e37f0c48fbecb",
+      "sentAt": "2026-07-27T03:19:28.326Z",
+      "messageId": "1531138947042902201"
+    },
+    "brief:opp_f91917d917f6e94204bc:sha256:72beb9965e3b38bb55abefa7fe47dc58a9472b89e67945e5e1c58942251b1330": {
+      "status": "SENT",
+      "opportunityId": "opp_f91917d917f6e94204bc",
+      "sentAt": "2026-07-27T03:19:28.326Z",
+      "messageId": "1531138947042902201"
+    },
+    "brief:opp_03bd275ed1cb6de2774a:sha256:a98334ce5677809bc3b31e30d143e8ed54f8e7584b23122f0bf7a2c4a17ed82b": {
+      "status": "SENT",
+      "opportunityId": "opp_03bd275ed1cb6de2774a",
+      "sentAt": "2026-07-27T03:19:28.326Z",
+      "messageId": "1531138947042902201"
     }
   },
   "pending": {},
