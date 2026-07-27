@@ -68,7 +68,7 @@
       "id": "wanted-entry-developers",
       "kind": "wanted-careers",
       "priority": 90,
-      "enabled": true,
+      "enabled": false,
       "url": "https://www.wanted.co.kr/api/v4/jobs",
       "tagTypeId": "518",
       "years": 0,
