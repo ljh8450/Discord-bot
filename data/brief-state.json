@@ -5807,23 +5807,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 15,
         "communityRank": 1,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1",
       "dedupeKey": "brief:opp_15028b728a80aba4142a:sha256:46b981d426aaa29c9742c3cec20c8447e2f03711e9018aba61a8b5ac0cc26ad1",
-      "firstSeenAt": "2026-07-27T03:19:28.326Z",
-      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -5954,8 +5954,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 10,
+        "communityPoints": 9,
+        "communityRank": 9,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -5969,8 +5969,8 @@
       },
       "contentHash": "sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79",
       "dedupeKey": "brief:opp_e3117dac92bd90a9c444:sha256:ca7f49d88ff99308408df4216fb17598058a9ac45b4763cb382eb6330ed0cd79",
-      "firstSeenAt": "2026-07-27T03:19:28.326Z",
-      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6003,8 +6003,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 14,
+        "communityPoints": 11,
+        "communityRank": 19,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6018,8 +6018,8 @@
       },
       "contentHash": "sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
       "dedupeKey": "brief:opp_b950826ca39c0dde0f23:sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
-      "firstSeenAt": "2026-07-27T03:19:28.326Z",
-      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6222,11 +6222,11 @@
       },
       "contentHash": "sha256:79bb0dcaf45d78c2862114491e71aac6bba03ab347ca24a23665dece4ecf9629",
       "dedupeKey": "brief:opp_9e6c98d8dd396cb29368:sha256:79bb0dcaf45d78c2862114491e71aac6bba03ab347ca24a23665dece4ecf9629",
-      "firstSeenAt": "2026-07-27T03:19:28.326Z",
-      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -6275,11 +6275,11 @@
       },
       "contentHash": "sha256:7f1e90d3608508088c27ce5ba0dc1e5f5452104bb8227e38b2a472b54e2b1b87",
       "dedupeKey": "brief:opp_f112ce3b494c855af37e:sha256:7f1e90d3608508088c27ce5ba0dc1e5f5452104bb8227e38b2a472b54e2b1b87",
-      "firstSeenAt": "2026-07-27T03:19:28.326Z",
-      "lastSeenAt": "2026-07-27T03:19:28.326Z",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -6333,6 +6333,202 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8356f16666af816cb4eb": {
+      "id": "opp_8356f16666af816cb4eb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31856",
+      "canonicalUrl": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+      "title": "Netflix의 사내 LLM 서빙 플랫폼",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T10:07:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "넷플릭스는 LLM을 별도 사일로로 분리하지 않고 기존 ML 인프라에서 함께 운영하며, vLLM과 Triton을 통합 서빙 체계에 연결함 기본 엔진으로 선택...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31856"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 2,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:8fcc8489de305d4d36d3060dcd7dd6680122ede3824749c4826d3ddfafd9f565",
+      "dedupeKey": "brief:opp_8356f16666af816cb4eb:sha256:8fcc8489de305d4d36d3060dcd7dd6680122ede3824749c4826d3ddfafd9f565",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_da051d017087831fcbdf": {
+      "id": "opp_da051d017087831fcbdf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31855",
+      "canonicalUrl": "https://claude.com/blog/ai-code-migration",
+      "title": "Claude Code로 대규모 코드 마이그레이션을 수행한 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T10:03:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Anthropic 개발자들은 Claude Fable 5, Claude Opus 4.8과 동적 워크플로를 이용해 최근 한 달간 수만~수십만 줄 규모의 패키지 10개를 이전했으며...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31855"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:184ec25e4f67dc53ef939c2410dcd16f275909b907d02954a0c7f75b7b2b85b2",
+      "dedupeKey": "brief:opp_da051d017087831fcbdf:sha256:184ec25e4f67dc53ef939c2410dcd16f275909b907d02954a0c7f75b7b2b85b2",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c2318191892fa0bb2351": {
+      "id": "opp_c2318191892fa0bb2351",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31845",
+      "canonicalUrl": "https://github.com/AlmanacCode/codealmanac",
+      "title": "CodeAlmanac - AI 코딩 에이전트를 위한 코드베이스 위키",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T09:31:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코드만으로는 담을 수 없는 결정, 흐름, 불변 조건, 함정(gotchas) 을 기록해 AI 에이전트에게 맥락을 제공하는 살아있는 위키 시스템이 왜 지금의...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31845"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f19a02e5c2bbb04b379ff64035351debacc95a2b3636b538f3e033515b05f8d8",
+      "dedupeKey": "brief:opp_c2318191892fa0bb2351:sha256:f19a02e5c2bbb04b379ff64035351debacc95a2b3636b538f3e033515b05f8d8",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2d5583b2d4408526d8aa": {
+      "id": "opp_2d5583b2d4408526d8aa",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31841",
+      "canonicalUrl": "https://news.hada.io/topic?id=31841",
+      "title": "Show GN: 환각을 통제하는 로컬 AI 영상 파이프라인, shelter-puppy",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T07:24:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "강아지의 소개 숏폼을 폰 촬영본만으로 만드는 파이프라인입니다. raw 폰 영상 여러 개와 자연어 요청 한 문단을 넣으면 약 4분 뒤 자막과 내레이...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31841"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5792c4dea3aac75af6fc20e71616a75bf7dd4bfd7e7511827ca0520291ecc29d",
+      "dedupeKey": "brief:opp_2d5583b2d4408526d8aa:sha256:5792c4dea3aac75af6fc20e71616a75bf7dd4bfd7e7511827ca0520291ecc29d",
+      "firstSeenAt": "2026-07-27T09:05:53.538Z",
+      "lastSeenAt": "2026-07-27T09:05:53.538Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -6973,6 +7169,30 @@
       "opportunityId": "opp_03bd275ed1cb6de2774a",
       "sentAt": "2026-07-27T03:19:28.326Z",
       "messageId": "1531138947042902201"
+    },
+    "brief:opp_8356f16666af816cb4eb:sha256:8fcc8489de305d4d36d3060dcd7dd6680122ede3824749c4826d3ddfafd9f565": {
+      "status": "SENT",
+      "opportunityId": "opp_8356f16666af816cb4eb",
+      "sentAt": "2026-07-27T09:05:53.538Z",
+      "messageId": "1531226124791709839"
+    },
+    "brief:opp_9e6c98d8dd396cb29368:sha256:79bb0dcaf45d78c2862114491e71aac6bba03ab347ca24a23665dece4ecf9629": {
+      "status": "SENT",
+      "opportunityId": "opp_9e6c98d8dd396cb29368",
+      "sentAt": "2026-07-27T09:05:53.538Z",
+      "messageId": "1531226124791709839"
+    },
+    "brief:opp_da051d017087831fcbdf:sha256:184ec25e4f67dc53ef939c2410dcd16f275909b907d02954a0c7f75b7b2b85b2": {
+      "status": "SENT",
+      "opportunityId": "opp_da051d017087831fcbdf",
+      "sentAt": "2026-07-27T09:05:53.538Z",
+      "messageId": "1531226124791709839"
+    },
+    "brief:opp_f112ce3b494c855af37e:sha256:7f1e90d3608508088c27ce5ba0dc1e5f5452104bb8227e38b2a472b54e2b1b87": {
+      "status": "SENT",
+      "opportunityId": "opp_f112ce3b494c855af37e",
+      "sentAt": "2026-07-27T09:05:53.538Z",
+      "messageId": "1531226124791709839"
     }
   },
   "pending": {},
