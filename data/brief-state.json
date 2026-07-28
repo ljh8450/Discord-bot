@@ -7076,11 +7076,11 @@
       },
       "contentHash": "sha256:88e6a2857af329387cd6656269bd04040f0f956a46d639784fb729ba81217323",
       "dedupeKey": "brief:opp_c67e15734c6c7089d01e:sha256:88e6a2857af329387cd6656269bd04040f0f956a46d639784fb729ba81217323",
-      "firstSeenAt": "2026-07-28T00:05:52.439Z",
-      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "firstSeenAt": "2026-07-28T02:38:00.709Z",
+      "lastSeenAt": "2026-07-28T02:38:00.709Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -7131,6 +7131,105 @@
       "dedupeKey": "brief:opp_d5f11a7227f55edc66f7:sha256:332c88dbb0fc7db05ac97f983a11b2bd971db6d7a422e0845ae0b86a8ac02e0d",
       "firstSeenAt": "2026-07-28T00:05:52.439Z",
       "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_544534065ffbd0e813af": {
+      "id": "opp_544534065ffbd0e813af",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31890",
+      "canonicalUrl": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai",
+      "title": "AI로 11일 만에 끝낸 Bun의 Zig→Rust 재작성에서 배울 점",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T09:27:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "메모리 안전성이 없는 Zig에서 누수와 충돌이 계속되자, Bun은 535,496줄의 코드를 64개 AI 에이전트로 Rust에 옮겨 1~2년 걸릴 작업을 11일로 단...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31890"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b17e3571da0329d36385b5c6ed2f164e47d8ccb6d0126295816e04160bfde934",
+      "dedupeKey": "brief:opp_544534065ffbd0e813af:sha256:b17e3571da0329d36385b5c6ed2f164e47d8ccb6d0126295816e04160bfde934",
+      "firstSeenAt": "2026-07-28T02:38:00.709Z",
+      "lastSeenAt": "2026-07-28T02:38:00.709Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_793a1cc5a978fe01e845": {
+      "id": "opp_793a1cc5a978fe01e845",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=26507",
+      "canonicalUrl": "https://techblog.woowahan.com/26507",
+      "title": "BFF 서버에 SSE를 도입한 이유: 전시 서버의 통신 구조 재설계",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T02:00:07.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며 배달의민족에서 음식을 주문할 때 카테고리를 누르면 만나는 화면, 바로 가게목록입니다. 사용자가 가게를 탐색하는 첫 관문이자, 가장 트래픽이 많은 지면 중 하나입니다. 이 글은 그 가게목록 지면의 통신 구조를 재설계한 이야기입니다. 클라이언트가 여러 서버에 각각 요청을 보내던 구조를 하나의 API로 통합하고(1지면 1API), 통합이 만들어낼 병목을 SSE(Server-Sent Events) 스트리밍으로 풀어낸 두 번의 의사결정 과정을 소개합니다. ‘가게목록’이 […] The post BF",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/26507/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ef6c21b59442f2087a0c22f5df339776eb9c9e522339e0f72045f38566b5f7f3",
+      "dedupeKey": "brief:opp_793a1cc5a978fe01e845:sha256:ef6c21b59442f2087a0c22f5df339776eb9c9e522339e0f72045f38566b5f7f3",
+      "firstSeenAt": "2026-07-28T02:38:00.709Z",
+      "lastSeenAt": "2026-07-28T02:38:00.709Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -7870,6 +7969,24 @@
       "opportunityId": "opp_75c05fcc4eab914a2ba8",
       "sentAt": "2026-07-28T00:05:52.439Z",
       "messageId": "1531452618914795773"
+    },
+    "brief:opp_793a1cc5a978fe01e845:sha256:ef6c21b59442f2087a0c22f5df339776eb9c9e522339e0f72045f38566b5f7f3": {
+      "status": "SENT",
+      "opportunityId": "opp_793a1cc5a978fe01e845",
+      "sentAt": "2026-07-28T02:38:00.709Z",
+      "messageId": "1531490896254603276"
+    },
+    "brief:opp_544534065ffbd0e813af:sha256:b17e3571da0329d36385b5c6ed2f164e47d8ccb6d0126295816e04160bfde934": {
+      "status": "SENT",
+      "opportunityId": "opp_544534065ffbd0e813af",
+      "sentAt": "2026-07-28T02:38:00.709Z",
+      "messageId": "1531490896254603276"
+    },
+    "brief:opp_c67e15734c6c7089d01e:sha256:88e6a2857af329387cd6656269bd04040f0f956a46d639784fb729ba81217323": {
+      "status": "SENT",
+      "opportunityId": "opp_c67e15734c6c7089d01e",
+      "sentAt": "2026-07-28T02:38:00.709Z",
+      "messageId": "1531490896254603276"
     }
   },
   "pending": {},
