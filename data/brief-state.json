@@ -7361,7 +7361,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 6,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -7375,11 +7375,11 @@
       },
       "contentHash": "sha256:01cdcd80058914c9bc80d73543796932fa2992521d38acaffd71f10236238d26",
       "dedupeKey": "brief:opp_91dee99695ae45a3741e:sha256:01cdcd80058914c9bc80d73543796932fa2992521d38acaffd71f10236238d26",
-      "firstSeenAt": "2026-07-28T09:06:19.311Z",
-      "lastSeenAt": "2026-07-28T09:06:19.311Z",
+      "firstSeenAt": "2026-07-28T11:14:47.965Z",
+      "lastSeenAt": "2026-07-28T11:14:47.965Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -7409,8 +7409,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 7,
+        "communityPoints": 6,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -7424,8 +7424,8 @@
       },
       "contentHash": "sha256:117ee55f3f2b10478d996b7f2005b163f12f6dff0b82cfc3ec212fd9754af2d5",
       "dedupeKey": "brief:opp_1c0d51fdbc5f40d48db6:sha256:117ee55f3f2b10478d996b7f2005b163f12f6dff0b82cfc3ec212fd9754af2d5",
-      "firstSeenAt": "2026-07-28T09:06:19.311Z",
-      "lastSeenAt": "2026-07-28T09:06:19.311Z",
+      "firstSeenAt": "2026-07-28T11:14:47.965Z",
+      "lastSeenAt": "2026-07-28T11:14:47.965Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -7459,7 +7459,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -7473,8 +7473,8 @@
       },
       "contentHash": "sha256:cb36f5a1f10247554e42e744c91cf021bd265cc1a4820ee2e0fd88c73c1f3670",
       "dedupeKey": "brief:opp_f5455d77b88197b0f09f:sha256:cb36f5a1f10247554e42e744c91cf021bd265cc1a4820ee2e0fd88c73c1f3670",
-      "firstSeenAt": "2026-07-28T09:06:19.311Z",
-      "lastSeenAt": "2026-07-28T09:06:19.311Z",
+      "firstSeenAt": "2026-07-28T11:14:47.965Z",
+      "lastSeenAt": "2026-07-28T11:14:47.965Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -7508,7 +7508,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 13,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -7522,8 +7522,8 @@
       },
       "contentHash": "sha256:88ab5affe4d3f53363840ee521f5a915282886a7b20e5109a3cd78500a0599cd",
       "dedupeKey": "brief:opp_ea5591bdcd06fb84e128:sha256:88ab5affe4d3f53363840ee521f5a915282886a7b20e5109a3cd78500a0599cd",
-      "firstSeenAt": "2026-07-28T09:06:19.311Z",
-      "lastSeenAt": "2026-07-28T09:06:19.311Z",
+      "firstSeenAt": "2026-07-28T11:14:47.965Z",
+      "lastSeenAt": "2026-07-28T11:14:47.965Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -7577,6 +7577,108 @@
       "dedupeKey": "brief:opp_e613d5e4a7f17d3e16c7:sha256:c6e028b5d350b1888c2f9946fe0ec57281d2a40fc61ba5d606502b92a8bb75cd",
       "firstSeenAt": "2026-07-28T09:06:19.311Z",
       "lastSeenAt": "2026-07-28T09:06:19.311Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f633e745a83383d506a9": {
+      "id": "opp_f633e745a83383d506a9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31895",
+      "canonicalUrl": "https://nikolays.github.io/PGSimCity",
+      "title": "PGSimCity - PostgreSQL의 작동 방식을 탐험 가능한 3D 도시로 시각화",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T09:58:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "PostgreSQL의 연결/백엔드/공유 메모리/WAL/스토리지/체크포인트/autovacuum/복제를 건물과 구역으로 표현한 3D 교육용 시뮬레이션으로, 각 건물과...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31895"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1cae34d9dd7bbf5213839162acdcfc71e5f398a9516038393cd249f0713dafaa",
+      "dedupeKey": "brief:opp_f633e745a83383d506a9:sha256:1cae34d9dd7bbf5213839162acdcfc71e5f398a9516038393cd249f0713dafaa",
+      "firstSeenAt": "2026-07-28T11:14:47.965Z",
+      "lastSeenAt": "2026-07-28T11:14:47.965Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_158a47408310df37cf82": {
+      "id": "opp_158a47408310df37cf82",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:cO96D7jSU_Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cO96D7jSU_Q",
+      "title": "[한영자막] 올해 Claude에게 있었던 일들",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T09:00:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic의 Claude Code 프로덕트 총괄 캣 우, 엔지니어 타릭 시히파르가 Simon Willison과 함께 나눈 대담입니다. 지난 1년 반 동안 코딩 에이전트가 어떻게 개발 문화 자체를 바꿔놨는지 솔직하게 이야기합니다. 주요 내용 - Claude Tag가 지금 Anthropic 제품 PR의 65%를 처리하고 있다는 이야기, 그리고 멀티플레이어·능동형 에이전트로의 전환 - \"절대 다시 쓰지 마라\"던 재작성이 이제는 오히려 권장되는 이유 - Claude Code 시스템 프롬프트가 80",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cO96D7jSU_Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-28T09:00:35.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1701785a2bef91a0831473890e4cb8929795522d7bf735dcd3c16d2b4abf3cb8",
+      "dedupeKey": "brief:opp_158a47408310df37cf82:sha256:1701785a2bef91a0831473890e4cb8929795522d7bf735dcd3c16d2b4abf3cb8",
+      "firstSeenAt": "2026-07-28T11:14:47.965Z",
+      "lastSeenAt": "2026-07-28T11:14:47.965Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -8352,6 +8454,24 @@
       "opportunityId": "opp_e613d5e4a7f17d3e16c7",
       "sentAt": "2026-07-28T09:06:19.311Z",
       "messageId": "1531588619368792086"
+    },
+    "brief:opp_f633e745a83383d506a9:sha256:1cae34d9dd7bbf5213839162acdcfc71e5f398a9516038393cd249f0713dafaa": {
+      "status": "SENT",
+      "opportunityId": "opp_f633e745a83383d506a9",
+      "sentAt": "2026-07-28T11:14:47.965Z",
+      "messageId": "1531620949156171798"
+    },
+    "brief:opp_158a47408310df37cf82:sha256:1701785a2bef91a0831473890e4cb8929795522d7bf735dcd3c16d2b4abf3cb8": {
+      "status": "SENT",
+      "opportunityId": "opp_158a47408310df37cf82",
+      "sentAt": "2026-07-28T11:14:47.965Z",
+      "messageId": "1531620949156171798"
+    },
+    "brief:opp_91dee99695ae45a3741e:sha256:01cdcd80058914c9bc80d73543796932fa2992521d38acaffd71f10236238d26": {
+      "status": "SENT",
+      "opportunityId": "opp_91dee99695ae45a3741e",
+      "sentAt": "2026-07-28T11:14:47.965Z",
+      "messageId": "1531620949156171798"
     }
   },
   "pending": {},
