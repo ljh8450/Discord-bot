@@ -6004,7 +6004,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 16,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6018,8 +6018,8 @@
       },
       "contentHash": "sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
       "dedupeKey": "brief:opp_b950826ca39c0dde0f23:sha256:1705f7587637222697d2bbd164845b4da2bc26c8b3376e16c89917e0c9c960c7",
-      "firstSeenAt": "2026-07-27T12:20:00.633Z",
-      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6461,7 +6461,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 5,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -6475,8 +6475,8 @@
       },
       "contentHash": "sha256:f19a02e5c2bbb04b379ff64035351debacc95a2b3636b538f3e033515b05f8d8",
       "dedupeKey": "brief:opp_c2318191892fa0bb2351:sha256:f19a02e5c2bbb04b379ff64035351debacc95a2b3636b538f3e033515b05f8d8",
-      "firstSeenAt": "2026-07-27T12:20:00.633Z",
-      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6559,13 +6559,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 14,
-        "contentScore": 11,
+        "communityRank": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -6573,8 +6573,8 @@
       },
       "contentHash": "sha256:ecac22b4062d62ceb0d9d0e53ce640ee3c494ea2eded89b145347a50f5274113",
       "dedupeKey": "brief:opp_db441b5ca11ff2653820:sha256:ecac22b4062d62ceb0d9d0e53ce640ee3c494ea2eded89b145347a50f5274113",
-      "firstSeenAt": "2026-07-27T12:20:00.633Z",
-      "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -6782,6 +6782,355 @@
       "dedupeKey": "brief:opp_a53ff84f520b95ba7ac4:sha256:c7f3b6c9c063231814da7dc88db37672fbd28853e5d5d00b54ffe3924506f6a7",
       "firstSeenAt": "2026-07-27T12:20:00.633Z",
       "lastSeenAt": "2026-07-27T12:20:00.633Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_62d968fd387264c8ae1a": {
+      "id": "opp_62d968fd387264c8ae1a",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/position-open-weights-models",
+      "canonicalUrl": "https://www.anthropic.com/news/position-open-weights-models",
+      "title": "Our position on open-weights models",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/position-open-weights-models"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c8a3683938a7d1ac35dc5185602d09805784f6e60e9d4c87de13b9feb2ee32ab",
+      "dedupeKey": "brief:opp_62d968fd387264c8ae1a:sha256:c8a3683938a7d1ac35dc5185602d09805784f6e60e9d4c87de13b9feb2ee32ab",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_75c05fcc4eab914a2ba8": {
+      "id": "opp_75c05fcc4eab914a2ba8",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/cognizant-anthropic",
+      "canonicalUrl": "https://www.anthropic.com/news/cognizant-anthropic",
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/cognizant-anthropic"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:31f721bd8e42a1ec83c86ed55ece80f2624053201c1e0b5744b5c28f1bfe5f2b",
+      "dedupeKey": "brief:opp_75c05fcc4eab914a2ba8:sha256:31f721bd8e42a1ec83c86ed55ece80f2624053201c1e0b5744b5c28f1bfe5f2b",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f37df02a211a8bd83f14": {
+      "id": "opp_f37df02a211a8bd83f14",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97740",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "title": "The harness is all you need (mostly)",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5aa0ef3e1b7af44aa56fe8f6a46fdc1dac5ae23b88b636bee76eaef8630cbe74",
+      "dedupeKey": "brief:opp_f37df02a211a8bd83f14:sha256:5aa0ef3e1b7af44aa56fe8f6a46fdc1dac5ae23b88b636bee76eaef8630cbe74",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5eba1c1bc202026ab81a": {
+      "id": "opp_5eba1c1bc202026ab81a",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97758",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 27 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a6c9df5bca5393043c33e1ed13b0087a90c98a6c7850e863c3746bda0310cd54",
+      "dedupeKey": "brief:opp_5eba1c1bc202026ab81a:sha256:a6c9df5bca5393043c33e1ed13b0087a90c98a6c7850e863c3746bda0310cd54",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_23ef9252a0d911a8fe56": {
+      "id": "opp_23ef9252a0d911a8fe56",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/826",
+      "canonicalUrl": "https://tech.kakao.com/posts/826",
+      "title": "더 작고 강해진 Kanana SLM 개발",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Mon, 27 Jul 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "안녕하세요. 카카오의 AI 모델 개발을 담당하는 카나나 LLM 조직에서 언어모델을 개발하고 있는 Kaya, Ryan, Wavy 입니다. 지난 “작지만 강한 Kanana Nano 효율적으로 개발하기”에서 비용 효율적으로 SLM(Small Language Model)을 개발하는 방법에 대해서 소개드렸었는데요, 이번 글에서는 더 강력해져서 돌아온 카카오의 두 번째 SLM 시리즈를 소개드리고자 합니다. 이번에 소개해드릴 모델은 Kanana-2-3B, Kana...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/826"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:580102e4e09b918abe2cbef00c9f44fa0016c3cf335cb0db4c0108a14e594e63",
+      "dedupeKey": "brief:opp_23ef9252a0d911a8fe56:sha256:580102e4e09b918abe2cbef00c9f44fa0016c3cf335cb0db4c0108a14e594e63",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c67e15734c6c7089d01e": {
+      "id": "opp_c67e15734c6c7089d01e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:lh6WJ8BXv8o",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lh6WJ8BXv8o",
+      "title": "[한영자막] 기본 원리로 다시 보는 루프 엔지니어링 — Kyle Mistele (HumanLayer)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T22:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 에이전트한테 프롬프트만 던지면 결과는 아무도 못 읽는 4만 줄짜리 PR입니다. HumanLayer의 Kyle Mistele가 제어 이론을 코딩 에이전트에 적용해 실제로 리뷰 가능한 작은 변화만 만들어내는 \"루프 엔지니어링\" 방법을 설명합니다. 주요 포인트 - 프롬프트+루프만으로 코딩 에이전트를 돌리면 결국 아무도 안 읽는 초대형 PR이 쌓입니다. - 온도조절기, 쿠버네티스 오토스케일러처럼 익숙한 제어 루프 개념을 코드베이스에 그대로 적용할 수 있습니다. - 센서(ast-grep 등)로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lh6WJ8BXv8o"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T22:00:34.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:88e6a2857af329387cd6656269bd04040f0f956a46d639784fb729ba81217323",
+      "dedupeKey": "brief:opp_c67e15734c6c7089d01e:sha256:88e6a2857af329387cd6656269bd04040f0f956a46d639784fb729ba81217323",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d5f11a7227f55edc66f7": {
+      "id": "opp_d5f11a7227f55edc66f7",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:JOZNhRO04eQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JOZNhRO04eQ",
+      "title": "[한영자막] 왜 자꾸 더 작은 AI 모델을 만들까?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-27T13:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "구글 AI 엣지 팀 테크 리드 Cormac Brick이 라즈베리파이 같은 기기에서 AI를 돌릴 때 진짜 발목을 잡는 게 무엇인지, 그리고 이를 넘어서기 위한 초소형 모델 전략을 설명합니다. 주요 포인트 - 엣지 AI의 진짜 병목은 연산력이 아니라 D램 비용입니다. - Gemma를 가중치당 2.9비트까지 양자화해 라즈베리파이, 젯슨, NPU에서 구동합니다. - 문자 입력만으로 86% 신뢰도로 함수를 호출하는 파인튜닝 전략을 소개합니다. - 구독 없이 완전히 오프라인으로 동작하는 음성 받아쓰기 앱 사",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=JOZNhRO04eQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-27T22:00:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:332c88dbb0fc7db05ac97f983a11b2bd971db6d7a422e0845ae0b86a8ac02e0d",
+      "dedupeKey": "brief:opp_d5f11a7227f55edc66f7:sha256:332c88dbb0fc7db05ac97f983a11b2bd971db6d7a422e0845ae0b86a8ac02e0d",
+      "firstSeenAt": "2026-07-28T00:05:52.439Z",
+      "lastSeenAt": "2026-07-28T00:05:52.439Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -7485,6 +7834,42 @@
       "opportunityId": "opp_4b8b9d429b74e273dfb3",
       "sentAt": "2026-07-27T12:20:00.633Z",
       "messageId": "1531274978102870047"
+    },
+    "brief:opp_f37df02a211a8bd83f14:sha256:5aa0ef3e1b7af44aa56fe8f6a46fdc1dac5ae23b88b636bee76eaef8630cbe74": {
+      "status": "SENT",
+      "opportunityId": "opp_f37df02a211a8bd83f14",
+      "sentAt": "2026-07-28T00:05:52.439Z",
+      "messageId": "1531452618914795773"
+    },
+    "brief:opp_5eba1c1bc202026ab81a:sha256:a6c9df5bca5393043c33e1ed13b0087a90c98a6c7850e863c3746bda0310cd54": {
+      "status": "SENT",
+      "opportunityId": "opp_5eba1c1bc202026ab81a",
+      "sentAt": "2026-07-28T00:05:52.439Z",
+      "messageId": "1531452618914795773"
+    },
+    "brief:opp_23ef9252a0d911a8fe56:sha256:580102e4e09b918abe2cbef00c9f44fa0016c3cf335cb0db4c0108a14e594e63": {
+      "status": "SENT",
+      "opportunityId": "opp_23ef9252a0d911a8fe56",
+      "sentAt": "2026-07-28T00:05:52.439Z",
+      "messageId": "1531452618914795773"
+    },
+    "brief:opp_62d968fd387264c8ae1a:sha256:c8a3683938a7d1ac35dc5185602d09805784f6e60e9d4c87de13b9feb2ee32ab": {
+      "status": "SENT",
+      "opportunityId": "opp_62d968fd387264c8ae1a",
+      "sentAt": "2026-07-28T00:05:52.439Z",
+      "messageId": "1531452618914795773"
+    },
+    "brief:opp_d5f11a7227f55edc66f7:sha256:332c88dbb0fc7db05ac97f983a11b2bd971db6d7a422e0845ae0b86a8ac02e0d": {
+      "status": "SENT",
+      "opportunityId": "opp_d5f11a7227f55edc66f7",
+      "sentAt": "2026-07-28T00:05:52.439Z",
+      "messageId": "1531452618914795773"
+    },
+    "brief:opp_75c05fcc4eab914a2ba8:sha256:31f721bd8e42a1ec83c86ed55ece80f2624053201c1e0b5744b5c28f1bfe5f2b": {
+      "status": "SENT",
+      "opportunityId": "opp_75c05fcc4eab914a2ba8",
+      "sentAt": "2026-07-28T00:05:52.439Z",
+      "messageId": "1531452618914795773"
     }
   },
   "pending": {},
