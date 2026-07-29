@@ -8020,26 +8020,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 1,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 2,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:dc4cdbe883b58199f3692f42ca1923f20aa03895c333b96c17d102f43c5b748a",
       "dedupeKey": "brief:opp_c9a01337ea2a0f72d82b:sha256:dc4cdbe883b58199f3692f42ca1923f20aa03895c333b96c17d102f43c5b748a",
-      "firstSeenAt": "2026-07-29T09:05:27.253Z",
-      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "firstSeenAt": "2026-07-29T11:23:51.438Z",
+      "lastSeenAt": "2026-07-29T11:23:51.438Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8069,26 +8069,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 2,
-        "contentScore": 12,
+        "communityPoints": 10,
+        "communityRank": 1,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:774769a360dff22670e5dcd73e6d8ea2167fea6c118929d645471157174260a9",
       "dedupeKey": "brief:opp_be91434c3b89748587d7:sha256:774769a360dff22670e5dcd73e6d8ea2167fea6c118929d645471157174260a9",
-      "firstSeenAt": "2026-07-29T09:05:27.253Z",
-      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "firstSeenAt": "2026-07-29T11:23:51.438Z",
+      "lastSeenAt": "2026-07-29T11:23:51.438Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8216,23 +8216,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028",
       "dedupeKey": "brief:opp_78eb7b1c90981c191092:sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028",
-      "firstSeenAt": "2026-07-29T09:05:27.253Z",
-      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "firstSeenAt": "2026-07-29T11:23:51.438Z",
+      "lastSeenAt": "2026-07-29T11:23:51.438Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -8265,8 +8265,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 7,
+        "communityPoints": 9,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -8280,8 +8280,8 @@
       },
       "contentHash": "sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0",
       "dedupeKey": "brief:opp_fd011ed8542110b54d3c:sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0",
-      "firstSeenAt": "2026-07-29T09:05:27.253Z",
-      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "firstSeenAt": "2026-07-29T11:23:51.438Z",
+      "lastSeenAt": "2026-07-29T11:23:51.438Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -8488,11 +8488,11 @@
       },
       "contentHash": "sha256:f56630c3875785d28a4ec67e006cafc0e07394889853f16c841e703f610566a0",
       "dedupeKey": "brief:opp_983eee2e8a2751c2827c:sha256:f56630c3875785d28a4ec67e006cafc0e07394889853f16c841e703f610566a0",
-      "firstSeenAt": "2026-07-29T09:05:27.253Z",
-      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "firstSeenAt": "2026-07-29T11:23:51.438Z",
+      "lastSeenAt": "2026-07-29T11:23:51.438Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8546,6 +8546,55 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_327f869b52d9c09344e0": {
+      "id": "opp_327f869b52d9c09344e0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31932",
+      "canonicalUrl": "https://www.focusedchaos.co/p/how-companies-quietly-lose-product-market-fit",
+      "title": "기업은 왜 자신도 모르게 제품-시장 적합성을 잃게 될까",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T09:41:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 고객의 높은 유지율과 만족도가 이어져도 신규 고객을 반복 확보하는 구조가 약해지면 제품-시장 적합성(PMF) 은 조용히 침식될 수 있음 고객...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31932"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25",
+      "dedupeKey": "brief:opp_327f869b52d9c09344e0:sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25",
+      "firstSeenAt": "2026-07-29T11:23:51.438Z",
+      "lastSeenAt": "2026-07-29T11:23:51.438Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -9420,6 +9469,24 @@
       "opportunityId": "opp_d1a3aa1736776b49c8cf",
       "sentAt": "2026-07-29T09:05:27.253Z",
       "messageId": "1531950800820109384"
+    },
+    "brief:opp_be91434c3b89748587d7:sha256:774769a360dff22670e5dcd73e6d8ea2167fea6c118929d645471157174260a9": {
+      "status": "SENT",
+      "opportunityId": "opp_be91434c3b89748587d7",
+      "sentAt": "2026-07-29T11:23:51.438Z",
+      "messageId": "1531985617464983554"
+    },
+    "brief:opp_c9a01337ea2a0f72d82b:sha256:dc4cdbe883b58199f3692f42ca1923f20aa03895c333b96c17d102f43c5b748a": {
+      "status": "SENT",
+      "opportunityId": "opp_c9a01337ea2a0f72d82b",
+      "sentAt": "2026-07-29T11:23:51.438Z",
+      "messageId": "1531985617464983554"
+    },
+    "brief:opp_983eee2e8a2751c2827c:sha256:f56630c3875785d28a4ec67e006cafc0e07394889853f16c841e703f610566a0": {
+      "status": "SENT",
+      "opportunityId": "opp_983eee2e8a2751c2827c",
+      "sentAt": "2026-07-29T11:23:51.438Z",
+      "messageId": "1531985617464983554"
     }
   },
   "pending": {},
