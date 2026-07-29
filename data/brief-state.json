@@ -7993,6 +7993,561 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_c9a01337ea2a0f72d82b": {
+      "id": "opp_c9a01337ea2a0f72d82b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31939",
+      "canonicalUrl": "https://news.hada.io/topic?id=31939",
+      "title": "Show GN: 100일간 AI로 1인 개발한 아파트 가격 시뮬레이터 (Web/iOS/Android)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T13:17:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 한국 아파트 시장 분석 및 가격 시뮬레이션 서비스 아파트 인사이트 APT Insights를 개발하고 있는 엔지니어입니다. 오랫동안 프론트...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31939"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dc4cdbe883b58199f3692f42ca1923f20aa03895c333b96c17d102f43c5b748a",
+      "dedupeKey": "brief:opp_c9a01337ea2a0f72d82b:sha256:dc4cdbe883b58199f3692f42ca1923f20aa03895c333b96c17d102f43c5b748a",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be91434c3b89748587d7": {
+      "id": "opp_be91434c3b89748587d7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31940",
+      "canonicalUrl": "https://www.inven.co.kr/webzine/news?news=318963",
+      "title": "송재경, AI와 게임",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T13:43:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "\"AI 특이점은 이미 진입했다. 우리가 모르고 있을 뿐\" &#039;바람의나라&#039;, &#039;리니지&#039;, &#039;아키에이지&#039;를 만든 송재경이 오픈소스 MMORPG 프로젝트 Open MMO...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31940"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:774769a360dff22670e5dcd73e6d8ea2167fea6c118929d645471157174260a9",
+      "dedupeKey": "brief:opp_be91434c3b89748587d7:sha256:774769a360dff22670e5dcd73e6d8ea2167fea6c118929d645471157174260a9",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_abab40dd78825298e57f": {
+      "id": "opp_abab40dd78825298e57f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31923",
+      "canonicalUrl": "https://fermisense.com/when-machines-take-the-wheel",
+      "title": "500달러로 미세조정한 9B 오픈 모델, 카탈로그 검수에서 프런티어 모델 능가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T07:45:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "전자상거래 카탈로그 검수용 9B 오픈소스 모델을 약 500달러로 강화학습 미세조정한 결과, 같은 도구·이미지·채점기를 사용한 모든 프런티어 모델 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31923"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 3,
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:97bf9241a3c2bc071f4124e52eea4ffe8c669fe0d5c66607f08c00435460ca8c",
+      "dedupeKey": "brief:opp_abab40dd78825298e57f:sha256:97bf9241a3c2bc071f4124e52eea4ffe8c669fe0d5c66607f08c00435460ca8c",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ed3486344dc24fe8fd13": {
+      "id": "opp_ed3486344dc24fe8fd13",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31930",
+      "canonicalUrl": "https://github.com/oblien/openship",
+      "title": "Openship - 내장 CI/CD를 갖춘 셀프 호스팅 배포 플랫폼",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "저장소를 지정하면 빌드 → 실행 → 라우팅 → TLS 종료까지 한 번에 처리하는 오픈소스 배포 플랫폼 설정 파일 없이 package.json, lockfile, 프레임...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31930"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:055f369b6b753a67601f7300d2c6bec65f95f802cbf80060a595febd69e8bac7",
+      "dedupeKey": "brief:opp_ed3486344dc24fe8fd13:sha256:055f369b6b753a67601f7300d2c6bec65f95f802cbf80060a595febd69e8bac7",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_78eb7b1c90981c191092": {
+      "id": "opp_78eb7b1c90981c191092",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31934",
+      "canonicalUrl": "https://www.nfx.com/post/upgraded-gtm-playbook",
+      "title": "업그레이드된 Go-To-Market 플레이북",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T10:03:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "혼잡하고 비싸진 SEO·PR 중심 성장 채널 대신, 빠르게 성장하는 기업들은 제품 전략과 시장 진출(GTM) 전략을 결합하고 있음 GTM은 온라인 정보로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31934"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028",
+      "dedupeKey": "brief:opp_78eb7b1c90981c191092:sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fd011ed8542110b54d3c": {
+      "id": "opp_fd011ed8542110b54d3c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31933",
+      "canonicalUrl": "https://ko.cppreference.com/cpp/links/libs",
+      "title": "오픈 소스 c++라이브러리 목록",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T09:42:52+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "1. 문서 목적 이 글은 C++ 개발자가 필요한 기능을 빠르게 찾을 수 있도록 오픈 소스 라이브러리를 분야별로 모은 목록이다. 라이브러리는 소스 형...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31933"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0",
+      "dedupeKey": "brief:opp_fd011ed8542110b54d3c:sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_50b50373299772b6d3fa": {
+      "id": "opp_50b50373299772b6d3fa",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "9a25c85973b9abceafce64d4c612637d0505b325",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-customer-service-refund-automation",
+      "title": "2주 만에 Strands SDK와 Amazon Bedrock AgentCore로 구현한 어스얼라이언스의 CS 환불 자동응답 에이전트 시스템",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 29 Jul 2026 05:34:19 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이번 블로그는 AWS DEVCRAFT 2026 (2026.3.26 ~ 4.9, AWS 코리아 오피스) 해커톤 프로그램에 참여하여 진행한 프로젝트를 기반으로 작성되었습니다. DEVCRAFT는 AWS SA와 고객사 개발팀이 함께 실제 비즈니스 과제를 2주간 집중 개발하는 프로그램입니다. 어스얼라이언스 (US Alliance)는 크리에이터 기반 금융 콘텐츠·커뮤니티 플랫폼 ‘어스플러스(US PLUS)’를 운영하는 기업입니다. 본 블로그에서는 어스얼라이언스가 Amazon Bedrock AgentCore",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-customer-service-refund-automation/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e2f631da0bad848d49b313d19dd1cfe06a68bec5f974701358217f1f8368826c",
+      "dedupeKey": "brief:opp_50b50373299772b6d3fa:sha256:e2f631da0bad848d49b313d19dd1cfe06a68bec5f974701358217f1f8368826c",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_45ac849c91e7489de15a": {
+      "id": "opp_45ac849c91e7489de15a",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:d631ugC7fU0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=d631ugC7fU0",
+      "title": "ChatGPT Work 나왔는데, 개발자는 굳이 써야 할까? (직접 기능 하나 배포해봤습니다)",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T05:45:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Codex 쓰는 개발자에게 ChatGPT Work가 필요한 이유 | 고객 피드백 4개가 PR이 되기까지 ※ 본 영상은 OpenAI로부터 유료 광고를 지원받아 제작되었습니다. ▶️ ChatGPT Work 바로 사용해보기 👉 https://bit.ly/SVDeveloper 이번에 Codex 앱이 개편되면서 ChatGPT 데스크톱 앱에 **ChatGPT Work**가 새로 나왔습니다. 솔직히 첫 반응은 \"나는 이미 Codex를 쓰는데, 이게 필요한가?\"였는데요 — 직접 써보면서 생각이 바뀌었습니다.",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=d631ugC7fU0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-29T05:45:04.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a5159d6710375983197547615f185dcbc71bcc92cb46063e5bb50871ff10227b",
+      "dedupeKey": "brief:opp_45ac849c91e7489de15a:sha256:a5159d6710375983197547615f185dcbc71bcc92cb46063e5bb50871ff10227b",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d1a3aa1736776b49c8cf": {
+      "id": "opp_d1a3aa1736776b49c8cf",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:C3-UfkTPi7U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=C3-UfkTPi7U",
+      "title": "[한영자막] 포워드 디플로이드 엔지니어링 101 — 팔란티어·Rippling 출신 Anthropic 케빈 바이 강연",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T06:00:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "포워드 디플로이드 엔지니어링(FDE), 팔란티어를 포춘 500 기업들의 필수 파트너로 만든 이 독특한 모델을 Anthropic의 케빈 바이가 처음부터 끝까지 설명합니다. 기술적인 제품을 비기술적인 구매자에게 팔아야 할 때, 왜 엔지니어를 직접 고객 앞으로 보내야 하는지 알려드립니다. 주요 포인트 - 팔란티어의 Foundry가 어떻게 '제품도 서비스도 아닌 결과물'을 파는 모델을 만들었는지 - 상장 SaaS 기업 중 평균 계약 규모(ACV) 1위가 팔란티어(400만 달러)인 이유 - FDE 조직을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=C3-UfkTPi7U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-29T06:00:17.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:13a5ae5e73001697dcd74b1921e09d943238df92d057df4aeee64a605596bcbd",
+      "dedupeKey": "brief:opp_d1a3aa1736776b49c8cf:sha256:13a5ae5e73001697dcd74b1921e09d943238df92d057df4aeee64a605596bcbd",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_983eee2e8a2751c2827c": {
+      "id": "opp_983eee2e8a2751c2827c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:w6pLsS5rx_8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w6pLsS5rx_8",
+      "title": "[한영자막] 샘 올트먼이 말하는 '지금이 최적기'인 진짜 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T03:00:26+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Y 컴비네이터 스타트업 스쿨 2026 폐막 대담, 오픈AI CEO 샘 올트먼이 왜 지금이 창업하기 가장 좋은 시기라고 말하는지 들어보세요. 주요 내용 - 3개월 걸리던 개발이 코딩 에이전트로 7분 만에 끝나는 시대, 창업의 규칙이 어떻게 바뀌었는지 - 폴 그레이엄에게 배운 것과 YC 초창기 이야기 - AGI를 아무도 믿지 않던 시절, 오픈AI를 만든 이유 - AI 안전 사고와 권력 집중을 막아야 하는 이유 - 스무 살의 자신에게 해주고 싶은 한마디 #샘올트먼 #오픈AI #YCombinator #스",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=w6pLsS5rx_8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-29T06:00:17.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f56630c3875785d28a4ec67e006cafc0e07394889853f16c841e703f610566a0",
+      "dedupeKey": "brief:opp_983eee2e8a2751c2827c:sha256:f56630c3875785d28a4ec67e006cafc0e07394889853f16c841e703f610566a0",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7a21dffa20d2acf78802": {
+      "id": "opp_7a21dffa20d2acf78802",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:2-3F7y5AKJw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2-3F7y5AKJw",
+      "title": "토큰이 비싸서 화난 개발자들이 하는 짓",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T03:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "우우우 토큰토큰토큰 상세설치가이드는 아마 곧 여기에 https://codingapple.com/ 개별강의 10% 할인쿠폰 templeos2018 (자주 바뀜 최신영상 참고) 사용한자료 https://tenor.com/baHs5.gif https://www.reddit.com/r/ClaudeAI/comments/1rc56c5/i_thought_i_only_need_to_wait_for_5_hours_not_3/ https://tenor.com/vtvm.gif https://tenor.com/bwWQ",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2-3F7y5AKJw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-29T03:00:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8f3b55e9da957490f6c0659a74eb75e6442c496776aa463363800094bd59fde0",
+      "dedupeKey": "brief:opp_7a21dffa20d2acf78802:sha256:8f3b55e9da957490f6c0659a74eb75e6442c496776aa463363800094bd59fde0",
+      "firstSeenAt": "2026-07-29T09:05:27.253Z",
+      "lastSeenAt": "2026-07-29T09:05:27.253Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -8829,6 +9384,42 @@
       "opportunityId": "opp_1c0d51fdbc5f40d48db6",
       "sentAt": "2026-07-29T02:45:20.522Z",
       "messageId": "1531855129802965163"
+    },
+    "brief:opp_50b50373299772b6d3fa:sha256:e2f631da0bad848d49b313d19dd1cfe06a68bec5f974701358217f1f8368826c": {
+      "status": "SENT",
+      "opportunityId": "opp_50b50373299772b6d3fa",
+      "sentAt": "2026-07-29T09:05:27.253Z",
+      "messageId": "1531950800820109384"
+    },
+    "brief:opp_45ac849c91e7489de15a:sha256:a5159d6710375983197547615f185dcbc71bcc92cb46063e5bb50871ff10227b": {
+      "status": "SENT",
+      "opportunityId": "opp_45ac849c91e7489de15a",
+      "sentAt": "2026-07-29T09:05:27.253Z",
+      "messageId": "1531950800820109384"
+    },
+    "brief:opp_abab40dd78825298e57f:sha256:97bf9241a3c2bc071f4124e52eea4ffe8c669fe0d5c66607f08c00435460ca8c": {
+      "status": "SENT",
+      "opportunityId": "opp_abab40dd78825298e57f",
+      "sentAt": "2026-07-29T09:05:27.253Z",
+      "messageId": "1531950800820109384"
+    },
+    "brief:opp_7a21dffa20d2acf78802:sha256:8f3b55e9da957490f6c0659a74eb75e6442c496776aa463363800094bd59fde0": {
+      "status": "SENT",
+      "opportunityId": "opp_7a21dffa20d2acf78802",
+      "sentAt": "2026-07-29T09:05:27.253Z",
+      "messageId": "1531950800820109384"
+    },
+    "brief:opp_ed3486344dc24fe8fd13:sha256:055f369b6b753a67601f7300d2c6bec65f95f802cbf80060a595febd69e8bac7": {
+      "status": "SENT",
+      "opportunityId": "opp_ed3486344dc24fe8fd13",
+      "sentAt": "2026-07-29T09:05:27.253Z",
+      "messageId": "1531950800820109384"
+    },
+    "brief:opp_d1a3aa1736776b49c8cf:sha256:13a5ae5e73001697dcd74b1921e09d943238df92d057df4aeee64a605596bcbd": {
+      "status": "SENT",
+      "opportunityId": "opp_d1a3aa1736776b49c8cf",
+      "sentAt": "2026-07-29T09:05:27.253Z",
+      "messageId": "1531950800820109384"
     }
   },
   "pending": {},
