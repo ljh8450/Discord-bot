@@ -7409,8 +7409,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 6,
+        "communityPoints": 9,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -7424,8 +7424,8 @@
       },
       "contentHash": "sha256:117ee55f3f2b10478d996b7f2005b163f12f6dff0b82cfc3ec212fd9754af2d5",
       "dedupeKey": "brief:opp_1c0d51fdbc5f40d48db6:sha256:117ee55f3f2b10478d996b7f2005b163f12f6dff0b82cfc3ec212fd9754af2d5",
-      "firstSeenAt": "2026-07-28T11:14:47.965Z",
-      "lastSeenAt": "2026-07-28T11:14:47.965Z",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -7458,23 +7458,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 12,
         "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:cb36f5a1f10247554e42e744c91cf021bd265cc1a4820ee2e0fd88c73c1f3670",
       "dedupeKey": "brief:opp_f5455d77b88197b0f09f:sha256:cb36f5a1f10247554e42e744c91cf021bd265cc1a4820ee2e0fd88c73c1f3670",
-      "firstSeenAt": "2026-07-28T11:14:47.965Z",
-      "lastSeenAt": "2026-07-28T11:14:47.965Z",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -7679,6 +7679,315 @@
       "dedupeKey": "brief:opp_158a47408310df37cf82:sha256:1701785a2bef91a0831473890e4cb8929795522d7bf735dcd3c16d2b4abf3cb8",
       "firstSeenAt": "2026-07-28T11:14:47.965Z",
       "lastSeenAt": "2026-07-28T11:14:47.965Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_41b27373d06e1e504a6f": {
+      "id": "opp_41b27373d06e1e504a6f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/scientific-computing-agentic-ai",
+      "canonicalUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+      "title": "Scientific computing in the age of agentic AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "summaryEvidence": [
+        "https://openai.com/index/scientific-computing-agentic-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7f726da04bcd200f731f77942e3f2be20889e055c4cde4c06036c0b2125cd505",
+      "dedupeKey": "brief:opp_41b27373d06e1e504a6f:sha256:7f726da04bcd200f731f77942e3f2be20889e055c4cde4c06036c0b2125cd505",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8fa63529aefd3e6fe1a4": {
+      "id": "opp_8fa63529aefd3e6fe1a4",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97755",
+      "canonicalUrl": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions",
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3460ce34a5a247f4edf4b231929084e29f5af590b0edd99f77c8e339ee7ed101",
+      "dedupeKey": "brief:opp_8fa63529aefd3e6fe1a4:sha256:3460ce34a5a247f4edf4b231929084e29f5af590b0edd99f77c8e339ee7ed101",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_933e4273b358c680ea2c": {
+      "id": "opp_933e4273b358c680ea2c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:UkoosAsEA8w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UkoosAsEA8w",
+      "title": "[한영자막] 보리스 체르니: Claude Code는 이렇게 만들어졌다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T22:00:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code를 만든 보리스 체르니가 Y Combinator Startup School 무대에서 나눈 이야기입니다. 시스템 프롬프트를 80% 지운 이유부터 프롬프트 하나로 11일 만에 코드베이스를 통째로 새로 짠 사례까지, AI로 제품을 만드는 사람이라면 꼭 들어볼 만한 내용을 담았습니다. 주요 포인트 - Opus 5는 프롬프트 인젝션에 거의 당하지 않는 수준까지 도달했습니다. - 새 모델이 나올 때마다 시스템 프롬프트를 과감히 지우고 다시 쌓아 올리는 방식(어블레이션)을 설명합니다. -",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=UkoosAsEA8w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-28T22:00:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3752800dfd54e5222358341050a865842116101ccf1248c24deabeddef999bb0",
+      "dedupeKey": "brief:opp_933e4273b358c680ea2c:sha256:3752800dfd54e5222358341050a865842116101ccf1248c24deabeddef999bb0",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a05fca01d5141eeefe89": {
+      "id": "opp_a05fca01d5141eeefe89",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:ye7BvsbGVto",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ye7BvsbGVto",
+      "title": "(개념/설계/실습) 번개처럼 로딩되는 메인페이지 | 웹사이트 성능 향상 기",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T23:46:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "웹사이트에서 이용자가 가장 먼저 만나게 되는 메인페이지를 빠르게 만드는 방법입니다. 이전에 올렸던 일반영상 + 멤버십 전용 영상을 합쳐서 통합본으로 구성했습니다. 00:00 메인페이지를 미리 구워놓자(feat htmx) 10:50 메인페이지 Pre-rendering 설계와 구현 ────────────────── '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/playlist?list=UUMORpOx7jjy2PuuVeRrYKbdCA",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ye7BvsbGVto"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-28T23:46:35.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:520555166ae5b90f66b44a65eb12799277badc947ab093ea79e83baf56af778c",
+      "dedupeKey": "brief:opp_a05fca01d5141eeefe89:sha256:520555166ae5b90f66b44a65eb12799277badc947ab093ea79e83baf56af778c",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_43c5f86810bcacdf53ba": {
+      "id": "opp_43c5f86810bcacdf53ba",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:ShYfGB3x5mM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ShYfGB3x5mM",
+      "title": "The #1 Trending Github Repo Just SOLVED Claude's Search Problem",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T22:39:55+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Let's dive into the open source repo that solves one of Claude Code's least talked about weaknesses: web search",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ShYfGB3x5mM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-28T22:39:55.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa4257e3ce22a7f4f553eeaa11965383934efb5dfae06517ca74ff503ae32c02",
+      "dedupeKey": "brief:opp_43c5f86810bcacdf53ba:sha256:fa4257e3ce22a7f4f553eeaa11965383934efb5dfae06517ca74ff503ae32c02",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4759fa82fe689173355c": {
+      "id": "opp_4759fa82fe689173355c",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:G5Qn7Hoxq18",
+      "canonicalUrl": "https://www.youtube.com/watch?v=G5Qn7Hoxq18",
+      "title": "중국이 DUV 국산화에 성공합니다… ASML 독점 흔드나 | 실제 가능한 공정은 어디까지?",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-07-28T13:11:01+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "중국이 자국산 이머전 DUV 노광장비를 생산하기 시작했다는 보도가 나왔습니다. 이번 장비는 최첨단 EUV가 아니라, ASML이 약 20년 전부터 상용화해온 전세대 노광 기술에 해당합니다. 영상에서는 일반 DUV와 이머전 DUV가 무엇이 다른지부터 쉽게 살펴봅니다. 렌즈 아래에 초순수를 넣으면 왜 같은 193나노미터 빛으로 더 미세한 패턴을 만들 수 있는지도 정리했습니다. 노광장비의 해상도와 반도체 공정의 나노미터 숫자가 왜 서로 다른지도 설명합니다. 한 번에 만들기 어려운 회로를 여러 번 나눠 찍",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=G5Qn7Hoxq18"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-28T13:11:01.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1f49d8fc2ed23653fe08cb249ebc8da00781fc932ca7778ed4e7f854bad07d91",
+      "dedupeKey": "brief:opp_4759fa82fe689173355c:sha256:1f49d8fc2ed23653fe08cb249ebc8da00781fc932ca7778ed4e7f854bad07d91",
+      "firstSeenAt": "2026-07-29T00:05:43.910Z",
+      "lastSeenAt": "2026-07-29T00:05:43.910Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -8472,6 +8781,42 @@
       "opportunityId": "opp_91dee99695ae45a3741e",
       "sentAt": "2026-07-28T11:14:47.965Z",
       "messageId": "1531620949156171798"
+    },
+    "brief:opp_8fa63529aefd3e6fe1a4:sha256:3460ce34a5a247f4edf4b231929084e29f5af590b0edd99f77c8e339ee7ed101": {
+      "status": "SENT",
+      "opportunityId": "opp_8fa63529aefd3e6fe1a4",
+      "sentAt": "2026-07-29T00:05:43.910Z",
+      "messageId": "1531814981375365344"
+    },
+    "brief:opp_43c5f86810bcacdf53ba:sha256:fa4257e3ce22a7f4f553eeaa11965383934efb5dfae06517ca74ff503ae32c02": {
+      "status": "SENT",
+      "opportunityId": "opp_43c5f86810bcacdf53ba",
+      "sentAt": "2026-07-29T00:05:43.910Z",
+      "messageId": "1531814981375365344"
+    },
+    "brief:opp_41b27373d06e1e504a6f:sha256:7f726da04bcd200f731f77942e3f2be20889e055c4cde4c06036c0b2125cd505": {
+      "status": "SENT",
+      "opportunityId": "opp_41b27373d06e1e504a6f",
+      "sentAt": "2026-07-29T00:05:43.910Z",
+      "messageId": "1531814981375365344"
+    },
+    "brief:opp_933e4273b358c680ea2c:sha256:3752800dfd54e5222358341050a865842116101ccf1248c24deabeddef999bb0": {
+      "status": "SENT",
+      "opportunityId": "opp_933e4273b358c680ea2c",
+      "sentAt": "2026-07-29T00:05:43.910Z",
+      "messageId": "1531814981375365344"
+    },
+    "brief:opp_a05fca01d5141eeefe89:sha256:520555166ae5b90f66b44a65eb12799277badc947ab093ea79e83baf56af778c": {
+      "status": "SENT",
+      "opportunityId": "opp_a05fca01d5141eeefe89",
+      "sentAt": "2026-07-29T00:05:43.910Z",
+      "messageId": "1531814981375365344"
+    },
+    "brief:opp_4759fa82fe689173355c:sha256:1f49d8fc2ed23653fe08cb249ebc8da00781fc932ca7778ed4e7f854bad07d91": {
+      "status": "SENT",
+      "opportunityId": "opp_4759fa82fe689173355c",
+      "sentAt": "2026-07-29T00:05:43.910Z",
+      "messageId": "1531814981375365344"
     }
   },
   "pending": {},
