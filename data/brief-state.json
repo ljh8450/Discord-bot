@@ -9039,6 +9039,455 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_e25dc36f5b8552685527": {
+      "id": "opp_e25dc36f5b8552685527",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31967",
+      "canonicalUrl": "https://github.com/bruits/satteri",
+      "title": "satteri - JavaScript 생태계를 위한 고성능 Markdown 및 MDX 처리기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "JavaScript 생태계는 플러그인은 풍부하지만 파서가 느리고, Rust 생태계는 그 반대라는 간극을 메우는 고성능 Markdown / MDX 파이프라인 파서와 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31967"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5367cdfa614b7b96f2fcd27dd794dfc24fb1baeb01768c8cb11a7689ce905d31",
+      "dedupeKey": "brief:opp_e25dc36f5b8552685527:sha256:5367cdfa614b7b96f2fcd27dd794dfc24fb1baeb01768c8cb11a7689ce905d31",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ed113f0cd78d10ec452e": {
+      "id": "opp_ed113f0cd78d10ec452e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31958",
+      "canonicalUrl": "https://github.com/drumih/turbo-fieldfare",
+      "title": "TurboFieldfare - 모든 M 시리즈 Mac에서 Gemma 4 26B를 2GB RAM으로 실행하는 오픈소스 엔진",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T03:32:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "TurboFieldfare는 전체 14.3GB 모델을 메모리에 올리지 않고 Gemma 4 26B-A4B를 약 2GB의 메모리로 실행해, 8GB Apple Silicon Mac에서도 로컬 추...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31958"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c80f9a7cb1404e9313ba3eb2c055839f160b79ed98557734a519cdcbf7b665df",
+      "dedupeKey": "brief:opp_ed113f0cd78d10ec452e:sha256:c80f9a7cb1404e9313ba3eb2c055839f160b79ed98557734a519cdcbf7b665df",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ba0c0a1267e96bca6db6": {
+      "id": "opp_ba0c0a1267e96bca6db6",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ad8c2a6900d6505da6e2cc039fcda2014c2abe7f",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/how-karrot-built-a-large-scale-signing-key-management-system-with-aws-cloudhsm-part3",
+      "title": "당근이 AWS CloudHSM으로 대규모 서명키 관리 시스템을 구축한 방법 – 3부: 서명 시스템 구현, 트러블슈팅, 무중단 키 전환",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 04:41:57 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "해당 포스트는 당근의 최용환님, 조승환님, 오현준님과 함께 작성했으며, AWS Summit Seoul 2026에서 발표한 세션 내용을 기반으로 합니다. 이 시리즈의 1부에서는 서명키 보안의 중요성과 당근이 하이브리드 전략을 선택한 과정을, 2부에서는 CloudHSM 아키텍처와 다계층 접근 제어 전략을 다루었습니다. 이번 마지막 글에서는 이 인프라 위에서 서명 시스템을 어떻게 구현했는지, PKCS#11 기반 시스템 운영에서 겪은 트러블슈팅, 그리고 수천만 개의 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/how-karrot-built-a-large-scale-signing-key-management-system-with-aws-cloudhsm-part3/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e2f2f50b8d7703494d68a4cf2f57ef01e234d6bed9a625a8c8ea5e399857658d",
+      "dedupeKey": "brief:opp_ba0c0a1267e96bca6db6:sha256:e2f2f50b8d7703494d68a4cf2f57ef01e234d6bed9a625a8c8ea5e399857658d",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b584c3947bb747e4abbe": {
+      "id": "opp_b584c3947bb747e4abbe",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "f77333cf6bb26da73f1abcea7a80735ef3b6a115",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/how-karrot-built-a-large-scale-signing-key-management-system-with-aws-cloudhsm-part2",
+      "title": "당근이 AWS CloudHSM으로 대규모 서명키 관리 시스템을 구축한 방법– 2부: CloudHSM 아키텍처와 다계층 접근 제어",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 04:41:33 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "해당 포스트는 당근의 최용환님, 조승환님, 오현준님과 함께 작성했으며, AWS Summit Seoul 2026에서 발표한 세션 내용을 기반으로 합니다. 이 시리즈의 1부에서는 서명키 보안의 중요성과 당근이 AWS CloudHSM과 AWS KMS를 비교하여 하이브리드 전략을 선택한 과정을 다루었습니다. 이번 글에서는 CloudHSM 아키텍처를 어떻게 설계했는지, 그리고 서명키에 대한 접근을 어떻게 다계층으로 보호했는지 공유합니다. CloudHSM 아키텍처 개요 다음 다이어그램은 당근이 구성한 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/how-karrot-built-a-large-scale-signing-key-management-system-with-aws-cloudhsm-part2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7b9cba640a93ca5efde53f5ac78b44e1eb3c97a3a5a87315ce1f2b028e4f4ed8",
+      "dedupeKey": "brief:opp_b584c3947bb747e4abbe:sha256:7b9cba640a93ca5efde53f5ac78b44e1eb3c97a3a5a87315ce1f2b028e4f4ed8",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_32805b1040b5123fd60c": {
+      "id": "opp_32805b1040b5123fd60c",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "4763620539724b99b36cdb6834348010c9644341",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/how-karrot-built-a-large-scale-signing-key-management-system-with-aws-cloudhsm-part1",
+      "title": "당근이 AWS CloudHSM으로 대규모 서명키 관리 시스템을 구축한 방법 – 1부: 서명키 보안의 중요성과 서비스 선택",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 04:41:14 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "해당 포스트는 당근의 최용환님, 조승환님, 오현준님과 함께 작성했으며, AWS Summit Seoul 2026에서 발표한 세션 내용을 기반으로 합니다. &nbsp;당근은 대한민국을 대표하는 지역생활 커뮤니티로서, 2,100만 이상의 월간 활성 사용자(MAU)와 4,300만 이상의 누적 가입자를 보유하고 있습니다. 당근의 인증 서비스는 이 거대한 사용자 기반을 대상으로 하루 평균 6,500만 건 이상의 JWT 토큰 서명을 처리하고 있습니다. JWT(JSON Web Token)는 서명으로 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/how-karrot-built-a-large-scale-signing-key-management-system-with-aws-cloudhsm-part1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6c1d35ffc8996b29c3566092abd5e426ced747749a142c16e0a6b284347b053e",
+      "dedupeKey": "brief:opp_32805b1040b5123fd60c:sha256:6c1d35ffc8996b29c3566092abd5e426ced747749a142c16e0a6b284347b053e",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_de2c4e38e5f47725eac7": {
+      "id": "opp_de2c4e38e5f47725eac7",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "17e033bf68454b2647f96ddb95a7a8c02dbbe9e3",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/physical-ai-model-data",
+      "title": "AWS 환경에서 Physical AI 모델 구축하기 – (1) 데이터",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 04:13:36 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Physical AI는 텍스트를 생성하던 AI가 물리 세계에서 직접 인식하고, 추론하고, 행동하는 단계로 넘어가는 흐름을 뜻합니다. 휴머노이드 로봇부터 자율주행까지 응용은 빠르게 늘고 있지만, 실제로 만들어 내려면 대규모 멀티모달 데이터, 막대한 학습 연산, 고정밀 시뮬레이션, 그리고 이 모든 것을 실제 동작으로 잇는 오케스트레이션까지 새로운 파이프라인이 필요합니다. 이 시리즈는 Physical AI를 뒷받침하는 핵심 기술과 그 과정의 챌린지를 먼저 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/physical-ai-model-data/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:91b110022e4ae093474a87159fc98f2fa96efbd72dd137d659c4494c757ac0ca",
+      "dedupeKey": "brief:opp_de2c4e38e5f47725eac7:sha256:91b110022e4ae093474a87159fc98f2fa96efbd72dd137d659c4494c757ac0ca",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be0b8b6ee043da2b1608": {
+      "id": "opp_be0b8b6ee043da2b1608",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/llm_context_topic",
+      "canonicalUrl": "https://toss.tech/article/llm_context_topic",
+      "title": "LLM은 똑똑한데, 왜 우리 회사 일은 모를까",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 05:24:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "문서 · 코드 · 사내 메신저에 흩어진 정보를, 믿고 쓸 수 있는 컨텍스트로 만드는 여정",
+      "summaryEvidence": [
+        "https://toss.tech/article/llm_context_topic"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fc3ab4a56d59238cbd1571734018a624f40a9a433fd2fdfef392d6dfbbefef40",
+      "dedupeKey": "brief:opp_be0b8b6ee043da2b1608:sha256:fc3ab4a56d59238cbd1571734018a624f40a9a433fd2fdfef392d6dfbbefef40",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eb23f580588e397e924b": {
+      "id": "opp_eb23f580588e397e924b",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:iv60GIHpijE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iv60GIHpijE",
+      "title": "노션 개발자는 코드를 이렇게 읽습니다",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T09:00:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#바이브코딩 #클로드코드 #AI코딩 최근 \"이해가 병목이다.\"라는 말이 개발자들 사이에서 돌고 있습니다. 과연 AI가 짜준 코드, 우리가 읽어야 할까요? 개발자 컨퍼런스에서 이 질문으로 손들기 투표를 했는데 강연장이 갈렸습니다. 노션 디자인 엔지니어 제프리 릿의 발표를 정리했습니다. 답은 읽어라도, 읽지 마라도 아니었어요. 그가 공개한 프롬프트 세 개를 복붙하실 수 있게 그대로 가져왔고, 마지막에 누가 코드를 읽어야 하는지 제 기준도 말씀드립니다. 📌 영상에 나온 프롬프트 3개 [개발자가 공유한",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=iv60GIHpijE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-30T09:00:21.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1778dd076fc2e060d20ee78b8d2b280923ed991c4d754434f7fca6e7cc19625b",
+      "dedupeKey": "brief:opp_eb23f580588e397e924b:sha256:1778dd076fc2e060d20ee78b8d2b280923ed991c4d754434f7fca6e7cc19625b",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d06373db93155180e9f": {
+      "id": "opp_9d06373db93155180e9f",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:Of_LDvvZmYA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Of_LDvvZmYA",
+      "title": "한국을 거대한 AI 공장으로… 엔비디아가 한국 전체를 AI로 묶는 이유 | 삼성·SK·현대차·네이버의 역할 | 샌프란시스코 AI Summit",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T07:44:44+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "샌프란시스코에 엔비디아와 한국 주요 기업의 리더들이 한자리에 모였습니다. 이번 영상에서는 각 기업의 발표를 나열하는 대신, 이 협력들이 하나의 구조로 어떻게 연결되는지 살펴봅니다. 네이버는 데이터와 모델, AI 에이전트와 공간 AI를 담당합니다. SK텔레콤은 이를 학습하고 운영할 대규모 AI 팩토리를 구축하려고 합니다. 현대차는 공장과 자동차, 로봇에서 현실의 성공과 실패 데이터를 만들어냅니다. 지난 서울 네모트론 행사에서 공개된 한국형 합성 데이터와 페르소나 사례도 함께 짚어봅니다. 하이퍼클로바",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Of_LDvvZmYA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-30T07:44:44.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a37ac29a775d002afb7f518dbab585341cc664cc6f01ec8f2b0e0751b6597380",
+      "dedupeKey": "brief:opp_9d06373db93155180e9f:sha256:a37ac29a775d002afb7f518dbab585341cc664cc6f01ec8f2b0e0751b6597380",
+      "firstSeenAt": "2026-07-30T09:06:00.673Z",
+      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -9995,6 +10444,42 @@
       "opportunityId": "opp_327f869b52d9c09344e0",
       "sentAt": "2026-07-30T02:30:20.964Z",
       "messageId": "1532213748612464781"
+    },
+    "brief:opp_be0b8b6ee043da2b1608:sha256:fc3ab4a56d59238cbd1571734018a624f40a9a433fd2fdfef392d6dfbbefef40": {
+      "status": "SENT",
+      "opportunityId": "opp_be0b8b6ee043da2b1608",
+      "sentAt": "2026-07-30T09:06:00.673Z",
+      "messageId": "1532313322463035544"
+    },
+    "brief:opp_ba0c0a1267e96bca6db6:sha256:e2f2f50b8d7703494d68a4cf2f57ef01e234d6bed9a625a8c8ea5e399857658d": {
+      "status": "SENT",
+      "opportunityId": "opp_ba0c0a1267e96bca6db6",
+      "sentAt": "2026-07-30T09:06:00.673Z",
+      "messageId": "1532313322463035544"
+    },
+    "brief:opp_b584c3947bb747e4abbe:sha256:7b9cba640a93ca5efde53f5ac78b44e1eb3c97a3a5a87315ce1f2b028e4f4ed8": {
+      "status": "SENT",
+      "opportunityId": "opp_b584c3947bb747e4abbe",
+      "sentAt": "2026-07-30T09:06:00.673Z",
+      "messageId": "1532313322463035544"
+    },
+    "brief:opp_ed113f0cd78d10ec452e:sha256:c80f9a7cb1404e9313ba3eb2c055839f160b79ed98557734a519cdcbf7b665df": {
+      "status": "SENT",
+      "opportunityId": "opp_ed113f0cd78d10ec452e",
+      "sentAt": "2026-07-30T09:06:00.673Z",
+      "messageId": "1532313322463035544"
+    },
+    "brief:opp_eb23f580588e397e924b:sha256:1778dd076fc2e060d20ee78b8d2b280923ed991c4d754434f7fca6e7cc19625b": {
+      "status": "SENT",
+      "opportunityId": "opp_eb23f580588e397e924b",
+      "sentAt": "2026-07-30T09:06:00.673Z",
+      "messageId": "1532313322463035544"
+    },
+    "brief:opp_9d06373db93155180e9f:sha256:a37ac29a775d002afb7f518dbab585341cc664cc6f01ec8f2b0e0751b6597380": {
+      "status": "SENT",
+      "opportunityId": "opp_9d06373db93155180e9f",
+      "sentAt": "2026-07-30T09:06:00.673Z",
+      "messageId": "1532313322463035544"
     }
   },
   "pending": {},
