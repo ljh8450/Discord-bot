@@ -8575,14 +8575,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityPoints": 7,
+        "communityRank": 18,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -8590,11 +8590,11 @@
       },
       "contentHash": "sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25",
       "dedupeKey": "brief:opp_327f869b52d9c09344e0:sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25",
-      "firstSeenAt": "2026-07-30T00:06:07.869Z",
-      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "firstSeenAt": "2026-07-30T02:30:20.964Z",
+      "lastSeenAt": "2026-07-30T02:30:20.964Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8783,11 +8783,11 @@
       },
       "contentHash": "sha256:a6bfd091e3e8fc253ea15317be46814da7c49a9a554902dd14fa6c23c4cdde70",
       "dedupeKey": "brief:opp_1cec9c97b7671b109801:sha256:a6bfd091e3e8fc253ea15317be46814da7c49a9a554902dd14fa6c23c4cdde70",
-      "firstSeenAt": "2026-07-30T00:06:07.869Z",
-      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "firstSeenAt": "2026-07-30T02:30:20.964Z",
+      "lastSeenAt": "2026-07-30T02:30:20.964Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8886,6 +8886,154 @@
       "dedupeKey": "brief:opp_c30ace86977fd99a022a:sha256:7508e4f3fb3964d1b9714da8705206084b00637df3df3fab01cf0dd9180fd6b6",
       "firstSeenAt": "2026-07-30T00:06:07.869Z",
       "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ce39df262a2e2f6c6e61": {
+      "id": "opp_ce39df262a2e2f6c6e61",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31969",
+      "canonicalUrl": "https://sofiakodar.github.io/posts/becomingmanager",
+      "title": "매니저가 된다는 것의 진실",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T10:02:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "엔지니어링 매니저는 기술 업무를 넘어 어려운 결정과 갈등, 기밀, 조직의 불안을 감당하는 외롭고 책임이 큰 역할을 맡게 됨 직책이 바뀌면 팀과...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31969"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8afd390c11e3b2d1b69c462e93ec403b09365a0686715368c8a0f5cb8eceb20c",
+      "dedupeKey": "brief:opp_ce39df262a2e2f6c6e61:sha256:8afd390c11e3b2d1b69c462e93ec403b09365a0686715368c8a0f5cb8eceb20c",
+      "firstSeenAt": "2026-07-30T02:30:20.964Z",
+      "lastSeenAt": "2026-07-30T02:30:20.964Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ed8e8b5d1091274d0239": {
+      "id": "opp_ed8e8b5d1091274d0239",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/device-farm-nebula",
+      "canonicalUrl": "https://toss.tech/article/device-farm-nebula",
+      "title": "토스의 디바이스 팜 만들기",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 02:24:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "팀마다 맥북에 폰을 꽂던 시절을 끝내고, 실기기를 API 호출 한 번으로 여는 플랫폼을 만들며",
+      "summaryEvidence": [
+        "https://toss.tech/article/device-farm-nebula"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:220d40ee5f7395e13124973d9e720af941e1c8e31681282ac767011afdb02e69",
+      "dedupeKey": "brief:opp_ed8e8b5d1091274d0239:sha256:220d40ee5f7395e13124973d9e720af941e1c8e31681282ac767011afdb02e69",
+      "firstSeenAt": "2026-07-30T02:30:20.964Z",
+      "lastSeenAt": "2026-07-30T02:30:20.964Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e2c6f76386e1a7661212": {
+      "id": "opp_e2c6f76386e1a7661212",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/android-cli-for-ai-agents-at-scale",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/android-cli-for-ai-agents-at-scale",
+      "title": "AI 에이전트를 위한 Android CLI: 대규모 모바일 개발 환경에 적용하기",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "LINE Android 앱은 수백 명의 개발자가 하나의 Git 저장소에서 함께 만들어 가는, 수백 개의 Gradle 모듈로 구성된 대규모 Android 앱입니다. LINE Andr...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/android-cli-for-ai-agents-at-scale"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:441aa8b5c245783cec88af9d3da3d575579511632a19a28fc175730daf5ceb39",
+      "dedupeKey": "brief:opp_e2c6f76386e1a7661212:sha256:441aa8b5c245783cec88af9d3da3d575579511632a19a28fc175730daf5ceb39",
+      "firstSeenAt": "2026-07-30T02:30:20.964Z",
+      "lastSeenAt": "2026-07-30T02:30:20.964Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -9817,6 +9965,36 @@
       "opportunityId": "opp_c30ace86977fd99a022a",
       "sentAt": "2026-07-30T00:06:07.869Z",
       "messageId": "1532177453408059645"
+    },
+    "brief:opp_ed8e8b5d1091274d0239:sha256:220d40ee5f7395e13124973d9e720af941e1c8e31681282ac767011afdb02e69": {
+      "status": "SENT",
+      "opportunityId": "opp_ed8e8b5d1091274d0239",
+      "sentAt": "2026-07-30T02:30:20.964Z",
+      "messageId": "1532213748612464781"
+    },
+    "brief:opp_e2c6f76386e1a7661212:sha256:441aa8b5c245783cec88af9d3da3d575579511632a19a28fc175730daf5ceb39": {
+      "status": "SENT",
+      "opportunityId": "opp_e2c6f76386e1a7661212",
+      "sentAt": "2026-07-30T02:30:20.964Z",
+      "messageId": "1532213748612464781"
+    },
+    "brief:opp_1cec9c97b7671b109801:sha256:a6bfd091e3e8fc253ea15317be46814da7c49a9a554902dd14fa6c23c4cdde70": {
+      "status": "SENT",
+      "opportunityId": "opp_1cec9c97b7671b109801",
+      "sentAt": "2026-07-30T02:30:20.964Z",
+      "messageId": "1532213748612464781"
+    },
+    "brief:opp_ce39df262a2e2f6c6e61:sha256:8afd390c11e3b2d1b69c462e93ec403b09365a0686715368c8a0f5cb8eceb20c": {
+      "status": "SENT",
+      "opportunityId": "opp_ce39df262a2e2f6c6e61",
+      "sentAt": "2026-07-30T02:30:20.964Z",
+      "messageId": "1532213748612464781"
+    },
+    "brief:opp_327f869b52d9c09344e0:sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25": {
+      "status": "SENT",
+      "opportunityId": "opp_327f869b52d9c09344e0",
+      "sentAt": "2026-07-30T02:30:20.964Z",
+      "messageId": "1532213748612464781"
     }
   },
   "pending": {},
