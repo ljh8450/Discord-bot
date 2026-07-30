@@ -9066,7 +9066,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 6,
         "communityRank": 2,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -9081,11 +9081,11 @@
       },
       "contentHash": "sha256:5367cdfa614b7b96f2fcd27dd794dfc24fb1baeb01768c8cb11a7689ce905d31",
       "dedupeKey": "brief:opp_e25dc36f5b8552685527:sha256:5367cdfa614b7b96f2fcd27dd794dfc24fb1baeb01768c8cb11a7689ce905d31",
-      "firstSeenAt": "2026-07-30T09:06:00.673Z",
-      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "firstSeenAt": "2026-07-30T11:05:11.594Z",
+      "lastSeenAt": "2026-07-30T11:05:11.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -9277,11 +9277,11 @@
       },
       "contentHash": "sha256:6c1d35ffc8996b29c3566092abd5e426ced747749a142c16e0a6b284347b053e",
       "dedupeKey": "brief:opp_32805b1040b5123fd60c:sha256:6c1d35ffc8996b29c3566092abd5e426ced747749a142c16e0a6b284347b053e",
-      "firstSeenAt": "2026-07-30T09:06:00.673Z",
-      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "firstSeenAt": "2026-07-30T11:05:11.594Z",
+      "lastSeenAt": "2026-07-30T11:05:11.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -9326,11 +9326,11 @@
       },
       "contentHash": "sha256:91b110022e4ae093474a87159fc98f2fa96efbd72dd137d659c4494c757ac0ca",
       "dedupeKey": "brief:opp_de2c4e38e5f47725eac7:sha256:91b110022e4ae093474a87159fc98f2fa96efbd72dd137d659c4494c757ac0ca",
-      "firstSeenAt": "2026-07-30T09:06:00.673Z",
-      "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "firstSeenAt": "2026-07-30T11:05:11.594Z",
+      "lastSeenAt": "2026-07-30T11:05:11.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -9483,6 +9483,59 @@
       "dedupeKey": "brief:opp_9d06373db93155180e9f:sha256:a37ac29a775d002afb7f518dbab585341cc664cc6f01ec8f2b0e0751b6597380",
       "firstSeenAt": "2026-07-30T09:06:00.673Z",
       "lastSeenAt": "2026-07-30T09:06:00.673Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_62dd11d9de6481671a31": {
+      "id": "opp_62dd11d9de6481671a31",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:CypeFdszvwE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CypeFdszvwE",
+      "title": "[한영자막] 샘 올트먼이 말하는 AGI와 컴퓨팅, 그리고 인간의 주도권",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T09:00:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI의 샘 올트먼이 AGI, 컴퓨팅 확보 전쟁, 그리고 AI 시대에도 인간이 주도권을 지킬 수 있는지에 대해 솔직하게 이야기합니다. ChatGPT의 우발적 탄생부터 일자리, 로보틱스, 리더로서의 무게까지 폭넓게 다룹니다. 주요 포인트 - OpenAI가 최근 사업 범위를 좁힌 이유와 컴퓨팅 확보 전쟁의 현실 - AGI에 얼마나 가까워졌는지, 그리고 그 약속과 위험 - AI가 일자리를 없애는 게 아니라 오히려 늘릴 것이라 보는 이유 - AI로 권력이 집중되는 것에 대한 우려와 인간의 주도권을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=CypeFdszvwE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-30T09:00:04.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9209b865664a7f41cf1f2f48a2a041b57c478de0eaa2cf87fcfe25f42cc3b41d",
+      "dedupeKey": "brief:opp_62dd11d9de6481671a31:sha256:9209b865664a7f41cf1f2f48a2a041b57c478de0eaa2cf87fcfe25f42cc3b41d",
+      "firstSeenAt": "2026-07-30T11:05:11.594Z",
+      "lastSeenAt": "2026-07-30T11:05:11.594Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -10480,6 +10533,30 @@
       "opportunityId": "opp_9d06373db93155180e9f",
       "sentAt": "2026-07-30T09:06:00.673Z",
       "messageId": "1532313322463035544"
+    },
+    "brief:opp_32805b1040b5123fd60c:sha256:6c1d35ffc8996b29c3566092abd5e426ced747749a142c16e0a6b284347b053e": {
+      "status": "SENT",
+      "opportunityId": "opp_32805b1040b5123fd60c",
+      "sentAt": "2026-07-30T11:05:11.594Z",
+      "messageId": "1532343315733676074"
+    },
+    "brief:opp_de2c4e38e5f47725eac7:sha256:91b110022e4ae093474a87159fc98f2fa96efbd72dd137d659c4494c757ac0ca": {
+      "status": "SENT",
+      "opportunityId": "opp_de2c4e38e5f47725eac7",
+      "sentAt": "2026-07-30T11:05:11.594Z",
+      "messageId": "1532343315733676074"
+    },
+    "brief:opp_62dd11d9de6481671a31:sha256:9209b865664a7f41cf1f2f48a2a041b57c478de0eaa2cf87fcfe25f42cc3b41d": {
+      "status": "SENT",
+      "opportunityId": "opp_62dd11d9de6481671a31",
+      "sentAt": "2026-07-30T11:05:11.594Z",
+      "messageId": "1532343315733676074"
+    },
+    "brief:opp_e25dc36f5b8552685527:sha256:5367cdfa614b7b96f2fcd27dd794dfc24fb1baeb01768c8cb11a7689ce905d31": {
+      "status": "SENT",
+      "opportunityId": "opp_e25dc36f5b8552685527",
+      "sentAt": "2026-07-30T11:05:11.594Z",
+      "messageId": "1532343315733676074"
     }
   },
   "pending": {},
