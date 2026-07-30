@@ -8216,8 +8216,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 4,
+        "communityPoints": 11,
+        "communityRank": 7,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -8231,11 +8231,11 @@
       },
       "contentHash": "sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028",
       "dedupeKey": "brief:opp_78eb7b1c90981c191092:sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028",
-      "firstSeenAt": "2026-07-29T11:23:51.438Z",
-      "lastSeenAt": "2026-07-29T11:23:51.438Z",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8265,26 +8265,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 12,
         "communityRank": 6,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0",
       "dedupeKey": "brief:opp_fd011ed8542110b54d3c:sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0",
-      "firstSeenAt": "2026-07-29T11:23:51.438Z",
-      "lastSeenAt": "2026-07-29T11:23:51.438Z",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -8576,7 +8576,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 8,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -8590,11 +8590,305 @@
       },
       "contentHash": "sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25",
       "dedupeKey": "brief:opp_327f869b52d9c09344e0:sha256:f51cddc397baabe326256c0abf918b01fe0d8259872383ba8134674c62b5ae25",
-      "firstSeenAt": "2026-07-29T11:23:51.438Z",
-      "lastSeenAt": "2026-07-29T11:23:51.438Z",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6085c1026ec22d157aa3": {
+      "id": "opp_6085c1026ec22d157aa3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "31921",
+      "canonicalUrl": "https://github.com/openai/codex-security",
+      "title": "OpenAI가 Codex Security를 오픈소스로 공개함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T07:38:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI가 Codex Security의 CLI와 관련 도구를 오픈소스로 공개해 로컬 개발 환경과 CI에서 활용할 수 있게 함 권한을 가진 저장소를 분석해 보안 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=31921"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 16,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f363d06bc76dec3751e533dd173bce4a2bd5d635fa7808de29bbaabbc5e30f1a",
+      "dedupeKey": "brief:opp_6085c1026ec22d157aa3:sha256:f363d06bc76dec3751e533dd173bce4a2bd5d635fa7808de29bbaabbc5e30f1a",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_83c3b95257bd2a20e2a8": {
+      "id": "opp_83c3b95257bd2a20e2a8",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "canonicalUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fe9dfa3224fb764d418d9976ea9727c196a6d832a9cccee401e8178915ec95a4",
+      "dedupeKey": "brief:opp_83c3b95257bd2a20e2a8:sha256:fe9dfa3224fb764d418d9976ea9727c196a6d832a9cccee401e8178915ec95a4",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8958d7f5190f13d5a599": {
+      "id": "opp_8958d7f5190f13d5a599",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "canonicalUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "summaryEvidence": [
+        "https://openai.com/index/chatgpt-for-academic-researchers"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f7fb0d4a4b6c7cfc7a6c7f87fa00cb75ad15b7a34e2b6890bcb81000a59aacd4",
+      "dedupeKey": "brief:opp_8958d7f5190f13d5a599:sha256:f7fb0d4a4b6c7cfc7a6c7f87fa00cb75ad15b7a34e2b6890bcb81000a59aacd4",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1cec9c97b7671b109801": {
+      "id": "opp_1cec9c97b7671b109801",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "canonicalUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "summaryEvidence": [
+        "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a6bfd091e3e8fc253ea15317be46814da7c49a9a554902dd14fa6c23c4cdde70",
+      "dedupeKey": "brief:opp_1cec9c97b7671b109801:sha256:a6bfd091e3e8fc253ea15317be46814da7c49a9a554902dd14fa6c23c4cdde70",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_571d0d53b1b8f09425df": {
+      "id": "opp_571d0d53b1b8f09425df",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97770",
+      "canonicalUrl": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your upda",
+      "summaryEvidence": [
+        "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ee7c28e93e6477e104ee35e863981dfdf3b6f43ba1b89a9ae0376c2b7e57551",
+      "dedupeKey": "brief:opp_571d0d53b1b8f09425df:sha256:2ee7c28e93e6477e104ee35e863981dfdf3b6f43ba1b89a9ae0376c2b7e57551",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c30ace86977fd99a022a": {
+      "id": "opp_c30ace86977fd99a022a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:R9qD2f2vue4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=R9qD2f2vue4",
+      "title": "[한영자막] 엔비디아를 만든 마인드셋",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-29T22:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아 창업자 젠슨 황이 말하는 창업 초기의 진짜 이야기입니다. 완전히 틀린 기술로 시작한 회사가 어떻게 세계 1위가 됐는지, 그 마인드셋을 들어보세요. 주요 내용 - 엔비디아가 처음 선택한 기술이 왜 완전히 잘못됐었는지 - 프라이스에서 교과서 3권을 사서 회사를 다시 세운 이야기 - 알렉스넷을 보고 딥러닝의 미래를 읽어낸 순간 - CEO가 세세한 기술까지 파고들어야 하는 이유 - AI가 일자리를 없애는 게 아니라 만들어내는 이유 - 물리적 AI와 로보틱스의 다음 단계 - 창업가에게 전하는 마지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=R9qD2f2vue4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-29T22:00:27.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7508e4f3fb3964d1b9714da8705206084b00637df3df3fab01cf0dd9180fd6b6",
+      "dedupeKey": "brief:opp_c30ace86977fd99a022a:sha256:7508e4f3fb3964d1b9714da8705206084b00637df3df3fab01cf0dd9180fd6b6",
+      "firstSeenAt": "2026-07-30T00:06:07.869Z",
+      "lastSeenAt": "2026-07-30T00:06:07.869Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -9487,6 +9781,42 @@
       "opportunityId": "opp_983eee2e8a2751c2827c",
       "sentAt": "2026-07-29T11:23:51.438Z",
       "messageId": "1531985617464983554"
+    },
+    "brief:opp_571d0d53b1b8f09425df:sha256:2ee7c28e93e6477e104ee35e863981dfdf3b6f43ba1b89a9ae0376c2b7e57551": {
+      "status": "SENT",
+      "opportunityId": "opp_571d0d53b1b8f09425df",
+      "sentAt": "2026-07-30T00:06:07.869Z",
+      "messageId": "1532177453408059645"
+    },
+    "brief:opp_83c3b95257bd2a20e2a8:sha256:fe9dfa3224fb764d418d9976ea9727c196a6d832a9cccee401e8178915ec95a4": {
+      "status": "SENT",
+      "opportunityId": "opp_83c3b95257bd2a20e2a8",
+      "sentAt": "2026-07-30T00:06:07.869Z",
+      "messageId": "1532177453408059645"
+    },
+    "brief:opp_8958d7f5190f13d5a599:sha256:f7fb0d4a4b6c7cfc7a6c7f87fa00cb75ad15b7a34e2b6890bcb81000a59aacd4": {
+      "status": "SENT",
+      "opportunityId": "opp_8958d7f5190f13d5a599",
+      "sentAt": "2026-07-30T00:06:07.869Z",
+      "messageId": "1532177453408059645"
+    },
+    "brief:opp_78eb7b1c90981c191092:sha256:92f310c1602f9e03fe29901db9ab19f160d74745140b9d77f68a57af421cd028": {
+      "status": "SENT",
+      "opportunityId": "opp_78eb7b1c90981c191092",
+      "sentAt": "2026-07-30T00:06:07.869Z",
+      "messageId": "1532177453408059645"
+    },
+    "brief:opp_fd011ed8542110b54d3c:sha256:08ae12f479b3b5ab4f3784a431c7b187cb35d390a16b48b66aa959054863e7a0": {
+      "status": "SENT",
+      "opportunityId": "opp_fd011ed8542110b54d3c",
+      "sentAt": "2026-07-30T00:06:07.869Z",
+      "messageId": "1532177453408059645"
+    },
+    "brief:opp_c30ace86977fd99a022a:sha256:7508e4f3fb3964d1b9714da8705206084b00637df3df3fab01cf0dd9180fd6b6": {
+      "status": "SENT",
+      "opportunityId": "opp_c30ace86977fd99a022a",
+      "sentAt": "2026-07-30T00:06:07.869Z",
+      "messageId": "1532177453408059645"
     }
   },
   "pending": {},
