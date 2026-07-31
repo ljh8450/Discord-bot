@@ -9980,11 +9980,11 @@
       },
       "contentHash": "sha256:9da758fcfe60ca22cea090810252f69fe5497609b362782a10304f08d257c6b1",
       "dedupeKey": "brief:opp_995f1057f08a8f7e6d74:sha256:9da758fcfe60ca22cea090810252f69fe5497609b362782a10304f08d257c6b1",
-      "firstSeenAt": "2026-07-31T09:05:28.396Z",
-      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "firstSeenAt": "2026-07-31T11:27:25.015Z",
+      "lastSeenAt": "2026-07-31T11:27:25.015Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10078,8 +10078,8 @@
       },
       "contentHash": "sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c",
       "dedupeKey": "brief:opp_d6235bba054b4d8be787:sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c",
-      "firstSeenAt": "2026-07-31T09:05:28.396Z",
-      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "firstSeenAt": "2026-07-31T11:27:25.015Z",
+      "lastSeenAt": "2026-07-31T11:27:25.015Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -10176,11 +10176,11 @@
       },
       "contentHash": "sha256:ff7d9f9bf357b01c52b401312ab33cbb26bd19aa9db47ef6ee75cedf9edf8af7",
       "dedupeKey": "brief:opp_602c2f233ed74c2906ef:sha256:ff7d9f9bf357b01c52b401312ab33cbb26bd19aa9db47ef6ee75cedf9edf8af7",
-      "firstSeenAt": "2026-07-31T09:05:28.396Z",
-      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "firstSeenAt": "2026-07-31T11:27:25.015Z",
+      "lastSeenAt": "2026-07-31T11:27:25.015Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10225,11 +10225,113 @@
       },
       "contentHash": "sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b",
       "dedupeKey": "brief:opp_4b2ff229056cc92414ec:sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b",
-      "firstSeenAt": "2026-07-31T09:05:28.396Z",
-      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "firstSeenAt": "2026-07-31T11:27:25.015Z",
+      "lastSeenAt": "2026-07-31T11:27:25.015Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_846ed2b71fd615895d57": {
+      "id": "opp_846ed2b71fd615895d57",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32001",
+      "canonicalUrl": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "title": "GitHub Stacked PR 공개 프리뷰 시작",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-31T07:31:58+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "큰 변경을 작고 검토 가능한 계층으로 나누는 Stacked pull requests가 모든 저장소에 공개 미리보기로 순차 제공됨 각 PR은 바로 아래 계층을 대...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32001"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a6df1dbf5f248a5f7da4dc96c19ccbe9412a2960b0acc8b1970e7c075f21fb5e",
+      "dedupeKey": "brief:opp_846ed2b71fd615895d57:sha256:a6df1dbf5f248a5f7da4dc96c19ccbe9412a2960b0acc8b1970e7c075f21fb5e",
+      "firstSeenAt": "2026-07-31T11:27:25.015Z",
+      "lastSeenAt": "2026-07-31T11:27:25.015Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_51c88fa53d4f4dc07e8a": {
+      "id": "opp_51c88fa53d4f4dc07e8a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:KIiAs4V-YTs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KIiAs4V-YTs",
+      "title": "[한영자막] 포워드 디플로이드 엔지니어링을 위한 AI 툴 — Varick Agents의 Vasuman Moza",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-07-31T09:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "고객사가 SAP에 500만 달러와 5년을 쏟아부었다면, 그 회사에 AI를 도입시키는 가장 빠른 방법은 마이그레이션이 아닙니다. Varick Agents의 CEO Vasuman Moza가 대기업 안에 에이전트를 직접 투입해 부서 전체를 재설계하는 '포워드 디플로이드 엔지니어링' 전략과, 이를 뒷받침하는 사내 AI 툴을 공개합니다. 주요 내용 - AI는 이미 업무 실행을 거의 다 해결했고, 진짜 병목은 AI 중심으로 프로세스를 다시 설계하는 일이라는 진단 - NetSuite·SAP·Salesforce",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=KIiAs4V-YTs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-31T09:00:06.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0cbb0ae4610c8aa3a6b75e7f3e4a738bfae1b658e1d82fb211a3c36bba586c73",
+      "dedupeKey": "brief:opp_51c88fa53d4f4dc07e8a:sha256:0cbb0ae4610c8aa3a6b75e7f3e4a738bfae1b658e1d82fb211a3c36bba586c73",
+      "firstSeenAt": "2026-07-31T11:27:25.015Z",
+      "lastSeenAt": "2026-07-31T11:27:25.015Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -11308,6 +11410,30 @@
       "opportunityId": "opp_fe8fed571b69e2009173",
       "sentAt": "2026-07-31T09:05:28.396Z",
       "messageId": "1532675557186076835"
+    },
+    "brief:opp_602c2f233ed74c2906ef:sha256:ff7d9f9bf357b01c52b401312ab33cbb26bd19aa9db47ef6ee75cedf9edf8af7": {
+      "status": "SENT",
+      "opportunityId": "opp_602c2f233ed74c2906ef",
+      "sentAt": "2026-07-31T11:27:25.015Z",
+      "messageId": "1532711279893020784"
+    },
+    "brief:opp_995f1057f08a8f7e6d74:sha256:9da758fcfe60ca22cea090810252f69fe5497609b362782a10304f08d257c6b1": {
+      "status": "SENT",
+      "opportunityId": "opp_995f1057f08a8f7e6d74",
+      "sentAt": "2026-07-31T11:27:25.015Z",
+      "messageId": "1532711279893020784"
+    },
+    "brief:opp_51c88fa53d4f4dc07e8a:sha256:0cbb0ae4610c8aa3a6b75e7f3e4a738bfae1b658e1d82fb211a3c36bba586c73": {
+      "status": "SENT",
+      "opportunityId": "opp_51c88fa53d4f4dc07e8a",
+      "sentAt": "2026-07-31T11:27:25.015Z",
+      "messageId": "1532711279893020784"
+    },
+    "brief:opp_846ed2b71fd615895d57:sha256:a6df1dbf5f248a5f7da4dc96c19ccbe9412a2960b0acc8b1970e7c075f21fb5e": {
+      "status": "SENT",
+      "opportunityId": "opp_846ed2b71fd615895d57",
+      "sentAt": "2026-07-31T11:27:25.015Z",
+      "messageId": "1532711279893020784"
     }
   },
   "pending": {},
