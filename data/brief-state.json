@@ -9739,6 +9739,157 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_76da43615570ecfd6449": {
+      "id": "opp_76da43615570ecfd6449",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/avatarin",
+      "canonicalUrl": "https://openai.com/index/avatarin",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "summaryEvidence": [
+        "https://openai.com/index/avatarin"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e324a6941231a4cd8095d658485754638e53f6b3e30b6bd1aeb279236a9f074e",
+      "dedupeKey": "brief:opp_76da43615570ecfd6449:sha256:e324a6941231a4cd8095d658485754638e53f6b3e30b6bd1aeb279236a9f074e",
+      "firstSeenAt": "2026-07-31T02:55:22.221Z",
+      "lastSeenAt": "2026-07-31T02:55:22.221Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9785a2c512dc1fd6ac5f": {
+      "id": "opp_9785a2c512dc1fd6ac5f",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/analyzing-incident-root-causes-in-grafana-using-natural-language-with-llm-agent",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/analyzing-incident-root-causes-in-grafana-using-natural-language-with-llm-agent",
+      "title": "Grafana에서 자연어로 장애 원인을 분석하기: LLM 에이전트 기반 SRELens 개발기",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며: 관측성 데이터는 많아졌지만, 분석은 여전히 어렵습니다안녕하세요. LY Corporation에서 Home 서비스의 안정성을 책임지고 있는 Home SRE(Site Reli...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/analyzing-incident-root-causes-in-grafana-using-natural-language-with-llm-agent"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cdf8fba693660e989bcadeacf688cc7c7a8d91fa1db4157d812d23c507b07c96",
+      "dedupeKey": "brief:opp_9785a2c512dc1fd6ac5f:sha256:cdf8fba693660e989bcadeacf688cc7c7a8d91fa1db4157d812d23c507b07c96",
+      "firstSeenAt": "2026-07-31T02:55:22.221Z",
+      "lastSeenAt": "2026-07-31T02:55:22.221Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0ed8dd0c42148f7056c2": {
+      "id": "opp_0ed8dd0c42148f7056c2",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:xmPFiNto_e8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xmPFiNto_e8",
+      "title": "[연속재생] 개발자라면 반드시 알아야 할 핵심 개념 몰아보기",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-07-31T01:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "개발자 개념 장착 모음 영상입니다. 00:00 같은 문자! 다른 코드: 개발자는 눈으로 구분하지 않습니다. 07:07 메모리구조 관점에서 프로세스와 쓰레드의 차이 14:27 메모리 계층구조와 레이턴시(Latency) 19:38 시간복잡도(Big-O) 29:11 동기와 비동기 차이 37:48 동시성과 병렬성의 차이 45:09 Latency와 Throughput의 차이 55:59 일반화와 추상화의 차이 01:03:12 중복요청을 방어하는 멱등성 키 아키텍처 01:07:42 습관적으로 사용하는 INT",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=xmPFiNto_e8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-31T01:00:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:68bd12cff718fcced8a58cfeeded8b4578873a02f19d3ad32ffb6bff106c131c",
+      "dedupeKey": "brief:opp_0ed8dd0c42148f7056c2:sha256:68bd12cff718fcced8a58cfeeded8b4578873a02f19d3ad32ffb6bff106c131c",
+      "firstSeenAt": "2026-07-31T02:55:22.221Z",
+      "lastSeenAt": "2026-07-31T02:55:22.221Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -10779,6 +10930,24 @@
       "opportunityId": "opp_18514ab0029f00612f60",
       "sentAt": "2026-07-31T00:06:03.512Z",
       "messageId": "1532539810189803632"
+    },
+    "brief:opp_9785a2c512dc1fd6ac5f:sha256:cdf8fba693660e989bcadeacf688cc7c7a8d91fa1db4157d812d23c507b07c96": {
+      "status": "SENT",
+      "opportunityId": "opp_9785a2c512dc1fd6ac5f",
+      "sentAt": "2026-07-31T02:55:22.221Z",
+      "messageId": "1532582418861785230"
+    },
+    "brief:opp_76da43615570ecfd6449:sha256:e324a6941231a4cd8095d658485754638e53f6b3e30b6bd1aeb279236a9f074e": {
+      "status": "SENT",
+      "opportunityId": "opp_76da43615570ecfd6449",
+      "sentAt": "2026-07-31T02:55:22.221Z",
+      "messageId": "1532582418861785230"
+    },
+    "brief:opp_0ed8dd0c42148f7056c2:sha256:68bd12cff718fcced8a58cfeeded8b4578873a02f19d3ad32ffb6bff106c131c": {
+      "status": "SENT",
+      "opportunityId": "opp_0ed8dd0c42148f7056c2",
+      "sentAt": "2026-07-31T02:55:22.221Z",
+      "messageId": "1532582418861785230"
     }
   },
   "pending": {},
