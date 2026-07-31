@@ -9541,6 +9541,204 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_b57030b6cb7b19c4dcaa": {
+      "id": "opp_b57030b6cb7b19c4dcaa",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "canonicalUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "summaryEvidence": [
+        "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:90d3031d7add74a364b123c85758f15aa5d83cad849bb810fc713671c3cb863b",
+      "dedupeKey": "brief:opp_b57030b6cb7b19c4dcaa:sha256:90d3031d7add74a364b123c85758f15aa5d83cad849bb810fc713671c3cb863b",
+      "firstSeenAt": "2026-07-31T00:06:03.512Z",
+      "lastSeenAt": "2026-07-31T00:06:03.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_63b458d61f1030ac382d": {
+      "id": "opp_63b458d61f1030ac382d",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/investigating-incidents-cybersecurity-evals",
+      "canonicalUrl": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Frontier Red Team · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Frontier Red Team",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2b916b7d1758d47618c4d3d427e65e68f68a9a807b30f0acf429b6185633066b",
+      "dedupeKey": "brief:opp_63b458d61f1030ac382d:sha256:2b916b7d1758d47618c4d3d427e65e68f68a9a807b30f0acf429b6185633066b",
+      "firstSeenAt": "2026-07-31T00:06:03.512Z",
+      "lastSeenAt": "2026-07-31T00:06:03.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7fedb0e756dfb550a6e4": {
+      "id": "opp_7fedb0e756dfb550a6e4",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97813",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 30 Jul 2026 17:30:24 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5c6348e7762de6540f2f8444564b9cbc46b1839a205b53fc46b4c3357c7438d8",
+      "dedupeKey": "brief:opp_7fedb0e756dfb550a6e4:sha256:5c6348e7762de6540f2f8444564b9cbc46b1839a205b53fc46b4c3357c7438d8",
+      "firstSeenAt": "2026-07-31T00:06:03.512Z",
+      "lastSeenAt": "2026-07-31T00:06:03.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_18514ab0029f00612f60": {
+      "id": "opp_18514ab0029f00612f60",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:0wUOSmO3LUI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0wUOSmO3LUI",
+      "title": "돈 부족, 수면 부족, 영어 부족, 중요한 건 꺾여도 그냥 하는 마음ㅣ아메리칸드림 2.0",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-07-30T13:00:01+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "대AI 시대, 다시 없을 변화의 기회를 잡기 위해 샌프란시스코 해커하우스에 모인 20대 창업가들. 그들은 실리콘밸리까지 왔지만, 도시를 즐길 시간은 없다. 하루 대부분을 해커하우스 1층 사무실에 앉아 새벽까지 프로덕트를 만든다. 왜 이들은 미국 땅, 빅테크의 도시 실리콘밸리로 왔을까. 어떤 확신과 열정이 이들을 여기까지 움직였을까. AI 시대 한가운데서 자신만의 기회를 만들려는 젊은 창업가들의 기록. 그들의 아메리칸 드림은 무엇일까. 🌎 EO 글로벌 채널 구독하기 👉🏻👉🏻 https://",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=0wUOSmO3LUI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-30T13:00:01.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:883c4376df2f1cbbb9748ff2d9d1dd1e825552fc08273c276315dabbd669021f",
+      "dedupeKey": "brief:opp_18514ab0029f00612f60:sha256:883c4376df2f1cbbb9748ff2d9d1dd1e825552fc08273c276315dabbd669021f",
+      "firstSeenAt": "2026-07-31T00:06:03.512Z",
+      "lastSeenAt": "2026-07-31T00:06:03.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -10557,6 +10755,30 @@
       "opportunityId": "opp_e25dc36f5b8552685527",
       "sentAt": "2026-07-30T11:05:11.594Z",
       "messageId": "1532343315733676074"
+    },
+    "brief:opp_7fedb0e756dfb550a6e4:sha256:5c6348e7762de6540f2f8444564b9cbc46b1839a205b53fc46b4c3357c7438d8": {
+      "status": "SENT",
+      "opportunityId": "opp_7fedb0e756dfb550a6e4",
+      "sentAt": "2026-07-31T00:06:03.512Z",
+      "messageId": "1532539810189803632"
+    },
+    "brief:opp_b57030b6cb7b19c4dcaa:sha256:90d3031d7add74a364b123c85758f15aa5d83cad849bb810fc713671c3cb863b": {
+      "status": "SENT",
+      "opportunityId": "opp_b57030b6cb7b19c4dcaa",
+      "sentAt": "2026-07-31T00:06:03.512Z",
+      "messageId": "1532539810189803632"
+    },
+    "brief:opp_63b458d61f1030ac382d:sha256:2b916b7d1758d47618c4d3d427e65e68f68a9a807b30f0acf429b6185633066b": {
+      "status": "SENT",
+      "opportunityId": "opp_63b458d61f1030ac382d",
+      "sentAt": "2026-07-31T00:06:03.512Z",
+      "messageId": "1532539810189803632"
+    },
+    "brief:opp_18514ab0029f00612f60:sha256:883c4376df2f1cbbb9748ff2d9d1dd1e825552fc08273c276315dabbd669021f": {
+      "status": "SENT",
+      "opportunityId": "opp_18514ab0029f00612f60",
+      "sentAt": "2026-07-31T00:06:03.512Z",
+      "messageId": "1532539810189803632"
     }
   },
   "pending": {},
