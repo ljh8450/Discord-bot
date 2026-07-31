@@ -9890,6 +9890,348 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_fe8fed571b69e2009173": {
+      "id": "opp_fe8fed571b69e2009173",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/unive",
+      "canonicalUrl": "https://openai.com/index/unive",
+      "title": "Univé builds an AI-ready workforce",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "summaryEvidence": [
+        "https://openai.com/index/unive"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa5a692af2b1b234dd17df8f223da86327369befe6fdee1e8cff217f8769175f",
+      "dedupeKey": "brief:opp_fe8fed571b69e2009173:sha256:fa5a692af2b1b234dd17df8f223da86327369befe6fdee1e8cff217f8769175f",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_995f1057f08a8f7e6d74": {
+      "id": "opp_995f1057f08a8f7e6d74",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "6155f8ba0b91b37a2e4a625488e1b5e5c038e782",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/woowabros-deliveryrobot-with-awsiotcore",
+      "title": "AWS IoT Core를 활용한, ‘우아한형제들’의 실외배달 로봇과 클라우드 리소스의 안전한 연결 구축기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 08:16:14 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 고객-점주 사이에서 이루어져야 하는 빠른 배달을 만들어내기 위한 실외 배달로봇을 운영하는 로봇배달 서비스를 개발하기 위해 어떻게 하면 안전한 배달 서비스를 구성할 수 있을지에 대한 우아한형제들의 고민을 담고 있습니다. 우아한형제들은 2025년 2월부터 강남논현 비마트에 자체개발한 배달로봇인 딜리(Dilly)를 투입하여 고객이 주문한 물품들을 배달하고 있습니다. 딜리가 배달을 수행하기 위해서는 고객의 주문이 비마트에서 수행되는 과정에서, 정보가 전달되는 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/woowabros-deliveryrobot-with-awsiotcore/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9da758fcfe60ca22cea090810252f69fe5497609b362782a10304f08d257c6b1",
+      "dedupeKey": "brief:opp_995f1057f08a8f7e6d74:sha256:9da758fcfe60ca22cea090810252f69fe5497609b362782a10304f08d257c6b1",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f54556a7c74eba90b93f": {
+      "id": "opp_f54556a7c74eba90b93f",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "f5cecc3ab24623ee711f73cfc5b47bb8c25ab3fc",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/a1mobilsoft-ops-automation-2",
+      "title": "A1Mobilsoft의 운영 문의 자동화 여정 (2): 세 에이전트 구현과 사람 vs AI 검증",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 04:54:07 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 블로그 시리즈는 A1Mobilsoft, Megazone, AWS 가 공동 작성 하였으며, 두 편으로 이루어져 있습니다. 각 편의 구성은 다음과 같습니다. 1편 (0~3장): 문제 정의와 3-에이전트 아키텍처 설계 2편 (4~7장, 현재 글): 세 에이전트 구현 우여곡절과 사람 vs AI 검증 2편: Bedrock AgentCore·Strands 기반 구현 디테일, 프롬프트 캐시, 그리고 14건 병렬 비교 결과 1편에서는 32개월간 846건이 쌓인 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/a1mobilsoft-ops-automation-2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:05deabc6a1d0b78e5501e87f9a95cd4ed1592a1a88a478b761a7fefd5ce753c5",
+      "dedupeKey": "brief:opp_f54556a7c74eba90b93f:sha256:05deabc6a1d0b78e5501e87f9a95cd4ed1592a1a88a478b761a7fefd5ce753c5",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d6235bba054b4d8be787": {
+      "id": "opp_d6235bba054b4d8be787",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "93c16e1608a812d7a7398d4fb335c01372b2dad3",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/a1mobilsoft-ops-automation-1",
+      "title": "A1Mobilsoft의 운영 문의 자동화 여정 (1): 문제 정의와 3-에이전트 아키텍처 설계",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 04:54:03 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 블로그 시리즈는 A1Mobilsoft, Megazone, AWS 가 공동 작성 하였으며, 두 편으로 이루어져 있습니다. 각 편의 구성은 다음과 같습니다. 1편 (0~3장, 현재 글): 문제 정의와 3-에이전트 아키텍처 설계 2편 (4~7장): 세 에이전트 구현 우여곡절과 사람 vs AI 검증 1편: 슬랙 #운영개발문의 채널의 고통에서 출발해, 왜 Knowledge·Code·DB 세 에이전트 구조로 갈랐는가 수 시간씩 늘어지던 운영 문의를 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/a1mobilsoft-ops-automation-1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c",
+      "dedupeKey": "brief:opp_d6235bba054b4d8be787:sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_57450303588cb4750085": {
+      "id": "opp_57450303588cb4750085",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "d818d9c660d0610c2b172a184a250ee35bf62595",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/multi-cdn-with-aws-mediatailor-ssai-part2",
+      "title": "AWS MediaTailor SSAI 멀티 CDN 환경의 보안: 토큰 인증, Origin 보안, 서드파티 CDN 제약 대응 – Part2",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 04:17:04 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 2부작 시리즈입니다. Part 1: 멀티 CDN 구성과 동적 전환 (CORS, 캐싱 키 포함) Part 2: 멀티 CDN 환경의 보안 — 토큰 인증, Origin 보안, 서드파티 CDN 제약 대응 (본 글) 1. 도입 [Part 1]에서는 MediaTailor의 CDN prefix와 Configuration Aliases를 활용한 동적 멀티 CDN 구성, 301 Redirect 트래킹 메커니즘, CORS 처리, 캐싱 키 설정을 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/multi-cdn-with-aws-mediatailor-ssai-part2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e9a307b174428e49fa245d5e830dfa0e61b969f2c36808554fe68effb6d42789",
+      "dedupeKey": "brief:opp_57450303588cb4750085:sha256:e9a307b174428e49fa245d5e830dfa0e61b969f2c36808554fe68effb6d42789",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_602c2f233ed74c2906ef": {
+      "id": "opp_602c2f233ed74c2906ef",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "0a589a4d0dc6944c3a786475cabcd486f9522acf",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/multi-cdn-with-aws-mediatailor-ssai-part1",
+      "title": "AWS MediaTailor SSAI 환경에서 멀티 CDN 구성과 동적 전환 – Part1",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 04:00:35 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 2부작 시리즈입니다. – Part 1: 멀티 CDN 구성과 동적 전환 (본 글) – Part 2: 멀티 CDN 환경의 보안 — 토큰 인증, Origin 보안, 서드파티 CDN 제약 대응 1. 도입 OTT 서비스를 운영하는 많은 기업들은 단일 CDN이 아닌 멀티 CDN 전략을 채택하고 있습니다. ISP별 네트워크 품질 차이, CDN 장애 대비, 비용 최적화 등의 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/multi-cdn-with-aws-mediatailor-ssai-part1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ff7d9f9bf357b01c52b401312ab33cbb26bd19aa9db47ef6ee75cedf9edf8af7",
+      "dedupeKey": "brief:opp_602c2f233ed74c2906ef:sha256:ff7d9f9bf357b01c52b401312ab33cbb26bd19aa9db47ef6ee75cedf9edf8af7",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4b2ff229056cc92414ec": {
+      "id": "opp_4b2ff229056cc92414ec",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "4857fd47583bfdcb93b7e15e426be67b9ab9807b",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-braket-quantum-classical-hybrid-algorithms-2",
+      "title": "Amazon Braket으로 양자-고전 하이브리드 알고리즘 실행하기 (2편)",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 02:57:36 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 블로그는 Amazon Braket 하이브리드 알고리즘 시리즈의 두 번째 글입니다. 각 편의 구성은 다음과 같습니다. 1편: 알고리즘 스크립트 방식의 하이브리드 잡 환경 구성 2편 (현재 글): @hybrid_job 데코레이터 방식과 로컬 잡 활용 지난 블로그에서는 알고리즘 스크립트 방식에 기반한 하이브리드 잡 환경을 구성하는 방법에 대해 소개하였습니다. 이번 블로그에서는 @hybrid_job 데코레이터를 이용한 하이브리드 잡 환경을 구성하는 방법에 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-braket-quantum-classical-hybrid-algorithms-2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b",
+      "dedupeKey": "brief:opp_4b2ff229056cc92414ec:sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b",
+      "firstSeenAt": "2026-07-31T09:05:28.396Z",
+      "lastSeenAt": "2026-07-31T09:05:28.396Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -10948,6 +11290,24 @@
       "opportunityId": "opp_0ed8dd0c42148f7056c2",
       "sentAt": "2026-07-31T02:55:22.221Z",
       "messageId": "1532582418861785230"
+    },
+    "brief:opp_f54556a7c74eba90b93f:sha256:05deabc6a1d0b78e5501e87f9a95cd4ed1592a1a88a478b761a7fefd5ce753c5": {
+      "status": "SENT",
+      "opportunityId": "opp_f54556a7c74eba90b93f",
+      "sentAt": "2026-07-31T09:05:28.396Z",
+      "messageId": "1532675557186076835"
+    },
+    "brief:opp_57450303588cb4750085:sha256:e9a307b174428e49fa245d5e830dfa0e61b969f2c36808554fe68effb6d42789": {
+      "status": "SENT",
+      "opportunityId": "opp_57450303588cb4750085",
+      "sentAt": "2026-07-31T09:05:28.396Z",
+      "messageId": "1532675557186076835"
+    },
+    "brief:opp_fe8fed571b69e2009173:sha256:fa5a692af2b1b234dd17df8f223da86327369befe6fdee1e8cff217f8769175f": {
+      "status": "SENT",
+      "opportunityId": "opp_fe8fed571b69e2009173",
+      "sentAt": "2026-07-31T09:05:28.396Z",
+      "messageId": "1532675557186076835"
     }
   },
   "pending": {},
