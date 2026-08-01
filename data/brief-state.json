@@ -10681,6 +10681,103 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_b854b11cb777736e3b3e": {
+      "id": "opp_b854b11cb777736e3b3e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32008",
+      "canonicalUrl": "https://unsloth.ai/docs/models/kimi-k3",
+      "title": "Kimi K3 로컬 실행 가이드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-31T10:44:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Moonshot AI의 Kimi K3는 전체 2.8T·활성 104B 매개변수와 네이티브 비전, 100만 토큰 문맥을 갖춘 오픈 웨이트 모델이며, Unsloth가 로컬 실행용 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32008"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fba5788ddee7d1b66b292751f32a75b2ba03526f3104c29a2e7fa080a8e8112c",
+      "dedupeKey": "brief:opp_b854b11cb777736e3b3e:sha256:fba5788ddee7d1b66b292751f32a75b2ba03526f3104c29a2e7fa080a8e8112c",
+      "firstSeenAt": "2026-08-01T09:05:20.211Z",
+      "lastSeenAt": "2026-08-01T09:05:20.211Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_01d961e3ea7204fb651d": {
+      "id": "opp_01d961e3ea7204fb651d",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/ten-advances-in-mathematics",
+      "canonicalUrl": "https://openai.com/index/ten-advances-in-mathematics",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "summaryEvidence": [
+        "https://openai.com/index/ten-advances-in-mathematics"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5fda50fd8ece8b379281a1376b0762b4ec7b45db259c7649efbbfec75ae91452",
+      "dedupeKey": "brief:opp_01d961e3ea7204fb651d:sha256:5fda50fd8ece8b379281a1376b0762b4ec7b45db259c7649efbbfec75ae91452",
+      "firstSeenAt": "2026-08-01T09:05:20.211Z",
+      "lastSeenAt": "2026-08-01T09:05:20.211Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -11835,6 +11932,18 @@
       "opportunityId": "opp_f89189011ee3ee333a9e",
       "sentAt": "2026-08-01T02:56:44.301Z",
       "messageId": "1532945149804548198"
+    },
+    "brief:opp_01d961e3ea7204fb651d:sha256:5fda50fd8ece8b379281a1376b0762b4ec7b45db259c7649efbbfec75ae91452": {
+      "status": "SENT",
+      "opportunityId": "opp_01d961e3ea7204fb651d",
+      "sentAt": "2026-08-01T09:05:20.211Z",
+      "messageId": "1533037912633905194"
+    },
+    "brief:opp_b854b11cb777736e3b3e:sha256:fba5788ddee7d1b66b292751f32a75b2ba03526f3104c29a2e7fa080a8e8112c": {
+      "status": "SENT",
+      "opportunityId": "opp_b854b11cb777736e3b3e",
+      "sentAt": "2026-08-01T09:05:20.211Z",
+      "messageId": "1533037912633905194"
     }
   },
   "pending": {},
