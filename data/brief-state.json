@@ -10078,11 +10078,11 @@
       },
       "contentHash": "sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c",
       "dedupeKey": "brief:opp_d6235bba054b4d8be787:sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c",
-      "firstSeenAt": "2026-07-31T11:27:25.015Z",
-      "lastSeenAt": "2026-07-31T11:27:25.015Z",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10225,11 +10225,11 @@
       },
       "contentHash": "sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b",
       "dedupeKey": "brief:opp_4b2ff229056cc92414ec:sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b",
-      "firstSeenAt": "2026-07-31T11:27:25.015Z",
-      "lastSeenAt": "2026-07-31T11:27:25.015Z",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10329,6 +10329,300 @@
       "dedupeKey": "brief:opp_51c88fa53d4f4dc07e8a:sha256:0cbb0ae4610c8aa3a6b75e7f3e4a738bfae1b658e1d82fb211a3c36bba586c73",
       "firstSeenAt": "2026-07-31T11:27:25.015Z",
       "lastSeenAt": "2026-07-31T11:27:25.015Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f89189011ee3ee333a9e": {
+      "id": "opp_f89189011ee3ee333a9e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32005",
+      "canonicalUrl": "https://github.com/shadcn-labs/termcn",
+      "title": "termcn - Ink와 OpenTUI 기반의 아름다운 터미널 UI 컴포넌트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-07-31T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "별도 설정 필요없이 명령 하나로 셋업 가능한 React용 터미널 UI 컴포넌트 오픈소스 Ink 와 OpenTUI 위에 구축하였고, shadcn/ui와 매끄럽게 연동...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32005"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:be00ce079118e034b273691224f2d5f6e90311b38da91e37e9400294faae169e",
+      "dedupeKey": "brief:opp_f89189011ee3ee333a9e:sha256:be00ce079118e034b273691224f2d5f6e90311b38da91e37e9400294faae169e",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_68e527000a0e6817debf": {
+      "id": "opp_68e527000a0e6817debf",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "canonicalUrl": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "title": "Advancing responsible AI across Europe",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "summaryEvidence": [
+        "https://openai.com/index/advancing-responsible-ai-across-europe"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6d69340b37c44606e1d812997003b82a68af3a68143e72ef889860b31bd22890",
+      "dedupeKey": "brief:opp_68e527000a0e6817debf:sha256:6d69340b37c44606e1d812997003b82a68af3a68143e72ef889860b31bd22890",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_57ba14e74bb921432536": {
+      "id": "opp_57ba14e74bb921432536",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/building-abundant-intelligence",
+      "canonicalUrl": "https://openai.com/index/building-abundant-intelligence",
+      "title": "Building abundant intelligence",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "summaryEvidence": [
+        "https://openai.com/index/building-abundant-intelligence"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4d888e96e1c06873f53e6e1fb03168748a9a721dc1fc0cd9684f6f60422f7714",
+      "dedupeKey": "brief:opp_57ba14e74bb921432536:sha256:4d888e96e1c06873f53e6e1fb03168748a9a721dc1fc0cd9684f6f60422f7714",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0f139ed102ff540ad1d3": {
+      "id": "opp_0f139ed102ff540ad1d3",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "canonicalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "title": "Disrupting a Criminal Scam Operation",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "summaryEvidence": [
+        "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0fe9cf5d3fa26c30d90be51f58801e6bac539b0767c969f809692963bb33f9d3",
+      "dedupeKey": "brief:opp_0f139ed102ff540ad1d3:sha256:0fe9cf5d3fa26c30d90be51f58801e6bac539b0767c969f809692963bb33f9d3",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_de66078429ccd3fb27d9": {
+      "id": "opp_de66078429ccd3fb27d9",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97648",
+      "canonicalUrl": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed",
+      "title": "Don&#8217;t stop early: Case-folding source code at memory speed",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don&#8217;t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de13f33644766a3634cc356c4560e21445c71d1a0a4a4496f2b281305f5e35eb",
+      "dedupeKey": "brief:opp_de66078429ccd3fb27d9:sha256:de13f33644766a3634cc356c4560e21445c71d1a0a4a4496f2b281305f5e35eb",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ac7452821a6b52870bcf": {
+      "id": "opp_ac7452821a6b52870bcf",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:gf0cPrinP9w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gf0cPrinP9w",
+      "title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-07-31T11:37:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "구글과 마이크로소프트, 아마존은 AI 데이터센터에 막대한 돈을 쏟아붓고 있습니다. 투자 규모가 너무 커지면서 시장에서는 빅테크가 AI로 제대로 돈을 벌지 못할 수 있다는 우려도 커졌습니다. 하지만 기술주 투자자 Gavin Baker는 현재 상황을 조금 다르게 보고 있습니다. 지금의 강한 AI 컴퓨팅 수요가 과거에 체결된 낮은 가격의 장기계약에 묶여 있어, 하이퍼스케일러들이 잠재력보다 적게 벌고 있을 수 있다는 주장입니다. 영상에서는 AI 시대 이전의 클라우드 계약과 현재 GPU 클라우드 계약이 어",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gf0cPrinP9w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-07-31T11:37:13.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6f7190c81ec5eaff9b88e9fe5db582e8603adb40f05e638372198dcb2471c784",
+      "dedupeKey": "brief:opp_ac7452821a6b52870bcf:sha256:6f7190c81ec5eaff9b88e9fe5db582e8603adb40f05e638372198dcb2471c784",
+      "firstSeenAt": "2026-08-01T00:06:09.374Z",
+      "lastSeenAt": "2026-08-01T00:06:09.374Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -11434,6 +11728,42 @@
       "opportunityId": "opp_846ed2b71fd615895d57",
       "sentAt": "2026-07-31T11:27:25.015Z",
       "messageId": "1532711279893020784"
+    },
+    "brief:opp_de66078429ccd3fb27d9:sha256:de13f33644766a3634cc356c4560e21445c71d1a0a4a4496f2b281305f5e35eb": {
+      "status": "SENT",
+      "opportunityId": "opp_de66078429ccd3fb27d9",
+      "sentAt": "2026-08-01T00:06:09.374Z",
+      "messageId": "1532902223066038323"
+    },
+    "brief:opp_d6235bba054b4d8be787:sha256:4c84f89802150be93a4e39ef3f57922cc8a204aa9801ddeb3511ecd568e2ff9c": {
+      "status": "SENT",
+      "opportunityId": "opp_d6235bba054b4d8be787",
+      "sentAt": "2026-08-01T00:06:09.374Z",
+      "messageId": "1532902223066038323"
+    },
+    "brief:opp_4b2ff229056cc92414ec:sha256:8c75f4629d65f922ac90e17ba40383a6bb68f60d569206db5eec23d6a18a527b": {
+      "status": "SENT",
+      "opportunityId": "opp_4b2ff229056cc92414ec",
+      "sentAt": "2026-08-01T00:06:09.374Z",
+      "messageId": "1532902223066038323"
+    },
+    "brief:opp_68e527000a0e6817debf:sha256:6d69340b37c44606e1d812997003b82a68af3a68143e72ef889860b31bd22890": {
+      "status": "SENT",
+      "opportunityId": "opp_68e527000a0e6817debf",
+      "sentAt": "2026-08-01T00:06:09.374Z",
+      "messageId": "1532902223066038323"
+    },
+    "brief:opp_57ba14e74bb921432536:sha256:4d888e96e1c06873f53e6e1fb03168748a9a721dc1fc0cd9684f6f60422f7714": {
+      "status": "SENT",
+      "opportunityId": "opp_57ba14e74bb921432536",
+      "sentAt": "2026-08-01T00:06:09.374Z",
+      "messageId": "1532902223066038323"
+    },
+    "brief:opp_ac7452821a6b52870bcf:sha256:6f7190c81ec5eaff9b88e9fe5db582e8603adb40f05e638372198dcb2471c784": {
+      "status": "SENT",
+      "opportunityId": "opp_ac7452821a6b52870bcf",
+      "sentAt": "2026-08-01T00:06:09.374Z",
+      "messageId": "1532902223066038323"
     }
   },
   "pending": {},
