@@ -10362,13 +10362,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 5,
-        "contentScore": 12,
+        "communityRank": 10,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -10376,11 +10376,11 @@
       },
       "contentHash": "sha256:be00ce079118e034b273691224f2d5f6e90311b38da91e37e9400294faae169e",
       "dedupeKey": "brief:opp_f89189011ee3ee333a9e:sha256:be00ce079118e034b273691224f2d5f6e90311b38da91e37e9400294faae169e",
-      "firstSeenAt": "2026-08-01T00:06:09.374Z",
-      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "firstSeenAt": "2026-08-01T02:56:44.301Z",
+      "lastSeenAt": "2026-08-01T02:56:44.301Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10520,11 +10520,11 @@
       },
       "contentHash": "sha256:0fe9cf5d3fa26c30d90be51f58801e6bac539b0767c969f809692963bb33f9d3",
       "dedupeKey": "brief:opp_0f139ed102ff540ad1d3:sha256:0fe9cf5d3fa26c30d90be51f58801e6bac539b0767c969f809692963bb33f9d3",
-      "firstSeenAt": "2026-08-01T00:06:09.374Z",
-      "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "firstSeenAt": "2026-08-01T02:56:44.301Z",
+      "lastSeenAt": "2026-08-01T02:56:44.301Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -10623,6 +10623,59 @@
       "dedupeKey": "brief:opp_ac7452821a6b52870bcf:sha256:6f7190c81ec5eaff9b88e9fe5db582e8603adb40f05e638372198dcb2471c784",
       "firstSeenAt": "2026-08-01T00:06:09.374Z",
       "lastSeenAt": "2026-08-01T00:06:09.374Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a38c31ba1847dd4fbae": {
+      "id": "opp_8a38c31ba1847dd4fbae",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:L-L4OXOro58",
+      "canonicalUrl": "https://www.youtube.com/watch?v=L-L4OXOro58",
+      "title": "미국 휴머노이드 기업 Figure AI 초기 투자자가 말하는 이 산업의 진실 | RoboStrategy, Andrew Kang",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-01T01:00:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "최근 Figure AI에서 로봇이 인간 작업자와 물류 작업 대결을 벌인 뒤, 이후로도 홀로 200시간 동안 약 25만 개의 택배를 처리한 라이브스트림 영상으로 로보틱스 업계는 꽤나 떠들썩했습니다. 이렇게 편집 없이 있는 그대로를 보여주는 데모를 그만큼 길게 이어간다는 건, 정말 놀라운 발전을 보여주는 거죠. 바로 이 Figure AI의 초기 투자자 Andrew Kang을 직접 만나 Figure AI 라이브 데모의 의미와, 앞으로 휴머노이드 업계에서 어떤 것들을 주목해야 하는지 물어봤습니다. **오",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=L-L4OXOro58"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-01T01:00:04.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:65eb828f56f74c06bf9496042eb4f472ab78048910dd7fbdeea063c7edb4462a",
+      "dedupeKey": "brief:opp_8a38c31ba1847dd4fbae:sha256:65eb828f56f74c06bf9496042eb4f472ab78048910dd7fbdeea063c7edb4462a",
+      "firstSeenAt": "2026-08-01T02:56:44.301Z",
+      "lastSeenAt": "2026-08-01T02:56:44.301Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -11764,6 +11817,24 @@
       "opportunityId": "opp_ac7452821a6b52870bcf",
       "sentAt": "2026-08-01T00:06:09.374Z",
       "messageId": "1532902223066038323"
+    },
+    "brief:opp_0f139ed102ff540ad1d3:sha256:0fe9cf5d3fa26c30d90be51f58801e6bac539b0767c969f809692963bb33f9d3": {
+      "status": "SENT",
+      "opportunityId": "opp_0f139ed102ff540ad1d3",
+      "sentAt": "2026-08-01T02:56:44.301Z",
+      "messageId": "1532945149804548198"
+    },
+    "brief:opp_8a38c31ba1847dd4fbae:sha256:65eb828f56f74c06bf9496042eb4f472ab78048910dd7fbdeea063c7edb4462a": {
+      "status": "SENT",
+      "opportunityId": "opp_8a38c31ba1847dd4fbae",
+      "sentAt": "2026-08-01T02:56:44.301Z",
+      "messageId": "1532945149804548198"
+    },
+    "brief:opp_f89189011ee3ee333a9e:sha256:be00ce079118e034b273691224f2d5f6e90311b38da91e37e9400294faae169e": {
+      "status": "SENT",
+      "opportunityId": "opp_f89189011ee3ee333a9e",
+      "sentAt": "2026-08-01T02:56:44.301Z",
+      "messageId": "1532945149804548198"
     }
   },
   "pending": {},
