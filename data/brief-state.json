@@ -10907,26 +10907,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
-        "contentScore": 11,
+        "communityPoints": 16,
+        "communityRank": 1,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:73bb6b778de0168e0f2201edf1e2fb957d3a3f2a047077d9a642af27d18438b2",
       "dedupeKey": "brief:opp_e3de6bc71a9c027480e9:sha256:73bb6b778de0168e0f2201edf1e2fb957d3a3f2a047077d9a642af27d18438b2",
-      "firstSeenAt": "2026-08-03T02:54:47.337Z",
-      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -11228,11 +11228,11 @@
       },
       "contentHash": "sha256:c5ea1132deac08ed7959c1a188bc8083328bb261c5da280db3e321960e89584f",
       "dedupeKey": "brief:opp_be36b9f4df7f49b3035a:sha256:c5ea1132deac08ed7959c1a188bc8083328bb261c5da280db3e321960e89584f",
-      "firstSeenAt": "2026-08-03T02:54:47.337Z",
-      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -11336,6 +11336,349 @@
       "dedupeKey": "brief:opp_77ae23771e7cdf48aece:sha256:922214c30b0db8af2d91698b25971a2e691a6a357604d975cb49b34e0b1cc34b",
       "firstSeenAt": "2026-08-03T02:54:47.337Z",
       "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_40b9c267c56d13897d95": {
+      "id": "opp_40b9c267c56d13897d95",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32076",
+      "canonicalUrl": "https://blog.usv.com/obliterate",
+      "title": "자동화하지 말고, 완전히 없애버려라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T08:52:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 시장의 효율을 높이는 소프트웨어보다 시장 구조 자체를 무너뜨리고 재편하는 스타트업을 더 큰 투자 기회로 평가해 왔으며, AI가 이런 변화...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32076"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5d251d4ab688b430d35080668eead984f958d140b9cfda41900776c5c6a81b2a",
+      "dedupeKey": "brief:opp_40b9c267c56d13897d95:sha256:5d251d4ab688b430d35080668eead984f958d140b9cfda41900776c5c6a81b2a",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3f0a2219210f459382d5": {
+      "id": "opp_3f0a2219210f459382d5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32075",
+      "canonicalUrl": "https://www.nfx.com/post/ai-first-company-structure-mission-pods",
+      "title": "가장 빠른 AI-First 기업은 실제로 어떻게 일하는가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T08:51:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "빠른 AI-First 기업은 단순히 인원을 줄이고 도구를 도입하는 데 그치지 않고, AI를 동료로 취급하며 훌륭한 제품이라는 공동 목표에 맞춰 사람과 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32075"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d",
+      "dedupeKey": "brief:opp_3f0a2219210f459382d5:sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d22e97fe48cb3ac73466": {
+      "id": "opp_d22e97fe48cb3ac73466",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32085",
+      "canonicalUrl": "https://news.hada.io/topic?id=32085",
+      "title": "Show GN: DropHTML - HTML·마크다운 올리면 바로 공유 링크가 생기는 사이트 (MCP 내장)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T11:36:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. HTML·마크다운 파일 하나를 올리면 바로 공유 가능한 링크가 만들어지는 DropHTML( 만들어서 공유합니다. 왜 만들었나 AI 에이전트한...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32085"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:079465c3f87a9972d707987fd90e93e674ed831fa564cc041a9cb8fc65104b20",
+      "dedupeKey": "brief:opp_d22e97fe48cb3ac73466:sha256:079465c3f87a9972d707987fd90e93e674ed831fa564cc041a9cb8fc65104b20",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c617f3077f519fc3116a": {
+      "id": "opp_c617f3077f519fc3116a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32054",
+      "canonicalUrl": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "title": "Seedance 2.5 - 30초 원테이크 생성과 유연한 참조",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-02T15:35:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ByteDance Seed 팀이 단편 생성에서 완성된 창작물 제작으로 범위를 넓힌 차세대 영상 모델 Seedance 2.5를 출시 음성과 영상을 포함한 최대 30초 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32054"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 18,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:41aff735e004e94248ec9b3fc7d204bdcc031a568e384adb5291aea9c329bbac",
+      "dedupeKey": "brief:opp_c617f3077f519fc3116a:sha256:41aff735e004e94248ec9b3fc7d204bdcc031a568e384adb5291aea9c329bbac",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8ada41821ac8cd26383c": {
+      "id": "opp_8ada41821ac8cd26383c",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "83ad3a92de0151724cd33065171fe5d92ff7e5e1",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-imweb-elasticache-tech-blog",
+      "title": "“같은 트래픽, CPU는 86% 덜 쓴다” — 100만 사이트 플랫폼 아임웹의 Valkey 9.1 실측 결과",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 04:58:58 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "들어가며 아임웹은&nbsp;2026년 7월 10일&nbsp;새벽,&nbsp;Amazon&nbsp;ElastiCache&nbsp;기반 운영 캐시들을&nbsp;Redis&nbsp;6.x/Valkey&nbsp;7.2&nbsp;에서&nbsp;Valkey&nbsp;9.1로&nbsp;업그레이드했습니다.&nbsp;대표&nbsp;범용&nbsp;캐시는&nbsp;SSR(Server-Side Rendering)&nbsp;경로와 여러 서비스 로직에서 반복적으로 조회되는 캐시로, 비교 구간 3.5시간 동안&nbsp;7억",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-imweb-elasticache-tech-blog/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:82778d8367091b5e7bc555b0a4dc3f4eb35c8314586565cd1d8844f440856aa2",
+      "dedupeKey": "brief:opp_8ada41821ac8cd26383c:sha256:82778d8367091b5e7bc555b0a4dc3f4eb35c8314586565cd1d8844f440856aa2",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fdf15e7e4e0e0df4ae9d": {
+      "id": "opp_fdf15e7e4e0e0df4ae9d",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "b5649248ed1adbecc8068c4915f246a4df3bef6f",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-compute-distributed-training-guide-massive-scaling",
+      "title": "분산 학습을 위한 AWS 컴퓨트 선택 가이드 (2편: 초대규모 스케일링과 인스턴스 확보)",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 03:09:01 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "1편에서는 모델 규모에 맞는 GPU 인스턴스와 인터커넥트, 병렬화 전략, 그리고 모델 메모리 계산까지 ‘무엇을 고를까’를 다뤘습니다. 이번 2편에서는 그 선택을 수천 장 규모로 확장합니다. 수천에서 수만 개의 GPU를 하나의 학습으로 묶는 울트라클러스터와 울트라서버 아키텍처, 그리고 이런 고성능 인스턴스를 실제로 확보하는 ODCR 및 Capacity Block 전략을 다룹니다. 시리즈 블로그 보기 분산 학습을 위한 AWS 컴퓨트 선택 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-compute-distributed-training-guide-massive-scaling/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1c9293f8715d2453a20ed1d3e2b0c6cc2d9c3c8322994ca7152219b9d96983e4",
+      "dedupeKey": "brief:opp_fdf15e7e4e0e0df4ae9d:sha256:1c9293f8715d2453a20ed1d3e2b0c6cc2d9c3c8322994ca7152219b9d96983e4",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_096eabcb678de5e2abc4": {
+      "id": "opp_096eabcb678de5e2abc4",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/ds-mle-cowork",
+      "canonicalUrl": "https://toss.tech/article/ds-mle-cowork",
+      "title": "DS와 MLE가 함께 일하는 법",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 03:25:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "노트북과 서빙 사이",
+      "summaryEvidence": [
+        "https://toss.tech/article/ds-mle-cowork"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f999ce1076b5a85b520bc7eab4f032f47244eae41db06c8acba2eced74685098",
+      "dedupeKey": "brief:opp_096eabcb678de5e2abc4:sha256:f999ce1076b5a85b520bc7eab4f032f47244eae41db06c8acba2eced74685098",
+      "firstSeenAt": "2026-08-03T09:05:34.451Z",
+      "lastSeenAt": "2026-08-03T09:05:34.451Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -12549,6 +12892,42 @@
       "opportunityId": "opp_a9f0b355feb5b33aeab5",
       "sentAt": "2026-08-03T02:54:47.337Z",
       "messageId": "1533669434714226750"
+    },
+    "brief:opp_fdf15e7e4e0e0df4ae9d:sha256:1c9293f8715d2453a20ed1d3e2b0c6cc2d9c3c8322994ca7152219b9d96983e4": {
+      "status": "SENT",
+      "opportunityId": "opp_fdf15e7e4e0e0df4ae9d",
+      "sentAt": "2026-08-03T09:05:34.451Z",
+      "messageId": "1533762746963722302"
+    },
+    "brief:opp_8ada41821ac8cd26383c:sha256:82778d8367091b5e7bc555b0a4dc3f4eb35c8314586565cd1d8844f440856aa2": {
+      "status": "SENT",
+      "opportunityId": "opp_8ada41821ac8cd26383c",
+      "sentAt": "2026-08-03T09:05:34.451Z",
+      "messageId": "1533762746963722302"
+    },
+    "brief:opp_096eabcb678de5e2abc4:sha256:f999ce1076b5a85b520bc7eab4f032f47244eae41db06c8acba2eced74685098": {
+      "status": "SENT",
+      "opportunityId": "opp_096eabcb678de5e2abc4",
+      "sentAt": "2026-08-03T09:05:34.451Z",
+      "messageId": "1533762746963722302"
+    },
+    "brief:opp_d22e97fe48cb3ac73466:sha256:079465c3f87a9972d707987fd90e93e674ed831fa564cc041a9cb8fc65104b20": {
+      "status": "SENT",
+      "opportunityId": "opp_d22e97fe48cb3ac73466",
+      "sentAt": "2026-08-03T09:05:34.451Z",
+      "messageId": "1533762746963722302"
+    },
+    "brief:opp_e3de6bc71a9c027480e9:sha256:73bb6b778de0168e0f2201edf1e2fb957d3a3f2a047077d9a642af27d18438b2": {
+      "status": "SENT",
+      "opportunityId": "opp_e3de6bc71a9c027480e9",
+      "sentAt": "2026-08-03T09:05:34.451Z",
+      "messageId": "1533762746963722302"
+    },
+    "brief:opp_be36b9f4df7f49b3035a:sha256:c5ea1132deac08ed7959c1a188bc8083328bb261c5da280db3e321960e89584f": {
+      "status": "SENT",
+      "opportunityId": "opp_be36b9f4df7f49b3035a",
+      "sentAt": "2026-08-03T09:05:34.451Z",
+      "messageId": "1533762746963722302"
     }
   },
   "pending": {},
