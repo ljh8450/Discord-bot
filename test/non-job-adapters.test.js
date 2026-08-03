@@ -70,7 +70,7 @@ test('retries transient GDG errors and isolates a failed chapter', async () => {
   const items = await collectFromGdgEvents({
     id: 'gdg', urls: ['https://example.com/retry/', 'https://example.com/broken/'],
     retryAttempts: 2, retryDelayMs: 0,
-  }, fetchImpl);
+  }, fetchImpl, new Date('2026-07-20T00:00:00Z'));
   assert.equal(attempts.get('https://example.com/retry/'), 2);
   assert.equal(attempts.get('https://example.com/broken/'), 2);
   assert.equal(items.length, 1);

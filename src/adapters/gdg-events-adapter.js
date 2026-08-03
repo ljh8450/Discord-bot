@@ -60,7 +60,7 @@ function parseEventPage(html, source, url, now = new Date()) {
   };
 }
 
-async function collectFromGdgEvents(source, fetchImpl = fetch) {
+async function collectFromGdgEvents(source, fetchImpl = fetch, now = new Date()) {
   const eventUrls = new Set();
   const chapters = await Promise.allSettled(source.urls.map(async (chapterUrl) => {
     const response = await fetchWithRetry(chapterUrl, fetchImpl, source);
@@ -80,7 +80,7 @@ async function collectFromGdgEvents(source, fetchImpl = fetch) {
   const urls = [...eventUrls].slice(0, source.maxItems || 20);
   const settled = await Promise.allSettled(urls.map(async (url) => {
     const response = await fetchWithRetry(url, fetchImpl, source);
-    return parseEventPage(await response.text(), source, url);
+    return parseEventPage(await response.text(), source, url, now);
   }));
   return settled.flatMap((result) => (
     result.status === 'fulfilled' && result.value ? [result.value] : []
