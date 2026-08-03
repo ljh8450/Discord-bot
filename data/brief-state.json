@@ -10831,6 +10831,516 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a9f0b355feb5b33aeab5": {
+      "id": "opp_a9f0b355feb5b33aeab5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32078",
+      "canonicalUrl": "https://github.com/callstack/agent-device",
+      "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T09:31:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩 에이전트가 실행 중인 앱을 직접 검사/조작/검증하고 결과를 근거로 저장하도록 지원 iOS, Android, tvOS, Android TV, Amazon Vega OS TV, w...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32078"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b546949f47e74b7d4bda4e5e8e84e53bf215c07917ad3dd1a368344da9def0c4",
+      "dedupeKey": "brief:opp_a9f0b355feb5b33aeab5:sha256:b546949f47e74b7d4bda4e5e8e84e53bf215c07917ad3dd1a368344da9def0c4",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e3de6bc71a9c027480e9": {
+      "id": "opp_e3de6bc71a9c027480e9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32073",
+      "canonicalUrl": "https://diataxis.fr/",
+      "title": "Diátaxis - 기술 문서 작성을 위한 체계적 접근법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T08:45:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Diátaxis는 문서 사용자의 서로 다른 요구를 기준으로 기술 문서의 내용/형식/구조를 설계하는 체계적 접근법 사용자의 요구를 튜토리얼/방법 안내...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32073"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:73bb6b778de0168e0f2201edf1e2fb957d3a3f2a047077d9a642af27d18438b2",
+      "dedupeKey": "brief:opp_e3de6bc71a9c027480e9:sha256:73bb6b778de0168e0f2201edf1e2fb957d3a3f2a047077d9a642af27d18438b2",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4369862e182baa6745e8": {
+      "id": "opp_4369862e182baa6745e8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32066",
+      "canonicalUrl": "https://news.hada.io/topic?id=32066",
+      "title": "Show GN: graph-tool-call – 도구를 많이 붙일수록 에이전트가 더 자주 틀리는 문제를 풀어봤습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T02:25:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전트에 MCP 서버 하나를 연결했을 때는 잘 동작했습니다. 그런데 GitHub, Slack, 데이터베이스, 브라우저, 사내 API를 차례로 붙이자 상황이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32066"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c56ff765aa1be638e4671fa4c348c733e5a222f5adfee02a01232d1dda815eb9",
+      "dedupeKey": "brief:opp_4369862e182baa6745e8:sha256:c56ff765aa1be638e4671fa4c348c733e5a222f5adfee02a01232d1dda815eb9",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dddbb07b65fab3677dcd": {
+      "id": "opp_dddbb07b65fab3677dcd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32028",
+      "canonicalUrl": "https://github.com/hasenj/go-shirei",
+      "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-01T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "HTML/JavaScript 대신 Go 코드만으로 UI를 작성하는 크로스플랫폼 GUI 프레임워크 동일 코드베이스로 macOS, Windows, Linux에서 동일한 외형의 프...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32028"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 16,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 1,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:c6c092c7e0c8b24729d62362bf1a24b25e66e051dc0b545d964a052de5aefdd5",
+      "dedupeKey": "brief:opp_dddbb07b65fab3677dcd:sha256:c6c092c7e0c8b24729d62362bf1a24b25e66e051dc0b545d964a052de5aefdd5",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7214c4e62c84fe65fbbc": {
+      "id": "opp_7214c4e62c84fe65fbbc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32030",
+      "canonicalUrl": "https://graybeard.ing/the-religion-of-speed",
+      "title": "속도의 종교",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-01T15:32:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "“빠르게 움직이기”가 실무적 필요를 넘어 진지함과 야망의 증거가 되면서, 신중한 검토는 추진력을 방해하는 태도로 취급됨 진짜 속도는 업무·제약...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32030"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 17,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9d23ba69dc9ae2862822f07c7eadf20410fb30c152b2aa3869c14e9de72b3461",
+      "dedupeKey": "brief:opp_7214c4e62c84fe65fbbc:sha256:9d23ba69dc9ae2862822f07c7eadf20410fb30c152b2aa3869c14e9de72b3461",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_12cbc6a5856d11c1dfb2": {
+      "id": "opp_12cbc6a5856d11c1dfb2",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:tgCoPeWsTU8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tgCoPeWsTU8",
+      "title": "EP 107. 미래란 언제나 예측불허: 주가 롤러코스터, Kimi K3 쇼크, 재귀적 자기 개선의 시작",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-02T11:23:54+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 관련주의 롤러코스터와 Leopold Aschenbrenner의 포트폴리오 청산 이야기에서 출발해, 오픈웨이트로 공개된 Kimi K3 페이퍼를 깊이 읽습니다. Kimi Delta Attention, Attention Residual, Stable Latent MoE와 포스트트레이닝·RL 설계를 살펴보며 프론티어 랩의 설계 문법이 어떻게 공개되고 있는지 짚습니다. 이어 Jensen Huang의 오픈웨이트 성명과 Anthropic의 반론, 모델의 코모디티화 이후 가치가 이동하는 방향을 토론합니다.",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=tgCoPeWsTU8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-02T11:23:54.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:972d45705725a43ff74ca17b6393a775634a74b976216c4bf98b9cd359bc8858",
+      "dedupeKey": "brief:opp_12cbc6a5856d11c1dfb2:sha256:972d45705725a43ff74ca17b6393a775634a74b976216c4bf98b9cd359bc8858",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d43e29f3f2dd9819a1ee": {
+      "id": "opp_d43e29f3f2dd9819a1ee",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:wHePopfD6js",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wHePopfD6js",
+      "title": "[한영자막] \"이걸 선택할 줄 아는 사람이 미래의 엔지니어다\" — Addy Osmani",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-02T09:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 코드를 짜는 시대, 엔지니어의 가치는 어디에 있을까요? Addy Osmani(구글 클라우드 AI/Gemini 前 디렉터)가 AI Engineer World's Fair 클로징 키노트에서 답합니다. ▪ 속도, 기억력, 검증 같은 능력은 모델이 계속 따라잡지만, 책임지고 설명할 수 있는 신뢰(시그니처)는 훨씬 오래갑니다. ▪ 에이전트가 실행(이너 루프)을 맡을수록, 사람은 결정하고 검증하고 책임지는 아우터 루프를 지켜야 합니다. ▪ \"인지적 부채\", \"인지적 항복\", \"오케스트레이션",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=wHePopfD6js"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-02T09:00:09.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e938bcad0853fdaeee6c90b391c0e8f753052e335c83ef79498066e40564d0b8",
+      "dedupeKey": "brief:opp_d43e29f3f2dd9819a1ee:sha256:e938bcad0853fdaeee6c90b391c0e8f753052e335c83ef79498066e40564d0b8",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be36b9f4df7f49b3035a": {
+      "id": "opp_be36b9f4df7f49b3035a",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:KrE6zFGbD8s",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KrE6zFGbD8s",
+      "title": "[LIVE] 데이터 센터 게임으로 배워보기",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-02T11:53:59+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] 삼전 하닉 반등 기원 '데이터 센터' 게임으로 배워보기",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=KrE6zFGbD8s"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-02T11:53:59.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c5ea1132deac08ed7959c1a188bc8083328bb261c5da280db3e321960e89584f",
+      "dedupeKey": "brief:opp_be36b9f4df7f49b3035a:sha256:c5ea1132deac08ed7959c1a188bc8083328bb261c5da280db3e321960e89584f",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_72c81c92caff36a652da": {
+      "id": "opp_72c81c92caff36a652da",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:e_j_SyBlc18",
+      "canonicalUrl": "https://www.youtube.com/watch?v=e_j_SyBlc18",
+      "title": "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-02T10:19:24+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등 조코딩과 코딩 공부하기 https://jocoding.net/ 제보 메일: jebo@jocoding.net",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=e_j_SyBlc18"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-02T11:53:59.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3840e75b253cbbcfbaff8a0dfb86473198c1f93f42b545314954ca58cd58b45f",
+      "dedupeKey": "brief:opp_72c81c92caff36a652da:sha256:3840e75b253cbbcfbaff8a0dfb86473198c1f93f42b545314954ca58cd58b45f",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_77ae23771e7cdf48aece": {
+      "id": "opp_77ae23771e7cdf48aece",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:gXPdfXxIRqg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gXPdfXxIRqg",
+      "title": "와튼 1,372명 실험 — 구글 출신 엔지니어가 말한 \"AI 시대에 사람이 남는 자리\"",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-02T16:32:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "와튼 스쿨이 1,372명을 대상으로 한 실험이 있습니다. AI가 틀린 답을 줬을 때, 73%가 그걸 그대로 받아들였습니다. 그리고 AI 없이 혼자 판단했을 때보다 오히려 더 확신했습니다. 구글에서 14년간 크롬 개발자 도구를 이끌고 코어 웹 바이탈을 공동 주도한 애디 오스마니(Addy Osmani)가 AI Engineer World's Fair 2026 클로징 키노트에서 한 발표를 정리했습니다. 제목은 \"Own the Outer Loop\" — 바깥 고리를 소유하라는 뜻입니다. - 커밋된 코드 중",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gXPdfXxIRqg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-02T16:32:05.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:922214c30b0db8af2d91698b25971a2e691a6a357604d975cb49b34e0b1cc34b",
+      "dedupeKey": "brief:opp_77ae23771e7cdf48aece:sha256:922214c30b0db8af2d91698b25971a2e691a6a357604d975cb49b34e0b1cc34b",
+      "firstSeenAt": "2026-08-03T02:54:47.337Z",
+      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -12003,6 +12513,42 @@
       "opportunityId": "opp_02692dea3d4122b7cbea",
       "sentAt": "2026-08-01T10:38:39.578Z",
       "messageId": "1533061396684734595"
+    },
+    "brief:opp_72c81c92caff36a652da:sha256:3840e75b253cbbcfbaff8a0dfb86473198c1f93f42b545314954ca58cd58b45f": {
+      "status": "SENT",
+      "opportunityId": "opp_72c81c92caff36a652da",
+      "sentAt": "2026-08-03T02:54:47.337Z",
+      "messageId": "1533669434714226750"
+    },
+    "brief:opp_4369862e182baa6745e8:sha256:c56ff765aa1be638e4671fa4c348c733e5a222f5adfee02a01232d1dda815eb9": {
+      "status": "SENT",
+      "opportunityId": "opp_4369862e182baa6745e8",
+      "sentAt": "2026-08-03T02:54:47.337Z",
+      "messageId": "1533669434714226750"
+    },
+    "brief:opp_77ae23771e7cdf48aece:sha256:922214c30b0db8af2d91698b25971a2e691a6a357604d975cb49b34e0b1cc34b": {
+      "status": "SENT",
+      "opportunityId": "opp_77ae23771e7cdf48aece",
+      "sentAt": "2026-08-03T02:54:47.337Z",
+      "messageId": "1533669434714226750"
+    },
+    "brief:opp_12cbc6a5856d11c1dfb2:sha256:972d45705725a43ff74ca17b6393a775634a74b976216c4bf98b9cd359bc8858": {
+      "status": "SENT",
+      "opportunityId": "opp_12cbc6a5856d11c1dfb2",
+      "sentAt": "2026-08-03T02:54:47.337Z",
+      "messageId": "1533669434714226750"
+    },
+    "brief:opp_d43e29f3f2dd9819a1ee:sha256:e938bcad0853fdaeee6c90b391c0e8f753052e335c83ef79498066e40564d0b8": {
+      "status": "SENT",
+      "opportunityId": "opp_d43e29f3f2dd9819a1ee",
+      "sentAt": "2026-08-03T02:54:47.337Z",
+      "messageId": "1533669434714226750"
+    },
+    "brief:opp_a9f0b355feb5b33aeab5:sha256:b546949f47e74b7d4bda4e5e8e84e53bf215c07917ad3dd1a368344da9def0c4": {
+      "status": "SENT",
+      "opportunityId": "opp_a9f0b355feb5b33aeab5",
+      "sentAt": "2026-08-03T02:54:47.337Z",
+      "messageId": "1533669434714226750"
     }
   },
   "pending": {},
