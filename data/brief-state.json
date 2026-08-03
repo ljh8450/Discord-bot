@@ -11368,8 +11368,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 3,
+        "communityPoints": 9,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -11383,11 +11383,11 @@
       },
       "contentHash": "sha256:5d251d4ab688b430d35080668eead984f958d140b9cfda41900776c5c6a81b2a",
       "dedupeKey": "brief:opp_40b9c267c56d13897d95:sha256:5d251d4ab688b430d35080668eead984f958d140b9cfda41900776c5c6a81b2a",
-      "firstSeenAt": "2026-08-03T09:05:34.451Z",
-      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -11418,7 +11418,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 4,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -11432,8 +11432,8 @@
       },
       "contentHash": "sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d",
       "dedupeKey": "brief:opp_3f0a2219210f459382d5:sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d",
-      "firstSeenAt": "2026-08-03T09:05:34.451Z",
-      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -11516,7 +11516,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 18,
+        "communityRank": 19,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -11530,8 +11530,8 @@
       },
       "contentHash": "sha256:41aff735e004e94248ec9b3fc7d204bdcc031a568e384adb5291aea9c329bbac",
       "dedupeKey": "brief:opp_c617f3077f519fc3116a:sha256:41aff735e004e94248ec9b3fc7d204bdcc031a568e384adb5291aea9c329bbac",
-      "firstSeenAt": "2026-08-03T09:05:34.451Z",
-      "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -11679,6 +11679,214 @@
       "dedupeKey": "brief:opp_096eabcb678de5e2abc4:sha256:f999ce1076b5a85b520bc7eab4f032f47244eae41db06c8acba2eced74685098",
       "firstSeenAt": "2026-08-03T09:05:34.451Z",
       "lastSeenAt": "2026-08-03T09:05:34.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_790bea7e2437ab7abdc4": {
+      "id": "opp_790bea7e2437ab7abdc4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32090",
+      "canonicalUrl": "https://qwen.ai/blog?id=qwen3.8",
+      "title": "Qwen3.8-Max: 코딩과 협업의 새로운 기준",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T14:31:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Qwen3.5 아키텍처를 확장한 Qwen3.8-Max가 2.4조 파라미터/활성 950억 파라미터 규모로 출시. Qwen 최초의 Max급 모델 가중치를 다음 주 오픈소스...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32090"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:02a99aac0ae055b709173089d769e56306b5ee423d0d4701e33cccdd3b49b0d7",
+      "dedupeKey": "brief:opp_790bea7e2437ab7abdc4:sha256:02a99aac0ae055b709173089d769e56306b5ee423d0d4701e33cccdd3b49b0d7",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f6f1f77eab612e86fc15": {
+      "id": "opp_f6f1f77eab612e86fc15",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:hfaUTT8bLzU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hfaUTT8bLzU",
+      "title": "[한영자막] 프롬프트의 함정, Eval로 잡았다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T09:00:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "프롬프트만 잘 써도 에이전트가 원하는 대로 움직이는 건 아닙니다. Google YouTube Ads 팀이 실제 서비스에 올라가는 에이전트를 안정적으로 만들며 쌓은 eval 노하우를 공유합니다. 주요 내용 - 도구 최적화부터 자기수정 루프, eval까지 이어지는 에이전트 기본기 쌓는 순서 - 처음엔 감으로 빠르게, 이후엔 엄격하고 측정 가능하게: eval을 키워가는 방법 - 사람 채점자에게 명확한 기준과 판단 이유를 함께 받아야 하는 이유 - LLM-as-judge를 실제로 믿고 쓰기 위한 보정 과",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=hfaUTT8bLzU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-03T09:00:16.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3c7799cd8389b41c4cd19609f9ca257a3735a78bb84b0944e8bc7f4fd34a0d9f",
+      "dedupeKey": "brief:opp_f6f1f77eab612e86fc15:sha256:3c7799cd8389b41c4cd19609f9ca257a3735a78bb84b0944e8bc7f4fd34a0d9f",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_27f14bb7fb4dd38fe69a": {
+      "id": "opp_27f14bb7fb4dd38fe69a",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:sNAppH0c1O0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sNAppH0c1O0",
+      "title": "AI가 만드는 1인 스튜디오 시대, 유니티 CEO에게 물었습니다",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T11:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "* 한국어 더빙이 지원됩니다. (설정 - 오디오 트랙 - 한국어/영어 선택 가능) https://neolli.jocoding.io/ Unite Seoul 2026을 맞아 한국을 방문한 Unity CEO Matthew Bromberg님과 인터뷰를 진행했습니다. 🕖목차 00:00 오프닝 00:20 글로벌 유나이트 첫 무대로 서울을 선택한 이유 01:08 AI가 창작자를 대체하지 않는다고 확신하는 이유 04:24 AI 시대, '창작자'의 정의 05:39 1인·소규모 팀 성공 사례 중 가장 놀라웠던 사",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sNAppH0c1O0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-03T11:00:36.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:08a57de775f4f79d8ed9bad0ff82b1608ebb1a89e38067969e3c929aeb519b88",
+      "dedupeKey": "brief:opp_27f14bb7fb4dd38fe69a:sha256:08a57de775f4f79d8ed9bad0ff82b1608ebb1a89e38067969e3c929aeb519b88",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_720c7adf7fec2198fbf7": {
+      "id": "opp_720c7adf7fec2198fbf7",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:ZDEJ1XH1eIc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZDEJ1XH1eIc",
+      "title": "토스 창업자부터 대선후보까지, 계급장 떼고 매출로만 붙었습니다ㅣ흑백개발자: THE 해커톤",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T11:35:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"심사위원 없이, 오직 시장에서 증명하라.\" 지난 3월, 여의도에 한국 최고의 빌더 80명이 모였습니다. 토스 공동창업자 이태양, 대선후보 이준석, 실리콘밸리 유니콘 Fountain의 류기백까지. 이미 증명을 끝낸 '백개발자' 22명과, 이들에게 도전장을 내민 '흑개발자' 58명. 규칙은 단순합니다. 심사위원 없음. 발표 점수 없음. 30시간 안에 서비스를 만들고, 5일간 시장에서 벌어들인 매출로만 승부합니다. 어떤 타이틀을 가졌든, 어떤 경력을 쌓았든, 이 무대에서는 오직 숫자만이 말합니다. 이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ZDEJ1XH1eIc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-03T11:35:27.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5b17ed404e683460f08b4b39769de0978f25b829cdc148ec185179bc6caaa5fd",
+      "dedupeKey": "brief:opp_720c7adf7fec2198fbf7:sha256:5b17ed404e683460f08b4b39769de0978f25b829cdc148ec185179bc6caaa5fd",
+      "firstSeenAt": "2026-08-03T12:20:07.829Z",
+      "lastSeenAt": "2026-08-03T12:20:07.829Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -12928,6 +13136,36 @@
       "opportunityId": "opp_be36b9f4df7f49b3035a",
       "sentAt": "2026-08-03T09:05:34.451Z",
       "messageId": "1533762746963722302"
+    },
+    "brief:opp_27f14bb7fb4dd38fe69a:sha256:08a57de775f4f79d8ed9bad0ff82b1608ebb1a89e38067969e3c929aeb519b88": {
+      "status": "SENT",
+      "opportunityId": "opp_27f14bb7fb4dd38fe69a",
+      "sentAt": "2026-08-03T12:20:07.829Z",
+      "messageId": "1533811709507010671"
+    },
+    "brief:opp_790bea7e2437ab7abdc4:sha256:02a99aac0ae055b709173089d769e56306b5ee423d0d4701e33cccdd3b49b0d7": {
+      "status": "SENT",
+      "opportunityId": "opp_790bea7e2437ab7abdc4",
+      "sentAt": "2026-08-03T12:20:07.829Z",
+      "messageId": "1533811709507010671"
+    },
+    "brief:opp_f6f1f77eab612e86fc15:sha256:3c7799cd8389b41c4cd19609f9ca257a3735a78bb84b0944e8bc7f4fd34a0d9f": {
+      "status": "SENT",
+      "opportunityId": "opp_f6f1f77eab612e86fc15",
+      "sentAt": "2026-08-03T12:20:07.829Z",
+      "messageId": "1533811709507010671"
+    },
+    "brief:opp_720c7adf7fec2198fbf7:sha256:5b17ed404e683460f08b4b39769de0978f25b829cdc148ec185179bc6caaa5fd": {
+      "status": "SENT",
+      "opportunityId": "opp_720c7adf7fec2198fbf7",
+      "sentAt": "2026-08-03T12:20:07.829Z",
+      "messageId": "1533811709507010671"
+    },
+    "brief:opp_40b9c267c56d13897d95:sha256:5d251d4ab688b430d35080668eead984f958d140b9cfda41900776c5c6a81b2a": {
+      "status": "SENT",
+      "opportunityId": "opp_40b9c267c56d13897d95",
+      "sentAt": "2026-08-03T12:20:07.829Z",
+      "messageId": "1533811709507010671"
     }
   },
   "pending": {},
