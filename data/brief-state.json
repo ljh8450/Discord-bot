@@ -11054,23 +11054,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 11,
         "communityRank": 17,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:9d23ba69dc9ae2862822f07c7eadf20410fb30c152b2aa3869c14e9de72b3461",
       "dedupeKey": "brief:opp_7214c4e62c84fe65fbbc:sha256:9d23ba69dc9ae2862822f07c7eadf20410fb30c152b2aa3869c14e9de72b3461",
-      "firstSeenAt": "2026-08-03T02:54:47.337Z",
-      "lastSeenAt": "2026-08-03T02:54:47.337Z",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -11417,26 +11417,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 5,
+        "communityPoints": 13,
+        "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d",
       "dedupeKey": "brief:opp_3f0a2219210f459382d5:sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d",
-      "firstSeenAt": "2026-08-03T12:20:07.829Z",
-      "lastSeenAt": "2026-08-03T12:20:07.829Z",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -11516,7 +11516,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 19,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -11530,8 +11530,8 @@
       },
       "contentHash": "sha256:41aff735e004e94248ec9b3fc7d204bdcc031a568e384adb5291aea9c329bbac",
       "dedupeKey": "brief:opp_c617f3077f519fc3116a:sha256:41aff735e004e94248ec9b3fc7d204bdcc031a568e384adb5291aea9c329bbac",
-      "firstSeenAt": "2026-08-03T12:20:07.829Z",
-      "lastSeenAt": "2026-08-03T12:20:07.829Z",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -11887,6 +11887,254 @@
       "dedupeKey": "brief:opp_720c7adf7fec2198fbf7:sha256:5b17ed404e683460f08b4b39769de0978f25b829cdc148ec185179bc6caaa5fd",
       "firstSeenAt": "2026-08-03T12:20:07.829Z",
       "lastSeenAt": "2026-08-03T12:20:07.829Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_61cb865562c412ad051c": {
+      "id": "opp_61cb865562c412ad051c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32102",
+      "canonicalUrl": "https://usingclaude.com/ko/claude-code/mcp/claude-code-mcp-server-recommendations",
+      "title": "Claude Code에 연결할 만한 MCP 서버 추천 정리 (한국어)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T20:40:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code에 MCP 서버를 붙여 쓰면서 실제로 유용했던 것들을 용도별로 정리했습니다. 어떤 서버부터 연결하면 좋은지, 연결 방법과 주의점까지 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32102"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7173605361ec05fe80af1a51d330c4eb0e93f5973b97522f7b06e95544214a5",
+      "dedupeKey": "brief:opp_61cb865562c412ad051c:sha256:c7173605361ec05fe80af1a51d330c4eb0e93f5973b97522f7b06e95544214a5",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0aab2c7db8db2cfd5edf": {
+      "id": "opp_0aab2c7db8db2cfd5edf",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "canonicalUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "summaryEvidence": [
+        "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cf7dee73618c2f07efc0f3286448dd76789b58e179ef7a33cd5ad37393bf4121",
+      "dedupeKey": "brief:opp_0aab2c7db8db2cfd5edf:sha256:cf7dee73618c2f07efc0f3286448dd76789b58e179ef7a33cd5ad37393bf4121",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_252a4bc50e2894833e19": {
+      "id": "opp_252a4bc50e2894833e19",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/828",
+      "canonicalUrl": "https://tech.kakao.com/posts/828",
+      "title": "Beyond AI That Speaks Well: Making Kanana-o Speak the Way Users Want",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "Hello, we are Martin (Daejin Jo), Abigail (Heayoung Park), and Edwin (Wooyoung Kang) from Kanana, the team responsible for developing AI models at Kakao. Our team focuses on building unified multimodal language models that can see, hear, and speak like hu...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/828"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:08aaa887f13bd8fa4fcc435603bb24197f4266fe437bcac39a88e4de4f02fe9a",
+      "dedupeKey": "brief:opp_252a4bc50e2894833e19:sha256:08aaa887f13bd8fa4fcc435603bb24197f4266fe437bcac39a88e4de4f02fe9a",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_17b6aec8d9d0ffe1646b": {
+      "id": "opp_17b6aec8d9d0ffe1646b",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/827",
+      "canonicalUrl": "https://tech.kakao.com/posts/827",
+      "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "Intro 안녕하세요, 카카오의 AI 모델 개발을 담당하는 카나나(Kanana) 조직의 Martin(조대진), Abigail(박혜영), Edwin(강우영)입니다. 저희 팀에서는 사람처럼 보고, 듣고, 말하는 통합 멀티모달(Multimodal) 언어모델을 중점적으로 개발하고 있습니다. 지난 5월, 국내 최초로 공개한 통합 멀티모달 언어모델 공개 이후, 저희는 실제 서비스 환경에서 더 나은 사용자 경험을 제공하기 위해 계속해서 모델을 고도화하고 있습니다 ....",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/827"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:36a4132ff1831e75fb0e2432a4fc2ce3abfd3110ca4de803b38bff3c8b433867",
+      "dedupeKey": "brief:opp_17b6aec8d9d0ffe1646b:sha256:36a4132ff1831e75fb0e2432a4fc2ce3abfd3110ca4de803b38bff3c8b433867",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c4482ed4030d70b9c8ef": {
+      "id": "opp_c4482ed4030d70b9c8ef",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:2M3mDm9q2To",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2M3mDm9q2To",
+      "title": "[연속재생] AI시대를 대하는 개발자의 자세",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T22:49:26+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI, 바이브코딩과 관련된 모음 영상입니다. 00:00 아무나 개발한다지만, 진짜 개발자만 아는 숫자 19:15 AI가 코드 다 짜준다며? 바이브코더의 현실적인 고민 34:59 AI 맞장뜨는 70대 백전노장 개발자, Peter Norvig 47:59 감히 2차 소프트웨어 위기를 예측해 봅니다. 58:44 AI 코딩공학 출범을 제안합니다. 01:08:02 바이브코딩으로 만든 포트폴리오, 괜찮을까? 01:17:40 AI시대인데 SQLP, DAP 자격증 따야 할까요? 01:25:04 천재들의 생각을 들",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2M3mDm9q2To"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-03T22:49:26.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:83cbe1058b3d859f5e0bb5ecbe27f2ecbe73dc1034a75bdc7b249a044a0dab36",
+      "dedupeKey": "brief:opp_c4482ed4030d70b9c8ef:sha256:83cbe1058b3d859f5e0bb5ecbe27f2ecbe73dc1034a75bdc7b249a044a0dab36",
+      "firstSeenAt": "2026-08-04T00:05:20.433Z",
+      "lastSeenAt": "2026-08-04T00:05:20.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -13166,6 +13414,42 @@
       "opportunityId": "opp_40b9c267c56d13897d95",
       "sentAt": "2026-08-03T12:20:07.829Z",
       "messageId": "1533811709507010671"
+    },
+    "brief:opp_252a4bc50e2894833e19:sha256:08aaa887f13bd8fa4fcc435603bb24197f4266fe437bcac39a88e4de4f02fe9a": {
+      "status": "SENT",
+      "opportunityId": "opp_252a4bc50e2894833e19",
+      "sentAt": "2026-08-04T00:05:20.433Z",
+      "messageId": "1533989180823175300"
+    },
+    "brief:opp_17b6aec8d9d0ffe1646b:sha256:36a4132ff1831e75fb0e2432a4fc2ce3abfd3110ca4de803b38bff3c8b433867": {
+      "status": "SENT",
+      "opportunityId": "opp_17b6aec8d9d0ffe1646b",
+      "sentAt": "2026-08-04T00:05:20.433Z",
+      "messageId": "1533989180823175300"
+    },
+    "brief:opp_0aab2c7db8db2cfd5edf:sha256:cf7dee73618c2f07efc0f3286448dd76789b58e179ef7a33cd5ad37393bf4121": {
+      "status": "SENT",
+      "opportunityId": "opp_0aab2c7db8db2cfd5edf",
+      "sentAt": "2026-08-04T00:05:20.433Z",
+      "messageId": "1533989180823175300"
+    },
+    "brief:opp_c4482ed4030d70b9c8ef:sha256:83cbe1058b3d859f5e0bb5ecbe27f2ecbe73dc1034a75bdc7b249a044a0dab36": {
+      "status": "SENT",
+      "opportunityId": "opp_c4482ed4030d70b9c8ef",
+      "sentAt": "2026-08-04T00:05:20.433Z",
+      "messageId": "1533989180823175300"
+    },
+    "brief:opp_61cb865562c412ad051c:sha256:c7173605361ec05fe80af1a51d330c4eb0e93f5973b97522f7b06e95544214a5": {
+      "status": "SENT",
+      "opportunityId": "opp_61cb865562c412ad051c",
+      "sentAt": "2026-08-04T00:05:20.433Z",
+      "messageId": "1533989180823175300"
+    },
+    "brief:opp_3f0a2219210f459382d5:sha256:ae2e92fefc445161f6a4e08b30e552131556149bc6a2c3ea0eea22d3d980798d": {
+      "status": "SENT",
+      "opportunityId": "opp_3f0a2219210f459382d5",
+      "sentAt": "2026-08-04T00:05:20.433Z",
+      "messageId": "1533989180823175300"
     }
   },
   "pending": {},
