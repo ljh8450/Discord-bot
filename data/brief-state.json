@@ -12265,23 +12265,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 14,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:81657c5e9aee67b5d0b02efefe7dfa8e19252da1586c68440063fb8af63db00c",
       "dedupeKey": "brief:opp_9ce8023492fcbfebccca:sha256:81657c5e9aee67b5d0b02efefe7dfa8e19252da1586c68440063fb8af63db00c",
-      "firstSeenAt": "2026-08-04T02:39:26.245Z",
-      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -12431,6 +12431,501 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_119c74e9ccc2c935c613": {
+      "id": "opp_119c74e9ccc2c935c613",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32125",
+      "canonicalUrl": "https://huggingface.co/KRAFTON/A.X-K2-Raon-Speech-21B-A3B/blob/main/README_ko.md",
+      "title": "크래프톤, 21B 한영 이중언어 음성 AI 모델 &#039;A.X K2 Raon-Speech&#039; 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T10:01:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SKT의 A.X K2 Light 20B-A3B 텍스트 백본에 KRAFTON이 자체 학습한 음성 인코더와 음성 코덱을 결합한 모델로, 전체 21.2B 중 약 3.5B 파라미터를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32125"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:517b1c382eb7a96bef708193c01865ce86f2ca602a45c81f3a9d514282536293",
+      "dedupeKey": "brief:opp_119c74e9ccc2c935c613:sha256:517b1c382eb7a96bef708193c01865ce86f2ca602a45c81f3a9d514282536293",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_130093bca766e6ef00e4": {
+      "id": "opp_130093bca766e6ef00e4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32124",
+      "canonicalUrl": "https://huggingface.co/kakaocorp/kanana-2-1.3b-base",
+      "title": "카카오, &#039;카나나-2&#039;의 경량 모델 4종 오픈소스로 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T09:46:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Kanana-2 SLM 모델군으로 3B 모델과 이를 압축한 1.3B 모델의 Base/Instruct 가중치를 제공 Kanana-2-3B는 TPU 클러스터에서 처음부터 사전학습한 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32124"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c732281c6d7ada53f55401918b8cda1e6048768b38d9b87c1f3f03b7d1da6314",
+      "dedupeKey": "brief:opp_130093bca766e6ef00e4:sha256:c732281c6d7ada53f55401918b8cda1e6048768b38d9b87c1f3f03b7d1da6314",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_480b1a2d8d5b5b51e360": {
+      "id": "opp_480b1a2d8d5b5b51e360",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32119",
+      "canonicalUrl": "https://www.seangoedecke.com/llms-reward-expertise",
+      "title": "LLM은 전문성을 보상함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T08:31:58+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM 덕분에 누구나 여러 분야에서 준수한 결과를 만들 수 있지만, 같은 모델에서 더 큰 가치를 끌어내는 핵심은 프롬프트 기법보다 도메인 전문성...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32119"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de5ef2d6699b3c726fb1a75acfdf43d972f02176396c52d09bb7bfba8a7a9389",
+      "dedupeKey": "brief:opp_480b1a2d8d5b5b51e360:sha256:de5ef2d6699b3c726fb1a75acfdf43d972f02176396c52d09bb7bfba8a7a9389",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5209d11d79b6f2c4ace4": {
+      "id": "opp_5209d11d79b6f2c4ace4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32127",
+      "canonicalUrl": "https://x.com/addyosmani/status/2084354578196443351",
+      "title": "안목, 판단 그리고 AI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T10:04:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안목(taste) 은 충분한 증거가 없어도 무엇이 뛰어난지 알아보는 능력이며, 판단(judgment) 은 위험과 결과를 감수하고 그 선택을 실제 작업으로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32127"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
+      "dedupeKey": "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_37376b9a6546eec284c8": {
+      "id": "opp_37376b9a6546eec284c8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32123",
+      "canonicalUrl": "https://github.com/lobehub/lobehub",
+      "title": "LobeHub - AI 팀 전체를 고용/스케줄링/보고하는 Chief Agent Operator",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "여러 AI 에이전트를 한 곳에서 고용/스케줄링/보고하며 7×24 운영 체제로 조직화, 사용자가 상시 접속하지 않아도 AI 팀 관리 가능 작업 단위로서...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32123"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c873142e6da1fdc80139dda163a2fb69a3b2577cf1ba2ea350dbac7411fdf9d8",
+      "dedupeKey": "brief:opp_37376b9a6546eec284c8:sha256:c873142e6da1fdc80139dda163a2fb69a3b2577cf1ba2ea350dbac7411fdf9d8",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ce9e285208a7bb53444f": {
+      "id": "opp_ce9e285208a7bb53444f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/apple-is-getting-this-wrong",
+      "canonicalUrl": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "Apple is getting this wrong",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "summaryEvidence": [
+        "https://openai.com/index/apple-is-getting-this-wrong"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ea57be685d95e5ae474b4d0b8be168c52db76447766b460cf00035fbdbabed7d",
+      "dedupeKey": "brief:opp_ce9e285208a7bb53444f:sha256:ea57be685d95e5ae474b4d0b8be168c52db76447766b460cf00035fbdbabed7d",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_15275a3b0b60e6ca0910": {
+      "id": "opp_15275a3b0b60e6ca0910",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "e0b2d6b19c7ccc1ebc71f0e81810fdfe608c0b28",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements",
+      "title": "Amazon Aurora 및 Amazon RDS의 PostgreSQL 18: 보안, 모니터링 및 개발자 기능 향상",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 06:30:52 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 AWS Blog의 “PostgreSQL 18 on Amazon Aurora and Amazon RDS: Security, monitoring, and developer enhancements” by Nazneen Jafri, Sukhpreet Kaur Bedi, Ranjan Burman, and Baji Shaik 게시글을 번역한 글 입니다. 이 시리즈의 1부에서는 스킵 스캔 최적화, 향상된 EXPLAIN 출력, 자동 셀프 조인 제거, vacuum/autovacuum 개선 사항을 포함한",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:957b0c6ab644bc398007ccd6cf6353327b460395956c6a3a5f68f8c5afe205ed",
+      "dedupeKey": "brief:opp_15275a3b0b60e6ca0910:sha256:957b0c6ab644bc398007ccd6cf6353327b460395956c6a3a5f68f8c5afe205ed",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aa75f16d059ff93b293d": {
+      "id": "opp_aa75f16d059ff93b293d",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "57e5845245c6ac3fcdd49bcad7abd7516e9ce092",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/training-world-models-on-scene-semantics-not-pixels",
+      "title": "합성 데이터 없이 로봇 월드 모델을 학습하는 방법",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 03:43:11 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 AWS Physical AI Blog에 게시된 Training World Models on Scene Semantics, Not Pixels을 번역 및 편집한 글입니다. 사전학습된 AI 모듈과 고전 컴퓨터 비전을 조합하여, 도메인 데이터나 합성 프레임 없이 일반 단안(monocular) 영상에서 장면 의미론(scene semantics)을 추출하는 새로운 로봇 월드 모델 학습법을 소개합니다. 소개 오늘날 로봇 AI 학습은 어디를 가나 같은 레시피를 따릅니다. 거대 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/training-world-models-on-scene-semantics-not-pixels/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e157d566d5377c6db2a75f96f3ccdacf15ff5031f0a36b56b81ef5224697fa1",
+      "dedupeKey": "brief:opp_aa75f16d059ff93b293d:sha256:6e157d566d5377c6db2a75f96f3ccdacf15ff5031f0a36b56b81ef5224697fa1",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e70343f7185c4ecb01c": {
+      "id": "opp_7e70343f7185c4ecb01c",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=26729",
+      "canonicalUrl": "https://techblog.woowahan.com/26729",
+      "title": "배포 없이 앱과 로컬 웹을 잇다",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T06:17:47.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며 배달의민족은 네이티브 앱과 웹으로 구성된 하이브리드 앱입니다. 배달의민족 앱을 열면 상단 탑바와 하단 탭바가 빠르게 반응하며 자연스럽게 전환되는 모습을 쉽게 확인할 수 있습니다. OS와 직접 상호작용하고 사용자의 입력에 즉각적으로 반응해야 하는 영역은 네이티브 앱이 맡습니다. 앱의 모든 화면을 네이티브로 구현할 필요는 없습니다. 빠르게 만들고 배포할 수 있는 웹의 장점을 살려, 일부 화면은 웹뷰로 구성합니다. […] The post 배포 없이 앱과 로컬 웹을 잇다 first appeare",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/26729/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dea6d272a6a7afe3164a4006ee85e7fb6c29c63d96f5b480534a9f0729a5a2e6",
+      "dedupeKey": "brief:opp_7e70343f7185c4ecb01c:sha256:dea6d272a6a7afe3164a4006ee85e7fb6c29c63d96f5b480534a9f0729a5a2e6",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_91b0210b8c412f047f41": {
+      "id": "opp_91b0210b8c412f047f41",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:RVeCbPg0liw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RVeCbPg0liw",
+      "title": "The #1 Claude Code Design Skill Just Got a HUGE Upgrade",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T03:09:41+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🟡Higgsfield: https://higgsfield.ai/s/chase-h-ai-tgvvbT ⚡Master Claude Code: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Lets defeat AI slop with the number one design skill in",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=RVeCbPg0liw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-04T03:09:41.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5aa0a26f229291ff369b0d7997bd781274880e0d5916c1ccbde9ade3a2534677",
+      "dedupeKey": "brief:opp_91b0210b8c412f047f41:sha256:5aa0a26f229291ff369b0d7997bd781274880e0d5916c1ccbde9ade3a2534677",
+      "firstSeenAt": "2026-08-04T09:06:07.318Z",
+      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -13767,6 +14262,42 @@
       "opportunityId": "opp_430f59b06745fd034292",
       "sentAt": "2026-08-04T02:39:26.245Z",
       "messageId": "1534027959562670142"
+    },
+    "brief:opp_15275a3b0b60e6ca0910:sha256:957b0c6ab644bc398007ccd6cf6353327b460395956c6a3a5f68f8c5afe205ed": {
+      "status": "SENT",
+      "opportunityId": "opp_15275a3b0b60e6ca0910",
+      "sentAt": "2026-08-04T09:06:07.318Z",
+      "messageId": "1534125272687841472"
+    },
+    "brief:opp_7e70343f7185c4ecb01c:sha256:dea6d272a6a7afe3164a4006ee85e7fb6c29c63d96f5b480534a9f0729a5a2e6": {
+      "status": "SENT",
+      "opportunityId": "opp_7e70343f7185c4ecb01c",
+      "sentAt": "2026-08-04T09:06:07.318Z",
+      "messageId": "1534125272687841472"
+    },
+    "brief:opp_aa75f16d059ff93b293d:sha256:6e157d566d5377c6db2a75f96f3ccdacf15ff5031f0a36b56b81ef5224697fa1": {
+      "status": "SENT",
+      "opportunityId": "opp_aa75f16d059ff93b293d",
+      "sentAt": "2026-08-04T09:06:07.318Z",
+      "messageId": "1534125272687841472"
+    },
+    "brief:opp_119c74e9ccc2c935c613:sha256:517b1c382eb7a96bef708193c01865ce86f2ca602a45c81f3a9d514282536293": {
+      "status": "SENT",
+      "opportunityId": "opp_119c74e9ccc2c935c613",
+      "sentAt": "2026-08-04T09:06:07.318Z",
+      "messageId": "1534125272687841472"
+    },
+    "brief:opp_130093bca766e6ef00e4:sha256:c732281c6d7ada53f55401918b8cda1e6048768b38d9b87c1f3f03b7d1da6314": {
+      "status": "SENT",
+      "opportunityId": "opp_130093bca766e6ef00e4",
+      "sentAt": "2026-08-04T09:06:07.318Z",
+      "messageId": "1534125272687841472"
+    },
+    "brief:opp_ce9e285208a7bb53444f:sha256:ea57be685d95e5ae474b4d0b8be168c52db76447766b460cf00035fbdbabed7d": {
+      "status": "SENT",
+      "opportunityId": "opp_ce9e285208a7bb53444f",
+      "sentAt": "2026-08-04T09:06:07.318Z",
+      "messageId": "1534125272687841472"
     }
   },
   "pending": {},
