@@ -12558,26 +12558,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
-        "contentScore": 13,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 14,
         "contentScoreBreakdown": {
-          "total": 13,
+          "total": 14,
           "relevance": 4,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:de5ef2d6699b3c726fb1a75acfdf43d972f02176396c52d09bb7bfba8a7a9389",
       "dedupeKey": "brief:opp_480b1a2d8d5b5b51e360:sha256:de5ef2d6699b3c726fb1a75acfdf43d972f02176396c52d09bb7bfba8a7a9389",
-      "firstSeenAt": "2026-08-04T09:06:07.318Z",
-      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "firstSeenAt": "2026-08-04T11:21:48.112Z",
+      "lastSeenAt": "2026-08-04T11:21:48.112Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -12607,7 +12607,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 7,
         "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -12622,8 +12622,8 @@
       },
       "contentHash": "sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
       "dedupeKey": "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
-      "firstSeenAt": "2026-08-04T09:06:07.318Z",
-      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "firstSeenAt": "2026-08-04T11:21:48.112Z",
+      "lastSeenAt": "2026-08-04T11:21:48.112Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -12657,7 +12657,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 8,
+        "communityRank": 10,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -12671,11 +12671,11 @@
       },
       "contentHash": "sha256:c873142e6da1fdc80139dda163a2fb69a3b2577cf1ba2ea350dbac7411fdf9d8",
       "dedupeKey": "brief:opp_37376b9a6546eec284c8:sha256:c873142e6da1fdc80139dda163a2fb69a3b2577cf1ba2ea350dbac7411fdf9d8",
-      "firstSeenAt": "2026-08-04T09:06:07.318Z",
-      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "firstSeenAt": "2026-08-04T11:21:48.112Z",
+      "lastSeenAt": "2026-08-04T11:21:48.112Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -12921,11 +12921,117 @@
       },
       "contentHash": "sha256:5aa0a26f229291ff369b0d7997bd781274880e0d5916c1ccbde9ade3a2534677",
       "dedupeKey": "brief:opp_91b0210b8c412f047f41:sha256:5aa0a26f229291ff369b0d7997bd781274880e0d5916c1ccbde9ade3a2534677",
-      "firstSeenAt": "2026-08-04T09:06:07.318Z",
-      "lastSeenAt": "2026-08-04T09:06:07.318Z",
+      "firstSeenAt": "2026-08-04T11:21:48.112Z",
+      "lastSeenAt": "2026-08-04T11:21:48.112Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90338645a95cc4be62d6": {
+      "id": "opp_90338645a95cc4be62d6",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:WFzDHTDqJWc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WFzDHTDqJWc",
+      "title": "[한영자막] 알렉산더 왕: \"문명사에 한 번 있을까 말까 한 기회입니다\"",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T09:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Scale AI를 창업하고 지금은 메타 슈퍼인텔리전스랩을 이끄는 알렉산더 왕이 Y Combinator 스타트업 스쿨 무대에 올랐습니다. 창업 초기의 확신, 메타에서 겪은 1년, 그리고 18살의 자신에게 남기고 싶은 조언까지 솔직하게 들려줍니다. 주요 내용 - 아무도 믿지 않던 신념 하나에서 시작해 Scale AI를 만든 과정 - 메타 합류 후 라마 이후 프런티어 연구소를 제로베이스로 다시 세운 9개월 - AI 시대에 정말 희소해지는 자원은 지능이 아니라 비전과 야망이라는 통찰 - 코드 대신 에이전",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=WFzDHTDqJWc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-04T09:00:28.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:40eeb39c3b505f3ca501d3e2a622212530b6c8ee60366a537837867b9c20f84a",
+      "dedupeKey": "brief:opp_90338645a95cc4be62d6:sha256:40eeb39c3b505f3ca501d3e2a622212530b6c8ee60366a537837867b9c20f84a",
+      "firstSeenAt": "2026-08-04T11:21:48.112Z",
+      "lastSeenAt": "2026-08-04T11:21:48.112Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6767e8dfd2ad88a61777": {
+      "id": "opp_6767e8dfd2ad88a61777",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:UmagGR3fjRA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UmagGR3fjRA",
+      "title": "미국 창업은 뭐가 다를까? | 실리콘밸리 스타트업 플레이북, 오늘 일 재밌었어 | 이오서재",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T09:45:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "오늘의 이오서재는 특별편으로 준비했습니다. YC로 미국을 첫 경험한 한국의 창업자 분들을 모셔 인사이트를 들어보았습니다. - 쿼리파이로 YC를 한 번에 뚫고, 지금은 한국 스타트업의 미국 진출을 돕고 있는 Outsome 피터 신 대표, (YC 20 Batch) - K-뷰티 스타트업의 원조격이자 현재 매출의 90% 이상이 미국에서 발생하는, 한국의 첫 YC 기업인 미미박스의 하형석 대표, (YC 14 Batch) - 요즘 가장 핫한 AI 브라우저 Aside를 만들고 있는 이상훈 공동창업자/CTO를",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=UmagGR3fjRA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-04T09:45:29.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0351d500ed23f88b0c2d5da431ab09c85d4f4f4287f4bdbee58542876d7d4964",
+      "dedupeKey": "brief:opp_6767e8dfd2ad88a61777:sha256:0351d500ed23f88b0c2d5da431ab09c85d4f4f4287f4bdbee58542876d7d4964",
+      "firstSeenAt": "2026-08-04T11:21:48.112Z",
+      "lastSeenAt": "2026-08-04T11:21:48.112Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -14298,6 +14404,36 @@
       "opportunityId": "opp_ce9e285208a7bb53444f",
       "sentAt": "2026-08-04T09:06:07.318Z",
       "messageId": "1534125272687841472"
+    },
+    "brief:opp_480b1a2d8d5b5b51e360:sha256:de5ef2d6699b3c726fb1a75acfdf43d972f02176396c52d09bb7bfba8a7a9389": {
+      "status": "SENT",
+      "opportunityId": "opp_480b1a2d8d5b5b51e360",
+      "sentAt": "2026-08-04T11:21:48.112Z",
+      "messageId": "1534159417518461073"
+    },
+    "brief:opp_91b0210b8c412f047f41:sha256:5aa0a26f229291ff369b0d7997bd781274880e0d5916c1ccbde9ade3a2534677": {
+      "status": "SENT",
+      "opportunityId": "opp_91b0210b8c412f047f41",
+      "sentAt": "2026-08-04T11:21:48.112Z",
+      "messageId": "1534159417518461073"
+    },
+    "brief:opp_37376b9a6546eec284c8:sha256:c873142e6da1fdc80139dda163a2fb69a3b2577cf1ba2ea350dbac7411fdf9d8": {
+      "status": "SENT",
+      "opportunityId": "opp_37376b9a6546eec284c8",
+      "sentAt": "2026-08-04T11:21:48.112Z",
+      "messageId": "1534159417518461073"
+    },
+    "brief:opp_6767e8dfd2ad88a61777:sha256:0351d500ed23f88b0c2d5da431ab09c85d4f4f4287f4bdbee58542876d7d4964": {
+      "status": "SENT",
+      "opportunityId": "opp_6767e8dfd2ad88a61777",
+      "sentAt": "2026-08-04T11:21:48.112Z",
+      "messageId": "1534159417518461073"
+    },
+    "brief:opp_90338645a95cc4be62d6:sha256:40eeb39c3b505f3ca501d3e2a622212530b6c8ee60366a537837867b9c20f84a": {
+      "status": "SENT",
+      "opportunityId": "opp_90338645a95cc4be62d6",
+      "sentAt": "2026-08-04T11:21:48.112Z",
+      "messageId": "1534159417518461073"
     }
   },
   "pending": {},
