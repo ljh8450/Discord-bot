@@ -12140,6 +12140,299 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_0611dfe604e0b017869f": {
+      "id": "opp_0611dfe604e0b017869f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32128",
+      "canonicalUrl": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms?hl=ko",
+      "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T10:11:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google 검색과 디스커버에서 소셜 및 동영상 게시물의 실적을 추적하는 새로운 Search Console 속성 유형인 플랫폼 속성 도입 Instagram, TikTok, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32128"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7b486f80bd5ff61255ca7fae2d814b1ba8f27522bd05066b876c6037b49ce174",
+      "dedupeKey": "brief:opp_0611dfe604e0b017869f:sha256:7b486f80bd5ff61255ca7fae2d814b1ba8f27522bd05066b876c6037b49ce174",
+      "firstSeenAt": "2026-08-04T02:39:26.245Z",
+      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_430f59b06745fd034292": {
+      "id": "opp_430f59b06745fd034292",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32107",
+      "canonicalUrl": "https://news.hada.io/topic?id=32107",
+      "title": "Show GN: Book Studio",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T23:58:21+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "그동안 PDF로 된 책을 웹 문서로 옮겨 혼자 읽어왔습니다. 챕터를 나눠 탐색하고, 필요한 내용을 검색하고, 밑줄과 메모를 남기니 일반 PDF 뷰어보...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32107"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:333d72bdc2b0b541dcce55d2faebf4688cd20a5d6f3be39b656ad133c4996f87",
+      "dedupeKey": "brief:opp_430f59b06745fd034292:sha256:333d72bdc2b0b541dcce55d2faebf4688cd20a5d6f3be39b656ad133c4996f87",
+      "firstSeenAt": "2026-08-04T02:39:26.245Z",
+      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9ce8023492fcbfebccca": {
+      "id": "opp_9ce8023492fcbfebccca",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32099",
+      "canonicalUrl": "https://news.hada.io/topic?id=32099",
+      "title": "Show GN: AI 직원들이 일하는 1인 회사를 3D 관제실로 공개했습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T19:27:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "학원에서 수학을 가르치고, 퇴근하면 AI 직원들이 돌리는 두 번째 회사가 있습니다. 새벽에 시장 데이터를 모아 유튜브 쇼츠를 만들어 올리고, 매...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32099"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:81657c5e9aee67b5d0b02efefe7dfa8e19252da1586c68440063fb8af63db00c",
+      "dedupeKey": "brief:opp_9ce8023492fcbfebccca:sha256:81657c5e9aee67b5d0b02efefe7dfa8e19252da1586c68440063fb8af63db00c",
+      "firstSeenAt": "2026-08-04T02:39:26.245Z",
+      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d246a3db0a57a21e65e3": {
+      "id": "opp_d246a3db0a57a21e65e3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32070",
+      "canonicalUrl": "https://twitter.com/karpathy/status/2083749667410727319",
+      "title": "Karpathy의 펠리컨",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-03T05:31:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM 평가는 ‘자전거를 탄 펠리컨 SVG 만들기’ 같은 단일 결과물에서 벗어나, 세계와 게임을 절차적으로 구현하는 장시간 작업으로 확장되기 시작함...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32070"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 20,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a0a5228596fac218e95960ae5eab5a39e79c83a75d4ca4fe30aae34851e6bf0e",
+      "dedupeKey": "brief:opp_d246a3db0a57a21e65e3:sha256:a0a5228596fac218e95960ae5eab5a39e79c83a75d4ca4fe30aae34851e6bf0e",
+      "firstSeenAt": "2026-08-04T02:39:26.245Z",
+      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2a9b8d892be5109961fd": {
+      "id": "opp_2a9b8d892be5109961fd",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/circles",
+      "canonicalUrl": "https://openai.com/index/circles",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "summaryEvidence": [
+        "https://openai.com/index/circles"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:76a768a705bcf60684f1bd03183c54d2b2fef6091fdb3b592d71b3afed734a0a",
+      "dedupeKey": "brief:opp_2a9b8d892be5109961fd:sha256:76a768a705bcf60684f1bd03183c54d2b2fef6091fdb3b592d71b3afed734a0a",
+      "firstSeenAt": "2026-08-04T02:39:26.245Z",
+      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_97d6a125fca37b2a8c2f": {
+      "id": "opp_97d6a125fca37b2a8c2f",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/3fa344b4391b",
+      "canonicalUrl": "https://medium.com/daangn/%EC%8B%A4%ED%97%98%EC%9D%84-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%A0-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%8B%B9%EA%B7%BC-%EC%8B%A4%ED%97%98%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0-3fa344b4391b?source=rss----4505f82a2dbd---4",
+      "title": "실험을 더 편하게 설계할 수 있게: 당근 실험플랫폼 이야기",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 01:34:28 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요. 당근 데이터 가치화팀이에요. 저희 팀은 ‘매일 데이터를 통해 사용자를 위한 의사결정을 해요’라는 비전 아래, 전사 구성원이 데이터로 더 나은 결정을 내릴 수 있도록 인프라와 도구들을 만들고 있어요. 그중 하나가 실험플랫폼 이에요. 어떤 안이 더 나은지 A/B 테스트로 검증할 수 있도록, 실험의 설계부터 결과 분석까지 한곳에서 지원하는 사내 플랫폼이죠. 약 3년 전, 100+ 팀원의 의사결정에 영향을 주는 Data Scientist, Decision : 실험플랫폼 에서 실험플랫폼이 처음",
+      "summaryEvidence": [
+        "https://medium.com/daangn/%EC%8B%A4%ED%97%98%EC%9D%84-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%A0-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%8B%B9%EA%B7%BC-%EC%8B%A4%ED%97%98%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0-3fa344b4391b?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2b78b7ede4db7f1a84e15bd09e93c7eb77660417815cc51bf35b5060b50f4fe2",
+      "dedupeKey": "brief:opp_97d6a125fca37b2a8c2f:sha256:2b78b7ede4db7f1a84e15bd09e93c7eb77660417815cc51bf35b5060b50f4fe2",
+      "firstSeenAt": "2026-08-04T02:39:26.245Z",
+      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -13450,6 +13743,30 @@
       "opportunityId": "opp_3f0a2219210f459382d5",
       "sentAt": "2026-08-04T00:05:20.433Z",
       "messageId": "1533989180823175300"
+    },
+    "brief:opp_97d6a125fca37b2a8c2f:sha256:2b78b7ede4db7f1a84e15bd09e93c7eb77660417815cc51bf35b5060b50f4fe2": {
+      "status": "SENT",
+      "opportunityId": "opp_97d6a125fca37b2a8c2f",
+      "sentAt": "2026-08-04T02:39:26.245Z",
+      "messageId": "1534027959562670142"
+    },
+    "brief:opp_2a9b8d892be5109961fd:sha256:76a768a705bcf60684f1bd03183c54d2b2fef6091fdb3b592d71b3afed734a0a": {
+      "status": "SENT",
+      "opportunityId": "opp_2a9b8d892be5109961fd",
+      "sentAt": "2026-08-04T02:39:26.245Z",
+      "messageId": "1534027959562670142"
+    },
+    "brief:opp_0611dfe604e0b017869f:sha256:7b486f80bd5ff61255ca7fae2d814b1ba8f27522bd05066b876c6037b49ce174": {
+      "status": "SENT",
+      "opportunityId": "opp_0611dfe604e0b017869f",
+      "sentAt": "2026-08-04T02:39:26.245Z",
+      "messageId": "1534027959562670142"
+    },
+    "brief:opp_430f59b06745fd034292:sha256:333d72bdc2b0b541dcce55d2faebf4688cd20a5d6f3be39b656ad133c4996f87": {
+      "status": "SENT",
+      "opportunityId": "opp_430f59b06745fd034292",
+      "sentAt": "2026-08-04T02:39:26.245Z",
+      "messageId": "1534027959562670142"
     }
   },
   "pending": {},
