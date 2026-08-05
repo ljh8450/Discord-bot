@@ -12607,7 +12607,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
+        "communityPoints": 12,
         "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -12622,11 +12622,11 @@
       },
       "contentHash": "sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
       "dedupeKey": "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
-      "firstSeenAt": "2026-08-05T09:06:19.896Z",
-      "lastSeenAt": "2026-08-05T09:06:19.896Z",
+      "firstSeenAt": "2026-08-05T11:18:08.742Z",
+      "lastSeenAt": "2026-08-05T11:18:08.742Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -13566,11 +13566,11 @@
       },
       "contentHash": "sha256:e1e3045d9233537a19c48f9dd44a7509570f5b7f5fb17021938fed0cad35396c",
       "dedupeKey": "brief:opp_92901d59311a2049b66c:sha256:e1e3045d9233537a19c48f9dd44a7509570f5b7f5fb17021938fed0cad35396c",
-      "firstSeenAt": "2026-08-05T09:06:19.896Z",
-      "lastSeenAt": "2026-08-05T09:06:19.896Z",
+      "firstSeenAt": "2026-08-05T11:18:08.742Z",
+      "lastSeenAt": "2026-08-05T11:18:08.742Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -13621,6 +13621,112 @@
       "dedupeKey": "brief:opp_7837fadd47d5f4957002:sha256:22385d9d1570922562ebffdd874277e0e63df3c8f9a0a21e1354ae354b27c293",
       "firstSeenAt": "2026-08-05T09:06:19.896Z",
       "lastSeenAt": "2026-08-05T09:06:19.896Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e664980b17e5f081142e": {
+      "id": "opp_e664980b17e5f081142e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:IUeXLIuToyU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IUeXLIuToyU",
+      "title": "[한영자막] 모델만 바꿨는데, 왜 스킬이 안 먹혔을까?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "FactSet 수석 AI 엔지니어 Yogendra Miraje가 스킬 중심 에이전틱 제품을 만들면서 얻은 실전 노하우를 공유합니다. 모델을 바꿨을 뿐인데 스킬이 갑자기 안 먹혔던 사례부터, 스킬이 수백 개로 늘어났을 때 필요한 거버넌스까지 다룹니다. 주요 포인트 - 프롬프트는 에이전트의 정체성을, 툴은 연결 대상을, 스킬은 일하는 방법을 정의합니다. - 설명(description)은 스킬을 고르는 라우팅 신호이므로 사용자 요청 기준으로 명확하고 서로 구분되게 써야 합니다. - 모델을 업그레이드하면",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=IUeXLIuToyU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-05T09:00:37.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1c604700e6879791dc5c9600f9edacbc49a06b7b6140334710cb7beaf535b736",
+      "dedupeKey": "brief:opp_e664980b17e5f081142e:sha256:1c604700e6879791dc5c9600f9edacbc49a06b7b6140334710cb7beaf535b736",
+      "firstSeenAt": "2026-08-05T11:18:08.742Z",
+      "lastSeenAt": "2026-08-05T11:18:08.742Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_da448f9d5231d64f3c79": {
+      "id": "opp_da448f9d5231d64f3c79",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:_xJYgbQqPqU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_xJYgbQqPqU",
+      "title": "AI 이미지, ‘생성’보다 중요한 건 따로 있습니다",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T11:00:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🕖목차 0:00 인트로 0:54 어도비 파이어플라이 소개 1:39 마크업 기능 소개 2:41 디테일 조절 기능 소개 3:29 기타 기능 4:23 어도비 파이어플라이의 미래 5:04 총 정리/아웃트로 VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, violet8mira님, 천사슥님, 예스타님, yubizen님, shintony667님, bellati",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_xJYgbQqPqU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-05T11:00:35.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6f97ca2a06c32462ab5ca0cc8d8fd86960c357aacd0589266e8aa93f6208f82c",
+      "dedupeKey": "brief:opp_da448f9d5231d64f3c79:sha256:6f97ca2a06c32462ab5ca0cc8d8fd86960c357aacd0589266e8aa93f6208f82c",
+      "firstSeenAt": "2026-08-05T11:18:08.742Z",
+      "lastSeenAt": "2026-08-05T11:18:08.742Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -15092,6 +15198,30 @@
       "opportunityId": "opp_1a44e869036bf268f801",
       "sentAt": "2026-08-05T09:06:19.896Z",
       "messageId": "1534487712529125399"
+    },
+    "brief:opp_da448f9d5231d64f3c79:sha256:6f97ca2a06c32462ab5ca0cc8d8fd86960c357aacd0589266e8aa93f6208f82c": {
+      "status": "SENT",
+      "opportunityId": "opp_da448f9d5231d64f3c79",
+      "sentAt": "2026-08-05T11:18:08.742Z",
+      "messageId": "1534520884558037133"
+    },
+    "brief:opp_e664980b17e5f081142e:sha256:1c604700e6879791dc5c9600f9edacbc49a06b7b6140334710cb7beaf535b736": {
+      "status": "SENT",
+      "opportunityId": "opp_e664980b17e5f081142e",
+      "sentAt": "2026-08-05T11:18:08.742Z",
+      "messageId": "1534520884558037133"
+    },
+    "brief:opp_92901d59311a2049b66c:sha256:e1e3045d9233537a19c48f9dd44a7509570f5b7f5fb17021938fed0cad35396c": {
+      "status": "SENT",
+      "opportunityId": "opp_92901d59311a2049b66c",
+      "sentAt": "2026-08-05T11:18:08.742Z",
+      "messageId": "1534520884558037133"
+    },
+    "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7": {
+      "status": "SENT",
+      "opportunityId": "opp_5209d11d79b6f2c4ace4",
+      "sentAt": "2026-08-05T11:18:08.742Z",
+      "messageId": "1534520884558037133"
     }
   },
   "pending": {},
