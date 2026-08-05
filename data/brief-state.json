@@ -12607,8 +12607,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 15,
+        "communityPoints": 11,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -12622,8 +12622,8 @@
       },
       "contentHash": "sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
       "dedupeKey": "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
-      "firstSeenAt": "2026-08-05T02:37:41.654Z",
-      "lastSeenAt": "2026-08-05T02:37:41.654Z",
+      "firstSeenAt": "2026-08-05T09:06:19.896Z",
+      "lastSeenAt": "2026-08-05T09:06:19.896Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -13453,8 +13453,57 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
+        "communityPoints": 23,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 2
+        }
+      },
+      "contentHash": "sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1",
+      "dedupeKey": "brief:opp_bdb064452a9ed8d0b5a4:sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1",
+      "firstSeenAt": "2026-08-05T09:06:19.896Z",
+      "lastSeenAt": "2026-08-05T09:06:19.896Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1a44e869036bf268f801": {
+      "id": "opp_1a44e869036bf268f801",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32162",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CnMxvv4glDM",
+      "title": "디자인 시스템의 미래 [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T10:08:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 시대의 디자인 시스템은 디자인을 코드로 넘기는 기존 흐름을 넘어, AI가 만든 제품을 역설계해 일관된 코드와 캔버스로 되돌리는 코드 중심 워...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32162"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 3,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -13466,13 +13515,115 @@
           "community": 0
         }
       },
-      "contentHash": "sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1",
-      "dedupeKey": "brief:opp_bdb064452a9ed8d0b5a4:sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1",
-      "firstSeenAt": "2026-08-05T02:37:41.654Z",
-      "lastSeenAt": "2026-08-05T02:37:41.654Z",
+      "contentHash": "sha256:66b9e05f6a3c1cb65bd4d6ff51f42e3b889645dd84b8068ca82dd3c7b3afc749",
+      "dedupeKey": "brief:opp_1a44e869036bf268f801:sha256:66b9e05f6a3c1cb65bd4d6ff51f42e3b889645dd84b8068ca82dd3c7b3afc749",
+      "firstSeenAt": "2026-08-05T09:06:19.896Z",
+      "lastSeenAt": "2026-08-05T09:06:19.896Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_92901d59311a2049b66c": {
+      "id": "opp_92901d59311a2049b66c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32153",
+      "canonicalUrl": "https://soppolang.dev/",
+      "title": "Soppo - Go에 빠진 기능을 더한 언어",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:02:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Soppo는 Go 문법과 도구를 유지하면서 타입 안전성과 개발 편의 기능을 더하고, 기존 Go 라이브러리와 완전히 상호 운용됨 구조체 변형을 지원하는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32153"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e1e3045d9233537a19c48f9dd44a7509570f5b7f5fb17021938fed0cad35396c",
+      "dedupeKey": "brief:opp_92901d59311a2049b66c:sha256:e1e3045d9233537a19c48f9dd44a7509570f5b7f5fb17021938fed0cad35396c",
+      "firstSeenAt": "2026-08-05T09:06:19.896Z",
+      "lastSeenAt": "2026-08-05T09:06:19.896Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7837fadd47d5f4957002": {
+      "id": "opp_7837fadd47d5f4957002",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:rP8c5eHbI84",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rP8c5eHbI84",
+      "title": "AI 결과물을 검증하는 4가지 방법",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#바이브코딩 #클로드코드 #AI코딩 AI가 \"다 됐습니다\" 하면, 그 말을 누가 검사하나요? AI한테 검토를 시키면 대부분 통과합니다. 자기가 짠 코드를 자기가 보기 때문입니다. 오늘은 AI가 만든 결과물을 실제로 믿고 쓸 수 있게 만드는 방법 네 가지를 정리했습니다. 모델을 바꾸는 게 아니라 순서를 바꾸는 이야기입니다. 🍿 타임스탬프 0:00 AI는 자기 실수를 못 찾습니다 0:41 왜 못 찾을까 1:31 1. 검사는 처음 보는 쪽한테 3:09 2. 기준을 코드보다 먼저 5:34 3. 쓰면 하",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=rP8c5eHbI84"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-05T09:00:25.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:22385d9d1570922562ebffdd874277e0e63df3c8f9a0a21e1354ae354b27c293",
+      "dedupeKey": "brief:opp_7837fadd47d5f4957002:sha256:22385d9d1570922562ebffdd874277e0e63df3c8f9a0a21e1354ae354b27c293",
+      "firstSeenAt": "2026-08-05T09:06:19.896Z",
+      "lastSeenAt": "2026-08-05T09:06:19.896Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -14923,6 +15074,24 @@
       "opportunityId": "opp_a64cb338f0f6cd4d2221",
       "sentAt": "2026-08-05T02:37:41.654Z",
       "messageId": "1534389909585002507"
+    },
+    "brief:opp_7837fadd47d5f4957002:sha256:22385d9d1570922562ebffdd874277e0e63df3c8f9a0a21e1354ae354b27c293": {
+      "status": "SENT",
+      "opportunityId": "opp_7837fadd47d5f4957002",
+      "sentAt": "2026-08-05T09:06:19.896Z",
+      "messageId": "1534487712529125399"
+    },
+    "brief:opp_bdb064452a9ed8d0b5a4:sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1": {
+      "status": "SENT",
+      "opportunityId": "opp_bdb064452a9ed8d0b5a4",
+      "sentAt": "2026-08-05T09:06:19.896Z",
+      "messageId": "1534487712529125399"
+    },
+    "brief:opp_1a44e869036bf268f801:sha256:66b9e05f6a3c1cb65bd4d6ff51f42e3b889645dd84b8068ca82dd3c7b3afc749": {
+      "status": "SENT",
+      "opportunityId": "opp_1a44e869036bf268f801",
+      "sentAt": "2026-08-05T09:06:19.896Z",
+      "messageId": "1534487712529125399"
     }
   },
   "pending": {},
