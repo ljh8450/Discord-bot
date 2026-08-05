@@ -12607,23 +12607,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 6,
+        "communityPoints": 10,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
       "dedupeKey": "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
-      "firstSeenAt": "2026-08-05T00:05:49.126Z",
-      "lastSeenAt": "2026-08-05T00:05:49.126Z",
+      "firstSeenAt": "2026-08-05T02:37:41.654Z",
+      "lastSeenAt": "2026-08-05T02:37:41.654Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -13326,6 +13326,153 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a64cb338f0f6cd4d2221": {
+      "id": "opp_a64cb338f0f6cd4d2221",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32159",
+      "canonicalUrl": "https://www.youtube.com/watch?v=t0GiTyz4syY",
+      "title": "Netflix가 AI 시대에 전문가보다 시스템 사고형 인재에 베팅하는 이유 (유튜브)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:44:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "생성형 AI로 PM·디자이너·데이터 과학자가 프로토타입과 코드 작성까지 맡게 됐지만, Netflix는 이를 직무의 소멸이 아닌 역할이 재편되는 stormin...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32159"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:38957327f6310020607453a9ff91e5e80fef86521640bc0855403a5cb3cfe53b",
+      "dedupeKey": "brief:opp_a64cb338f0f6cd4d2221:sha256:38957327f6310020607453a9ff91e5e80fef86521640bc0855403a5cb3cfe53b",
+      "firstSeenAt": "2026-08-05T02:37:41.654Z",
+      "lastSeenAt": "2026-08-05T02:37:41.654Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a9f0a77f5083dbdfaeaa": {
+      "id": "opp_a9f0a77f5083dbdfaeaa",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32160",
+      "canonicalUrl": "https://www.uxtigers.com/post/gui-widgets",
+      "title": "모든 사용자 인터페이스를 구성하는 10가지 GUI 디자인 요소",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:55:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "거의 모든 화면은 버튼, 폼, 메뉴, 링크, 대화상자, 알림, 아이콘, 체크박스·라디오 버튼, 탭, 검색이라는 상호작용 알파벳으로 구성되며, 수십 년...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32160"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4f8e2c4dc393f983ed873b76579d71e789909675acf447e8836e81306cde7131",
+      "dedupeKey": "brief:opp_a9f0a77f5083dbdfaeaa:sha256:4f8e2c4dc393f983ed873b76579d71e789909675acf447e8836e81306cde7131",
+      "firstSeenAt": "2026-08-05T02:37:41.654Z",
+      "lastSeenAt": "2026-08-05T02:37:41.654Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bdb064452a9ed8d0b5a4": {
+      "id": "opp_bdb064452a9ed8d0b5a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32156",
+      "canonicalUrl": "https://www.canva.dev/blog/engineering/session-revocations-at-scale",
+      "title": "Canva는 어떻게 수억 건의 사용자 세션을 빠르고 안전하게 유지할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:28:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Canva는 초당 수십만 건의 요청이 쏟아지는 수억 명의 사용자 세션을 검증하면서, 배포 때마다 게이트웨이 수백 개가 MySQL에서 100만 건 이상의 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32156"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1",
+      "dedupeKey": "brief:opp_bdb064452a9ed8d0b5a4:sha256:c3f6f5c07ffc24e42a87cf78cabb00561aff9d8f20c00c8a83afa0b3f5f427f1",
+      "firstSeenAt": "2026-08-05T02:37:41.654Z",
+      "lastSeenAt": "2026-08-05T02:37:41.654Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -14764,6 +14911,18 @@
       "opportunityId": "opp_71ce4727c6df0cd33f1a",
       "sentAt": "2026-08-05T00:05:49.126Z",
       "messageId": "1534351689706901519"
+    },
+    "brief:opp_a9f0a77f5083dbdfaeaa:sha256:4f8e2c4dc393f983ed873b76579d71e789909675acf447e8836e81306cde7131": {
+      "status": "SENT",
+      "opportunityId": "opp_a9f0a77f5083dbdfaeaa",
+      "sentAt": "2026-08-05T02:37:41.654Z",
+      "messageId": "1534389909585002507"
+    },
+    "brief:opp_a64cb338f0f6cd4d2221:sha256:38957327f6310020607453a9ff91e5e80fef86521640bc0855403a5cb3cfe53b": {
+      "status": "SENT",
+      "opportunityId": "opp_a64cb338f0f6cd4d2221",
+      "sentAt": "2026-08-05T02:37:41.654Z",
+      "messageId": "1534389909585002507"
     }
   },
   "pending": {},
