@@ -12314,14 +12314,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 6,
         "communityRank": 20,
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -12329,8 +12329,8 @@
       },
       "contentHash": "sha256:a0a5228596fac218e95960ae5eab5a39e79c83a75d4ca4fe30aae34851e6bf0e",
       "dedupeKey": "brief:opp_d246a3db0a57a21e65e3:sha256:a0a5228596fac218e95960ae5eab5a39e79c83a75d4ca4fe30aae34851e6bf0e",
-      "firstSeenAt": "2026-08-04T02:39:26.245Z",
-      "lastSeenAt": "2026-08-04T02:39:26.245Z",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -12607,7 +12607,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 9,
         "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -12622,8 +12622,8 @@
       },
       "contentHash": "sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
       "dedupeKey": "brief:opp_5209d11d79b6f2c4ace4:sha256:cf6c839ba1d82edc358502390320ac8bd01d36c80fb4f46e2ebcd6d7b9fda4b7",
-      "firstSeenAt": "2026-08-04T11:21:48.112Z",
-      "lastSeenAt": "2026-08-04T11:21:48.112Z",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -13029,6 +13029,300 @@
       "dedupeKey": "brief:opp_6767e8dfd2ad88a61777:sha256:0351d500ed23f88b0c2d5da431ab09c85d4f4f4287f4bdbee58542876d7d4964",
       "firstSeenAt": "2026-08-04T11:21:48.112Z",
       "lastSeenAt": "2026-08-04T11:21:48.112Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_11c8a29e9658554d573c": {
+      "id": "opp_11c8a29e9658554d573c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "canonicalUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "summaryEvidence": [
+        "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:02f9798ff3d8ec79aaeb201489056c7e474571955d1722ff56353958be64185f",
+      "dedupeKey": "brief:opp_11c8a29e9658554d573c:sha256:02f9798ff3d8ec79aaeb201489056c7e474571955d1722ff56353958be64185f",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2da7b4bcc0031e5cc0b6": {
+      "id": "opp_2da7b4bcc0031e5cc0b6",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "canonicalUrl": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "summaryEvidence": [
+        "https://openai.com/index/learn-teach-chatgpt-work-codex"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:52e8510040148f805e66e62037293968bc56e4b0c71379e9f735d604d3b8423a",
+      "dedupeKey": "brief:opp_2da7b4bcc0031e5cc0b6:sha256:52e8510040148f805e66e62037293968bc56e4b0c71379e9f735d604d3b8423a",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_71ce4727c6df0cd33f1a": {
+      "id": "opp_71ce4727c6df0cd33f1a",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/tino-cuellar",
+      "canonicalUrl": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/tino-cuellar"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:63f1e8edd5291fca6861e0032f1c202185d33a9f7bff7a9018dd7665f77abbb5",
+      "dedupeKey": "brief:opp_71ce4727c6df0cd33f1a:sha256:63f1e8edd5291fca6861e0032f1c202185d33a9f7bff7a9018dd7665f77abbb5",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_730a6a48c9fa905e2329": {
+      "id": "opp_730a6a48c9fa905e2329",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97698",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 19:02:34 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2b74c94074dc950b28dbcbaae23f118579a679a3dbdbb423ee20acbfa7e278b8",
+      "dedupeKey": "brief:opp_730a6a48c9fa905e2329:sha256:2b74c94074dc950b28dbcbaae23f118579a679a3dbdbb423ee20acbfa7e278b8",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_87d8c80755193a17464e": {
+      "id": "opp_87d8c80755193a17464e",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97894",
+      "canonicalUrl": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 04 Aug 2026 16:47:18 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:afed5729d746e24cf4bc707b235ea29ccb11e538a59e02230606d1b24058fe11",
+      "dedupeKey": "brief:opp_87d8c80755193a17464e:sha256:afed5729d746e24cf4bc707b235ea29ccb11e538a59e02230606d1b24058fe11",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d8f1fe6dc8481645f81": {
+      "id": "opp_9d8f1fe6dc8481645f81",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:81EIe6h7mnw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=81EIe6h7mnw",
+      "title": "에이전트가 올린 5만 5천 줄 PR — Notion 엔지니어가 말한 \"진짜 병목은 리뷰가 아니다\"",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-04T11:24:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "파일 372개, 추가된 줄 5만 5천 줄, 커밋 69개. 에이전트 하나가 올린 PR입니다. 요즘 이런 화면을 두고 병목이 사람이 코드를 읽는 시간으로 옮겨갔다는 말이 나옵니다. 그런데 이 발표는 그 진단을 절반만 인정합니다. Notion의 디자인 엔지니어 제프리 리트(Geoffrey Litt)가 AI Engineer World's Fair 2026 디자인 엔지니어 트랙에서 한 발표를 정리했습니다. 제목은 \"Understanding is the new bottleneck\" — 이해가 새로운 병목이라",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=81EIe6h7mnw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-04T11:24:06.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:228287230edf086c04713369410d4d85dcb5281eed38062f47e0739906bb793e",
+      "dedupeKey": "brief:opp_9d8f1fe6dc8481645f81:sha256:228287230edf086c04713369410d4d85dcb5281eed38062f47e0739906bb793e",
+      "firstSeenAt": "2026-08-05T00:05:49.126Z",
+      "lastSeenAt": "2026-08-05T00:05:49.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -14434,6 +14728,42 @@
       "opportunityId": "opp_90338645a95cc4be62d6",
       "sentAt": "2026-08-04T11:21:48.112Z",
       "messageId": "1534159417518461073"
+    },
+    "brief:opp_87d8c80755193a17464e:sha256:afed5729d746e24cf4bc707b235ea29ccb11e538a59e02230606d1b24058fe11": {
+      "status": "SENT",
+      "opportunityId": "opp_87d8c80755193a17464e",
+      "sentAt": "2026-08-05T00:05:49.126Z",
+      "messageId": "1534351689706901519"
+    },
+    "brief:opp_730a6a48c9fa905e2329:sha256:2b74c94074dc950b28dbcbaae23f118579a679a3dbdbb423ee20acbfa7e278b8": {
+      "status": "SENT",
+      "opportunityId": "opp_730a6a48c9fa905e2329",
+      "sentAt": "2026-08-05T00:05:49.126Z",
+      "messageId": "1534351689706901519"
+    },
+    "brief:opp_11c8a29e9658554d573c:sha256:02f9798ff3d8ec79aaeb201489056c7e474571955d1722ff56353958be64185f": {
+      "status": "SENT",
+      "opportunityId": "opp_11c8a29e9658554d573c",
+      "sentAt": "2026-08-05T00:05:49.126Z",
+      "messageId": "1534351689706901519"
+    },
+    "brief:opp_9d8f1fe6dc8481645f81:sha256:228287230edf086c04713369410d4d85dcb5281eed38062f47e0739906bb793e": {
+      "status": "SENT",
+      "opportunityId": "opp_9d8f1fe6dc8481645f81",
+      "sentAt": "2026-08-05T00:05:49.126Z",
+      "messageId": "1534351689706901519"
+    },
+    "brief:opp_2da7b4bcc0031e5cc0b6:sha256:52e8510040148f805e66e62037293968bc56e4b0c71379e9f735d604d3b8423a": {
+      "status": "SENT",
+      "opportunityId": "opp_2da7b4bcc0031e5cc0b6",
+      "sentAt": "2026-08-05T00:05:49.126Z",
+      "messageId": "1534351689706901519"
+    },
+    "brief:opp_71ce4727c6df0cd33f1a:sha256:63f1e8edd5291fca6861e0032f1c202185d33a9f7bff7a9018dd7665f77abbb5": {
+      "status": "SENT",
+      "opportunityId": "opp_71ce4727c6df0cd33f1a",
+      "sentAt": "2026-08-05T00:05:49.126Z",
+      "messageId": "1534351689706901519"
     }
   },
   "pending": {},
