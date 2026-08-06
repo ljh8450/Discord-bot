@@ -14155,14 +14155,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 16,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -14170,11 +14170,11 @@
       },
       "contentHash": "sha256:5a4547d197d0e2a797674eb94373afda67af4f9050b425d989bc254741eb9fe3",
       "dedupeKey": "brief:opp_4d20879855037872024d:sha256:5a4547d197d0e2a797674eb94373afda67af4f9050b425d989bc254741eb9fe3",
-      "firstSeenAt": "2026-08-06T09:06:14.050Z",
-      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "firstSeenAt": "2026-08-06T11:20:42.869Z",
+      "lastSeenAt": "2026-08-06T11:20:42.869Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -14204,8 +14204,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 17,
+        "communityPoints": 8,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -14219,11 +14219,11 @@
       },
       "contentHash": "sha256:8a1e68c541d98df5ae0a184ca976d81ffa9de441b4c5f4ce458550ca118c4964",
       "dedupeKey": "brief:opp_cb95b0c26e8ef5c47fd5:sha256:8a1e68c541d98df5ae0a184ca976d81ffa9de441b4c5f4ce458550ca118c4964",
-      "firstSeenAt": "2026-08-06T09:06:14.050Z",
-      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "firstSeenAt": "2026-08-06T11:20:42.869Z",
+      "lastSeenAt": "2026-08-06T11:20:42.869Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -14325,6 +14325,59 @@
       "dedupeKey": "brief:opp_2fba09d78d91f3384e9e:sha256:4ce5ab4b7b5ab61b11e6c26f49c0c47561a20b9e8776ea2b9228bd198c2b2b87",
       "firstSeenAt": "2026-08-06T09:06:14.050Z",
       "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1764178059da77aea722": {
+      "id": "opp_1764178059da77aea722",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:HVUH5F1FHlM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HVUH5F1FHlM",
+      "title": "[한영자막] 이 스킬이면 어떤 프로젝트든 계획할 수 있습니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T09:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Wayfinder는 어떤 규모의 프로젝트도 계획할 수 있게 해주는 AI 스킬입니다. 정보 불확실성(fog of war) 속에서 큰 프로젝트를 다중 세션에 걸쳐 체계적으로 계획하고 실행하는 방법을 배워보세요. 📌 주요 내용: - 대규모 프로젝트 계획의 새로운 방식 - Fog of war 개념 이해하기 - 다중 세션 워크플로우 구축 - 의존성 관리 및 병렬 처리 - 실제 프로젝트 적용 사례 ✨ Wayfinder는 GitHub, Linear, Jira 등 모든 이슈 트래커와 연동되며, 어떤 코딩 에이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=HVUH5F1FHlM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-06T09:00:37.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e15f8d77041ae1de976a7d5a1179092ea9656a261cfd956d49a6876f35c5706",
+      "dedupeKey": "brief:opp_1764178059da77aea722:sha256:6e15f8d77041ae1de976a7d5a1179092ea9656a261cfd956d49a6876f35c5706",
+      "firstSeenAt": "2026-08-06T11:20:42.869Z",
+      "lastSeenAt": "2026-08-06T11:20:42.869Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -15880,6 +15933,24 @@
       "opportunityId": "opp_085bf29e271807fbfb8d",
       "sentAt": "2026-08-06T09:06:14.050Z",
       "messageId": "1534850076503969905"
+    },
+    "brief:opp_1764178059da77aea722:sha256:6e15f8d77041ae1de976a7d5a1179092ea9656a261cfd956d49a6876f35c5706": {
+      "status": "SENT",
+      "opportunityId": "opp_1764178059da77aea722",
+      "sentAt": "2026-08-06T11:20:42.869Z",
+      "messageId": "1534883918854094879"
+    },
+    "brief:opp_cb95b0c26e8ef5c47fd5:sha256:8a1e68c541d98df5ae0a184ca976d81ffa9de441b4c5f4ce458550ca118c4964": {
+      "status": "SENT",
+      "opportunityId": "opp_cb95b0c26e8ef5c47fd5",
+      "sentAt": "2026-08-06T11:20:42.869Z",
+      "messageId": "1534883918854094879"
+    },
+    "brief:opp_4d20879855037872024d:sha256:5a4547d197d0e2a797674eb94373afda67af4f9050b425d989bc254741eb9fe3": {
+      "status": "SENT",
+      "opportunityId": "opp_4d20879855037872024d",
+      "sentAt": "2026-08-06T11:20:42.869Z",
+      "messageId": "1534883918854094879"
     }
   },
   "pending": {},
