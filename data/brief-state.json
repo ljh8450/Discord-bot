@@ -13830,6 +13830,206 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_dfd296110964354b35c3": {
+      "id": "opp_dfd296110964354b35c3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32192",
+      "canonicalUrl": "https://github.com/mpiorowski/late-sh",
+      "title": "late.sh - 개발자를 위한 아늑한 터미널 클럽하우스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SSH 클라이언트만으로 접속하는 터미널 우선 소셜 앱으로, ssh late.sh 한 줄이면 실시간 채팅/음악/게임/뉴스 등을 보는 공간에 들어가기 가능 단...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32192"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fbfc35abb89593a365dc12f91839ed4f3064cc216ae7cc3b9341969987a9c8b4",
+      "dedupeKey": "brief:opp_dfd296110964354b35c3:sha256:fbfc35abb89593a365dc12f91839ed4f3064cc216ae7cc3b9341969987a9c8b4",
+      "firstSeenAt": "2026-08-06T02:40:15.394Z",
+      "lastSeenAt": "2026-08-06T02:40:15.394Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d895a2702d85ff8800b": {
+      "id": "opp_9d895a2702d85ff8800b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32179",
+      "canonicalUrl": "https://lilianweng.github.io/posts/2026-07-04-harness",
+      "title": "자기 개선을 위한 하네스 엔지니어링",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T23:36:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "재귀적 자기 개선(RSI)의 단기 경로는 모델이 직접 가중치를 고치는 것보다, 사고·도구·맥락·기억·평가를 조율하는 하네스 자체를 개선해 더 나은 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32179"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ea50de6659f7a56fa3e044de53d25ba24e2ad48c0d732d371e857391b09c2947",
+      "dedupeKey": "brief:opp_9d895a2702d85ff8800b:sha256:ea50de6659f7a56fa3e044de53d25ba24e2ad48c0d732d371e857391b09c2947",
+      "firstSeenAt": "2026-08-06T02:40:15.394Z",
+      "lastSeenAt": "2026-08-06T02:40:15.394Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bd56d5a6fd85d8c6a637": {
+      "id": "opp_bd56d5a6fd85d8c6a637",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "06a4fb100d64b5e63bd56c6cb3f4c854a8d97ffd",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/define-your-ai-agents-with-configs",
+      "title": "AI 에이전트를 개발하지 않고 조립한다 — Amazon Bedrock AgentCore 기반 엔터프라이즈 에이전트 플랫폼",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 01:47:14 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "들어가며: 에이전트를 한 명이 만들던 시대의 끝 지난 1년 동안 많은 엔지니어가 자기만의 AI 에이전트를 만들어 봤습니다. CloudWatch 지표를 조회하는 작은 도구, EKS 클러스터 상태를 점검하는 스크립트, 장애 로그를 요약하는 프롬프트. LLM과 몇 개의 도구를 엮으면 놀랍도록 빠르게 동작하는 에이전트가 나옵니다. 여기까지는 한 사람의 생산성 향상 이야기입니다. 문제는 그다음입니다. 10명, 20명이 일하는 클라우드 운영 조직에서 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/define-your-ai-agents-with-configs/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f0801b88e0172cef43bf6f1a316b0df3150cac7154a3a3a845ad784cce8537da",
+      "dedupeKey": "brief:opp_bd56d5a6fd85d8c6a637:sha256:f0801b88e0172cef43bf6f1a316b0df3150cac7154a3a3a845ad784cce8537da",
+      "firstSeenAt": "2026-08-06T02:40:15.394Z",
+      "lastSeenAt": "2026-08-06T02:40:15.394Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5d5a8385c272cc864a97": {
+      "id": "opp_5d5a8385c272cc864a97",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:EBs75jVnRPQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EBs75jVnRPQ",
+      "title": "92%가 채택하지만 29%만 신뢰한다? — AI 코딩의 이상한 동거",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T02:33:41+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "📎 원문 보고서 Keyhole Software, Vibe Coding Trends 2026 https://keyholesoftware.com/vibe-coding-trends-2026/ #AI코딩 #바이브코딩 #개발자 #소프트웨어아키텍트 #코딩하는기술사 #AI개발 #생산성 #개발트렌드",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=EBs75jVnRPQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-06T02:33:41.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6adaed06f222c59993978e2b4b9a91bc10774f9c7387a0e615c6ba4acd7b78d0",
+      "dedupeKey": "brief:opp_5d5a8385c272cc864a97:sha256:6adaed06f222c59993978e2b4b9a91bc10774f9c7387a0e615c6ba4acd7b78d0",
+      "firstSeenAt": "2026-08-06T02:40:15.394Z",
+      "lastSeenAt": "2026-08-06T02:40:15.394Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -15332,6 +15532,30 @@
       "opportunityId": "opp_6b8287f05c973d897092",
       "sentAt": "2026-08-06T00:05:26.314Z",
       "messageId": "1534713980226895913"
+    },
+    "brief:opp_bd56d5a6fd85d8c6a637:sha256:f0801b88e0172cef43bf6f1a316b0df3150cac7154a3a3a845ad784cce8537da": {
+      "status": "SENT",
+      "opportunityId": "opp_bd56d5a6fd85d8c6a637",
+      "sentAt": "2026-08-06T02:40:15.394Z",
+      "messageId": "1534752942303744113"
+    },
+    "brief:opp_5d5a8385c272cc864a97:sha256:6adaed06f222c59993978e2b4b9a91bc10774f9c7387a0e615c6ba4acd7b78d0": {
+      "status": "SENT",
+      "opportunityId": "opp_5d5a8385c272cc864a97",
+      "sentAt": "2026-08-06T02:40:15.394Z",
+      "messageId": "1534752942303744113"
+    },
+    "brief:opp_9d895a2702d85ff8800b:sha256:ea50de6659f7a56fa3e044de53d25ba24e2ad48c0d732d371e857391b09c2947": {
+      "status": "SENT",
+      "opportunityId": "opp_9d895a2702d85ff8800b",
+      "sentAt": "2026-08-06T02:40:15.394Z",
+      "messageId": "1534752942303744113"
+    },
+    "brief:opp_dfd296110964354b35c3:sha256:fbfc35abb89593a365dc12f91839ed4f3064cc216ae7cc3b9341969987a9c8b4": {
+      "status": "SENT",
+      "opportunityId": "opp_dfd296110964354b35c3",
+      "sentAt": "2026-08-06T02:40:15.394Z",
+      "messageId": "1534752942303744113"
     }
   },
   "pending": {},
