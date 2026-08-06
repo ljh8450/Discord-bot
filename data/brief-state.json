@@ -13732,6 +13732,104 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_6b8287f05c973d897092": {
+      "id": "opp_6b8287f05c973d897092",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32157",
+      "canonicalUrl": "https://github.com/kubara-io/kubara",
+      "title": "kubara - 모범 사례 기반으로 Kubernetes 플랫폼을 부트스트랩하는 CLI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "GitOps-first 워크플로우로 Kubernetes 플랫폼을 부트스트랩하고 운영하는 Opionated CLI 플랫폼 스캐폴딩/환경 구성/프로덕션 기본값을 Go 기반 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32157"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ac2413ab9401b4251b1390abfa4f52e2898ccd33050cad3f88f96bac5cf5ec93",
+      "dedupeKey": "brief:opp_6b8287f05c973d897092:sha256:ac2413ab9401b4251b1390abfa4f52e2898ccd33050cad3f88f96bac5cf5ec93",
+      "firstSeenAt": "2026-08-06T00:05:26.314Z",
+      "lastSeenAt": "2026-08-06T00:05:26.314Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2302f102f27114047efa": {
+      "id": "opp_2302f102f27114047efa",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/news/1783497",
+      "canonicalUrl": "https://d2.naver.com/news/1783497",
+      "title": "FE News 26년 8월 소식을 전해드립니다.",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T14:12:35Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<p><img src=https://d2.naver.com/content/images/2023/07/-----------2023-07-06------4-16-49.png></p> <h2 id=\"\">주요소식</h2> <p><img src=\"/content/images/2026/08/image-1785906732683.png\" alt=\"\" /></p> <p>26년 8월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다.</p> <h4 id=\"stateofcss2026https2026stat",
+      "summaryEvidence": [
+        "https://d2.naver.com/news/1783497"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:95348fbef411df41e7cdc67002f8a47b4dfc067e9ced247c80d091b29247b533",
+      "dedupeKey": "brief:opp_2302f102f27114047efa:sha256:95348fbef411df41e7cdc67002f8a47b4dfc067e9ced247c80d091b29247b533",
+      "firstSeenAt": "2026-08-06T00:05:26.314Z",
+      "lastSeenAt": "2026-08-06T00:05:26.314Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -15222,6 +15320,18 @@
       "opportunityId": "opp_5209d11d79b6f2c4ace4",
       "sentAt": "2026-08-05T11:18:08.742Z",
       "messageId": "1534520884558037133"
+    },
+    "brief:opp_2302f102f27114047efa:sha256:95348fbef411df41e7cdc67002f8a47b4dfc067e9ced247c80d091b29247b533": {
+      "status": "SENT",
+      "opportunityId": "opp_2302f102f27114047efa",
+      "sentAt": "2026-08-06T00:05:26.314Z",
+      "messageId": "1534713980226895913"
+    },
+    "brief:opp_6b8287f05c973d897092:sha256:ac2413ab9401b4251b1390abfa4f52e2898ccd33050cad3f88f96bac5cf5ec93": {
+      "status": "SENT",
+      "opportunityId": "opp_6b8287f05c973d897092",
+      "sentAt": "2026-08-06T00:05:26.314Z",
+      "messageId": "1534713980226895913"
     }
   },
   "pending": {},
