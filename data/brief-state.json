@@ -14030,6 +14030,306 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_6be0f15ffc2dd1d20c01": {
+      "id": "opp_6be0f15ffc2dd1d20c01",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32193",
+      "canonicalUrl": "https://news.hada.io/topic?id=32193",
+      "title": "Show GN: 주가예측 AI 에이전트를 위한 무료 도구 공개 (LDBD)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T09:57:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 봇들에게 주가 방향을 예측시키고 실제 가격으로 채점하는 리더보드(LDBD)를 만들고 있는 1인 개발자입니다. 예측 에이전트가 판단에 쓸 재료를...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32193"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a688b999cd96fed1d3311d3a2961f9889c899ecd2c59f2c672a364ad32d6f95e",
+      "dedupeKey": "brief:opp_6be0f15ffc2dd1d20c01:sha256:a688b999cd96fed1d3311d3a2961f9889c899ecd2c59f2c672a364ad32d6f95e",
+      "firstSeenAt": "2026-08-06T09:06:14.050Z",
+      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_085bf29e271807fbfb8d": {
+      "id": "opp_085bf29e271807fbfb8d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32186",
+      "canonicalUrl": "https://www.discoveryloop.com/",
+      "title": "Discovery Loop",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T04:31:42+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Jeff Dean, Sanjay Ghemawat, Quoc Le, Oriol Vinyals의 Discovery Loop는 반복적인 실험 과정을 AI로 자동화해 과학·공학 연구 속도를 높이고 결...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32186"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:acf1d2e7343c1ab53580beda5eb912ed43cf8c335a17c902224e313090df62cd",
+      "dedupeKey": "brief:opp_085bf29e271807fbfb8d:sha256:acf1d2e7343c1ab53580beda5eb912ed43cf8c335a17c902224e313090df62cd",
+      "firstSeenAt": "2026-08-06T09:06:14.050Z",
+      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4d20879855037872024d": {
+      "id": "opp_4d20879855037872024d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32171",
+      "canonicalUrl": "https://earendil.com/posts/pi-autoresearch-and-databricks",
+      "title": "Pi의 미니멀리즘이 경쟁력인 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T19:32:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기본 도구 4개와 1,000토큰 미만의 시스템 프롬프트·도구 정의만 제공하고, 필요한 기능은 확장으로 더하는 최소형 코딩 하네스를 지향함 Databric...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32171"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 16,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5a4547d197d0e2a797674eb94373afda67af4f9050b425d989bc254741eb9fe3",
+      "dedupeKey": "brief:opp_4d20879855037872024d:sha256:5a4547d197d0e2a797674eb94373afda67af4f9050b425d989bc254741eb9fe3",
+      "firstSeenAt": "2026-08-06T09:06:14.050Z",
+      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cb95b0c26e8ef5c47fd5": {
+      "id": "opp_cb95b0c26e8ef5c47fd5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32175",
+      "canonicalUrl": "https://queue.acm.org/detail.cfm?id=3807963",
+      "title": "소프트웨어 엔지니어링과 생성형 AI에 관한 8가지 오해",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T22:01:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "생성형 AI는 일부 개발 작업을 빠르게 하지만, 실제 업무 구성과 조직 환경을 무시한 과장된 생산성 기대는 도입·측정·투자 결정을 왜곡할 수 있음...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32175"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a1e68c541d98df5ae0a184ca976d81ffa9de441b4c5f4ce458550ca118c4964",
+      "dedupeKey": "brief:opp_cb95b0c26e8ef5c47fd5:sha256:8a1e68c541d98df5ae0a184ca976d81ffa9de441b4c5f4ce458550ca118c4964",
+      "firstSeenAt": "2026-08-06T09:06:14.050Z",
+      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4255c9809f431cafb867": {
+      "id": "opp_4255c9809f431cafb867",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=26777",
+      "canonicalUrl": "https://techblog.woowahan.com/26777",
+      "title": "기술블로그 세 번째 책 《요즘 우아한 백엔드 개발》 출간",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T05:13:12.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "우아한형제들의 기술블로그 글을 엮은 책, 《요즘 우아한 백엔드 개발》을 소개합니다. 《요즘 우아한 개발》(2023)과 《요즘 우아한 AI 개발》(2025)에 이어 백엔드 분야 이야기를 담은 세 번째 책을 출간했습니다. 🎉 우아한형제들이 실제 서비스에서 마주한 아키텍처 고민과 대규모 트래픽 대응 노하우, 데이터 실무 경험은 물론, GPT와 MCP를 서비스에 접목한 시도까지 이 책에 두루 담았습니다. 📢 추천사 “코드를 빠르게 만들어내는 […] The post 기술블로그 세 번째 책 《요즘 우아한",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/26777/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f4175eeba10e390b71a65b6abdcf0e1053009150b166e3f76649b0ae95dcc3c",
+      "dedupeKey": "brief:opp_4255c9809f431cafb867:sha256:3f4175eeba10e390b71a65b6abdcf0e1053009150b166e3f76649b0ae95dcc3c",
+      "firstSeenAt": "2026-08-06T09:06:14.050Z",
+      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2fba09d78d91f3384e9e": {
+      "id": "opp_2fba09d78d91f3384e9e",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:V0XbuApxlhg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V0XbuApxlhg",
+      "title": "How To Make Claude Code Tokens 20x CHEAPER (& 4 More Usage Hacks)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T04:43:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Token costs and usage rates can easily get away from you if you arent paying attention. In this video, I break",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=V0XbuApxlhg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-06T04:43:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4ce5ab4b7b5ab61b11e6c26f49c0c47561a20b9e8776ea2b9228bd198c2b2b87",
+      "dedupeKey": "brief:opp_2fba09d78d91f3384e9e:sha256:4ce5ab4b7b5ab61b11e6c26f49c0c47561a20b9e8776ea2b9228bd198c2b2b87",
+      "firstSeenAt": "2026-08-06T09:06:14.050Z",
+      "lastSeenAt": "2026-08-06T09:06:14.050Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -15556,6 +15856,30 @@
       "opportunityId": "opp_dfd296110964354b35c3",
       "sentAt": "2026-08-06T02:40:15.394Z",
       "messageId": "1534752942303744113"
+    },
+    "brief:opp_4255c9809f431cafb867:sha256:3f4175eeba10e390b71a65b6abdcf0e1053009150b166e3f76649b0ae95dcc3c": {
+      "status": "SENT",
+      "opportunityId": "opp_4255c9809f431cafb867",
+      "sentAt": "2026-08-06T09:06:14.050Z",
+      "messageId": "1534850076503969905"
+    },
+    "brief:opp_2fba09d78d91f3384e9e:sha256:4ce5ab4b7b5ab61b11e6c26f49c0c47561a20b9e8776ea2b9228bd198c2b2b87": {
+      "status": "SENT",
+      "opportunityId": "opp_2fba09d78d91f3384e9e",
+      "sentAt": "2026-08-06T09:06:14.050Z",
+      "messageId": "1534850076503969905"
+    },
+    "brief:opp_6be0f15ffc2dd1d20c01:sha256:a688b999cd96fed1d3311d3a2961f9889c899ecd2c59f2c672a364ad32d6f95e": {
+      "status": "SENT",
+      "opportunityId": "opp_6be0f15ffc2dd1d20c01",
+      "sentAt": "2026-08-06T09:06:14.050Z",
+      "messageId": "1534850076503969905"
+    },
+    "brief:opp_085bf29e271807fbfb8d:sha256:acf1d2e7343c1ab53580beda5eb912ed43cf8c335a17c902224e313090df62cd": {
+      "status": "SENT",
+      "opportunityId": "opp_085bf29e271807fbfb8d",
+      "sentAt": "2026-08-06T09:06:14.050Z",
+      "messageId": "1534850076503969905"
     }
   },
   "pending": {},
