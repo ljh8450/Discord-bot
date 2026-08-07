@@ -14569,11 +14569,11 @@
       },
       "contentHash": "sha256:9eccf01ee0d79b2bcd72fcb302bbf27d1dd744fac57f851ed253d3a1ce0a30f8",
       "dedupeKey": "brief:opp_8b1e1cc852386c94fccb:sha256:9eccf01ee0d79b2bcd72fcb302bbf27d1dd744fac57f851ed253d3a1ce0a30f8",
-      "firstSeenAt": "2026-08-07T00:05:34.987Z",
-      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "firstSeenAt": "2026-08-07T02:43:31.651Z",
+      "lastSeenAt": "2026-08-07T02:43:31.651Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -14720,6 +14720,55 @@
       "dedupeKey": "brief:opp_f60233fc14b21b0b266e:sha256:3414bd85a9ef529b9fa8ba20e3b2ff4780bcba97015fa1c6c12ea083a8b60505",
       "firstSeenAt": "2026-08-07T00:05:34.987Z",
       "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_530bf16de70bfd71ab74": {
+      "id": "opp_530bf16de70bfd71ab74",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/improving-fable-5-s-biology-safeguards",
+      "canonicalUrl": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "title": "Improving Fable 5's biology safeguards",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Product · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Product",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ccbeb7ef3164421d9f7a7288d68809dc66c092efc9128041a77f5d1025564f1e",
+      "dedupeKey": "brief:opp_530bf16de70bfd71ab74:sha256:ccbeb7ef3164421d9f7a7288d68809dc66c092efc9128041a77f5d1025564f1e",
+      "firstSeenAt": "2026-08-07T02:43:31.651Z",
+      "lastSeenAt": "2026-08-07T02:43:31.651Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -16329,6 +16378,18 @@
       "opportunityId": "opp_128cc5c62cc07cfb8ac8",
       "sentAt": "2026-08-07T00:05:34.987Z",
       "messageId": "1535076405950287953"
+    },
+    "brief:opp_530bf16de70bfd71ab74:sha256:ccbeb7ef3164421d9f7a7288d68809dc66c092efc9128041a77f5d1025564f1e": {
+      "status": "SENT",
+      "opportunityId": "opp_530bf16de70bfd71ab74",
+      "sentAt": "2026-08-07T02:43:31.651Z",
+      "messageId": "1535116153205166154"
+    },
+    "brief:opp_8b1e1cc852386c94fccb:sha256:9eccf01ee0d79b2bcd72fcb302bbf27d1dd744fac57f851ed253d3a1ce0a30f8": {
+      "status": "SENT",
+      "opportunityId": "opp_8b1e1cc852386c94fccb",
+      "sentAt": "2026-08-07T02:43:31.651Z",
+      "messageId": "1535116153205166154"
     }
   },
   "pending": {},
