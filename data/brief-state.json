@@ -14383,6 +14383,348 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_128cc5c62cc07cfb8ac8": {
+      "id": "opp_128cc5c62cc07cfb8ac8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32172",
+      "canonicalUrl": "https://blog.fogus.me/llm/born-against.html",
+      "title": "취미 프로그래밍 커뮤니티가 LLM 사용에 강하게 반대하는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-05T20:01:23+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "체스 엔진 개발, OSDev, LangDev, EmuDev 같은 취미 커뮤니티는 작동하는 결과물보다 어려운 분야를 직접 익히는 숙련 과정 자체를 중시함 오랜 노...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32172"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7654f030a02ce8ba57b15d93a9c1b3510931034e7420127f6a83147387be1700",
+      "dedupeKey": "brief:opp_128cc5c62cc07cfb8ac8:sha256:7654f030a02ce8ba57b15d93a9c1b3510931034e7420127f6a83147387be1700",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0e8065583d9edcb71db4": {
+      "id": "opp_0e8065583d9edcb71db4",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "canonicalUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "summaryEvidence": [
+        "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7b071339d6aefd1bb120f1211173c3464eaa2145b1b766c31b0d734e7bc7a261",
+      "dedupeKey": "brief:opp_0e8065583d9edcb71db4:sha256:7b071339d6aefd1bb120f1211173c3464eaa2145b1b766c31b0d734e7bc7a261",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f6917ef55532c8c6fc58": {
+      "id": "opp_f6917ef55532c8c6fc58",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "canonicalUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 06:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "summaryEvidence": [
+        "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bcadcda071d992ce548938f016418a9889f6226e26aa745d071e7ecfbdb8953d",
+      "dedupeKey": "brief:opp_f6917ef55532c8c6fc58:sha256:bcadcda071d992ce548938f016418a9889f6226e26aa745d071e7ecfbdb8953d",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8b1e1cc852386c94fccb": {
+      "id": "opp_8b1e1cc852386c94fccb",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "canonicalUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9eccf01ee0d79b2bcd72fcb302bbf27d1dd744fac57f851ed253d3a1ce0a30f8",
+      "dedupeKey": "brief:opp_8b1e1cc852386c94fccb:sha256:9eccf01ee0d79b2bcd72fcb302bbf27d1dd744fac57f851ed253d3a1ce0a30f8",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e167e54181165ffa76ac": {
+      "id": "opp_e167e54181165ffa76ac",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98013",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 19:49:34 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:875a4d7debab39f61394775bae37cf81eedec4e4fcda08782b37707a6d6e9c9c",
+      "dedupeKey": "brief:opp_e167e54181165ffa76ac:sha256:875a4d7debab39f61394775bae37cf81eedec4e4fcda08782b37707a6d6e9c9c",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4471e5d27fe380b086e4": {
+      "id": "opp_4471e5d27fe380b086e4",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97978",
+      "canonicalUrl": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm",
+      "title": "How we took malware advisories beyond npm",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 16:51:12 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c2f4d7c472ea48386a6f1baad99c51960f2f2ab892c11da5c1de079315ee4b23",
+      "dedupeKey": "brief:opp_4471e5d27fe380b086e4:sha256:c2f4d7c472ea48386a6f1baad99c51960f2f2ab892c11da5c1de079315ee4b23",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f60233fc14b21b0b266e": {
+      "id": "opp_f60233fc14b21b0b266e",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:oWfrzyv8H1Y",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oWfrzyv8H1Y",
+      "title": "삼성·하이닉스 막 공개. HBM보다 10배 큰 메모리 | HBF·zNAND-O 전격 분석 | 서로 다른 NAND 전략",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T13:05:47+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "삼성전자와 SK하이닉스가 HBM 이후를 겨냥한 새로운 AI 메모리 기술을 공개했습니다. SK하이닉스와 샌디스크가 발표한 HBF는 낸드를 쌓아 스택당 최대 512GB의 용량을 제시합니다. 이는 SK하이닉스의 48GB HBM4보다 용량 기준으로 10배 이상 큰 수준입니다. 느린 저장장치로 여겨졌던 낸드가 어떻게 초당 최대 3TB의 대역폭을 목표로 하는지 살펴봅니다. Google과 Tenstorrent가 HBF 표준 개발에 참여하면서 다양한 AI 가속기로 확장될 가능성도 커졌습니다. 삼성전자는 10세대",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=oWfrzyv8H1Y"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-06T13:05:47.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3414bd85a9ef529b9fa8ba20e3b2ff4780bcba97015fa1c6c12ea083a8b60505",
+      "dedupeKey": "brief:opp_f60233fc14b21b0b266e:sha256:3414bd85a9ef529b9fa8ba20e3b2ff4780bcba97015fa1c6c12ea083a8b60505",
+      "firstSeenAt": "2026-08-07T00:05:34.987Z",
+      "lastSeenAt": "2026-08-07T00:05:34.987Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -15951,6 +16293,42 @@
       "opportunityId": "opp_4d20879855037872024d",
       "sentAt": "2026-08-06T11:20:42.869Z",
       "messageId": "1534883918854094879"
+    },
+    "brief:opp_e167e54181165ffa76ac:sha256:875a4d7debab39f61394775bae37cf81eedec4e4fcda08782b37707a6d6e9c9c": {
+      "status": "SENT",
+      "opportunityId": "opp_e167e54181165ffa76ac",
+      "sentAt": "2026-08-07T00:05:34.987Z",
+      "messageId": "1535076405950287953"
+    },
+    "brief:opp_4471e5d27fe380b086e4:sha256:c2f4d7c472ea48386a6f1baad99c51960f2f2ab892c11da5c1de079315ee4b23": {
+      "status": "SENT",
+      "opportunityId": "opp_4471e5d27fe380b086e4",
+      "sentAt": "2026-08-07T00:05:34.987Z",
+      "messageId": "1535076405950287953"
+    },
+    "brief:opp_0e8065583d9edcb71db4:sha256:7b071339d6aefd1bb120f1211173c3464eaa2145b1b766c31b0d734e7bc7a261": {
+      "status": "SENT",
+      "opportunityId": "opp_0e8065583d9edcb71db4",
+      "sentAt": "2026-08-07T00:05:34.987Z",
+      "messageId": "1535076405950287953"
+    },
+    "brief:opp_f6917ef55532c8c6fc58:sha256:bcadcda071d992ce548938f016418a9889f6226e26aa745d071e7ecfbdb8953d": {
+      "status": "SENT",
+      "opportunityId": "opp_f6917ef55532c8c6fc58",
+      "sentAt": "2026-08-07T00:05:34.987Z",
+      "messageId": "1535076405950287953"
+    },
+    "brief:opp_f60233fc14b21b0b266e:sha256:3414bd85a9ef529b9fa8ba20e3b2ff4780bcba97015fa1c6c12ea083a8b60505": {
+      "status": "SENT",
+      "opportunityId": "opp_f60233fc14b21b0b266e",
+      "sentAt": "2026-08-07T00:05:34.987Z",
+      "messageId": "1535076405950287953"
+    },
+    "brief:opp_128cc5c62cc07cfb8ac8:sha256:7654f030a02ce8ba57b15d93a9c1b3510931034e7420127f6a83147387be1700": {
+      "status": "SENT",
+      "opportunityId": "opp_128cc5c62cc07cfb8ac8",
+      "sentAt": "2026-08-07T00:05:34.987Z",
+      "messageId": "1535076405950287953"
     }
   },
   "pending": {},
