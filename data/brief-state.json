@@ -14774,6 +14774,402 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_405f59e504be13474359": {
+      "id": "opp_405f59e504be13474359",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32218",
+      "canonicalUrl": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "title": "LLM은 ‘점프’할 수 없다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T08:32:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "현재 생성형 AI는 데이터에서 규칙을 찾는 귀납(Induction) 과 주어진 공리에서 결과를 도출하는 연역(Deduction) 은 빠르게 기계화하고 있지만, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32218"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 19,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:c107fc34e383ad661e3e17b1b4375a38a44849d871a315a7eacec43af8afb9a9",
+      "dedupeKey": "brief:opp_405f59e504be13474359:sha256:c107fc34e383ad661e3e17b1b4375a38a44849d871a315a7eacec43af8afb9a9",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_87309c7ecec6fd4324c5": {
+      "id": "opp_87309c7ecec6fd4324c5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32223",
+      "canonicalUrl": "https://mirakl.tech/you-can-prompt-a-prototype-you-cant-prompt-taste-eef2aa77b5a5",
+      "title": "프롬프트로 프로토타입은 만들 수 있어도, 안목까지 만들 수는 없다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T09:33:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "생성형 AI로 누구나 빠르게 완성품처럼 보이는 결과물을 만들 수 있게 됐지만, 무엇을 만들고 무엇을 버릴지 결정하는 안목과 판단력은 오랜 비평...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32223"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:676f5cf8bb989d75324da4bab89fe29e278d962f296ef2555dd32fa630d77e85",
+      "dedupeKey": "brief:opp_87309c7ecec6fd4324c5:sha256:676f5cf8bb989d75324da4bab89fe29e278d962f296ef2555dd32fa630d77e85",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2c5b3d265bc7ca69f7c1": {
+      "id": "opp_2c5b3d265bc7ca69f7c1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32224",
+      "canonicalUrl": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "title": "AMD, 모델을 실리콘에 새기는 AI 칩 스타트업 Taalas 인수",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T09:36:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AMD가 모델 가중치를 실리콘에 직접 새기는 Taalas를 인수해 Nvidia가 주도하는 고성능 추론 시장 공략을 강화함 TSMC 6nm 공정의 모델 전용 칩 HC...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32224"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f4053a9acf748509e5cae93343e354dba3923ff1ea62bf6230773c312f4e9b62",
+      "dedupeKey": "brief:opp_2c5b3d265bc7ca69f7c1:sha256:f4053a9acf748509e5cae93343e354dba3923ff1ea62bf6230773c312f4e9b62",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e6c43a4763d1741734da": {
+      "id": "opp_e6c43a4763d1741734da",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32204",
+      "canonicalUrl": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "title": "100배 저렴한 오픈 모델로 검색에서 GPT-5.6 Sol 능가하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-06T20:34:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Castform으로 강화학습 후처리한 4B 오픈 소스 모델이 GPT-5.6 Sol과 같은 수준의 검색 정확도를 달성하면서 비용은 100분의 1로 낮춤 에이전트 검...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32204"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 10,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8c20918405cb1532f1a91d2e04bb85d5f106aa8af4cb9b4876f106806bccc6ee",
+      "dedupeKey": "brief:opp_e6c43a4763d1741734da:sha256:8c20918405cb1532f1a91d2e04bb85d5f106aa8af4cb9b4876f106806bccc6ee",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1a94385ba08b1c334dee": {
+      "id": "opp_1a94385ba08b1c334dee",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/hsp-gruppe",
+      "canonicalUrl": "https://openai.com/index/hsp-gruppe",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "summaryEvidence": [
+        "https://openai.com/index/hsp-gruppe"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7b98ece80a3cc09c68fe6e11f2efe6d5312cb0e0f0396d7ede6aff304083b8f4",
+      "dedupeKey": "brief:opp_1a94385ba08b1c334dee:sha256:7b98ece80a3cc09c68fe6e11f2efe6d5312cb0e0f0396d7ede6aff304083b8f4",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ffee80d86d98706598cf": {
+      "id": "opp_ffee80d86d98706598cf",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/829",
+      "canonicalUrl": "https://tech.kakao.com/posts/829",
+      "title": "개인화된 Airflow 테스트 환경 구축 및 운영 경험",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Thu, 06 Aug 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "안녕하세요! 데이터서비스 조직의 비오, 소나, 테라입니다. 데이터서비스 조직은 다양한 기술로 데이터 생태계를 만들어 가며 모든 크루가 데이터로 문제를 해결할 수 있도록 돕고 있습니다. 그 과정에서 수많은 데이터 파이프라인을 다루고 있으며 이를 위해 수천 개의 Airflow DAG를 여러 하둡별 에어플로우 클러스터 위에서 운영하고 있습니다. 이렇게 여러 파이프라인을 다루다 보니 새로운 파이프라인을 개발하거나 기존 파이프라인을 개선하는 일이 잦습니다. 하지...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/829"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5dc8f929bf0bcf5fe03aa45bd98c6b25642f80b2a9593cdb25d1c8b8ea5cc0c3",
+      "dedupeKey": "brief:opp_ffee80d86d98706598cf:sha256:5dc8f929bf0bcf5fe03aa45bd98c6b25642f80b2a9593cdb25d1c8b8ea5cc0c3",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c55aec45e6f5bd5c8a23": {
+      "id": "opp_c55aec45e6f5bd5c8a23",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption",
+      "title": "개인 AI 활용의 다음 단계는 무엇인가 - LY Corporation에서 AIDD 워크숍을 통해 살펴본 AIDD 조직 도입의 조건",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 07 Aug 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "LY Corporation에서는 지금까지 AI 활용 역량 향상 워크숍인 Orchestration Development Workshop (ODW)를 통해, 개인이 AI를 활용해 개발...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8603cb552689793fb075d15858c02b688b0f2e715dbcb55e08d591a4ed40c8e7",
+      "dedupeKey": "brief:opp_c55aec45e6f5bd5c8a23:sha256:8603cb552689793fb075d15858c02b688b0f2e715dbcb55e08d591a4ed40c8e7",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_70f709ad2eedb0e5b9b9": {
+      "id": "opp_70f709ad2eedb0e5b9b9",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:FhCB9zLHxT4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FhCB9zLHxT4",
+      "title": "ChatGPT, Gemini, Claude 생각 들어보기",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T01:58:58+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "비개발자도 AI만 있으면 앱을 만들어 돈을 벌 수 있을까요? 같은 질문을 ChatGPT, Gemini, Claude에게 각각 던져봤습니다. 세 AI 모두 \"가능하다\"고 답했지만, 알아야 할 것과 몰라도 되는 것에 대한 관점은 조금씩 달랐습니다. 그리고 셋 다 말하지 않은 게 하나 있었습니다. 25년차 아키텍트 관점에서 세 AI의 답변을 비교하고, 빠진 부분까지 짚어봤습니다. 📌 이런 분들께 추천합니다 바이브코딩으로 앱/서비스를 만들어보고 싶은 비개발자 AI 도구로 창업을 고민 중인 예비 창업자",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=FhCB9zLHxT4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-07T01:58:58.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a021b41861eeaba18ad3de1f463eb852bb5f61c41f646ab1c9050195439f8aa6",
+      "dedupeKey": "brief:opp_70f709ad2eedb0e5b9b9:sha256:a021b41861eeaba18ad3de1f463eb852bb5f61c41f646ab1c9050195439f8aa6",
+      "firstSeenAt": "2026-08-07T09:05:46.429Z",
+      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -16390,6 +16786,42 @@
       "opportunityId": "opp_8b1e1cc852386c94fccb",
       "sentAt": "2026-08-07T02:43:31.651Z",
       "messageId": "1535116153205166154"
+    },
+    "brief:opp_c55aec45e6f5bd5c8a23:sha256:8603cb552689793fb075d15858c02b688b0f2e715dbcb55e08d591a4ed40c8e7": {
+      "status": "SENT",
+      "opportunityId": "opp_c55aec45e6f5bd5c8a23",
+      "sentAt": "2026-08-07T09:05:46.429Z",
+      "messageId": "1535212348191670354"
+    },
+    "brief:opp_ffee80d86d98706598cf:sha256:5dc8f929bf0bcf5fe03aa45bd98c6b25642f80b2a9593cdb25d1c8b8ea5cc0c3": {
+      "status": "SENT",
+      "opportunityId": "opp_ffee80d86d98706598cf",
+      "sentAt": "2026-08-07T09:05:46.429Z",
+      "messageId": "1535212348191670354"
+    },
+    "brief:opp_1a94385ba08b1c334dee:sha256:7b98ece80a3cc09c68fe6e11f2efe6d5312cb0e0f0396d7ede6aff304083b8f4": {
+      "status": "SENT",
+      "opportunityId": "opp_1a94385ba08b1c334dee",
+      "sentAt": "2026-08-07T09:05:46.429Z",
+      "messageId": "1535212348191670354"
+    },
+    "brief:opp_70f709ad2eedb0e5b9b9:sha256:a021b41861eeaba18ad3de1f463eb852bb5f61c41f646ab1c9050195439f8aa6": {
+      "status": "SENT",
+      "opportunityId": "opp_70f709ad2eedb0e5b9b9",
+      "sentAt": "2026-08-07T09:05:46.429Z",
+      "messageId": "1535212348191670354"
+    },
+    "brief:opp_405f59e504be13474359:sha256:c107fc34e383ad661e3e17b1b4375a38a44849d871a315a7eacec43af8afb9a9": {
+      "status": "SENT",
+      "opportunityId": "opp_405f59e504be13474359",
+      "sentAt": "2026-08-07T09:05:46.429Z",
+      "messageId": "1535212348191670354"
+    },
+    "brief:opp_e6c43a4763d1741734da:sha256:8c20918405cb1532f1a91d2e04bb85d5f106aa8af4cb9b4876f106806bccc6ee": {
+      "status": "SENT",
+      "opportunityId": "opp_e6c43a4763d1741734da",
+      "sentAt": "2026-08-07T09:05:46.429Z",
+      "messageId": "1535212348191670354"
     }
   },
   "pending": {},
