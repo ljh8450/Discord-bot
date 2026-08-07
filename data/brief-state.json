@@ -14850,26 +14850,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 11,
         "communityRank": 2,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:676f5cf8bb989d75324da4bab89fe29e278d962f296ef2555dd32fa630d77e85",
       "dedupeKey": "brief:opp_87309c7ecec6fd4324c5:sha256:676f5cf8bb989d75324da4bab89fe29e278d962f296ef2555dd32fa630d77e85",
-      "firstSeenAt": "2026-08-07T09:05:46.429Z",
-      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "firstSeenAt": "2026-08-07T09:58:51.679Z",
+      "lastSeenAt": "2026-08-07T09:58:51.679Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -14900,7 +14900,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 3,
+        "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -14914,11 +14914,11 @@
       },
       "contentHash": "sha256:f4053a9acf748509e5cae93343e354dba3923ff1ea62bf6230773c312f4e9b62",
       "dedupeKey": "brief:opp_2c5b3d265bc7ca69f7c1:sha256:f4053a9acf748509e5cae93343e354dba3923ff1ea62bf6230773c312f4e9b62",
-      "firstSeenAt": "2026-08-07T09:05:46.429Z",
-      "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "firstSeenAt": "2026-08-07T09:58:51.679Z",
+      "lastSeenAt": "2026-08-07T09:58:51.679Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -15165,6 +15165,59 @@
       "dedupeKey": "brief:opp_70f709ad2eedb0e5b9b9:sha256:a021b41861eeaba18ad3de1f463eb852bb5f61c41f646ab1c9050195439f8aa6",
       "firstSeenAt": "2026-08-07T09:05:46.429Z",
       "lastSeenAt": "2026-08-07T09:05:46.429Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_697e6771914270aabd4e": {
+      "id": "opp_697e6771914270aabd4e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:J86SNqUsFBs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J86SNqUsFBs",
+      "title": "[한영자막] 금융 에이전트의 병목은 당신이다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T09:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "금융 에이전트의 가장 큰 병목은 당신입니다. 개발자의 수동 작업을 자동화하지 않으면 에이전트 개발은 절대 빨라지지 않습니다. 프로덕션 에이전트 개발에서 실패하는 이유는 모델이 아니라, 개발자 루프의 속도입니다. 💡 주요 내용: • 서브 에이전트: 50개 이상의 독립적 에이전트를 워크트리에서 병렬 처리 • 스킬: 조직의 비결과 패턴을 에이전트에 주입해 올바른 워크플로우 자동 보장 • MCP 도구: 어떤 외부 시스템에든 연결 가능한 통합 프레임워크 • 개발 루프 자동화: QA 티켓부터 배포까지 에이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=J86SNqUsFBs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-07T09:00:19.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d0b6209fe30b9278f75c3ea0879a0c8eb8ac8b3402940e7bb3c25b7f2dafd6a0",
+      "dedupeKey": "brief:opp_697e6771914270aabd4e:sha256:d0b6209fe30b9278f75c3ea0879a0c8eb8ac8b3402940e7bb3c25b7f2dafd6a0",
+      "firstSeenAt": "2026-08-07T09:58:51.679Z",
+      "lastSeenAt": "2026-08-07T09:58:51.679Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -16822,6 +16875,24 @@
       "opportunityId": "opp_e6c43a4763d1741734da",
       "sentAt": "2026-08-07T09:05:46.429Z",
       "messageId": "1535212348191670354"
+    },
+    "brief:opp_697e6771914270aabd4e:sha256:d0b6209fe30b9278f75c3ea0879a0c8eb8ac8b3402940e7bb3c25b7f2dafd6a0": {
+      "status": "SENT",
+      "opportunityId": "opp_697e6771914270aabd4e",
+      "sentAt": "2026-08-07T09:58:51.679Z",
+      "messageId": "1535225708241227788"
+    },
+    "brief:opp_2c5b3d265bc7ca69f7c1:sha256:f4053a9acf748509e5cae93343e354dba3923ff1ea62bf6230773c312f4e9b62": {
+      "status": "SENT",
+      "opportunityId": "opp_2c5b3d265bc7ca69f7c1",
+      "sentAt": "2026-08-07T09:58:51.679Z",
+      "messageId": "1535225708241227788"
+    },
+    "brief:opp_87309c7ecec6fd4324c5:sha256:676f5cf8bb989d75324da4bab89fe29e278d962f296ef2555dd32fa630d77e85": {
+      "status": "SENT",
+      "opportunityId": "opp_87309c7ecec6fd4324c5",
+      "sentAt": "2026-08-07T09:58:51.679Z",
+      "messageId": "1535225708241227788"
     }
   },
   "pending": {},
