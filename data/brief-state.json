@@ -15460,11 +15460,11 @@
       },
       "contentHash": "sha256:ffe333e733c474a4970444ac55ede38fa6a71aec76907350e2ea190a599b92c7",
       "dedupeKey": "brief:opp_a8bdb4f5ea9f6ee7a04f:sha256:ffe333e733c474a4970444ac55ede38fa6a71aec76907350e2ea190a599b92c7",
-      "firstSeenAt": "2026-08-08T09:05:45.108Z",
-      "lastSeenAt": "2026-08-08T09:05:45.108Z",
+      "firstSeenAt": "2026-08-08T09:34:50.822Z",
+      "lastSeenAt": "2026-08-08T09:34:50.822Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -15515,6 +15515,59 @@
       "dedupeKey": "brief:opp_f3829f306351efa8e476:sha256:f1870cb8efb651f5c6369daef8c8a3a82d9b956635b31effe86ad52639836d4d",
       "firstSeenAt": "2026-08-08T09:05:45.108Z",
       "lastSeenAt": "2026-08-08T09:05:45.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_89c495996a3250a1fcdb": {
+      "id": "opp_89c495996a3250a1fcdb",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:bKT2wOec_rg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bKT2wOec_rg",
+      "title": "[한영자막] 슬롭에는 슬롭으로 맞섭니다 — Vaibhav Gupta, Boundary",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T09:00:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코드 리뷰 없이, 3년째 슬롭(AI가 쏟아내는 부실한 코드)과 싸워온 Boundary(BAML) 팀의 실전 엔지니어링 방식을 소개합니다. AI Engineer World's Fair 발표 영상입니다. 주요 포인트 - 표준을 강요하는 대신 '불변 규칙' 하나로 팀원 모두가 원하는 AI 도구를 자유롭게 쓰게 만든 방법 - 아무도 안 읽던 설계 문서를, 새벽에도 사람들이 몰려와 읽는 채널로 바꾼 방법 - Claude가 만든 코드를 다른 에이전트가 서로 검증하고 A/B 테스트까지 하게 만든 파이프라인 -",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=bKT2wOec_rg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-08T09:00:29.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:527f85b8aa69631df38d0d34a253bd5fa6ec8b83faec5183749776ec93a42749",
+      "dedupeKey": "brief:opp_89c495996a3250a1fcdb:sha256:527f85b8aa69631df38d0d34a253bd5fa6ec8b83faec5183749776ec93a42749",
+      "firstSeenAt": "2026-08-08T09:34:50.822Z",
+      "lastSeenAt": "2026-08-08T09:34:50.822Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -17220,6 +17273,18 @@
       "opportunityId": "opp_e7f1fab28b1d152b3201",
       "sentAt": "2026-08-08T09:05:45.108Z",
       "messageId": "1535574731195949147"
+    },
+    "brief:opp_89c495996a3250a1fcdb:sha256:527f85b8aa69631df38d0d34a253bd5fa6ec8b83faec5183749776ec93a42749": {
+      "status": "SENT",
+      "opportunityId": "opp_89c495996a3250a1fcdb",
+      "sentAt": "2026-08-08T09:34:50.822Z",
+      "messageId": "1535582053050093609"
+    },
+    "brief:opp_a8bdb4f5ea9f6ee7a04f:sha256:ffe333e733c474a4970444ac55ede38fa6a71aec76907350e2ea190a599b92c7": {
+      "status": "SENT",
+      "opportunityId": "opp_a8bdb4f5ea9f6ee7a04f",
+      "sentAt": "2026-08-08T09:34:50.822Z",
+      "messageId": "1535582053050093609"
     }
   },
   "pending": {},
