@@ -15320,6 +15320,206 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_777a04aebfcb58c0992c": {
+      "id": "opp_777a04aebfcb58c0992c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32253",
+      "canonicalUrl": "https://github.com/stablyai/orca",
+      "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T09:19:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "자신의 구독을 그대로 사용해, 터미널에서 실행되는 모든 CLI 에이전트(Codex/ClaudeCode/OpenCode/Pi 등)를 구동 Parallel Worktrees로 각 에이전...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32253"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fd91707a86c47e159e8b96856b8f6c664c6885a244cbbe4f1865d89b6c09b08e",
+      "dedupeKey": "brief:opp_777a04aebfcb58c0992c:sha256:fd91707a86c47e159e8b96856b8f6c664c6885a244cbbe4f1865d89b6c09b08e",
+      "firstSeenAt": "2026-08-08T09:05:45.108Z",
+      "lastSeenAt": "2026-08-08T09:05:45.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e7f1fab28b1d152b3201": {
+      "id": "opp_e7f1fab28b1d152b3201",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32257",
+      "canonicalUrl": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+      "title": "평가 주도 개발 (Eval-driven development)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T10:03:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Airbnb는 비결정적 출력과 주관적 정답, 검색·추론·도구 호출의 연쇄 실패를 다루기 위해 평가를 사후 검증이 아닌 핵심 엔지니어링 규율로 취급함...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32257"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a1c4225d66dc8980085150469e1bb9c19044b02f65861cfbc489f2f5d02061b3",
+      "dedupeKey": "brief:opp_e7f1fab28b1d152b3201:sha256:a1c4225d66dc8980085150469e1bb9c19044b02f65861cfbc489f2f5d02061b3",
+      "firstSeenAt": "2026-08-08T09:05:45.108Z",
+      "lastSeenAt": "2026-08-08T09:05:45.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a8bdb4f5ea9f6ee7a04f": {
+      "id": "opp_a8bdb4f5ea9f6ee7a04f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32255",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5d6y3poKwK4",
+      "title": "AI가 린 스타트업 플레이북을 무너뜨리고 있는가? [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T09:35:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 소프트웨어를 더 빠르고 저렴하게 만들 수 있게 되면서, 좁은 틈새에서 출발하는 린 스타트업 방식뿐 아니라 처음부터 차별화된 영역에서 크...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32255"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ffe333e733c474a4970444ac55ede38fa6a71aec76907350e2ea190a599b92c7",
+      "dedupeKey": "brief:opp_a8bdb4f5ea9f6ee7a04f:sha256:ffe333e733c474a4970444ac55ede38fa6a71aec76907350e2ea190a599b92c7",
+      "firstSeenAt": "2026-08-08T09:05:45.108Z",
+      "lastSeenAt": "2026-08-08T09:05:45.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f3829f306351efa8e476": {
+      "id": "opp_f3829f306351efa8e476",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:riXbmo1Tq_g",
+      "canonicalUrl": "https://www.youtube.com/watch?v=riXbmo1Tq_g",
+      "title": "AI로 만든 회원가입, 암호화 기준 지키기",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T02:48:07+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI에게 \"회원가입 만들어줘\"라고 하면 코드는 잘 나옵니다. 그런데 이름, 전화번호, 계좌번호... 이 중에 법이 암호화하라고 정한 항목이 뭔지 확인해 보셨나요? 바이브코딩으로 서비스를 만들어 운영하는 순간, 1인 개발자도 개인정보보호법의 적용을 받습니다. 이번 영상에서는 개인정보보호위원회 「개인정보의 안전성 확보조치 기준 안내서」(2025.11)를 기준으로, 회원가입 기능에서 반드시 확인해야 할 암호화 기준을 정리했습니다. 📌 이런 분께 도움이 됩니다 · 바이브코딩으로 서비스를 만들어 배포하려",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=riXbmo1Tq_g"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-08T02:48:07.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f1870cb8efb651f5c6369daef8c8a3a82d9b956635b31effe86ad52639836d4d",
+      "dedupeKey": "brief:opp_f3829f306351efa8e476:sha256:f1870cb8efb651f5c6369daef8c8a3a82d9b956635b31effe86ad52639836d4d",
+      "firstSeenAt": "2026-08-08T09:05:45.108Z",
+      "lastSeenAt": "2026-08-08T09:05:45.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -17002,6 +17202,24 @@
       "opportunityId": "opp_25377e8541eb39bd2644",
       "sentAt": "2026-08-08T00:06:06.442Z",
       "messageId": "1535438925118570627"
+    },
+    "brief:opp_f3829f306351efa8e476:sha256:f1870cb8efb651f5c6369daef8c8a3a82d9b956635b31effe86ad52639836d4d": {
+      "status": "SENT",
+      "opportunityId": "opp_f3829f306351efa8e476",
+      "sentAt": "2026-08-08T09:05:45.108Z",
+      "messageId": "1535574731195949147"
+    },
+    "brief:opp_777a04aebfcb58c0992c:sha256:fd91707a86c47e159e8b96856b8f6c664c6885a244cbbe4f1865d89b6c09b08e": {
+      "status": "SENT",
+      "opportunityId": "opp_777a04aebfcb58c0992c",
+      "sentAt": "2026-08-08T09:05:45.108Z",
+      "messageId": "1535574731195949147"
+    },
+    "brief:opp_e7f1fab28b1d152b3201:sha256:a1c4225d66dc8980085150469e1bb9c19044b02f65861cfbc489f2f5d02061b3": {
+      "status": "SENT",
+      "opportunityId": "opp_e7f1fab28b1d152b3201",
+      "sentAt": "2026-08-08T09:05:45.108Z",
+      "messageId": "1535574731195949147"
     }
   },
   "pending": {},
