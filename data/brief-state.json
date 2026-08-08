@@ -15223,6 +15223,103 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_25377e8541eb39bd2644": {
+      "id": "opp_25377e8541eb39bd2644",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32222",
+      "canonicalUrl": "https://github.com/pg83/shitty",
+      "title": "Shitty - 이상한 이름이지만 진지한 터미널 에뮬레이터",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "C++23으로 작성. 낮은 지연 시간, 빠른 시작, 예측 가능한 자원 사용을 목표로 만든 터미널 에뮬레이터 터미널 상태를 CPU에 유지하고 셀을 네이티...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32222"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:214b2db3e98a325ba675ffc1a2eb4be2db63884a2f6e48bc576e33a18097d90c",
+      "dedupeKey": "brief:opp_25377e8541eb39bd2644:sha256:214b2db3e98a325ba675ffc1a2eb4be2db63884a2f6e48bc576e33a18097d90c",
+      "firstSeenAt": "2026-08-08T00:06:06.442Z",
+      "lastSeenAt": "2026-08-08T00:06:06.442Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3afb867f47f562f97de9": {
+      "id": "opp_3afb867f47f562f97de9",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "canonicalUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "summaryEvidence": [
+        "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f7eed620e8804dcdda290cf935a495ba172b012e7c483b9743779b4ef064f26",
+      "dedupeKey": "brief:opp_3afb867f47f562f97de9:sha256:3f7eed620e8804dcdda290cf935a495ba172b012e7c483b9743779b4ef064f26",
+      "firstSeenAt": "2026-08-08T00:06:06.442Z",
+      "lastSeenAt": "2026-08-08T00:06:06.442Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -16893,6 +16990,18 @@
       "opportunityId": "opp_87309c7ecec6fd4324c5",
       "sentAt": "2026-08-07T09:58:51.679Z",
       "messageId": "1535225708241227788"
+    },
+    "brief:opp_3afb867f47f562f97de9:sha256:3f7eed620e8804dcdda290cf935a495ba172b012e7c483b9743779b4ef064f26": {
+      "status": "SENT",
+      "opportunityId": "opp_3afb867f47f562f97de9",
+      "sentAt": "2026-08-08T00:06:06.442Z",
+      "messageId": "1535438925118570627"
+    },
+    "brief:opp_25377e8541eb39bd2644:sha256:214b2db3e98a325ba675ffc1a2eb4be2db63884a2f6e48bc576e33a18097d90c": {
+      "status": "SENT",
+      "opportunityId": "opp_25377e8541eb39bd2644",
+      "sentAt": "2026-08-08T00:06:06.442Z",
+      "messageId": "1535438925118570627"
     }
   },
   "pending": {},
