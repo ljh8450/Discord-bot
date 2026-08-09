@@ -15573,6 +15573,157 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_dff7e841239febd0cbd2": {
+      "id": "opp_dff7e841239febd0cbd2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32250",
+      "canonicalUrl": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
+      "title": "한 직군 전체가 자신의 경력을 믿지 않게 되면 무슨 일이 벌어질까",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T07:33:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI는 일자리를 위협하는 데 그치지 않고, 고임금 지식 노동자에게 업무와 경력 전체가 무의미할 수 있다는 실존적 불안을 일으키고 있음 지식 노동...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32250"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b5033a2d0b94437c8f0ad7f653f63315e3ddf441fc44dab1adb5c593290c3d81",
+      "dedupeKey": "brief:opp_dff7e841239febd0cbd2:sha256:b5033a2d0b94437c8f0ad7f653f63315e3ddf441fc44dab1adb5c593290c3d81",
+      "firstSeenAt": "2026-08-09T00:05:44.372Z",
+      "lastSeenAt": "2026-08-09T00:05:44.372Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0df16202bc74254082df": {
+      "id": "opp_0df16202bc74254082df",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32230",
+      "canonicalUrl": "https://zotregistry.dev/",
+      "title": "zot – 단일 Go 바이너리부터 HA 클러스터까지 확장 가능한 가벼운 OCI Registry",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-07T14:39:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OCI Distribution/Image Specification을 중심으로 설계된 오픈소스 컨테이너 이미지·아티팩트 레지스트리 정적으로 빌드된 단일 Go 바이너리로 실...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32230"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 18,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0bbf6cef60d6151f547f093e37164754520e356b3e664cdcb30fd902620fca9f",
+      "dedupeKey": "brief:opp_0df16202bc74254082df:sha256:0bbf6cef60d6151f547f093e37164754520e356b3e664cdcb30fd902620fca9f",
+      "firstSeenAt": "2026-08-09T00:05:44.372Z",
+      "lastSeenAt": "2026-08-09T00:05:44.372Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5678e003347b94d38b10": {
+      "id": "opp_5678e003347b94d38b10",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:Z6sltgRAkWU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Z6sltgRAkWU",
+      "title": "EP 108. 칩과 칩을 빛으로 연결한다: 실리콘 포토닉스와 AI 데이터센터의 다음 병목",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-08T14:30:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 데이터센터의 다음 병목으로 떠오르는 칩 간 광통신과 실리콘 포토닉스를 깊이 살펴봅니다. 미시간대 박준우 님과 MIT 김태환 님, HyperAccel 이진원 CTO와 함께 구리 인터커넥트의 거리·전력 한계부터 CPO(Co-Packaged Optics), Optical I/O까지 기술의 흐름을 짚습니다. 이어 Inverse Design, cVAE, Integrated Gradients 같은 AI·ML 기법으로 포토닉스 소자를 더 작고 제조하기 쉽게 설계하는 최신 연구를 살펴봅니다. 도메인 지식과",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Z6sltgRAkWU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-08T14:30:28.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:90eec4f35444914d824599bf48a81a63a46c903265e317388b55225c6cd8a10d",
+      "dedupeKey": "brief:opp_5678e003347b94d38b10:sha256:90eec4f35444914d824599bf48a81a63a46c903265e317388b55225c6cd8a10d",
+      "firstSeenAt": "2026-08-09T00:05:44.372Z",
+      "lastSeenAt": "2026-08-09T00:05:44.372Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -17285,6 +17436,24 @@
       "opportunityId": "opp_a8bdb4f5ea9f6ee7a04f",
       "sentAt": "2026-08-08T09:34:50.822Z",
       "messageId": "1535582053050093609"
+    },
+    "brief:opp_5678e003347b94d38b10:sha256:90eec4f35444914d824599bf48a81a63a46c903265e317388b55225c6cd8a10d": {
+      "status": "SENT",
+      "opportunityId": "opp_5678e003347b94d38b10",
+      "sentAt": "2026-08-09T00:05:44.372Z",
+      "messageId": "1535801221498011730"
+    },
+    "brief:opp_0df16202bc74254082df:sha256:0bbf6cef60d6151f547f093e37164754520e356b3e664cdcb30fd902620fca9f": {
+      "status": "SENT",
+      "opportunityId": "opp_0df16202bc74254082df",
+      "sentAt": "2026-08-09T00:05:44.372Z",
+      "messageId": "1535801221498011730"
+    },
+    "brief:opp_dff7e841239febd0cbd2:sha256:b5033a2d0b94437c8f0ad7f653f63315e3ddf441fc44dab1adb5c593290c3d81": {
+      "status": "SENT",
+      "opportunityId": "opp_dff7e841239febd0cbd2",
+      "sentAt": "2026-08-09T00:05:44.372Z",
+      "messageId": "1535801221498011730"
     }
   },
   "pending": {},
