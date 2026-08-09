@@ -15928,6 +15928,165 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_31d3464441ac4f7cc80a": {
+      "id": "opp_31d3464441ac4f7cc80a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:W7hJVj1yb34",
+      "canonicalUrl": "https://www.youtube.com/watch?v=W7hJVj1yb34",
+      "title": "[한영자막] AI 활용의 1%의 법칙",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T09:00:26+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "구글 수석과학자 Jeff Dean이 Y Combinator Startup School 2026 무대에서 TPU, MapReduce, 컨텍스트 엔지니어링, 그리고 스타트업이 구글을 이길 수 있는 지점까지 솔직하게 풀어놓은 인터뷰입니다. 주요 포인트 - 2013년 음성 인식 서버 비용을 계산한 냅킨 한 장이 TPU 개발로 이어진 실화 - 연산보다 데이터 이동에 에너지가 1000배 더 든다는, AI 하드웨어 설계의 숨은 원리 - 에이전트가 30~40단계쯤에서 삼천포로 빠지는 이유와 이를 막는 실전 팁",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=W7hJVj1yb34"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-09T09:00:26.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:16c32b2a8446af287aae88a9b5ae7468a1c100155f3a44c8240625ef7b4e2110",
+      "dedupeKey": "brief:opp_31d3464441ac4f7cc80a:sha256:16c32b2a8446af287aae88a9b5ae7468a1c100155f3a44c8240625ef7b4e2110",
+      "firstSeenAt": "2026-08-09T09:35:54.696Z",
+      "lastSeenAt": "2026-08-09T09:35:54.696Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9904d71ba61c391eca6e": {
+      "id": "opp_9904d71ba61c391eca6e",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:Kve2d_PpIHQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Kve2d_PpIHQ",
+      "title": "IT뉴스 - Google 리더십 개편, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T08:59:56+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - Google 리더십 개편, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등 조코딩과 코딩 공부하기 https://jocoding.net/ 제보 메일: jebo@jocoding.net",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Kve2d_PpIHQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-09T08:59:56.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de94460f99207c45d7600522ebaaa3ec0b1c3539d842a7d83a14ae34bbca9483",
+      "dedupeKey": "brief:opp_9904d71ba61c391eca6e:sha256:de94460f99207c45d7600522ebaaa3ec0b1c3539d842a7d83a14ae34bbca9483",
+      "firstSeenAt": "2026-08-09T09:35:54.696Z",
+      "lastSeenAt": "2026-08-09T09:35:54.696Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1bff6fe72f2487a201bd": {
+      "id": "opp_1bff6fe72f2487a201bd",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:eiMYL6byyFo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eiMYL6byyFo",
+      "title": "AI 영상 자동화 — Claude Code가 자동차 광고 컷 10개를 뽑았습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T09:06:48+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "배우도 촬영장도 없이 자동차 광고 컷 10개를 만들었습니다. Claude에 커넥터 하나 붙이는 걸로 시작합니다. ▶ Higgsfield 시작하기 (커넥터 연결 30초) https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-ai-agentos-vOmMJa ※ 이 영상은 Higgsfield의 유료 광고를 포함하고 있습니다. ━━━━━━━━━━━━━━━━━━━━ AI로 영상을 뽑아본 분들이 공통으로 겪는 문제가 있습니다. 컷 하나는 잘 나오는데, 두 번째 컷에서 사람 얼굴이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=eiMYL6byyFo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-09T09:06:48.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:263e76e3acc2ffed4fe43e4b5bfac9040fb1b3a13e71066299df4626fd026858",
+      "dedupeKey": "brief:opp_1bff6fe72f2487a201bd:sha256:263e76e3acc2ffed4fe43e4b5bfac9040fb1b3a13e71066299df4626fd026858",
+      "firstSeenAt": "2026-08-09T09:35:54.696Z",
+      "lastSeenAt": "2026-08-09T09:35:54.696Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -17682,6 +17841,24 @@
       "opportunityId": "opp_3b6a41171f7545eb79bf",
       "sentAt": "2026-08-09T09:05:20.335Z",
       "messageId": "1535937014292160523"
+    },
+    "brief:opp_1bff6fe72f2487a201bd:sha256:263e76e3acc2ffed4fe43e4b5bfac9040fb1b3a13e71066299df4626fd026858": {
+      "status": "SENT",
+      "opportunityId": "opp_1bff6fe72f2487a201bd",
+      "sentAt": "2026-08-09T09:35:54.696Z",
+      "messageId": "1535944708537327667"
+    },
+    "brief:opp_9904d71ba61c391eca6e:sha256:de94460f99207c45d7600522ebaaa3ec0b1c3539d842a7d83a14ae34bbca9483": {
+      "status": "SENT",
+      "opportunityId": "opp_9904d71ba61c391eca6e",
+      "sentAt": "2026-08-09T09:35:54.696Z",
+      "messageId": "1535944708537327667"
+    },
+    "brief:opp_31d3464441ac4f7cc80a:sha256:16c32b2a8446af287aae88a9b5ae7468a1c100155f3a44c8240625ef7b4e2110": {
+      "status": "SENT",
+      "opportunityId": "opp_31d3464441ac4f7cc80a",
+      "sentAt": "2026-08-09T09:35:54.696Z",
+      "messageId": "1535944708537327667"
     }
   },
   "pending": {},
