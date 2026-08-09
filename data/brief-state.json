@@ -15724,6 +15724,210 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_3b6a41171f7545eb79bf": {
+      "id": "opp_3b6a41171f7545eb79bf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32282",
+      "canonicalUrl": "https://github.com/watzon/goshot",
+      "title": "goshot - 코드 스크린샷 생성기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Carbon/Silicon과 유사하게 코드와 터미널 출력을 아름다운 스크린샷으로 만드는 Go 라이브러리이자 CLI 문법 하이라이팅을 chroma 기반 수백 개 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32282"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c20bb33bec3c1f0854904615198ebe1f5e8ae85e20ffe62828ce1e914b19389f",
+      "dedupeKey": "brief:opp_3b6a41171f7545eb79bf:sha256:c20bb33bec3c1f0854904615198ebe1f5e8ae85e20ffe62828ce1e914b19389f",
+      "firstSeenAt": "2026-08-09T09:05:20.335Z",
+      "lastSeenAt": "2026-08-09T09:05:20.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5c8e9151fd05830a4068": {
+      "id": "opp_5c8e9151fd05830a4068",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32276",
+      "canonicalUrl": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "title": "“코드는 결코 어려운 부분이 아니었다”는 말은 모든 프로그래머에 대한 모욕이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T05:33:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 프로그래밍을 바꾸고 있지만 코딩을 쉬운 작업으로 치부하면, 오랫동안 요구된 기술·경험·노력과 소프트웨어가 여전히 버그투성이라는 현실을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32276"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:2e14405e360c540525b88821aa8863b1a2fe291d112e1631c1d04ae2572e93ec",
+      "dedupeKey": "brief:opp_5c8e9151fd05830a4068:sha256:2e14405e360c540525b88821aa8863b1a2fe291d112e1631c1d04ae2572e93ec",
+      "firstSeenAt": "2026-08-09T09:05:20.335Z",
+      "lastSeenAt": "2026-08-09T09:05:20.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5660e01c3dc056eac6a6": {
+      "id": "opp_5660e01c3dc056eac6a6",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:PcmxhM5YoN4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PcmxhM5YoN4",
+      "title": "[모니터링] 구글이 알려준 꼭 봐아할 지표 4가지 | 멤버십 영상",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T02:47:59+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "(2026.06월에 업로드 한 멤버십 영상입니다.) '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/playlist?list=UUMORpOx7jjy2PuuVeRrYKbdCA 개발자 이직·면접·커리어 멘토링 https://inf.run/gRZHG Redis 실전 가이드: 기초부터 실무 패턴까지 https://inf.run/8HptS 객체지향 제대로 배우기(with Python) https://inf.run/vTZSX 처음부터 제대로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PcmxhM5YoN4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-09T02:47:59.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b1a9e3bd257ffdcc47c855719acd3239fd1c9f3204a04357681b54574b7dcf71",
+      "dedupeKey": "brief:opp_5660e01c3dc056eac6a6:sha256:b1a9e3bd257ffdcc47c855719acd3239fd1c9f3204a04357681b54574b7dcf71",
+      "firstSeenAt": "2026-08-09T09:05:20.335Z",
+      "lastSeenAt": "2026-08-09T09:05:20.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a44f65667254b43eec99": {
+      "id": "opp_a44f65667254b43eec99",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:wGxYJRtncEk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wGxYJRtncEk",
+      "title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T08:13:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "SpaceX가 2027년 말까지 10GW에 가까운 AI 컴퓨팅 용량을 구축하겠다는 목표를 내놓았습니다. 단순 출력으로 비교하면 한국형 원전 APR1400 약 7기에 해당하는 규모입니다. 이번 영상에서는 SemiAnalysis가 SpaceX의 계획을 분석하며 내놓은 ‘1GW당 연간 1,000억 달러’라는 계산을 살펴봅니다. 전력이 GPU를 돌리고, GPU가 토큰을 만들고, 이 토큰이 실제 AI 서비스 매출로 이어지는 구조를 쉽게 풀어봤습니다. NVIDIA가 왜 최근 GPU의 최고 연산성능뿐 아니라",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=wGxYJRtncEk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-09T08:13:38.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2493526f7dda1a922d025a5fc0c9490c6133cebbf1bf3d360abfa60454d53a1f",
+      "dedupeKey": "brief:opp_a44f65667254b43eec99:sha256:2493526f7dda1a922d025a5fc0c9490c6133cebbf1bf3d360abfa60454d53a1f",
+      "firstSeenAt": "2026-08-09T09:05:20.335Z",
+      "lastSeenAt": "2026-08-09T09:05:20.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -17454,6 +17658,30 @@
       "opportunityId": "opp_dff7e841239febd0cbd2",
       "sentAt": "2026-08-09T00:05:44.372Z",
       "messageId": "1535801221498011730"
+    },
+    "brief:opp_5c8e9151fd05830a4068:sha256:2e14405e360c540525b88821aa8863b1a2fe291d112e1631c1d04ae2572e93ec": {
+      "status": "SENT",
+      "opportunityId": "opp_5c8e9151fd05830a4068",
+      "sentAt": "2026-08-09T09:05:20.335Z",
+      "messageId": "1535937014292160523"
+    },
+    "brief:opp_a44f65667254b43eec99:sha256:2493526f7dda1a922d025a5fc0c9490c6133cebbf1bf3d360abfa60454d53a1f": {
+      "status": "SENT",
+      "opportunityId": "opp_a44f65667254b43eec99",
+      "sentAt": "2026-08-09T09:05:20.335Z",
+      "messageId": "1535937014292160523"
+    },
+    "brief:opp_5660e01c3dc056eac6a6:sha256:b1a9e3bd257ffdcc47c855719acd3239fd1c9f3204a04357681b54574b7dcf71": {
+      "status": "SENT",
+      "opportunityId": "opp_5660e01c3dc056eac6a6",
+      "sentAt": "2026-08-09T09:05:20.335Z",
+      "messageId": "1535937014292160523"
+    },
+    "brief:opp_3b6a41171f7545eb79bf:sha256:c20bb33bec3c1f0854904615198ebe1f5e8ae85e20ffe62828ce1e914b19389f": {
+      "status": "SENT",
+      "opportunityId": "opp_3b6a41171f7545eb79bf",
+      "sentAt": "2026-08-09T09:05:20.335Z",
+      "messageId": "1535937014292160523"
     }
   },
   "pending": {},
