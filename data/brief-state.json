@@ -16087,6 +16087,202 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_b695d516ec38f4100e87": {
+      "id": "opp_b695d516ec38f4100e87",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32322",
+      "canonicalUrl": "https://stng.substack.com/p/rewrite-all-the-code-all-the-time",
+      "title": "모든 코드를, 항상 다시 작성하라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T09:44:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 코드 생성 비용이 계속 낮아지면 프로덕션 코드를 희소한 자산으로 유지할 이유가 사라지고, 대규모 코드베이스를 지속적으로 재작성하는 것...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32322"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9ce481988a2b9ab47a78152ee7593617a97f27d523e036f3612bb675599ac794",
+      "dedupeKey": "brief:opp_b695d516ec38f4100e87:sha256:9ce481988a2b9ab47a78152ee7593617a97f27d523e036f3612bb675599ac794",
+      "firstSeenAt": "2026-08-10T01:53:48.320Z",
+      "lastSeenAt": "2026-08-10T01:53:48.320Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_048bb325cd9875551394": {
+      "id": "opp_048bb325cd9875551394",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32321",
+      "canonicalUrl": "https://github.com/Nutlope/hallmark",
+      "title": "hallmark - AI 티가 안나는 디자인 스킬",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T09:41:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩 어시스턴트가 만드는 뻔한 디자인을 피하기 위해, 타이포/색상/레이아웃/모션/인터랙션에 걸친 안티 슬롭(anti-AI-slop) 규칙을 하나로 묶...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32321"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:53b7db39ae718646c946ef91780b4e998a9e1f1d2b64a4e6cca694f5255a1021",
+      "dedupeKey": "brief:opp_048bb325cd9875551394:sha256:53b7db39ae718646c946ef91780b4e998a9e1f1d2b64a4e6cca694f5255a1021",
+      "firstSeenAt": "2026-08-10T01:53:48.320Z",
+      "lastSeenAt": "2026-08-10T01:53:48.320Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2683047a451ba0f9259c": {
+      "id": "opp_2683047a451ba0f9259c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32294",
+      "canonicalUrl": "https://news.hada.io/topic?id=32294",
+      "title": "Show GN: Airy – 쉽게 쓰는 무료 TTS 음성 콘텐츠 제작툴",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T18:54:47+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "TTS 음성 콘텐츠를 쉽게 만들 수 있는 서비스인 Airy를 오픈했습니다. 주요 특징은 다음과 같습니다. TTS 생성 및 다운로드 무료 매우 빠른 TTS 생...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32294"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3e4c0f2a89553d59a0ad7857cfea6f455e6ff6c09372fd6877d226986b83b062",
+      "dedupeKey": "brief:opp_2683047a451ba0f9259c:sha256:3e4c0f2a89553d59a0ad7857cfea6f455e6ff6c09372fd6877d226986b83b062",
+      "firstSeenAt": "2026-08-10T01:53:48.320Z",
+      "lastSeenAt": "2026-08-10T01:53:48.320Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b2c91d156e06c565448a": {
+      "id": "opp_b2c91d156e06c565448a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32285",
+      "canonicalUrl": "https://news.hada.io/topic?id=32285",
+      "title": "Show GN: 지나온 주제를 지도로 그려서 그게 내 정체성이 되는 커뮤니티를 만들었습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T14:41:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 가입·닉네임 없이 단어 하나로 방을 여는 익명 커뮤니티 &#039;노딩&#039;을 만들고 있습니다. 핵심 프로필 대신 이동 경로가 정체성이 됩니다 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32285"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 18,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5bf3e1cf83285ea1c51fb60b2b18878d6c73138d463eeccd1b4bcd2119f488d2",
+      "dedupeKey": "brief:opp_b2c91d156e06c565448a:sha256:5bf3e1cf83285ea1c51fb60b2b18878d6c73138d463eeccd1b4bcd2119f488d2",
+      "firstSeenAt": "2026-08-10T01:53:48.320Z",
+      "lastSeenAt": "2026-08-10T01:53:48.320Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -17859,6 +18055,18 @@
       "opportunityId": "opp_31d3464441ac4f7cc80a",
       "sentAt": "2026-08-09T09:35:54.696Z",
       "messageId": "1535944708537327667"
+    },
+    "brief:opp_048bb325cd9875551394:sha256:53b7db39ae718646c946ef91780b4e998a9e1f1d2b64a4e6cca694f5255a1021": {
+      "status": "SENT",
+      "opportunityId": "opp_048bb325cd9875551394",
+      "sentAt": "2026-08-10T01:53:48.320Z",
+      "messageId": "1536190803918061639"
+    },
+    "brief:opp_b695d516ec38f4100e87:sha256:9ce481988a2b9ab47a78152ee7593617a97f27d523e036f3612bb675599ac794": {
+      "status": "SENT",
+      "opportunityId": "opp_b695d516ec38f4100e87",
+      "sentAt": "2026-08-10T01:53:48.320Z",
+      "messageId": "1536190803918061639"
     }
   },
   "pending": {},
