@@ -16212,8 +16212,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 12,
+        "communityPoints": 7,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16227,8 +16227,8 @@
       },
       "contentHash": "sha256:3e4c0f2a89553d59a0ad7857cfea6f455e6ff6c09372fd6877d226986b83b062",
       "dedupeKey": "brief:opp_2683047a451ba0f9259c:sha256:3e4c0f2a89553d59a0ad7857cfea6f455e6ff6c09372fd6877d226986b83b062",
-      "firstSeenAt": "2026-08-10T01:53:48.320Z",
-      "lastSeenAt": "2026-08-10T01:53:48.320Z",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16281,6 +16281,451 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a03963800b6a7ae2ebb3": {
+      "id": "opp_a03963800b6a7ae2ebb3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32327",
+      "canonicalUrl": "https://news.hada.io/topic?id=32327",
+      "title": "Show GN: API 키 없이 URL 하나로 쓰는 한국 주식 데이터 JSON·MCP 서버를 만들었습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T10:19:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "KOSPI·KOSDAQ 1,463종목의 확정 종가·DART 공시·분기 실적을 가입·API 키 없이 JSON으로 받거나, Claude/ChatGPT에 MCP로 붙일 수 있는 서비스를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32327"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3e248db3e02315e7da147616cfcb4737769a2d432dfd6b2b650cfa5b29b1a33c",
+      "dedupeKey": "brief:opp_a03963800b6a7ae2ebb3:sha256:3e248db3e02315e7da147616cfcb4737769a2d432dfd6b2b650cfa5b29b1a33c",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ae1dedb7f4fe6d10df7c": {
+      "id": "opp_ae1dedb7f4fe6d10df7c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32318",
+      "canonicalUrl": "https://github.com/OtterMind/Chat2DB",
+      "title": "Chat2DB - AI 기반 데이터베이스 클라이언트 & SQL 워크스페이스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "개발자, DBA, 분석가, 데이터 팀을 위한 AI 기반 데이터베이스 클라이언트로, 완전한 SQL 워크스페이스와 AI 어시스턴트를 결합 윈/맥/리눅스에서 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32318"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
+      "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_edcb0640347cf71454fb": {
+      "id": "opp_edcb0640347cf71454fb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32326",
+      "canonicalUrl": "https://boringsql.com/posts/mvcc-bad-bad",
+      "title": "PostgreSQL의 MVCC는 나쁘다. 다른 DB도 마찬가지다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T10:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "PostgreSQL의 쓰기 증폭, 테이블 팽창, VACUUM 부담, 32-bit XID wraparound는 실제 문제지만, 이는 MVCC 자체의 결함이라기보다 과거 버전을 테이...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32326"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:800825af59c056c74a65923beef36009c77b63aee01b9a26a805552f47f12053",
+      "dedupeKey": "brief:opp_edcb0640347cf71454fb:sha256:800825af59c056c74a65923beef36009c77b63aee01b9a26a805552f47f12053",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f4242f0e18028052ab87": {
+      "id": "opp_f4242f0e18028052ab87",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32325",
+      "canonicalUrl": "https://news.hada.io/topic?id=32325",
+      "title": "Show GN: 취업을하자 – 채용공고를 오픈소스 프로젝트와 면접 준비로 연결하는 AI 스킬",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T10:03:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 개발 직군 인턴/신입 취업을 준비할 때 “공고는 찾았는데, 그래서 어떤 프로젝트를 해야 하지?”​라는 문제를 풀어보고 싶어서 취업을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32325"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1aef981fe3bf2e39b406b033695d3d5ad340f3eb2d320818079aa4b38a52cb38",
+      "dedupeKey": "brief:opp_f4242f0e18028052ab87:sha256:1aef981fe3bf2e39b406b033695d3d5ad340f3eb2d320818079aa4b38a52cb38",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c56b74ba68df9bd204a8": {
+      "id": "opp_c56b74ba68df9bd204a8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32324",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+      "title": "SQLite에서 배운 신뢰성의 교훈 - Richard Hipp [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T10:00:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "장애가 잦던 Informix 서버를 우회해 디스크 데이터에 직접 접근하려는 필요에서 출발한 SQLite는 현재 1조 개 이상의 데이터베이스가 사용되는 것...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32324"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
+      "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_439f41537f5db52b16c0": {
+      "id": "opp_439f41537f5db52b16c0",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "fb1dd6c185643e1cb31e22811b4380f29e5deaaa",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/hanwha-claude-cowork-on-bedrock",
+      "title": "한화솔루션의 Amazon Bedrock 기반 Claude Cowork 전사 도입 여정 — 사내 LLM Gateway로 완성한 거버넌스",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 04:06:17 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 한화솔루션 분석/AI팀과 AWS의 협업으로 작성되었습니다 한화솔루션은 사내 임직원과 개발자가 Claude 기반 도구(Claude Cowork, Claude Code)를 안전하고 통제 가능한 방식으로 사용할 수 있도록, Amazon Bedrock 위에 단일 사내 LLM Gateway를 구축했습니다. 특히 Claude Cowork를 AWS 기반으로 전사에 안정 배포한 것은 국내 첫 사례입니다. 이 게이트웨이는 계열사별로 분리된 여러 인증 체계를 하나로 수용하는 멀티테넌트 인증에서 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/hanwha-claude-cowork-on-bedrock/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e5821ef35c7a99e93654dfe6f5e97606c75d58fe7a6227c9c9195df0673937d2",
+      "dedupeKey": "brief:opp_439f41537f5db52b16c0:sha256:e5821ef35c7a99e93654dfe6f5e97606c75d58fe7a6227c9c9195df0673937d2",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b8780b5f07bc998d05e8": {
+      "id": "opp_b8780b5f07bc998d05e8",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "922f79c3e673951795c2f3cb7bc7b401fd1c6103",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/customize-ai-dlc-for-system-maintenance",
+      "title": "AWS AI-DLC를 System Maintenance 환경에 맞게 커스터마이징하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 02:55:38 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "LG CNS는 AWS 프리미어 파트너로, 다수의 대규모 엔터프라이즈 고객을 대상으로 System Maintenance(운영 유지보수)/Application Modernization(현대화)/Migration 서비스를 제공하고 있습니다. 이 글은 그중 한 고객사의 System Maintenance 프로젝트에서 AI-DLC를 도입·커스터마이징하며 축적한 실전 경험을 바탕으로 작성되었습니다. 들어가며 생성형 AI를 개발에 활용하는 방식은 빠르게 진화해 왔습니다. 좋은 프롬프트로 응답 품질을 끌어올리는",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/customize-ai-dlc-for-system-maintenance/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4273db45c1a5c1b47de05c6ec1bc3325fe94f58ef1d7c73a303e66854f9b3362",
+      "dedupeKey": "brief:opp_b8780b5f07bc998d05e8:sha256:4273db45c1a5c1b47de05c6ec1bc3325fe94f58ef1d7c73a303e66854f9b3362",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_04ab2559d7c6a76fa755": {
+      "id": "opp_04ab2559d7c6a76fa755",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/52209",
+      "canonicalUrl": "https://toss.tech/article/52209",
+      "title": "모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 02:40:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "토스에서 100명이 넘는 엔지니어들이 모노리포에서 장점만을 누리기 위해 카탈로그를 도입한 이야기를 소개합니다.",
+      "summaryEvidence": [
+        "https://toss.tech/article/52209"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fc3b5e62326ee113f9991ef1413ad9c85eb03f9ed0c3ae3dfe00c9bac972fabf",
+      "dedupeKey": "brief:opp_04ab2559d7c6a76fa755:sha256:fc3b5e62326ee113f9991ef1413ad9c85eb03f9ed0c3ae3dfe00c9bac972fabf",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ae6998074c401d9953ac": {
+      "id": "opp_ae6998074c401d9953ac",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:eAm9kuLmGDA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eAm9kuLmGDA",
+      "title": "[한영자막] 에이전트 개발, 하지 말아야 할 것부터 배우세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T04:52:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic의 Claude 자격시험(CCA)을 여섯 가지 실무 시나리오와 안티패턴 중심으로 풀어낸 강연입니다. 무엇을 하면 안 되는지 알아야 무엇을 해야 할지도 알 수 있다는 메시지를 담고 있습니다. 주요 내용 - 에이전틱 루프에서 stop_reason을 기준으로 제어 흐름을 짜야 하는 이유 - CLAUDE.md를 프로젝트/폴더 단위로 계층화해서 관리하는 방법 - 멀티 에이전트 시스템에서 각 에이전트에 툴과 컨텍스트를 나눠줘야 하는 이유 (전문화, 집단사고 방지) - 서브태스크 결과를 메인",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=eAm9kuLmGDA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-10T04:52:02.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:db2243afa8c63e82dffe2599afa6a9595cc7c04f24167f0a64ad5828da8bc45e",
+      "dedupeKey": "brief:opp_ae6998074c401d9953ac:sha256:db2243afa8c63e82dffe2599afa6a9595cc7c04f24167f0a64ad5828da8bc45e",
+      "firstSeenAt": "2026-08-10T09:06:15.627Z",
+      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -18067,6 +18512,42 @@
       "opportunityId": "opp_b695d516ec38f4100e87",
       "sentAt": "2026-08-10T01:53:48.320Z",
       "messageId": "1536190803918061639"
+    },
+    "brief:opp_439f41537f5db52b16c0:sha256:e5821ef35c7a99e93654dfe6f5e97606c75d58fe7a6227c9c9195df0673937d2": {
+      "status": "SENT",
+      "opportunityId": "opp_439f41537f5db52b16c0",
+      "sentAt": "2026-08-10T09:06:15.627Z",
+      "messageId": "1536299633930928131"
+    },
+    "brief:opp_b8780b5f07bc998d05e8:sha256:4273db45c1a5c1b47de05c6ec1bc3325fe94f58ef1d7c73a303e66854f9b3362": {
+      "status": "SENT",
+      "opportunityId": "opp_b8780b5f07bc998d05e8",
+      "sentAt": "2026-08-10T09:06:15.627Z",
+      "messageId": "1536299633930928131"
+    },
+    "brief:opp_04ab2559d7c6a76fa755:sha256:fc3b5e62326ee113f9991ef1413ad9c85eb03f9ed0c3ae3dfe00c9bac972fabf": {
+      "status": "SENT",
+      "opportunityId": "opp_04ab2559d7c6a76fa755",
+      "sentAt": "2026-08-10T09:06:15.627Z",
+      "messageId": "1536299633930928131"
+    },
+    "brief:opp_a03963800b6a7ae2ebb3:sha256:3e248db3e02315e7da147616cfcb4737769a2d432dfd6b2b650cfa5b29b1a33c": {
+      "status": "SENT",
+      "opportunityId": "opp_a03963800b6a7ae2ebb3",
+      "sentAt": "2026-08-10T09:06:15.627Z",
+      "messageId": "1536299633930928131"
+    },
+    "brief:opp_f4242f0e18028052ab87:sha256:1aef981fe3bf2e39b406b033695d3d5ad340f3eb2d320818079aa4b38a52cb38": {
+      "status": "SENT",
+      "opportunityId": "opp_f4242f0e18028052ab87",
+      "sentAt": "2026-08-10T09:06:15.627Z",
+      "messageId": "1536299633930928131"
+    },
+    "brief:opp_ae6998074c401d9953ac:sha256:db2243afa8c63e82dffe2599afa6a9595cc7c04f24167f0a64ad5828da8bc45e": {
+      "status": "SENT",
+      "opportunityId": "opp_ae6998074c401d9953ac",
+      "sentAt": "2026-08-10T09:06:15.627Z",
+      "messageId": "1536299633930928131"
     }
   },
   "pending": {},
