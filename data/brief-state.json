@@ -16374,8 +16374,8 @@
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-10T09:06:15.627Z",
-      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "firstSeenAt": "2026-08-10T10:14:00.799Z",
+      "lastSeenAt": "2026-08-10T10:14:00.799Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16423,11 +16423,11 @@
       },
       "contentHash": "sha256:800825af59c056c74a65923beef36009c77b63aee01b9a26a805552f47f12053",
       "dedupeKey": "brief:opp_edcb0640347cf71454fb:sha256:800825af59c056c74a65923beef36009c77b63aee01b9a26a805552f47f12053",
-      "firstSeenAt": "2026-08-10T09:06:15.627Z",
-      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "firstSeenAt": "2026-08-10T10:14:00.799Z",
+      "lastSeenAt": "2026-08-10T10:14:00.799Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -16507,7 +16507,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16521,8 +16521,8 @@
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-10T09:06:15.627Z",
-      "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "firstSeenAt": "2026-08-10T10:14:00.799Z",
+      "lastSeenAt": "2026-08-10T10:14:00.799Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16723,6 +16723,161 @@
       "dedupeKey": "brief:opp_ae6998074c401d9953ac:sha256:db2243afa8c63e82dffe2599afa6a9595cc7c04f24167f0a64ad5828da8bc45e",
       "firstSeenAt": "2026-08-10T09:06:15.627Z",
       "lastSeenAt": "2026-08-10T09:06:15.627Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_35bccd054299327d2ac4": {
+      "id": "opp_35bccd054299327d2ac4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32332",
+      "canonicalUrl": "https://news.hada.io/topic?id=32332",
+      "title": "Show GN: OtterZip – 광고 없이 그냥 되는 무료 압축툴 (Rust 코어, 오픈소스)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T11:38:06+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "압축 하나 풀려고 프로그램 켰더니 광고에 결제 유도에... 그게 싫어서 \"조용히 그냥 되는\" 압축툴을 만들었습니다. OtterZip입니다. 맥에서 Keka...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32332"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:65b8563b2f5aa6b396d3e0a8fa5f3eecdd92f457bb55745fb354fc64096e6efc",
+      "dedupeKey": "brief:opp_35bccd054299327d2ac4:sha256:65b8563b2f5aa6b396d3e0a8fa5f3eecdd92f457bb55745fb354fc64096e6efc",
+      "firstSeenAt": "2026-08-10T10:14:00.799Z",
+      "lastSeenAt": "2026-08-10T10:14:00.799Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6373949d51715982d8b9": {
+      "id": "opp_6373949d51715982d8b9",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:a2jsKDTOOJY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=a2jsKDTOOJY",
+      "title": "[한영자막] 지능은 빌리지 말고 소유하세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T09:00:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Y 콤비네이터 CEO 게리 탠이 스타트업 스쿨 2026 무대에서 말하는 '퍼스널 AGI' 이야기입니다. 이제는 개인이 자신만의 지식과 기록을 담은 AI 에이전트를 직접 소유하고 운영하는 시대가 왔다는 메시지를 전합니다. 주요 내용 - 300여 년 전 파문당한 철학자 스피노자의 삶에서 시작하는 이야기 - 코딩 생산성이 400배까지 늘었다는 본인의 실제 경험 - 도서관(라이브러리)과 사서(스킬 파일)로 이루어진 개인 AI 시스템의 구조 - 오늘 밤 바로 시작할 수 있는 퍼스널 AGI 구축 5단계 -",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=a2jsKDTOOJY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-10T09:00:33.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7a9dbb076f243d59a5c58b1c0fc945496c5ca055f6a403a2f3fc1f2eb2ce152",
+      "dedupeKey": "brief:opp_6373949d51715982d8b9:sha256:c7a9dbb076f243d59a5c58b1c0fc945496c5ca055f6a403a2f3fc1f2eb2ce152",
+      "firstSeenAt": "2026-08-10T10:14:00.799Z",
+      "lastSeenAt": "2026-08-10T10:14:00.799Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2712fe928b1cf0a7505d": {
+      "id": "opp_2712fe928b1cf0a7505d",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:EwAAkimTLd8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EwAAkimTLd8",
+      "title": "실리콘밸리 최전선에 있는 디자이너는 어떻게 일하고 있을까 | Gamma 안채민",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T09:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"AI가 아직 크래프트나 테이스트의 영역은 못 넘본다고들 하죠. 저는 동의하지 않습니다. 테이스트는 학습이 가능하거든요.\" 모두가 피그마를 켜는 지금, 안채민 디자이너는 피그마를 껐습니다. 독일에서 태어나 아홉 살에 한국으로 왔고 고려대에 다니던 시절, 미국 10대 디자인 컨설팅 회사에 무작정 이력서를 돌렸습니다. 비자가 뭔지도 모르던 때였죠. 전부 거절당했고, 결국 반액 장학금을 받아 시카고 IIT Institute of Design으로 건너갔습니다. BCG Digital Ventures에서 3",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=EwAAkimTLd8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-10T09:00:36.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5621237e3504a00f5d1f97d74513daed55e2aad43de8724867e15c67f265ba66",
+      "dedupeKey": "brief:opp_2712fe928b1cf0a7505d:sha256:5621237e3504a00f5d1f97d74513daed55e2aad43de8724867e15c67f265ba66",
+      "firstSeenAt": "2026-08-10T10:14:00.799Z",
+      "lastSeenAt": "2026-08-10T10:14:00.799Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -18548,6 +18703,30 @@
       "opportunityId": "opp_ae6998074c401d9953ac",
       "sentAt": "2026-08-10T09:06:15.627Z",
       "messageId": "1536299633930928131"
+    },
+    "brief:opp_35bccd054299327d2ac4:sha256:65b8563b2f5aa6b396d3e0a8fa5f3eecdd92f457bb55745fb354fc64096e6efc": {
+      "status": "SENT",
+      "opportunityId": "opp_35bccd054299327d2ac4",
+      "sentAt": "2026-08-10T10:14:00.799Z",
+      "messageId": "1536316684976005141"
+    },
+    "brief:opp_2712fe928b1cf0a7505d:sha256:5621237e3504a00f5d1f97d74513daed55e2aad43de8724867e15c67f265ba66": {
+      "status": "SENT",
+      "opportunityId": "opp_2712fe928b1cf0a7505d",
+      "sentAt": "2026-08-10T10:14:00.799Z",
+      "messageId": "1536316684976005141"
+    },
+    "brief:opp_6373949d51715982d8b9:sha256:c7a9dbb076f243d59a5c58b1c0fc945496c5ca055f6a403a2f3fc1f2eb2ce152": {
+      "status": "SENT",
+      "opportunityId": "opp_6373949d51715982d8b9",
+      "sentAt": "2026-08-10T10:14:00.799Z",
+      "messageId": "1536316684976005141"
+    },
+    "brief:opp_edcb0640347cf71454fb:sha256:800825af59c056c74a65923beef36009c77b63aee01b9a26a805552f47f12053": {
+      "status": "SENT",
+      "opportunityId": "opp_edcb0640347cf71454fb",
+      "sentAt": "2026-08-10T10:14:00.799Z",
+      "messageId": "1536316684976005141"
     }
   },
   "pending": {},
