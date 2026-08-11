@@ -16359,8 +16359,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 4,
+        "communityPoints": 8,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16374,8 +16374,8 @@
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-10T10:14:00.799Z",
-      "lastSeenAt": "2026-08-10T10:14:00.799Z",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16506,8 +16506,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 9,
+        "communityPoints": 6,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16521,8 +16521,8 @@
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-10T10:14:00.799Z",
-      "lastSeenAt": "2026-08-10T10:14:00.799Z",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16878,6 +16878,638 @@
       "dedupeKey": "brief:opp_2712fe928b1cf0a7505d:sha256:5621237e3504a00f5d1f97d74513daed55e2aad43de8724867e15c67f265ba66",
       "firstSeenAt": "2026-08-10T10:14:00.799Z",
       "lastSeenAt": "2026-08-10T10:14:00.799Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_14490046d79006679a65": {
+      "id": "opp_14490046d79006679a65",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32301",
+      "canonicalUrl": "https://www.andrewt.net/dithered-qr-codes/wtf",
+      "title": "디더링 QR 코드 만들기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-09T23:33:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "QR 코드의 데이터 모듈 주변 공간에 오차 확산으로 사진을 표현하면, 이미지를 보여주면서도 스마트폰으로 읽을 수 있는 코드를 만들 수 있음 스캐...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32301"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 15,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5d533ee04d87612363c061dac4db80bd53462cb60ea3966e6234b877030154be",
+      "dedupeKey": "brief:opp_14490046d79006679a65:sha256:5d533ee04d87612363c061dac4db80bd53462cb60ea3966e6234b877030154be",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_13e4b9b75e3245d69473": {
+      "id": "opp_13e4b9b75e3245d69473",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "canonicalUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 14:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "summaryEvidence": [
+        "https://openai.com/index/responsible-ai-infrastructure-texas"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f",
+      "dedupeKey": "brief:opp_13e4b9b75e3245d69473:sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9ec5fc34b7f5579082e5": {
+      "id": "opp_9ec5fc34b7f5579082e5",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/model-ml",
+      "canonicalUrl": "https://openai.com/index/model-ml",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "summaryEvidence": [
+        "https://openai.com/index/model-ml"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b3edbbf240c4046be38ab3f3d957196042bc88e880516ce77996021110143370",
+      "dedupeKey": "brief:opp_9ec5fc34b7f5579082e5:sha256:b3edbbf240c4046be38ab3f3d957196042bc88e880516ce77996021110143370",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_91ceebab67b84cc65181": {
+      "id": "opp_91ceebab67b84cc65181",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/building-an-ai-native-finance-function",
+      "canonicalUrl": "https://openai.com/index/building-an-ai-native-finance-function",
+      "title": "What building an AI-native finance function taught me",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "summaryEvidence": [
+        "https://openai.com/index/building-an-ai-native-finance-function"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:976ec9d10c01c67ddbd0424d3a7d49bf3405161c5d1c04ae6afcd7181b010804",
+      "dedupeKey": "brief:opp_91ceebab67b84cc65181:sha256:976ec9d10c01c67ddbd0424d3a7d49bf3405161c5d1c04ae6afcd7181b010804",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8f066ae3e74f2637dd36": {
+      "id": "opp_8f066ae3e74f2637dd36",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "canonicalUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "summaryEvidence": [
+        "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:28aa02f6ecb5d7df3c7cb3096a998ffb74a619f2f7106a0a55ebeb6c21e17acf",
+      "dedupeKey": "brief:opp_8f066ae3e74f2637dd36:sha256:28aa02f6ecb5d7df3c7cb3096a998ffb74a619f2f7106a0a55ebeb6c21e17acf",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e5b74692ef55e105d74a": {
+      "id": "opp_e5b74692ef55e105d74a",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "canonicalUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "summaryEvidence": [
+        "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:31c9c0201aa6ca8cab80a83fc8675f09cb81a378cc61a4579eaaa322e20e0c81",
+      "dedupeKey": "brief:opp_e5b74692ef55e105d74a:sha256:31c9c0201aa6ca8cab80a83fc8675f09cb81a378cc61a4579eaaa322e20e0c81",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ce5cf03871d589451a2b": {
+      "id": "opp_ce5cf03871d589451a2b",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/premium-seats-chatgpt-business",
+      "canonicalUrl": "https://openai.com/index/premium-seats-chatgpt-business",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "summaryEvidence": [
+        "https://openai.com/index/premium-seats-chatgpt-business"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba",
+      "dedupeKey": "brief:opp_ce5cf03871d589451a2b:sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_242df76a7203d87df0c7": {
+      "id": "opp_242df76a7203d87df0c7",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/zapier",
+      "canonicalUrl": "https://openai.com/index/zapier",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "summaryEvidence": [
+        "https://openai.com/index/zapier"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
+      "dedupeKey": "brief:opp_242df76a7203d87df0c7:sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_64651dddf9e2088042f9": {
+      "id": "opp_64651dddf9e2088042f9",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "canonicalUrl": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "summaryEvidence": [
+        "https://openai.com/index/virgin-atlantic/chatgpt-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
+      "dedupeKey": "brief:opp_64651dddf9e2088042f9:sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f9d498a3d47f8ae56d98": {
+      "id": "opp_f9d498a3d47f8ae56d98",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=97992",
+      "canonicalUrl": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 10 Aug 2026 19:30:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cb6fe4902c4776032e5d95ddf32e2670ed89fc4757f40d37f2b88044393d37ec",
+      "dedupeKey": "brief:opp_f9d498a3d47f8ae56d98:sha256:cb6fe4902c4776032e5d95ddf32e2670ed89fc4757f40d37f2b88044393d37ec",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_526577f61cdc883324ba": {
+      "id": "opp_526577f61cdc883324ba",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/7337586",
+      "canonicalUrl": "https://d2.naver.com/helloworld/7337586",
+      "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T16:39:52Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<p><a href=\"https://d2.naver.com/helloworld/0525182\">1편</a>에서는 검색·추천 모델을 vLLM 사용자 정의 플러그인으로 옮겨 서빙 성능을 높인 과정을 소개했습니다. 모델을 vLLM에서 실행할 수 있게 된 뒤에는 또 다른 문제가 남았습니다. 모델마다 반복해야 하는 변환 작업이 복잡하고, vLLM의 빠른 변화까지 계속 따라가야 한다는 점입니다.</p> <p>Hugging Face 모델 하나를 vLLM에 올리는 과정은 버튼 한 번으로 끝나지 않습니다. ‘딸깍",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/7337586"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4b8ddd352749e65cf07669d6d53ec7013d3d7a42a618b426d3a965c81d1cd3f9",
+      "dedupeKey": "brief:opp_526577f61cdc883324ba:sha256:4b8ddd352749e65cf07669d6d53ec7013d3d7a42a618b426d3a965c81d1cd3f9",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f96c0f0143c33d40b715": {
+      "id": "opp_f96c0f0143c33d40b715",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/0525182",
+      "canonicalUrl": "https://d2.naver.com/helloworld/0525182",
+      "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T16:39:25Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<p>네이버 플레이스 AI MLOps는 지난 1년간 검색과 추천에 사용하는 스코어링 모델의 서빙 구조를 vLLM 기반으로 전환했습니다. 이 글에서는 사내 Engineering Day에서 발표한 내용을 바탕으로, 모델 서빙 경로를 최적화해 성능을 높인 과정을 소개합니다.</p> <p>먼저 결과부터 살펴보겠습니다. 0.6B 재순위화(reranking) 모델을 Hugging Face <code>Transformer.encode</code>로 서빙했을 때 처리량은 63.85 QPS였습니다. 같은 모델과",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/0525182"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8d80da5a5bb37812adbfc607fdd4d2319dad19ab7ee230f4dcdffa678c00ac7f",
+      "dedupeKey": "brief:opp_f96c0f0143c33d40b715:sha256:8d80da5a5bb37812adbfc607fdd4d2319dad19ab7ee230f4dcdffa678c00ac7f",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a555da67af595fdac380": {
+      "id": "opp_a555da67af595fdac380",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:Z3jUPEKm35Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Z3jUPEKm35Q",
+      "title": "AI 뉴스 - Google 떠나는 인재들, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T13:33:40+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ 🕖목차 00:00 어마어마한 인재가 떠나간 구글 01:45 제미나이는 망했지만 GCP는 대박? 02:34 구글, 사이클론 예측 WeatherNext 오픈소스 공개 02:59 구글, 오프라인 통역기 제작 03:35 GPT-6 더 늦어진다 04:34 생물학 질문 더 허용하는 클로드 0",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Z3jUPEKm35Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-10T13:33:40.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9b49172823ac9235bc5faa93f31064ae4f0f2761a5631e0c7acd9dd565de31e7",
+      "dedupeKey": "brief:opp_a555da67af595fdac380:sha256:9b49172823ac9235bc5faa93f31064ae4f0f2761a5631e0c7acd9dd565de31e7",
+      "firstSeenAt": "2026-08-11T00:05:55.254Z",
+      "lastSeenAt": "2026-08-11T00:05:55.254Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -18727,6 +19359,42 @@
       "opportunityId": "opp_edcb0640347cf71454fb",
       "sentAt": "2026-08-10T10:14:00.799Z",
       "messageId": "1536316684976005141"
+    },
+    "brief:opp_f9d498a3d47f8ae56d98:sha256:cb6fe4902c4776032e5d95ddf32e2670ed89fc4757f40d37f2b88044393d37ec": {
+      "status": "SENT",
+      "opportunityId": "opp_f9d498a3d47f8ae56d98",
+      "sentAt": "2026-08-11T00:05:55.254Z",
+      "messageId": "1536526041428791338"
+    },
+    "brief:opp_526577f61cdc883324ba:sha256:4b8ddd352749e65cf07669d6d53ec7013d3d7a42a618b426d3a965c81d1cd3f9": {
+      "status": "SENT",
+      "opportunityId": "opp_526577f61cdc883324ba",
+      "sentAt": "2026-08-11T00:05:55.254Z",
+      "messageId": "1536526041428791338"
+    },
+    "brief:opp_f96c0f0143c33d40b715:sha256:8d80da5a5bb37812adbfc607fdd4d2319dad19ab7ee230f4dcdffa678c00ac7f": {
+      "status": "SENT",
+      "opportunityId": "opp_f96c0f0143c33d40b715",
+      "sentAt": "2026-08-11T00:05:55.254Z",
+      "messageId": "1536526041428791338"
+    },
+    "brief:opp_a555da67af595fdac380:sha256:9b49172823ac9235bc5faa93f31064ae4f0f2761a5631e0c7acd9dd565de31e7": {
+      "status": "SENT",
+      "opportunityId": "opp_a555da67af595fdac380",
+      "sentAt": "2026-08-11T00:05:55.254Z",
+      "messageId": "1536526041428791338"
+    },
+    "brief:opp_9ec5fc34b7f5579082e5:sha256:b3edbbf240c4046be38ab3f3d957196042bc88e880516ce77996021110143370": {
+      "status": "SENT",
+      "opportunityId": "opp_9ec5fc34b7f5579082e5",
+      "sentAt": "2026-08-11T00:05:55.254Z",
+      "messageId": "1536526041428791338"
+    },
+    "brief:opp_8f066ae3e74f2637dd36:sha256:28aa02f6ecb5d7df3c7cb3096a998ffb74a619f2f7106a0a55ebeb6c21e17acf": {
+      "status": "SENT",
+      "opportunityId": "opp_8f066ae3e74f2637dd36",
+      "sentAt": "2026-08-11T00:05:55.254Z",
+      "messageId": "1536526041428791338"
     }
   },
   "pending": {},
