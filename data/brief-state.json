@@ -16359,23 +16359,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 12,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 18,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-11T01:49:58.028Z",
-      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16506,23 +16506,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 9,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 17,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-11T01:49:58.028Z",
-      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16973,11 +16973,11 @@
       },
       "contentHash": "sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f",
       "dedupeKey": "brief:opp_13e4b9b75e3245d69473:sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f",
-      "firstSeenAt": "2026-08-11T01:49:58.028Z",
-      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17213,11 +17213,11 @@
       },
       "contentHash": "sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba",
       "dedupeKey": "brief:opp_ce5cf03871d589451a2b:sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba",
-      "firstSeenAt": "2026-08-11T01:49:58.028Z",
-      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17261,8 +17261,8 @@
       },
       "contentHash": "sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
       "dedupeKey": "brief:opp_242df76a7203d87df0c7:sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
-      "firstSeenAt": "2026-08-11T01:49:58.028Z",
-      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17309,8 +17309,8 @@
       },
       "contentHash": "sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
       "dedupeKey": "brief:opp_64651dddf9e2088042f9:sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
-      "firstSeenAt": "2026-08-11T01:49:58.028Z",
-      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17657,6 +17657,255 @@
       "dedupeKey": "brief:opp_01cf9e17b7e5864717d7:sha256:184f63f19e96cbd89412b037ad9ca7e09e4d1fc6d0e94d5eeca9833dfb9ffab0",
       "firstSeenAt": "2026-08-11T01:49:58.028Z",
       "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6f8fc52404e0cb58afae": {
+      "id": "opp_6f8fc52404e0cb58afae",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32385",
+      "canonicalUrl": "https://news.hada.io/topic?id=32385",
+      "title": "Show GN: 지금 뭐가 이슈인지 한눈에 보여주는 서비스 만들어 봤습니다.",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T12:16:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "\"지금 뭐가 이슈인지\"를 키워드 정도만 파악 하고 살고 싶은데, 네이버 실검이 없어지고는 이슈 파악 하기가 쉽지 않아서 AI활용해서 만들어봤습니...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32385"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:88cd98d761a8d1ded4782ff54c76e98c2dfa74d7c4b9efad94f571ebc067a85d",
+      "dedupeKey": "brief:opp_6f8fc52404e0cb58afae:sha256:88cd98d761a8d1ded4782ff54c76e98c2dfa74d7c4b9efad94f571ebc067a85d",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2739c14ac741522e7bcc": {
+      "id": "opp_2739c14ac741522e7bcc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32372",
+      "canonicalUrl": "https://github.com/CoreBunch/Instatic",
+      "title": "Instatic - Webflow, Framer, WordPress를 대체하는 오픈소스 셀프호스팅 비주얼 CMS",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "비주얼 에디터/콘텐츠 엔진/퍼블리셔를 단일 Bun 서버 하나에 담아 셀프호스팅으로 운영. SQLite/Postgres를 백엔드로 사용 헤드리스 CMS/프레임워...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32372"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 6,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ab119b04987f64778f444a09b990ef14f11140ee7dc1a231cd0581ab8270ccdf",
+      "dedupeKey": "brief:opp_2739c14ac741522e7bcc:sha256:ab119b04987f64778f444a09b990ef14f11140ee7dc1a231cd0581ab8270ccdf",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c066edab52651db9e38d": {
+      "id": "opp_c066edab52651db9e38d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32377",
+      "canonicalUrl": "https://signalsbysimon.substack.com/p/arr-doesnt-mean-what-it-used-to-15",
+      "title": "ARR의 의미가 예전과 달라졌다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T10:04:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 스타트업 투자에서 ARR가 실제 반복 매출이 아니라 월/일 매출의 단순 연환산, GMV, 계약 예정 매출까지 가리키는 경우가 늘면서 15명의 VC가 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32377"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9e8c9ca408627c24cec2ee7cb52f4c5f6173a0f6d6a0d7f4132b0261af343472",
+      "dedupeKey": "brief:opp_c066edab52651db9e38d:sha256:9e8c9ca408627c24cec2ee7cb52f4c5f6173a0f6d6a0d7f4132b0261af343472",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_23a4315dd13c3ca57bba": {
+      "id": "opp_23a4315dd13c3ca57bba",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32352",
+      "canonicalUrl": "https://news.hada.io/topic?id=32352",
+      "title": "Show GN: Claude가 만든 한국어 문서는 왜 어딘가 이상할까 — 표현과 디자인 규약으로 제대로 된 문서를 작성하는...",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T19:00:58+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 오랜만에 다시 글을 남기게 됩니다. 최근 들어 문서를 작성 할 일이 부쩍 많아졌는데, 아무래도 모든 요소들을 직접 구성하지 않고 Ab...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32352"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:622383383d89856cb4d100b190f188d471c0b8dacdad4d2c9bfad246b98f6216",
+      "dedupeKey": "brief:opp_23a4315dd13c3ca57bba:sha256:622383383d89856cb4d100b190f188d471c0b8dacdad4d2c9bfad246b98f6216",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a8f30fff001f850365c": {
+      "id": "opp_8a8f30fff001f850365c",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:fyHL5RM_Wzc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fyHL5RM_Wzc",
+      "title": "오픈AI 해킹 사건이 남긴 진짜 문제",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T09:00:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#오픈웨이트 #AI에이전트 #AI보안 오픈AI가 만든 에이전트가 오픈AI를 뚫고 나가, 허깅페이스를 털었습니다. 왜 하필 허깅페이스를 공격했을까요? 벤치마크의 문제와 답안지를 유출하기 위해서일까요? 소설을 써보자면 허깅페이스가 다운되면 상용 모델들의 해킹을 막기 어려워지게 되는데요. 혹시 AI 에이전트가 이점을 노리고 허깅페이스를 공격한건 아니겠지요? 더 이상한 건 OpenAI 도 몰랐다는 겁니다. 에이전트들끼리 공용 저장소를 게시판처럼 쓰면서 벌어진 일이었습니다. 그런데 이 사건에서 제일 중요한",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fyHL5RM_Wzc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-11T09:00:13.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:60bf981b36a61d76e222d6068ce0556aa8eeb01f7b93d69376c43c9a362bbff4",
+      "dedupeKey": "brief:opp_8a8f30fff001f850365c:sha256:60bf981b36a61d76e222d6068ce0556aa8eeb01f7b93d69376c43c9a362bbff4",
+      "firstSeenAt": "2026-08-11T09:06:10.125Z",
+      "lastSeenAt": "2026-08-11T09:06:10.125Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -19572,6 +19821,36 @@
       "opportunityId": "opp_a4f1b82314b0edd9b142",
       "sentAt": "2026-08-11T01:49:58.028Z",
       "messageId": "1536552225600573533"
+    },
+    "brief:opp_8a8f30fff001f850365c:sha256:60bf981b36a61d76e222d6068ce0556aa8eeb01f7b93d69376c43c9a362bbff4": {
+      "status": "SENT",
+      "opportunityId": "opp_8a8f30fff001f850365c",
+      "sentAt": "2026-08-11T09:06:10.125Z",
+      "messageId": "1536661998723534850"
+    },
+    "brief:opp_2739c14ac741522e7bcc:sha256:ab119b04987f64778f444a09b990ef14f11140ee7dc1a231cd0581ab8270ccdf": {
+      "status": "SENT",
+      "opportunityId": "opp_2739c14ac741522e7bcc",
+      "sentAt": "2026-08-11T09:06:10.125Z",
+      "messageId": "1536661998723534850"
+    },
+    "brief:opp_13e4b9b75e3245d69473:sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f": {
+      "status": "SENT",
+      "opportunityId": "opp_13e4b9b75e3245d69473",
+      "sentAt": "2026-08-11T09:06:10.125Z",
+      "messageId": "1536661998723534850"
+    },
+    "brief:opp_ce5cf03871d589451a2b:sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba": {
+      "status": "SENT",
+      "opportunityId": "opp_ce5cf03871d589451a2b",
+      "sentAt": "2026-08-11T09:06:10.125Z",
+      "messageId": "1536661998723534850"
+    },
+    "brief:opp_6f8fc52404e0cb58afae:sha256:88cd98d761a8d1ded4782ff54c76e98c2dfa74d7c4b9efad94f571ebc067a85d": {
+      "status": "SENT",
+      "opportunityId": "opp_6f8fc52404e0cb58afae",
+      "sentAt": "2026-08-11T09:06:10.125Z",
+      "messageId": "1536661998723534850"
     }
   },
   "pending": {},
