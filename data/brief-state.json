@@ -16360,13 +16360,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 7,
-        "contentScore": 11,
+        "communityRank": 12,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -16374,8 +16374,8 @@
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16506,14 +16506,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -16521,8 +16521,8 @@
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16910,7 +16910,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 9,
         "communityRank": 15,
         "contentScore": 10,
         "contentScoreBreakdown": {
@@ -16925,8 +16925,8 @@
       },
       "contentHash": "sha256:5d533ee04d87612363c061dac4db80bd53462cb60ea3966e6234b877030154be",
       "dedupeKey": "brief:opp_14490046d79006679a65:sha256:5d533ee04d87612363c061dac4db80bd53462cb60ea3966e6234b877030154be",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16973,8 +16973,8 @@
       },
       "contentHash": "sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f",
       "dedupeKey": "brief:opp_13e4b9b75e3245d69473:sha256:31ef1f0707a81e2faeae30b588076439fe41dcf7d1e9f48cf165de0924c8cb0f",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17069,11 +17069,11 @@
       },
       "contentHash": "sha256:976ec9d10c01c67ddbd0424d3a7d49bf3405161c5d1c04ae6afcd7181b010804",
       "dedupeKey": "brief:opp_91ceebab67b84cc65181:sha256:976ec9d10c01c67ddbd0424d3a7d49bf3405161c5d1c04ae6afcd7181b010804",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17165,11 +17165,11 @@
       },
       "contentHash": "sha256:31c9c0201aa6ca8cab80a83fc8675f09cb81a378cc61a4579eaaa322e20e0c81",
       "dedupeKey": "brief:opp_e5b74692ef55e105d74a:sha256:31c9c0201aa6ca8cab80a83fc8675f09cb81a378cc61a4579eaaa322e20e0c81",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17213,8 +17213,8 @@
       },
       "contentHash": "sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba",
       "dedupeKey": "brief:opp_ce5cf03871d589451a2b:sha256:1ad04664f3740204250081ce18e7e8eb9c61a80e3a15de711157153cc69d0fba",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17261,8 +17261,8 @@
       },
       "contentHash": "sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
       "dedupeKey": "brief:opp_242df76a7203d87df0c7:sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17309,8 +17309,8 @@
       },
       "contentHash": "sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
       "dedupeKey": "brief:opp_64651dddf9e2088042f9:sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
-      "firstSeenAt": "2026-08-11T00:05:55.254Z",
-      "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17510,6 +17510,153 @@
       "dedupeKey": "brief:opp_a555da67af595fdac380:sha256:9b49172823ac9235bc5faa93f31064ae4f0f2761a5631e0c7acd9dd565de31e7",
       "firstSeenAt": "2026-08-11T00:05:55.254Z",
       "lastSeenAt": "2026-08-11T00:05:55.254Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_29d25b630ee52b4f027e": {
+      "id": "opp_29d25b630ee52b4f027e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32376",
+      "canonicalUrl": "https://softwareleads.substack.com/p/engineering-leaders-day-to-day-activities",
+      "title": "엔지니어링 리더는 매일 무슨 일을 하는가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T09:48:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "엔지니어링 리더의 업무는 코드나 기능처럼 눈에 보이는 산출물보다 대화/결정/조율/개입을 통해 나타나며, 하루 대부분은 정보 수집 → 정보 공유 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32376"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a39b056f5d805b20f586f8a9b343800dc5742354c69a6b276097eadd79598113",
+      "dedupeKey": "brief:opp_29d25b630ee52b4f027e:sha256:a39b056f5d805b20f586f8a9b343800dc5742354c69a6b276097eadd79598113",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a4f1b82314b0edd9b142": {
+      "id": "opp_a4f1b82314b0edd9b142",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32335",
+      "canonicalUrl": "https://news.hada.io/topic?id=32335",
+      "title": "Show GN: 한국 개발자들의 개인 블로그를 모아 보는 Indieblog를 만들었습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T12:22:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 한국 개발자 개인 블로그를 모아 보여주는 Indieblog( 만들어서 공유합니다. 만든 이유 기업 기술 블로그 모아주는 서비스는 이미 여...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32335"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:11ede57661fe87db1102dc0d932cfd771d5f901ec8879fb17c9a5b5745cc22fa",
+      "dedupeKey": "brief:opp_a4f1b82314b0edd9b142:sha256:11ede57661fe87db1102dc0d932cfd771d5f901ec8879fb17c9a5b5745cc22fa",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_01cf9e17b7e5864717d7": {
+      "id": "opp_01cf9e17b7e5864717d7",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/tossion",
+      "canonicalUrl": "https://toss.tech/article/tossion",
+      "title": "토스의 속도와 품질, 상용 도구로 충분한가 — 토션(Tossion)",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 11 Aug 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요. 토스 QA Platform 팀 리더 이정성입니다. 지난 글에서 저희가 누구이고 무엇을 만들어 왔는지 짧게 소개해 드렸는데요. 오늘은 그 첫 번째 이야기, 저희만의 플랫폼 토션(Tossion)을 소개합니다. \"이 기능, 지난번에 테스트 결과 어땠었죠?\" QA라면 릴리즈 직전에 이 질문을 한 번쯤 받아 보셨을 겁니다. 저희도 받았고, 답을 드리는 데 시간이 걸리곤 했습니다. 자동화 테스트(Automation Test) 결과, 매뉴얼 테스트(Manual Test) 결과와 테스트 케이스(Te",
+      "summaryEvidence": [
+        "https://toss.tech/article/tossion"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:184f63f19e96cbd89412b037ad9ca7e09e4d1fc6d0e94d5eeca9833dfb9ffab0",
+      "dedupeKey": "brief:opp_01cf9e17b7e5864717d7:sha256:184f63f19e96cbd89412b037ad9ca7e09e4d1fc6d0e94d5eeca9833dfb9ffab0",
+      "firstSeenAt": "2026-08-11T01:49:58.028Z",
+      "lastSeenAt": "2026-08-11T01:49:58.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -19395,6 +19542,36 @@
       "opportunityId": "opp_8f066ae3e74f2637dd36",
       "sentAt": "2026-08-11T00:05:55.254Z",
       "messageId": "1536526041428791338"
+    },
+    "brief:opp_01cf9e17b7e5864717d7:sha256:184f63f19e96cbd89412b037ad9ca7e09e4d1fc6d0e94d5eeca9833dfb9ffab0": {
+      "status": "SENT",
+      "opportunityId": "opp_01cf9e17b7e5864717d7",
+      "sentAt": "2026-08-11T01:49:58.028Z",
+      "messageId": "1536552225600573533"
+    },
+    "brief:opp_e5b74692ef55e105d74a:sha256:31c9c0201aa6ca8cab80a83fc8675f09cb81a378cc61a4579eaaa322e20e0c81": {
+      "status": "SENT",
+      "opportunityId": "opp_e5b74692ef55e105d74a",
+      "sentAt": "2026-08-11T01:49:58.028Z",
+      "messageId": "1536552225600573533"
+    },
+    "brief:opp_91ceebab67b84cc65181:sha256:976ec9d10c01c67ddbd0424d3a7d49bf3405161c5d1c04ae6afcd7181b010804": {
+      "status": "SENT",
+      "opportunityId": "opp_91ceebab67b84cc65181",
+      "sentAt": "2026-08-11T01:49:58.028Z",
+      "messageId": "1536552225600573533"
+    },
+    "brief:opp_29d25b630ee52b4f027e:sha256:a39b056f5d805b20f586f8a9b343800dc5742354c69a6b276097eadd79598113": {
+      "status": "SENT",
+      "opportunityId": "opp_29d25b630ee52b4f027e",
+      "sentAt": "2026-08-11T01:49:58.028Z",
+      "messageId": "1536552225600573533"
+    },
+    "brief:opp_a4f1b82314b0edd9b142:sha256:11ede57661fe87db1102dc0d932cfd771d5f901ec8879fb17c9a5b5745cc22fa": {
+      "status": "SENT",
+      "opportunityId": "opp_a4f1b82314b0edd9b142",
+      "sentAt": "2026-08-11T01:49:58.028Z",
+      "messageId": "1536552225600573533"
     }
   },
   "pending": {},
