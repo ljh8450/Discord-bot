@@ -16374,8 +16374,8 @@
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-11T09:06:10.125Z",
-      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16507,7 +16507,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 17,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16521,8 +16521,8 @@
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-11T09:06:10.125Z",
-      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17261,11 +17261,11 @@
       },
       "contentHash": "sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
       "dedupeKey": "brief:opp_242df76a7203d87df0c7:sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6",
-      "firstSeenAt": "2026-08-11T09:06:10.125Z",
-      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17309,11 +17309,11 @@
       },
       "contentHash": "sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
       "dedupeKey": "brief:opp_64651dddf9e2088042f9:sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127",
-      "firstSeenAt": "2026-08-11T09:06:10.125Z",
-      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17802,11 +17802,11 @@
       },
       "contentHash": "sha256:9e8c9ca408627c24cec2ee7cb52f4c5f6173a0f6d6a0d7f4132b0261af343472",
       "dedupeKey": "brief:opp_c066edab52651db9e38d:sha256:9e8c9ca408627c24cec2ee7cb52f4c5f6173a0f6d6a0d7f4132b0261af343472",
-      "firstSeenAt": "2026-08-11T09:06:10.125Z",
-      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -17836,8 +17836,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 14,
+        "communityPoints": 9,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -17851,8 +17851,8 @@
       },
       "contentHash": "sha256:622383383d89856cb4d100b190f188d471c0b8dacdad4d2c9bfad246b98f6216",
       "dedupeKey": "brief:opp_23a4315dd13c3ca57bba:sha256:622383383d89856cb4d100b190f188d471c0b8dacdad4d2c9bfad246b98f6216",
-      "firstSeenAt": "2026-08-11T09:06:10.125Z",
-      "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -17906,6 +17906,108 @@
       "dedupeKey": "brief:opp_8a8f30fff001f850365c:sha256:60bf981b36a61d76e222d6068ce0556aa8eeb01f7b93d69376c43c9a362bbff4",
       "firstSeenAt": "2026-08-11T09:06:10.125Z",
       "lastSeenAt": "2026-08-11T09:06:10.125Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b6a39b323f06305a7920": {
+      "id": "opp_b6a39b323f06305a7920",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32396",
+      "canonicalUrl": "https://news.hada.io/article/rails-without-dhh",
+      "title": "Rails는 DHH 없이도 Rails일 수 있을까",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T16:59:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "\"Rails is done\" 글은 \"Rails는 끝났다\" 와 \"Rails는 완성됐다\" 로 모두 읽히지만, 이 글이 택한 건 후자임 즉, Rails가 창시자 없이도 살아남을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32396"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8f7bf2304ab8316b287853f2660aebb3a9ea515d149cb0842fc69f5738d2d379",
+      "dedupeKey": "brief:opp_b6a39b323f06305a7920:sha256:8f7bf2304ab8316b287853f2660aebb3a9ea515d149cb0842fc69f5738d2d379",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c0c52f64fb824abb0bcb": {
+      "id": "opp_c0c52f64fb824abb0bcb",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:sZrFaPMau6A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sZrFaPMau6A",
+      "title": "[한영자막] Matt Pocock 스킬, 이번 업데이트로 확 달라졌다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T09:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Matt Pocock의 AI 코딩 스킬이 v1.2로 업데이트됐습니다. 공식 문서 사이트 개편부터 Claude Code 마켓플레이스 연동, 다섯 가지 신규·개선 스킬까지 이번 업데이트 내용을 한 번에 정리해드립니다. 주요 포인트 - 새 공식 문서 사이트(aihero.dev/skills)와 AI 코딩 사전이 함께 공개됐습니다. - Claude Code 공식 플러그인 마켓플레이스에 정식으로 등록돼 설치가 훨씬 간편해졌습니다. - Opus의 장황한 답변 문제를 잡아주는 신규 스킬 Wait What이 추가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sZrFaPMau6A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-11T09:00:15.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7685d1d57abb2dcac6e2d2bfa729f5f4f52ca089b1e6c24e63ee538c372f0f91",
+      "dedupeKey": "brief:opp_c0c52f64fb824abb0bcb:sha256:7685d1d57abb2dcac6e2d2bfa729f5f4f52ca089b1e6c24e63ee538c372f0f91",
+      "firstSeenAt": "2026-08-11T09:57:35.433Z",
+      "lastSeenAt": "2026-08-11T09:57:35.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -19851,6 +19953,36 @@
       "opportunityId": "opp_6f8fc52404e0cb58afae",
       "sentAt": "2026-08-11T09:06:10.125Z",
       "messageId": "1536661998723534850"
+    },
+    "brief:opp_242df76a7203d87df0c7:sha256:e7815624bd23aaf183d97311727de34d86236e8570df467a1773fbbd09f757b6": {
+      "status": "SENT",
+      "opportunityId": "opp_242df76a7203d87df0c7",
+      "sentAt": "2026-08-11T09:57:35.433Z",
+      "messageId": "1536674939526979626"
+    },
+    "brief:opp_64651dddf9e2088042f9:sha256:b0665a185b7cdafed6b9b33138e8e7b0732541223743c09b21865624d8f88127": {
+      "status": "SENT",
+      "opportunityId": "opp_64651dddf9e2088042f9",
+      "sentAt": "2026-08-11T09:57:35.433Z",
+      "messageId": "1536674939526979626"
+    },
+    "brief:opp_c0c52f64fb824abb0bcb:sha256:7685d1d57abb2dcac6e2d2bfa729f5f4f52ca089b1e6c24e63ee538c372f0f91": {
+      "status": "SENT",
+      "opportunityId": "opp_c0c52f64fb824abb0bcb",
+      "sentAt": "2026-08-11T09:57:35.433Z",
+      "messageId": "1536674939526979626"
+    },
+    "brief:opp_b6a39b323f06305a7920:sha256:8f7bf2304ab8316b287853f2660aebb3a9ea515d149cb0842fc69f5738d2d379": {
+      "status": "SENT",
+      "opportunityId": "opp_b6a39b323f06305a7920",
+      "sentAt": "2026-08-11T09:57:35.433Z",
+      "messageId": "1536674939526979626"
+    },
+    "brief:opp_c066edab52651db9e38d:sha256:9e8c9ca408627c24cec2ee7cb52f4c5f6173a0f6d6a0d7f4132b0261af343472": {
+      "status": "SENT",
+      "opportunityId": "opp_c066edab52651db9e38d",
+      "sentAt": "2026-08-11T09:57:35.433Z",
+      "messageId": "1536674939526979626"
     }
   },
   "pending": {},
