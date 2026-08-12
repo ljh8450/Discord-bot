@@ -16360,7 +16360,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 10,
-        "communityRank": 18,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16374,8 +16374,8 @@
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-11T09:57:35.433Z",
-      "lastSeenAt": "2026-08-11T09:57:35.433Z",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16506,8 +16506,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 16,
+        "communityPoints": 13,
+        "communityRank": 12,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -16521,8 +16521,8 @@
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-11T09:57:35.433Z",
-      "lastSeenAt": "2026-08-11T09:57:35.433Z",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -18008,6 +18008,359 @@
       "dedupeKey": "brief:opp_c0c52f64fb824abb0bcb:sha256:7685d1d57abb2dcac6e2d2bfa729f5f4f52ca089b1e6c24e63ee538c372f0f91",
       "firstSeenAt": "2026-08-11T09:57:35.433Z",
       "lastSeenAt": "2026-08-11T09:57:35.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a86bbfed84f46ebe67ea": {
+      "id": "opp_a86bbfed84f46ebe67ea",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32312",
+      "canonicalUrl": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "title": "LLM으로 복잡한 주제를 배우는 시각적 시뮬레이션 학습법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-10T07:32:08+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "단순한 설명과 긴 불릿 목록에서 벗어나, 학습할 내용을 시각적 시뮬레이션으로 구현해 개념을 게임 속 사물과 연결함 CC 또는 OpenCode의 계획 모...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32312"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 19,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 1,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5f7bd0c8d963b7752e2408c70ac59ec9a4a34b323732e3bcae5ced7907e6ac83",
+      "dedupeKey": "brief:opp_a86bbfed84f46ebe67ea:sha256:5f7bd0c8d963b7752e2408c70ac59ec9a4a34b323732e3bcae5ced7907e6ac83",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3c43b73521398fb265c9": {
+      "id": "opp_3c43b73521398fb265c9",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/testing-ads-in-chatgpt",
+      "canonicalUrl": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "Testing ads in ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "summaryEvidence": [
+        "https://openai.com/index/testing-ads-in-chatgpt"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:93758d0966e00383c420f013dd9dbcabffc79ae344e0ed7245533a12acaadbd3",
+      "dedupeKey": "brief:opp_3c43b73521398fb265c9:sha256:93758d0966e00383c420f013dd9dbcabffc79ae344e0ed7245533a12acaadbd3",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1fa0919294c005911c6c": {
+      "id": "opp_1fa0919294c005911c6c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "canonicalUrl": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "Daybreak models are now available on AWS",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "summaryEvidence": [
+        "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5f73c593e720b0c79f8e1deb36f16c03fe7269d7cef5c0ac79283f68cfee8022",
+      "dedupeKey": "brief:opp_1fa0919294c005911c6c:sha256:5f73c593e720b0c79f8e1deb36f16c03fe7269d7cef5c0ac79283f68cfee8022",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aa65f64dca555565a031": {
+      "id": "opp_aa65f64dca555565a031",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98090",
+      "canonicalUrl": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer",
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 11 Aug 2026 18:38:17 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on Th",
+      "summaryEvidence": [
+        "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32196895fea7e003f1d362b16b836549fd9015b310a1c03120fcdd6195da2370",
+      "dedupeKey": "brief:opp_aa65f64dca555565a031:sha256:32196895fea7e003f1d362b16b836549fd9015b310a1c03120fcdd6195da2370",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e77e1ae2a2a3a1baaad5": {
+      "id": "opp_e77e1ae2a2a3a1baaad5",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:nfUKLULchXE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nfUKLULchXE",
+      "title": "[한영자막] 왜 이제 '루프'가 아니라 '그래프'를 설계해야 할까?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T22:30:00+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "앤트로픽 클로드 코드 총괄 보리스 체르니가 AMD 마크 파퍼마스터와 나눈 인터뷰입니다. 에이전트를 하나씩 다루던 시대를 지나, 이제 왜 루프와 그래프 단위로 개발을 설계해야 하는지 들어보세요. 주요 포인트 - 클로드 코드가 출시 후 6개월간 부진했다가 오퍼스 4 이후 폭발적으로 성장한 과정 - 엔지니어 한 명당 코드 출력이 8배 늘어난 비결, 병목을 하나씩 풀어가는 방식 - 에이전트 1개에서 1,000개까지, 조직이 자연스럽게 거치는 확장 단계 - 프롬프트 인젝션 방어와 신뢰, 검증을 위한 다층적",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nfUKLULchXE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-11T22:30:00.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b9e3203bd8fd584f420ded2ecd24da99b9e5bc13b2a8ac6d51963759c9f9b5c2",
+      "dedupeKey": "brief:opp_e77e1ae2a2a3a1baaad5:sha256:b9e3203bd8fd584f420ded2ecd24da99b9e5bc13b2a8ac6d51963759c9f9b5c2",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6f6ad74d28fe4c84a861": {
+      "id": "opp_6f6ad74d28fe4c84a861",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:U6k4MeVks_Y",
+      "canonicalUrl": "https://www.youtube.com/watch?v=U6k4MeVks_Y",
+      "title": "Give Me 50 Minutes, I'll Give You 1000+ Hours Of Claude Code Knowledge (2026 Guide)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T20:19:56+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Claude Code Masterclass: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io 1000+ hours of Claude Code lessons condensed into 50 minutes. This is everything you need to focus on each",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=U6k4MeVks_Y"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-11T20:19:56.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:987fba613dda91c78ef2bc83b9139f5343a0259be1f479742feed68bcb553379",
+      "dedupeKey": "brief:opp_6f6ad74d28fe4c84a861:sha256:987fba613dda91c78ef2bc83b9139f5343a0259be1f479742feed68bcb553379",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_724f94de5186de05edfe": {
+      "id": "opp_724f94de5186de05edfe",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:heIhmgp4ywU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=heIhmgp4ywU",
+      "title": "AI 때문에 아이폰 용량 더 커진다? 애플, DRAM 아닌 NAND를 활용한 접근 분석 | AFM3가 바꾸는 스마트폰 메모리 | HBF와 zNAND-O",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T10:30:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "애플이 공개한 AFM 3 Core Advanced는 200억 파라미터 전체를 저장해두고 필요한 일부만 골라 실행하는 구조를 사용합니다. 일부만 계산하더라도 전체 모델은 어딘가에 저장돼 있어야 하고, 애플은 그 공간으로 NAND 플래시를 적극적으로 활용하기 시작했습니다. 이번 영상에서는 일반적인 MoE와 애플의 IFP 방식이 어떻게 다른지 살펴봅니다. 2비트 양자화까지 활용해 모델 크기를 줄이는 애플의 온디바이스 AI 전략도 함께 다룹니다. AI 모델과 캐시가 커지면서 아이폰과 스마트폰의 기본 저장",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=heIhmgp4ywU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-11T10:30:04.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32d35d45420d56b6eb33a4a83763936fb56baed1353956b0cac40a1024047aa2",
+      "dedupeKey": "brief:opp_724f94de5186de05edfe:sha256:32d35d45420d56b6eb33a4a83763936fb56baed1353956b0cac40a1024047aa2",
+      "firstSeenAt": "2026-08-12T00:05:57.000Z",
+      "lastSeenAt": "2026-08-12T00:05:57.000Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -19983,6 +20336,42 @@
       "opportunityId": "opp_c066edab52651db9e38d",
       "sentAt": "2026-08-11T09:57:35.433Z",
       "messageId": "1536674939526979626"
+    },
+    "brief:opp_aa65f64dca555565a031:sha256:32196895fea7e003f1d362b16b836549fd9015b310a1c03120fcdd6195da2370": {
+      "status": "SENT",
+      "opportunityId": "opp_aa65f64dca555565a031",
+      "sentAt": "2026-08-12T00:05:57.000Z",
+      "messageId": "1536888436110135347"
+    },
+    "brief:opp_3c43b73521398fb265c9:sha256:93758d0966e00383c420f013dd9dbcabffc79ae344e0ed7245533a12acaadbd3": {
+      "status": "SENT",
+      "opportunityId": "opp_3c43b73521398fb265c9",
+      "sentAt": "2026-08-12T00:05:57.000Z",
+      "messageId": "1536888436110135347"
+    },
+    "brief:opp_1fa0919294c005911c6c:sha256:5f73c593e720b0c79f8e1deb36f16c03fe7269d7cef5c0ac79283f68cfee8022": {
+      "status": "SENT",
+      "opportunityId": "opp_1fa0919294c005911c6c",
+      "sentAt": "2026-08-12T00:05:57.000Z",
+      "messageId": "1536888436110135347"
+    },
+    "brief:opp_6f6ad74d28fe4c84a861:sha256:987fba613dda91c78ef2bc83b9139f5343a0259be1f479742feed68bcb553379": {
+      "status": "SENT",
+      "opportunityId": "opp_6f6ad74d28fe4c84a861",
+      "sentAt": "2026-08-12T00:05:57.000Z",
+      "messageId": "1536888436110135347"
+    },
+    "brief:opp_724f94de5186de05edfe:sha256:32d35d45420d56b6eb33a4a83763936fb56baed1353956b0cac40a1024047aa2": {
+      "status": "SENT",
+      "opportunityId": "opp_724f94de5186de05edfe",
+      "sentAt": "2026-08-12T00:05:57.000Z",
+      "messageId": "1536888436110135347"
+    },
+    "brief:opp_e77e1ae2a2a3a1baaad5:sha256:b9e3203bd8fd584f420ded2ecd24da99b9e5bc13b2a8ac6d51963759c9f9b5c2": {
+      "status": "SENT",
+      "opportunityId": "opp_e77e1ae2a2a3a1baaad5",
+      "sentAt": "2026-08-12T00:05:57.000Z",
+      "messageId": "1536888436110135347"
     }
   },
   "pending": {},
