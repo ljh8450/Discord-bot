@@ -18464,6 +18464,455 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_99850023145f1c7567b0": {
+      "id": "opp_99850023145f1c7567b0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32429",
+      "canonicalUrl": "https://news.hada.io/article/antirez-controls-the-ideas",
+      "title": "AI가 코드를 쓰는 시대, antirez는 왜 다시 C로 만드는가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T16:17:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Redis를 만든 antirez가 이번에는 H3-metal - Mac용 MiniMax-H3 추론 엔진을 공개함 텍스트로 영상과 오디오를 함께 생성하는 모델을 Apple Silico...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32429"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:d1ab862149a06bc3dd87948ce6ab6ddbf47c84d878de2300cc82d8320e4d2ef2",
+      "dedupeKey": "brief:opp_99850023145f1c7567b0:sha256:d1ab862149a06bc3dd87948ce6ab6ddbf47c84d878de2300cc82d8320e4d2ef2",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c5e9831255af171dc824": {
+      "id": "opp_c5e9831255af171dc824",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32417",
+      "canonicalUrl": "https://typesanitizer.com/blog/code-review.html",
+      "title": "코드 리뷰도 배워야 하는 기술이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T09:09:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코드 리뷰는 단순한 승인 절차나 버그 탐지가 아니라 교육/규범 유지/게이트키핑/사고 예방을 함께 수행하며, 코드와 변경사항을 이해하고 팀의 지...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32417"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 18,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e",
+      "dedupeKey": "brief:opp_c5e9831255af171dc824:sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c0d1510b488a007b1a42": {
+      "id": "opp_c0d1510b488a007b1a42",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32427",
+      "canonicalUrl": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
+      "title": "Go 언어가 AI 기반 소프트웨어 엔지니어링에 이상적인 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T12:40:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 코드를 대량 생성하면서 개발의 병목이 코드 작성에서 리뷰/검증/유지보수로 이동하고 있으며, 이 변화가 프로그래밍 언어를 평가하는 기준도...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32427"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:88e81f5c3cf2d9fb7aaf97e988945c839fd11e4538202fe14d41e97235368318",
+      "dedupeKey": "brief:opp_c0d1510b488a007b1a42:sha256:88e81f5c3cf2d9fb7aaf97e988945c839fd11e4538202fe14d41e97235368318",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a588bc053a01b9410cbe": {
+      "id": "opp_a588bc053a01b9410cbe",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32422",
+      "canonicalUrl": "https://antirez.com/news/169",
+      "title": "코드가 아니라 아이디어를 통제하라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T10:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 시대의 프로그래머는 생성된 코드를 한 줄씩 검토하기보다, 소프트웨어가 담아야 할 아이디어와 설계를 정확히 통제하는 데 시간을 써야 한다고...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32422"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:d25fd2986f4382138b3009a612348e50a45d56ec6e311e7120b45759debd5ba3",
+      "dedupeKey": "brief:opp_a588bc053a01b9410cbe:sha256:d25fd2986f4382138b3009a612348e50a45d56ec6e311e7120b45759debd5ba3",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9a69ae7c7622a53f0f2d": {
+      "id": "opp_9a69ae7c7622a53f0f2d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32428",
+      "canonicalUrl": "https://github.com/golbin/hop",
+      "title": "HOP - HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T15:32:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "HWP/HWPX 문서를 macOS, Windows, Linux에서 열고 편집할 수 있는 오픈소스 데스크톱 앱 Rust 기반 HWP/HWPX 파서·에디터인 rhwp를 문서 엔진으로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32428"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:caac5a86aef6338c9cf4259fc379e8d440fcdd60e057e4f9e6ae2c193c8ab2fb",
+      "dedupeKey": "brief:opp_9a69ae7c7622a53f0f2d:sha256:caac5a86aef6338c9cf4259fc379e8d440fcdd60e057e4f9e6ae2c193c8ab2fb",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ee06e2a99ae1a09d4c9c": {
+      "id": "opp_ee06e2a99ae1a09d4c9c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32426",
+      "canonicalUrl": "https://ngrok.com/blog/compression-is-prediction",
+      "title": "압축은 예측이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T12:37:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "우리가 데이터를 작게 압축할 수 있는 이유는 다음에 무엇이 나올지 어느 정도 예상할 수 있기 때문임. 반복되거나 자주 등장하는 패턴일수록 적은...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32426"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
+      "dedupeKey": "brief:opp_ee06e2a99ae1a09d4c9c:sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f884534fff3c08a01554": {
+      "id": "opp_f884534fff3c08a01554",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32415",
+      "canonicalUrl": "https://stratechery.com/2026/nvidias-risky-business",
+      "title": "Nvidia의 위험한 사업",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T08:33:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "엔비디아는 AI 데이터센터를 투자 가능한 인프라 자산으로 만들기 위해 여러 투자회사로부터 5,000억 달러 이상의 제3자 자본을 조달하려 하지만, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32415"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
+      "dedupeKey": "brief:opp_f884534fff3c08a01554:sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_febc3284c78f599c7436": {
+      "id": "opp_febc3284c78f599c7436",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:idS9XwpdGdU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=idS9XwpdGdU",
+      "title": "[한영자막] 당신만의 AI 스택을 소유하세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T06:05:48+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Sequoia Capital 파트너 Sonya Huang이 'Own Your Intelligence' 행사 오프닝에서 발표한 키노트입니다. 기업들이 왜 점점 더 자체 AI, 즉 소버린 AI를 직접 소유하는 쪽으로 움직이는지, 그리고 어떻게 시작해야 하는지를 실전 프레임워크로 정리해 드립니다. 주요 포인트 - 소버린 AI는 Opus나 GPT 같은 폐쇄형 API를 버리라는 뜻이 아니라, 비용·속도·성능·주도권이라는 네 가지 이유로 인텔리전스 일부를 직접 소유하는 흐름입니다. - 어떤 AI 역량을 소유",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=idS9XwpdGdU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-12T06:05:48.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:76eacd202829d815e4fff5a558186d261ed25eab306520dece2e0bc76452555f",
+      "dedupeKey": "brief:opp_febc3284c78f599c7436:sha256:76eacd202829d815e4fff5a558186d261ed25eab306520dece2e0bc76452555f",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5c455332c80d50f6bc9f": {
+      "id": "opp_5c455332c80d50f6bc9f",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:p5FzBvDvt8A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=p5FzBvDvt8A",
+      "title": "AI 냄새가 싫다는 사람들",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T03:00:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "스읍 하아 샤워하기 https://codingapple.com/ 개별강의 10% 할인쿠폰 templeos2018 (자주 바뀜 최신영상 참고) 사용한자료 https://tenor.com/uOXlgtTOyiV.gif https://tenor.com/sLdboNU1hnu.gif https://tenor.com/rdOKIuon4Vc.gif https://tenor.com/eh0rXlfTZUW.gif https://www.corsair.com/kr/ko/explorer/gamer/gaming-pcs/wha",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=p5FzBvDvt8A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-12T03:00:38.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:00f69fbd2ce715228c4921119d3e1709e7047314280f9aa869f41d131e3452cf",
+      "dedupeKey": "brief:opp_5c455332c80d50f6bc9f:sha256:00f69fbd2ce715228c4921119d3e1709e7047314280f9aa869f41d131e3452cf",
+      "firstSeenAt": "2026-08-12T09:06:09.178Z",
+      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -20482,6 +20931,30 @@
       "opportunityId": "opp_566083cdf7fe173e806a",
       "sentAt": "2026-08-12T02:02:23.533Z",
       "messageId": "1536917739799584959"
+    },
+    "brief:opp_99850023145f1c7567b0:sha256:d1ab862149a06bc3dd87948ce6ab6ddbf47c84d878de2300cc82d8320e4d2ef2": {
+      "status": "SENT",
+      "opportunityId": "opp_99850023145f1c7567b0",
+      "sentAt": "2026-08-12T09:06:09.178Z",
+      "messageId": "1537024384127082508"
+    },
+    "brief:opp_febc3284c78f599c7436:sha256:76eacd202829d815e4fff5a558186d261ed25eab306520dece2e0bc76452555f": {
+      "status": "SENT",
+      "opportunityId": "opp_febc3284c78f599c7436",
+      "sentAt": "2026-08-12T09:06:09.178Z",
+      "messageId": "1537024384127082508"
+    },
+    "brief:opp_5c455332c80d50f6bc9f:sha256:00f69fbd2ce715228c4921119d3e1709e7047314280f9aa869f41d131e3452cf": {
+      "status": "SENT",
+      "opportunityId": "opp_5c455332c80d50f6bc9f",
+      "sentAt": "2026-08-12T09:06:09.178Z",
+      "messageId": "1537024384127082508"
+    },
+    "brief:opp_9a69ae7c7622a53f0f2d:sha256:caac5a86aef6338c9cf4259fc379e8d440fcdd60e057e4f9e6ae2c193c8ab2fb": {
+      "status": "SENT",
+      "opportunityId": "opp_9a69ae7c7622a53f0f2d",
+      "sentAt": "2026-08-12T09:06:09.178Z",
+      "messageId": "1537024384127082508"
     }
   },
   "pending": {},
