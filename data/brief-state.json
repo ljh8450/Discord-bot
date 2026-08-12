@@ -16360,13 +16360,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 10,
-        "communityRank": 14,
-        "contentScore": 11,
+        "communityRank": 19,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -16374,8 +16374,8 @@
       },
       "contentHash": "sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
       "dedupeKey": "brief:opp_ae1dedb7f4fe6d10df7c:sha256:d32aa0a40a655ad04eebd7f47d7049b5d59dfaf182a4d9097648458d5b4bb3d0",
-      "firstSeenAt": "2026-08-12T00:05:57.000Z",
-      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "firstSeenAt": "2026-08-12T02:02:23.533Z",
+      "lastSeenAt": "2026-08-12T02:02:23.533Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -16506,14 +16506,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 12,
-        "contentScore": 11,
+        "communityPoints": 14,
+        "communityRank": 17,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -16521,8 +16521,8 @@
       },
       "contentHash": "sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
       "dedupeKey": "brief:opp_c56b74ba68df9bd204a8:sha256:cb36ba5adab0eadb731290b102660dad80e5d3fd5b469c260ba427f9ee43052b",
-      "firstSeenAt": "2026-08-12T00:05:57.000Z",
-      "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "firstSeenAt": "2026-08-12T02:02:23.533Z",
+      "lastSeenAt": "2026-08-12T02:02:23.533Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -18361,6 +18361,104 @@
       "dedupeKey": "brief:opp_724f94de5186de05edfe:sha256:32d35d45420d56b6eb33a4a83763936fb56baed1353956b0cac40a1024047aa2",
       "firstSeenAt": "2026-08-12T00:05:57.000Z",
       "lastSeenAt": "2026-08-12T00:05:57.000Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_70b1fbf1c6224e4ebb43": {
+      "id": "opp_70b1fbf1c6224e4ebb43",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32405",
+      "canonicalUrl": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets",
+      "title": "한 연구자가 noreply.net을 샀더니 기업 기밀이 쏟아짐",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T22:01:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "보안 연구자가 구매한 noreply.net과 noreply.us로 기업 시스템이 고객·직원 정보와 내부 기밀을 자동 전송했으며, noreply.net에는 2024년 12월 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32405"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0133387c862571f2457e87a6fda17e977088719d93597b7cb028776cec599be6",
+      "dedupeKey": "brief:opp_70b1fbf1c6224e4ebb43:sha256:0133387c862571f2457e87a6fda17e977088719d93597b7cb028776cec599be6",
+      "firstSeenAt": "2026-08-12T02:02:23.533Z",
+      "lastSeenAt": "2026-08-12T02:02:23.533Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_566083cdf7fe173e806a": {
+      "id": "opp_566083cdf7fe173e806a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32400",
+      "canonicalUrl": "https://thewalrus.ca/google-search-is-dying",
+      "title": "AI가 웹을 잠식하면서 인터넷의 집단 기억이 사라지고 있음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-11T18:33:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google의 AI 요약은 일몰 시각 같은 기본 사실도 틀리며, 원문이 남아 있어도 사용자가 정확한 정보에 도달하기 어렵게 만듦 링크 부패와 웹페이지...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32400"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:779c24ef442ba320939de86256a222e973fd4ae97f1ff82569931184e3eceea4",
+      "dedupeKey": "brief:opp_566083cdf7fe173e806a:sha256:779c24ef442ba320939de86256a222e973fd4ae97f1ff82569931184e3eceea4",
+      "firstSeenAt": "2026-08-12T02:02:23.533Z",
+      "lastSeenAt": "2026-08-12T02:02:23.533Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -20372,6 +20470,18 @@
       "opportunityId": "opp_e77e1ae2a2a3a1baaad5",
       "sentAt": "2026-08-12T00:05:57.000Z",
       "messageId": "1536888436110135347"
+    },
+    "brief:opp_70b1fbf1c6224e4ebb43:sha256:0133387c862571f2457e87a6fda17e977088719d93597b7cb028776cec599be6": {
+      "status": "SENT",
+      "opportunityId": "opp_70b1fbf1c6224e4ebb43",
+      "sentAt": "2026-08-12T02:02:23.533Z",
+      "messageId": "1536917739799584959"
+    },
+    "brief:opp_566083cdf7fe173e806a:sha256:779c24ef442ba320939de86256a222e973fd4ae97f1ff82569931184e3eceea4": {
+      "status": "SENT",
+      "opportunityId": "opp_566083cdf7fe173e806a",
+      "sentAt": "2026-08-12T02:02:23.533Z",
+      "messageId": "1536917739799584959"
     }
   },
   "pending": {},
