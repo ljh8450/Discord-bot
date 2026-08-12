@@ -18540,7 +18540,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 18,
+        "communityPoints": 19,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -18555,8 +18555,8 @@
       },
       "contentHash": "sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e",
       "dedupeKey": "brief:opp_c5e9831255af171dc824:sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e",
-      "firstSeenAt": "2026-08-12T09:06:09.178Z",
-      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -18589,7 +18589,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
+        "communityPoints": 12,
         "communityRank": 3,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -18604,11 +18604,11 @@
       },
       "contentHash": "sha256:88e81f5c3cf2d9fb7aaf97e988945c839fd11e4538202fe14d41e97235368318",
       "dedupeKey": "brief:opp_c0d1510b488a007b1a42:sha256:88e81f5c3cf2d9fb7aaf97e988945c839fd11e4538202fe14d41e97235368318",
-      "firstSeenAt": "2026-08-12T09:06:09.178Z",
-      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -18653,11 +18653,11 @@
       },
       "contentHash": "sha256:d25fd2986f4382138b3009a612348e50a45d56ec6e311e7120b45759debd5ba3",
       "dedupeKey": "brief:opp_a588bc053a01b9410cbe:sha256:d25fd2986f4382138b3009a612348e50a45d56ec6e311e7120b45759debd5ba3",
-      "firstSeenAt": "2026-08-12T09:06:09.178Z",
-      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -18751,8 +18751,8 @@
       },
       "contentHash": "sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
       "dedupeKey": "brief:opp_ee06e2a99ae1a09d4c9c:sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
-      "firstSeenAt": "2026-08-12T09:06:09.178Z",
-      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -18785,7 +18785,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 8,
         "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -18800,8 +18800,8 @@
       },
       "contentHash": "sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
       "dedupeKey": "brief:opp_f884534fff3c08a01554:sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
-      "firstSeenAt": "2026-08-12T09:06:09.178Z",
-      "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -18908,6 +18908,157 @@
       "dedupeKey": "brief:opp_5c455332c80d50f6bc9f:sha256:00f69fbd2ce715228c4921119d3e1709e7047314280f9aa869f41d131e3452cf",
       "firstSeenAt": "2026-08-12T09:06:09.178Z",
       "lastSeenAt": "2026-08-12T09:06:09.178Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f67df8c98183289a052d": {
+      "id": "opp_f67df8c98183289a052d",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/db1aa92af5e4",
+      "canonicalUrl": "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4",
+      "title": "Laying the Rails Beyond WebView: Why Karrot Chose Lynx",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 09:04:24 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "Hi, I’m Tony, the lead of Karrot’s Frontend Core Team. Our team builds the development environment and deployment infrastructure used by frontend engineers at Karrot. This post is a record of how we evaluated Lynx — a technology with very few real-world references at the time — a",
+      "summaryEvidence": [
+        "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32263b74107dae02dd06d06ea1a8cb8641c3012cf2716c89d69b85862e33ff51",
+      "dedupeKey": "brief:opp_f67df8c98183289a052d:sha256:32263b74107dae02dd06d06ea1a8cb8641c3012cf2716c89d69b85862e33ff51",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_39c29875f55ed553989e": {
+      "id": "opp_39c29875f55ed553989e",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/34dd50abbfb7",
+      "canonicalUrl": "https://medium.com/daangn/%EC%9B%B9%EB%B7%B0-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A0%88%EC%9D%BC%EC%9D%84-%EA%B9%94%EB%8B%A4-%EB%8B%B9%EA%B7%BC%EC%9D%B4-lynx%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-34dd50abbfb7?source=rss----4505f82a2dbd---4",
+      "title": "웹뷰 다음의 레일을 깔다: 당근이 Lynx를 선택한 이유",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 09:03:40 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요, 당근 프론트엔드코어팀 리더 Tony입니다. 저희 팀은 프론트엔드 엔지니어들이 쓰는 개발 환경과 배포 인프라를 만들어요. 이 글은 레퍼런스가 거의 없던 기술 Lynx를 검토해서 프로덕션 앱에 넣기까지의 기록이에요. 새로운 기술을 도입할지 고민해 본 분이라면 판단의 과정이 참고가 될 거예요. 웹뷰와 성능 문제 당근 앱의 여러 화면은 웹뷰로 만들어져 있습니다. 웹뷰는 화면을 열 때 웹 문서와 데이터를 네트워크에서 가져와 실행하는데, 이 초기 로딩 문제가 오래된 과제였어요. SSR을 활용하면",
+      "summaryEvidence": [
+        "https://medium.com/daangn/%EC%9B%B9%EB%B7%B0-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A0%88%EC%9D%BC%EC%9D%84-%EA%B9%94%EB%8B%A4-%EB%8B%B9%EA%B7%BC%EC%9D%B4-lynx%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-34dd50abbfb7?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a1b1ac8f3b91622f19b40e3f2c9870c25526266154d735e55e88fd23ab55e8bc",
+      "dedupeKey": "brief:opp_39c29875f55ed553989e:sha256:a1b1ac8f3b91622f19b40e3f2c9870c25526266154d735e55e88fd23ab55e8bc",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_32044f79a5d79ac68de1": {
+      "id": "opp_32044f79a5d79ac68de1",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:zfEGIYQtky8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zfEGIYQtky8",
+      "title": "[한영자막] 제 영감은 언제나 짜증에서 시작됩니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T09:00:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "8개월 만에 주간 다운로드 470만 건을 기록한 오픈소스 프로젝트 OpenClaw. 그 뒤에서 창시자 피터 스타인버거가 실제로 겪은 성공과 위기, 그리고 배운 것들을 가감 없이 들려드립니다. ▪ 비 오는 날의 사소한 짜증에서 시작된 OpenClaw 탄생 비화 ▪ 하룻밤 사이 입소문을 타며 벌어진 언론과 팬덤의 폭주 ▪ 앤트로픽의 이름 변경 요구와 보안 논란까지, 성장의 그림자 ▪ 거의 무너질 뻔한 순간을 버텨내고 다시 찾은 '재미' ▪ 스타트업을 준비하는 분들에게 건네는 현실적인 조언 #OpenC",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=zfEGIYQtky8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-12T09:00:29.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e0eb194c23712e019add276a464f983478156c42fe5a2331a77db763d5f3b6fd",
+      "dedupeKey": "brief:opp_32044f79a5d79ac68de1:sha256:e0eb194c23712e019add276a464f983478156c42fe5a2331a77db763d5f3b6fd",
+      "firstSeenAt": "2026-08-12T09:59:50.905Z",
+      "lastSeenAt": "2026-08-12T09:59:50.905Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -20955,6 +21106,36 @@
       "opportunityId": "opp_9a69ae7c7622a53f0f2d",
       "sentAt": "2026-08-12T09:06:09.178Z",
       "messageId": "1537024384127082508"
+    },
+    "brief:opp_f67df8c98183289a052d:sha256:32263b74107dae02dd06d06ea1a8cb8641c3012cf2716c89d69b85862e33ff51": {
+      "status": "SENT",
+      "opportunityId": "opp_f67df8c98183289a052d",
+      "sentAt": "2026-08-12T09:59:50.905Z",
+      "messageId": "1537037897017069709"
+    },
+    "brief:opp_39c29875f55ed553989e:sha256:a1b1ac8f3b91622f19b40e3f2c9870c25526266154d735e55e88fd23ab55e8bc": {
+      "status": "SENT",
+      "opportunityId": "opp_39c29875f55ed553989e",
+      "sentAt": "2026-08-12T09:59:50.905Z",
+      "messageId": "1537037897017069709"
+    },
+    "brief:opp_32044f79a5d79ac68de1:sha256:e0eb194c23712e019add276a464f983478156c42fe5a2331a77db763d5f3b6fd": {
+      "status": "SENT",
+      "opportunityId": "opp_32044f79a5d79ac68de1",
+      "sentAt": "2026-08-12T09:59:50.905Z",
+      "messageId": "1537037897017069709"
+    },
+    "brief:opp_c0d1510b488a007b1a42:sha256:88e81f5c3cf2d9fb7aaf97e988945c839fd11e4538202fe14d41e97235368318": {
+      "status": "SENT",
+      "opportunityId": "opp_c0d1510b488a007b1a42",
+      "sentAt": "2026-08-12T09:59:50.905Z",
+      "messageId": "1537037897017069709"
+    },
+    "brief:opp_a588bc053a01b9410cbe:sha256:d25fd2986f4382138b3009a612348e50a45d56ec6e311e7120b45759debd5ba3": {
+      "status": "SENT",
+      "opportunityId": "opp_a588bc053a01b9410cbe",
+      "sentAt": "2026-08-12T09:59:50.905Z",
+      "messageId": "1537037897017069709"
     }
   },
   "pending": {},
