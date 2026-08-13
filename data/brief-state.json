@@ -18737,7 +18737,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 7,
+        "communityRank": 10,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -18751,11 +18751,11 @@
       },
       "contentHash": "sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
       "dedupeKey": "brief:opp_ee06e2a99ae1a09d4c9c:sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
-      "firstSeenAt": "2026-08-13T00:05:53.950Z",
-      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -18785,8 +18785,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 13,
+        "communityPoints": 9,
+        "communityRank": 18,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -18800,8 +18800,8 @@
       },
       "contentHash": "sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
       "dedupeKey": "brief:opp_f884534fff3c08a01554:sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
-      "firstSeenAt": "2026-08-13T00:05:53.950Z",
-      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -19444,11 +19444,11 @@
       },
       "contentHash": "sha256:115e6124950c6a2a4d873296506eb9378909e5e78a520a160084709273b50ae1",
       "dedupeKey": "brief:opp_e20e5da2ebe881c9090e:sha256:115e6124950c6a2a4d873296506eb9378909e5e78a520a160084709273b50ae1",
-      "firstSeenAt": "2026-08-13T00:05:53.950Z",
-      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -19497,8 +19497,8 @@
       },
       "contentHash": "sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2",
       "dedupeKey": "brief:opp_5bf86d61854bb8ff34b1:sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2",
-      "firstSeenAt": "2026-08-13T00:05:53.950Z",
-      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -19551,11 +19551,158 @@
       },
       "contentHash": "sha256:35f26875f06db1f7d9362fcb72dfd9348c3fcd0ef90fe8c29e6d91a1c28711f9",
       "dedupeKey": "brief:opp_09c010369eece196fdfb:sha256:35f26875f06db1f7d9362fcb72dfd9348c3fcd0ef90fe8c29e6d91a1c28711f9",
-      "firstSeenAt": "2026-08-13T00:05:53.950Z",
-      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_20aea67a1c910d1f30a9": {
+      "id": "opp_20aea67a1c910d1f30a9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32454",
+      "canonicalUrl": "https://arxiv.org/html/2607.13196v1",
+      "title": "인간 중심에서 에이전틱 코드 리뷰로 - 더 빠른 결정이 더 나은 리뷰를 뜻하지는 않는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "207개 GitHub 프로젝트의 102만 개 PR을 분석해, 코드 리뷰가 인간 중심/LLM 보조/AI 에이전트 참여 단계로 바뀌는 과정에서 리뷰 속도와 품질이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32454"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:946f3c974ee82cc47d98a34baf406541509e3e8ccfadcef403f64d7ffa987331",
+      "dedupeKey": "brief:opp_20aea67a1c910d1f30a9:sha256:946f3c974ee82cc47d98a34baf406541509e3e8ccfadcef403f64d7ffa987331",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c60bfc15a694fd633e5b": {
+      "id": "opp_c60bfc15a694fd633e5b",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ebcf7447b32aea10d7bffaae618a01fe9291c3d0",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/opening-the-cloud-gaming-era-with-amazon-gamelift-streams",
+      "title": "Amazon GameLift Streams로 여는 클라우드 게이밍 시대: 클라이언트 설치 없이 게임 즐기기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 00:36:15 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "들어가며 게임은 점점 더 화려한 그래픽과 풍부한 콘텐츠로 무장하며 진화하고 있습니다. 그러나 역설적이게도, 게임에 도달하기까지의 여정 또한 점점 길어지고 있습니다. 수십 GB에 달하는 다운로드와 긴 설치 과정, 그리고 고사양 그래픽 카드 요구라는 관문이, 정작 게임의 가치를 경험하기도 전에 잠재 유저를 돌려보내고 있는 것입니다. 게임·미디어 산업 분석가이자 베스트셀러 『The Metaverse』의 저자인 Matthew Ball은 2026년 초 발표한 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/opening-the-cloud-gaming-era-with-amazon-gamelift-streams/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:254b169df12dc4d27c748e72ae652cf2f285d0b16f4d0d73f32284933b9fe38d",
+      "dedupeKey": "brief:opp_c60bfc15a694fd633e5b:sha256:254b169df12dc4d27c748e72ae652cf2f285d0b16f4d0d73f32284933b9fe38d",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6e3f9c835a8d4dffef06": {
+      "id": "opp_6e3f9c835a8d4dffef06",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/tech_talk_talk_1",
+      "canonicalUrl": "https://toss.tech/article/tech_talk_talk_1",
+      "title": "AI에게 투자정보를 말하게 하기까지",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "근거를 고르고, 절차를 통제하고, 실패를 다시 쓰는 세 개의 관문",
+      "summaryEvidence": [
+        "https://toss.tech/article/tech_talk_talk_1"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:987e0845e48ed862976fc0a2364f322ff362421b6987960cb169d40c119d3208",
+      "dedupeKey": "brief:opp_6e3f9c835a8d4dffef06:sha256:987e0845e48ed862976fc0a2364f322ff362421b6987960cb169d40c119d3208",
+      "firstSeenAt": "2026-08-13T02:04:24.345Z",
+      "lastSeenAt": "2026-08-13T02:04:24.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -21666,6 +21813,42 @@
       "opportunityId": "opp_3926e77ad62815d56694",
       "sentAt": "2026-08-13T00:05:53.950Z",
       "messageId": "1537250812173095003"
+    },
+    "brief:opp_6e3f9c835a8d4dffef06:sha256:987e0845e48ed862976fc0a2364f322ff362421b6987960cb169d40c119d3208": {
+      "status": "SENT",
+      "opportunityId": "opp_6e3f9c835a8d4dffef06",
+      "sentAt": "2026-08-13T02:04:24.345Z",
+      "messageId": "1537280635335483503"
+    },
+    "brief:opp_e20e5da2ebe881c9090e:sha256:115e6124950c6a2a4d873296506eb9378909e5e78a520a160084709273b50ae1": {
+      "status": "SENT",
+      "opportunityId": "opp_e20e5da2ebe881c9090e",
+      "sentAt": "2026-08-13T02:04:24.345Z",
+      "messageId": "1537280635335483503"
+    },
+    "brief:opp_c60bfc15a694fd633e5b:sha256:254b169df12dc4d27c748e72ae652cf2f285d0b16f4d0d73f32284933b9fe38d": {
+      "status": "SENT",
+      "opportunityId": "opp_c60bfc15a694fd633e5b",
+      "sentAt": "2026-08-13T02:04:24.345Z",
+      "messageId": "1537280635335483503"
+    },
+    "brief:opp_20aea67a1c910d1f30a9:sha256:946f3c974ee82cc47d98a34baf406541509e3e8ccfadcef403f64d7ffa987331": {
+      "status": "SENT",
+      "opportunityId": "opp_20aea67a1c910d1f30a9",
+      "sentAt": "2026-08-13T02:04:24.345Z",
+      "messageId": "1537280635335483503"
+    },
+    "brief:opp_09c010369eece196fdfb:sha256:35f26875f06db1f7d9362fcb72dfd9348c3fcd0ef90fe8c29e6d91a1c28711f9": {
+      "status": "SENT",
+      "opportunityId": "opp_09c010369eece196fdfb",
+      "sentAt": "2026-08-13T02:04:24.345Z",
+      "messageId": "1537280635335483503"
+    },
+    "brief:opp_ee06e2a99ae1a09d4c9c:sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5": {
+      "status": "SENT",
+      "opportunityId": "opp_ee06e2a99ae1a09d4c9c",
+      "sentAt": "2026-08-13T02:04:24.345Z",
+      "messageId": "1537280635335483503"
     }
   },
   "pending": {},
