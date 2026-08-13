@@ -19831,7 +19831,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 6,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -19845,11 +19845,11 @@
       },
       "contentHash": "sha256:0873e86512b2734a8107073b0c4177e57d0a254ed92a41f90a562b866c5bfcfe",
       "dedupeKey": "brief:opp_6a6ee98540873915b71c:sha256:0873e86512b2734a8107073b0c4177e57d0a254ed92a41f90a562b866c5bfcfe",
-      "firstSeenAt": "2026-08-13T09:06:03.558Z",
-      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "firstSeenAt": "2026-08-13T10:01:17.318Z",
+      "lastSeenAt": "2026-08-13T10:01:17.318Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -19879,7 +19879,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 9,
         "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -19894,8 +19894,8 @@
       },
       "contentHash": "sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
       "dedupeKey": "brief:opp_d509eaf371d85a184681:sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
-      "firstSeenAt": "2026-08-13T09:06:03.558Z",
-      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "firstSeenAt": "2026-08-13T10:01:17.318Z",
+      "lastSeenAt": "2026-08-13T10:01:17.318Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -19929,7 +19929,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 17,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -19943,11 +19943,11 @@
       },
       "contentHash": "sha256:b62d31402cd4840a232d15669c8b923f294b168f827451e1c8eb2ee3cbac8cf8",
       "dedupeKey": "brief:opp_a9c9a45b432631226d21:sha256:b62d31402cd4840a232d15669c8b923f294b168f827451e1c8eb2ee3cbac8cf8",
-      "firstSeenAt": "2026-08-13T09:06:03.558Z",
-      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "firstSeenAt": "2026-08-13T10:01:17.318Z",
+      "lastSeenAt": "2026-08-13T10:01:17.318Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -19998,6 +19998,59 @@
       "dedupeKey": "brief:opp_96ac3c06584ce4af96f2:sha256:628bd10569666bdb97a6a10e9425de678b3e0818c26b5d3f95d8dd776aaffca0",
       "firstSeenAt": "2026-08-13T09:06:03.558Z",
       "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_850cdb7300ccf3d1d4f6": {
+      "id": "opp_850cdb7300ccf3d1d4f6",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:2Xkq2twywp4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2Xkq2twywp4",
+      "title": "[한영자막] 가이드하고, 검증하고, 해결하세요 — Anirban Chatterjee, Sonar",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T09:00:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 짠 코드, 리뷰만 잘하면 안전할까요? Sonar의 Anirban Chatterjee가 \"검증이 곧 새로운 리뷰\"라는 원칙으로 바이브 코딩 시대의 신뢰 문제를 어떻게 풀어야 하는지 이야기합니다. 주요 포인트 - Carnegie Mellon 연구 결과: AI 도구로 짠 코드의 생산성 향상 효과는 3개월이면 사라지고, 정적 분석 경고와 복잡도만 계속 쌓입니다. - Wharton 연구 결과: 참가자들은 AI 조언이 맞을 때 92.7%, 심지어 틀렸을 때도 거의 80%나 그대로 따랐습니다. 사람의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2Xkq2twywp4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-13T09:00:32.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0023b024f4bba6b063436c29cd0dac845e15b07333326739c3127dfcbbce708b",
+      "dedupeKey": "brief:opp_850cdb7300ccf3d1d4f6:sha256:0023b024f4bba6b063436c29cd0dac845e15b07333326739c3127dfcbbce708b",
+      "firstSeenAt": "2026-08-13T10:01:17.318Z",
+      "lastSeenAt": "2026-08-13T10:01:17.318Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -22171,6 +22224,24 @@
       "opportunityId": "opp_5bf86d61854bb8ff34b1",
       "sentAt": "2026-08-13T09:06:03.558Z",
       "messageId": "1537386747082703009"
+    },
+    "brief:opp_850cdb7300ccf3d1d4f6:sha256:0023b024f4bba6b063436c29cd0dac845e15b07333326739c3127dfcbbce708b": {
+      "status": "SENT",
+      "opportunityId": "opp_850cdb7300ccf3d1d4f6",
+      "sentAt": "2026-08-13T10:01:17.318Z",
+      "messageId": "1537400646486196245"
+    },
+    "brief:opp_6a6ee98540873915b71c:sha256:0873e86512b2734a8107073b0c4177e57d0a254ed92a41f90a562b866c5bfcfe": {
+      "status": "SENT",
+      "opportunityId": "opp_6a6ee98540873915b71c",
+      "sentAt": "2026-08-13T10:01:17.318Z",
+      "messageId": "1537400646486196245"
+    },
+    "brief:opp_a9c9a45b432631226d21:sha256:b62d31402cd4840a232d15669c8b923f294b168f827451e1c8eb2ee3cbac8cf8": {
+      "status": "SENT",
+      "opportunityId": "opp_a9c9a45b432631226d21",
+      "sentAt": "2026-08-13T10:01:17.318Z",
+      "messageId": "1537400646486196245"
     }
   },
   "pending": {},
