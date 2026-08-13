@@ -19497,11 +19497,11 @@
       },
       "contentHash": "sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2",
       "dedupeKey": "brief:opp_5bf86d61854bb8ff34b1:sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2",
-      "firstSeenAt": "2026-08-13T02:04:24.345Z",
-      "lastSeenAt": "2026-08-13T02:04:24.345Z",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -19700,6 +19700,304 @@
       "dedupeKey": "brief:opp_6e3f9c835a8d4dffef06:sha256:987e0845e48ed862976fc0a2364f322ff362421b6987960cb169d40c119d3208",
       "firstSeenAt": "2026-08-13T02:04:24.345Z",
       "lastSeenAt": "2026-08-13T02:04:24.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5d2680cd9353a9dc2d48": {
+      "id": "opp_5d2680cd9353a9dc2d48",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32447",
+      "canonicalUrl": "https://brettcodes.com/im-done-using-ai",
+      "title": "AI 사용을 그만두기로 한 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T09:04:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "20년 경력의 개발자가 LLM 코딩 도구를 1년 넘게 적극적으로 사용한 끝에 정신 건강·소프트웨어 품질·환경과 사회적 비용을 이유로 코딩을 포함한 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32447"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6c1cbd507984da75eff38ed834834d9a352ce9ce4b4530d5b323bf7c13f53f33",
+      "dedupeKey": "brief:opp_5d2680cd9353a9dc2d48:sha256:6c1cbd507984da75eff38ed834834d9a352ce9ce4b4530d5b323bf7c13f53f33",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e697bfb8e1162f72990a": {
+      "id": "opp_e697bfb8e1162f72990a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32455",
+      "canonicalUrl": "https://unsloth.ai/docs/desktop",
+      "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T10:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "빠른 파인튜닝 도구 Unsloth가 Desktop 버전을 출시 LLM뿐 아니라 diffusion 이미지/비디오, embedding, vision, TTS/STT 모델을 실행/학습하며, G...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32455"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b842c6359964ca004b996b7941d023e004eb348add66b3b922dad9f1ea0f0df0",
+      "dedupeKey": "brief:opp_e697bfb8e1162f72990a:sha256:b842c6359964ca004b996b7941d023e004eb348add66b3b922dad9f1ea0f0df0",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6a6ee98540873915b71c": {
+      "id": "opp_6a6ee98540873915b71c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32452",
+      "canonicalUrl": "https://github.com/xberg-io/xberg",
+      "title": "xberg - 다국어 문서 인텔리전스 프레임워크",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "PDF/이미지/스프레드시트/오디오/URL/아카이브/소스트리 등 무엇을 넣어도 깔끔한 텍스트/표/메타데이터/구조화 데이터를 반환 포맷 감지 부터 OCR...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32452"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0873e86512b2734a8107073b0c4177e57d0a254ed92a41f90a562b866c5bfcfe",
+      "dedupeKey": "brief:opp_6a6ee98540873915b71c:sha256:0873e86512b2734a8107073b0c4177e57d0a254ed92a41f90a562b866c5bfcfe",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d509eaf371d85a184681": {
+      "id": "opp_d509eaf371d85a184681",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32441",
+      "canonicalUrl": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "title": "AI가 소프트웨어 엔지니어링의 중산층을 없애고 있음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T02:35:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI는 구현 속도의 제한을 없애 취약한 엔지니어링 문화를 가진 프로젝트가 복구 불가능한 복잡성에 도달하는 시간까지 크게 단축함 하루 만에 수만...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32441"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
+      "dedupeKey": "brief:opp_d509eaf371d85a184681:sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a9c9a45b432631226d21": {
+      "id": "opp_a9c9a45b432631226d21",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32442",
+      "canonicalUrl": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "Tailscale이 데이터베이스 손상 원인을 16년 된 SQLite WAL-Reset 버그로 추적한 과정",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T02:38:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "6개월간 발생한 19건의 데이터베이스 손상과 반복적인 제어 평면 장애를 조사한 끝에, SQLite 체크포인트와 쓰기 트랜잭션 사이의 희귀한 데이터 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32442"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b62d31402cd4840a232d15669c8b923f294b168f827451e1c8eb2ee3cbac8cf8",
+      "dedupeKey": "brief:opp_a9c9a45b432631226d21:sha256:b62d31402cd4840a232d15669c8b923f294b168f827451e1c8eb2ee3cbac8cf8",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_96ac3c06584ce4af96f2": {
+      "id": "opp_96ac3c06584ce4af96f2",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:CA4mGzVgRvE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CA4mGzVgRvE",
+      "title": "테라팹, 기존 EUV 안쓰는 미친 구상 | 입자가속기 도입이 현실이 되는 이유 | FEL-EUV의 가능성",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T03:03:26+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "일론 머스크가 추진하는 초대형 반도체 공장 테라팹에서 ‘New Physics’라는 표현이 등장했습니다. 그 후보 중 하나로 거론되는 기술이 자유전자레이저, FEL입니다. 현재 EUV는 주석 방울에 강력한 레이저를 쏴 플라즈마를 만들고 여기서 필요한 빛을 얻습니다. FEL은 주석 대신 가속된 전자빔에서 직접 강한 빛을 만들어내는 전혀 다른 접근입니다. 문제는 FEL이 작은 광원이 아니라 대형 가속기 시설에 가깝다는 점입니다. 그래서 하나의 중앙 FEL에서 여러 노광장비로 빛을 공급하는 구조가 연구되",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=CA4mGzVgRvE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-13T03:03:26.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:628bd10569666bdb97a6a10e9425de678b3e0818c26b5d3f95d8dd776aaffca0",
+      "dedupeKey": "brief:opp_96ac3c06584ce4af96f2:sha256:628bd10569666bdb97a6a10e9425de678b3e0818c26b5d3f95d8dd776aaffca0",
+      "firstSeenAt": "2026-08-13T09:06:03.558Z",
+      "lastSeenAt": "2026-08-13T09:06:03.558Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -21849,6 +22147,30 @@
       "opportunityId": "opp_ee06e2a99ae1a09d4c9c",
       "sentAt": "2026-08-13T02:04:24.345Z",
       "messageId": "1537280635335483503"
+    },
+    "brief:opp_e697bfb8e1162f72990a:sha256:b842c6359964ca004b996b7941d023e004eb348add66b3b922dad9f1ea0f0df0": {
+      "status": "SENT",
+      "opportunityId": "opp_e697bfb8e1162f72990a",
+      "sentAt": "2026-08-13T09:06:03.558Z",
+      "messageId": "1537386747082703009"
+    },
+    "brief:opp_5d2680cd9353a9dc2d48:sha256:6c1cbd507984da75eff38ed834834d9a352ce9ce4b4530d5b323bf7c13f53f33": {
+      "status": "SENT",
+      "opportunityId": "opp_5d2680cd9353a9dc2d48",
+      "sentAt": "2026-08-13T09:06:03.558Z",
+      "messageId": "1537386747082703009"
+    },
+    "brief:opp_96ac3c06584ce4af96f2:sha256:628bd10569666bdb97a6a10e9425de678b3e0818c26b5d3f95d8dd776aaffca0": {
+      "status": "SENT",
+      "opportunityId": "opp_96ac3c06584ce4af96f2",
+      "sentAt": "2026-08-13T09:06:03.558Z",
+      "messageId": "1537386747082703009"
+    },
+    "brief:opp_5bf86d61854bb8ff34b1:sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2": {
+      "status": "SENT",
+      "opportunityId": "opp_5bf86d61854bb8ff34b1",
+      "sentAt": "2026-08-13T09:06:03.558Z",
+      "messageId": "1537386747082703009"
     }
   },
   "pending": {},
