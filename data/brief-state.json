@@ -18540,26 +18540,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 19,
+        "communityPoints": 28,
         "communityRank": 2,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e",
       "dedupeKey": "brief:opp_c5e9831255af171dc824:sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e",
-      "firstSeenAt": "2026-08-12T09:59:50.905Z",
-      "lastSeenAt": "2026-08-12T09:59:50.905Z",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -18736,23 +18736,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityPoints": 12,
+        "communityRank": 7,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
       "dedupeKey": "brief:opp_ee06e2a99ae1a09d4c9c:sha256:447d283af4684efe1f6ed9258dcb3ff3e3d7adc3adea10ddc94dfc03db33b6b5",
-      "firstSeenAt": "2026-08-12T09:59:50.905Z",
-      "lastSeenAt": "2026-08-12T09:59:50.905Z",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -18786,13 +18786,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 8,
-        "contentScore": 11,
+        "communityRank": 13,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -18800,8 +18800,8 @@
       },
       "contentHash": "sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
       "dedupeKey": "brief:opp_f884534fff3c08a01554:sha256:f8670c8f487f7b4eb79b4015f709cb950b58d3d8d65ce826d7618054b375dccf",
-      "firstSeenAt": "2026-08-12T09:59:50.905Z",
-      "lastSeenAt": "2026-08-12T09:59:50.905Z",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -19062,6 +19062,500 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c87b41103d3864bb51a4": {
+      "id": "opp_c87b41103d3864bb51a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32420",
+      "canonicalUrl": "https://xirp.spotify.com/",
+      "title": "Xirp - Spotify가 만든 조직 컨텍스트 기반 AI 코딩 환경",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩 도구로 코드 생성 속도는 빨라졌지만, 에이전트가 시스템의 배경을 몰라 기술적으로는 맞지만 운영상 잘못된 결정을 내릴 수 있음 이는 문...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32420"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:55f7662a69e23b98b160d61294ebb06d9f9718ee2506439fad9a1d7367916d05",
+      "dedupeKey": "brief:opp_c87b41103d3864bb51a4:sha256:55f7662a69e23b98b160d61294ebb06d9f9718ee2506439fad9a1d7367916d05",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9584baf9fe0bb6392e55": {
+      "id": "opp_9584baf9fe0bb6392e55",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32413",
+      "canonicalUrl": "https://stolen-thoughts.com/",
+      "title": "독점 LLM API에서 추론 트레이스 훔치기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T03:38:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI/Anthropic/Google은 모델의 내부 추론을 평문 대신 암호화된 reasoning block으로 클라이언트에 돌려주는데, 이 블록이 다른 세션/사용자/...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32413"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 18,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35660370c641497830f02971f19127934cd9ce649f97ef6a02fbaeafc1232031",
+      "dedupeKey": "brief:opp_9584baf9fe0bb6392e55:sha256:35660370c641497830f02971f19127934cd9ce649f97ef6a02fbaeafc1232031",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cc0ce741ddddd9bb8132": {
+      "id": "opp_cc0ce741ddddd9bb8132",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "canonicalUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-enterprises-put-ai-to-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:76e288ca217efdc066200581483b8a1aa172148d837fe7c5765767ede55ea935",
+      "dedupeKey": "brief:opp_cc0ce741ddddd9bb8132:sha256:76e288ca217efdc066200581483b8a1aa172148d837fe7c5765767ede55ea935",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3926e77ad62815d56694": {
+      "id": "opp_3926e77ad62815d56694",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/ringcentral",
+      "canonicalUrl": "https://openai.com/index/ringcentral",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "summaryEvidence": [
+        "https://openai.com/index/ringcentral"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:18dea73175f331f84d36cc3761d159adfee687101b99af2ca1989b3493a95372",
+      "dedupeKey": "brief:opp_3926e77ad62815d56694:sha256:18dea73175f331f84d36cc3761d159adfee687101b99af2ca1989b3493a95372",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_13bf3b4ef86b82d3dfa9": {
+      "id": "opp_13bf3b4ef86b82d3dfa9",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "865b47f8d9075eb084b2902b130a3e0ea091dc66",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/cluster-construction-and-operation",
+      "title": "분산 학습을 위한 AWS 컴퓨트 선택 가이드 (3편: 클러스터 구축과 운영)",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 10:28:55 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "1편에서 모델 규모에 맞는 인스턴스 타입과 인터커넥트 기술을, 2편에서 Amazon EC2 UltraClusters(울트라클러스터) 및 Amazon EC2 UltraServer(울트라서버)와 고성능 GPU 인스턴스 확보 전략을 다뤘습니다. 무엇을 고르고 어떻게 확보할지가 정해졌다면, 이제 실제로 클러스터를 구성하고 운영할 차례입니다. 이번 3편에서는 컨테이너 기반 환경 구성, 클러스터를 구성하기 전 점검사항, 온프레미스 환경과의 비교, GPU와 Trainium의 선택, 그리고 현장에서 자주 마주치",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/cluster-construction-and-operation/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4a04b3de3d159b243d2acd905535c9cf9717c16becdf35655865905069c3f9b2",
+      "dedupeKey": "brief:opp_13bf3b4ef86b82d3dfa9:sha256:4a04b3de3d159b243d2acd905535c9cf9717c16becdf35655865905069c3f9b2",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a5ff1d24a00cbf8b485c": {
+      "id": "opp_a5ff1d24a00cbf8b485c",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98241",
+      "canonicalUrl": "https://github.blog/news-insights/company-news/github-availability-report-july-2026",
+      "title": "GitHub availability report: July 2026",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 22:17:32 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/company-news/github-availability-report-july-2026/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:24dccb171b0f6c95af7d12b069800f987d927dd350e6075bd9ccfc3450a877b6",
+      "dedupeKey": "brief:opp_a5ff1d24a00cbf8b485c:sha256:24dccb171b0f6c95af7d12b069800f987d927dd350e6075bd9ccfc3450a877b6",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be26e90a4dcc99d41574": {
+      "id": "opp_be26e90a4dcc99d41574",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98221",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 19:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c170acce281440580d03b88bf35ee168738a4ae823d27da47ae126f852073359",
+      "dedupeKey": "brief:opp_be26e90a4dcc99d41574:sha256:c170acce281440580d03b88bf35ee168738a4ae823d27da47ae126f852073359",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e20e5da2ebe881c9090e": {
+      "id": "opp_e20e5da2ebe881c9090e",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98128",
+      "canonicalUrl": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "title": "Your contributors are AI-first now. Is your project?",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 12 Aug 2026 18:00:08 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:115e6124950c6a2a4d873296506eb9378909e5e78a520a160084709273b50ae1",
+      "dedupeKey": "brief:opp_e20e5da2ebe881c9090e:sha256:115e6124950c6a2a4d873296506eb9378909e5e78a520a160084709273b50ae1",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5bf86d61854bb8ff34b1": {
+      "id": "opp_5bf86d61854bb8ff34b1",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:UKc3SlEPlKs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UKc3SlEPlKs",
+      "title": "[한영자막] AI로 독학하면 1년 뒤 완전히 달라집니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T23:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "학교식 암기 대신, AI를 활용해 지금 내게 진짜 필요한 것만 배우는 7단계 독학 시스템을 소개합니다. 재활 시설에서 우연히 만난 책 한 권으로 인생이 바뀐 경험에서 출발한 실전 노하우입니다. 주요 포인트 - 혹시 몰라서 배우는 학습과, 지금 당장 써먹는 적시 학습의 차이 - AI가 나에게 되묻게 만들어 커리큘럼을 스스로 설계하는 프롬프트 활용법 - 그냥 읽지 않고 '공부'하는 법: 매일 조금씩, 준비된 상태로 시작하기, 내 언어로 다시 쓰기, 실행 항목 하나 정하기 - 배운 걸 48시간 안에 실",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=UKc3SlEPlKs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-12T23:00:37.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2",
+      "dedupeKey": "brief:opp_5bf86d61854bb8ff34b1:sha256:79165a0ac063ad65e77638f2b0645b702cfc821fb97fbfa7855bd6aeee95d5b2",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09c010369eece196fdfb": {
+      "id": "opp_09c010369eece196fdfb",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:M3_BX0BodOo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=M3_BX0BodOo",
+      "title": "dont waste your time with grokbot",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-12T22:50:50+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Claude Code Masterclass: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Grokbot is the latest overhyped AI tool in which the discussion as lost all nuance. ⏰TIMESTAMPS: 0:00 - In",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=M3_BX0BodOo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-12T22:50:50.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35f26875f06db1f7d9362fcb72dfd9348c3fcd0ef90fe8c29e6d91a1c28711f9",
+      "dedupeKey": "brief:opp_09c010369eece196fdfb:sha256:35f26875f06db1f7d9362fcb72dfd9348c3fcd0ef90fe8c29e6d91a1c28711f9",
+      "firstSeenAt": "2026-08-13T00:05:53.950Z",
+      "lastSeenAt": "2026-08-13T00:05:53.950Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -21136,6 +21630,42 @@
       "opportunityId": "opp_a588bc053a01b9410cbe",
       "sentAt": "2026-08-12T09:59:50.905Z",
       "messageId": "1537037897017069709"
+    },
+    "brief:opp_a5ff1d24a00cbf8b485c:sha256:24dccb171b0f6c95af7d12b069800f987d927dd350e6075bd9ccfc3450a877b6": {
+      "status": "SENT",
+      "opportunityId": "opp_a5ff1d24a00cbf8b485c",
+      "sentAt": "2026-08-13T00:05:53.950Z",
+      "messageId": "1537250812173095003"
+    },
+    "brief:opp_be26e90a4dcc99d41574:sha256:c170acce281440580d03b88bf35ee168738a4ae823d27da47ae126f852073359": {
+      "status": "SENT",
+      "opportunityId": "opp_be26e90a4dcc99d41574",
+      "sentAt": "2026-08-13T00:05:53.950Z",
+      "messageId": "1537250812173095003"
+    },
+    "brief:opp_13bf3b4ef86b82d3dfa9:sha256:4a04b3de3d159b243d2acd905535c9cf9717c16becdf35655865905069c3f9b2": {
+      "status": "SENT",
+      "opportunityId": "opp_13bf3b4ef86b82d3dfa9",
+      "sentAt": "2026-08-13T00:05:53.950Z",
+      "messageId": "1537250812173095003"
+    },
+    "brief:opp_cc0ce741ddddd9bb8132:sha256:76e288ca217efdc066200581483b8a1aa172148d837fe7c5765767ede55ea935": {
+      "status": "SENT",
+      "opportunityId": "opp_cc0ce741ddddd9bb8132",
+      "sentAt": "2026-08-13T00:05:53.950Z",
+      "messageId": "1537250812173095003"
+    },
+    "brief:opp_c5e9831255af171dc824:sha256:f533b35e7c197a12eda0b61f450cb5b41f2a0705684f9b55a7a6a5b4dd81393e": {
+      "status": "SENT",
+      "opportunityId": "opp_c5e9831255af171dc824",
+      "sentAt": "2026-08-13T00:05:53.950Z",
+      "messageId": "1537250812173095003"
+    },
+    "brief:opp_3926e77ad62815d56694:sha256:18dea73175f331f84d36cc3761d159adfee687101b99af2ca1989b3493a95372": {
+      "status": "SENT",
+      "opportunityId": "opp_3926e77ad62815d56694",
+      "sentAt": "2026-08-13T00:05:53.950Z",
+      "messageId": "1537250812173095003"
     }
   },
   "pending": {},
