@@ -19879,23 +19879,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 11,
+        "communityPoints": 14,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
       "dedupeKey": "brief:opp_d509eaf371d85a184681:sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
-      "firstSeenAt": "2026-08-13T10:01:17.318Z",
-      "lastSeenAt": "2026-08-13T10:01:17.318Z",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -20054,6 +20054,450 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1975416d769cb482fd45": {
+      "id": "opp_1975416d769cb482fd45",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32460",
+      "canonicalUrl": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "title": "uBlock Origin, Facebook 광고 차단과의 싸움을 포기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T13:32:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "uBlock Origin 팀이 Facebook이 광고 차단을 우회할 때마다 필터를 수정해온 작업을 중단함. 기존 Facebook 광고 필터는 유지되지만 앞으로 깨진 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32460"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3c79543317a9cab3bf8c53d4fe56006489ddbc477948b39a44e03600654b3761",
+      "dedupeKey": "brief:opp_1975416d769cb482fd45:sha256:3c79543317a9cab3bf8c53d4fe56006489ddbc477948b39a44e03600654b3761",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f65fa67ad6f405e95104": {
+      "id": "opp_f65fa67ad6f405e95104",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32458",
+      "canonicalUrl": "https://news.hada.io/topic?id=32458",
+      "title": "Show GN: AI 답변 대기시간을 보상으로 바꿔주는 서비스 &#039;틈틈이&#039;",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T12:41:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. AI가 답변을 만드는 동안의 대기시간을 광고 지면으로 쓰고, 그 수익의 절반을 사용자에게 돌려주는 크롬 확장 및 백엔드 서비스 ‘틈...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32458"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:275c7d565dbbb4603e0cc4cea5ebd3fdfaced7678bae9bba7a1489f6c88ad742",
+      "dedupeKey": "brief:opp_f65fa67ad6f405e95104:sha256:275c7d565dbbb4603e0cc4cea5ebd3fdfaced7678bae9bba7a1489f6c88ad742",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_546178e2735f6bdbd6f5": {
+      "id": "opp_546178e2735f6bdbd6f5",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "canonicalUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "summaryEvidence": [
+        "https://openai.com/index/builders-guide-to-gpt-5-6"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d10c9dfa5fa29bfd7ba9a1aedb3f459bff74f1a189e7a4f6c38c21cdfcec30e2",
+      "dedupeKey": "brief:opp_546178e2735f6bdbd6f5:sha256:d10c9dfa5fa29bfd7ba9a1aedb3f459bff74f1a189e7a4f6c38c21cdfcec30e2",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5290854a0be8bf3ec9da": {
+      "id": "opp_5290854a0be8bf3ec9da",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/previewing-ultrafast",
+      "canonicalUrl": "https://openai.com/index/previewing-ultrafast",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "summaryEvidence": [
+        "https://openai.com/index/previewing-ultrafast"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4de28176d60bf1a62d3c2d0908b07208d1923dd4820e7069f2aaca00b59e61b2",
+      "dedupeKey": "brief:opp_5290854a0be8bf3ec9da:sha256:4de28176d60bf1a62d3c2d0908b07208d1923dd4820e7069f2aaca00b59e61b2",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7db541316b11df61b847": {
+      "id": "opp_7db541316b11df61b847",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "canonicalUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "summaryEvidence": [
+        "https://openai.com/index/dali-rajic-chief-revenue-officer"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f06359a3e8c3a172348c7c5cd845e8fc827dbc2f1738d8f88dde2059636876d6",
+      "dedupeKey": "brief:opp_7db541316b11df61b847:sha256:f06359a3e8c3a172348c7c5cd845e8fc827dbc2f1738d8f88dde2059636876d6",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_732a17f45800697150ed": {
+      "id": "opp_732a17f45800697150ed",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98265",
+      "canonicalUrl": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched",
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 19:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1f371a67f1d91aabcf310704788b25a5ab0af7939ae9973e23201a808ed8f9cd",
+      "dedupeKey": "brief:opp_732a17f45800697150ed:sha256:1f371a67f1d91aabcf310704788b25a5ab0af7939ae9973e23201a808ed8f9cd",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c80ef2103635203e76fe": {
+      "id": "opp_c80ef2103635203e76fe",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98152",
+      "canonicalUrl": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about securit",
+      "summaryEvidence": [
+        "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c331ad47288391accb209d0b6ef8c463ba5cc214909e5a617854a6a287ec494",
+      "dedupeKey": "brief:opp_c80ef2103635203e76fe:sha256:7c331ad47288391accb209d0b6ef8c463ba5cc214909e5a617854a6a287ec494",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8d5a8ac02855f0a71945": {
+      "id": "opp_8d5a8ac02855f0a71945",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:8VODKHdQkEM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8VODKHdQkEM",
+      "title": "[한영자막] \"지금이 한국의 골든타임\" 젠슨 황",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T22:30:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아 CEO 젠슨 황이 블룸버그와의 인터뷰에서 한국을 향한 대규모 투자 계획과 반도체 산업의 미래, AI 오픈 모델의 중요성을 직접 밝힙니다. 주요 포인트 - 네이버에 10억 달러 투자, SK그룹과 5000억 달러 규모 파트너십을 발표하며 \"지금이 한국의 골든타임\"이라고 강조합니다. - HBM 로드맵과 함께, AI 시대를 위해 반도체 산업이 앞으로 10년간 지금보다 열 배는 커져야 한다는 전망을 내놓습니다. - 미국과 중국의 AI 접근 방식 차이, 그리고 두 나라 모두에서 뛰어난 연구자들이 계",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=8VODKHdQkEM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-13T22:30:16.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c5ce75f968f55db8259e341c4f9d9091cf630324fe855629732902a1089a1bc0",
+      "dedupeKey": "brief:opp_8d5a8ac02855f0a71945:sha256:c5ce75f968f55db8259e341c4f9d9091cf630324fe855629732902a1089a1bc0",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3a99acc62fdb7738d069": {
+      "id": "opp_3a99acc62fdb7738d069",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:Cy1xjHaoqGI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Cy1xjHaoqGI",
+      "title": "오픈AI보다 똑똑한 AI브라우저 만든 20대 한국인의 미친 집념ㅣ아메리칸드림 2.0",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-13T10:54:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "대AI 시대, 다시 없을 변화의 기회를 잡기 위해 샌프란시스코 해커하우스에 모인 20대 창업가들. 그들은 실리콘밸리까지 왔지만, 도시를 즐길 시간은 없다. 하루 대부분을 해커하우스 사무실에 앉아 새벽까지 프로덕트를 만든다. 왜 이들은 미국 땅, 빅테크의 도시 실리콘밸리로 왔을까. 어떤 확신과 열정이 이들을 여기까지 움직였을까. AI 시대 한가운데서 자신만의 기회를 만들려는 젊은 창업가들의 기록. 그들의 아메리칸 드림은 무엇일까. 🌎 EO 글로벌 채널 구독하기 👉🏻👉🏻 https://bit",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Cy1xjHaoqGI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-13T10:54:29.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4359c3db30a476d42099f35cf7ab428bbdff8d8726f10bdc1d6d3bb7dc442966",
+      "dedupeKey": "brief:opp_3a99acc62fdb7738d069:sha256:4359c3db30a476d42099f35cf7ab428bbdff8d8726f10bdc1d6d3bb7dc442966",
+      "firstSeenAt": "2026-08-14T00:05:44.858Z",
+      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -22242,6 +22686,42 @@
       "opportunityId": "opp_a9c9a45b432631226d21",
       "sentAt": "2026-08-13T10:01:17.318Z",
       "messageId": "1537400646486196245"
+    },
+    "brief:opp_c80ef2103635203e76fe:sha256:7c331ad47288391accb209d0b6ef8c463ba5cc214909e5a617854a6a287ec494": {
+      "status": "SENT",
+      "opportunityId": "opp_c80ef2103635203e76fe",
+      "sentAt": "2026-08-14T00:05:44.858Z",
+      "messageId": "1537613162004619345"
+    },
+    "brief:opp_732a17f45800697150ed:sha256:1f371a67f1d91aabcf310704788b25a5ab0af7939ae9973e23201a808ed8f9cd": {
+      "status": "SENT",
+      "opportunityId": "opp_732a17f45800697150ed",
+      "sentAt": "2026-08-14T00:05:44.858Z",
+      "messageId": "1537613162004619345"
+    },
+    "brief:opp_546178e2735f6bdbd6f5:sha256:d10c9dfa5fa29bfd7ba9a1aedb3f459bff74f1a189e7a4f6c38c21cdfcec30e2": {
+      "status": "SENT",
+      "opportunityId": "opp_546178e2735f6bdbd6f5",
+      "sentAt": "2026-08-14T00:05:44.858Z",
+      "messageId": "1537613162004619345"
+    },
+    "brief:opp_5290854a0be8bf3ec9da:sha256:4de28176d60bf1a62d3c2d0908b07208d1923dd4820e7069f2aaca00b59e61b2": {
+      "status": "SENT",
+      "opportunityId": "opp_5290854a0be8bf3ec9da",
+      "sentAt": "2026-08-14T00:05:44.858Z",
+      "messageId": "1537613162004619345"
+    },
+    "brief:opp_8d5a8ac02855f0a71945:sha256:c5ce75f968f55db8259e341c4f9d9091cf630324fe855629732902a1089a1bc0": {
+      "status": "SENT",
+      "opportunityId": "opp_8d5a8ac02855f0a71945",
+      "sentAt": "2026-08-14T00:05:44.858Z",
+      "messageId": "1537613162004619345"
+    },
+    "brief:opp_f65fa67ad6f405e95104:sha256:275c7d565dbbb4603e0cc4cea5ebd3fdfaced7678bae9bba7a1489f6c88ad742": {
+      "status": "SENT",
+      "opportunityId": "opp_f65fa67ad6f405e95104",
+      "sentAt": "2026-08-14T00:05:44.858Z",
+      "messageId": "1537613162004619345"
     }
   },
   "pending": {},
