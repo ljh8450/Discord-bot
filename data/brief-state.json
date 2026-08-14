@@ -20549,6 +20549,206 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a4171c9a117375226d90": {
+      "id": "opp_a4171c9a117375226d90",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32485",
+      "canonicalUrl": "https://v3.wails.io/blog/wails-v3-beta",
+      "title": "Wails v3 Beta - Go 데스크톱 앱을 위한 새로운 기반",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "초기엔 Go 백엔드 + HTML/CSS/JS·React·Vue 프론트엔드로 맥/윈/리눅스용 단일 바이너리 앱을 만드는 가벼운 Electron 대체제였음 이후 v2를 거쳐 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32485"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 1,
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:ba55d69381484afb64f8a4c201d289711217ef2c33aa3699a123af20bdb9d7c7",
+      "dedupeKey": "brief:opp_a4171c9a117375226d90:sha256:ba55d69381484afb64f8a4c201d289711217ef2c33aa3699a123af20bdb9d7c7",
+      "firstSeenAt": "2026-08-14T09:05:20.462Z",
+      "lastSeenAt": "2026-08-14T09:05:20.462Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3a1873a9e9b65b3eb5a3": {
+      "id": "opp_3a1873a9e9b65b3eb5a3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32491",
+      "canonicalUrl": "https://github.com/xai-org/x-algorithm",
+      "title": "X, For You 알고리듬 공개 범위 확대 - 랭킹 가중치와 노출 제한 시스템까지",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T11:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "X가 2026년 1월 공개한 For You 추천 알고리듬 저장소를 대폭 확장해, 실제 노출에 영향을 주는 설정과 필터링 시스템까지 추가 공개함 기존 공개...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32491"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b041454a81362a922701b363643992883abcec79f14bc050496767d64e0d72ae",
+      "dedupeKey": "brief:opp_3a1873a9e9b65b3eb5a3:sha256:b041454a81362a922701b363643992883abcec79f14bc050496767d64e0d72ae",
+      "firstSeenAt": "2026-08-14T09:05:20.462Z",
+      "lastSeenAt": "2026-08-14T09:05:20.462Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b301c95be475e631fd52": {
+      "id": "opp_b301c95be475e631fd52",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32477",
+      "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "title": "Gemini 3.7 Flash",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T04:32:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google이 3.6 Flash 출시 3주 만에 Gemini 3.7 Flash를 공개하며 소프트웨어 엔지니어링·지식 업무·웹 개발 성능을 높임 코드 벤치마크에서 Fronti...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32477"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:746fd47c1236fab7f34684571ce2ef74561893cf82dfea13344b8f425f1d19e9",
+      "dedupeKey": "brief:opp_b301c95be475e631fd52:sha256:746fd47c1236fab7f34684571ce2ef74561893cf82dfea13344b8f425f1d19e9",
+      "firstSeenAt": "2026-08-14T09:05:20.462Z",
+      "lastSeenAt": "2026-08-14T09:05:20.462Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b07ebdee3240bf2b90fd": {
+      "id": "opp_b07ebdee3240bf2b90fd",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:IpyEKxGlibI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IpyEKxGlibI",
+      "title": "[한영자막] LLM 지식 베이스를 만드는 실용 가이드입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T03:00:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "흩어진 메모와 생각을 LLM 지식 베이스로 바꾸는 실전 발표입니다. 음성으로 메모를 쌓고, 에이전트로 보강·태깅한 뒤 나만의 위키와 지식 그래프로 연결하는 과정을 소개합니다. 주요 포인트 - 타이핑보다 빠르게 생각을 수집하는 음성 메모 전략 - 고정 태그·백링크·웹 리서치로 노트를 보강하는 방법 - 개인 메모에서 탐색 가능한 위키를 만드는 흐름 - 자동 동기화로 매일 갱신되는 지식 베이스 구성 - 그래프 뷰로 생각의 연결과 빈틈을 찾는 방법 #LLM #지식베이스 #Obsidian #AI에이전트 #",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=IpyEKxGlibI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-14T03:00:29.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3a3e911540c96ec7e679d143d03cf63274d1926a7a59b9b1b3bb4d176a2f1f22",
+      "dedupeKey": "brief:opp_b07ebdee3240bf2b90fd:sha256:3a3e911540c96ec7e679d143d03cf63274d1926a7a59b9b1b3bb4d176a2f1f22",
+      "firstSeenAt": "2026-08-14T09:05:20.462Z",
+      "lastSeenAt": "2026-08-14T09:05:20.462Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -22801,6 +23001,24 @@
       "opportunityId": "opp_d509eaf371d85a184681",
       "sentAt": "2026-08-14T02:02:20.780Z",
       "messageId": "1537642504004833372"
+    },
+    "brief:opp_a4171c9a117375226d90:sha256:ba55d69381484afb64f8a4c201d289711217ef2c33aa3699a123af20bdb9d7c7": {
+      "status": "SENT",
+      "opportunityId": "opp_a4171c9a117375226d90",
+      "sentAt": "2026-08-14T09:05:20.462Z",
+      "messageId": "1537748954374996041"
+    },
+    "brief:opp_b07ebdee3240bf2b90fd:sha256:3a3e911540c96ec7e679d143d03cf63274d1926a7a59b9b1b3bb4d176a2f1f22": {
+      "status": "SENT",
+      "opportunityId": "opp_b07ebdee3240bf2b90fd",
+      "sentAt": "2026-08-14T09:05:20.462Z",
+      "messageId": "1537748954374996041"
+    },
+    "brief:opp_b301c95be475e631fd52:sha256:746fd47c1236fab7f34684571ce2ef74561893cf82dfea13344b8f425f1d19e9": {
+      "status": "SENT",
+      "opportunityId": "opp_b301c95be475e631fd52",
+      "sentAt": "2026-08-14T09:05:20.462Z",
+      "messageId": "1537748954374996041"
     }
   },
   "pending": {},
