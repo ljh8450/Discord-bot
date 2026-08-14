@@ -20625,8 +20625,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 3,
+        "communityPoints": 7,
+        "communityRank": 2,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -20640,11 +20640,11 @@
       },
       "contentHash": "sha256:b041454a81362a922701b363643992883abcec79f14bc050496767d64e0d72ae",
       "dedupeKey": "brief:opp_3a1873a9e9b65b3eb5a3:sha256:b041454a81362a922701b363643992883abcec79f14bc050496767d64e0d72ae",
-      "firstSeenAt": "2026-08-14T09:05:20.462Z",
-      "lastSeenAt": "2026-08-14T09:05:20.462Z",
+      "firstSeenAt": "2026-08-14T09:57:33.794Z",
+      "lastSeenAt": "2026-08-14T09:57:33.794Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20744,6 +20744,59 @@
       "dedupeKey": "brief:opp_b07ebdee3240bf2b90fd:sha256:3a3e911540c96ec7e679d143d03cf63274d1926a7a59b9b1b3bb4d176a2f1f22",
       "firstSeenAt": "2026-08-14T09:05:20.462Z",
       "lastSeenAt": "2026-08-14T09:05:20.462Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_85768053caa6d34a1a8b": {
+      "id": "opp_85768053caa6d34a1a8b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:yUjTWl7tOYc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yUjTWl7tOYc",
+      "title": "[한영자막] 장시간 AI 에이전트가 기억을 잃지 않게 만드는 법 — Stefania Druga, Sakana.ai",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T09:00:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "긴 작업을 수행하는 AI 에이전트가 앞선 판단과 질문을 잊지 않도록, 메모리를 쓰고·관리하고·읽어오는 방식을 실험으로 살펴봅니다. Stefania Druga가 68개 xbench 질문에서 비교한 결과로, 어떤 회상 정책이 정확도와 비용을 함께 개선하는지 알아보세요. 주요 포인트 - 컨텍스트가 길어질수록 생기는 맥락 망각과 작업 재수행 문제 - 메모리를 데이터베이스가 아닌 제어 루프로 설계하는 방법 - 벡터 RAG, 결정 장부, 오라클 메모리의 성능 비교 - 68개 질문에서 순위 기반 결정 장부가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=yUjTWl7tOYc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-14T09:00:21.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37510d7d86c5fb5abb6e884f1fd80af8ba75f341ae387e36562d8199cbea0680",
+      "dedupeKey": "brief:opp_85768053caa6d34a1a8b:sha256:37510d7d86c5fb5abb6e884f1fd80af8ba75f341ae387e36562d8199cbea0680",
+      "firstSeenAt": "2026-08-14T09:57:33.794Z",
+      "lastSeenAt": "2026-08-14T09:57:33.794Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -23019,6 +23072,18 @@
       "opportunityId": "opp_b301c95be475e631fd52",
       "sentAt": "2026-08-14T09:05:20.462Z",
       "messageId": "1537748954374996041"
+    },
+    "brief:opp_85768053caa6d34a1a8b:sha256:37510d7d86c5fb5abb6e884f1fd80af8ba75f341ae387e36562d8199cbea0680": {
+      "status": "SENT",
+      "opportunityId": "opp_85768053caa6d34a1a8b",
+      "sentAt": "2026-08-14T09:57:33.794Z",
+      "messageId": "1537762096681455621"
+    },
+    "brief:opp_3a1873a9e9b65b3eb5a3:sha256:b041454a81362a922701b363643992883abcec79f14bc050496767d64e0d72ae": {
+      "status": "SENT",
+      "opportunityId": "opp_3a1873a9e9b65b3eb5a3",
+      "sentAt": "2026-08-14T09:57:33.794Z",
+      "messageId": "1537762096681455621"
     }
   },
   "pending": {},
