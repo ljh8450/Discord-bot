@@ -19879,8 +19879,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
-        "communityRank": 7,
+        "communityPoints": 16,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -19894,11 +19894,11 @@
       },
       "contentHash": "sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
       "dedupeKey": "brief:opp_d509eaf371d85a184681:sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224",
-      "firstSeenAt": "2026-08-14T00:05:44.858Z",
-      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "firstSeenAt": "2026-08-14T02:02:20.780Z",
+      "lastSeenAt": "2026-08-14T02:02:20.780Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20084,7 +20084,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 12,
+        "communityRank": 19,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -20098,11 +20098,11 @@
       },
       "contentHash": "sha256:3c79543317a9cab3bf8c53d4fe56006489ddbc477948b39a44e03600654b3761",
       "dedupeKey": "brief:opp_1975416d769cb482fd45:sha256:3c79543317a9cab3bf8c53d4fe56006489ddbc477948b39a44e03600654b3761",
-      "firstSeenAt": "2026-08-14T00:05:44.858Z",
-      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "firstSeenAt": "2026-08-14T02:02:20.780Z",
+      "lastSeenAt": "2026-08-14T02:02:20.780Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20291,11 +20291,11 @@
       },
       "contentHash": "sha256:f06359a3e8c3a172348c7c5cd845e8fc827dbc2f1738d8f88dde2059636876d6",
       "dedupeKey": "brief:opp_7db541316b11df61b847:sha256:f06359a3e8c3a172348c7c5cd845e8fc827dbc2f1738d8f88dde2059636876d6",
-      "firstSeenAt": "2026-08-14T00:05:44.858Z",
-      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "firstSeenAt": "2026-08-14T02:02:20.780Z",
+      "lastSeenAt": "2026-08-14T02:02:20.780Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -20493,11 +20493,60 @@
       },
       "contentHash": "sha256:4359c3db30a476d42099f35cf7ab428bbdff8d8726f10bdc1d6d3bb7dc442966",
       "dedupeKey": "brief:opp_3a99acc62fdb7738d069:sha256:4359c3db30a476d42099f35cf7ab428bbdff8d8726f10bdc1d6d3bb7dc442966",
-      "firstSeenAt": "2026-08-14T00:05:44.858Z",
-      "lastSeenAt": "2026-08-14T00:05:44.858Z",
+      "firstSeenAt": "2026-08-14T02:02:20.780Z",
+      "lastSeenAt": "2026-08-14T02:02:20.780Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c48b53585c9b805001d9": {
+      "id": "opp_c48b53585c9b805001d9",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "3928e6163899a64ed150c62dd772bdd2b3494dac",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/tiro-security-infrastructure-with-kiro-iso27001-certification",
+      "title": "Tiro의 Kiro를 활용한 보안 인프라 구축과 ISO/IEC 27001:2022 인증 취득 여정",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 14 Aug 2026 00:50:25 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "AI Native 스타트업에게 보안 인증이 왜 어려운가 AI가 빠르게 발전하면서 한 명의 엔지니어가 하루에 50~100개의 커밋을 작성하는 일도 더 이상 낯설지 않게 되었습니다. 제품 개발, 테스트 코드 작성, 인프라 정의 변경, 운영 스크립트 작성까지 AI 에이전트와 함께 처리하는 조직이 늘고 있습니다. 개발 속도만 놓고 보면 분명 큰 변화입니다. 다만 AI가 만들어내는 속도가 언제나 더 안전한 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/tiro-security-infrastructure-with-kiro-iso27001-certification/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:40b11e05ec897fb326d2e980530c1fd67fe34a3e8798e518c2c5895e15d4fc55",
+      "dedupeKey": "brief:opp_c48b53585c9b805001d9:sha256:40b11e05ec897fb326d2e980530c1fd67fe34a3e8798e518c2c5895e15d4fc55",
+      "firstSeenAt": "2026-08-14T02:02:20.780Z",
+      "lastSeenAt": "2026-08-14T02:02:20.780Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -22722,6 +22771,36 @@
       "opportunityId": "opp_f65fa67ad6f405e95104",
       "sentAt": "2026-08-14T00:05:44.858Z",
       "messageId": "1537613162004619345"
+    },
+    "brief:opp_c48b53585c9b805001d9:sha256:40b11e05ec897fb326d2e980530c1fd67fe34a3e8798e518c2c5895e15d4fc55": {
+      "status": "SENT",
+      "opportunityId": "opp_c48b53585c9b805001d9",
+      "sentAt": "2026-08-14T02:02:20.780Z",
+      "messageId": "1537642504004833372"
+    },
+    "brief:opp_7db541316b11df61b847:sha256:f06359a3e8c3a172348c7c5cd845e8fc827dbc2f1738d8f88dde2059636876d6": {
+      "status": "SENT",
+      "opportunityId": "opp_7db541316b11df61b847",
+      "sentAt": "2026-08-14T02:02:20.780Z",
+      "messageId": "1537642504004833372"
+    },
+    "brief:opp_3a99acc62fdb7738d069:sha256:4359c3db30a476d42099f35cf7ab428bbdff8d8726f10bdc1d6d3bb7dc442966": {
+      "status": "SENT",
+      "opportunityId": "opp_3a99acc62fdb7738d069",
+      "sentAt": "2026-08-14T02:02:20.780Z",
+      "messageId": "1537642504004833372"
+    },
+    "brief:opp_1975416d769cb482fd45:sha256:3c79543317a9cab3bf8c53d4fe56006489ddbc477948b39a44e03600654b3761": {
+      "status": "SENT",
+      "opportunityId": "opp_1975416d769cb482fd45",
+      "sentAt": "2026-08-14T02:02:20.780Z",
+      "messageId": "1537642504004833372"
+    },
+    "brief:opp_d509eaf371d85a184681:sha256:e66feb0e2ae3bf6347d84c6e0e24a34c1870c371716d14067462166f6591f224": {
+      "status": "SENT",
+      "opportunityId": "opp_d509eaf371d85a184681",
+      "sentAt": "2026-08-14T02:02:20.780Z",
+      "messageId": "1537642504004833372"
     }
   },
   "pending": {},
