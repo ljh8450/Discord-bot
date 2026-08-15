@@ -21152,6 +21152,414 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_064026907b39ddef7851": {
+      "id": "opp_064026907b39ddef7851",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32517",
+      "canonicalUrl": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet",
+      "title": "아직 이해하지 못한 것에 대해 블로그를 써라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T09:40:47+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "머릿속으로만 생각할 때는 이해했다고 착각하기 쉽지만, 실제 문장으로 옮기면 \"이게 정말 맞나?\"라는 빈틈이 드러남. 글쓰기는 자신의 이해도를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32517"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:12e358238f8905c8f3f36e043a6e95fb8112c61f839b4440cae84ab909c96a74",
+      "dedupeKey": "brief:opp_064026907b39ddef7851:sha256:12e358238f8905c8f3f36e043a6e95fb8112c61f839b4440cae84ab909c96a74",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f3f596099f1974c4773e": {
+      "id": "opp_f3f596099f1974c4773e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32516",
+      "canonicalUrl": "https://github.com/bholmesdev/hubble.md",
+      "title": "hubble.md - 사람과 에이전트를 위한 노트패드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T09:36:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Markdown과 HTML을 기반으로 하는 무료 오픈소스 노트 앱으로, 사람과 에이전트가 함께 사용하도록 설계 Notion/Apple Notes와 비슷한 작성 경험 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32516"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:12c2e016d6f2049a2b61e28f3895ba46bda44c9f16fa383734ff211be026d9d6",
+      "dedupeKey": "brief:opp_f3f596099f1974c4773e:sha256:12c2e016d6f2049a2b61e28f3895ba46bda44c9f16fa383734ff211be026d9d6",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_56c39eeabd6d1927b7d0": {
+      "id": "opp_56c39eeabd6d1927b7d0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32519",
+      "canonicalUrl": "https://addyo.substack.com/p/practical-loop-engineering",
+      "title": "실전 루프 엔지니어링",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T10:01:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에이전트에 작업을 반복 실행시키는 핵심은 자율성을 높이는 것보다 완료 조건과 제약을 명확히 정의하고, 어떤 판단은 사람이 계속 맡을지 결...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32519"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ba420d66bd503dcd160bd6d07493cd4f4e90a8918e2c34b97fdda383b75ffd11",
+      "dedupeKey": "brief:opp_56c39eeabd6d1927b7d0:sha256:ba420d66bd503dcd160bd6d07493cd4f4e90a8918e2c34b97fdda383b75ffd11",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_88babb84909303a1ab90": {
+      "id": "opp_88babb84909303a1ab90",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32515",
+      "canonicalUrl": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "title": "uBlock Origin을 지원하는 마지막 메이저 브라우저, Firefox",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T09:31:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Chromium 계열 브라우저가 Manifest V2 확장 기능을 단계적으로 퇴출하는 가운데 Firefox는 uBlock Origin 지원을 유지함 Edge가 Manifest V3로 전...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32515"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32c3012b40afab844f7ceaf741c2bbe45dbf1a7ce09a063505747d11100bb93c",
+      "dedupeKey": "brief:opp_88babb84909303a1ab90:sha256:32c3012b40afab844f7ceaf741c2bbe45dbf1a7ce09a063505747d11100bb93c",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dab48d47b38d392ebc67": {
+      "id": "opp_dab48d47b38d392ebc67",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ekRVs7HlP68",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ekRVs7HlP68",
+      "title": "[한영자막] 지능과 지속적 학습이 전문성을 만듭니다 — Yu Su, NeoCognition",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T03:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트는 왜 코딩에서는 눈에 띄게 성과를 내지만, 다른 디지털 업무에서는 쉽게 흔들릴까요? Yu Su가 지능과 전문성의 차이를 통해 지속적 학습이 AI의 다음 단계가 될 수 있는 이유를 설명합니다. 이 영상에서는 모델의 추론 능력과 경험으로 쌓이는 전문성이 어떻게 다른지, 그리고 AI가 ‘가장 똑똑한 초보자’에 머물지 않으려면 무엇이 필요한지 살펴봅니다. 주요 포인트 - 코딩 에이전트가 먼저 시장을 만든 이유 - 지능과 전문성의 결정적인 차이 - 수백만 개의 서로 다른 디지털 업무 환경 -",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ekRVs7HlP68"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T03:00:28.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b1ba6f426b2b78d3d64db5162a6813c7a9190cc0628ed173adbb890c49f1ac8e",
+      "dedupeKey": "brief:opp_dab48d47b38d392ebc67:sha256:b1ba6f426b2b78d3d64db5162a6813c7a9190cc0628ed173adbb890c49f1ac8e",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f125387d6fc5e7c58027": {
+      "id": "opp_f125387d6fc5e7c58027",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:H_zE_JwstWU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=H_zE_JwstWU",
+      "title": "[한영자막] 자체 에이전트 하네스를 구축해야 할 때는 언제일까요? | 해리슨 체이스, LangChain",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T03:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트 하네스를 직접 만들어야 하는 순간은 언제일까요? LangChain 공동창업자이자 CEO인 해리슨 체이스가 에이전트의 핵심 요소와 커스텀 하네스의 기준을 설명합니다. 모델, 컨텍스트, 하네스를 어떻게 설계하고 평가해야 하는지, 실제 운영 데이터가 어떻게 개선으로 이어지는지 살펴봅니다. 주요 포인트 - 에이전트를 이루는 하네스·모델·컨텍스트의 역할 - 미들웨어, 샌드박스, 서브에이전트로 코어 루프를 확장하는 법 - 범용 도구와 자체 하네스를 가르는 기준 - evals와 observabilit",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=H_zE_JwstWU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T03:00:28.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:628942c2d3cee37d71000f9c4b5939f4f54d631a3ce7bd5108b1a79f7e44cf94",
+      "dedupeKey": "brief:opp_f125387d6fc5e7c58027:sha256:628942c2d3cee37d71000f9c4b5939f4f54d631a3ce7bd5108b1a79f7e44cf94",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_af17bc7841f991e117eb": {
+      "id": "opp_af17bc7841f991e117eb",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:FWddN9xLv54",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FWddN9xLv54",
+      "title": "Anthropic 첫 공식 시험이 꼽은 에이전트 안티패턴 5가지 — 정답은 전부 덜 주는 쪽이었습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T04:58:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트 하나에 툴을 몇 개까지 붙여도 될까요. Anthropic이 만든 첫 공식 인증 시험은 이 질문에 숫자로 답합니다. 네다섯 개를 넘어가면 추론 품질이 떨어진다고요. ▶ 원본 발표 (영어) \"Anthropic's CCA Exam as a Field-Guide for Agentic Engineering\" — Frank Coyle, UC Berkeley AI Engineer World's Fair 2026 · Track 8 Agentic Engineering https://www.youtube.",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=FWddN9xLv54"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T04:58:32.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fe9506a8a8757bde311234373f32000b9bd2a45fce21e9c109e2c16aa7077f46",
+      "dedupeKey": "brief:opp_af17bc7841f991e117eb:sha256:fe9506a8a8757bde311234373f32000b9bd2a45fce21e9c109e2c16aa7077f46",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_de6d19ade85cdaedf60f": {
+      "id": "opp_de6d19ade85cdaedf60f",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:BpZI_QowF3o",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BpZI_QowF3o",
+      "title": "구글 Gemini 3.7 Flash, 대체 뭘 바꾼건지... 초당 340토큰, 코딩만 아니라 에이전틱 AI 특화",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T01:00:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 구글이 Gemini 3.7 Flash를 공개했습니다. 이번 모델에서 가장 눈에 띄는 숫자는 Artificial Analysis가 측정한 초당 약 340토큰의 출력 속도입니다. 첫 토큰까지 걸리는 시간은 긴 편인데, Decode가 시작된 뒤에는 매우 빠르게 결과를 생성하는 독특한 특성도 살펴봤습니다. 이 속도가 Prefill과 Decode, KV Cache와 어떤 관계가 있는지도 간단히 짚어봅니다. 구글은 이번 업데이트에서",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=BpZI_QowF3o"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T01:00:39.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f4282ff5b3ec6ec05fdc67ac33a90f0df960c4cd624d67ca44d549da68b3010e",
+      "dedupeKey": "brief:opp_de6d19ade85cdaedf60f:sha256:f4282ff5b3ec6ec05fdc67ac33a90f0df960c4cd624d67ca44d549da68b3010e",
+      "firstSeenAt": "2026-08-15T09:05:31.451Z",
+      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -23476,6 +23884,42 @@
       "opportunityId": "opp_304c7d625a1de8009b7d",
       "sentAt": "2026-08-15T01:17:57.800Z",
       "messageId": "1537993724305604721"
+    },
+    "brief:opp_af17bc7841f991e117eb:sha256:fe9506a8a8757bde311234373f32000b9bd2a45fce21e9c109e2c16aa7077f46": {
+      "status": "SENT",
+      "opportunityId": "opp_af17bc7841f991e117eb",
+      "sentAt": "2026-08-15T09:05:31.451Z",
+      "messageId": "1538111388495388683"
+    },
+    "brief:opp_de6d19ade85cdaedf60f:sha256:f4282ff5b3ec6ec05fdc67ac33a90f0df960c4cd624d67ca44d549da68b3010e": {
+      "status": "SENT",
+      "opportunityId": "opp_de6d19ade85cdaedf60f",
+      "sentAt": "2026-08-15T09:05:31.451Z",
+      "messageId": "1538111388495388683"
+    },
+    "brief:opp_dab48d47b38d392ebc67:sha256:b1ba6f426b2b78d3d64db5162a6813c7a9190cc0628ed173adbb890c49f1ac8e": {
+      "status": "SENT",
+      "opportunityId": "opp_dab48d47b38d392ebc67",
+      "sentAt": "2026-08-15T09:05:31.451Z",
+      "messageId": "1538111388495388683"
+    },
+    "brief:opp_f125387d6fc5e7c58027:sha256:628942c2d3cee37d71000f9c4b5939f4f54d631a3ce7bd5108b1a79f7e44cf94": {
+      "status": "SENT",
+      "opportunityId": "opp_f125387d6fc5e7c58027",
+      "sentAt": "2026-08-15T09:05:31.451Z",
+      "messageId": "1538111388495388683"
+    },
+    "brief:opp_064026907b39ddef7851:sha256:12e358238f8905c8f3f36e043a6e95fb8112c61f839b4440cae84ab909c96a74": {
+      "status": "SENT",
+      "opportunityId": "opp_064026907b39ddef7851",
+      "sentAt": "2026-08-15T09:05:31.451Z",
+      "messageId": "1538111388495388683"
+    },
+    "brief:opp_f3f596099f1974c4773e:sha256:12c2e016d6f2049a2b61e28f3895ba46bda44c9f16fa383734ff211be026d9d6": {
+      "status": "SENT",
+      "opportunityId": "opp_f3f596099f1974c4773e",
+      "sentAt": "2026-08-15T09:05:31.451Z",
+      "messageId": "1538111388495388683"
     }
   },
   "pending": {},
