@@ -21292,11 +21292,11 @@
       },
       "contentHash": "sha256:ba420d66bd503dcd160bd6d07493cd4f4e90a8918e2c34b97fdda383b75ffd11",
       "dedupeKey": "brief:opp_56c39eeabd6d1927b7d0:sha256:ba420d66bd503dcd160bd6d07493cd4f4e90a8918e2c34b97fdda383b75ffd11",
-      "firstSeenAt": "2026-08-15T09:05:31.451Z",
-      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "firstSeenAt": "2026-08-15T09:22:44.188Z",
+      "lastSeenAt": "2026-08-15T09:22:44.188Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -21341,11 +21341,11 @@
       },
       "contentHash": "sha256:32c3012b40afab844f7ceaf741c2bbe45dbf1a7ce09a063505747d11100bb93c",
       "dedupeKey": "brief:opp_88babb84909303a1ab90:sha256:32c3012b40afab844f7ceaf741c2bbe45dbf1a7ce09a063505747d11100bb93c",
-      "firstSeenAt": "2026-08-15T09:05:31.451Z",
-      "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "firstSeenAt": "2026-08-15T09:22:44.188Z",
+      "lastSeenAt": "2026-08-15T09:22:44.188Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -21555,6 +21555,59 @@
       "dedupeKey": "brief:opp_de6d19ade85cdaedf60f:sha256:f4282ff5b3ec6ec05fdc67ac33a90f0df960c4cd624d67ca44d549da68b3010e",
       "firstSeenAt": "2026-08-15T09:05:31.451Z",
       "lastSeenAt": "2026-08-15T09:05:31.451Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0c4fbe61591cb3183759": {
+      "id": "opp_0c4fbe61591cb3183759",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:NwstOgsxstQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NwstOgsxstQ",
+      "title": "[한영자막] xAI가 따라잡았습니다. Grok 4.6이 달라진 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T09:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "xAI의 Grok 4.6은 성능 면에서 프론티어 모델에 가까워졌지만, 토큰 효율과 속도에서는 중요한 트레이드오프도 보입니다. 이 영상에서는 Grok 4.6의 벤치마크, 가격, 실제 에이전트·코딩 작업 결과를 함께 살펴봅니다. 주요 포인트 - Grok 4.6의 후학습과 장기 실행 에이전트 성능 - Artificial Analysis 기준 프론티어 모델과의 비교 - 토큰 사용량 증가가 비용과 속도에 미친 영향 - UI·3D 작업 및 실제 코드베이스 보안 감사 결과 - Grok 4.7에 기대할 수 있는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=NwstOgsxstQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T09:00:22.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5701141424b467499189d14d1e4c403f4b3827d624e2120433032a382136ba34",
+      "dedupeKey": "brief:opp_0c4fbe61591cb3183759:sha256:5701141424b467499189d14d1e4c403f4b3827d624e2120433032a382136ba34",
+      "firstSeenAt": "2026-08-15T09:22:44.188Z",
+      "lastSeenAt": "2026-08-15T09:22:44.188Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -23920,6 +23973,24 @@
       "opportunityId": "opp_f3f596099f1974c4773e",
       "sentAt": "2026-08-15T09:05:31.451Z",
       "messageId": "1538111388495388683"
+    },
+    "brief:opp_0c4fbe61591cb3183759:sha256:5701141424b467499189d14d1e4c403f4b3827d624e2120433032a382136ba34": {
+      "status": "SENT",
+      "opportunityId": "opp_0c4fbe61591cb3183759",
+      "sentAt": "2026-08-15T09:22:44.188Z",
+      "messageId": "1538115719433162764"
+    },
+    "brief:opp_56c39eeabd6d1927b7d0:sha256:ba420d66bd503dcd160bd6d07493cd4f4e90a8918e2c34b97fdda383b75ffd11": {
+      "status": "SENT",
+      "opportunityId": "opp_56c39eeabd6d1927b7d0",
+      "sentAt": "2026-08-15T09:22:44.188Z",
+      "messageId": "1538115719433162764"
+    },
+    "brief:opp_88babb84909303a1ab90:sha256:32c3012b40afab844f7ceaf741c2bbe45dbf1a7ce09a063505747d11100bb93c": {
+      "status": "SENT",
+      "opportunityId": "opp_88babb84909303a1ab90",
+      "sentAt": "2026-08-15T09:22:44.188Z",
+      "messageId": "1538115719433162764"
     }
   },
   "pending": {},
