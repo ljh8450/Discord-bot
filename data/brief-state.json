@@ -20802,6 +20802,356 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_27371ff1773d6ff49b0b": {
+      "id": "opp_27371ff1773d6ff49b0b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32492",
+      "canonicalUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate",
+      "title": "MCP가 Stateless해짐",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T16:42:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "최근 를 읽고 찾아보다가 MCP에 큰 변경사항이 있었다는걸 알게되어 공유합니다. --- MCP 2026-07-28은 출시 이후 가장 큰 규모의 스펙 변경으로, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32492"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f23f6fb9352364fc062c352cdf5612a38c96d2e66a7dfb85b8a5d6c20ee7b689",
+      "dedupeKey": "brief:opp_27371ff1773d6ff49b0b:sha256:f23f6fb9352364fc062c352cdf5612a38c96d2e66a7dfb85b8a5d6c20ee7b689",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e87e3389a5b11852ac9c": {
+      "id": "opp_e87e3389a5b11852ac9c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32484",
+      "canonicalUrl": "https://github.com/palmier-io/palmier-pro",
+      "title": "palmier-pro - AI를 위해 만든 macOS 영상 편집기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "타임라인 안에서 사용자와 에이전트가 함께 영상을 생성·편집할 수 있는 오픈소스 macOS 영상 편집기 Swift로 처음부터 새로 개발했으며, Premiere...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32484"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:5776f970d1583be8c8a46f4eaa64f47dcd4669e16c1af69624fe3a63f5d399eb",
+      "dedupeKey": "brief:opp_e87e3389a5b11852ac9c:sha256:5776f970d1583be8c8a46f4eaa64f47dcd4669e16c1af69624fe3a63f5d399eb",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_304c7d625a1de8009b7d": {
+      "id": "opp_304c7d625a1de8009b7d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32490",
+      "canonicalUrl": "https://news.hada.io/topic?id=32490",
+      "title": "Show GN: 다녀온 가게를 자꾸 잊어서, 근처에 가면 먼저 알려주는 기록 앱을 만들었습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T11:11:07+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 다녀온 곳을 기록하는 앱 &#039;스탬포&#039;를 만들어서 공유합니다. 광고 하나 없는 무료앱입니다. 혼자 쓰려고 만들었는데 하나보니 규모가 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32490"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:af5c64a9961dcf467e96423f2a6e54c5a41e6d8156bf9eb6caa8de1a64b1abe4",
+      "dedupeKey": "brief:opp_304c7d625a1de8009b7d:sha256:af5c64a9961dcf467e96423f2a6e54c5a41e6d8156bf9eb6caa8de1a64b1abe4",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b9e61ea43bd6c5f4bd40": {
+      "id": "opp_b9e61ea43bd6c5f4bd40",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/claude-text-watermark",
+      "canonicalUrl": "https://www.anthropic.com/news/claude-text-watermark",
+      "title": "How Claude’s text watermark works",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/claude-text-watermark"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f1c5ce2a68839369fc1081ffedeebf165486d53fcf058474e937ab5943386eea",
+      "dedupeKey": "brief:opp_b9e61ea43bd6c5f4bd40:sha256:f1c5ce2a68839369fc1081ffedeebf165486d53fcf058474e937ab5943386eea",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e6237a1388ee3f92f934": {
+      "id": "opp_e6237a1388ee3f92f934",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98252",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2e9f060db3a2325f70e568b14bcfed7026dd320eac665b1bfe1020bb09bf5859",
+      "dedupeKey": "brief:opp_e6237a1388ee3f92f934:sha256:2e9f060db3a2325f70e568b14bcfed7026dd320eac665b1bfe1020bb09bf5859",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_92d2ec8369b83776b6a1": {
+      "id": "opp_92d2ec8369b83776b6a1",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:PFZWAAbQGv0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PFZWAAbQGv0",
+      "title": "[한영자막] 제 모든 Claude 스킬을 삭제했더니... Claude가 더 똑똑해졌습니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T23:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code를 위한 스킬과 시스템 프롬프트가 많을수록 오히려 모델을 방해할 수 있습니다. 이 영상은 Opus 5 시대에 Claude를 더 잘 쓰기 위해 무엇을 지우고, 무엇을 남겨야 하는지 정리합니다. 주요 포인트 - Anthropic이 모델 업데이트마다 시스템 프롬프트를 대폭 줄이는 이유 - 기존 스킬·훅·지시를 그대로 유지하면 성능이 떨어질 수 있는 이유 - Claude에게 작업 방식까지 세세히 지시하지 않고 목표·가드레일·완료 기준을 주는 법 - 필요한 업무 맥락은 남기고, 과도한",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PFZWAAbQGv0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-14T23:00:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:63ecdd0010d4a1403e54fd18a2e81fdd7fef85169b80f5fb09f9107c659bb340",
+      "dedupeKey": "brief:opp_92d2ec8369b83776b6a1:sha256:63ecdd0010d4a1403e54fd18a2e81fdd7fef85169b80f5fb09f9107c659bb340",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef83e908e1637c5feb54": {
+      "id": "opp_ef83e908e1637c5feb54",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:Qcbo6yI21VQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Qcbo6yI21VQ",
+      "title": "AI로 두 번째 뇌 만드는 가장 빠른 방법, 말만 해 두면 끝 |젠스파크 SecondBrain·세컨드브레인 노트 직접 체험",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-14T10:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🔗젠스파크 바로가기: https://buly.kr/5q9fozK 🔗SecondBrain Note 구매하기: https://buly.kr/883kNgH 🎉 SecondBrain Note 현재 $179(원가 $199) 10% 할인 행사 중! 젠스파크 무료플랜은 월 300분 분량 노트 테이킹 기능 무료 사용 가능, 플러스/프로플랜은 하루 24시간 무료. #WorkwithGenspark #젠스파크 #젠스파크AI @GensparkKorea * 본 영상은 젠스파크의 지원을 받아 제작되었습니다. AI는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Qcbo6yI21VQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-14T10:00:27.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:79ad838367081e5f3e7e23985f8e3959b6517aa33adf1c8271f37747edfc921c",
+      "dedupeKey": "brief:opp_ef83e908e1637c5feb54:sha256:79ad838367081e5f3e7e23985f8e3959b6517aa33adf1c8271f37747edfc921c",
+      "firstSeenAt": "2026-08-15T00:05:23.980Z",
+      "lastSeenAt": "2026-08-15T00:05:23.980Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -23084,6 +23434,42 @@
       "opportunityId": "opp_3a1873a9e9b65b3eb5a3",
       "sentAt": "2026-08-14T09:57:33.794Z",
       "messageId": "1537762096681455621"
+    },
+    "brief:opp_e6237a1388ee3f92f934:sha256:2e9f060db3a2325f70e568b14bcfed7026dd320eac665b1bfe1020bb09bf5859": {
+      "status": "SENT",
+      "opportunityId": "opp_e6237a1388ee3f92f934",
+      "sentAt": "2026-08-15T00:05:23.980Z",
+      "messageId": "1537975461638971456"
+    },
+    "brief:opp_e87e3389a5b11852ac9c:sha256:5776f970d1583be8c8a46f4eaa64f47dcd4669e16c1af69624fe3a63f5d399eb": {
+      "status": "SENT",
+      "opportunityId": "opp_e87e3389a5b11852ac9c",
+      "sentAt": "2026-08-15T00:05:23.980Z",
+      "messageId": "1537975461638971456"
+    },
+    "brief:opp_92d2ec8369b83776b6a1:sha256:63ecdd0010d4a1403e54fd18a2e81fdd7fef85169b80f5fb09f9107c659bb340": {
+      "status": "SENT",
+      "opportunityId": "opp_92d2ec8369b83776b6a1",
+      "sentAt": "2026-08-15T00:05:23.980Z",
+      "messageId": "1537975461638971456"
+    },
+    "brief:opp_27371ff1773d6ff49b0b:sha256:f23f6fb9352364fc062c352cdf5612a38c96d2e66a7dfb85b8a5d6c20ee7b689": {
+      "status": "SENT",
+      "opportunityId": "opp_27371ff1773d6ff49b0b",
+      "sentAt": "2026-08-15T00:05:23.980Z",
+      "messageId": "1537975461638971456"
+    },
+    "brief:opp_b9e61ea43bd6c5f4bd40:sha256:f1c5ce2a68839369fc1081ffedeebf165486d53fcf058474e937ab5943386eea": {
+      "status": "SENT",
+      "opportunityId": "opp_b9e61ea43bd6c5f4bd40",
+      "sentAt": "2026-08-15T00:05:23.980Z",
+      "messageId": "1537975461638971456"
+    },
+    "brief:opp_ef83e908e1637c5feb54:sha256:79ad838367081e5f3e7e23985f8e3959b6517aa33adf1c8271f37747edfc921c": {
+      "status": "SENT",
+      "opportunityId": "opp_ef83e908e1637c5feb54",
+      "sentAt": "2026-08-15T00:05:23.980Z",
+      "messageId": "1537975461638971456"
     }
   },
   "pending": {},
