@@ -22075,6 +22075,112 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_f21660882c7179b73dc5": {
+      "id": "opp_f21660882c7179b73dc5",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:naFkUqXw_Uw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=naFkUqXw_Uw",
+      "title": "[한영자막] 꼭 봐야할 데미스 하사비스의 60분 AI 강연",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-16T09:00:07+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Google DeepMind 공동 창업자 겸 CEO 데미스 허사비스가 케임브리지에서 AI가 과학적 발견을 어떻게 앞당기는지 설명합니다. 체스와 AlphaGo에서 출발한 여정이 AlphaFold, 신약 개발, 월드 모델, 범용 AI로 이어지는 과정을 한 강연에 담았습니다. 주요 내용 - 체스와 게임이 DeepMind의 AI 연구에 준 영향 - AlphaGo와 AlphaZero가 새로운 전략을 발견한 방식 - AlphaFold가 단백질 구조 예측을 바꾼 과정 - Genie 2와 월드 모델, 로보틱스의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=naFkUqXw_Uw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-16T09:00:07.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:eb392fa2623d230261aab9d581c0a52f7bca69ecb6fad92325bcf66287fbb889",
+      "dedupeKey": "brief:opp_f21660882c7179b73dc5:sha256:eb392fa2623d230261aab9d581c0a52f7bca69ecb6fad92325bcf66287fbb889",
+      "firstSeenAt": "2026-08-16T09:23:44.590Z",
+      "lastSeenAt": "2026-08-16T09:23:44.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cdf1b611f85abf2e3bba": {
+      "id": "opp_cdf1b611f85abf2e3bba",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:Hj1PPxRXJWM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Hj1PPxRXJWM",
+      "title": "IT뉴스 - Grok 4.6 및 Grok Bot, 오픈AI Computer History, Ultrafast, 앤트로픽 리만 가설, Gemini 3.7 Flash 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-16T09:02:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - Grok 4.6 및 Grok Bot, 오픈AI Computer History, Ultrafast, 앤트로픽 리만 가설, Gemini 3.7 Flash 등 조코딩과 코딩 공부하기 https://jocoding.net/ 제보 메일: jebo@jocoding.net",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Hj1PPxRXJWM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-16T09:02:37.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0a70e78744c0d81e2fdfabc7484b3b9f2148c6d3f8bc54de314728c13ff9cbe2",
+      "dedupeKey": "brief:opp_cdf1b611f85abf2e3bba:sha256:0a70e78744c0d81e2fdfabc7484b3b9f2148c6d3f8bc54de314728c13ff9cbe2",
+      "firstSeenAt": "2026-08-16T09:23:44.590Z",
+      "lastSeenAt": "2026-08-16T09:23:44.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -24507,6 +24613,18 @@
       "opportunityId": "opp_9174e4debc89d367834c",
       "sentAt": "2026-08-16T09:05:49.618Z",
       "messageId": "1538473852865355798"
+    },
+    "brief:opp_cdf1b611f85abf2e3bba:sha256:0a70e78744c0d81e2fdfabc7484b3b9f2148c6d3f8bc54de314728c13ff9cbe2": {
+      "status": "SENT",
+      "opportunityId": "opp_cdf1b611f85abf2e3bba",
+      "sentAt": "2026-08-16T09:23:44.590Z",
+      "messageId": "1538478361918181408"
+    },
+    "brief:opp_f21660882c7179b73dc5:sha256:eb392fa2623d230261aab9d581c0a52f7bca69ecb6fad92325bcf66287fbb889": {
+      "status": "SENT",
+      "opportunityId": "opp_f21660882c7179b73dc5",
+      "sentAt": "2026-08-16T09:23:44.590Z",
+      "messageId": "1538478361918181408"
     }
   },
   "pending": {},
