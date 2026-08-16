@@ -21613,6 +21613,264 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_05a834b8825727304c0c": {
+      "id": "opp_05a834b8825727304c0c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32528",
+      "canonicalUrl": "https://news.hada.io/topic?id=32528",
+      "title": "Show GN: Proven C Book — C23을 기준으로 쓴 무료 C 입문서 공개 초안",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T22:36:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "C 언어의 문법을 빠르게 훑는 책보다, “정수는 왜 넘치고 포인터는 왜 단순한 숫자가 아니며 컴파일러는 무엇을 보장하지 않는가”를 설명하는 책을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32528"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1604ff4ca6c5d29115e2bde6e187376919b8b1ec2d331da036e186af9a284440",
+      "dedupeKey": "brief:opp_05a834b8825727304c0c:sha256:1604ff4ca6c5d29115e2bde6e187376919b8b1ec2d331da036e186af9a284440",
+      "firstSeenAt": "2026-08-16T00:05:46.585Z",
+      "lastSeenAt": "2026-08-16T00:05:46.585Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b3035d6cda7d25d19a31": {
+      "id": "opp_b3035d6cda7d25d19a31",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32514",
+      "canonicalUrl": "https://unsloth.ai/docs/models/qwen3.8",
+      "title": "Qwen3.8-27B, 17~19GB 메모리에서 4-bit 로컬 실행 가능",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T09:25:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Qwen3.8 Max에 이어, 개인 장비에서 돌릴 수 있는 27B 모델도 Unsloth GGUF/NVFP4로 공개돼 로컬에서 바로 실행 가능 27B 밀집형(dense) 모델이면...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32514"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 6,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d3bfdab0f13fa9d8f51bd336bad0dee4cbcde3651604e9e7f794f2e09113eace",
+      "dedupeKey": "brief:opp_b3035d6cda7d25d19a31:sha256:d3bfdab0f13fa9d8f51bd336bad0dee4cbcde3651604e9e7f794f2e09113eace",
+      "firstSeenAt": "2026-08-16T00:05:46.585Z",
+      "lastSeenAt": "2026-08-16T00:05:46.585Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_38a494ba256d8a9f3211": {
+      "id": "opp_38a494ba256d8a9f3211",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:keUx4WhU83U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=keUx4WhU83U",
+      "title": "[한영자막] ChatGPT Work로 업무 자동화하는 8가지 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T22:30:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "ChatGPT Work를 실제 업무에 어떻게 활용할 수 있는지, 8가지 사례로 살펴봅니다. 대시보드 제작부터 웹 자동화, 엑셀 모델링, 리드 조사까지 반복 업무를 맡기는 흐름을 확인해 보세요. 주요 포인트 - ChatGPT 데스크톱 앱에서 Work 모드를 설정하는 방법 - 대화형 대시보드와 엑셀 코호트 모델 만들기 - 웹에서 리드 목록을 조사하고 검증하는 흐름 - 영수증 정리와 여러 도구의 데이터 일괄 수정 자동화 - 이미지 생성 워크플로와 휴대폰으로 장기 작업을 이어가는 방법 #ChatGPT #",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=keUx4WhU83U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T22:30:17.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e610c5416e9462c3d9993b6100c0db1c61c3b0c1cf2a2882d1d637c24f71388c",
+      "dedupeKey": "brief:opp_38a494ba256d8a9f3211:sha256:e610c5416e9462c3d9993b6100c0db1c61c3b0c1cf2a2882d1d637c24f71388c",
+      "firstSeenAt": "2026-08-16T00:05:46.585Z",
+      "lastSeenAt": "2026-08-16T00:05:46.585Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cdd7958cab27c97afe0f": {
+      "id": "opp_cdd7958cab27c97afe0f",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:1mLC7tqeBEY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1mLC7tqeBEY",
+      "title": "'사피엔스' 저자 유발 하라리의 48분 AI 진단 — 권력은 은행과 법정에서 먼저 넘어갑니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T12:26:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 위험하다고 할 때 우리는 보통 거리를 뛰어다니는 킬러 로봇을 떠올립니다. 역사학자 유발 하라리는 그쪽이 아니라고 말합니다. 권력은 은행 계좌와 법정 서류에서 먼저 넘어간다고요. ▶ 원본 대담 (영어) \"The next 50 years: humanity, AI, power\" — Yuval Noah Harari EDP 창립 50주년 갈라 디너 · 48:06 · 2026년 7월 https://www.youtube.com/watch?v=_V_ed5fuexA ※ 영상 중간중간 위 대담 클립이 들어갑",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1mLC7tqeBEY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T12:26:34.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:425c257cb2223fd2d41300a4dd126b037b11b1de8fd2ab699587b7a94820b65e",
+      "dedupeKey": "brief:opp_cdd7958cab27c97afe0f:sha256:425c257cb2223fd2d41300a4dd126b037b11b1de8fd2ab699587b7a94820b65e",
+      "firstSeenAt": "2026-08-16T00:05:46.585Z",
+      "lastSeenAt": "2026-08-16T00:05:46.585Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2c1d888ec0b8a094eedf": {
+      "id": "opp_2c1d888ec0b8a094eedf",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:njHuj8OxIVI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=njHuj8OxIVI",
+      "title": "This Claude Code x Obsidian Agentic OS Will Be The New Meta",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-15T19:09:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io The time to push Fable 5 to the limit is now, and here are 5 projec",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=njHuj8OxIVI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-15T19:09:14.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ab900321ed1a176d579eba40e38a30e5b223ac7a417be7e6a7b6a0ed0485d9f5",
+      "dedupeKey": "brief:opp_2c1d888ec0b8a094eedf:sha256:ab900321ed1a176d579eba40e38a30e5b223ac7a417be7e6a7b6a0ed0485d9f5",
+      "firstSeenAt": "2026-08-16T00:05:46.585Z",
+      "lastSeenAt": "2026-08-16T00:05:46.585Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -23991,6 +24249,36 @@
       "opportunityId": "opp_88babb84909303a1ab90",
       "sentAt": "2026-08-15T09:22:44.188Z",
       "messageId": "1538115719433162764"
+    },
+    "brief:opp_38a494ba256d8a9f3211:sha256:e610c5416e9462c3d9993b6100c0db1c61c3b0c1cf2a2882d1d637c24f71388c": {
+      "status": "SENT",
+      "opportunityId": "opp_38a494ba256d8a9f3211",
+      "sentAt": "2026-08-16T00:05:46.585Z",
+      "messageId": "1538337944954343466"
+    },
+    "brief:opp_cdd7958cab27c97afe0f:sha256:425c257cb2223fd2d41300a4dd126b037b11b1de8fd2ab699587b7a94820b65e": {
+      "status": "SENT",
+      "opportunityId": "opp_cdd7958cab27c97afe0f",
+      "sentAt": "2026-08-16T00:05:46.585Z",
+      "messageId": "1538337944954343466"
+    },
+    "brief:opp_2c1d888ec0b8a094eedf:sha256:ab900321ed1a176d579eba40e38a30e5b223ac7a417be7e6a7b6a0ed0485d9f5": {
+      "status": "SENT",
+      "opportunityId": "opp_2c1d888ec0b8a094eedf",
+      "sentAt": "2026-08-16T00:05:46.585Z",
+      "messageId": "1538337944954343466"
+    },
+    "brief:opp_b3035d6cda7d25d19a31:sha256:d3bfdab0f13fa9d8f51bd336bad0dee4cbcde3651604e9e7f794f2e09113eace": {
+      "status": "SENT",
+      "opportunityId": "opp_b3035d6cda7d25d19a31",
+      "sentAt": "2026-08-16T00:05:46.585Z",
+      "messageId": "1538337944954343466"
+    },
+    "brief:opp_05a834b8825727304c0c:sha256:1604ff4ca6c5d29115e2bde6e187376919b8b1ec2d331da036e186af9a284440": {
+      "status": "SENT",
+      "opportunityId": "opp_05a834b8825727304c0c",
+      "sentAt": "2026-08-16T00:05:46.585Z",
+      "messageId": "1538337944954343466"
     }
   },
   "pending": {},
