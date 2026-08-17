@@ -22181,6 +22181,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_6b5fc88b97e3a14f2441": {
+      "id": "opp_6b5fc88b97e3a14f2441",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32534",
+      "canonicalUrl": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "title": "Claude Code 세션의 가치를 극대화하는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-16T03:38:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code는 같은 작업도 컨텍스트 크기와 유지 턴 수, 병렬 컨텍스트 수에 따라 토큰 사용량이 달라지므로 필요한 정보만 세션에 남겨야 함 비...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32534"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d05b9a2c98f6aafe8a40af7c02844e8fa51487bd9a335d2aea20395221945db2",
+      "dedupeKey": "brief:opp_6b5fc88b97e3a14f2441:sha256:d05b9a2c98f6aafe8a40af7c02844e8fa51487bd9a335d2aea20395221945db2",
+      "firstSeenAt": "2026-08-17T00:05:28.918Z",
+      "lastSeenAt": "2026-08-17T00:05:28.918Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d9f1131226eae9098e49": {
+      "id": "opp_d9f1131226eae9098e49",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:N55e6QRhyu8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=N55e6QRhyu8",
+      "title": "HBM 수요 갉아먹는 HBF, 왜 SK하이닉스가 직접 미나 | 최태원 인터뷰에서 찾은 힌트, SK하이닉스의 다음 메모리 전략",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-16T10:56:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이번 영상은 최태원 SK그룹 회장의 CNBC 인터뷰를 바탕으로 SK하이닉스의 HBF 전략을 살펴봤습니다.지금 SK하이닉스는 HBM으로 역대급 실적을 내고 있지만, 동시에 HBM 수요 일부를 줄일 수도 있는 HBF를 적극적으로 추진하고 있습니다.겉으로 보면 자기 주력 상품 수요를 스스로 갉아먹는 선택처럼 보이죠.영상에서는 왜 이런 일이 벌어지는지 최태원 회장의 발언을 따라가며 정리했습니다.AI 에이전트 확산과 모델 웨이트, KV 캐시가 메모리 수요를 어떻게 바꾸는지도 함께 설명합니다.또 엔비디아가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=N55e6QRhyu8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-16T10:56:33.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c79617ab84feeceb1d83b0885f9305cb1ec2aa0cf0b569419f7a7a4cca0c8b89",
+      "dedupeKey": "brief:opp_d9f1131226eae9098e49:sha256:c79617ab84feeceb1d83b0885f9305cb1ec2aa0cf0b569419f7a7a4cca0c8b89",
+      "firstSeenAt": "2026-08-17T00:05:28.918Z",
+      "lastSeenAt": "2026-08-17T00:05:28.918Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -24625,6 +24727,18 @@
       "opportunityId": "opp_f21660882c7179b73dc5",
       "sentAt": "2026-08-16T09:23:44.590Z",
       "messageId": "1538478361918181408"
+    },
+    "brief:opp_d9f1131226eae9098e49:sha256:c79617ab84feeceb1d83b0885f9305cb1ec2aa0cf0b569419f7a7a4cca0c8b89": {
+      "status": "SENT",
+      "opportunityId": "opp_d9f1131226eae9098e49",
+      "sentAt": "2026-08-17T00:05:28.918Z",
+      "messageId": "1538700258425569362"
+    },
+    "brief:opp_6b5fc88b97e3a14f2441:sha256:d05b9a2c98f6aafe8a40af7c02844e8fa51487bd9a335d2aea20395221945db2": {
+      "status": "SENT",
+      "opportunityId": "opp_6b5fc88b97e3a14f2441",
+      "sentAt": "2026-08-17T00:05:28.918Z",
+      "messageId": "1538700258425569362"
     }
   },
   "pending": {},
