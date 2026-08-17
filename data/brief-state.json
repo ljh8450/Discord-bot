@@ -22336,6 +22336,602 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_6ec9aab3a1f6e615ee38": {
+      "id": "opp_6ec9aab3a1f6e615ee38",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32572",
+      "canonicalUrl": "https://www.svpg.com/a-fresh-definition-of-the-product-role",
+      "title": "프로덕트 매니저 역할의 새로운 정의",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T10:23:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 누구나 앱을 만들고 업무를 자동화할 수 있게 되어도 대부분의 사람과 기업은 도구를 만드는 방식으로 생각하지 않으며, 직접 만들려고 시도...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32572"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
+      "dedupeKey": "brief:opp_6ec9aab3a1f6e615ee38:sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c1d8da42e1e67ca8a071": {
+      "id": "opp_c1d8da42e1e67ca8a071",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32573",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
+      "title": "인재 밀도가 높은 팀을 만드는 법 - Cursor 인재 총괄 Adam Ward [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T10:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "전통적인 ‘파멸의 퍼널(Funnel of Doom)’ 은 많은 사람에게 연락한 뒤 응답한 사람을 단계별로 탈락시키는 구조라, 처음부터 최고의 후보자를 찾는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32573"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e",
+      "dedupeKey": "brief:opp_c1d8da42e1e67ca8a071:sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f53ffa34952648162038": {
+      "id": "opp_f53ffa34952648162038",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32571",
+      "canonicalUrl": "https://kerkour.com/rust-scalable-backend-services",
+      "title": "Rust와 PostgreSQL로 확장 가능한 백엔드 서비스 구축하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T09:54:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Rust는 Go보다 백엔드 개발 생산성이 낮을 수 있지만, 강한 타입 시스템/컴파일러가 보장하는 정확성과 zero-cost abstraction 덕분에 10K+ LOC/약...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32571"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c1b17a5142dd5e9da37ff34a6a2701631ddde37abcae2ecc4dcd217595b9bd23",
+      "dedupeKey": "brief:opp_f53ffa34952648162038:sha256:c1b17a5142dd5e9da37ff34a6a2701631ddde37abcae2ecc4dcd217595b9bd23",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_db031c3b465cdc3d6ae7": {
+      "id": "opp_db031c3b465cdc3d6ae7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32570",
+      "canonicalUrl": "https://medium.com/@ricbedin/being-a-staff-engineer-at-stripe-in-2026-bd5f2bc869ff",
+      "title": "2026년 Stripe에서 Staff Engineer로 일한다는 것",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Stripe에서 Staff Engineer 역할은 AI로 편해진 것보다 AI를 활용해 더 큰 영향력을 내야 한다는 기대가 높아진 것에 가까움. 최신 Anthropic/Open...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32570"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
+      "dedupeKey": "brief:opp_db031c3b465cdc3d6ae7:sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8edfd90f1305c06d4ae2": {
+      "id": "opp_8edfd90f1305c06d4ae2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32569",
+      "canonicalUrl": "https://evnm.substack.com/p/platform-engineering-still-matters",
+      "title": "플랫폼 엔지니어링은 여전히 중요함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T09:31:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Agentic Coding으로 코드 작성 비용이 크게 낮아졌어도 재사용의 경제성까지 사라진 것은 아님. 매번 전체 스택을 새로 생성하는 것보다 이미 잘 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32569"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37605a281c51dce3dc76bca703128a5f8b2a9fbb906ee76b3ccfa394f92f024f",
+      "dedupeKey": "brief:opp_8edfd90f1305c06d4ae2:sha256:37605a281c51dce3dc76bca703128a5f8b2a9fbb906ee76b3ccfa394f92f024f",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_62cbbb9c5ddb37de160e": {
+      "id": "opp_62cbbb9c5ddb37de160e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32567",
+      "canonicalUrl": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137",
+      "title": "Flexible Authentication - 수백만 사용자를 위한 Airbnb의 인증 재설계",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T09:15:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Airbnb는 여행 예약처럼 로그인 간격이 길고 사용 환경이 다양한 서비스에서 인증 실패가 예약과 매출 손실로 이어진다고 보고, 10년간 누적된 로...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32567"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
+      "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dd889d9dec2547a33ee4": {
+      "id": "opp_dd889d9dec2547a33ee4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32554",
+      "canonicalUrl": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "title": "새로운 아이디어가 태어나는 마음의 상태를 기르는 법(2023)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T01:44:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "위대한 아이디어는 초기에는 나쁜 아이디어처럼 보이는 경우가 많고 타인의 평가에 쉽게 사라지므로, 창작에는 물리적 고립보다 사회적 판단에서 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32554"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
+      "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1dd0b1423460392b5708": {
+      "id": "opp_1dd0b1423460392b5708",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32552",
+      "canonicalUrl": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever",
+      "title": "소프트웨어 엔지니어링의 기본 원칙이 어느 때보다 중요해짐",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T01:38:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전트 하네스와 모델은 지난 1년 사이 “이걸 구현할 수 있는가”라는 문턱을 크게 낮췄지만, 구현 가능성은 소프트웨어 엔지니어링의 시작일 뿐...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32552"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:551faad34e12626f27bb522be28a7c9949211a7815692598ba4b284ce800c3eb",
+      "dedupeKey": "brief:opp_1dd0b1423460392b5708:sha256:551faad34e12626f27bb522be28a7c9949211a7815692598ba4b284ce800c3eb",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c6143a0c54542a6ec745": {
+      "id": "opp_c6143a0c54542a6ec745",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32545",
+      "canonicalUrl": "https://github.com/denoland/celld",
+      "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-16T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Deno가 공개한 오픈소스 런타임으로, Cloudflare Workers와 Durable Objects 모델을 자신의 서버에서 실행할 수 있게 함 Cloudflare용 코드를 비교...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32545"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 17,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0043832e5e64e0edbfa791f481030d87708d50fe6e5a61f3c40c80c85a52b65e",
+      "dedupeKey": "brief:opp_c6143a0c54542a6ec745:sha256:0043832e5e64e0edbfa791f481030d87708d50fe6e5a61f3c40c80c85a52b65e",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4ffb8dcc64598aabf93b": {
+      "id": "opp_4ffb8dcc64598aabf93b",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "18daf7fc401e3641ee93bb79d32a3552c705d356",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/evaluate-ai-agent-search-quality-with-amazon-opensearch-service-1",
+      "title": "AI Agent를 위한 OpenSearch 검색 품질 평가하기 (Part 1)",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 17 Aug 2026 06:58:43 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "요즘 RAG(Retrieval-Augmented Generation) 기반 AI Agent를 구축하는 프로젝트가 정말 많습니다. 사내 문서를 검색해 답하는 어시스턴트, 고객 문의를 처리하는 봇, 방대한 기술 문서에서 근거를 찾아주는 에이전트까지. 그런데 이런 프로젝트를 지원하다 보면 거의 같은 질문을 드리게 됩니다. “검색 품질은 어떻게 측정하고 계신가요?” 돌아오는 답은 대개 비슷합니다. “체감상 좋아진 것 같아요.” “몇 개 돌려봤는데 괜찮던데요.” 정작 “검색이 얼마나 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/evaluate-ai-agent-search-quality-with-amazon-opensearch-service-1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:202cd87193ecc0bf6b641be54982135702dda2dd1fd9cbd56ccd48c8d44f60c2",
+      "dedupeKey": "brief:opp_4ffb8dcc64598aabf93b:sha256:202cd87193ecc0bf6b641be54982135702dda2dd1fd9cbd56ccd48c8d44f60c2",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e656935f6b9e7872130d": {
+      "id": "opp_e656935f6b9e7872130d",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:E5XnV3yc1Nw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=E5XnV3yc1Nw",
+      "title": "[한글자막] xAI가 드디어 해냈습니다... (Grok 4.6)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T03:30:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "xAI가 최신 플래그십 AI 모델인 Grok 4.6을 전격 출시하며 OpenAI, Anthropic과의 본격적인 3파전을 예고했습니다. Cursor 인수 이후 확보한 데이터와 방대한 GPU 인프라를 바탕으로 코딩 및 지식 작업 성능을 대폭 끌어올린 Grok 4.6의 핵심 변화와 가성비를 분석합니다. 📌 주요 내용: • Grok 4.6 주요 벤치마크 분석 (지식 작업 및 코딩 역량 비약적 상승) • 작업당 비용(Cost per task) 비교 및 압도적인 토큰 가성비 • 디자인 코드 생성 테스트:",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=E5XnV3yc1Nw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-17T03:30:21.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8127a4fa81dc9c59fe3542cf27354ebe54817a306ca6a5f4b74b3f614ae0a4fa",
+      "dedupeKey": "brief:opp_e656935f6b9e7872130d:sha256:8127a4fa81dc9c59fe3542cf27354ebe54817a306ca6a5f4b74b3f614ae0a4fa",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eeaefea1346e5094f4d9": {
+      "id": "opp_eeaefea1346e5094f4d9",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:favRMy-9XNk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=favRMy-9XNk",
+      "title": "엔비디아도 필요로 하는 '촉각 데이터'를 만들기까지 단 6개월, 미친 실행력의 한국 20대 창업팀",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T09:00:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 세상을 진짜로 이해하기 위해 비어있던 마지막 퍼즐은 바로 촉각 데이터입니다. 기존 AI 모델들이 물리 법칙을 제대로 이해하지 못할 때, 오픈그래프랩스는 직접 만든 카메라와 촉각 글러브로 피지컬 AI의 데이터 병목을 해결하고 있습니다. 논문 읽고 시도한 콜드컨택에서 엔비디아의 공식 벤더가 되기까지 걸린 시간은 단 6개월이었습니다. 엔비디아 공식 파트너 선정부터 글로벌 빅테크와의 협업까지, 샌프란시스코·중국·멕시코를 넘나들며 기회를 만들어낸 20대 창업가들. \"망해봤자 얼마나 망하겠냐\"며 정답",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=favRMy-9XNk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-17T09:00:03.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa3cd423e46afe3cf80404b06699ecb23222a9253489a64c10b2443e0a0cca1b",
+      "dedupeKey": "brief:opp_eeaefea1346e5094f4d9:sha256:fa3cd423e46afe3cf80404b06699ecb23222a9253489a64c10b2443e0a0cca1b",
+      "firstSeenAt": "2026-08-17T09:06:00.606Z",
+      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -24798,6 +25394,36 @@
       "opportunityId": "opp_b92738344e2028e33062",
       "sentAt": "2026-08-17T01:19:46.610Z",
       "messageId": "1538718955768778803"
+    },
+    "brief:opp_4ffb8dcc64598aabf93b:sha256:202cd87193ecc0bf6b641be54982135702dda2dd1fd9cbd56ccd48c8d44f60c2": {
+      "status": "SENT",
+      "opportunityId": "opp_4ffb8dcc64598aabf93b",
+      "sentAt": "2026-08-17T09:06:00.606Z",
+      "messageId": "1538836286507323475"
+    },
+    "brief:opp_8edfd90f1305c06d4ae2:sha256:37605a281c51dce3dc76bca703128a5f8b2a9fbb906ee76b3ccfa394f92f024f": {
+      "status": "SENT",
+      "opportunityId": "opp_8edfd90f1305c06d4ae2",
+      "sentAt": "2026-08-17T09:06:00.606Z",
+      "messageId": "1538836286507323475"
+    },
+    "brief:opp_eeaefea1346e5094f4d9:sha256:fa3cd423e46afe3cf80404b06699ecb23222a9253489a64c10b2443e0a0cca1b": {
+      "status": "SENT",
+      "opportunityId": "opp_eeaefea1346e5094f4d9",
+      "sentAt": "2026-08-17T09:06:00.606Z",
+      "messageId": "1538836286507323475"
+    },
+    "brief:opp_e656935f6b9e7872130d:sha256:8127a4fa81dc9c59fe3542cf27354ebe54817a306ca6a5f4b74b3f614ae0a4fa": {
+      "status": "SENT",
+      "opportunityId": "opp_e656935f6b9e7872130d",
+      "sentAt": "2026-08-17T09:06:00.606Z",
+      "messageId": "1538836286507323475"
+    },
+    "brief:opp_f53ffa34952648162038:sha256:c1b17a5142dd5e9da37ff34a6a2701631ddde37abcae2ecc4dcd217595b9bd23": {
+      "status": "SENT",
+      "opportunityId": "opp_f53ffa34952648162038",
+      "sentAt": "2026-08-17T09:06:00.606Z",
+      "messageId": "1538836286507323475"
     }
   },
   "pending": {},
