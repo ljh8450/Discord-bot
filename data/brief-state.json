@@ -22283,6 +22283,59 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_b92738344e2028e33062": {
+      "id": "opp_b92738344e2028e33062",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:mxsJo_Jjdi8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mxsJo_Jjdi8",
+      "title": "[한글자막] AI 에이전트가 캡차를 인간처럼 뚫는 법 (웹 자동화의 어둠의 기술)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T00:42:56+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 사람의 개입 없이 Cloudflare Turnstile, 퍼즐 드래그 캡차, 그리고 reCAPTCHA v2까지 뚫어내는 웹 자동화 엔지니어링 방법론을 소개합니다. Chrome DevTools Protocol(CDP)을 활용해 브라우저 내부에서 인간과 동일한 신뢰 이벤트를 발생시키고, 결정론적 코드와 최소한의 AI 비전 판독을 결합해 속도 제한 내에 캡차를 통과하는 실전 아키텍처를 확인해 보세요. 📌 주요 포인트: • MCP 서버 대비 CLI 도구가 75배 저렴하고 빠른 이유 (모",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mxsJo_Jjdi8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-17T00:42:56.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ec21f610674dd77795c69b0e519e5f8ef55a7f1958c9d554bc16e613c241834c",
+      "dedupeKey": "brief:opp_b92738344e2028e33062:sha256:ec21f610674dd77795c69b0e519e5f8ef55a7f1958c9d554bc16e613c241834c",
+      "firstSeenAt": "2026-08-17T01:19:46.610Z",
+      "lastSeenAt": "2026-08-17T01:19:46.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -24739,6 +24792,12 @@
       "opportunityId": "opp_6b5fc88b97e3a14f2441",
       "sentAt": "2026-08-17T00:05:28.918Z",
       "messageId": "1538700258425569362"
+    },
+    "brief:opp_b92738344e2028e33062:sha256:ec21f610674dd77795c69b0e519e5f8ef55a7f1958c9d554bc16e613c241834c": {
+      "status": "SENT",
+      "opportunityId": "opp_b92738344e2028e33062",
+      "sentAt": "2026-08-17T01:19:46.610Z",
+      "messageId": "1538718955768778803"
     }
   },
   "pending": {},
