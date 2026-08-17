@@ -22378,8 +22378,8 @@
       },
       "contentHash": "sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
       "dedupeKey": "brief:opp_6ec9aab3a1f6e615ee38:sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22427,8 +22427,8 @@
       },
       "contentHash": "sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e",
       "dedupeKey": "brief:opp_c1d8da42e1e67ca8a071:sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22525,8 +22525,8 @@
       },
       "contentHash": "sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
       "dedupeKey": "brief:opp_db031c3b465cdc3d6ae7:sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22623,8 +22623,8 @@
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22672,8 +22672,8 @@
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22721,11 +22721,11 @@
       },
       "contentHash": "sha256:551faad34e12626f27bb522be28a7c9949211a7815692598ba4b284ce800c3eb",
       "dedupeKey": "brief:opp_1dd0b1423460392b5708:sha256:551faad34e12626f27bb522be28a7c9949211a7815692598ba4b284ce800c3eb",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -22770,11 +22770,11 @@
       },
       "contentHash": "sha256:0043832e5e64e0edbfa791f481030d87708d50fe6e5a61f3c40c80c85a52b65e",
       "dedupeKey": "brief:opp_c6143a0c54542a6ec745:sha256:0043832e5e64e0edbfa791f481030d87708d50fe6e5a61f3c40c80c85a52b65e",
-      "firstSeenAt": "2026-08-17T09:06:00.606Z",
-      "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -22927,6 +22927,59 @@
       "dedupeKey": "brief:opp_eeaefea1346e5094f4d9:sha256:fa3cd423e46afe3cf80404b06699ecb23222a9253489a64c10b2443e0a0cca1b",
       "firstSeenAt": "2026-08-17T09:06:00.606Z",
       "lastSeenAt": "2026-08-17T09:06:00.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_671b9c9cd3f1a63882ef": {
+      "id": "opp_671b9c9cd3f1a63882ef",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:S_PeI8JUqMg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S_PeI8JUqMg",
+      "title": "[한글자막] 사람이 아닌 에이전트를 위한 문서 작성법: OpenWiki 내부 공개",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T09:00:07+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "LangChain의 응용 AI 총괄 Brace Sproul이 샌프란시스코 밋업에서 코딩 에이전트 전용 오픈소스 문서화 도구인 OpenWiki를 소개합니다. 인간용 문서와 에이전트용 문서의 구조적 차이점, CLI 내부 동작 원리, DeepSWE 벤치마크 평가 결과, 개발 과정에서 겪은 시행착오를 상세히 설명합니다. 📌 주요 포인트: • 사람이 아닌 코딩 에이전트를 위해 설계된 문서 구조와 Google OKF(Open Knowledge Format) 표준 적용 • CLI 명령어 한 줄(init)로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=S_PeI8JUqMg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-17T09:00:07.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dc09869a7d6348306a7413f710cc2b1f706157096f3082f6b6f50895bb9d8320",
+      "dedupeKey": "brief:opp_671b9c9cd3f1a63882ef:sha256:dc09869a7d6348306a7413f710cc2b1f706157096f3082f6b6f50895bb9d8320",
+      "firstSeenAt": "2026-08-17T09:37:38.537Z",
+      "lastSeenAt": "2026-08-17T09:37:38.537Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -25424,6 +25477,24 @@
       "opportunityId": "opp_f53ffa34952648162038",
       "sentAt": "2026-08-17T09:06:00.606Z",
       "messageId": "1538836286507323475"
+    },
+    "brief:opp_671b9c9cd3f1a63882ef:sha256:dc09869a7d6348306a7413f710cc2b1f706157096f3082f6b6f50895bb9d8320": {
+      "status": "SENT",
+      "opportunityId": "opp_671b9c9cd3f1a63882ef",
+      "sentAt": "2026-08-17T09:37:38.537Z",
+      "messageId": "1538844248680562699"
+    },
+    "brief:opp_1dd0b1423460392b5708:sha256:551faad34e12626f27bb522be28a7c9949211a7815692598ba4b284ce800c3eb": {
+      "status": "SENT",
+      "opportunityId": "opp_1dd0b1423460392b5708",
+      "sentAt": "2026-08-17T09:37:38.537Z",
+      "messageId": "1538844248680562699"
+    },
+    "brief:opp_c6143a0c54542a6ec745:sha256:0043832e5e64e0edbfa791f481030d87708d50fe6e5a61f3c40c80c85a52b65e": {
+      "status": "SENT",
+      "opportunityId": "opp_c6143a0c54542a6ec745",
+      "sentAt": "2026-08-17T09:37:38.537Z",
+      "messageId": "1538844248680562699"
     }
   },
   "pending": {},
