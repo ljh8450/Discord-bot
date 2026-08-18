@@ -22608,23 +22608,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 8,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 17,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-18T01:16:46.465Z",
-      "lastSeenAt": "2026-08-18T01:16:46.465Z",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22657,8 +22657,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 10,
+        "communityPoints": 16,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -22672,8 +22672,8 @@
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-18T01:16:46.465Z",
-      "lastSeenAt": "2026-08-18T01:16:46.465Z",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -23421,6 +23421,460 @@
       "dedupeKey": "brief:opp_b76128bf134b7bcddc6f:sha256:15b09e36657cf6d55f37c08e46259cbd79bedc1ce7987e9dcc853cc9d51b137c",
       "firstSeenAt": "2026-08-18T01:16:46.465Z",
       "lastSeenAt": "2026-08-18T01:16:46.465Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_301fb166df007a12f7f4": {
+      "id": "opp_301fb166df007a12f7f4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32604",
+      "canonicalUrl": "https://timmarinin.net/2026/bluesky-screenshots",
+      "title": "Bluesky가 스크린샷에 로고를 표시하는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T13:31:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Bluesky는 평소 Follow 버튼을 보여주지만, iOS에서 스크린샷을 찍으면 같은 자리에 로고가 나타나도록 구현함 2026년 1월 추가된 GrowthHack.tsx...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32604"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c0a72561c184d1993c37c1ec66bfcdbec0524e1b851d4934281b46f65439267a",
+      "dedupeKey": "brief:opp_301fb166df007a12f7f4:sha256:c0a72561c184d1993c37c1ec66bfcdbec0524e1b851d4934281b46f65439267a",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c43332af0e6d5ae25a9a": {
+      "id": "opp_c43332af0e6d5ae25a9a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32600",
+      "canonicalUrl": "https://x.com/thsottiaux/status/2089082893804896524",
+      "title": "Codex에서 GPT-5.6 Sol의 1M 토큰 컨텍스트 윈도우 활성화하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T09:45:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코덱스는 성능과 비용을 고려해 기본 컨텍스트 크기를 조정해두지만, GPT-5.6 Sol의 최대 1,050,000 토큰 컨텍스트를 직접 활성화할 수 있음 컨텍...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32600"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:482ce5531c3536dc953b34a402ffebcb5fed5f30e8b8fc9b59f3db5785100d28",
+      "dedupeKey": "brief:opp_c43332af0e6d5ae25a9a:sha256:482ce5531c3536dc953b34a402ffebcb5fed5f30e8b8fc9b59f3db5785100d28",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_45e7eef49b7886805045": {
+      "id": "opp_45e7eef49b7886805045",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32598",
+      "canonicalUrl": "https://github.com/kenn-io/docbank",
+      "title": "Docbank - 사람과 에이전트가 함께 쓰는 로컬 우선 문서 기록 시스템",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T09:30:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사람과 에이전트가 함께 문서를 보관/검색/변경하고 이력과 무결성을 검증할 수 있는 자기주권형(self-sovereign) 문서 시스템 가상 트리에 문서 I...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32598"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:60b5190e47104ec28e40a314a514052186cd738670ae129c0d4c36fc123936a7",
+      "dedupeKey": "brief:opp_45e7eef49b7886805045:sha256:60b5190e47104ec28e40a314a514052186cd738670ae129c0d4c36fc123936a7",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_227bc635627de7c9f117": {
+      "id": "opp_227bc635627de7c9f117",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "6a3a7734148c4d271e7155a8af7de5ede7632b06",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/build-domain-knowledge-mcp-gateway",
+      "title": "실리콘투의 사내 지식 MCP 게이트웨이 구축기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 01:56:03 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "실리콘투는 한국의 뷰티 브랜드를 전 세계 고객에게 유통하는 글로벌 플랫폼 기업입니다. 수많은 브랜드와 상품, 국가별 물류가 실시간으로 맞물려 돌아가고, 이 방대한 흐름을 CMS, WMS, OMS를 비롯한 여러 사내 시스템이 나눠 맡습니다. 사업이 커질수록 업무 규칙도 함께 불어났고, 그 규칙은 저장 프로시저(SP, Stored Procedure. 데이터베이스에 넣어 두고 불러 쓰는 SQL 로직 묶음), 소스 코드, 그리고 여기저기 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/build-domain-knowledge-mcp-gateway/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:83a1e4afa83d123c50ac3677c37fb5c9808629d1dc41b15dc24a530b40d7e8c9",
+      "dedupeKey": "brief:opp_227bc635627de7c9f117:sha256:83a1e4afa83d123c50ac3677c37fb5c9808629d1dc41b15dc24a530b40d7e8c9",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a6fb7e26817b74cdaadd": {
+      "id": "opp_a6fb7e26817b74cdaadd",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "6677a2e1e4e901666c90f540c9866102b21dfe81",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration",
+      "title": "Amazon Bedrock에서 LLM 게이트웨이의 두 사각지대 메우기: 사라진 호출자와 흐려진 모델 거버넌스",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 01:17:06 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Amazon Bedrock 앞에 LLM 게이트웨이(이하 게이트웨이)를 두면 편의와 통제를 얻지만, 그 대가로 Amazon Bedrock이 보는 호출자 신원과 모델별 관측 지점이&nbsp;게이트웨이 뒤로 흐려지는 사각지대가 생깁니다. 이 글은 잘 알려진 레퍼런스 아키텍처를 출발점으로, 그 사각지대를 Amazon Bedrock 네이티브 기능으로 보완하는 방법 (호출자 감사 추적과 모델별 관측 및 거버넌스)을 다룹니다. <Claude Code → LLM 게이트웨이 → Amazon Bedrock> […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b4dfda4c56ca12e5ef1864d6fa34871dc438162013caf703879f3103c5fc036",
+      "dedupeKey": "brief:opp_a6fb7e26817b74cdaadd:sha256:0b4dfda4c56ca12e5ef1864d6fa34871dc438162013caf703879f3103c5fc036",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_55a7e508cd98a23d67b2": {
+      "id": "opp_55a7e508cd98a23d67b2",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
+      "title": "보안 업무를 위한 AI 에이전트 플랫폼 「SAGE」 개발기 1편: 판단은 사람에게 남기는 설계",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 05:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "안녕하세요. 사내 보안 업무에 AI를 접목하는 일을 하고 있는 Security Development Division(LINE Plus Security R&D)팀입니다.이 글은 사내...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:aac91c8c4ac9ea490793aff536675d1f2eafc3c16bb4c716fca90fe6a8455e86",
+      "dedupeKey": "brief:opp_55a7e508cd98a23d67b2:sha256:aac91c8c4ac9ea490793aff536675d1f2eafc3c16bb4c716fca90fe6a8455e86",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6540bb3b4a204cb8adaa": {
+      "id": "opp_6540bb3b4a204cb8adaa",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:6frjrjB4hng",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6frjrjB4hng",
+      "title": "EP 110. AI와 정렬",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T03:05:57+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "7~8월 여름 동안 쏟아진 모델 출시 러시(Opus 5, Kimi K3, DeepSeek V4, GLM 5.3 등)와 수학·보안 분야의 성취를 타임라인으로 정리합니다. Discovery Loop의 재귀적 자기 개선(RSI) 비전과 Oriol Vinyals의 발표, Black Hat에서 공개된 OpenAI 내부 에이전트들의 인프라 침입 사건을 짚으며 '오정렬(misalignment)'이 왜 2026년의 핵심 키워드가 되었는지 논의합니다. 리즈닝 트레이스 탈취 기법과 distillation 정황, 텍",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6frjrjB4hng"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T03:05:57.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9adb019814b1888250c52047ee6365ee487eaf65feec773a07349e9167fe39a0",
+      "dedupeKey": "brief:opp_6540bb3b4a204cb8adaa:sha256:9adb019814b1888250c52047ee6365ee487eaf65feec773a07349e9167fe39a0",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bd2d2b72e6b8692e1b3a": {
+      "id": "opp_bd2d2b72e6b8692e1b3a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:wQkFDtqwQCk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wQkFDtqwQCk",
+      "title": "[한글자막] AI 자동화에 5000시간을 쏟고 깨달은 핵심 교훈 12가지",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T03:00:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "5,000시간 이상 AI 에이전트와 자동화 시스템을 구축하며 수십억 원대 에이전시를 키워낸 실전 경험에서 얻은 12가지 핵심 교훈을 정리했습니다. 단순한 도구 사용법이나 튜토리얼을 넘어, AI로 실제 비즈니스 임팩트를 만들고 수익을 창출하기 위해 반드시 알아야 할 현실적인 노하우를 확인해보세요. 📌 주요 내용: - 단순 포트폴리오 대신 실제 비즈니스 성과 증빙을 수집하는 법 - 도구에 얽매이지 않고 근본적인 문제 해결 역량을 키우는 방법 - AI 네이티브 사고방식과 네거티브 프롬프트를 활용한 컨",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=wQkFDtqwQCk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T03:00:30.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6fbf3820e262274a4904849fbc17ea9f4ba8c019eb1fcb34c3f8529fd99214e2",
+      "dedupeKey": "brief:opp_bd2d2b72e6b8692e1b3a:sha256:6fbf3820e262274a4904849fbc17ea9f4ba8c019eb1fcb34c3f8529fd99214e2",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aa76abd3fc2161855d15": {
+      "id": "opp_aa76abd3fc2161855d15",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:6-bmczPW5n0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6-bmczPW5n0",
+      "title": "무신사는 Codex를 어떻게 활용할까? | OpenAI × 조코딩AX파트너스",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T04:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "“AI는 저희에게 생존의 문제입니다.” 무신사는 개발 현장에서 Codex를 어떻게 활용하고, 어떤 AI 인재를 찾고 있을까요? 무신사 테크 리드 김상범 님에게 직접 들어봤습니다. 조코딩AX파트너스가 주최하고 OpenAI가 후원한 ‘AX 인재전쟁’에서 진행한 인터뷰입니다. ⬛ 행사명: AX 인재전쟁 ⬛ 주최: 조코딩AX파트너스 ⬛ 후원: OpenAI ⬛ 출연: 김상범 (무신사 전사 테크 리드) 00:00 무신사 전사 테크 리드가 하는 일 00:19 무신사에서 AI는 어떤 의미인가요? 00:42 무신",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6-bmczPW5n0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T04:00:19.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4dd4488cc56712a61fd3e8216818234c64d6dba74a97c293cff29af436cfeb24",
+      "dedupeKey": "brief:opp_aa76abd3fc2161855d15:sha256:4dd4488cc56712a61fd3e8216818234c64d6dba74a97c293cff29af436cfeb24",
+      "firstSeenAt": "2026-08-18T09:05:47.968Z",
+      "lastSeenAt": "2026-08-18T09:05:47.968Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -26002,6 +26456,42 @@
       "opportunityId": "opp_db031c3b465cdc3d6ae7",
       "sentAt": "2026-08-18T01:16:46.465Z",
       "messageId": "1539080587724197969"
+    },
+    "brief:opp_55a7e508cd98a23d67b2:sha256:aac91c8c4ac9ea490793aff536675d1f2eafc3c16bb4c716fca90fe6a8455e86": {
+      "status": "SENT",
+      "opportunityId": "opp_55a7e508cd98a23d67b2",
+      "sentAt": "2026-08-18T09:05:47.968Z",
+      "messageId": "1539198621671620609"
+    },
+    "brief:opp_227bc635627de7c9f117:sha256:83a1e4afa83d123c50ac3677c37fb5c9808629d1dc41b15dc24a530b40d7e8c9": {
+      "status": "SENT",
+      "opportunityId": "opp_227bc635627de7c9f117",
+      "sentAt": "2026-08-18T09:05:47.968Z",
+      "messageId": "1539198621671620609"
+    },
+    "brief:opp_a6fb7e26817b74cdaadd:sha256:0b4dfda4c56ca12e5ef1864d6fa34871dc438162013caf703879f3103c5fc036": {
+      "status": "SENT",
+      "opportunityId": "opp_a6fb7e26817b74cdaadd",
+      "sentAt": "2026-08-18T09:05:47.968Z",
+      "messageId": "1539198621671620609"
+    },
+    "brief:opp_6540bb3b4a204cb8adaa:sha256:9adb019814b1888250c52047ee6365ee487eaf65feec773a07349e9167fe39a0": {
+      "status": "SENT",
+      "opportunityId": "opp_6540bb3b4a204cb8adaa",
+      "sentAt": "2026-08-18T09:05:47.968Z",
+      "messageId": "1539198621671620609"
+    },
+    "brief:opp_aa76abd3fc2161855d15:sha256:4dd4488cc56712a61fd3e8216818234c64d6dba74a97c293cff29af436cfeb24": {
+      "status": "SENT",
+      "opportunityId": "opp_aa76abd3fc2161855d15",
+      "sentAt": "2026-08-18T09:05:47.968Z",
+      "messageId": "1539198621671620609"
+    },
+    "brief:opp_c43332af0e6d5ae25a9a:sha256:482ce5531c3536dc953b34a402ffebcb5fed5f30e8b8fc9b59f3db5785100d28": {
+      "status": "SENT",
+      "opportunityId": "opp_c43332af0e6d5ae25a9a",
+      "sentAt": "2026-08-18T09:05:47.968Z",
+      "messageId": "1539198621671620609"
     }
   },
   "pending": {},
