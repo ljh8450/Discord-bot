@@ -22609,7 +22609,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 17,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -22623,8 +22623,8 @@
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-18T09:05:47.968Z",
-      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22672,8 +22672,8 @@
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-18T09:05:47.968Z",
-      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -23468,11 +23468,11 @@
       },
       "contentHash": "sha256:c0a72561c184d1993c37c1ec66bfcdbec0524e1b851d4934281b46f65439267a",
       "dedupeKey": "brief:opp_301fb166df007a12f7f4:sha256:c0a72561c184d1993c37c1ec66bfcdbec0524e1b851d4934281b46f65439267a",
-      "firstSeenAt": "2026-08-18T09:05:47.968Z",
-      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -23566,11 +23566,11 @@
       },
       "contentHash": "sha256:60b5190e47104ec28e40a314a514052186cd738670ae129c0d4c36fc123936a7",
       "dedupeKey": "brief:opp_45e7eef49b7886805045:sha256:60b5190e47104ec28e40a314a514052186cd738670ae129c0d4c36fc123936a7",
-      "firstSeenAt": "2026-08-18T09:05:47.968Z",
-      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -23806,7 +23806,7 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-08-18T03:00:30.000Z",
+        "latestChannelActivityAt": "2026-08-18T09:00:25.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -23820,11 +23820,11 @@
       },
       "contentHash": "sha256:6fbf3820e262274a4904849fbc17ea9f4ba8c019eb1fcb34c3f8529fd99214e2",
       "dedupeKey": "brief:opp_bd2d2b72e6b8692e1b3a:sha256:6fbf3820e262274a4904849fbc17ea9f4ba8c019eb1fcb34c3f8529fd99214e2",
-      "firstSeenAt": "2026-08-18T09:05:47.968Z",
-      "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -23875,6 +23875,112 @@
       "dedupeKey": "brief:opp_aa76abd3fc2161855d15:sha256:4dd4488cc56712a61fd3e8216818234c64d6dba74a97c293cff29af436cfeb24",
       "firstSeenAt": "2026-08-18T09:05:47.968Z",
       "lastSeenAt": "2026-08-18T09:05:47.968Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e1f1361ef7c3d8bbe54a": {
+      "id": "opp_e1f1361ef7c3d8bbe54a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:1eMDZjsVOh4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1eMDZjsVOh4",
+      "title": "[한글자막] OpenAI는 왜 코딩 에이전트 하네스를 이렇게 설계했을까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T09:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI 엔지니어 Dominik Kundel이 공개한 Codex 하네스(Harness)의 내부 설계와 에이전트 최적화 핵심 비결입니다. 초고속 모델 환경에서 발생하는 네트워크 병목 해소부터 안전한 자동 승인 시스템까지, 실전 코딩 에이전트 개발에 필요한 아키텍처를 상세히 소개합니다. 주요 포인트: • App Server 프로토콜과 Responses API를 활용한 확장형 에이전트 구조 • 도구 지연 로딩(Deferred Tools) 및 스킬 2% 캡으로 컨텍스트와 캐시 최적화 • OS별 샌드박",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1eMDZjsVOh4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T09:00:25.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:41c330777ad55e9d86ee56110c3e6845e622aa2895b84477a8f907dca2a1290f",
+      "dedupeKey": "brief:opp_e1f1361ef7c3d8bbe54a:sha256:41c330777ad55e9d86ee56110c3e6845e622aa2895b84477a8f907dca2a1290f",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_83fc4e0ed393e4d343b2": {
+      "id": "opp_83fc4e0ed393e4d343b2",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:hFrTbX7FRu8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hFrTbX7FRu8",
+      "title": "카카오페이증권은 Codex를 어떻게 활용할까? | OpenAI × AX 인재전쟁",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T09:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "“Codex를 비롯한 AI 에이전트가 없었다면, 그냥 판타지였을 것 같아요.” 고객 상담부터 ‘투자의 동반자’까지, 카카오페이증권은 AI와 Codex를 어떻게 활용하고 있을까요? AI 서비스 센터 이형주 센터장에게 직접 들어봤습니다. 조코딩AX파트너스가 주최하고 OpenAI가 후원한 ‘AX 인재전쟁’에서 진행한 인터뷰입니다. ⬛ 행사명: AX 인재전쟁 ⬛ 주최: 조코딩AX파트너스 ⬛ 후원: OpenAI ⬛ 출연: 이형주 (카카오페이증권 AI 서비스 센터 센터장) 00:00 카카오페이증권 AI 서비",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=hFrTbX7FRu8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T09:00:06.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9a1eee64853d17313a7f57ecf122de2079653ab65642e01161a07fe6ca7b4fb6",
+      "dedupeKey": "brief:opp_83fc4e0ed393e4d343b2:sha256:9a1eee64853d17313a7f57ecf122de2079653ab65642e01161a07fe6ca7b4fb6",
+      "firstSeenAt": "2026-08-18T09:29:38.972Z",
+      "lastSeenAt": "2026-08-18T09:29:38.972Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -26492,6 +26598,36 @@
       "opportunityId": "opp_c43332af0e6d5ae25a9a",
       "sentAt": "2026-08-18T09:05:47.968Z",
       "messageId": "1539198621671620609"
+    },
+    "brief:opp_e1f1361ef7c3d8bbe54a:sha256:41c330777ad55e9d86ee56110c3e6845e622aa2895b84477a8f907dca2a1290f": {
+      "status": "SENT",
+      "opportunityId": "opp_e1f1361ef7c3d8bbe54a",
+      "sentAt": "2026-08-18T09:29:38.972Z",
+      "messageId": "1539204622915338303"
+    },
+    "brief:opp_83fc4e0ed393e4d343b2:sha256:9a1eee64853d17313a7f57ecf122de2079653ab65642e01161a07fe6ca7b4fb6": {
+      "status": "SENT",
+      "opportunityId": "opp_83fc4e0ed393e4d343b2",
+      "sentAt": "2026-08-18T09:29:38.972Z",
+      "messageId": "1539204622915338303"
+    },
+    "brief:opp_301fb166df007a12f7f4:sha256:c0a72561c184d1993c37c1ec66bfcdbec0524e1b851d4934281b46f65439267a": {
+      "status": "SENT",
+      "opportunityId": "opp_301fb166df007a12f7f4",
+      "sentAt": "2026-08-18T09:29:38.972Z",
+      "messageId": "1539204622915338303"
+    },
+    "brief:opp_bd2d2b72e6b8692e1b3a:sha256:6fbf3820e262274a4904849fbc17ea9f4ba8c019eb1fcb34c3f8529fd99214e2": {
+      "status": "SENT",
+      "opportunityId": "opp_bd2d2b72e6b8692e1b3a",
+      "sentAt": "2026-08-18T09:29:38.972Z",
+      "messageId": "1539204622915338303"
+    },
+    "brief:opp_45e7eef49b7886805045:sha256:60b5190e47104ec28e40a314a514052186cd738670ae129c0d4c36fc123936a7": {
+      "status": "SENT",
+      "opportunityId": "opp_45e7eef49b7886805045",
+      "sentAt": "2026-08-18T09:29:38.972Z",
+      "messageId": "1539204622915338303"
     }
   },
   "pending": {},
