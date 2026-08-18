@@ -22363,8 +22363,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 3,
+        "communityPoints": 14,
+        "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -22378,11 +22378,11 @@
       },
       "contentHash": "sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
       "dedupeKey": "brief:opp_6ec9aab3a1f6e615ee38:sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
-      "firstSeenAt": "2026-08-18T00:05:30.645Z",
-      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -22511,13 +22511,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 4,
-        "contentScore": 12,
+        "communityRank": 6,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -22525,11 +22525,11 @@
       },
       "contentHash": "sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
       "dedupeKey": "brief:opp_db031c3b465cdc3d6ae7:sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
-      "firstSeenAt": "2026-08-18T00:05:30.645Z",
-      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -22609,13 +22609,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityRank": 8,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -22623,8 +22623,8 @@
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-18T00:05:30.645Z",
-      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22657,23 +22657,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 9,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 10,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-18T00:05:30.645Z",
-      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -23013,7 +23013,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 10,
+        "communityRank": 12,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -23027,8 +23027,8 @@
       },
       "contentHash": "sha256:9ec100115b0d3af2b347171163ec74a710de71e3aefccb43949fa78fe2fe5489",
       "dedupeKey": "brief:opp_bdd3024020594fe82e4c:sha256:9ec100115b0d3af2b347171163ec74a710de71e3aefccb43949fa78fe2fe5489",
-      "firstSeenAt": "2026-08-18T00:05:30.645Z",
-      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -23171,11 +23171,11 @@
       },
       "contentHash": "sha256:83e94be7476327366ccea3f5ac5bc573d15d77d8de61ea221403ef9beac9d7b9",
       "dedupeKey": "brief:opp_67a7b38c6ce0c922b786:sha256:83e94be7476327366ccea3f5ac5bc573d15d77d8de61ea221403ef9beac9d7b9",
-      "firstSeenAt": "2026-08-18T00:05:30.645Z",
-      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -23323,6 +23323,104 @@
       "dedupeKey": "brief:opp_299e76536b755197d705:sha256:a0a3a643862994ad54ef56e0e33db51e0300bd6a43727c3c1fd82a232b55c24b",
       "firstSeenAt": "2026-08-18T00:05:30.645Z",
       "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b07f62edf7c5b94d7915": {
+      "id": "opp_b07f62edf7c5b94d7915",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "08b4dc97029c9da2c822f6a8222fc143dec52c11",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/agentcore-for-enterprise",
+      "title": "엔터프라이즈 보안 요구사항을 충족하는 프라이빗 Amazon Bedrock AgentCore 구축하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 00:46:08 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "AI Agent를 프로덕션 환경에 도입하려는 엔터프라이즈 고객과 이야기하다 보면, 공통적으로 마주하는 질문들이 있습니다. “사내에서 운영 중인 LLM을 Agent에서 호출할 수 있는가?” “인증을 회사가 이미 운영 중인 사내 IdP(Identity Provider)로 처리할 수 있는가? 단, IdP를 인터넷에 노출하지 않고?” “내부 데이터에 접근하는 MCP(Model Context Protocol) 서버를 사내망 안에서만 호출할 수 있는가?” 세 질문의 공통점은 하나입니다. 사내 자산을 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/agentcore-for-enterprise/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5dc0b666c03b0c887f672956bb0836a19b8bebb5fd02da9fa574d10b70a9acc9",
+      "dedupeKey": "brief:opp_b07f62edf7c5b94d7915:sha256:5dc0b666c03b0c887f672956bb0836a19b8bebb5fd02da9fa574d10b70a9acc9",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b76128bf134b7bcddc6f": {
+      "id": "opp_b76128bf134b7bcddc6f",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/games-in-ads",
+      "canonicalUrl": "https://toss.tech/article/games-in-ads",
+      "title": "토스는 어떻게 광고 속에 게임을 넣었을까",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "토스에서 게임 광고를 받기 위해 MRAID 기반 플레이어블 광고 SDK를 직접 만든 이야기를 소개해요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/games-in-ads"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:15b09e36657cf6d55f37c08e46259cbd79bedc1ce7987e9dcc853cc9d51b137c",
+      "dedupeKey": "brief:opp_b76128bf134b7bcddc6f:sha256:15b09e36657cf6d55f37c08e46259cbd79bedc1ce7987e9dcc853cc9d51b137c",
+      "firstSeenAt": "2026-08-18T01:16:46.465Z",
+      "lastSeenAt": "2026-08-18T01:16:46.465Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -25874,6 +25972,36 @@
       "opportunityId": "opp_c1d8da42e1e67ca8a071",
       "sentAt": "2026-08-18T00:05:30.645Z",
       "messageId": "1539062653790453881"
+    },
+    "brief:opp_b76128bf134b7bcddc6f:sha256:15b09e36657cf6d55f37c08e46259cbd79bedc1ce7987e9dcc853cc9d51b137c": {
+      "status": "SENT",
+      "opportunityId": "opp_b76128bf134b7bcddc6f",
+      "sentAt": "2026-08-18T01:16:46.465Z",
+      "messageId": "1539080587724197969"
+    },
+    "brief:opp_b07f62edf7c5b94d7915:sha256:5dc0b666c03b0c887f672956bb0836a19b8bebb5fd02da9fa574d10b70a9acc9": {
+      "status": "SENT",
+      "opportunityId": "opp_b07f62edf7c5b94d7915",
+      "sentAt": "2026-08-18T01:16:46.465Z",
+      "messageId": "1539080587724197969"
+    },
+    "brief:opp_67a7b38c6ce0c922b786:sha256:83e94be7476327366ccea3f5ac5bc573d15d77d8de61ea221403ef9beac9d7b9": {
+      "status": "SENT",
+      "opportunityId": "opp_67a7b38c6ce0c922b786",
+      "sentAt": "2026-08-18T01:16:46.465Z",
+      "messageId": "1539080587724197969"
+    },
+    "brief:opp_6ec9aab3a1f6e615ee38:sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe": {
+      "status": "SENT",
+      "opportunityId": "opp_6ec9aab3a1f6e615ee38",
+      "sentAt": "2026-08-18T01:16:46.465Z",
+      "messageId": "1539080587724197969"
+    },
+    "brief:opp_db031c3b465cdc3d6ae7:sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270": {
+      "status": "SENT",
+      "opportunityId": "opp_db031c3b465cdc3d6ae7",
+      "sentAt": "2026-08-18T01:16:46.465Z",
+      "messageId": "1539080587724197969"
     }
   },
   "pending": {},
