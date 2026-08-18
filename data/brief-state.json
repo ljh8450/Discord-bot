@@ -22363,23 +22363,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 1,
-        "contentScore": 11,
+        "communityPoints": 13,
+        "communityRank": 3,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
       "dedupeKey": "brief:opp_6ec9aab3a1f6e615ee38:sha256:394b5f694089e67df862eac65e8dba27b84f9ec74b945ab20723d662ef4c24fe",
-      "firstSeenAt": "2026-08-17T09:37:38.537Z",
-      "lastSeenAt": "2026-08-17T09:37:38.537Z",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22412,26 +22412,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 2,
-        "contentScore": 11,
+        "communityPoints": 14,
+        "communityRank": 1,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e",
       "dedupeKey": "brief:opp_c1d8da42e1e67ca8a071:sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e",
-      "firstSeenAt": "2026-08-17T09:37:38.537Z",
-      "lastSeenAt": "2026-08-17T09:37:38.537Z",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -22510,23 +22510,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 12,
         "communityRank": 4,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
       "dedupeKey": "brief:opp_db031c3b465cdc3d6ae7:sha256:8a4c628ac992380c4aa7809690eb54d17732f2061b11422d6470f2c3e65ef270",
-      "firstSeenAt": "2026-08-17T09:37:38.537Z",
-      "lastSeenAt": "2026-08-17T09:37:38.537Z",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22608,7 +22608,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 9,
         "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -22623,8 +22623,8 @@
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-17T09:37:38.537Z",
-      "lastSeenAt": "2026-08-17T09:37:38.537Z",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22657,14 +22657,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -22672,8 +22672,8 @@
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-17T09:37:38.537Z",
-      "lastSeenAt": "2026-08-17T09:37:38.537Z",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22980,6 +22980,349 @@
       "dedupeKey": "brief:opp_671b9c9cd3f1a63882ef:sha256:dc09869a7d6348306a7413f710cc2b1f706157096f3082f6b6f50895bb9d8320",
       "firstSeenAt": "2026-08-17T09:37:38.537Z",
       "lastSeenAt": "2026-08-17T09:37:38.537Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bdd3024020594fe82e4c": {
+      "id": "opp_bdd3024020594fe82e4c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32564",
+      "canonicalUrl": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "title": "모델은 의도적으로 더 멍청해지고 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T07:36:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "최근 소형/MoE 모델은 적은 활성 매개변수로도 수학·코딩 추론 성능을 높이는 대신, 세부 정보 회상 능력은 약해지는 모습을 보임 사실 지식(factu...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32564"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9ec100115b0d3af2b347171163ec74a710de71e3aefccb43949fa78fe2fe5489",
+      "dedupeKey": "brief:opp_bdd3024020594fe82e4c:sha256:9ec100115b0d3af2b347171163ec74a710de71e3aefccb43949fa78fe2fe5489",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_320bae637cafc0ca278e": {
+      "id": "opp_320bae637cafc0ca278e",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/the-defenders-window",
+      "canonicalUrl": "https://openai.com/index/the-defenders-window",
+      "title": "The Defender’s Window",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "summaryEvidence": [
+        "https://openai.com/index/the-defenders-window"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bea1246a437aaa6a8d7b3ae6bac6aff0d6c9e234211422fd452a936428a4f8a4",
+      "dedupeKey": "brief:opp_320bae637cafc0ca278e:sha256:bea1246a437aaa6a8d7b3ae6bac6aff0d6c9e234211422fd452a936428a4f8a4",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_15e8bd90778005e9b3ba": {
+      "id": "opp_15e8bd90778005e9b3ba",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/openai-joins-ports-pike-project",
+      "canonicalUrl": "https://openai.com/index/openai-joins-ports-pike-project",
+      "title": "OpenAI joins PORTS-Pike project",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "summaryEvidence": [
+        "https://openai.com/index/openai-joins-ports-pike-project"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d4f095ce91fa9c9efc7f5e4e49565d64bcca08d61b3b05a7477fbf40b095aefa",
+      "dedupeKey": "brief:opp_15e8bd90778005e9b3ba:sha256:d4f095ce91fa9c9efc7f5e4e49565d64bcca08d61b3b05a7477fbf40b095aefa",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_67a7b38c6ce0c922b786": {
+      "id": "opp_67a7b38c6ce0c922b786",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "canonicalUrl": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "title": "New policy ideas for the Intelligence Age",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "summaryEvidence": [
+        "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:83e94be7476327366ccea3f5ac5bc573d15d77d8de61ea221403ef9beac9d7b9",
+      "dedupeKey": "brief:opp_67a7b38c6ce0c922b786:sha256:83e94be7476327366ccea3f5ac5bc573d15d77d8de61ea221403ef9beac9d7b9",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2f7a6081377026ecf643": {
+      "id": "opp_2f7a6081377026ecf643",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "8e773fccf565603287908ee59ef81bde1f8e9555",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock",
+      "title": "Amazon Bedrock 기반 사내 LLM, 키 발급부터 비용 차단까지: F&F의 LiteLLM 게이트웨이 운영 사례",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 17 Aug 2026 11:28:06 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "“팀원들이 AI 코딩 도구를 쓰고 싶어 하는데, 키는 누가 어떻게 나눠주죠?” 생성형 AI를 도입하는 조직이라면 어디서든 나오는 질문입니다. 저희는 이 질문에 조금 다른 순서로 답했습니다. 전사 플랫폼을 하향식으로 기획하는 대신, 사내에서 AI를 가장 많이 쓰는 팀이 자기 팀을 위해 먼저 만들고, 검증한 뒤 확대를 고민하기로 한 것입니다. 이 글은 F&amp;F의 AI Engineering 팀이 Amazon Bedrock […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e464b8228a008f8ecb424fd12d90e5e1a1bacba34639f681bbda6e74937a52d6",
+      "dedupeKey": "brief:opp_2f7a6081377026ecf643:sha256:e464b8228a008f8ecb424fd12d90e5e1a1bacba34639f681bbda6e74937a52d6",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cde25e447e1357f6dcb4": {
+      "id": "opp_cde25e447e1357f6dcb4",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98309",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Bl",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:74fa50742ba0c9fbc55aae89510ef00c5417fb87d3200de15c38aed244b2af5f",
+      "dedupeKey": "brief:opp_cde25e447e1357f6dcb4:sha256:74fa50742ba0c9fbc55aae89510ef00c5417fb87d3200de15c38aed244b2af5f",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_299e76536b755197d705": {
+      "id": "opp_299e76536b755197d705",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:CSVg3rUZSQo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CSVg3rUZSQo",
+      "title": "[한글자막] AI 에이전트와 도구를 연결하는 5가지 핵심 패턴: API부터 MCP까지",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-17T22:30:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트와 도구를 안전하고 확장성 있게 연결하는 5가지 핵심 아키텍처 패턴을 정리했습니다. 단순 API 키 방식부터 OAuth, MCP(Model Context Protocol), OBO 토큰 교환, 그리고 Vault 보안 금고 연동까지 각 패턴의 작동 방식과 장단점을 비교해 드립니다. 📌 주요 내용: • 5위. 직접 연결(Direct Connect): API 키/서비스 ID 기반 단순 연동 및 가시성 한계 • 4위. 직접 연결 + OAuth: 사용자 인증 추가와 신분 가장(Imperson",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=CSVg3rUZSQo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-17T22:30:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a0a3a643862994ad54ef56e0e33db51e0300bd6a43727c3c1fd82a232b55c24b",
+      "dedupeKey": "brief:opp_299e76536b755197d705:sha256:a0a3a643862994ad54ef56e0e33db51e0300bd6a43727c3c1fd82a232b55c24b",
+      "firstSeenAt": "2026-08-18T00:05:30.645Z",
+      "lastSeenAt": "2026-08-18T00:05:30.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -25495,6 +25838,42 @@
       "opportunityId": "opp_c6143a0c54542a6ec745",
       "sentAt": "2026-08-17T09:37:38.537Z",
       "messageId": "1538844248680562699"
+    },
+    "brief:opp_cde25e447e1357f6dcb4:sha256:74fa50742ba0c9fbc55aae89510ef00c5417fb87d3200de15c38aed244b2af5f": {
+      "status": "SENT",
+      "opportunityId": "opp_cde25e447e1357f6dcb4",
+      "sentAt": "2026-08-18T00:05:30.645Z",
+      "messageId": "1539062653790453881"
+    },
+    "brief:opp_2f7a6081377026ecf643:sha256:e464b8228a008f8ecb424fd12d90e5e1a1bacba34639f681bbda6e74937a52d6": {
+      "status": "SENT",
+      "opportunityId": "opp_2f7a6081377026ecf643",
+      "sentAt": "2026-08-18T00:05:30.645Z",
+      "messageId": "1539062653790453881"
+    },
+    "brief:opp_320bae637cafc0ca278e:sha256:bea1246a437aaa6a8d7b3ae6bac6aff0d6c9e234211422fd452a936428a4f8a4": {
+      "status": "SENT",
+      "opportunityId": "opp_320bae637cafc0ca278e",
+      "sentAt": "2026-08-18T00:05:30.645Z",
+      "messageId": "1539062653790453881"
+    },
+    "brief:opp_299e76536b755197d705:sha256:a0a3a643862994ad54ef56e0e33db51e0300bd6a43727c3c1fd82a232b55c24b": {
+      "status": "SENT",
+      "opportunityId": "opp_299e76536b755197d705",
+      "sentAt": "2026-08-18T00:05:30.645Z",
+      "messageId": "1539062653790453881"
+    },
+    "brief:opp_15e8bd90778005e9b3ba:sha256:d4f095ce91fa9c9efc7f5e4e49565d64bcca08d61b3b05a7477fbf40b095aefa": {
+      "status": "SENT",
+      "opportunityId": "opp_15e8bd90778005e9b3ba",
+      "sentAt": "2026-08-18T00:05:30.645Z",
+      "messageId": "1539062653790453881"
+    },
+    "brief:opp_c1d8da42e1e67ca8a071:sha256:15cacb9af8749fbd58d6f12002167beae6f2a541992271f10831efcfc1edfd7e": {
+      "status": "SENT",
+      "opportunityId": "opp_c1d8da42e1e67ca8a071",
+      "sentAt": "2026-08-18T00:05:30.645Z",
+      "messageId": "1539062653790453881"
     }
   },
   "pending": {},
