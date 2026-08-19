@@ -24366,11 +24366,11 @@
       },
       "contentHash": "sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
       "dedupeKey": "brief:opp_eb9f8bf6d53d651969ee:sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
-      "firstSeenAt": "2026-08-19T09:05:30.433Z",
-      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "firstSeenAt": "2026-08-19T09:30:37.905Z",
+      "lastSeenAt": "2026-08-19T09:30:37.905Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24657,26 +24657,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 19,
+        "communityPoints": 20,
         "communityRank": 1,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:5300d17c42ffdf4922aabc5dba1f3d6f6f32f804f6a7d6e9061332d0bfa78d53",
       "dedupeKey": "brief:opp_bcb3cb8b6f6da804c9ad:sha256:5300d17c42ffdf4922aabc5dba1f3d6f6f32f804f6a7d6e9061332d0bfa78d53",
-      "firstSeenAt": "2026-08-19T09:05:30.433Z",
-      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "firstSeenAt": "2026-08-19T09:30:37.905Z",
+      "lastSeenAt": "2026-08-19T09:30:37.905Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24770,11 +24770,11 @@
       },
       "contentHash": "sha256:b8e502e499a321e15c0ccdc7e41f39c6b5491fb2b6b1ac131ec073054a28e00e",
       "dedupeKey": "brief:opp_c55b750275f66ac2365b:sha256:b8e502e499a321e15c0ccdc7e41f39c6b5491fb2b6b1ac131ec073054a28e00e",
-      "firstSeenAt": "2026-08-19T09:05:30.433Z",
-      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "firstSeenAt": "2026-08-19T09:30:37.905Z",
+      "lastSeenAt": "2026-08-19T09:30:37.905Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24979,6 +24979,112 @@
       "dedupeKey": "brief:opp_946fcb7db5267f35c478:sha256:899bd6111803788ea371ed9fa12c5d3f7da07f70aa5b688c35096fa3606c7086",
       "firstSeenAt": "2026-08-19T09:05:30.433Z",
       "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_98b9a463adaf52022417": {
+      "id": "opp_98b9a463adaf52022417",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ymj8Ha0oBtU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ymj8Ha0oBtU",
+      "title": "[한글자막] 코드 리뷰를 완전히 없애는 방법: diff 대신 의도를 검증하세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:00:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 도구의 보급으로 코드 생성량은 폭증했지만, 코드 한 줄 한 줄을 읽는 기존 리뷰 방식은 완전히 한계에 부딪혔습니다. Aviator 공동 창업자 Ankit Jain이 제안하는 '개발 세션 기반 인수 조건 추출과 AI 슬롭 레지스트리'를 통해 diff 대신 개발 의도와 검증 증거를 리뷰하는 새로운 패러다임을 확인해 보세요. 📌 주요 내용: • 왜 AI 리뷰 봇끼리의 대화는 무의미하며 사람이 읽지 않게 되는가? • 사양 중심 개발(Spec-driven development)이 폭포수 모델을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ymj8Ha0oBtU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T09:00:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a0aefbc20086392b23e263db5637bd9e57fadfd4ed363e7b9138cf2bc8e10cba",
+      "dedupeKey": "brief:opp_98b9a463adaf52022417:sha256:a0aefbc20086392b23e263db5637bd9e57fadfd4ed363e7b9138cf2bc8e10cba",
+      "firstSeenAt": "2026-08-19T09:30:37.905Z",
+      "lastSeenAt": "2026-08-19T09:30:37.905Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_38e5eb169700960ba603": {
+      "id": "opp_38e5eb169700960ba603",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:Rp7h16-C7mI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Rp7h16-C7mI",
+      "title": "채널톡은 Codex를 어떻게 활용할까? | OpenAI × AX 인재전쟁",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"대충 말해도 알잘딱하게 일 잘한다.\" 4천 년 전 석판에 새겨진 고객 불만부터 오늘의 AI 에이전트까지, 고객 커뮤니케이션을 푸는 채널톡은 개발 현장에서 Codex를 어떻게 활용하고 있을까요? 채널코퍼레이션 이경훈 CSO와 최한길 FDE 리더에게 직접 들어봤습니다. 조코딩AX파트너스가 주최하고 OpenAI가 후원한 'AX 인재전쟁'에서 진행한 인터뷰입니다. 행사명: AX 인재전쟁 주최: 조코딩AX파트너스 후원: OpenAI 출연: 이경훈 (채널코퍼레이션 CSO), 최한길 (채널코퍼레이션 FDE",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Rp7h16-C7mI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T09:00:37.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6dd73d61447647d39107b4ca49cbfaa2848799f8ca8daf2a42c07dbdc1c56526",
+      "dedupeKey": "brief:opp_38e5eb169700960ba603:sha256:6dd73d61447647d39107b4ca49cbfaa2848799f8ca8daf2a42c07dbdc1c56526",
+      "firstSeenAt": "2026-08-19T09:30:37.905Z",
+      "lastSeenAt": "2026-08-19T09:30:37.905Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -27728,6 +27834,36 @@
       "opportunityId": "opp_946fcb7db5267f35c478",
       "sentAt": "2026-08-19T09:05:30.433Z",
       "messageId": "1539560934916231242"
+    },
+    "brief:opp_bcb3cb8b6f6da804c9ad:sha256:5300d17c42ffdf4922aabc5dba1f3d6f6f32f804f6a7d6e9061332d0bfa78d53": {
+      "status": "SENT",
+      "opportunityId": "opp_bcb3cb8b6f6da804c9ad",
+      "sentAt": "2026-08-19T09:30:37.905Z",
+      "messageId": "1539567257485578304"
+    },
+    "brief:opp_eb9f8bf6d53d651969ee:sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7": {
+      "status": "SENT",
+      "opportunityId": "opp_eb9f8bf6d53d651969ee",
+      "sentAt": "2026-08-19T09:30:37.905Z",
+      "messageId": "1539567257485578304"
+    },
+    "brief:opp_38e5eb169700960ba603:sha256:6dd73d61447647d39107b4ca49cbfaa2848799f8ca8daf2a42c07dbdc1c56526": {
+      "status": "SENT",
+      "opportunityId": "opp_38e5eb169700960ba603",
+      "sentAt": "2026-08-19T09:30:37.905Z",
+      "messageId": "1539567257485578304"
+    },
+    "brief:opp_98b9a463adaf52022417:sha256:a0aefbc20086392b23e263db5637bd9e57fadfd4ed363e7b9138cf2bc8e10cba": {
+      "status": "SENT",
+      "opportunityId": "opp_98b9a463adaf52022417",
+      "sentAt": "2026-08-19T09:30:37.905Z",
+      "messageId": "1539567257485578304"
+    },
+    "brief:opp_c55b750275f66ac2365b:sha256:b8e502e499a321e15c0ccdc7e41f39c6b5491fb2b6b1ac131ec073054a28e00e": {
+      "status": "SENT",
+      "opportunityId": "opp_c55b750275f66ac2365b",
+      "sentAt": "2026-08-19T09:30:37.905Z",
+      "messageId": "1539567257485578304"
     }
   },
   "pending": {},
