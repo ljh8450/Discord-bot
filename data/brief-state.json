@@ -22608,8 +22608,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 18,
+        "communityPoints": 12,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -22623,8 +22623,8 @@
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-18T09:29:38.972Z",
-      "lastSeenAt": "2026-08-18T09:29:38.972Z",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22657,14 +22657,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 16,
-        "communityRank": 15,
-        "contentScore": 11,
+        "communityPoints": 17,
+        "communityRank": 13,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -22672,8 +22672,8 @@
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-18T09:29:38.972Z",
-      "lastSeenAt": "2026-08-18T09:29:38.972Z",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -23981,6 +23981,601 @@
       "dedupeKey": "brief:opp_83fc4e0ed393e4d343b2:sha256:9a1eee64853d17313a7f57ecf122de2079653ab65642e01161a07fe6ca7b4fb6",
       "firstSeenAt": "2026-08-18T09:29:38.972Z",
       "lastSeenAt": "2026-08-18T09:29:38.972Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7ba8bc8b3ce51d72af68": {
+      "id": "opp_7ba8bc8b3ce51d72af68",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32610",
+      "canonicalUrl": "https://news.hada.io/topic?id=32610",
+      "title": "Show GN: ko-pii - 한국어 문서의 개인정보를 로컬에서 탐지하고 가명화하는 Python 라이브러리",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T15:59:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "공공기관이나 규제 산업에서 RAG와 LLM을 도입할 때, 개인정보가 포함된 원문을 외부 API로 보내기 어렵고 한국의 식별번호나 문서 형식을 범용 PI...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32610"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 1,
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:0cc44069321ed31fa9507f77978205bb436f1f4db030e7db0ea2e74440894c6d",
+      "dedupeKey": "brief:opp_7ba8bc8b3ce51d72af68:sha256:0cc44069321ed31fa9507f77978205bb436f1f4db030e7db0ea2e74440894c6d",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bfaa5a607ac534593514": {
+      "id": "opp_bfaa5a607ac534593514",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32613",
+      "canonicalUrl": "https://news.hada.io/topic?id=32613",
+      "title": "Show GN: 클로드 (코드)가 명확한 한국어를 구사하게 만드는 output-style",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T18:05:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "클로드 코드가 원래 한국어를 잘 못하기는 했지만, 최근 클로드 모델은 채팅 세션에서조차 정말 한국어를 자의적으로 구사합니다. 그래서 국어학 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32613"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a2346c60160f4fba013250aca5866c8360f8a60735081ccc3108d3d2c3c60f5b",
+      "dedupeKey": "brief:opp_bfaa5a607ac534593514:sha256:a2346c60160f4fba013250aca5866c8360f8a60735081ccc3108d3d2c3c60f5b",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3af56d985039894b6fdb": {
+      "id": "opp_3af56d985039894b6fdb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32606",
+      "canonicalUrl": "https://news.hada.io/topic?id=32606",
+      "title": "Show GN: Codex 한도 차감 없이 ChatGPT 웹 채팅으로 코딩해보기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T14:15:18+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ChatGPT 웹 채팅은 Codex 한도와 별도로 사용할 수 있습니다. 최근 변경 이후 ChatGPT는 무료 사용자에게도 관대한 (Luna 모델) 채팅 사용량을 제...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32606"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 3,
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:12d10020152bd267892abac60f76e0a7ebde051aaa85b3af59e3ebabb8ffec6d",
+      "dedupeKey": "brief:opp_3af56d985039894b6fdb:sha256:12d10020152bd267892abac60f76e0a7ebde051aaa85b3af59e3ebabb8ffec6d",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9f3081e9614121a3aef1": {
+      "id": "opp_9f3081e9614121a3aef1",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "canonicalUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "title": "Strengthening democratic oversight in national security",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "summaryEvidence": [
+        "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bf08e0962cc7ec43182167c46e99717e4ed605276cb5297b0b2c7ee665e411f2",
+      "dedupeKey": "brief:opp_9f3081e9614121a3aef1:sha256:bf08e0962cc7ec43182167c46e99717e4ed605276cb5297b0b2c7ee665e411f2",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a607820945ebf7f4a110": {
+      "id": "opp_a607820945ebf7f4a110",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/partnering-with-codeai",
+      "canonicalUrl": "https://openai.com/index/partnering-with-codeai",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "summaryEvidence": [
+        "https://openai.com/index/partnering-with-codeai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565",
+      "dedupeKey": "brief:opp_a607820945ebf7f4a110:sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_474e7f7b596b10886440": {
+      "id": "opp_474e7f7b596b10886440",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "canonicalUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "summaryEvidence": [
+        "https://openai.com/index/pacing-model-development-cyber-capabilities"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a32d5517712cef42e6f0c843b24e04457dd957ea966b4e29b87b49c6d47099e6",
+      "dedupeKey": "brief:opp_474e7f7b596b10886440:sha256:a32d5517712cef42e6f0c843b24e04457dd957ea966b4e29b87b49c6d47099e6",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d1c229749f44c75f315f": {
+      "id": "opp_d1c229749f44c75f315f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/chatgpt-for-teens",
+      "canonicalUrl": "https://openai.com/index/chatgpt-for-teens",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "summaryEvidence": [
+        "https://openai.com/index/chatgpt-for-teens"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ca8e9e9e6fc8c00695df91fc167c3ad65d73bcb0b7c92b8a782abb67c18cc303",
+      "dedupeKey": "brief:opp_d1c229749f44c75f315f:sha256:ca8e9e9e6fc8c00695df91fc167c3ad65d73bcb0b7c92b8a782abb67c18cc303",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eb9f8bf6d53d651969ee": {
+      "id": "opp_eb9f8bf6d53d651969ee",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/nvidia/chatgpt-work",
+      "canonicalUrl": "https://openai.com/index/nvidia/chatgpt-work",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "summaryEvidence": [
+        "https://openai.com/index/nvidia/chatgpt-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
+      "dedupeKey": "brief:opp_eb9f8bf6d53d651969ee:sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c1a02d71e9304b4a687c": {
+      "id": "opp_c1a02d71e9304b4a687c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/asana",
+      "canonicalUrl": "https://openai.com/index/asana",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "summaryEvidence": [
+        "https://openai.com/index/asana"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a6f23eb291162648a349cca3a3bb047fd15f71d476343b252f7d1220ff8c8d38",
+      "dedupeKey": "brief:opp_c1a02d71e9304b4a687c:sha256:a6f23eb291162648a349cca3a3bb047fd15f71d476343b252f7d1220ff8c8d38",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_53bf34fee38df9cb347c": {
+      "id": "opp_53bf34fee38df9cb347c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:lF8_DX2NxjI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lF8_DX2NxjI",
+      "title": "[한글자막] AI로 혼자서도 압도적인 실력을 쌓는 독학 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T22:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "하버드, MIT 등 세계 최고 대학의 무료 강의 중 88%는 중도 포기됩니다. 하지만 오늘날의 AI를 제대로 활용하면 나만을 위한 '상자 속의 개인 대학'을 만들어 어떤 분야든 압도적인 실력을 쌓는 독학 전문가로 거듭날 수 있습니다. 📌 주요 내용: 1. 조언자(Advisor): 5단계 결정을 통해 나만의 맞춤형 6주 커리큘럼 설계하기 2. 사서(Librarian): NotebookLM과 딥리서치로 불필요한 노이즈를 거르고 핵심 자료를 팟캐스트로 학습하기 3. 튜터(Tutor): 음성 모드를 활",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lF8_DX2NxjI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T22:00:02.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f6c0fd921896016260065daa0a1853321050d887f59213b45fc8d22653895f83",
+      "dedupeKey": "brief:opp_53bf34fee38df9cb347c:sha256:f6c0fd921896016260065daa0a1853321050d887f59213b45fc8d22653895f83",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef74b4a2e48acefde912": {
+      "id": "opp_ef74b4a2e48acefde912",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:mXarWKKozmo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mXarWKKozmo",
+      "title": "[한글자막] 이번 주 GPT Astra 출시? Claude Opus 6도 곧 공개될까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T12:00:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI 직원들의 연이은 힌트로 이번 주 출시가 유력해진 신규 모델 'GPT Astra'와 곧 공개될 것으로 전해진 'Claude Opus 6' 소식을 전해드립니다. 여기에 프론티어 랩 모델 수준에 도달한 Qwen 3.8, DeepSeek V4 Pro 등 로컬 오픈소스 AI 모델들의 최신 성능 지표까지 한눈에 확인해 보세요. 📌 주요 내용: - OpenAI 및 Codex 팀의 티저 게시물과 GPT Astra(MU4) 출시 전망 - Codex에서 GPT-5.6의 100만 토큰 컨텍스트 창 활성",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mXarWKKozmo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T22:00:02.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ac45ae45e0677db9b9a5ec045824e22722e802eec38262b856f7c580ca8591c1",
+      "dedupeKey": "brief:opp_ef74b4a2e48acefde912:sha256:ac45ae45e0677db9b9a5ec045824e22722e802eec38262b856f7c580ca8591c1",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4a9f97fb837a67f2bed3": {
+      "id": "opp_4a9f97fb837a67f2bed3",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:eF20iepBQCU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eF20iepBQCU",
+      "title": "Every Claude Code Concept Explained In 21 Minutes",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T23:57:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Lets breakdown the Claude Code concepts that actually matter if you",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=eF20iepBQCU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-18T23:57:03.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:24532c2292611015a2403c6ebd71931581026f98a1defba9a06ce7c8e6e93bf9",
+      "dedupeKey": "brief:opp_4a9f97fb837a67f2bed3:sha256:24532c2292611015a2403c6ebd71931581026f98a1defba9a06ce7c8e6e93bf9",
+      "firstSeenAt": "2026-08-19T00:05:51.313Z",
+      "lastSeenAt": "2026-08-19T00:05:51.313Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -26628,6 +27223,42 @@
       "opportunityId": "opp_45e7eef49b7886805045",
       "sentAt": "2026-08-18T09:29:38.972Z",
       "messageId": "1539204622915338303"
+    },
+    "brief:opp_474e7f7b596b10886440:sha256:a32d5517712cef42e6f0c843b24e04457dd957ea966b4e29b87b49c6d47099e6": {
+      "status": "SENT",
+      "opportunityId": "opp_474e7f7b596b10886440",
+      "sentAt": "2026-08-19T00:05:51.313Z",
+      "messageId": "1539425127685554268"
+    },
+    "brief:opp_d1c229749f44c75f315f:sha256:ca8e9e9e6fc8c00695df91fc167c3ad65d73bcb0b7c92b8a782abb67c18cc303": {
+      "status": "SENT",
+      "opportunityId": "opp_d1c229749f44c75f315f",
+      "sentAt": "2026-08-19T00:05:51.313Z",
+      "messageId": "1539425127685554268"
+    },
+    "brief:opp_7ba8bc8b3ce51d72af68:sha256:0cc44069321ed31fa9507f77978205bb436f1f4db030e7db0ea2e74440894c6d": {
+      "status": "SENT",
+      "opportunityId": "opp_7ba8bc8b3ce51d72af68",
+      "sentAt": "2026-08-19T00:05:51.313Z",
+      "messageId": "1539425127685554268"
+    },
+    "brief:opp_3af56d985039894b6fdb:sha256:12d10020152bd267892abac60f76e0a7ebde051aaa85b3af59e3ebabb8ffec6d": {
+      "status": "SENT",
+      "opportunityId": "opp_3af56d985039894b6fdb",
+      "sentAt": "2026-08-19T00:05:51.313Z",
+      "messageId": "1539425127685554268"
+    },
+    "brief:opp_ef74b4a2e48acefde912:sha256:ac45ae45e0677db9b9a5ec045824e22722e802eec38262b856f7c580ca8591c1": {
+      "status": "SENT",
+      "opportunityId": "opp_ef74b4a2e48acefde912",
+      "sentAt": "2026-08-19T00:05:51.313Z",
+      "messageId": "1539425127685554268"
+    },
+    "brief:opp_4a9f97fb837a67f2bed3:sha256:24532c2292611015a2403c6ebd71931581026f98a1defba9a06ce7c8e6e93bf9": {
+      "status": "SENT",
+      "opportunityId": "opp_4a9f97fb837a67f2bed3",
+      "sentAt": "2026-08-19T00:05:51.313Z",
+      "messageId": "1539425127685554268"
     }
   },
   "pending": {},
