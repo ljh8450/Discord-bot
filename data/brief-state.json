@@ -22609,13 +22609,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 15,
-        "contentScore": 11,
+        "communityRank": 19,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -22623,8 +22623,8 @@
       },
       "contentHash": "sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
       "dedupeKey": "brief:opp_62cbbb9c5ddb37de160e:sha256:67be4cc96b03f1ff22b6b6fb65f94ae07d55c8804441cc894f235f698cda69b4",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -22657,8 +22657,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 17,
-        "communityRank": 13,
+        "communityPoints": 18,
+        "communityRank": 16,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -22672,8 +22672,8 @@
       },
       "contentHash": "sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
       "dedupeKey": "brief:opp_dd889d9dec2547a33ee4:sha256:9d0edeb0454904ff3c2036a7173030c2fbd47a9a08b90d7b0601abecbb3f50b2",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -24062,26 +24062,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 2,
-        "contentScore": 12,
+        "communityPoints": 14,
+        "communityRank": 3,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:a2346c60160f4fba013250aca5866c8360f8a60735081ccc3108d3d2c3c60f5b",
       "dedupeKey": "brief:opp_bfaa5a607ac534593514:sha256:a2346c60160f4fba013250aca5866c8360f8a60735081ccc3108d3d2c3c60f5b",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24174,11 +24174,11 @@
       },
       "contentHash": "sha256:bf08e0962cc7ec43182167c46e99717e4ed605276cb5297b0b2c7ee665e411f2",
       "dedupeKey": "brief:opp_9f3081e9614121a3aef1:sha256:bf08e0962cc7ec43182167c46e99717e4ed605276cb5297b0b2c7ee665e411f2",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24222,8 +24222,8 @@
       },
       "contentHash": "sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565",
       "dedupeKey": "brief:opp_a607820945ebf7f4a110:sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -24366,8 +24366,8 @@
       },
       "contentHash": "sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
       "dedupeKey": "brief:opp_eb9f8bf6d53d651969ee:sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -24414,11 +24414,11 @@
       },
       "contentHash": "sha256:a6f23eb291162648a349cca3a3bb047fd15f71d476343b252f7d1220ff8c8d38",
       "dedupeKey": "brief:opp_c1a02d71e9304b4a687c:sha256:a6f23eb291162648a349cca3a3bb047fd15f71d476343b252f7d1220ff8c8d38",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24467,11 +24467,11 @@
       },
       "contentHash": "sha256:f6c0fd921896016260065daa0a1853321050d887f59213b45fc8d22653895f83",
       "dedupeKey": "brief:opp_53bf34fee38df9cb347c:sha256:f6c0fd921896016260065daa0a1853321050d887f59213b45fc8d22653895f83",
-      "firstSeenAt": "2026-08-19T00:05:51.313Z",
-      "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24576,6 +24576,55 @@
       "dedupeKey": "brief:opp_4a9f97fb837a67f2bed3:sha256:24532c2292611015a2403c6ebd71931581026f98a1defba9a06ce7c8e6e93bf9",
       "firstSeenAt": "2026-08-19T00:05:51.313Z",
       "lastSeenAt": "2026-08-19T00:05:51.313Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0dc38aa11ab437874528": {
+      "id": "opp_0dc38aa11ab437874528",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32589",
+      "canonicalUrl": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "title": "DuckDB v2.0 “Cyanoptera” 미리보기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-18T02:34:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "v1.5 이후 10,000개 이상의 커밋을 반영한 DuckDB v2.0 “Cyanoptera” 는 인프로세스 분석 DB를 네트워크 서버와 장기 실행 서비스로 확장함 안정화...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32589"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 20,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9c90c439e09f8b14bf4243946d5195dfb03575bd3bb2adabd2f9e9da5908f13f",
+      "dedupeKey": "brief:opp_0dc38aa11ab437874528:sha256:9c90c439e09f8b14bf4243946d5195dfb03575bd3bb2adabd2f9e9da5908f13f",
+      "firstSeenAt": "2026-08-19T01:18:18.887Z",
+      "lastSeenAt": "2026-08-19T01:18:18.887Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -27259,6 +27308,36 @@
       "opportunityId": "opp_4a9f97fb837a67f2bed3",
       "sentAt": "2026-08-19T00:05:51.313Z",
       "messageId": "1539425127685554268"
+    },
+    "brief:opp_c1a02d71e9304b4a687c:sha256:a6f23eb291162648a349cca3a3bb047fd15f71d476343b252f7d1220ff8c8d38": {
+      "status": "SENT",
+      "opportunityId": "opp_c1a02d71e9304b4a687c",
+      "sentAt": "2026-08-19T01:18:18.887Z",
+      "messageId": "1539443362963263562"
+    },
+    "brief:opp_9f3081e9614121a3aef1:sha256:bf08e0962cc7ec43182167c46e99717e4ed605276cb5297b0b2c7ee665e411f2": {
+      "status": "SENT",
+      "opportunityId": "opp_9f3081e9614121a3aef1",
+      "sentAt": "2026-08-19T01:18:18.887Z",
+      "messageId": "1539443362963263562"
+    },
+    "brief:opp_bfaa5a607ac534593514:sha256:a2346c60160f4fba013250aca5866c8360f8a60735081ccc3108d3d2c3c60f5b": {
+      "status": "SENT",
+      "opportunityId": "opp_bfaa5a607ac534593514",
+      "sentAt": "2026-08-19T01:18:18.887Z",
+      "messageId": "1539443362963263562"
+    },
+    "brief:opp_53bf34fee38df9cb347c:sha256:f6c0fd921896016260065daa0a1853321050d887f59213b45fc8d22653895f83": {
+      "status": "SENT",
+      "opportunityId": "opp_53bf34fee38df9cb347c",
+      "sentAt": "2026-08-19T01:18:18.887Z",
+      "messageId": "1539443362963263562"
+    },
+    "brief:opp_0dc38aa11ab437874528:sha256:9c90c439e09f8b14bf4243946d5195dfb03575bd3bb2adabd2f9e9da5908f13f": {
+      "status": "SENT",
+      "opportunityId": "opp_0dc38aa11ab437874528",
+      "sentAt": "2026-08-19T01:18:18.887Z",
+      "messageId": "1539443362963263562"
     }
   },
   "pending": {},
