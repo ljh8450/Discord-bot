@@ -24222,11 +24222,11 @@
       },
       "contentHash": "sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565",
       "dedupeKey": "brief:opp_a607820945ebf7f4a110:sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565",
-      "firstSeenAt": "2026-08-19T01:18:18.887Z",
-      "lastSeenAt": "2026-08-19T01:18:18.887Z",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -24366,8 +24366,8 @@
       },
       "contentHash": "sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
       "dedupeKey": "brief:opp_eb9f8bf6d53d651969ee:sha256:29e4a56f18089fbc6f6f3576b26e7e33ba2aac51072d0323a408ab98ef6bc5f7",
-      "firstSeenAt": "2026-08-19T01:18:18.887Z",
-      "lastSeenAt": "2026-08-19T01:18:18.887Z",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -24625,6 +24625,360 @@
       "dedupeKey": "brief:opp_0dc38aa11ab437874528:sha256:9c90c439e09f8b14bf4243946d5195dfb03575bd3bb2adabd2f9e9da5908f13f",
       "firstSeenAt": "2026-08-19T01:18:18.887Z",
       "lastSeenAt": "2026-08-19T01:18:18.887Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bcb3cb8b6f6da804c9ad": {
+      "id": "opp_bcb3cb8b6f6da804c9ad",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32630",
+      "canonicalUrl": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+      "title": "2026년에 매일 어떤 소프트웨어를 사용하시나요?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:11:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Lobsters에서 개발자들이 실제로 매일 사용하는 소프트웨어를 공유한 스레드로, 6년 전 비슷한 글 이후 사람들의 일상 소프트웨어 구성이 어떻게 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32630"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 19,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:5300d17c42ffdf4922aabc5dba1f3d6f6f32f804f6a7d6e9061332d0bfa78d53",
+      "dedupeKey": "brief:opp_bcb3cb8b6f6da804c9ad:sha256:5300d17c42ffdf4922aabc5dba1f3d6f6f32f804f6a7d6e9061332d0bfa78d53",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e430cdeff2335d206e7c": {
+      "id": "opp_e430cdeff2335d206e7c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32647",
+      "canonicalUrl": "https://news.hada.io/article/github-is-not-just-git",
+      "title": "GitHub이 또 멈췄다 - 우리는 무엇을 GitHub에 맡기고 있나",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T16:44:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "8월 17일 GitHub.com에 다시 장애가 발생함 웹과 API 트래픽의 약 20%, 아카이브와 Raw 콘텐츠 다운로드의 약 50%에서 오류가 발생했고 Pull Reque...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32647"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1fc8002511e2b8d5e205df52980a3895b7059b96f95ebaeef9acd77239206b11",
+      "dedupeKey": "brief:opp_e430cdeff2335d206e7c:sha256:1fc8002511e2b8d5e205df52980a3895b7059b96f95ebaeef9acd77239206b11",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c55b750275f66ac2365b": {
+      "id": "opp_c55b750275f66ac2365b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32633",
+      "canonicalUrl": "https://github.com/VisiGrid/VisiGrid",
+      "title": "VisiGrid - 코드 에디터처럼 설계된 로컬 네이티브 스프레드시트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Excel 같은 기존 스프레드시트보다 코드 에디터의 사용 방식을 가져온 오픈소스 스프레드시트로, 메뉴보다 키보드/Command Palette 중심으로 설계 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32633"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b8e502e499a321e15c0ccdc7e41f39c6b5491fb2b6b1ac131ec073054a28e00e",
+      "dedupeKey": "brief:opp_c55b750275f66ac2365b:sha256:b8e502e499a321e15c0ccdc7e41f39c6b5491fb2b6b1ac131ec073054a28e00e",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9c9fa08815aa066dae93": {
+      "id": "opp_9c9fa08815aa066dae93",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "canonicalUrl": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "ChatGPT Ads expands across Europe",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 18 Aug 2026 22:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "summaryEvidence": [
+        "https://openai.com/index/chatgpt-ads-expands-across-europe"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cda65e4c45c15eab9c39f3fa92ea90d4cbea159911e1c8400447dac138cc6188",
+      "dedupeKey": "brief:opp_9c9fa08815aa066dae93:sha256:cda65e4c45c15eab9c39f3fa92ea90d4cbea159911e1c8400447dac138cc6188",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be5519e57754ba6802b3": {
+      "id": "opp_be5519e57754ba6802b3",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ggOlrPsT5_c",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ggOlrPsT5_c",
+      "title": "[한글자막] 평생 터미널만 쓰던 개발자가 결국 터미널을 버린 진짜 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T03:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "13살 때부터 터미널을 주력으로 쓰던 개발자가 왜 터미널을 완전히 떠나 GUI로 넘어가게 되었는지, AI 멀티 에이전트 시대의 개발 환경 변화와 생산성 혁신 이유를 설명합니다. 주요 내용: - 멀티 에이전트 병렬 작업 시 터미널(tmux 등)이 주는 인지 부하와 한계 - 스크린샷 이미지 전송, 세션 관리, 불안정한 SSH 원격 제어의 실전 문제점 - 오픈소스 멀티 에이전트 GUI 도구(T3 Code 등)를 직접 구축하며 얻은 인사이트 - 터미널에서 그래픽 인터페이스로 전환한 뒤 하루 20개 PR을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ggOlrPsT5_c"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T03:00:37.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:57f022d1a3d64cd5a291d2d1f78a651345718c5ed334a34226e0b58749bd78cb",
+      "dedupeKey": "brief:opp_be5519e57754ba6802b3:sha256:57f022d1a3d64cd5a291d2d1f78a651345718c5ed334a34226e0b58749bd78cb",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a2b9e980cf7b3be8c50c": {
+      "id": "opp_a2b9e980cf7b3be8c50c",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:6H7ZJ2Zb0t8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6H7ZJ2Zb0t8",
+      "title": "나는 5개 중 몇 개나 하고 있을까?",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:00:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#클로드코드 #바이브코딩 #앤트로픽 가이드 하나 붙잡고 세팅 다 바꿨는데, 두 달 뒤에 또 바뀌어 있는 거요. 버클리에서 30년 넘게 컴퓨터 과학을 가르친 강사가 앤트로픽 클로드 인증 시험을 뜯어보고, 정답 대신 안 되는 방법 다섯 가지를 짚어낸 발표를 살펴봤습니다. 다섯 가지 안티패턴 중 나는 몇 개나 하고 있는지, 하나씩 대조해봤습니다. 🍿 타임스탬프 0:00 가이드가 또 바뀌었다 0:36 30년 강사가 시험지를 뜯어본 이유 1:47 루프는 새 물건이 아니에요 3:38 안티패턴 1. 답을 그",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6H7ZJ2Zb0t8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T09:00:14.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:34885e65e871996abf495be3636f54fab30b677874094b3016cd6d7db79838b4",
+      "dedupeKey": "brief:opp_a2b9e980cf7b3be8c50c:sha256:34885e65e871996abf495be3636f54fab30b677874094b3016cd6d7db79838b4",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_946fcb7db5267f35c478": {
+      "id": "opp_946fcb7db5267f35c478",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:O_aeS_oxZjM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=O_aeS_oxZjM",
+      "title": "답답해서 폰에 리눅스 설치함",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T03:00:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "강의 https://codingapple.com/ 개별강의 10% 할인쿠폰 templeos2018 (자주 바뀜 최신영상 참고) 사용한자료 https://www.amazon.com/Pentium-Dual-core-T4200-Mobile-Processor/dp/B004LNB330 https://www.pngwing.com/en/free-png-kryqo https://forum.endeavouros.com/t/eos-i3wm-edition-is-awesome/35863 https://www.andro",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=O_aeS_oxZjM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T03:00:31.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:899bd6111803788ea371ed9fa12c5d3f7da07f70aa5b688c35096fa3606c7086",
+      "dedupeKey": "brief:opp_946fcb7db5267f35c478:sha256:899bd6111803788ea371ed9fa12c5d3f7da07f70aa5b688c35096fa3606c7086",
+      "firstSeenAt": "2026-08-19T09:05:30.433Z",
+      "lastSeenAt": "2026-08-19T09:05:30.433Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -27338,6 +27692,42 @@
       "opportunityId": "opp_0dc38aa11ab437874528",
       "sentAt": "2026-08-19T01:18:18.887Z",
       "messageId": "1539443362963263562"
+    },
+    "brief:opp_9c9fa08815aa066dae93:sha256:cda65e4c45c15eab9c39f3fa92ea90d4cbea159911e1c8400447dac138cc6188": {
+      "status": "SENT",
+      "opportunityId": "opp_9c9fa08815aa066dae93",
+      "sentAt": "2026-08-19T09:05:30.433Z",
+      "messageId": "1539560934916231242"
+    },
+    "brief:opp_e430cdeff2335d206e7c:sha256:1fc8002511e2b8d5e205df52980a3895b7059b96f95ebaeef9acd77239206b11": {
+      "status": "SENT",
+      "opportunityId": "opp_e430cdeff2335d206e7c",
+      "sentAt": "2026-08-19T09:05:30.433Z",
+      "messageId": "1539560934916231242"
+    },
+    "brief:opp_a607820945ebf7f4a110:sha256:4eb59a919b0154ccee79e73a63fd3481ea86e5f3cddf6b610af8d68fddb40565": {
+      "status": "SENT",
+      "opportunityId": "opp_a607820945ebf7f4a110",
+      "sentAt": "2026-08-19T09:05:30.433Z",
+      "messageId": "1539560934916231242"
+    },
+    "brief:opp_a2b9e980cf7b3be8c50c:sha256:34885e65e871996abf495be3636f54fab30b677874094b3016cd6d7db79838b4": {
+      "status": "SENT",
+      "opportunityId": "opp_a2b9e980cf7b3be8c50c",
+      "sentAt": "2026-08-19T09:05:30.433Z",
+      "messageId": "1539560934916231242"
+    },
+    "brief:opp_be5519e57754ba6802b3:sha256:57f022d1a3d64cd5a291d2d1f78a651345718c5ed334a34226e0b58749bd78cb": {
+      "status": "SENT",
+      "opportunityId": "opp_be5519e57754ba6802b3",
+      "sentAt": "2026-08-19T09:05:30.433Z",
+      "messageId": "1539560934916231242"
+    },
+    "brief:opp_946fcb7db5267f35c478:sha256:899bd6111803788ea371ed9fa12c5d3f7da07f70aa5b688c35096fa3606c7086": {
+      "status": "SENT",
+      "opportunityId": "opp_946fcb7db5267f35c478",
+      "sentAt": "2026-08-19T09:05:30.433Z",
+      "messageId": "1539560934916231242"
     }
   },
   "pending": {},
