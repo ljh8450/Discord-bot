@@ -25167,7 +25167,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 6,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -25181,11 +25181,11 @@
       },
       "contentHash": "sha256:5bcbf304a55a3b0ed64fc75a412052aae455fdc872e1fc7d8d9d62763d7cfa37",
       "dedupeKey": "brief:opp_4f17e9bb88046a37fae0:sha256:5bcbf304a55a3b0ed64fc75a412052aae455fdc872e1fc7d8d9d62763d7cfa37",
-      "firstSeenAt": "2026-08-20T00:05:20.480Z",
-      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "firstSeenAt": "2026-08-20T01:17:59.461Z",
+      "lastSeenAt": "2026-08-20T01:17:59.461Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -25265,13 +25265,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 8,
-        "contentScore": 11,
+        "communityRank": 10,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -25279,8 +25279,8 @@
       },
       "contentHash": "sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
       "dedupeKey": "brief:opp_fdf5b3e90356776b4975:sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
-      "firstSeenAt": "2026-08-20T00:05:20.480Z",
-      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "firstSeenAt": "2026-08-20T01:17:59.461Z",
+      "lastSeenAt": "2026-08-20T01:17:59.461Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -25531,6 +25531,207 @@
       "dedupeKey": "brief:opp_b1d6bd67f2377e226ea1:sha256:6e24922e0e336b8d6cdf2738c67c89dbc7ee167de9a01be6e6eeafe99f1fceda",
       "firstSeenAt": "2026-08-20T00:05:20.480Z",
       "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c20a0ec8c91aa375e408": {
+      "id": "opp_c20a0ec8c91aa375e408",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32662",
+      "canonicalUrl": "https://www.gwagjiug.com/blog/%EB%A9%B4%EC%82%AC%EB%AC%B4%EC%86%8C%EC%99%80-%EB%AA%A9%EC%9A%95%ED%83%95",
+      "title": "AI 시대, 개발자는 면사무소가 아니라 목욕탕을 만들어야 한다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T21:49:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "다큐멘터리 〈말하는 건축가〉에서 건축가 정기용은 면사무소를 설계하기 전 주민들에게 무엇이 필요한지 묻는다. 주민들은 새 면사무소를 짓지 말...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32662"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:242e8e9ef8a539863fdc5e8050986d191fb18ddf5668a6f59efd8c442bfe46f1",
+      "dedupeKey": "brief:opp_c20a0ec8c91aa375e408:sha256:242e8e9ef8a539863fdc5e8050986d191fb18ddf5668a6f59efd8c442bfe46f1",
+      "firstSeenAt": "2026-08-20T01:17:59.461Z",
+      "lastSeenAt": "2026-08-20T01:17:59.461Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9cfe2e68186e081a434d": {
+      "id": "opp_9cfe2e68186e081a434d",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ba7c3701ddb24b66b3331d38102a631a0abf0d36",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/automate-scte35-ad-insertion-in-live-streaming",
+      "title": "AI 기반 SCTE-35 자동 삽입으로 라이브 스트리밍 광고 운영 자동화하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 20 Aug 2026 01:02:46 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "AWS Elemental MediaLive의 썸네일 API와 Amazon Rekognition Custom Labels, AWS Step Functions를 결합하여 라이브 방송 화면을 AI가 실시간으로 인식하고, 하프타임 등 브레이크 진입 시 송출되는 필러(Filler) 영상을 감지하여 SCTE-35 광고 신호를 자동으로 삽입하는 아키텍처를 소개합니다. 소개 라이브 스트리밍과 광고 삽입 운영의 과제 라이브 스트리밍(특히 스포츠 중계)에서 SCTE-35 광고 삽입 신호는 수익화를 위한 매우 중요한",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/automate-scte35-ad-insertion-in-live-streaming/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f8951573845a67911aad9022bbeecb5b1fbc6696909846f4ee855c8e84f1b1d0",
+      "dedupeKey": "brief:opp_9cfe2e68186e081a434d:sha256:f8951573845a67911aad9022bbeecb5b1fbc6696909846f4ee855c8e84f1b1d0",
+      "firstSeenAt": "2026-08-20T01:17:59.461Z",
+      "lastSeenAt": "2026-08-20T01:17:59.461Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef208887294db23da81a": {
+      "id": "opp_ef208887294db23da81a",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/ads_dashboard_fe",
+      "canonicalUrl": "https://toss.tech/article/ads_dashboard_fe",
+      "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 20 Aug 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "서버가 하던 필터링·정렬·검색·페이지네이션을 브라우저로 옮겼더니, 속도뿐 아니라 손대지 못하던 문제 네 개가 같이 풀렸습니다.",
+      "summaryEvidence": [
+        "https://toss.tech/article/ads_dashboard_fe"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:22adf4daef91280c720e55988951a2398fa447cd9c2184453ca35c936b91403b",
+      "dedupeKey": "brief:opp_ef208887294db23da81a:sha256:22adf4daef91280c720e55988951a2398fa447cd9c2184453ca35c936b91403b",
+      "firstSeenAt": "2026-08-20T01:17:59.461Z",
+      "lastSeenAt": "2026-08-20T01:17:59.461Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fc050fab9d2058b1f4ef": {
+      "id": "opp_fc050fab9d2058b1f4ef",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:f51ICIoHcjY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=f51ICIoHcjY",
+      "title": "Why DeepSeek Harness Just Became The Fastest Growing Github Repo EVER",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T00:22:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io The brand new deepseek harness is a step forward in harness design,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=f51ICIoHcjY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-20T00:22:36.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c4cfd7b3e7a41b23e5faf70e7e0543224de51e6a89dca2eadfcef8502f98b3f1",
+      "dedupeKey": "brief:opp_fc050fab9d2058b1f4ef:sha256:c4cfd7b3e7a41b23e5faf70e7e0543224de51e6a89dca2eadfcef8502f98b3f1",
+      "firstSeenAt": "2026-08-20T01:17:59.461Z",
+      "lastSeenAt": "2026-08-20T01:17:59.461Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -28346,6 +28547,36 @@
       "opportunityId": "opp_b1d6bd67f2377e226ea1",
       "sentAt": "2026-08-20T00:05:20.480Z",
       "messageId": "1539787386404343840"
+    },
+    "brief:opp_9cfe2e68186e081a434d:sha256:f8951573845a67911aad9022bbeecb5b1fbc6696909846f4ee855c8e84f1b1d0": {
+      "status": "SENT",
+      "opportunityId": "opp_9cfe2e68186e081a434d",
+      "sentAt": "2026-08-20T01:17:59.461Z",
+      "messageId": "1539805670008692854"
+    },
+    "brief:opp_ef208887294db23da81a:sha256:22adf4daef91280c720e55988951a2398fa447cd9c2184453ca35c936b91403b": {
+      "status": "SENT",
+      "opportunityId": "opp_ef208887294db23da81a",
+      "sentAt": "2026-08-20T01:17:59.461Z",
+      "messageId": "1539805670008692854"
+    },
+    "brief:opp_fc050fab9d2058b1f4ef:sha256:c4cfd7b3e7a41b23e5faf70e7e0543224de51e6a89dca2eadfcef8502f98b3f1": {
+      "status": "SENT",
+      "opportunityId": "opp_fc050fab9d2058b1f4ef",
+      "sentAt": "2026-08-20T01:17:59.461Z",
+      "messageId": "1539805670008692854"
+    },
+    "brief:opp_c20a0ec8c91aa375e408:sha256:242e8e9ef8a539863fdc5e8050986d191fb18ddf5668a6f59efd8c442bfe46f1": {
+      "status": "SENT",
+      "opportunityId": "opp_c20a0ec8c91aa375e408",
+      "sentAt": "2026-08-20T01:17:59.461Z",
+      "messageId": "1539805670008692854"
+    },
+    "brief:opp_4f17e9bb88046a37fae0:sha256:5bcbf304a55a3b0ed64fc75a412052aae455fdc872e1fc7d8d9d62763d7cfa37": {
+      "status": "SENT",
+      "opportunityId": "opp_4f17e9bb88046a37fae0",
+      "sentAt": "2026-08-20T01:17:59.461Z",
+      "messageId": "1539805670008692854"
     }
   },
   "pending": {},
