@@ -25265,7 +25265,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 16,
+        "communityRank": 18,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -25279,8 +25279,8 @@
       },
       "contentHash": "sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
       "dedupeKey": "brief:opp_fdf5b3e90356776b4975:sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
-      "firstSeenAt": "2026-08-20T09:05:40.246Z",
-      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "firstSeenAt": "2026-08-20T09:30:58.012Z",
+      "lastSeenAt": "2026-08-20T09:30:58.012Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -25863,7 +25863,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 4,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -25877,11 +25877,11 @@
       },
       "contentHash": "sha256:6d896089a47860987a0d3e5d0daeec3aad8d8973fb959ffdb7e2580ee782c520",
       "dedupeKey": "brief:opp_4acc72b12afcce0dbf44:sha256:6d896089a47860987a0d3e5d0daeec3aad8d8973fb959ffdb7e2580ee782c520",
-      "firstSeenAt": "2026-08-20T09:05:40.246Z",
-      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "firstSeenAt": "2026-08-20T09:30:58.012Z",
+      "lastSeenAt": "2026-08-20T09:30:58.012Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -25912,7 +25912,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 6,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -25926,11 +25926,11 @@
       },
       "contentHash": "sha256:c31874659d3c7c9ea01cfe1ba6c2b9bcb54c566480bba9104c30aa8c019463b1",
       "dedupeKey": "brief:opp_c909157baf179d4727a4:sha256:c31874659d3c7c9ea01cfe1ba6c2b9bcb54c566480bba9104c30aa8c019463b1",
-      "firstSeenAt": "2026-08-20T09:05:40.246Z",
-      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "firstSeenAt": "2026-08-20T09:30:58.012Z",
+      "lastSeenAt": "2026-08-20T09:30:58.012Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -26133,6 +26133,112 @@
       "dedupeKey": "brief:opp_f07e6486d434c25de5e1:sha256:449512f6ac94517e472b0f059ca2d880847cb3b7ad2c30372b865d6a43c40335",
       "firstSeenAt": "2026-08-20T09:05:40.246Z",
       "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8d3ac076149f7a12bb1b": {
+      "id": "opp_8d3ac076149f7a12bb1b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:w0e6vBjYq3U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w0e6vBjYq3U",
+      "title": "[한영자막] AI 에이전트에게 DB 쓰기 권한을 주면 생기는 일과 Deno의 보안 해결책 (Ryan Dahl)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T09:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Node.js와 Deno의 창시자 라이언 달(Ryan Dahl)이 AI 에이전트에게 프로덕션 시스템 권한을 안전하게 부여하는 보안 아키텍처와 오픈소스 'Claw Patrol'을 공개합니다. 장애 대응을 위해 에이전트에게 DB 쓰기 권한을 주었을 때 발생하는 보안 위험, 프롬프트 인젝션 위협, 그리고 모델의 정렬에만 의존하지 않고 네트워크 와이어 레벨에서 에이전트를 통제하는 핵심 원리를 확인해 보세요. 📌 주요 내용: • Deno Deploy 장애 대응에 AI 에이전트를 도입하며 겪은 실전 보안",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=w0e6vBjYq3U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-20T09:00:25.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:75b1ad2779e9c1294643b09b46d003aaa205afb5503c7cef628f1a8ad2733146",
+      "dedupeKey": "brief:opp_8d3ac076149f7a12bb1b:sha256:75b1ad2779e9c1294643b09b46d003aaa205afb5503c7cef628f1a8ad2733146",
+      "firstSeenAt": "2026-08-20T09:30:58.012Z",
+      "lastSeenAt": "2026-08-20T09:30:58.012Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_295c6bf803b25eb5e8b6": {
+      "id": "opp_295c6bf803b25eb5e8b6",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:iXt4pp8BI8A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iXt4pp8BI8A",
+      "title": "삼일PwC는 Codex를 어떻게 활용할까? | OpenAI × AX 인재전쟁",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T09:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"내 마음속 최고의 SOTA 모델은 GPT가 아닌가.\" PPT와 보고서를 만들던 컨설턴트가 이제는 AI 에이전트를 직접 만들어 딜리버리합니다. 삼일PwC는 ChatGPT Work와 Codex를 컨설팅과 개발 현장에서 어떻게 활용하고 있을까요? 삼일PwC AX Node 조홍래 파트너(공인회계사)에게 직접 들어봤습니다. 조코딩AX파트너스가 주최하고 OpenAI가 후원한 'AX 인재전쟁'에서 진행한 인터뷰입니다. 행사명: AX 인재전쟁 주최: 조코딩AX파트너스 후원: OpenAI 출연: 조홍래 (삼일P",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=iXt4pp8BI8A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-20T09:00:36.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f8288d31549e97feaa6d3c07b23f49cb5ba8457ebb5289bf8b66c04deae71d0c",
+      "dedupeKey": "brief:opp_295c6bf803b25eb5e8b6:sha256:f8288d31549e97feaa6d3c07b23f49cb5ba8457ebb5289bf8b66c04deae71d0c",
+      "firstSeenAt": "2026-08-20T09:30:58.012Z",
+      "lastSeenAt": "2026-08-20T09:30:58.012Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -29014,6 +29120,30 @@
       "opportunityId": "opp_f07e6486d434c25de5e1",
       "sentAt": "2026-08-20T09:05:40.246Z",
       "messageId": "1539923364922007553"
+    },
+    "brief:opp_295c6bf803b25eb5e8b6:sha256:f8288d31549e97feaa6d3c07b23f49cb5ba8457ebb5289bf8b66c04deae71d0c": {
+      "status": "SENT",
+      "opportunityId": "opp_295c6bf803b25eb5e8b6",
+      "sentAt": "2026-08-20T09:30:58.012Z",
+      "messageId": "1539929730868842507"
+    },
+    "brief:opp_8d3ac076149f7a12bb1b:sha256:75b1ad2779e9c1294643b09b46d003aaa205afb5503c7cef628f1a8ad2733146": {
+      "status": "SENT",
+      "opportunityId": "opp_8d3ac076149f7a12bb1b",
+      "sentAt": "2026-08-20T09:30:58.012Z",
+      "messageId": "1539929730868842507"
+    },
+    "brief:opp_c909157baf179d4727a4:sha256:c31874659d3c7c9ea01cfe1ba6c2b9bcb54c566480bba9104c30aa8c019463b1": {
+      "status": "SENT",
+      "opportunityId": "opp_c909157baf179d4727a4",
+      "sentAt": "2026-08-20T09:30:58.012Z",
+      "messageId": "1539929730868842507"
+    },
+    "brief:opp_4acc72b12afcce0dbf44:sha256:6d896089a47860987a0d3e5d0daeec3aad8d8973fb959ffdb7e2580ee782c520": {
+      "status": "SENT",
+      "opportunityId": "opp_4acc72b12afcce0dbf44",
+      "sentAt": "2026-08-20T09:30:58.012Z",
+      "messageId": "1539929730868842507"
     }
   },
   "pending": {},
