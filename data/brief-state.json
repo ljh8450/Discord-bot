@@ -25090,6 +25090,452 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_5f63c9b72c44bf8bea26": {
+      "id": "opp_5f63c9b72c44bf8bea26",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32632",
+      "canonicalUrl": "https://news.hada.io/topic?id=32632",
+      "title": "Show GN: NULNUL — Codex와 Claude Code가 스스로 개선되는 하네스를 만들었습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:24:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "NULNUL은 Codex와 Claude Code를 위한 skills-only 개발 하네스입니다. AI 코딩 에이전트를 오래 사용하다 보니 한 가지 문제가 계속 생겼습니다. ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32632"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:edb9943504b3f9c06ee8271a1d85f18e9f389f67bc64857a53917fdcc44490ea",
+      "dedupeKey": "brief:opp_5f63c9b72c44bf8bea26:sha256:edb9943504b3f9c06ee8271a1d85f18e9f389f67bc64857a53917fdcc44490ea",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4f17e9bb88046a37fae0": {
+      "id": "opp_4f17e9bb88046a37fae0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32640",
+      "canonicalUrl": "https://news.hada.io/topic?id=32640",
+      "title": "Show GN: 툴앤조이 - 가입 없이 브라우저에서 바로 쓰는 한국어 도구 194개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T13:10:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "연봉을 넣으면 실수령액이 나오고, 생년월일을 넣으면 만 나이가 나옵니다. 그런 도구 194개를 16개 분류로 모았습니다. 로그인도 설치도 없습니다...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32640"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5bcbf304a55a3b0ed64fc75a412052aae455fdc872e1fc7d8d9d62763d7cfa37",
+      "dedupeKey": "brief:opp_4f17e9bb88046a37fae0:sha256:5bcbf304a55a3b0ed64fc75a412052aae455fdc872e1fc7d8d9d62763d7cfa37",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_49aeef494ee23d02c307": {
+      "id": "opp_49aeef494ee23d02c307",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32636",
+      "canonicalUrl": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "title": "Qwen3.8-27B-Uncensored-MLX - 애플 실리콘용 검열 제거 버전",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T11:24:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "orcarouter가 Qwen3.8-27B의 거부(refusal) 방향을 제거한 abliterated 버전으로, 원본 모델이 거절하던 유해·불법·공격적 요청에도 응답하도록 안...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32636"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f45630acc77e88e79883a2653cffbd3927333702ae7d4267795322da877ba43c",
+      "dedupeKey": "brief:opp_49aeef494ee23d02c307:sha256:f45630acc77e88e79883a2653cffbd3927333702ae7d4267795322da877ba43c",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fdf5b3e90356776b4975": {
+      "id": "opp_fdf5b3e90356776b4975",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32628",
+      "canonicalUrl": "https://acadia.engineering/blog/rethinking-database-programming",
+      "title": "Acadia - 데이터베이스 프로그래밍을 다시 생각하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T09:05:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Elm 창시자 Evan Czaplicki가 수년간 개발한 Acadia의 Public Alpha를 공개함. 목표는 Elm 같은 언어의 정밀한 타입, 친절한 오류 메시지, 컴파일...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32628"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
+      "dedupeKey": "brief:opp_fdf5b3e90356776b4975:sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c4c00fa086700e82343f": {
+      "id": "opp_c4c00fa086700e82343f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "canonicalUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "summaryEvidence": [
+        "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:62275cf768a73ad347acc22081bedc5fb5783cd97365d27a60a93892c577b82c",
+      "dedupeKey": "brief:opp_c4c00fa086700e82343f:sha256:62275cf768a73ad347acc22081bedc5fb5783cd97365d27a60a93892c577b82c",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0575160f3b819162e99d": {
+      "id": "opp_0575160f3b819162e99d",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/replit",
+      "canonicalUrl": "https://openai.com/index/replit",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "summaryEvidence": [
+        "https://openai.com/index/replit"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e66440dea345bf14515c4679f209119dbedddd530043635d55ec8e4440b71c71",
+      "dedupeKey": "brief:opp_0575160f3b819162e99d:sha256:e66440dea345bf14515c4679f209119dbedddd530043635d55ec8e4440b71c71",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3f8da0b4b2b7f7461c5b": {
+      "id": "opp_3f8da0b4b2b7f7461c5b",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98348",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 19 Aug 2026 17:50:23 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bfce8248cbee51fee7584142ce9124a32e78d5fc3a625d47449c4d5b8b58f4e6",
+      "dedupeKey": "brief:opp_3f8da0b4b2b7f7461c5b:sha256:bfce8248cbee51fee7584142ce9124a32e78d5fc3a625d47449c4d5b8b58f4e6",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0a2a04423dfdef68f351": {
+      "id": "opp_0a2a04423dfdef68f351",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:-QwaaSwQIhE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-QwaaSwQIhE",
+      "title": "[한영자막] 앤스로픽이 직접 밝힌 Claude Code 토큰 낭비 막는 6가지 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T22:00:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "앤스로픽(Anthropic)이 공식 발표한 Claude Code 세션 효율 극대화 가이드의 핵심 6가지 팁을 알기 쉽게 정리해 드립니다. 컨텍스트 윈도우 관리부터 프롬프트 캐싱 무효화 방지, 서브 에이전트 활용법까지 토큰 소모를 줄이고 개발 비용을 획기적으로 아끼는 실전 노하우를 확인해 보세요. 📌 핵심 내용: • 컨텍스트 관리: 작업 전환 시 /clear 활용 및 1시간 이내 /compact 주기적 실행 • 컨텍스트 다이어트: /context 및 /memory 명령어로 불필요한 전역 MCP/스",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-QwaaSwQIhE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T22:00:32.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c3540fad52f21733c7dbe8c791665386cdf136da468d53c35298375c9ae81a28",
+      "dedupeKey": "brief:opp_0a2a04423dfdef68f351:sha256:c3540fad52f21733c7dbe8c791665386cdf136da468d53c35298375c9ae81a28",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b1d6bd67f2377e226ea1": {
+      "id": "opp_b1d6bd67f2377e226ea1",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:VrWp8XTpQak",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VrWp8XTpQak",
+      "title": "[한영자막] 일론 머스크의 SpaceX 전사 미팅 발표를 시청해보세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T13:00:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "일론 머스크가 SpaceX 전사 올핸즈 미팅에서 밝힌 SpaceX의 역사와 AI, 스타링크, 스타십 기반의 미래 비전 핵심 발표 내용입니다. 🚀 주요 내용 요약: • AI의 가치: 4~5년 내 AI가 SpaceX 전체 기업가치의 99%를 차지할 것으로 전망 • 스타링크의 급성장: 모바일 2,200만 명, 고대역폭 1,300만 가입자 확보 및 현금흐름 창출 • 스타십 혁신: 완전 재사용 가능한 우주 운송 체계로 인류를 다행성 생명체로 확장 • 달과 화성 기지: 지구를 넘어 태양계 전역으로 나아가는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=VrWp8XTpQak"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-19T22:00:32.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e24922e0e336b8d6cdf2738c67c89dbc7ee167de9a01be6e6eeafe99f1fceda",
+      "dedupeKey": "brief:opp_b1d6bd67f2377e226ea1:sha256:6e24922e0e336b8d6cdf2738c67c89dbc7ee167de9a01be6e6eeafe99f1fceda",
+      "firstSeenAt": "2026-08-20T00:05:20.480Z",
+      "lastSeenAt": "2026-08-20T00:05:20.480Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -27864,6 +28310,42 @@
       "opportunityId": "opp_c55b750275f66ac2365b",
       "sentAt": "2026-08-19T09:30:37.905Z",
       "messageId": "1539567257485578304"
+    },
+    "brief:opp_c4c00fa086700e82343f:sha256:62275cf768a73ad347acc22081bedc5fb5783cd97365d27a60a93892c577b82c": {
+      "status": "SENT",
+      "opportunityId": "opp_c4c00fa086700e82343f",
+      "sentAt": "2026-08-20T00:05:20.480Z",
+      "messageId": "1539787386404343840"
+    },
+    "brief:opp_3f8da0b4b2b7f7461c5b:sha256:bfce8248cbee51fee7584142ce9124a32e78d5fc3a625d47449c4d5b8b58f4e6": {
+      "status": "SENT",
+      "opportunityId": "opp_3f8da0b4b2b7f7461c5b",
+      "sentAt": "2026-08-20T00:05:20.480Z",
+      "messageId": "1539787386404343840"
+    },
+    "brief:opp_0575160f3b819162e99d:sha256:e66440dea345bf14515c4679f209119dbedddd530043635d55ec8e4440b71c71": {
+      "status": "SENT",
+      "opportunityId": "opp_0575160f3b819162e99d",
+      "sentAt": "2026-08-20T00:05:20.480Z",
+      "messageId": "1539787386404343840"
+    },
+    "brief:opp_0a2a04423dfdef68f351:sha256:c3540fad52f21733c7dbe8c791665386cdf136da468d53c35298375c9ae81a28": {
+      "status": "SENT",
+      "opportunityId": "opp_0a2a04423dfdef68f351",
+      "sentAt": "2026-08-20T00:05:20.480Z",
+      "messageId": "1539787386404343840"
+    },
+    "brief:opp_49aeef494ee23d02c307:sha256:f45630acc77e88e79883a2653cffbd3927333702ae7d4267795322da877ba43c": {
+      "status": "SENT",
+      "opportunityId": "opp_49aeef494ee23d02c307",
+      "sentAt": "2026-08-20T00:05:20.480Z",
+      "messageId": "1539787386404343840"
+    },
+    "brief:opp_b1d6bd67f2377e226ea1:sha256:6e24922e0e336b8d6cdf2738c67c89dbc7ee167de9a01be6e6eeafe99f1fceda": {
+      "status": "SENT",
+      "opportunityId": "opp_b1d6bd67f2377e226ea1",
+      "sentAt": "2026-08-20T00:05:20.480Z",
+      "messageId": "1539787386404343840"
     }
   },
   "pending": {},
