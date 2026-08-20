@@ -25264,8 +25264,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 6,
+        "communityRank": 16,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -25279,8 +25279,8 @@
       },
       "contentHash": "sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
       "dedupeKey": "brief:opp_fdf5b3e90356776b4975:sha256:c7446088ee88ed2f475fd6c5fcdaf64b7a2851b3852a44724af30e784104fecf",
-      "firstSeenAt": "2026-08-20T01:17:59.461Z",
-      "lastSeenAt": "2026-08-20T01:17:59.461Z",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -25732,6 +25732,407 @@
       "dedupeKey": "brief:opp_fc050fab9d2058b1f4ef:sha256:c4cfd7b3e7a41b23e5faf70e7e0543224de51e6a89dca2eadfcef8502f98b3f1",
       "firstSeenAt": "2026-08-20T01:17:59.461Z",
       "lastSeenAt": "2026-08-20T01:17:59.461Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1e14f0ef4cf8eb5c8cfb": {
+      "id": "opp_1e14f0ef4cf8eb5c8cfb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32691",
+      "canonicalUrl": "https://news.hada.io/article/code-outruns-review",
+      "title": "코드는 다 읽을 수 없고, 코드 리뷰가 맡아온 책임은 사라지지 않는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T14:26:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 소프트웨어 개발에 만든 가장 큰 변화는 코드를 더 잘 쓰게 된 것만이 아님 사람이 코드를 읽고 검토할 수 있는 속도보다, 코드가 만들어지는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32691"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:66201b4f2c900db321e3445d290aab81c887fac151cc15ac9a9adacede7e52c7",
+      "dedupeKey": "brief:opp_1e14f0ef4cf8eb5c8cfb:sha256:66201b4f2c900db321e3445d290aab81c887fac151cc15ac9a9adacede7e52c7",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09b2f6b7874acc4c6355": {
+      "id": "opp_09b2f6b7874acc4c6355",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32686",
+      "canonicalUrl": "https://fx.sh/",
+      "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T09:45:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Vercel Labs가 만든 작고 빠른 오픈소스 코딩 에이전트 하네스/CLI로, Zig로 작성됐으며 바이너리 크기는 약 7.8MiB Claude Code 같은 무거운 터미...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32686"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c0a7f2a74cfee63217f1988b423d96f016f53aa856529247729aebd3c34ec877",
+      "dedupeKey": "brief:opp_09b2f6b7874acc4c6355:sha256:c0a7f2a74cfee63217f1988b423d96f016f53aa856529247729aebd3c34ec877",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4acc72b12afcce0dbf44": {
+      "id": "opp_4acc72b12afcce0dbf44",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32682",
+      "canonicalUrl": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation",
+      "title": "Mastodon 5.0: 기반 다지기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T09:13:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Mastodon 5.0은 게시물 작성, 메시지, 탐색 구조를 재설계해 공개 범위와 상호작용 대상을 더 명확히 이해할 수 있도록 기반 UI를 정비함 10년간 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32682"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6d896089a47860987a0d3e5d0daeec3aad8d8973fb959ffdb7e2580ee782c520",
+      "dedupeKey": "brief:opp_4acc72b12afcce0dbf44:sha256:6d896089a47860987a0d3e5d0daeec3aad8d8973fb959ffdb7e2580ee782c520",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c909157baf179d4727a4": {
+      "id": "opp_c909157baf179d4727a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32685",
+      "canonicalUrl": "https://github.com/opensandbox-group/OpenSandbox",
+      "title": "OpenSandbox - AI 에이전트를 위한 샌드박스 런타임",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI앱을 위한 안전하고 빠르며 확장 가능한 범용 샌드박스 플랫폼 코딩 에이전트/GUI 에이전트/에이전트 평가 등을 위한 도커/쿠버네티스 런타임을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32685"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c31874659d3c7c9ea01cfe1ba6c2b9bcb54c566480bba9104c30aa8c019463b1",
+      "dedupeKey": "brief:opp_c909157baf179d4727a4:sha256:c31874659d3c7c9ea01cfe1ba6c2b9bcb54c566480bba9104c30aa8c019463b1",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5c558421f7240eecc49b": {
+      "id": "opp_5c558421f7240eecc49b",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/a50dd4b7b44c",
+      "canonicalUrl": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A0%B8-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-a50dd4b7b44c?source=rss----4505f82a2dbd---4",
+      "title": "당근의 인증은 어떻게 달라져 왔을까요?",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 20 Aug 2026 02:25:36 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요? Identity Service Team의 Software Engineer 키(Key)입니다. Identity Service Team은 당근의 회원과 인증을 책임지고 있는 팀이에요. 당근뿐 아니라 대부분의 서비스에서, 인증은 서비스를 시작하려면 꼭 한 번은 거쳐야 하는 단계예요. SMS 인증부터 본인인증까지 방식은 다양하지만, 모든 인증이 하려는 일은 결국 하나예요. ‘이 계정의 주인이 나’라는 걸 확인하는 것. 그럼 당근은 ‘이 계정의 주인이 나’라는 걸 어떻게 확인해 왔을까요? 서비",
+      "summaryEvidence": [
+        "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A0%B8-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-a50dd4b7b44c?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1a9146e0161e1302a353d89183cfdbcdb412fb3af96f7c5bbc5d03ecbcf57a0f",
+      "dedupeKey": "brief:opp_5c558421f7240eecc49b:sha256:1a9146e0161e1302a353d89183cfdbcdb412fb3af96f7c5bbc5d03ecbcf57a0f",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_167ec97f898c36336e32": {
+      "id": "opp_167ec97f898c36336e32",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=26876",
+      "canonicalUrl": "https://techblog.woowahan.com/26876",
+      "title": "옆 팀은 AI를 어떻게 쓸까? 첫 사내 기술 콘퍼런스 우아한테크데이",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T06:00:40.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며 우아한형제들에는 개발자가 더 잘 일할 수 있는 환경을 만드는 테크DevEX팀이 있습니다. 이제는 개발자를 넘어 모든 직군으로 넓혀가고 있어요. 일하는 방식과 성장을 돕는 일을 기획하고, 직접 운영합니다. 2026년 7월 9일, 판교에 자리한 스타트업 육성 공간 배민스타트업스퀘어에서 첫 번째 우아한테크데이를 열었습니다. 사내 개발 직군 구성원들이 서로의 기술과 경험을 나누는, 우리끼리의 기술 콘퍼런스예요. 6개 트랙에서 동시에 진행해 […] The post 옆 팀은 AI를 어떻게 쓸까? 첫",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/26876/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e32520167544c08e00da55be3f3478ee20761edfe11e621b68c56e6f70e1e3a",
+      "dedupeKey": "brief:opp_167ec97f898c36336e32:sha256:6e32520167544c08e00da55be3f3478ee20761edfe11e621b68c56e6f70e1e3a",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e2f4b60784e4953630f": {
+      "id": "opp_7e2f4b60784e4953630f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:wxlvbMHNZsQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wxlvbMHNZsQ",
+      "title": "[한영자막] 누구나 쓰는 에이전틱 영상 편집기는 어떻게 만들까? (Reelful 창업자 Ekaterina Deyneka)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T03:00:01+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "촬영한 영상을 그대로 방치하지 않고 손쉽게 완성본으로 만들어주는 '에이전틱 영상 편집기' Reelful의 시스템 구조와 핵심 기술을 소개합니다. 📌 주요 내용: • '생성'보다 어려운 '편집': 불완전한 원본 촬영물에서 최적의 순간을 선별하고 완성도 높게 조합하는 에이전트 설계 • 에이전트 인프라 구조: 샌드박스 원격 환경에서 스킬(컷 규칙, 폰트 매칭, B-roll)을 활용해 편집 수행 • Remotion 기반 코드 컴포지션: 에이전트가 가장 잘하는 코드(React) 작성을 활용한 영상 렌더링",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=wxlvbMHNZsQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-20T03:00:01.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9869533ec55f4ce425c1dd4be0159aea9ad022abe531ea983c359a87135d679a",
+      "dedupeKey": "brief:opp_7e2f4b60784e4953630f:sha256:9869533ec55f4ce425c1dd4be0159aea9ad022abe531ea983c359a87135d679a",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f07e6486d434c25de5e1": {
+      "id": "opp_f07e6486d434c25de5e1",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:w9_GrgPh76k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w9_GrgPh76k",
+      "title": "GPU는 왜 AI 시대의 왕이 됐을까? 소프트웨어는 칩을 타고 흐른다 | CPU·GPU·CUDA 권력 이동 [패치의 칩문학 시즌1 - 1편]",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T02:58:55+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "〈패치의 칩문학〉 시즌 1, AI 시대 반도체 지도 1편입니다. AI 시대의 계산 권력은 왜 CPU에서 GPU로 이동했을까요? 이번 영상은 반도체가 실제로 계산한다는 것이 무엇인지, 소프트웨어가 하드웨어 위에서 어떻게 실행되는지부터 출발합니다. 트랜지스터와 논리회로, ISA, x86과 ARM, CPU의 캐시와 분기예측을 지나 GPU의 병렬 구조로 이어집니다. AI가 요구하는 대규모 행렬 연산이 왜 GPU와 잘 맞았는지 살펴봅니다. 엔비디아 GPU가 강해진 이유도 단순히 칩 성능이 아니라 CUDA",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=w9_GrgPh76k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-20T02:58:55.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:449512f6ac94517e472b0f059ca2d880847cb3b7ad2c30372b865d6a43c40335",
+      "dedupeKey": "brief:opp_f07e6486d434c25de5e1:sha256:449512f6ac94517e472b0f059ca2d880847cb3b7ad2c30372b865d6a43c40335",
+      "firstSeenAt": "2026-08-20T09:05:40.246Z",
+      "lastSeenAt": "2026-08-20T09:05:40.246Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -28577,6 +28978,42 @@
       "opportunityId": "opp_4f17e9bb88046a37fae0",
       "sentAt": "2026-08-20T01:17:59.461Z",
       "messageId": "1539805670008692854"
+    },
+    "brief:opp_167ec97f898c36336e32:sha256:6e32520167544c08e00da55be3f3478ee20761edfe11e621b68c56e6f70e1e3a": {
+      "status": "SENT",
+      "opportunityId": "opp_167ec97f898c36336e32",
+      "sentAt": "2026-08-20T09:05:40.246Z",
+      "messageId": "1539923364922007553"
+    },
+    "brief:opp_5c558421f7240eecc49b:sha256:1a9146e0161e1302a353d89183cfdbcdb412fb3af96f7c5bbc5d03ecbcf57a0f": {
+      "status": "SENT",
+      "opportunityId": "opp_5c558421f7240eecc49b",
+      "sentAt": "2026-08-20T09:05:40.246Z",
+      "messageId": "1539923364922007553"
+    },
+    "brief:opp_1e14f0ef4cf8eb5c8cfb:sha256:66201b4f2c900db321e3445d290aab81c887fac151cc15ac9a9adacede7e52c7": {
+      "status": "SENT",
+      "opportunityId": "opp_1e14f0ef4cf8eb5c8cfb",
+      "sentAt": "2026-08-20T09:05:40.246Z",
+      "messageId": "1539923364922007553"
+    },
+    "brief:opp_09b2f6b7874acc4c6355:sha256:c0a7f2a74cfee63217f1988b423d96f016f53aa856529247729aebd3c34ec877": {
+      "status": "SENT",
+      "opportunityId": "opp_09b2f6b7874acc4c6355",
+      "sentAt": "2026-08-20T09:05:40.246Z",
+      "messageId": "1539923364922007553"
+    },
+    "brief:opp_7e2f4b60784e4953630f:sha256:9869533ec55f4ce425c1dd4be0159aea9ad022abe531ea983c359a87135d679a": {
+      "status": "SENT",
+      "opportunityId": "opp_7e2f4b60784e4953630f",
+      "sentAt": "2026-08-20T09:05:40.246Z",
+      "messageId": "1539923364922007553"
+    },
+    "brief:opp_f07e6486d434c25de5e1:sha256:449512f6ac94517e472b0f059ca2d880847cb3b7ad2c30372b865d6a43c40335": {
+      "status": "SENT",
+      "opportunityId": "opp_f07e6486d434c25de5e1",
+      "sentAt": "2026-08-20T09:05:40.246Z",
+      "messageId": "1539923364922007553"
     }
   },
   "pending": {},
