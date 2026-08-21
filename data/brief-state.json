@@ -26686,6 +26686,301 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_8535473e08b1cd18beb8": {
+      "id": "opp_8535473e08b1cd18beb8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32714",
+      "canonicalUrl": "https://github.com/usekaneo/kaneo",
+      "title": "Kaneo - 필요한 것만 담은 오픈소스 프로젝트 관리 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T09:30:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기능만 많은 복잡한 프로젝트 관리 플랫폼에 대한 대안으로 Jira/Linear 의 대체제를 목표로 함 도구가 아닌 작업에 집중하는 깔끔한 인터페이스, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32714"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a5efdc87ed72720e4cc04675fca0f8b5ebda6f6af8bbd8a8a4257e063e8953a1",
+      "dedupeKey": "brief:opp_8535473e08b1cd18beb8:sha256:a5efdc87ed72720e4cc04675fca0f8b5ebda6f6af8bbd8a8a4257e063e8953a1",
+      "firstSeenAt": "2026-08-21T09:05:29.166Z",
+      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e6c9cb4bef406eeac00c": {
+      "id": "opp_e6c9cb4bef406eeac00c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32699",
+      "canonicalUrl": "https://dontpastetheai.com/",
+      "title": "AI 답변을 그대로 붙여넣지 마세요",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T20:33:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "질문한 사람은 일반적인 챗봇 답변이 아니라 상대방의 맥락·취향·판단이 담긴 답을 원함 상대방도 같은 AI 도구를 쓸 수 있어, 편집하지 않은 Chat...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32699"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:7f535596f7ce1a3f8b6b2f250c898825e5405fb579cf2382861ba6ea0d837602",
+      "dedupeKey": "brief:opp_e6c9cb4bef406eeac00c:sha256:7f535596f7ce1a3f8b6b2f250c898825e5405fb579cf2382861ba6ea0d837602",
+      "firstSeenAt": "2026-08-21T09:05:29.166Z",
+      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8503743854cf567a1f75": {
+      "id": "opp_8503743854cf567a1f75",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32706",
+      "canonicalUrl": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "title": "AliExpress가 WebAudio 핑거프린팅으로 Bluetooth 멀티포인트 전환을 방해함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T00:32:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "알리익스프레스 홈페이지를 열면 소리도 나지 않는데 PC의 Bluetooth 오디오 경로가 계속 활성화돼, 멀티포인트 헤드폰이 휴대폰으로 다시 전환되...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32706"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d4626819075ba02d0b7683cde6f2b55830328281b1bcdcf996c437a053bd7e6e",
+      "dedupeKey": "brief:opp_8503743854cf567a1f75:sha256:d4626819075ba02d0b7683cde6f2b55830328281b1bcdcf996c437a053bd7e6e",
+      "firstSeenAt": "2026-08-21T09:05:29.166Z",
+      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e412f08943ce1abda3b5": {
+      "id": "opp_e412f08943ce1abda3b5",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "0a778d2324fb39dc0b2dbe2959ba86de2be71146",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/gsneotek-bedrock-budget-with-athena-and-iam",
+      "title": "GS Neotek의 Claude Code on Amazon Bedrock 도입기: LLM Gateway 없는 경량화 사용자 통제 방안",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 21 Aug 2026 06:46:57 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "GS Neotek은 AWS 프리미어 파트너로, 다수의 고객에게 클라우드 마이그레이션·현대화·운영 서비스를 제공하며 생성형 AI 도입을 지원하고 있습니다. 이 글은 여러 조직에 코딩 어시스턴트 도입을 지원하며 축적한 경험을 바탕으로, LLM Gateway 없이도 사용자별 비용을 통제하는 경량 아키텍처를 정리한 것입니다. Amazon Bedrock을 통해 Claude Code와 같은 코딩 어시스턴트를 사용하기 위한 기본 조건은 의외로 단순합니다. 모델 호출을 위한 인증 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/gsneotek-bedrock-budget-with-athena-and-iam/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35c1020d63c91c7a60dd758d4e20f954e28dc00a08d1673eb4993e6a55ecfd5f",
+      "dedupeKey": "brief:opp_e412f08943ce1abda3b5:sha256:35c1020d63c91c7a60dd758d4e20f954e28dc00a08d1673eb4993e6a55ecfd5f",
+      "firstSeenAt": "2026-08-21T09:05:29.166Z",
+      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0f2e89ad1ac485768ff6": {
+      "id": "opp_0f2e89ad1ac485768ff6",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "9f3b077dac21bd1600855f39e2693dd7b655ca5b",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/welcom-to-the-kiro-crew",
+      "title": "우리팀에 새롭게 입사한 Kiro Crew를 활용하여 업무 생산성 올리기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 21 Aug 2026 06:36:27 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "개발을 하다 보면 저장소에는 다양한 업무가 빠르게 쌓입니다. 리뷰어를 기다리는 PR(Pull Request, 이하 PR), 원인 파악이 필요한 버그 이슈 같은 것들이죠. 중요한 일인 줄 알면서도 개발 흐름을 끊어야 해 자꾸 뒤로 미룹니다. 하루 이틀 지나면 어느새 아무도 손대지 않는 목록이 됩니다. 이런 일을 도맡아 줄 팀원이 하나 있다면 어떨까요? 이 글은 AI 에이전트를 단순한 도구가 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/welcom-to-the-kiro-crew/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7530c233005d2140512dc9eb8c87116dcf2eb178b939eadec5687513fa1031ee",
+      "dedupeKey": "brief:opp_0f2e89ad1ac485768ff6:sha256:7530c233005d2140512dc9eb8c87116dcf2eb178b939eadec5687513fa1031ee",
+      "firstSeenAt": "2026-08-21T09:05:29.166Z",
+      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_06103e7ffbc59cb5f41c": {
+      "id": "opp_06103e7ffbc59cb5f41c",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
+      "title": "일본어 상품 검색 정확도 높이기: Elasticsearch + Kuromoji에서 OpenSearch + Sudachi로",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 21 Aug 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며안녕하세요. LINE Plus에서 통합 커머스 개발을 맡고 있는 김진성입니다.2025년 초, 통합 커머스 프로젝트가 시작되었습니다.서비스가 안정되어 가던 중, 일본 담당자로...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d741cb4994695b0e7c9dec6bde271387c42b57cfdda2a2934d1859027a318496",
+      "dedupeKey": "brief:opp_06103e7ffbc59cb5f41c:sha256:d741cb4994695b0e7c9dec6bde271387c42b57cfdda2a2934d1859027a318496",
+      "firstSeenAt": "2026-08-21T09:05:29.166Z",
+      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -29634,6 +29929,36 @@
       "opportunityId": "opp_7a7367d8b68df61c2a2d",
       "sentAt": "2026-08-21T01:21:17.773Z",
       "messageId": "1540168889084805122"
+    },
+    "brief:opp_e412f08943ce1abda3b5:sha256:35c1020d63c91c7a60dd758d4e20f954e28dc00a08d1673eb4993e6a55ecfd5f": {
+      "status": "SENT",
+      "opportunityId": "opp_e412f08943ce1abda3b5",
+      "sentAt": "2026-08-21T09:05:29.166Z",
+      "messageId": "1540285706524430429"
+    },
+    "brief:opp_06103e7ffbc59cb5f41c:sha256:d741cb4994695b0e7c9dec6bde271387c42b57cfdda2a2934d1859027a318496": {
+      "status": "SENT",
+      "opportunityId": "opp_06103e7ffbc59cb5f41c",
+      "sentAt": "2026-08-21T09:05:29.166Z",
+      "messageId": "1540285706524430429"
+    },
+    "brief:opp_0f2e89ad1ac485768ff6:sha256:7530c233005d2140512dc9eb8c87116dcf2eb178b939eadec5687513fa1031ee": {
+      "status": "SENT",
+      "opportunityId": "opp_0f2e89ad1ac485768ff6",
+      "sentAt": "2026-08-21T09:05:29.166Z",
+      "messageId": "1540285706524430429"
+    },
+    "brief:opp_8535473e08b1cd18beb8:sha256:a5efdc87ed72720e4cc04675fca0f8b5ebda6f6af8bbd8a8a4257e063e8953a1": {
+      "status": "SENT",
+      "opportunityId": "opp_8535473e08b1cd18beb8",
+      "sentAt": "2026-08-21T09:05:29.166Z",
+      "messageId": "1540285706524430429"
+    },
+    "brief:opp_e6c9cb4bef406eeac00c:sha256:7f535596f7ce1a3f8b6b2f250c898825e5405fb579cf2382861ba6ea0d837602": {
+      "status": "SENT",
+      "opportunityId": "opp_e6c9cb4bef406eeac00c",
+      "sentAt": "2026-08-21T09:05:29.166Z",
+      "messageId": "1540285706524430429"
     }
   },
   "pending": {},
