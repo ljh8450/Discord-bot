@@ -26812,7 +26812,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -26826,11 +26826,11 @@
       },
       "contentHash": "sha256:d4626819075ba02d0b7683cde6f2b55830328281b1bcdcf996c437a053bd7e6e",
       "dedupeKey": "brief:opp_8503743854cf567a1f75:sha256:d4626819075ba02d0b7683cde6f2b55830328281b1bcdcf996c437a053bd7e6e",
-      "firstSeenAt": "2026-08-21T09:05:29.166Z",
-      "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "firstSeenAt": "2026-08-21T09:33:12.872Z",
+      "lastSeenAt": "2026-08-21T09:33:12.872Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -26976,6 +26976,112 @@
       "dedupeKey": "brief:opp_06103e7ffbc59cb5f41c:sha256:d741cb4994695b0e7c9dec6bde271387c42b57cfdda2a2934d1859027a318496",
       "firstSeenAt": "2026-08-21T09:05:29.166Z",
       "lastSeenAt": "2026-08-21T09:05:29.166Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_237b69d936f49e6ce720": {
+      "id": "opp_237b69d936f49e6ce720",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:IyJNc5vpN1Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IyJNc5vpN1Q",
+      "title": "[한영자막] AI 시대에 소프트웨어 기본기가 중요한 이유를 엉클 밥에게 물었습니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T09:00:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "'클린 코드(Clean Code)'의 저자 로버트 C. 마틴(Uncle Bob)이 AI 에이전트 시대에 소프트웨어 기본기가 왜 여전히 중요한지, 그리고 에이전트를 실전 개발에서 안전하게 활용하는 자동화 검증 파이프라인에 대해 맷 포콕과 심층 라이브 대담을 나눴습니다. 📌 주요 내용: • 에이전트가 남기는 지저분한 코드 문제와 자동화 검사 도구(CRAP, 뮤테이션 테스팅)의 실전 활용법 • 컨텍스트 윈도우의 'Lost in the Middle' 현상과 프롬프트 조향 대신 결정론적 도구를 써야 하는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=IyJNc5vpN1Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-21T09:00:31.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e457662af358692647ca44c6ebb8b05e40c89989b323862f398f07dfcf88c34c",
+      "dedupeKey": "brief:opp_237b69d936f49e6ce720:sha256:e457662af358692647ca44c6ebb8b05e40c89989b323862f398f07dfcf88c34c",
+      "firstSeenAt": "2026-08-21T09:33:12.872Z",
+      "lastSeenAt": "2026-08-21T09:33:12.872Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b1204050e7bbfc1ab32a": {
+      "id": "opp_b1204050e7bbfc1ab32a",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:IoI3LQUctkM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IoI3LQUctkM",
+      "title": "AI 시대, 기업은 어떤 인재를 뽑을까? AX 인재전쟁 본선 스케치 | OpenAI × 조코딩AX파트너스",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T09:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"기존에 있던 토익이나 수능 같은 시험으로는 AI 시대의 인재를 정의할 수 없습니다.\" 예선에서 Codex 플러그인을 만들어 통과한 60명의 참가자가, 배정된 기업의 실제 실무 문제를 3시간 안에 AI로 풀어냅니다. 무신사·카카오페이증권·채널톡·마이리얼트립·메디테라피·삼일PwC 실무진이 직접 출제하고 심사한 'AX 인재전쟁' 본선 현장을 담았습니다. 조코딩AX파트너스가 주최하고 OpenAI가 후원한 AI 시대의 새로운 인재 선발전, AX 인재전쟁입니다. - 행사명: AX 인재전쟁 본선 - 주최:",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=IoI3LQUctkM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-21T09:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:99ededf72a662d14a057f7b3933d8489c1410eaf6d30b7d18f3ff36c1b3759ea",
+      "dedupeKey": "brief:opp_b1204050e7bbfc1ab32a:sha256:99ededf72a662d14a057f7b3933d8489c1410eaf6d30b7d18f3ff36c1b3759ea",
+      "firstSeenAt": "2026-08-21T09:33:12.872Z",
+      "lastSeenAt": "2026-08-21T09:33:12.872Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -29959,6 +30065,24 @@
       "opportunityId": "opp_e6c9cb4bef406eeac00c",
       "sentAt": "2026-08-21T09:05:29.166Z",
       "messageId": "1540285706524430429"
+    },
+    "brief:opp_b1204050e7bbfc1ab32a:sha256:99ededf72a662d14a057f7b3933d8489c1410eaf6d30b7d18f3ff36c1b3759ea": {
+      "status": "SENT",
+      "opportunityId": "opp_b1204050e7bbfc1ab32a",
+      "sentAt": "2026-08-21T09:33:12.872Z",
+      "messageId": "1540292684156248126"
+    },
+    "brief:opp_237b69d936f49e6ce720:sha256:e457662af358692647ca44c6ebb8b05e40c89989b323862f398f07dfcf88c34c": {
+      "status": "SENT",
+      "opportunityId": "opp_237b69d936f49e6ce720",
+      "sentAt": "2026-08-21T09:33:12.872Z",
+      "messageId": "1540292684156248126"
+    },
+    "brief:opp_8503743854cf567a1f75:sha256:d4626819075ba02d0b7683cde6f2b55830328281b1bcdcf996c437a053bd7e6e": {
+      "status": "SENT",
+      "opportunityId": "opp_8503743854cf567a1f75",
+      "sentAt": "2026-08-21T09:33:12.872Z",
+      "messageId": "1540292684156248126"
     }
   },
   "pending": {},
