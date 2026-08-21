@@ -26244,6 +26244,399 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_2f8df897318e72e47c44": {
+      "id": "opp_2f8df897318e72e47c44",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32708",
+      "canonicalUrl": "https://runjs.app/blog/music-theory-for-programmers",
+      "title": "프로그래머를 위한 음악 이론",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T01:13:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "악기를 다루지 못하는 개발자가 \"왜 하필 그 음들인가\"에 대한 설명 없이 암기만 시키는 음악 교육에 답답함을 느껴, Web Audio API와 JavaScript...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32708"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7123105dd29e2076fabfee182df1c46669221dddecfad9d7134b4ea8e3fd45b5",
+      "dedupeKey": "brief:opp_2f8df897318e72e47c44:sha256:7123105dd29e2076fabfee182df1c46669221dddecfad9d7134b4ea8e3fd45b5",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d37782620dfe3830df41": {
+      "id": "opp_d37782620dfe3830df41",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32674",
+      "canonicalUrl": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "title": "OpenRouter가 Stripe에 합류함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T06:34:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 모델 마켓플레이스·게이트웨이 OpenRouter가 Stripe에 합류하지만, 사명·이름·제품·로드맵과 기존 연동 방식은 그대로 유지함 400개 이상의 AI ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32674"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c4e359bec79edd010156707525c9b76efa979c9b757e94b153ebe3c72c9c193b",
+      "dedupeKey": "brief:opp_d37782620dfe3830df41:sha256:c4e359bec79edd010156707525c9b76efa979c9b757e94b153ebe3c72c9c193b",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bce237f9c9ac84e1a7f4": {
+      "id": "opp_bce237f9c9ac84e1a7f4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32661",
+      "canonicalUrl": "https://linear.app/data",
+      "title": "소프트웨어 팀의 AI 사용 패턴",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T21:31:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Linear 유료 고객의 제품 개발 흐름을 분석한 결과, 2026년 상반기 AI 기능 사용률이 모든 직군에서 2배 이상 증가했으며 기업 규모와 관계없이 확...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32661"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:69ade05b59d144989300dc3268f15890dcd574c580d1f860499026b6689584d8",
+      "dedupeKey": "brief:opp_bce237f9c9ac84e1a7f4:sha256:69ade05b59d144989300dc3268f15890dcd574c580d1f860499026b6689584d8",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7a7367d8b68df61c2a2d": {
+      "id": "opp_7a7367d8b68df61c2a2d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32658",
+      "canonicalUrl": "https://github.com/RyanCodrai/turbovec",
+      "title": "Turbovec - Rust로 구현한 벡터 검색용 Google TurboQuant",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-19T21:25:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Turbovec은 Google Research의 TurboQuant를 기반으로 한 Rust 벡터 인덱스로, 1,000만 개 float32 문서가 차지하는 31GB를 4GB로 줄이면서 FAISS...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32658"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 18,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7e06f6a4b536af2733ed70528c89a4b81dc853bc86dedd28e398deea5309e257",
+      "dedupeKey": "brief:opp_7a7367d8b68df61c2a2d:sha256:7e06f6a4b536af2733ed70528c89a4b81dc853bc86dedd28e398deea5309e257",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5e50354e3c8c80580419": {
+      "id": "opp_5e50354e3c8c80580419",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-ai-futures",
+      "canonicalUrl": "https://openai.com/index/introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-ai-futures"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2bfc33a1ea3bc77a139b79e189a615554088c49d825b8bbbbbc1b4083608af2d",
+      "dedupeKey": "brief:opp_5e50354e3c8c80580419:sha256:2bfc33a1ea3bc77a139b79e189a615554088c49d825b8bbbbbc1b4083608af2d",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0ae5fc5362060e1478bf": {
+      "id": "opp_0ae5fc5362060e1478bf",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/stampli",
+      "canonicalUrl": "https://openai.com/index/stampli",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "summaryEvidence": [
+        "https://openai.com/index/stampli"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b2ecb04569b383d196a12904e385d1b3f3510ff1e774191141497e88052a0452",
+      "dedupeKey": "brief:opp_0ae5fc5362060e1478bf:sha256:b2ecb04569b383d196a12904e385d1b3f3510ff1e774191141497e88052a0452",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0a63e08eb07eef2d9b47": {
+      "id": "opp_0a63e08eb07eef2d9b47",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98377",
+      "canonicalUrl": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead",
+      "title": "The August 17 outage, and the work ahead",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 20 Aug 2026 18:36:11 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d19a73097cc4bdae48ef33782957b702d2db228dcddc603fd35a58ce8575abf7",
+      "dedupeKey": "brief:opp_0a63e08eb07eef2d9b47:sha256:d19a73097cc4bdae48ef33782957b702d2db228dcddc603fd35a58ce8575abf7",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2dbba78d6d6f1733058f": {
+      "id": "opp_2dbba78d6d6f1733058f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Ddx8yOzgw88",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ddx8yOzgw88",
+      "title": "[한영자막] 우버가 멀티모달 AI 에이전트를 대규모 실전에 배포하며 깨달은 핵심 평가 전략",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-20T22:30:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "우버(Uber Eats)가 1만 개 도시, 연간 900억 달러 규모의 글로벌 마켓플레이스에서 수백만 개 식당의 음식 사진을 자동으로 개선하는 멀티모달 AI 에이전트를 실전에 배포하며 얻은 핵심 인사이트를 공유합니다. 가장 까다로운 과제는 원본 음식의 충실성을 훼손하지 않으면서 AI 특유의 어색함을 없애고, 리워드 해킹을 방지하는 것이었습니다. 우버의 응용 AI 팀이 정적 모델의 한계를 극복하고 인간 피드백을 기반으로 자가 진화하는 폐루프(Closed-Loop) 평가 시스템을 어떻게 구축했는지 구체",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Ddx8yOzgw88"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-20T22:30:09.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2fe812e5c5f0e047a8058e028e87a1205d0343cb1dda02edc4f5dca7c8c0a46f",
+      "dedupeKey": "brief:opp_2dbba78d6d6f1733058f:sha256:2fe812e5c5f0e047a8058e028e87a1205d0343cb1dda02edc4f5dca7c8c0a46f",
+      "firstSeenAt": "2026-08-21T00:05:54.626Z",
+      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -29144,6 +29537,42 @@
       "opportunityId": "opp_4acc72b12afcce0dbf44",
       "sentAt": "2026-08-20T09:30:58.012Z",
       "messageId": "1539929730868842507"
+    },
+    "brief:opp_0a63e08eb07eef2d9b47:sha256:d19a73097cc4bdae48ef33782957b702d2db228dcddc603fd35a58ce8575abf7": {
+      "status": "SENT",
+      "opportunityId": "opp_0a63e08eb07eef2d9b47",
+      "sentAt": "2026-08-21T00:05:54.626Z",
+      "messageId": "1540149917211697233"
+    },
+    "brief:opp_5e50354e3c8c80580419:sha256:2bfc33a1ea3bc77a139b79e189a615554088c49d825b8bbbbbc1b4083608af2d": {
+      "status": "SENT",
+      "opportunityId": "opp_5e50354e3c8c80580419",
+      "sentAt": "2026-08-21T00:05:54.626Z",
+      "messageId": "1540149917211697233"
+    },
+    "brief:opp_0ae5fc5362060e1478bf:sha256:b2ecb04569b383d196a12904e385d1b3f3510ff1e774191141497e88052a0452": {
+      "status": "SENT",
+      "opportunityId": "opp_0ae5fc5362060e1478bf",
+      "sentAt": "2026-08-21T00:05:54.626Z",
+      "messageId": "1540149917211697233"
+    },
+    "brief:opp_2dbba78d6d6f1733058f:sha256:2fe812e5c5f0e047a8058e028e87a1205d0343cb1dda02edc4f5dca7c8c0a46f": {
+      "status": "SENT",
+      "opportunityId": "opp_2dbba78d6d6f1733058f",
+      "sentAt": "2026-08-21T00:05:54.626Z",
+      "messageId": "1540149917211697233"
+    },
+    "brief:opp_2f8df897318e72e47c44:sha256:7123105dd29e2076fabfee182df1c46669221dddecfad9d7134b4ea8e3fd45b5": {
+      "status": "SENT",
+      "opportunityId": "opp_2f8df897318e72e47c44",
+      "sentAt": "2026-08-21T00:05:54.626Z",
+      "messageId": "1540149917211697233"
+    },
+    "brief:opp_d37782620dfe3830df41:sha256:c4e359bec79edd010156707525c9b76efa979c9b757e94b153ebe3c72c9c193b": {
+      "status": "SENT",
+      "opportunityId": "opp_d37782620dfe3830df41",
+      "sentAt": "2026-08-21T00:05:54.626Z",
+      "messageId": "1540149917211697233"
     }
   },
   "pending": {},
