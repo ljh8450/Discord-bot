@@ -26418,8 +26418,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 18,
+        "communityPoints": 6,
+        "communityRank": 19,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -26433,11 +26433,11 @@
       },
       "contentHash": "sha256:7e06f6a4b536af2733ed70528c89a4b81dc853bc86dedd28e398deea5309e257",
       "dedupeKey": "brief:opp_7a7367d8b68df61c2a2d:sha256:7e06f6a4b536af2733ed70528c89a4b81dc853bc86dedd28e398deea5309e257",
-      "firstSeenAt": "2026-08-21T00:05:54.626Z",
-      "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "firstSeenAt": "2026-08-21T01:21:17.773Z",
+      "lastSeenAt": "2026-08-21T01:21:17.773Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -26632,6 +26632,55 @@
       "dedupeKey": "brief:opp_2dbba78d6d6f1733058f:sha256:2fe812e5c5f0e047a8058e028e87a1205d0343cb1dda02edc4f5dca7c8c0a46f",
       "firstSeenAt": "2026-08-21T00:05:54.626Z",
       "lastSeenAt": "2026-08-21T00:05:54.626Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7fc05ead0d971c062a13": {
+      "id": "opp_7fc05ead0d971c062a13",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/tech_talk_talk_2",
+      "canonicalUrl": "https://toss.tech/article/tech_talk_talk_2",
+      "title": "LLM 서빙, 띄우는 것과 잘 띄우는 것 사이",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 21 Aug 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "비어 있는 캐시, 완벽한 알리바이, 사라진 처리량",
+      "summaryEvidence": [
+        "https://toss.tech/article/tech_talk_talk_2"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d3a8726ab1f93b487d89131baf4c6b1b7056a98a2f1c2f046a31f9b5a66c605f",
+      "dedupeKey": "brief:opp_7fc05ead0d971c062a13:sha256:d3a8726ab1f93b487d89131baf4c6b1b7056a98a2f1c2f046a31f9b5a66c605f",
+      "firstSeenAt": "2026-08-21T01:21:17.773Z",
+      "lastSeenAt": "2026-08-21T01:21:17.773Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -29573,6 +29622,18 @@
       "opportunityId": "opp_d37782620dfe3830df41",
       "sentAt": "2026-08-21T00:05:54.626Z",
       "messageId": "1540149917211697233"
+    },
+    "brief:opp_7fc05ead0d971c062a13:sha256:d3a8726ab1f93b487d89131baf4c6b1b7056a98a2f1c2f046a31f9b5a66c605f": {
+      "status": "SENT",
+      "opportunityId": "opp_7fc05ead0d971c062a13",
+      "sentAt": "2026-08-21T01:21:17.773Z",
+      "messageId": "1540168889084805122"
+    },
+    "brief:opp_7a7367d8b68df61c2a2d:sha256:7e06f6a4b536af2733ed70528c89a4b81dc853bc86dedd28e398deea5309e257": {
+      "status": "SENT",
+      "opportunityId": "opp_7a7367d8b68df61c2a2d",
+      "sentAt": "2026-08-21T01:21:17.773Z",
+      "messageId": "1540168889084805122"
     }
   },
   "pending": {},
