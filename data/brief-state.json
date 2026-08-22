@@ -27087,6 +27087,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_8c244d9a17ac89a5ab45": {
+      "id": "opp_8c244d9a17ac89a5ab45",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32709",
+      "canonicalUrl": "https://simedw.com/2026/08/20/midi-autocomplete",
+      "title": "온디바이스에서 피아노를 자동 완성하는 1억 2,500만 매개변수 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T04:34:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "MIDI 건반으로 연주한 몇 음을 실시간으로 이어가는 RollTab을 14차례 실험 끝에 개발했으며, iPhone 15에서 초당 약 108개 음표를 생성함 음높이·...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32709"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8461851783868fae7492301ae290d379c0fbb4a5669983f621f40b679420680c",
+      "dedupeKey": "brief:opp_8c244d9a17ac89a5ab45:sha256:8461851783868fae7492301ae290d379c0fbb4a5669983f621f40b679420680c",
+      "firstSeenAt": "2026-08-22T00:05:17.261Z",
+      "lastSeenAt": "2026-08-22T00:05:17.261Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0f4ab6e30016416efc43": {
+      "id": "opp_0f4ab6e30016416efc43",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:E3eh0GQLH0Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=E3eh0GQLH0Q",
+      "title": "[한영자막] 에이전트로 Hugging Face 업무를 자동화한 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T23:00:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Hugging Face의 머신러닝 엔지니어 Niels Rogge가 AI 에이전트를 활용해 수천 편의 최신 연구 논문 가중치와 데이터셋을 Hugging Face Hub로 이전하고 문서화하는 전 과정을 자동화한 실전 노하우를 공유합니다. 초기 결정론적 GitHub Actions 워크플로우부터 Claude Agent SDK, GLM 5.2, Bash 도구 기반의 완전 자율 에이전트 루프 구축, 이슈별 샌드박스 병렬 처리까지 에이전트 설계와 실전 배포의 핵심 인사이트를 확인해 보세요. 📌 주요 내용:",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=E3eh0GQLH0Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-21T23:00:29.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fd1552ff65d0e635c11506b85bbf0d791d4d198d3b164e2c7b4b5f94fd0bd04f",
+      "dedupeKey": "brief:opp_0f4ab6e30016416efc43:sha256:fd1552ff65d0e635c11506b85bbf0d791d4d198d3b164e2c7b4b5f94fd0bd04f",
+      "firstSeenAt": "2026-08-22T00:05:17.261Z",
+      "lastSeenAt": "2026-08-22T00:05:17.261Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -30083,6 +30185,18 @@
       "opportunityId": "opp_8503743854cf567a1f75",
       "sentAt": "2026-08-21T09:33:12.872Z",
       "messageId": "1540292684156248126"
+    },
+    "brief:opp_0f4ab6e30016416efc43:sha256:fd1552ff65d0e635c11506b85bbf0d791d4d198d3b164e2c7b4b5f94fd0bd04f": {
+      "status": "SENT",
+      "opportunityId": "opp_0f4ab6e30016416efc43",
+      "sentAt": "2026-08-22T00:05:17.261Z",
+      "messageId": "1540512149221412967"
+    },
+    "brief:opp_8c244d9a17ac89a5ab45:sha256:8461851783868fae7492301ae290d379c0fbb4a5669983f621f40b679420680c": {
+      "status": "SENT",
+      "opportunityId": "opp_8c244d9a17ac89a5ab45",
+      "sentAt": "2026-08-22T00:05:17.261Z",
+      "messageId": "1540512149221412967"
     }
   },
   "pending": {},
