@@ -27340,6 +27340,259 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a59bda304f97c0a75e34": {
+      "id": "opp_a59bda304f97c0a75e34",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32760",
+      "canonicalUrl": "https://cymerys.com/w/im-becoming-ai-blind",
+      "title": "나는 AI가 쓴 글을 자동으로 무시하기 시작했다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T16:32:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "업무 문서에서 저비용 AI 생성 흔적을 감지하는 순간 집중력이 떨어져, 이미 적힌 내용을 발신자에게 다시 묻는 일이 생김 Claude 특유의 문구가 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32760"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:be934a236f85c63c449449444b6d2d68d742bac45575d9184e925a0e4e6af17e",
+      "dedupeKey": "brief:opp_a59bda304f97c0a75e34:sha256:be934a236f85c63c449449444b6d2d68d742bac45575d9184e925a0e4e6af17e",
+      "firstSeenAt": "2026-08-22T09:05:26.782Z",
+      "lastSeenAt": "2026-08-22T09:05:26.782Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4ed73884ccb2fe7b47f8": {
+      "id": "opp_4ed73884ccb2fe7b47f8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32756",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-9KiLFr8_hI",
+      "title": "SSL에 대해 배운 모든 것이 더는 유효하지 않음 [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T10:15:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "장기 인증서와 수동 갱신에 의존하던 운영 방식은 TLS 1.3, 단기 인증서와 ACME 자동화를 중심으로 바뀌었으며 기존 SSL 관행 대부분은 더는 안전...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32756"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c72b87a984dd3abb58a41e6d52f0c2a0ec0c230873c9133f4a86c6cc63157a08",
+      "dedupeKey": "brief:opp_4ed73884ccb2fe7b47f8:sha256:c72b87a984dd3abb58a41e6d52f0c2a0ec0c230873c9133f4a86c6cc63157a08",
+      "firstSeenAt": "2026-08-22T09:05:26.782Z",
+      "lastSeenAt": "2026-08-22T09:05:26.782Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cf20470a14c37b909ac0": {
+      "id": "opp_cf20470a14c37b909ac0",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "1f39da8ee197392d85a76015ac489ffc034136f1",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/claude-code-to-bedrock-agentcore",
+      "title": "Claude Code로 만든 데이터 분석 에이전트, Amazon Bedrock AgentCore로 프로덕션 배포하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Sat, 22 Aug 2026 08:12:31 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "많은 팀이 Claude Code로 자체 에이전트를 만들어 사용하고 있습니다. 예를 들어 데이터 분석 팀에서는 Skill로 리포트 형식을 표준화하고, MCP(Model Context Protocol) 서버로 사내 데이터베이스를 연결하고, 웹 검색으로 시장 동향까지 반영해 매출 리포트 작성을 자동화합니다. 이렇게 만든 에이전트는 개인 도구를 넘어 팀 전체가 활용할 수 있는 자산이 됩니다. 그러나 로컬에서 검증한 에이전트를 조직의 서비스로 확장하는 일은 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/claude-code-to-bedrock-agentcore/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c773029026a1fe6712510e552def6ba973d6426aa0c1572fab8ac5cc00ff5841",
+      "dedupeKey": "brief:opp_cf20470a14c37b909ac0:sha256:c773029026a1fe6712510e552def6ba973d6426aa0c1572fab8ac5cc00ff5841",
+      "firstSeenAt": "2026-08-22T09:05:26.782Z",
+      "lastSeenAt": "2026-08-22T09:05:26.782Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_96935ba6d8d33655ac36": {
+      "id": "opp_96935ba6d8d33655ac36",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Hnm18BesInM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Hnm18BesInM",
+      "title": "[한영자막] GitHub 1위 개발자가 만든 새로운 Claude 스킬이 대단한 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T03:30:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "GitHub 트렌딩 1위 개발자가 공개한 새로운 Claude 스킬 'Unlazy'를 소개합니다. 작업을 맡기면 쉬운 것만 하고 다 했다고 거짓말하는 AI 에이전트의 고질적인 '게으름' 문제를 트리 구조와 엄격한 게이트 검증 시스템으로 완벽히 해결하는 방법과 실전 병렬 처리 팁을 정리했습니다. 📌 주요 내용: • AI 에이전트가 맥락이 쌓일수록 게을러지는 근본 원인 (컨텍스트 오버헤드) • 기존 완료 체크 방식(Ralph 루프, goal 커맨드)의 한계와 허점 • 작업을 트리 형태로 분할하고 서브",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Hnm18BesInM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-22T03:30:29.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b2a96c49f89afd5361e1e2b621f8f6797ed42f6ddfe1494e9c38c3c3bec76bab",
+      "dedupeKey": "brief:opp_96935ba6d8d33655ac36:sha256:b2a96c49f89afd5361e1e2b621f8f6797ed42f6ddfe1494e9c38c3c3bec76bab",
+      "firstSeenAt": "2026-08-22T09:05:26.782Z",
+      "lastSeenAt": "2026-08-22T09:05:26.782Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_91662c0d6fe64562bc9c": {
+      "id": "opp_91662c0d6fe64562bc9c",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:YgDLQKKqFqk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YgDLQKKqFqk",
+      "title": "Claude Code 만든 사람이 시스템 프롬프트 80%를 지웠습니다 — CLAUDE.md도 6개월마다 비우라고 합니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T07:30:54+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code를 만든 사람이, 새 모델이 나오자마자 시스템 프롬프트의 80%를 지웠습니다. 그랬더니 더 잘했습니다. 그리고 여러분의 CLAUDE.md도 6개월마다 비워보라고 말합니다. ▶ 원본 대담 (영어) \"Boris Cherny: We Cut 80% of Claude Code's Prompt\" Boris Cherny (Creator & Head of Claude Code, Anthropic) × Diana Hu (Y Combinator) Y Combinator · Startup Scho",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=YgDLQKKqFqk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-22T07:30:54.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:27b1e96dc878efc549cb376c020b62d6fe153336fbd4dd2de1b8a986cbe5deb6",
+      "dedupeKey": "brief:opp_91662c0d6fe64562bc9c:sha256:27b1e96dc878efc549cb376c020b62d6fe153336fbd4dd2de1b8a986cbe5deb6",
+      "firstSeenAt": "2026-08-22T09:05:26.782Z",
+      "lastSeenAt": "2026-08-22T09:05:26.782Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -30366,6 +30619,36 @@
       "opportunityId": "opp_fe331a198aa125de5242",
       "sentAt": "2026-08-22T01:17:01.372Z",
       "messageId": "1540530202139037707"
+    },
+    "brief:opp_cf20470a14c37b909ac0:sha256:c773029026a1fe6712510e552def6ba973d6426aa0c1572fab8ac5cc00ff5841": {
+      "status": "SENT",
+      "opportunityId": "opp_cf20470a14c37b909ac0",
+      "sentAt": "2026-08-22T09:05:26.782Z",
+      "messageId": "1540648084332224633"
+    },
+    "brief:opp_91662c0d6fe64562bc9c:sha256:27b1e96dc878efc549cb376c020b62d6fe153336fbd4dd2de1b8a986cbe5deb6": {
+      "status": "SENT",
+      "opportunityId": "opp_91662c0d6fe64562bc9c",
+      "sentAt": "2026-08-22T09:05:26.782Z",
+      "messageId": "1540648084332224633"
+    },
+    "brief:opp_96935ba6d8d33655ac36:sha256:b2a96c49f89afd5361e1e2b621f8f6797ed42f6ddfe1494e9c38c3c3bec76bab": {
+      "status": "SENT",
+      "opportunityId": "opp_96935ba6d8d33655ac36",
+      "sentAt": "2026-08-22T09:05:26.782Z",
+      "messageId": "1540648084332224633"
+    },
+    "brief:opp_a59bda304f97c0a75e34:sha256:be934a236f85c63c449449444b6d2d68d742bac45575d9184e925a0e4e6af17e": {
+      "status": "SENT",
+      "opportunityId": "opp_a59bda304f97c0a75e34",
+      "sentAt": "2026-08-22T09:05:26.782Z",
+      "messageId": "1540648084332224633"
+    },
+    "brief:opp_4ed73884ccb2fe7b47f8:sha256:c72b87a984dd3abb58a41e6d52f0c2a0ec0c230873c9133f4a86c6cc63157a08": {
+      "status": "SENT",
+      "opportunityId": "opp_4ed73884ccb2fe7b47f8",
+      "sentAt": "2026-08-22T09:05:26.782Z",
+      "messageId": "1540648084332224633"
     }
   },
   "pending": {},
