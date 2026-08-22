@@ -27189,6 +27189,157 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_38aa069ba9fbddc153d5": {
+      "id": "opp_38aa069ba9fbddc153d5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32722",
+      "canonicalUrl": "https://news.hada.io/article/openrouter-is-not-just-a-proxy",
+      "title": "Stripe의 OpenRouter 인수, 결제 회사가 LLM 라우터를 산 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T16:05:42+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenRouter가 Stripe에 합류한다고 발표함 정확한 거래 가격은 공개되지 않았지만 Stripe의 OpenRouter 인수 합의에서 Bloomberg는 인수 금액을 70...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32722"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6887549de28eba1b879154a8a8dddd64cc97fecc68dd5241c6f1f0bc6c2a12dc",
+      "dedupeKey": "brief:opp_38aa069ba9fbddc153d5:sha256:6887549de28eba1b879154a8a8dddd64cc97fecc68dd5241c6f1f0bc6c2a12dc",
+      "firstSeenAt": "2026-08-22T01:17:01.372Z",
+      "lastSeenAt": "2026-08-22T01:17:01.372Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fe331a198aa125de5242": {
+      "id": "opp_fe331a198aa125de5242",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32718",
+      "canonicalUrl": "https://news.hada.io/topic?id=32718",
+      "title": "Show GN: 여러 SaaS 구독하다가 데이터 연동 가능한 ERP를 제작해 배포했습니다.",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-21T12:04:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전시를 운영하며 문의 관리(Recatch), 근태·휴가(flex), 지출 결제(gowid) 등 여러 SaaS를 함께 사용하고 있었습니다. 하지만 각 툴이 연동되...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32718"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f1886f80234640d50a58d1ad056c3d74821677d7f25c835b7001c4926cd5ded0",
+      "dedupeKey": "brief:opp_fe331a198aa125de5242:sha256:f1886f80234640d50a58d1ad056c3d74821677d7f25c835b7001c4926cd5ded0",
+      "firstSeenAt": "2026-08-22T01:17:01.372Z",
+      "lastSeenAt": "2026-08-22T01:17:01.372Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_99016434be072645995b": {
+      "id": "opp_99016434be072645995b",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:O43By2WAPHU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=O43By2WAPHU",
+      "title": "사람 1,052명을 AI로 복제한 실험 — 83%까지 맞았고, 3가지에서 깨졌습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T01:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"너는 마케팅 담당자야.\" 무심코 써온 역할 프롬프트가, 지금은 1억 달러가 들어간 산업이 됐습니다. 사람 대신 AI에게 설문을 시키는 합성 페르소나입니다. ▶ 원본 발표 (영어) \"Persona Engineering: A Field Guide to AI Synthetic Personas\" — Ishan Anand (Chief AI Officer, InsightSciences.ai) AI Engineer World's Fair 2026 · 21:09 · 2026년 7월 https://www.you",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=O43By2WAPHU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-22T01:00:06.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d0af1ab9c7e316afcc814322ead429e146434db4a962996da88c82e6f84492f7",
+      "dedupeKey": "brief:opp_99016434be072645995b:sha256:d0af1ab9c7e316afcc814322ead429e146434db4a962996da88c82e6f84492f7",
+      "firstSeenAt": "2026-08-22T01:17:01.372Z",
+      "lastSeenAt": "2026-08-22T01:17:01.372Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -30197,6 +30348,24 @@
       "opportunityId": "opp_8c244d9a17ac89a5ab45",
       "sentAt": "2026-08-22T00:05:17.261Z",
       "messageId": "1540512149221412967"
+    },
+    "brief:opp_99016434be072645995b:sha256:d0af1ab9c7e316afcc814322ead429e146434db4a962996da88c82e6f84492f7": {
+      "status": "SENT",
+      "opportunityId": "opp_99016434be072645995b",
+      "sentAt": "2026-08-22T01:17:01.372Z",
+      "messageId": "1540530202139037707"
+    },
+    "brief:opp_38aa069ba9fbddc153d5:sha256:6887549de28eba1b879154a8a8dddd64cc97fecc68dd5241c6f1f0bc6c2a12dc": {
+      "status": "SENT",
+      "opportunityId": "opp_38aa069ba9fbddc153d5",
+      "sentAt": "2026-08-22T01:17:01.372Z",
+      "messageId": "1540530202139037707"
+    },
+    "brief:opp_fe331a198aa125de5242:sha256:f1886f80234640d50a58d1ad056c3d74821677d7f25c835b7001c4926cd5ded0": {
+      "status": "SENT",
+      "opportunityId": "opp_fe331a198aa125de5242",
+      "sentAt": "2026-08-22T01:17:01.372Z",
+      "messageId": "1540530202139037707"
     }
   },
   "pending": {},
