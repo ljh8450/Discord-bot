@@ -27593,6 +27593,59 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_ce7e2627ae12c424aeba": {
+      "id": "opp_ce7e2627ae12c424aeba",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:m8pBazNPvZE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=m8pBazNPvZE",
+      "title": "[한영자막] 컴파운드 엔지니어링의 시대입니다 — Kieran Klaassen, Every/Cora",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T09:00:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코드를 직접 쓰거나 읽는 시간을 줄이면서도 더 나은 제품을 만드는 ‘컴파운드 엔지니어링’의 실제 작업 방식을 소개합니다. Kieran Klaassen이 Cora를 혼자 만들며 쌓아 온 시스템, 기억, 판단의 루프를 통해 AI 시대 엔지니어링이 어떻게 달라지는지 살펴봅니다. 주요 포인트 - 코드 품질, 계획, 판단으로 옮겨 가는 병목을 해결하는 법 - 기능을 만들면서 다음 작업을 더 쉽게 만드는 축적의 원리 - 사람은 시작과 끝에서 판단하고, AI는 중간을 자율적으로 수행하는 작업 루프 - 저장된",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=m8pBazNPvZE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-22T09:00:29.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b135084df085a26f70d3db7e410f8c49b6a2afa9766fb276ac816b391cd0f4b0",
+      "dedupeKey": "brief:opp_ce7e2627ae12c424aeba:sha256:b135084df085a26f70d3db7e410f8c49b6a2afa9766fb276ac816b391cd0f4b0",
+      "firstSeenAt": "2026-08-22T09:23:33.570Z",
+      "lastSeenAt": "2026-08-22T09:23:33.570Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -30649,6 +30702,12 @@
       "opportunityId": "opp_4ed73884ccb2fe7b47f8",
       "sentAt": "2026-08-22T09:05:26.782Z",
       "messageId": "1540648084332224633"
+    },
+    "brief:opp_ce7e2627ae12c424aeba:sha256:b135084df085a26f70d3db7e410f8c49b6a2afa9766fb276ac816b391cd0f4b0": {
+      "status": "SENT",
+      "opportunityId": "opp_ce7e2627ae12c424aeba",
+      "sentAt": "2026-08-22T09:23:33.570Z",
+      "messageId": "1540652643393863742"
     }
   },
   "pending": {},
