@@ -27748,6 +27748,317 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_bdcc858eb88df24d6d35": {
+      "id": "opp_bdcc858eb88df24d6d35",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32777",
+      "canonicalUrl": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "title": "새로운 MCP 로드맵 - 앞으로 집중할 5가지 영역",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T08:09:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "MCP는 앞으로 수개월간 장시간 실행되는 에이전트 작업, 에이전트 신원·권한 위임, 대규모 Tool 탐색을 핵심 과제로 삼아 다음 명세 릴리스와 그 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32777"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3c1d22072fd5ef36c1fd1cc267488274be9206150f8ada40217e9bc05227cdcc",
+      "dedupeKey": "brief:opp_bdcc858eb88df24d6d35:sha256:3c1d22072fd5ef36c1fd1cc267488274be9206150f8ada40217e9bc05227cdcc",
+      "firstSeenAt": "2026-08-23T09:05:40.512Z",
+      "lastSeenAt": "2026-08-23T09:05:40.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09ee6ff204334ded2406": {
+      "id": "opp_09ee6ff204334ded2406",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32770",
+      "canonicalUrl": "https://news.hada.io/topic?id=32770",
+      "title": "Show GN: 1인 사업가가 매일 돌리는 자동화 49개와, 거기서 뽑은 AI 에이전트 스킬 15개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T00:57:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "혼자 커뮤니티를 운영하면서 잡일을 하나씩 줄이다 보니 맥미니 한 대에서 자동화 49개가 돌아가고 있습니다. 그 과정에서 쓰게 된 에이전트 스킬 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32770"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9896064c76382f815d80702d472fed1a8b533347a9cba2b458ed9d26d20bd57d",
+      "dedupeKey": "brief:opp_09ee6ff204334ded2406:sha256:9896064c76382f815d80702d472fed1a8b533347a9cba2b458ed9d26d20bd57d",
+      "firstSeenAt": "2026-08-23T09:05:40.512Z",
+      "lastSeenAt": "2026-08-23T09:05:40.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fbbfd45d99c083cb3856": {
+      "id": "opp_fbbfd45d99c083cb3856",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:usiK-qjjCKs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=usiK-qjjCKs",
+      "title": "[한영자막] Claude Code와 1000시간 넘게 함께하며 배운 것들",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T03:30:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code를 1,000시간 넘게 써 본 개발자가 실제로 겪은 장점, 한계, 그리고 더 잘 쓰는 워크플로를 정리합니다. • Claude.md와 skills를 활용해 프로젝트 맥락을 안정적으로 전달하는 방법 • 계획 모드, MCP, 자동화, 서브 에이전트를 실전에 적용하는 기준 • 컨텍스트와 사용량 제한을 관리하며 결과 품질을 지키는 방법 • Codex, Cursor, OpenCode, T3 Code 등 대안을 고르는 관점 #ClaudeCode #AI코딩 #코딩에이전트 #Codex #개발자",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=usiK-qjjCKs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T03:30:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c59a87b8b34953968a5df47ef9745cb0d5017c1ea1375b6462f2936f7c92abc7",
+      "dedupeKey": "brief:opp_fbbfd45d99c083cb3856:sha256:c59a87b8b34953968a5df47ef9745cb0d5017c1ea1375b6462f2936f7c92abc7",
+      "firstSeenAt": "2026-08-23T09:05:40.512Z",
+      "lastSeenAt": "2026-08-23T09:05:40.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e167f9c98954bd99b4a0": {
+      "id": "opp_e167f9c98954bd99b4a0",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:nvImqha9zkk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nvImqha9zkk",
+      "title": "너드콘에서 발표하고 왔습니다 | AI시대, 개발자 성장과 커리어",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T04:11:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "좋은 취지의 개발자 컨퍼런스 ‘너드콘’에 연사로 초청받아 발표하고 왔습니다. 황금 같은 주말 시간을 내어 배움을 위해 참석하신 개발자분들을 보며 저 역시 많이 배우고 자극받았습니다. 생애 첫 브이로그를 런칭(?) 합니다. #너드콘 #개발자컨퍼런스 #바이브코딩",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nvImqha9zkk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T04:11:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:41370a759f8c42099236fb398caf90e80c5f1eb0206df579324b770047f7e990",
+      "dedupeKey": "brief:opp_e167f9c98954bd99b4a0:sha256:41370a759f8c42099236fb398caf90e80c5f1eb0206df579324b770047f7e990",
+      "firstSeenAt": "2026-08-23T09:05:40.512Z",
+      "lastSeenAt": "2026-08-23T09:05:40.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e952228b5230ac445faf": {
+      "id": "opp_e952228b5230ac445faf",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:NUK_TBz46dM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NUK_TBz46dM",
+      "title": "Turn Claude Into A Web Design Genius in 3 Steps With Seedance 2.5",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T02:52:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🟡Higgsfield: https://higgsfield.ai/s/chase-h-ai-HEdWkt ⚡Master Claude Code: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Lets defeat AI slop and learn how to create websites wi",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=NUK_TBz46dM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T02:52:05.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:59bd08148fc55488b2d26b9f1225aef7321b540308e15863e1ab3dafd8e813e5",
+      "dedupeKey": "brief:opp_e952228b5230ac445faf:sha256:59bd08148fc55488b2d26b9f1225aef7321b540308e15863e1ab3dafd8e813e5",
+      "firstSeenAt": "2026-08-23T09:05:40.512Z",
+      "lastSeenAt": "2026-08-23T09:05:40.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7acbd5267bc88621f4f3": {
+      "id": "opp_7acbd5267bc88621f4f3",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:4h7_lPC38Kg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4h7_lPC38Kg",
+      "title": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T05:34:53+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. SK하이닉스 연구진이 참여한 CPO 관련 논문이 Nature Electronics에 발표됐습니다. 논문에서는 GPU 같은 XPU와 메모리를 분리하고, 그 사이를 광학 인터커넥트로 연결하는 장기적인 구조를 제시합니다. 이번 영상에서는 메모리 회사인 SK하이닉스가 왜 CPO와 광통신을 연구하는지부터 살펴봤습니다. HBM이 왜 Wide I/O와 수직 적층 구조로 발전했는지, 인터포저 공간 부족이 HBM 적층의 출발점이었다는 설",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=4h7_lPC38Kg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T05:34:53.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:55de9b450c09fe36b76197c2487130268f8adf061d7856c12dfd43f30c45c6f0",
+      "dedupeKey": "brief:opp_7acbd5267bc88621f4f3:sha256:55de9b450c09fe36b76197c2487130268f8adf061d7856c12dfd43f30c45c6f0",
+      "firstSeenAt": "2026-08-23T09:05:40.512Z",
+      "lastSeenAt": "2026-08-23T09:05:40.512Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -30822,6 +31133,42 @@
       "opportunityId": "opp_f91870449111d15e0843",
       "sentAt": "2026-08-23T00:05:26.011Z",
       "messageId": "1540874574072258668"
+    },
+    "brief:opp_7acbd5267bc88621f4f3:sha256:55de9b450c09fe36b76197c2487130268f8adf061d7856c12dfd43f30c45c6f0": {
+      "status": "SENT",
+      "opportunityId": "opp_7acbd5267bc88621f4f3",
+      "sentAt": "2026-08-23T09:05:40.512Z",
+      "messageId": "1541010529869500418"
+    },
+    "brief:opp_e167f9c98954bd99b4a0:sha256:41370a759f8c42099236fb398caf90e80c5f1eb0206df579324b770047f7e990": {
+      "status": "SENT",
+      "opportunityId": "opp_e167f9c98954bd99b4a0",
+      "sentAt": "2026-08-23T09:05:40.512Z",
+      "messageId": "1541010529869500418"
+    },
+    "brief:opp_fbbfd45d99c083cb3856:sha256:c59a87b8b34953968a5df47ef9745cb0d5017c1ea1375b6462f2936f7c92abc7": {
+      "status": "SENT",
+      "opportunityId": "opp_fbbfd45d99c083cb3856",
+      "sentAt": "2026-08-23T09:05:40.512Z",
+      "messageId": "1541010529869500418"
+    },
+    "brief:opp_e952228b5230ac445faf:sha256:59bd08148fc55488b2d26b9f1225aef7321b540308e15863e1ab3dafd8e813e5": {
+      "status": "SENT",
+      "opportunityId": "opp_e952228b5230ac445faf",
+      "sentAt": "2026-08-23T09:05:40.512Z",
+      "messageId": "1541010529869500418"
+    },
+    "brief:opp_bdcc858eb88df24d6d35:sha256:3c1d22072fd5ef36c1fd1cc267488274be9206150f8ada40217e9bc05227cdcc": {
+      "status": "SENT",
+      "opportunityId": "opp_bdcc858eb88df24d6d35",
+      "sentAt": "2026-08-23T09:05:40.512Z",
+      "messageId": "1541010529869500418"
+    },
+    "brief:opp_09ee6ff204334ded2406:sha256:9896064c76382f815d80702d472fed1a8b533347a9cba2b458ed9d26d20bd57d": {
+      "status": "SENT",
+      "opportunityId": "opp_09ee6ff204334ded2406",
+      "sentAt": "2026-08-23T09:05:40.512Z",
+      "messageId": "1541010529869500418"
     }
   },
   "pending": {},
