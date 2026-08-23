@@ -28059,6 +28059,112 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_7f64635241f492b0ac58": {
+      "id": "opp_7f64635241f492b0ac58",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:FHewiSeWJhQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FHewiSeWJhQ",
+      "title": "[한영자막] 마지막 인간 코드 리뷰: AI가 생성한 코드에 신뢰를 쌓는 방법 — 이타마르 프리드만, Qodo",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T09:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 만든 코드가 사람의 리뷰 속도보다 빨리 배포되기 시작했다면, 병목은 모델 성능이 아니라 신뢰를 쌓는 방식에 있습니다. Qodo 공동 창업자 이타마르 프리드먼이 코드 리뷰를 자동화하기 위해 필요한 컨텍스트와 거버넌스를 설명합니다. 📌 주요 내용: • 코드 리뷰가 맡아 온 품질 검증과 팀 정렬·학습의 역할 • 모델보다 중요한 팀 고유의 규칙, 아키텍처, 암묵지 • 사람과 에이전트가 함께 이해할 수 있는 컨텍스트 인터페이스 • PR 하나가 아닌 소프트웨어 그래프를 보는 리뷰 방식 • 자동 승인",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=FHewiSeWJhQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T09:00:09.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:855d9db5557fc9e4cab893fbb8efcd6a09e37e26422ccd281c2efc8da6df67d1",
+      "dedupeKey": "brief:opp_7f64635241f492b0ac58:sha256:855d9db5557fc9e4cab893fbb8efcd6a09e37e26422ccd281c2efc8da6df67d1",
+      "firstSeenAt": "2026-08-23T09:24:41.276Z",
+      "lastSeenAt": "2026-08-23T09:24:41.276Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3b455e099348a4bacb4b": {
+      "id": "opp_3b455e099348a4bacb4b",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:iP5RUzXhWoc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=iP5RUzXhWoc",
+      "title": "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T09:02:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - ox-alpha, 오픈AI 훈련 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등 조코딩과 코딩 공부하기 https://jocoding.net/ 제보 메일: jebo@jocoding.net",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=iP5RUzXhWoc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T09:02:38.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:914b3f73e12b512a98c56d91b6ce3baae774ebf28b8f28cfb6cabd304e47a18c",
+      "dedupeKey": "brief:opp_3b455e099348a4bacb4b:sha256:914b3f73e12b512a98c56d91b6ce3baae774ebf28b8f28cfb6cabd304e47a18c",
+      "firstSeenAt": "2026-08-23T09:24:41.276Z",
+      "lastSeenAt": "2026-08-23T09:24:41.276Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -31169,6 +31275,18 @@
       "opportunityId": "opp_09ee6ff204334ded2406",
       "sentAt": "2026-08-23T09:05:40.512Z",
       "messageId": "1541010529869500418"
+    },
+    "brief:opp_3b455e099348a4bacb4b:sha256:914b3f73e12b512a98c56d91b6ce3baae774ebf28b8f28cfb6cabd304e47a18c": {
+      "status": "SENT",
+      "opportunityId": "opp_3b455e099348a4bacb4b",
+      "sentAt": "2026-08-23T09:24:41.276Z",
+      "messageId": "1541015314290966600"
+    },
+    "brief:opp_7f64635241f492b0ac58:sha256:855d9db5557fc9e4cab893fbb8efcd6a09e37e26422ccd281c2efc8da6df67d1": {
+      "status": "SENT",
+      "opportunityId": "opp_7f64635241f492b0ac58",
+      "sentAt": "2026-08-23T09:24:41.276Z",
+      "messageId": "1541015314290966600"
     }
   },
   "pending": {},
