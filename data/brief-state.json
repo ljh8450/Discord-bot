@@ -27646,6 +27646,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_f91870449111d15e0843": {
+      "id": "opp_f91870449111d15e0843",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32755",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fsTtKywmWlU",
+      "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T10:00:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Web 1.0 붕괴 직후 유행을 좇아 웹 개발과 Palantir 기회를 놓친 경험은, 창업자가 시장의 평가보다 직접 경험과 자신만의 지식을 따라야 한다는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32755"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7829cfb89e56b10a3a5cfe47d06af24ae21ca4cda401fb312d06213f02a5ecb2",
+      "dedupeKey": "brief:opp_f91870449111d15e0843:sha256:7829cfb89e56b10a3a5cfe47d06af24ae21ca4cda401fb312d06213f02a5ecb2",
+      "firstSeenAt": "2026-08-23T00:05:26.011Z",
+      "lastSeenAt": "2026-08-23T00:05:26.011Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_02b48f3c31adcebdb368": {
+      "id": "opp_02b48f3c31adcebdb368",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:M5oLcLGq0hU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=M5oLcLGq0hU",
+      "title": "[한영자막] 기업 테크 스택이 AI 에이전트를 감당하지 못하는 진짜 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T23:00:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔터프라이즈 환경에서 성공적인 데모와 POC를 마친 뒤, 프로덕션 상용화 단계에서 맞닥뜨리는 보안, 컴플라이언스, 감사 추적의 진짜 난관과 이를 해결하는 핵심 아키텍처 설계 원칙을 소개합니다. 단순히 POC 데모에 요구사항을 사후에 덧붙이는 방식 대신, 불변 이벤트 로그, 분리된 오브젝트 스토리지, 인간-에이전트 동등성이라는 근본적인 아키텍처 프리미티브를 통해 안전하고 신뢰할 수 있는 엔터프라이즈 AI 에이전트 시스템을 구축하는 방법을 확인해보세요. 📌 주요 포인트: - 감사 추적(Audit T",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=M5oLcLGq0hU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-22T23:00:18.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:faff107a439b18c3da8add15f35c9528ceadab680df65bd2fae90f319560f5a0",
+      "dedupeKey": "brief:opp_02b48f3c31adcebdb368:sha256:faff107a439b18c3da8add15f35c9528ceadab680df65bd2fae90f319560f5a0",
+      "firstSeenAt": "2026-08-23T00:05:26.011Z",
+      "lastSeenAt": "2026-08-23T00:05:26.011Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -30708,6 +30810,18 @@
       "opportunityId": "opp_ce7e2627ae12c424aeba",
       "sentAt": "2026-08-22T09:23:33.570Z",
       "messageId": "1540652643393863742"
+    },
+    "brief:opp_02b48f3c31adcebdb368:sha256:faff107a439b18c3da8add15f35c9528ceadab680df65bd2fae90f319560f5a0": {
+      "status": "SENT",
+      "opportunityId": "opp_02b48f3c31adcebdb368",
+      "sentAt": "2026-08-23T00:05:26.011Z",
+      "messageId": "1540874574072258668"
+    },
+    "brief:opp_f91870449111d15e0843:sha256:7829cfb89e56b10a3a5cfe47d06af24ae21ca4cda401fb312d06213f02a5ecb2": {
+      "status": "SENT",
+      "opportunityId": "opp_f91870449111d15e0843",
+      "sentAt": "2026-08-23T00:05:26.011Z",
+      "messageId": "1540874574072258668"
     }
   },
   "pending": {},
