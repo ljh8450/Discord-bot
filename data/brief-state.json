@@ -28242,7 +28242,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 7,
+        "communityRank": 10,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -28256,11 +28256,11 @@
       },
       "contentHash": "sha256:8eb5ea4e682c94664ea9a496fb5df24ec3d07ad88c7b072345470698c41345b9",
       "dedupeKey": "brief:opp_ca89b9a452dde9ab52b9:sha256:8eb5ea4e682c94664ea9a496fb5df24ec3d07ad88c7b072345470698c41345b9",
-      "firstSeenAt": "2026-08-24T00:05:21.171Z",
-      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "firstSeenAt": "2026-08-24T01:21:07.826Z",
+      "lastSeenAt": "2026-08-24T01:21:07.826Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -28340,7 +28340,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 14,
+        "communityRank": 18,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -28354,11 +28354,11 @@
       },
       "contentHash": "sha256:4755e18d45263136e1cf47c67f3bbd8c39b88bd5356ca3000e79a3e9ef94718d",
       "dedupeKey": "brief:opp_2caa3170c7ad57ea32dd:sha256:4755e18d45263136e1cf47c67f3bbd8c39b88bd5356ca3000e79a3e9ef94718d",
-      "firstSeenAt": "2026-08-24T00:05:21.171Z",
-      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "firstSeenAt": "2026-08-24T01:21:07.826Z",
+      "lastSeenAt": "2026-08-24T01:21:07.826Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -31613,6 +31613,18 @@
       "opportunityId": "opp_ba0018ab8759be1da126",
       "sentAt": "2026-08-24T00:05:21.171Z",
       "messageId": "1541236941247226000"
+    },
+    "brief:opp_ca89b9a452dde9ab52b9:sha256:8eb5ea4e682c94664ea9a496fb5df24ec3d07ad88c7b072345470698c41345b9": {
+      "status": "SENT",
+      "opportunityId": "opp_ca89b9a452dde9ab52b9",
+      "sentAt": "2026-08-24T01:21:07.826Z",
+      "messageId": "1541256010101039225"
+    },
+    "brief:opp_2caa3170c7ad57ea32dd:sha256:4755e18d45263136e1cf47c67f3bbd8c39b88bd5356ca3000e79a3e9ef94718d": {
+      "status": "SENT",
+      "opportunityId": "opp_2caa3170c7ad57ea32dd",
+      "sentAt": "2026-08-24T01:21:07.826Z",
+      "messageId": "1541256010101039225"
     }
   },
   "pending": {},
