@@ -28467,6 +28467,712 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a5ed749de5c0e841dd8f": {
+      "id": "opp_a5ed749de5c0e841dd8f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32818",
+      "canonicalUrl": "https://spectrum.ieee.org/product-engineer",
+      "title": "프로덕트 엔지니어의 사고방식 - 태스크 수행자에서 문제 해결의 주체로",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T09:00:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 명확한 명세를 코드로 옮기는 일을 빠르게 수행하면서, 엔지니어의 차별점은 주어진 태스크를 잘 구현하는 능력보다 무엇을 해결해야 하는지 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32818"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 19,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:26d9416be4355001a3187f536e24193014ed6040be7f09c584620893103d6365",
+      "dedupeKey": "brief:opp_a5ed749de5c0e841dd8f:sha256:26d9416be4355001a3187f536e24193014ed6040be7f09c584620893103d6365",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8677fb4e9186c9455164": {
+      "id": "opp_8677fb4e9186c9455164",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32829",
+      "canonicalUrl": "https://news.hada.io/topic?id=32829",
+      "title": "Show GN: 요가원 한 달 다니다가 만든 요가·명상 웹앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T13:23:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "요가원을 한 달 다녔는데 매일 갈 수는 없어서, 집에서 제 속도로 이어가려고 만들었습니다. 호흡·요가·명상 세션을 하나 하고 하루를 한 줄 남기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32829"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:93170d2b3c5a4ebe993cca4960fd4e2e73eb4d5d860fbe01514f941e3b0e1130",
+      "dedupeKey": "brief:opp_8677fb4e9186c9455164:sha256:93170d2b3c5a4ebe993cca4960fd4e2e73eb4d5d860fbe01514f941e3b0e1130",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_941ed9133b185305f9ad": {
+      "id": "opp_941ed9133b185305f9ad",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32824",
+      "canonicalUrl": "https://www.forerunnerventures.com/perspectives/the-human-bet",
+      "title": "AI가 인간의 실행력을 확장하려면 무엇이 필요한가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T10:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Forerunner Ventures의 The Human Bet과 후속 글 The Supply Side 는 AI의 가치를 인간의 실행력 확장에서 보고, 이를 가능하게 할 제품과 인프라...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32824"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
+      "dedupeKey": "brief:opp_941ed9133b185305f9ad:sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_339a46e96df4c5b85d6e": {
+      "id": "opp_339a46e96df4c5b85d6e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32791",
+      "canonicalUrl": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T14:33:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "같은 모델이라도 GPU·추론 엔진·어텐션 구현·양자화 방식이 달라지면 계산 결과가 조금씩 달라지고, 긴 문맥에서는 그 차이가 실제 응답과 도구 호...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32791"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 13,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4ad2fa9efbba70746baf7b6a2f8fc8e4136b9de4f2deb0df88544b0367c1c886",
+      "dedupeKey": "brief:opp_339a46e96df4c5b85d6e:sha256:4ad2fa9efbba70746baf7b6a2f8fc8e4136b9de4f2deb0df88544b0367c1c886",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ff17f25caea12f61a6a4": {
+      "id": "opp_ff17f25caea12f61a6a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32794",
+      "canonicalUrl": "https://hackers.pub/@flow/2026/four-problems-with-fe-state",
+      "title": "프론트엔드 상태 관리의 네 가지 난제",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T17:00:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프론트엔드 생태계에는 다양한 상태관리 도구들이 존재하지만 아직 제대로 조명받지 못하는 난제들이 있음 1. 상태의 공유 범위를 바꾸기 어려움 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32794"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 18,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a208512885024f7c63b9f2831025171ccb90b1c5efb7bdf6b0d959c7ecd96377",
+      "dedupeKey": "brief:opp_ff17f25caea12f61a6a4:sha256:a208512885024f7c63b9f2831025171ccb90b1c5efb7bdf6b0d959c7ecd96377",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9aee061ce549893f0b7e": {
+      "id": "opp_9aee061ce549893f0b7e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32793",
+      "canonicalUrl": "https://htmlcat.net/",
+      "title": "기억해 둘 만한 작은 네이티브 웹 기법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T16:31:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "별도 라이브러리 없이 브라우저가 이미 제공하는 HTML/CSS/JS만으로 UI와 상호작용을 네이티브하게 구현하는 법을 정리한 레퍼런스 사이트 :has(),...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32793"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 19,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
+      "dedupeKey": "brief:opp_9aee061ce549893f0b7e:sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5c85dc8f5601db856806": {
+      "id": "opp_5c85dc8f5601db856806",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "71db9aeb7effa48b654e5f0cfd4f3d57f2441761",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/single-model-not-forecast-sku",
+      "title": "수요 패턴이 수요 모델을 고른다: Amazon Connect Decisions로 살펴보는 Agentic Demand Forecasting",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 24 Aug 2026 07:34:22 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "들어가며 수요 예측 시스템을 도입해 본 기업이라면 익숙한 패턴이 있습니다. 도입 첫해, 컨설턴트와 함께 수개월에 걸쳐 데이터를 정비하고 모델과 파라미터를 최적화합니다. 시스템은 그 시점의 비즈니스를 잘 반영하여 정확하게 예측합니다. 문제는 신규 채널에 진출하고, 프로모션 전략이 바뀌고, 신제품이 출시되고, 주력 상품의 라이프사이클이 끝날 때에 발생합니다. 비즈니스는 계속 변화하는데, 시스템은 구축 시점의 스냅샷에 멈춰 있습니다. 시스템의 예측을 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/single-model-not-forecast-sku/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e4ba374ecf5aeb596f4950461d42e4b0b1e845b3e55ffc57eb85ec47f36d69e",
+      "dedupeKey": "brief:opp_5c85dc8f5601db856806:sha256:6e4ba374ecf5aeb596f4950461d42e4b0b1e845b3e55ffc57eb85ec47f36d69e",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a61c1c081289466768ff": {
+      "id": "opp_a61c1c081289466768ff",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "d1ef312955b70a3272fb44ed540aa619fa2beb52",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/codex-on-bedrock",
+      "title": "Amazon Bedrock에서 Codex 사용하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 24 Aug 2026 04:57:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Bedrock Mantle 기반 GPT‑5.6 연동부터 cached Web Search, AWS PrivateLink 전용망, 관측성과 비용 운영까지 생성형 AI 코딩 에이전트를 엔터프라이즈 기업 환경에 도입할 때는 모델 성능만큼 인증, 데이터 경로, 네트워크 격리, 비용 배분과 감사 가능성이 중요합니다. Codex는 이제 ChatGPT 데스크톱 앱의 Codex 보기, Codex CLI, IDE 확장, Codex SDK와 codex exec 같은 로컬 워크플로에서 Amazon Bedrock을 […",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/codex-on-bedrock/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0ad6f69f239f947bdc2bd3818b8e1d832dd1a9bc229d8aebf31e34e56041c343",
+      "dedupeKey": "brief:opp_a61c1c081289466768ff:sha256:0ad6f69f239f947bdc2bd3818b8e1d832dd1a9bc229d8aebf31e34e56041c343",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6d8a215a1b4fe24a41f5": {
+      "id": "opp_6d8a215a1b4fe24a41f5",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "decb80e0e12b02b8b88c219b9a323172183e43d5",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-based-sematic-dlp",
+      "title": "Amazon Bedrock 기반 PolicyGuard: 코딩 어시스턴트를 위한 Pre-Model Semantic DLP 프레임워크",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 24 Aug 2026 02:26:20 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "도입: 코딩 어시스턴트 시대의 새로운 데이터 유출 경로 AI 코딩 어시스턴트(GitHub Copilot, OpenAI Codex, Claude Code)의 도입이 가속화되면서, 개발자들은 자연어 프롬프트를 통해 코드 생성, 디버깅, 리팩토링을 일상적으로 수행하고 있습니다. 그러나 이 과정에서 개발자가 프롬프트에 포함시키는 정보, 즉 API 키, 데이터베이스 비밀번호, 고객 개인정보(PII), 사내 미공개 전략 등이 외부 LLM 서비스로 전송되는 새로운 데이터 유출 경로가 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-based-sematic-dlp/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:02c348cd0be7ed32b240953838332c24dc6ed1f5a0d172d900f8c6050c825605",
+      "dedupeKey": "brief:opp_6d8a215a1b4fe24a41f5:sha256:02c348cd0be7ed32b240953838332c24dc6ed1f5a0d172d900f8c6050c825605",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3545209e4e29a9a215eb": {
+      "id": "opp_3545209e4e29a9a215eb",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:4DdNMO81_HQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4DdNMO81_HQ",
+      "title": "[한영자막] 코딩 에이전트는 스스로 확장되지 않습니다. 팀도 마찬가지입니다. — Patrick Debois, Tessl",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T09:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코딩 에이전트가 팀 생산성을 키우려면, 개인이 코드를 고치는 데서 멈추지 않고 에이전트가 일하는 시스템을 개선해야 합니다. Patrick Debois가 하니스, 피드백 루프, 플랫폼 팀, 그리고 조직의 지식 축적이 왜 핵심인지 설명합니다. 주요 포인트 - 에이전트 코딩의 차별점은 모델 자체보다 팀의 작업 방식에 있습니다. - 결과 코드만 고치지 말고, 에이전트가 반복해서 막히는 시스템을 개선해야 합니다. - 하니스와 컨텍스트를 공용 자산으로 만들면 한 번의 개선이 팀 전체에 퍼집니다. - 플랫폼",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=4DdNMO81_HQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T09:00:15.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:93369661a5b4ee230573351ddff60c0b2a79c1bc31200939f9f7036fac4e807c",
+      "dedupeKey": "brief:opp_3545209e4e29a9a215eb:sha256:93369661a5b4ee230573351ddff60c0b2a79c1bc31200939f9f7036fac4e807c",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2841549cc5e7b5494711": {
+      "id": "opp_2841549cc5e7b5494711",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Nt2aeDlzk4U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Nt2aeDlzk4U",
+      "title": "[한영자막] 에이전트 프레임워크는 해롭다고 봅니다 — Rémi Louf",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T03:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트 프레임워크를 무작정 늘리기보다, 실제로 작동하는 작은 런타임을 먼저 만드는 방법을 Rémi Louf의 발표로 살펴봅니다. 프롬프트를 해시 기반으로 관리하고, Cron 대신 이벤트로 에이전트를 연결하며, 로그·큐·타입 경계를 통해 운영 가능한 시스템을 만드는 실전 이야기입니다. 주요 포인트 - 프레임워크보다 먼저 작은 에이전트 런타임을 만든 이유 - Markdown으로 에이전트를 정의하고 버전 관리하는 방식 - 시간 기반 Cron과 이벤트 기반 실행의 차이 - append-only 로그와",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Nt2aeDlzk4U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T09:00:15.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d773770dc17707a2eedd45fdcdbb337fd1f521328467b3881faef655715e0298",
+      "dedupeKey": "brief:opp_2841549cc5e7b5494711:sha256:d773770dc17707a2eedd45fdcdbb337fd1f521328467b3881faef655715e0298",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_87257ec099cecf131a90": {
+      "id": "opp_87257ec099cecf131a90",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:j16g9_DgCUM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=j16g9_DgCUM",
+      "title": "클로드 워터마크는 어떻게 남을까?",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T09:00:08+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#클로드 #AI워터마크 클로드가 쓴 글은 정말 흔적으로 알아볼 수 있을까요? 앤트로픽이 설명한 클로드 텍스트 워터마크의 원리를 쉽게 풀어봅니다. 그런데 이 기술이 답변 품질에도 영향을 줄 수 있을까요? 🚀 영상 내용 • 다음 단어 선택에 흔적을 넣는 방식 • 긴 글에서 워터마크 신호를 찾는 원리 • 복사와 수정으로 신호가 약해지는 이유 • Opus 5 품질 논란과 워터마크의 관련성 • AI 워터마크를 둘러싼 윤리와 품질의 균형 🔔 유익했다면 구독과 좋아요 부탁드립니다! 💬 AI 워터마크는 필",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=j16g9_DgCUM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T09:00:08.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3b627a2ea7f9413bb5c10b2d8439a57ae0b235f5c9d4b469990c2775cacd6b03",
+      "dedupeKey": "brief:opp_87257ec099cecf131a90:sha256:3b627a2ea7f9413bb5c10b2d8439a57ae0b235f5c9d4b469990c2775cacd6b03",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_12fdd3b24d2a11554236": {
+      "id": "opp_12fdd3b24d2a11554236",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:cRViilVG6Vc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cRViilVG6Vc",
+      "title": "개발자여 아키텍트로 오라 | 너드콘 발표 영상",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T02:04:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "너드콘에서 발표한 내용을 영상으로 만들었습니다. --- 00:00 도입 00:45 발표자 소개 01:20 3가지 질문 01:57 AI코딩시대 02:58 if(AI코딩결과 == 서비스가능) 04:27 AI코딩보안사고사례(몰트북) 05:56 AI가 문제일까? 06:26 정답이 있는 문제와 정답이 없는 문제 08:21 아키텍트 역할 09:47 아키텍트 업무 변화 10:54 아키텍트로 성장하기 10:58 연주자에서 지휘자로의 관점 변화 11:56 변하는 것과 변하지 않는 것 13:09 하나는 깊게, 끝가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cRViilVG6Vc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T02:04:09.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0f253c4d1c0377101b47be4093d7c23da8cfad69baec01a83d5d057113af3a1b",
+      "dedupeKey": "brief:opp_12fdd3b24d2a11554236:sha256:0f253c4d1c0377101b47be4093d7c23da8cfad69baec01a83d5d057113af3a1b",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8c59adf11c4dd1ce7933": {
+      "id": "opp_8c59adf11c4dd1ce7933",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:tsJP-sWP3Sg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tsJP-sWP3Sg",
+      "title": "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T06:01:44+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 엔비디아가 글로벌 금융회사들과 손잡고 AI 컴퓨트 인프라 금융시장까지 직접 키우기 시작했습니다. 이번 영상에서는 빅테크가 왜 현금뿐 아니라 회사채와 리스, 외부 자본까지 동원해 AI 데이터센터를 선점하는지 살펴봅니다. 대형 AI 모델과 MoE 구조가 왜 여러 GPU와 HBM, 고속 인터커넥트를 요구하는지도 알아봅니다. 긴 컨텍스트의 KV 캐시와 에이전트 AI가 추론 컴퓨트 수요를 어떻게 빠르게 늘리는지도 설명합니다. Pr",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=tsJP-sWP3Sg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T06:01:44.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:987a5dc2ee2eab531a73096f7b7f9b1b6a79179550ca4d26d1b2a98182ce4daa",
+      "dedupeKey": "brief:opp_8c59adf11c4dd1ce7933:sha256:987a5dc2ee2eab531a73096f7b7f9b1b6a79179550ca4d26d1b2a98182ce4daa",
+      "firstSeenAt": "2026-08-24T09:05:49.172Z",
+      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -31625,6 +32331,42 @@
       "opportunityId": "opp_2caa3170c7ad57ea32dd",
       "sentAt": "2026-08-24T01:21:07.826Z",
       "messageId": "1541256010101039225"
+    },
+    "brief:opp_5c85dc8f5601db856806:sha256:6e4ba374ecf5aeb596f4950461d42e4b0b1e845b3e55ffc57eb85ec47f36d69e": {
+      "status": "SENT",
+      "opportunityId": "opp_5c85dc8f5601db856806",
+      "sentAt": "2026-08-24T09:05:49.172Z",
+      "messageId": "1541372954598973551"
+    },
+    "brief:opp_a61c1c081289466768ff:sha256:0ad6f69f239f947bdc2bd3818b8e1d832dd1a9bc229d8aebf31e34e56041c343": {
+      "status": "SENT",
+      "opportunityId": "opp_a61c1c081289466768ff",
+      "sentAt": "2026-08-24T09:05:49.172Z",
+      "messageId": "1541372954598973551"
+    },
+    "brief:opp_8c59adf11c4dd1ce7933:sha256:987a5dc2ee2eab531a73096f7b7f9b1b6a79179550ca4d26d1b2a98182ce4daa": {
+      "status": "SENT",
+      "opportunityId": "opp_8c59adf11c4dd1ce7933",
+      "sentAt": "2026-08-24T09:05:49.172Z",
+      "messageId": "1541372954598973551"
+    },
+    "brief:opp_12fdd3b24d2a11554236:sha256:0f253c4d1c0377101b47be4093d7c23da8cfad69baec01a83d5d057113af3a1b": {
+      "status": "SENT",
+      "opportunityId": "opp_12fdd3b24d2a11554236",
+      "sentAt": "2026-08-24T09:05:49.172Z",
+      "messageId": "1541372954598973551"
+    },
+    "brief:opp_3545209e4e29a9a215eb:sha256:93369661a5b4ee230573351ddff60c0b2a79c1bc31200939f9f7036fac4e807c": {
+      "status": "SENT",
+      "opportunityId": "opp_3545209e4e29a9a215eb",
+      "sentAt": "2026-08-24T09:05:49.172Z",
+      "messageId": "1541372954598973551"
+    },
+    "brief:opp_87257ec099cecf131a90:sha256:3b627a2ea7f9413bb5c10b2d8439a57ae0b235f5c9d4b469990c2775cacd6b03": {
+      "status": "SENT",
+      "opportunityId": "opp_87257ec099cecf131a90",
+      "sentAt": "2026-08-24T09:05:49.172Z",
+      "messageId": "1541372954598973551"
     }
   },
   "pending": {},
