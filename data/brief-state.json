@@ -28509,11 +28509,11 @@
       },
       "contentHash": "sha256:26d9416be4355001a3187f536e24193014ed6040be7f09c584620893103d6365",
       "dedupeKey": "brief:opp_a5ed749de5c0e841dd8f:sha256:26d9416be4355001a3187f536e24193014ed6040be7f09c584620893103d6365",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -28558,8 +28558,8 @@
       },
       "contentHash": "sha256:93170d2b3c5a4ebe993cca4960fd4e2e73eb4d5d860fbe01514f941e3b0e1130",
       "dedupeKey": "brief:opp_8677fb4e9186c9455164:sha256:93170d2b3c5a4ebe993cca4960fd4e2e73eb4d5d860fbe01514f941e3b0e1130",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -28607,8 +28607,8 @@
       },
       "contentHash": "sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
       "dedupeKey": "brief:opp_941ed9133b185305f9ad:sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -28642,7 +28642,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 13,
+        "communityRank": 14,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -28656,11 +28656,11 @@
       },
       "contentHash": "sha256:4ad2fa9efbba70746baf7b6a2f8fc8e4136b9de4f2deb0df88544b0367c1c886",
       "dedupeKey": "brief:opp_339a46e96df4c5b85d6e:sha256:4ad2fa9efbba70746baf7b6a2f8fc8e4136b9de4f2deb0df88544b0367c1c886",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -28705,8 +28705,8 @@
       },
       "contentHash": "sha256:a208512885024f7c63b9f2831025171ccb90b1c5efb7bdf6b0d959c7ecd96377",
       "dedupeKey": "brief:opp_ff17f25caea12f61a6a4:sha256:a208512885024f7c63b9f2831025171ccb90b1c5efb7bdf6b0d959c7ecd96377",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -28754,8 +28754,8 @@
       },
       "contentHash": "sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
       "dedupeKey": "brief:opp_9aee061ce549893f0b7e:sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -28901,11 +28901,11 @@
       },
       "contentHash": "sha256:02c348cd0be7ed32b240953838332c24dc6ed1f5a0d172d900f8c6050c825605",
       "dedupeKey": "brief:opp_6d8a215a1b4fe24a41f5:sha256:02c348cd0be7ed32b240953838332c24dc6ed1f5a0d172d900f8c6050c825605",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -29007,11 +29007,11 @@
       },
       "contentHash": "sha256:d773770dc17707a2eedd45fdcdbb337fd1f521328467b3881faef655715e0298",
       "dedupeKey": "brief:opp_2841549cc5e7b5494711:sha256:d773770dc17707a2eedd45fdcdbb337fd1f521328467b3881faef655715e0298",
-      "firstSeenAt": "2026-08-24T09:05:49.172Z",
-      "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "firstSeenAt": "2026-08-24T09:43:23.795Z",
+      "lastSeenAt": "2026-08-24T09:43:23.795Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32367,6 +32367,30 @@
       "opportunityId": "opp_87257ec099cecf131a90",
       "sentAt": "2026-08-24T09:05:49.172Z",
       "messageId": "1541372954598973551"
+    },
+    "brief:opp_6d8a215a1b4fe24a41f5:sha256:02c348cd0be7ed32b240953838332c24dc6ed1f5a0d172d900f8c6050c825605": {
+      "status": "SENT",
+      "opportunityId": "opp_6d8a215a1b4fe24a41f5",
+      "sentAt": "2026-08-24T09:43:23.795Z",
+      "messageId": "1541382410308952097"
+    },
+    "brief:opp_a5ed749de5c0e841dd8f:sha256:26d9416be4355001a3187f536e24193014ed6040be7f09c584620893103d6365": {
+      "status": "SENT",
+      "opportunityId": "opp_a5ed749de5c0e841dd8f",
+      "sentAt": "2026-08-24T09:43:23.795Z",
+      "messageId": "1541382410308952097"
+    },
+    "brief:opp_339a46e96df4c5b85d6e:sha256:4ad2fa9efbba70746baf7b6a2f8fc8e4136b9de4f2deb0df88544b0367c1c886": {
+      "status": "SENT",
+      "opportunityId": "opp_339a46e96df4c5b85d6e",
+      "sentAt": "2026-08-24T09:43:23.795Z",
+      "messageId": "1541382410308952097"
+    },
+    "brief:opp_2841549cc5e7b5494711:sha256:d773770dc17707a2eedd45fdcdbb337fd1f521328467b3881faef655715e0298": {
+      "status": "SENT",
+      "opportunityId": "opp_2841549cc5e7b5494711",
+      "sentAt": "2026-08-24T09:43:23.795Z",
+      "messageId": "1541382410308952097"
     }
   },
   "pending": {},
