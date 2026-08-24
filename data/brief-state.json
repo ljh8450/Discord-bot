@@ -28165,6 +28165,308 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_e9f98b8207b0207c16ba": {
+      "id": "opp_e9f98b8207b0207c16ba",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32792",
+      "canonicalUrl": "https://news.hada.io/topic?id=32792",
+      "title": "Show GN: 중2개발자가 만든 한국어 LLM",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T15:46:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 파이썬 기본 문법과 머신러닝/데이터 분석의 기초적인 개념(Pandas, Matplotlib 등)을 조금씩 공부하고 있는 중학교 2학년 학생입니다...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32792"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b637942374232a3f87557cd7d54bcf0bad9b0800ff4955e24b215addeea61b8e",
+      "dedupeKey": "brief:opp_e9f98b8207b0207c16ba:sha256:b637942374232a3f87557cd7d54bcf0bad9b0800ff4955e24b215addeea61b8e",
+      "firstSeenAt": "2026-08-24T00:05:21.171Z",
+      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ca89b9a452dde9ab52b9": {
+      "id": "opp_ca89b9a452dde9ab52b9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32769",
+      "canonicalUrl": "https://kdy1.dev/2026-8-22-labor0",
+      "title": "Labor0를 만든 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T23:28:07+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에이전트 세션이 늘어나면 실행 자체보다 사람이 모든 진행 상황을 확인하고 조율하는 일이 병목이 됨 이를 줄이기 위해 큰 작업을 작은 PR 단...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32769"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 7,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8eb5ea4e682c94664ea9a496fb5df24ec3d07ad88c7b072345470698c41345b9",
+      "dedupeKey": "brief:opp_ca89b9a452dde9ab52b9:sha256:8eb5ea4e682c94664ea9a496fb5df24ec3d07ad88c7b072345470698c41345b9",
+      "firstSeenAt": "2026-08-24T00:05:21.171Z",
+      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ba0018ab8759be1da126": {
+      "id": "opp_ba0018ab8759be1da126",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32764",
+      "canonicalUrl": "https://github.com/zachahn/vomit",
+      "title": "Vomit - Claude의 장황한 출력을 로컬 LLM으로 짧게 정리해주는 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T20:34:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code가 길게 내놓는 메시지를 별도의 로컬 LLM에 다시 통과시켜 사람이 읽기 쉬운 형태로 정리하는 작은 도구 원래 작업이나 파일에는 접근...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32764"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f6a206fde09500045f8c08e02e61e40449e1ea648aae2a5bf890fbbabd2b8e36",
+      "dedupeKey": "brief:opp_ba0018ab8759be1da126:sha256:f6a206fde09500045f8c08e02e61e40449e1ea648aae2a5bf890fbbabd2b8e36",
+      "firstSeenAt": "2026-08-24T00:05:21.171Z",
+      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2caa3170c7ad57ea32dd": {
+      "id": "opp_2caa3170c7ad57ea32dd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32761",
+      "canonicalUrl": "https://danluu.com/perf-opt",
+      "title": "소프트웨어가 더 이상 느릴 이유는 없다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-22T17:35:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩 에이전트가 과거 전문 인력이나 팀이 맡던 성능 최적화 비용을 크게 낮추면서, 몇 문장의 지시만으로 컴파일러·멀티스레딩·작업 부하별 최적...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32761"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 14,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4755e18d45263136e1cf47c67f3bbd8c39b88bd5356ca3000e79a3e9ef94718d",
+      "dedupeKey": "brief:opp_2caa3170c7ad57ea32dd:sha256:4755e18d45263136e1cf47c67f3bbd8c39b88bd5356ca3000e79a3e9ef94718d",
+      "firstSeenAt": "2026-08-24T00:05:21.171Z",
+      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09b22082ec9884bf1098": {
+      "id": "opp_09b22082ec9884bf1098",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:Q_Fzk7rkmsM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q_Fzk7rkmsM",
+      "title": "EP 111. 벤치마크 1등이 탈락했다? 독파모 4파전 결과 살펴보기",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T22:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "프론티어 모델 경쟁이 계속되는 가운데, 이번 주 뜨거운 감자였던 독자 파운데이션 모델(독파모) 사업의 3개사 선정 결과를 심층적으로 다룹니다. 벤치마크 1위였던 Motif가 탈락한 배경을 직접 사용해본 경험과 정부 평가 기준(생태계·컨소시엄·전문가 평가) 관점에서 분석하고, 소버린 AI 사업의 의미와 방향에 대한 생각을 나눕니다. 이어서 Sutton의 continual learning 비전과 OAK Lab의 계획을 살펴보고, 조판·한글 파라메트릭 폰트 실험을 통해 non-verifiable한 디자",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Q_Fzk7rkmsM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T22:00:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:33d0a64917c564827115f10b59f5cb3130e19a468153227dbfc7c731c923586e",
+      "dedupeKey": "brief:opp_09b22082ec9884bf1098:sha256:33d0a64917c564827115f10b59f5cb3130e19a468153227dbfc7c731c923586e",
+      "firstSeenAt": "2026-08-24T00:05:21.171Z",
+      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5c77f7b54062e5d2f349": {
+      "id": "opp_5c77f7b54062e5d2f349",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:_qDxAyfnDCQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_qDxAyfnDCQ",
+      "title": "[한영자막] 이 AI 활용법들로 대부분의 사람들보다 압도적으로 앞서게 됩니다 (Q&A)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T22:00:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI를 단순 검색창이 아니라, 내 맥락을 이해하고 일을 함께 처리하는 파트너로 쓰는 방법을 정리합니다. 말로 맥락을 전달하는 법부터 더 구체적인 답을 얻는 프롬프트, AI로 업무와 소프트웨어를 만드는 흐름까지 살펴봅니다. 주요 포인트 - 음성 입력으로 AI에 빠르고 풍부하게 맥락을 전달하는 방법 - AI의 평범한 답변을 바꾸는 MAPS 프롬프트 프레임워크 - Claude, Perplexity, NotebookLM 등 도구를 역할에 맞게 조합하는 기준 - 반복 업무를 자동화하고 개인용 앱을 만드는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_qDxAyfnDCQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-23T22:00:17.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:56816b9628d2d3201d085da9de480a8fde69c689d8ca1d27cde8c85597e41359",
+      "dedupeKey": "brief:opp_5c77f7b54062e5d2f349:sha256:56816b9628d2d3201d085da9de480a8fde69c689d8ca1d27cde8c85597e41359",
+      "firstSeenAt": "2026-08-24T00:05:21.171Z",
+      "lastSeenAt": "2026-08-24T00:05:21.171Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -31287,6 +31589,30 @@
       "opportunityId": "opp_7f64635241f492b0ac58",
       "sentAt": "2026-08-23T09:24:41.276Z",
       "messageId": "1541015314290966600"
+    },
+    "brief:opp_09b22082ec9884bf1098:sha256:33d0a64917c564827115f10b59f5cb3130e19a468153227dbfc7c731c923586e": {
+      "status": "SENT",
+      "opportunityId": "opp_09b22082ec9884bf1098",
+      "sentAt": "2026-08-24T00:05:21.171Z",
+      "messageId": "1541236941247226000"
+    },
+    "brief:opp_e9f98b8207b0207c16ba:sha256:b637942374232a3f87557cd7d54bcf0bad9b0800ff4955e24b215addeea61b8e": {
+      "status": "SENT",
+      "opportunityId": "opp_e9f98b8207b0207c16ba",
+      "sentAt": "2026-08-24T00:05:21.171Z",
+      "messageId": "1541236941247226000"
+    },
+    "brief:opp_5c77f7b54062e5d2f349:sha256:56816b9628d2d3201d085da9de480a8fde69c689d8ca1d27cde8c85597e41359": {
+      "status": "SENT",
+      "opportunityId": "opp_5c77f7b54062e5d2f349",
+      "sentAt": "2026-08-24T00:05:21.171Z",
+      "messageId": "1541236941247226000"
+    },
+    "brief:opp_ba0018ab8759be1da126:sha256:f6a206fde09500045f8c08e02e61e40449e1ea648aae2a5bf890fbbabd2b8e36": {
+      "status": "SENT",
+      "opportunityId": "opp_ba0018ab8759be1da126",
+      "sentAt": "2026-08-24T00:05:21.171Z",
+      "messageId": "1541236941247226000"
     }
   },
   "pending": {},
