@@ -28592,7 +28592,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 9,
         "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -28607,8 +28607,8 @@
       },
       "contentHash": "sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
       "dedupeKey": "brief:opp_941ed9133b185305f9ad:sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
-      "firstSeenAt": "2026-08-24T09:43:23.795Z",
-      "lastSeenAt": "2026-08-24T09:43:23.795Z",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -28739,8 +28739,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 19,
+        "communityPoints": 9,
+        "communityRank": 10,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -28754,8 +28754,8 @@
       },
       "contentHash": "sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
       "dedupeKey": "brief:opp_9aee061ce549893f0b7e:sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
-      "firstSeenAt": "2026-08-24T09:43:23.795Z",
-      "lastSeenAt": "2026-08-24T09:43:23.795Z",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -29168,6 +29168,408 @@
       "dedupeKey": "brief:opp_8c59adf11c4dd1ce7933:sha256:987a5dc2ee2eab531a73096f7b7f9b1b6a79179550ca4d26d1b2a98182ce4daa",
       "firstSeenAt": "2026-08-24T09:05:49.172Z",
       "lastSeenAt": "2026-08-24T09:05:49.172Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_60d35541be295ec4493f": {
+      "id": "opp_60d35541be295ec4493f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32833",
+      "canonicalUrl": "https://fabiensanglard.net/agent.md/index.html",
+      "title": "agent.md로 LLM 생성 코드의 품질 높이기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T14:32:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "2025년에는 컴파일조차 못 하던 LLM이 2026년에는 복잡한 구현과 버그 분석까지 해냈지만, 스파게티 코드와 부족한 주석·구조 탓에 프로덕션에 바...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32833"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:997c8e0410d1602ed125dea344a35da63b48d2d20d39023cad1e72c16ebca1a0",
+      "dedupeKey": "brief:opp_60d35541be295ec4493f:sha256:997c8e0410d1602ed125dea344a35da63b48d2d20d39023cad1e72c16ebca1a0",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2c948d8d66b772013658": {
+      "id": "opp_2c948d8d66b772013658",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32808",
+      "canonicalUrl": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
+      "title": "Qwen 3.8 27B, 리버스 엔지니어링 작업을 30분 만에 완료",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T01:32:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "단일 머신에서 실행한 Qwen 3.8 27B가 상용 앱의 라이선스 체계를 정적 분석하고, 약 30분 만에 작동하는 인증 우회 개념증명까지 만들어냄 앱을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32808"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 11,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fb58fc16ff5e88af2b8dea43a7bdd7b3650a3c587fe26da183acc227f1129eb3",
+      "dedupeKey": "brief:opp_2c948d8d66b772013658:sha256:fb58fc16ff5e88af2b8dea43a7bdd7b3650a3c587fe26da183acc227f1129eb3",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5d0886e1dc9bf554ecf4": {
+      "id": "opp_5d0886e1dc9bf554ecf4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32782",
+      "canonicalUrl": "https://www.seangoedecke.com/you-should-never-be-angry-at-work",
+      "title": "직장에서 화내지 말아야 하는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-23T09:06:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "직장에서 드러낸 분노는 동료를 위축시키고 의사결정을 비공식 채널로 밀어내며, 결국 당사자의 협업 기회와 영향력을 줄임 분노는 일에 대한 강한...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32782"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 16,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:64248b134bbf46ec2ea56a920a83b0415c118f281814503c9a5096389aebfc73",
+      "dedupeKey": "brief:opp_5d0886e1dc9bf554ecf4:sha256:64248b134bbf46ec2ea56a920a83b0415c118f281814503c9a5096389aebfc73",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f326558acbcfe9dd183c": {
+      "id": "opp_f326558acbcfe9dd183c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/gpt-5-6-in-kiro",
+      "canonicalUrl": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "summaryEvidence": [
+        "https://openai.com/index/gpt-5-6-in-kiro"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9399d08eb283227695271d4ed6f1672f05c1ddeaf4717894fbdbb9f7906d4314",
+      "dedupeKey": "brief:opp_f326558acbcfe9dd183c:sha256:9399d08eb283227695271d4ed6f1672f05c1ddeaf4717894fbdbb9f7906d4314",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c6752cf5ca6a34f53fa7": {
+      "id": "opp_c6752cf5ca6a34f53fa7",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98354",
+      "canonicalUrl": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good",
+      "title": "Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 24 Aug 2026 20:56:32 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good. appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4aa9aae6d7b32660dc174db24e6133a803dfcaecf10c7fd50f0eef93ee72ff2c",
+      "dedupeKey": "brief:opp_c6752cf5ca6a34f53fa7:sha256:4aa9aae6d7b32660dc174db24e6133a803dfcaecf10c7fd50f0eef93ee72ff2c",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1223b038ed4471361acd": {
+      "id": "opp_1223b038ed4471361acd",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:uhyAITRQorg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uhyAITRQorg",
+      "title": "[한영자막] 유발 노아 하라리가 말하는 AI 미래의 위험성 | 이코노미스트",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T22:30:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 금융과 인간관계, 정치에 미칠 영향을 유발 노아 하라리와 함께 짚어봅니다. AI의 미래는 정해진 운명이 아니라 지금 우리가 내리는 선택에 달려 있다는 이야기입니다. 주요 포인트 - AI 장악이 불가피하다는 서사와 그 안에 숨은 책임 회피 - AI가 금융 시스템과 신뢰의 구조를 바꿀 수 있는 이유 - AI가 인간 친밀감을 대량 생산할 때 생기는 위험 - 유권자가 정치권에 지금 던져야 할 질문 #AI #인공지능 #유발노아하라리 #정치 #이코노미스트 ⏱ 타임라인: 00:00 AI 장악이 정해진",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=uhyAITRQorg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T22:30:35.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b24f07d39366ae7d8840cc669e2fc8ee41ff0327200d13cf2597e1f556a65f2",
+      "dedupeKey": "brief:opp_1223b038ed4471361acd:sha256:0b24f07d39366ae7d8840cc669e2fc8ee41ff0327200d13cf2597e1f556a65f2",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_70d80779063f4bfb617d": {
+      "id": "opp_70d80779063f4bfb617d",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:i1FoKc5X4_8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=i1FoKc5X4_8",
+      "title": "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T13:00:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ 🕖목차 00:00 정체불명 모델 ox-alpha 등장, 페이블급 성능에 GLM·구글설 02:33 스트라이프, 오픈라우터 10조에 인수 03:18 오픈AI, 프론티어 RL 훈련 일시 중지 03:48 GPT-5.6 Sol API 가격 20% 인하 04:06 코덱스에서 1M 토큰 컨텍스",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=i1FoKc5X4_8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T13:00:39.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f23ab304441d6a951882c7a05ca90fa75f238be771609f945fc45a467456a99e",
+      "dedupeKey": "brief:opp_70d80779063f4bfb617d:sha256:f23ab304441d6a951882c7a05ca90fa75f238be771609f945fc45a467456a99e",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f07c814383dbffb3492d": {
+      "id": "opp_f07c814383dbffb3492d",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:_qYUwrJ_XHo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_qYUwrJ_XHo",
+      "title": "스탠포드대 컴공과 교수: AI가 코딩하는 시대, 왜 배워야할까ㅣ크리스피치",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T10:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 코드를 대신 짜주는 시대, 그럼에도 프로그래밍을 배워야 한다고 말하는 컴공과 교수가 있습니다. 스탠포드 대학교에서 무료 코딩 교육 플랫폼 'Code in Place'를 운영하고 계신 크리스 피에크(Chris Piech)입니다. EO Global팀이 크리스를 직접 만나 AI 시대, 프로그래밍을 배워야 하는 이유를 들어보았습니다. 크리스는 학생들이 AI 시대의 불확실성에 불안해하는 게 당연하다고 하면서도 AI 시대일수록 스스로의 성장에 더 집중해야 한다는 말을 남겼는데요. 학생들을 진심으로 지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_qYUwrJ_XHo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-24T10:00:34.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3484b9b9554ce3db32de6a69c1a3ca7c839b4453bd7590b23090ecd9ce25c788",
+      "dedupeKey": "brief:opp_f07c814383dbffb3492d:sha256:3484b9b9554ce3db32de6a69c1a3ca7c839b4453bd7590b23090ecd9ce25c788",
+      "firstSeenAt": "2026-08-25T00:05:31.375Z",
+      "lastSeenAt": "2026-08-25T00:05:31.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -32391,6 +32793,42 @@
       "opportunityId": "opp_2841549cc5e7b5494711",
       "sentAt": "2026-08-24T09:43:23.795Z",
       "messageId": "1541382410308952097"
+    },
+    "brief:opp_c6752cf5ca6a34f53fa7:sha256:4aa9aae6d7b32660dc174db24e6133a803dfcaecf10c7fd50f0eef93ee72ff2c": {
+      "status": "SENT",
+      "opportunityId": "opp_c6752cf5ca6a34f53fa7",
+      "sentAt": "2026-08-25T00:05:31.375Z",
+      "messageId": "1541599371995648031"
+    },
+    "brief:opp_70d80779063f4bfb617d:sha256:f23ab304441d6a951882c7a05ca90fa75f238be771609f945fc45a467456a99e": {
+      "status": "SENT",
+      "opportunityId": "opp_70d80779063f4bfb617d",
+      "sentAt": "2026-08-25T00:05:31.375Z",
+      "messageId": "1541599371995648031"
+    },
+    "brief:opp_f326558acbcfe9dd183c:sha256:9399d08eb283227695271d4ed6f1672f05c1ddeaf4717894fbdbb9f7906d4314": {
+      "status": "SENT",
+      "opportunityId": "opp_f326558acbcfe9dd183c",
+      "sentAt": "2026-08-25T00:05:31.375Z",
+      "messageId": "1541599371995648031"
+    },
+    "brief:opp_60d35541be295ec4493f:sha256:997c8e0410d1602ed125dea344a35da63b48d2d20d39023cad1e72c16ebca1a0": {
+      "status": "SENT",
+      "opportunityId": "opp_60d35541be295ec4493f",
+      "sentAt": "2026-08-25T00:05:31.375Z",
+      "messageId": "1541599371995648031"
+    },
+    "brief:opp_1223b038ed4471361acd:sha256:0b24f07d39366ae7d8840cc669e2fc8ee41ff0327200d13cf2597e1f556a65f2": {
+      "status": "SENT",
+      "opportunityId": "opp_1223b038ed4471361acd",
+      "sentAt": "2026-08-25T00:05:31.375Z",
+      "messageId": "1541599371995648031"
+    },
+    "brief:opp_f07c814383dbffb3492d:sha256:3484b9b9554ce3db32de6a69c1a3ca7c839b4453bd7590b23090ecd9ce25c788": {
+      "status": "SENT",
+      "opportunityId": "opp_f07c814383dbffb3492d",
+      "sentAt": "2026-08-25T00:05:31.375Z",
+      "messageId": "1541599371995648031"
     }
   },
   "pending": {},
