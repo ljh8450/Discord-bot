@@ -29629,6 +29629,650 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_4b4b6a630ad6a31ccd21": {
+      "id": "opp_4b4b6a630ad6a31ccd21",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32862",
+      "canonicalUrl": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
+      "title": "뉴스 읽기는 담배 피우는 것과 같다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T10:00:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "뉴스를 거의 끊은 뒤 불안과 분노가 줄고, 머릿속이 조용해졌으며 주변 사람과 일에 더 집중할 수 있게 됨 뉴스는 드물고 극적인 범죄·갈등·사고를...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32862"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 18,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:cef94f162baa231c7e3947c89805f2009f2dd63c327a80d3c1759426fe291e0f",
+      "dedupeKey": "brief:opp_4b4b6a630ad6a31ccd21:sha256:cef94f162baa231c7e3947c89805f2009f2dd63c327a80d3c1759426fe291e0f",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_60651963c0deb6d0e868": {
+      "id": "opp_60651963c0deb6d0e868",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32854",
+      "canonicalUrl": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "title": "AI 의존이 코딩 전문성의 성장 경로를 무너뜨릴 수 있음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T06:33:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩 도구는 숙련자가 조정·검토할 때 가장 유용하지만, 초보자가 전문성을 쌓는 데 필요한 시행착오와 마찰을 우회해 차세대 개발자의 성장 경...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32854"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234",
+      "dedupeKey": "brief:opp_60651963c0deb6d0e868:sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4173ecc45744b9e0dce4": {
+      "id": "opp_4173ecc45744b9e0dce4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32870",
+      "canonicalUrl": "https://app.notion.com/p/Kimi-K3-Test-Report-3b76651bacea808bbccef6f9fd51cf11",
+      "title": "Kimi K3 실전 테스트: 웹·Flutter·Android 개발에서 확인한 강점과 한계",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T13:56:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Kimi K3 xhigh와 Kimi Code를 약 1주일 사용하며 웹 게임 개발, Android 레거시 앱 및 Crashlytics 분석, 프로젝트 보안 점검, Flutter 앱 개발, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32870"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:edf1849aedb0aab93f0d97d72fe90bfaf1e12994a6bf5d4ea408f63b50084d3e",
+      "dedupeKey": "brief:opp_4173ecc45744b9e0dce4:sha256:edf1849aedb0aab93f0d97d72fe90bfaf1e12994a6bf5d4ea408f63b50084d3e",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d02943c9906dd6716402": {
+      "id": "opp_d02943c9906dd6716402",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32856",
+      "canonicalUrl": "https://news.hada.io/topic?id=32856",
+      "title": "Show GN: 빈숲 - 국립공원·자연휴양림·공공캠핑장 빈자리 알림 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T07:58:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "100% AI 로만 만들었는데 잘 돌아가는게 신기하네요. 물론 다듬기작업하는데 시간이 매우 오래걸려서 딸깍만 한건 아니지만요. 제일편했던건 각 사...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32856"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6915db13455e2ca73946d8115ca6aa0b1911a9a09e27a4fc59019e6f6d130d1c",
+      "dedupeKey": "brief:opp_d02943c9906dd6716402:sha256:6915db13455e2ca73946d8115ca6aa0b1911a9a09e27a4fc59019e6f6d130d1c",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_382bee876589a17f6b2a": {
+      "id": "opp_382bee876589a17f6b2a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32861",
+      "canonicalUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩/리서치용 에이전트로, RLM(Recursive Language Model) 과 Continual Harness 두 가지 핵심 추상화를 중심으로 설계됨 RLM은 컨텍스트를 변수...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32861"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:df91a92014e7771046cd5a22e3929fba08edc3034051a17a6cef05e1faa19f8d",
+      "dedupeKey": "brief:opp_382bee876589a17f6b2a:sha256:df91a92014e7771046cd5a22e3929fba08edc3034051a17a6cef05e1faa19f8d",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bd4e640601f820a4226e": {
+      "id": "opp_bd4e640601f820a4226e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32846",
+      "canonicalUrl": "https://twitter.com/paulg/status/2091544343589060625",
+      "title": "내가 17살이라면 LLM을 처음부터 만드는 법을 배우겠다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T22:31:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Paul Graham은 지금 17살이라면 LLM을 처음부터 만드는 법을 배우고, 접근 가능한 하드웨어로 가능한 한 강력한 모델을 직접 학습해볼 것이라고 말...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32846"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 8,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:279706b824111e1f4228039ab9024bf6bbcd6f34b1b7c8fc1f910f7bbd339642",
+      "dedupeKey": "brief:opp_bd4e640601f820a4226e:sha256:279706b824111e1f4228039ab9024bf6bbcd6f34b1b7c8fc1f910f7bbd339642",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_baeed217d55f0e6c1679": {
+      "id": "opp_baeed217d55f0e6c1679",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32849",
+      "canonicalUrl": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "title": "SELF - SQLite 데이터베이스 자체를 실행 파일로 쓰는 파일 포맷",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T01:33:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SELF(Structured Executable & Linkable Format) 는 실행 파일 자체를 SQLite로 만들고, chmod +x 권한을 부여해 일반 바이너리처럼 실행하는 프로...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32849"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
+      "dedupeKey": "brief:opp_baeed217d55f0e6c1679:sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd20c66b8e990494efda": {
+      "id": "opp_cd20c66b8e990494efda",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32821",
+      "canonicalUrl": "https://lalitm.com/post/find-problems-staff-engineer",
+      "title": "스태프 엔지니어로서 해결할 문제를 찾는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T09:33:10+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "스태프 엔지니어는 주어진 어려운 과제를 푸는 데 그치지 않고, 일상 업무에서 흘러나오는 마찰을 흡수해 조직이 아직 인식하지 못한 중요한 문제...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32821"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
+      "dedupeKey": "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1ffb306fcf31269b4e4c": {
+      "id": "opp_1ffb306fcf31269b4e4c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32843",
+      "canonicalUrl": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "title": "17만 곳 넘는 비영리단체가 데이터를 잃었다… Microsoft 책임인가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T20:32:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Microsoft가 무료 Microsoft 365 비영리 라이선스를 단계적으로 종료하면서 일부 소규모 단체의 OneDrive 데이터가 대비할 틈 없이 삭제됐고, 한 M...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32843"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 16,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
+      "dedupeKey": "brief:opp_1ffb306fcf31269b4e4c:sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2766310e1f11a850d408": {
+      "id": "opp_2766310e1f11a850d408",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32825",
+      "canonicalUrl": "https://schlarp.com/posts/everything-i-own-owned",
+      "title": "내 주변기기를 역공학해 진짜 내 것으로 만들기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-24T10:33:10+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Opus 5로 주변기기 5종의 펌웨어를 역공학해 마이크 명령 셸, 녹화 중 끌 수 있는 웹캠 LED, Wi-Fi를 통한 비인증 메모리 쓰기를 찾아냄 Li...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32825"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 20,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a58276496d17cfcb9b4f5f5be4ce56e5ac175ce464b35f48d524ff8ed81f758e",
+      "dedupeKey": "brief:opp_2766310e1f11a850d408:sha256:a58276496d17cfcb9b4f5f5be4ce56e5ac175ce464b35f48d524ff8ed81f758e",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_800f17f9fb11ee81cb40": {
+      "id": "opp_800f17f9fb11ee81cb40",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "canonicalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "summaryEvidence": [
+        "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b3ae59d38046adb0503b38ca65a343dd1efcadb4c045ce3df0007c979680e241",
+      "dedupeKey": "brief:opp_800f17f9fb11ee81cb40:sha256:b3ae59d38046adb0503b38ca65a343dd1efcadb4c045ce3df0007c979680e241",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bd29c9dd47190609606f": {
+      "id": "opp_bd29c9dd47190609606f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:-4lID6Ww0OA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-4lID6Ww0OA",
+      "title": "[한영자막] 샘 알트먼이 OpenAI를 만들고 불가능에 베팅한 이야기",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T09:00:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "샘 알트먼이 OpenAI를 만들며 마주한 불가능한 목표, 빠른 반복 배포, 그리고 AI 안전에 대한 생각을 깊이 있게 이야기합니다. AGI를 향한 경쟁이 빨라지는 지금, 제품을 세상에 내놓고 배우는 방식과 책임 있게 기술을 발전시키는 방법을 함께 살펴봅니다. 주요 포인트 - OpenAI 초창기의 시행착오와 스케일링 법칙이 만든 변화 - 부끄러울 만큼 이른 출시와 빠른 피드백의 가치 - AGI 경쟁, 컴퓨트, 연구 조직을 운영하는 방식 - AI 안전을 위해 배포와 사고 분석을 병행해야 하는 이유 -",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-4lID6Ww0OA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-25T09:00:03.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ced37682855ffff034ac019c995df1ff3d90f0ff589e2811bd2b8d44dab70a1d",
+      "dedupeKey": "brief:opp_bd29c9dd47190609606f:sha256:ced37682855ffff034ac019c995df1ff3d90f0ff589e2811bd2b8d44dab70a1d",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cf64838cecc2897ed9bb": {
+      "id": "opp_cf64838cecc2897ed9bb",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:-GjUe3zyY0g",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-GjUe3zyY0g",
+      "title": "[한영자막] ChatGPT 다음에는 무엇이 있을까요? AI의 대모에게는 계획이 있습니다 | The Circuit",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T03:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Fei-Fei Li가 ChatGPT 이후의 AI가 어디로 향할지, 그리고 인간을 위한 AI를 어떻게 만들고 있는지 이야기합니다. World Labs의 월드 모델과 로보틱스, AI의 미래에 대한 생각을 만나보세요. 주요 포인트 - ImageNet이 현대 AI 혁명을 어떻게 촉발했는지 - ChatGPT·Claude 같은 LLM을 넘어서는 월드 모델의 가능성 - World Labs가 만드는 3D·4D 공간 지능과 Marble - 로보틱스와 휴머노이드 AI의 현실적인 과제 - 인간을 대체하기보다 역량을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-GjUe3zyY0g"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-25T09:00:03.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6b6b544dfd0e8ef37a0561912a057bcda1071c01166e59406503117cac00a42f",
+      "dedupeKey": "brief:opp_cf64838cecc2897ed9bb:sha256:6b6b544dfd0e8ef37a0561912a057bcda1071c01166e59406503117cac00a42f",
+      "firstSeenAt": "2026-08-25T09:05:30.590Z",
+      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -32901,6 +33545,36 @@
       "opportunityId": "opp_9aee061ce549893f0b7e",
       "sentAt": "2026-08-25T01:18:56.284Z",
       "messageId": "1541617847485071492"
+    },
+    "brief:opp_cf64838cecc2897ed9bb:sha256:6b6b544dfd0e8ef37a0561912a057bcda1071c01166e59406503117cac00a42f": {
+      "status": "SENT",
+      "opportunityId": "opp_cf64838cecc2897ed9bb",
+      "sentAt": "2026-08-25T09:05:30.590Z",
+      "messageId": "1541735264232149053"
+    },
+    "brief:opp_382bee876589a17f6b2a:sha256:df91a92014e7771046cd5a22e3929fba08edc3034051a17a6cef05e1faa19f8d": {
+      "status": "SENT",
+      "opportunityId": "opp_382bee876589a17f6b2a",
+      "sentAt": "2026-08-25T09:05:30.590Z",
+      "messageId": "1541735264232149053"
+    },
+    "brief:opp_800f17f9fb11ee81cb40:sha256:b3ae59d38046adb0503b38ca65a343dd1efcadb4c045ce3df0007c979680e241": {
+      "status": "SENT",
+      "opportunityId": "opp_800f17f9fb11ee81cb40",
+      "sentAt": "2026-08-25T09:05:30.590Z",
+      "messageId": "1541735264232149053"
+    },
+    "brief:opp_bd4e640601f820a4226e:sha256:279706b824111e1f4228039ab9024bf6bbcd6f34b1b7c8fc1f910f7bbd339642": {
+      "status": "SENT",
+      "opportunityId": "opp_bd4e640601f820a4226e",
+      "sentAt": "2026-08-25T09:05:30.590Z",
+      "messageId": "1541735264232149053"
+    },
+    "brief:opp_bd29c9dd47190609606f:sha256:ced37682855ffff034ac019c995df1ff3d90f0ff589e2811bd2b8d44dab70a1d": {
+      "status": "SENT",
+      "opportunityId": "opp_bd29c9dd47190609606f",
+      "sentAt": "2026-08-25T09:05:30.590Z",
+      "messageId": "1541735264232149053"
     }
   },
   "pending": {},
