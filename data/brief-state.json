@@ -28593,7 +28593,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 3,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -28607,11 +28607,11 @@
       },
       "contentHash": "sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
       "dedupeKey": "brief:opp_941ed9133b185305f9ad:sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304",
-      "firstSeenAt": "2026-08-25T00:05:31.375Z",
-      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "firstSeenAt": "2026-08-25T01:18:56.284Z",
+      "lastSeenAt": "2026-08-25T01:18:56.284Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -28739,26 +28739,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 10,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
       "dedupeKey": "brief:opp_9aee061ce549893f0b7e:sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7",
-      "firstSeenAt": "2026-08-25T00:05:31.375Z",
-      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "firstSeenAt": "2026-08-25T01:18:56.284Z",
+      "lastSeenAt": "2026-08-25T01:18:56.284Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -29249,7 +29249,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 7,
         "communityRank": 11,
         "contentScore": 10,
         "contentScoreBreakdown": {
@@ -29264,8 +29264,8 @@
       },
       "contentHash": "sha256:fb58fc16ff5e88af2b8dea43a7bdd7b3650a3c587fe26da183acc227f1129eb3",
       "dedupeKey": "brief:opp_2c948d8d66b772013658:sha256:fb58fc16ff5e88af2b8dea43a7bdd7b3650a3c587fe26da183acc227f1129eb3",
-      "firstSeenAt": "2026-08-25T00:05:31.375Z",
-      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "firstSeenAt": "2026-08-25T01:18:56.284Z",
+      "lastSeenAt": "2026-08-25T01:18:56.284Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -29299,13 +29299,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 16,
-        "contentScore": 10,
+        "communityRank": 20,
+        "contentScore": 9,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 9,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -29313,8 +29313,8 @@
       },
       "contentHash": "sha256:64248b134bbf46ec2ea56a920a83b0415c118f281814503c9a5096389aebfc73",
       "dedupeKey": "brief:opp_5d0886e1dc9bf554ecf4:sha256:64248b134bbf46ec2ea56a920a83b0415c118f281814503c9a5096389aebfc73",
-      "firstSeenAt": "2026-08-25T00:05:31.375Z",
-      "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "firstSeenAt": "2026-08-25T01:18:56.284Z",
+      "lastSeenAt": "2026-08-25T01:18:56.284Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -29570,6 +29570,60 @@
       "dedupeKey": "brief:opp_f07c814383dbffb3492d:sha256:3484b9b9554ce3db32de6a69c1a3ca7c839b4453bd7590b23090ecd9ce25c788",
       "firstSeenAt": "2026-08-25T00:05:31.375Z",
       "lastSeenAt": "2026-08-25T00:05:31.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2377caddb75beea1caea": {
+      "id": "opp_2377caddb75beea1caea",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:rZQDZWayzNo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rZQDZWayzNo",
+      "title": "This Open Source Repo Solve Claude's #1 Problem",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T00:50:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Claude (or any AI model) can't be trusted to grade its own work. So",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=rZQDZWayzNo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-25T00:50:33.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6096ecc5e8b3b46a06eb30c6ac01aa2f4df008309bdc1d3c78fb53906f729820",
+      "dedupeKey": "brief:opp_2377caddb75beea1caea:sha256:6096ecc5e8b3b46a06eb30c6ac01aa2f4df008309bdc1d3c78fb53906f729820",
+      "firstSeenAt": "2026-08-25T01:18:56.284Z",
+      "lastSeenAt": "2026-08-25T01:18:56.284Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -32829,6 +32883,24 @@
       "opportunityId": "opp_f07c814383dbffb3492d",
       "sentAt": "2026-08-25T00:05:31.375Z",
       "messageId": "1541599371995648031"
+    },
+    "brief:opp_2377caddb75beea1caea:sha256:6096ecc5e8b3b46a06eb30c6ac01aa2f4df008309bdc1d3c78fb53906f729820": {
+      "status": "SENT",
+      "opportunityId": "opp_2377caddb75beea1caea",
+      "sentAt": "2026-08-25T01:18:56.284Z",
+      "messageId": "1541617847485071492"
+    },
+    "brief:opp_941ed9133b185305f9ad:sha256:ce50711803a0c675f052e3ac621cbf38440d474454013103ca3c96f6d597e304": {
+      "status": "SENT",
+      "opportunityId": "opp_941ed9133b185305f9ad",
+      "sentAt": "2026-08-25T01:18:56.284Z",
+      "messageId": "1541617847485071492"
+    },
+    "brief:opp_9aee061ce549893f0b7e:sha256:a5a6497bc7120e7fb4e905c18d39a5d9c11aec1ee1ffc9c49107cf4abdae38d7": {
+      "status": "SENT",
+      "opportunityId": "opp_9aee061ce549893f0b7e",
+      "sentAt": "2026-08-25T01:18:56.284Z",
+      "messageId": "1541617847485071492"
     }
   },
   "pending": {},
