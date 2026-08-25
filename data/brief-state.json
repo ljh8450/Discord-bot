@@ -29671,11 +29671,11 @@
       },
       "contentHash": "sha256:cef94f162baa231c7e3947c89805f2009f2dd63c327a80d3c1759426fe291e0f",
       "dedupeKey": "brief:opp_4b4b6a630ad6a31ccd21:sha256:cef94f162baa231c7e3947c89805f2009f2dd63c327a80d3c1759426fe291e0f",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -29720,8 +29720,8 @@
       },
       "contentHash": "sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234",
       "dedupeKey": "brief:opp_60651963c0deb6d0e868:sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -29769,11 +29769,11 @@
       },
       "contentHash": "sha256:edf1849aedb0aab93f0d97d72fe90bfaf1e12994a6bf5d4ea408f63b50084d3e",
       "dedupeKey": "brief:opp_4173ecc45744b9e0dce4:sha256:edf1849aedb0aab93f0d97d72fe90bfaf1e12994a6bf5d4ea408f63b50084d3e",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -29803,23 +29803,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 10,
         "communityRank": 4,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:6915db13455e2ca73946d8115ca6aa0b1911a9a09e27a4fc59019e6f6d130d1c",
       "dedupeKey": "brief:opp_d02943c9906dd6716402:sha256:6915db13455e2ca73946d8115ca6aa0b1911a9a09e27a4fc59019e6f6d130d1c",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -29950,8 +29950,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 13,
+        "communityPoints": 6,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -29965,8 +29965,8 @@
       },
       "contentHash": "sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
       "dedupeKey": "brief:opp_baeed217d55f0e6c1679:sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30000,7 +30000,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 14,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -30014,8 +30014,8 @@
       },
       "contentHash": "sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
       "dedupeKey": "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30063,8 +30063,8 @@
       },
       "contentHash": "sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
       "dedupeKey": "brief:opp_1ffb306fcf31269b4e4c:sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30112,8 +30112,8 @@
       },
       "contentHash": "sha256:a58276496d17cfcb9b4f5f5be4ce56e5ac175ce464b35f48d524ff8ed81f758e",
       "dedupeKey": "brief:opp_2766310e1f11a850d408:sha256:a58276496d17cfcb9b4f5f5be4ce56e5ac175ce464b35f48d524ff8ed81f758e",
-      "firstSeenAt": "2026-08-25T09:05:30.590Z",
-      "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "firstSeenAt": "2026-08-25T09:32:12.852Z",
+      "lastSeenAt": "2026-08-25T09:32:12.852Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -33575,6 +33575,18 @@
       "opportunityId": "opp_bd29c9dd47190609606f",
       "sentAt": "2026-08-25T09:05:30.590Z",
       "messageId": "1541735264232149053"
+    },
+    "brief:opp_4173ecc45744b9e0dce4:sha256:edf1849aedb0aab93f0d97d72fe90bfaf1e12994a6bf5d4ea408f63b50084d3e": {
+      "status": "SENT",
+      "opportunityId": "opp_4173ecc45744b9e0dce4",
+      "sentAt": "2026-08-25T09:32:12.852Z",
+      "messageId": "1541741984744742914"
+    },
+    "brief:opp_4b4b6a630ad6a31ccd21:sha256:cef94f162baa231c7e3947c89805f2009f2dd63c327a80d3c1759426fe291e0f": {
+      "status": "SENT",
+      "opportunityId": "opp_4b4b6a630ad6a31ccd21",
+      "sentAt": "2026-08-25T09:32:12.852Z",
+      "messageId": "1541741984744742914"
     }
   },
   "pending": {},
