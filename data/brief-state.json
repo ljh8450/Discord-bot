@@ -30000,7 +30000,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 14,
-        "communityRank": 20,
+        "communityRank": 19,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -30014,11 +30014,11 @@
       },
       "contentHash": "sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
       "dedupeKey": "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
-      "firstSeenAt": "2026-08-26T09:05:47.423Z",
-      "lastSeenAt": "2026-08-26T09:05:47.423Z",
+      "firstSeenAt": "2026-08-26T09:37:23.510Z",
+      "lastSeenAt": "2026-08-26T09:37:23.510Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -30917,6 +30917,59 @@
       "dedupeKey": "brief:opp_4fa0a36a3ec22766e4d5:sha256:8b013a5ae6081b82f96dda6db31f2ec355b7cdbf6218917da573ad91a8014516",
       "firstSeenAt": "2026-08-26T09:05:47.423Z",
       "lastSeenAt": "2026-08-26T09:05:47.423Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9267786824e47d790d18": {
+      "id": "opp_9267786824e47d790d18",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:j1bhs3_VZDU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=j1bhs3_VZDU",
+      "title": "[한영자막] 안드레이 카파시가 걸어온 길 | 그는 어떻게 AI 최고의 인재가 됐을까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-26T09:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "안드레이 카파시는 어떻게 세계 최고의 AI 인재 중 한 명이 됐을까요? 루빅스 큐브에서 컴퓨터 비전, Tesla Autopilot, vibe coding까지 그의 여정을 따라가 봅니다. 주요 포인트 - 제프리 힌턴의 AlexNet이 AI와 이미지 인식을 어떻게 바꿨는지 - 컴퓨터가 이미지를 설명하게 만든 카파시의 연구 - Barack Obama 체중계 사진이 보여준 초기 AI의 한계 - Tesla Autopilot의 3D 컴퓨터 비전 시스템을 바꾼 핵심 결정 - vibe coding과 차세대 AI",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=j1bhs3_VZDU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-26T09:00:15.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:020cb33e86e907120fe9065f7d310e6b7aef8bc8770f36ec15c160f006f2947f",
+      "dedupeKey": "brief:opp_9267786824e47d790d18:sha256:020cb33e86e907120fe9065f7d310e6b7aef8bc8770f36ec15c160f006f2947f",
+      "firstSeenAt": "2026-08-26T09:37:23.510Z",
+      "lastSeenAt": "2026-08-26T09:37:23.510Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -34326,6 +34379,18 @@
       "opportunityId": "opp_76088924b41480867a56",
       "sentAt": "2026-08-26T09:05:47.423Z",
       "messageId": "1542097722075521155"
+    },
+    "brief:opp_9267786824e47d790d18:sha256:020cb33e86e907120fe9065f7d310e6b7aef8bc8770f36ec15c160f006f2947f": {
+      "status": "SENT",
+      "opportunityId": "opp_9267786824e47d790d18",
+      "sentAt": "2026-08-26T09:37:23.510Z",
+      "messageId": "1542105674669101178"
+    },
+    "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d": {
+      "status": "SENT",
+      "opportunityId": "opp_cd20c66b8e990494efda",
+      "sentAt": "2026-08-26T09:37:23.510Z",
+      "messageId": "1542105674669101178"
     }
   },
   "pending": {},
