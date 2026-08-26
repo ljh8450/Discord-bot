@@ -29951,7 +29951,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 9,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -29965,11 +29965,11 @@
       },
       "contentHash": "sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
       "dedupeKey": "brief:opp_baeed217d55f0e6c1679:sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
-      "firstSeenAt": "2026-08-26T00:06:12.020Z",
-      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -30000,13 +30000,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityRank": 14,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -30014,8 +30014,8 @@
       },
       "contentHash": "sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
       "dedupeKey": "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
-      "firstSeenAt": "2026-08-26T00:06:12.020Z",
-      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30049,7 +30049,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 14,
+        "communityRank": 19,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -30063,8 +30063,8 @@
       },
       "contentHash": "sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
       "dedupeKey": "brief:opp_1ffb306fcf31269b4e4c:sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
-      "firstSeenAt": "2026-08-26T00:06:12.020Z",
-      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30097,8 +30097,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 20,
+        "communityPoints": 9,
+        "communityRank": 18,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -30112,8 +30112,8 @@
       },
       "contentHash": "sha256:a58276496d17cfcb9b4f5f5be4ce56e5ac175ce464b35f48d524ff8ed81f758e",
       "dedupeKey": "brief:opp_2766310e1f11a850d408:sha256:a58276496d17cfcb9b4f5f5be4ce56e5ac175ce464b35f48d524ff8ed81f758e",
-      "firstSeenAt": "2026-08-25T09:32:12.852Z",
-      "lastSeenAt": "2026-08-25T09:32:12.852Z",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30301,7 +30301,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 13,
+        "communityRank": 16,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -30315,11 +30315,11 @@
       },
       "contentHash": "sha256:d171f85262433145dae0a9b5bc112b064c200fb92aa672a7860f821999b702d6",
       "dedupeKey": "brief:opp_8969bc8239a6a130a669:sha256:d171f85262433145dae0a9b5bc112b064c200fb92aa672a7860f821999b702d6",
-      "firstSeenAt": "2026-08-26T00:06:12.020Z",
-      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -30459,11 +30459,11 @@
       },
       "contentHash": "sha256:b6a4002a86b2cf801a0e59de1e78dd375756bafe69df120f960d9716b57c16f2",
       "dedupeKey": "brief:opp_bdc72c6ff9562b8a8325:sha256:b6a4002a86b2cf801a0e59de1e78dd375756bafe69df120f960d9716b57c16f2",
-      "firstSeenAt": "2026-08-26T00:06:12.020Z",
-      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -30611,6 +30611,55 @@
       "dedupeKey": "brief:opp_b509624f20d74330e725:sha256:3f7319673805579aff6647a1b08d86742e59b1c83e1396c0d6302073d699ecd1",
       "firstSeenAt": "2026-08-26T00:06:12.020Z",
       "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_037a7ffbe62a0351d193": {
+      "id": "opp_037a7ffbe62a0351d193",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/tech_talk_talk_3",
+      "canonicalUrl": "https://toss.tech/article/tech_talk_talk_3",
+      "title": "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 26 Aug 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요, 토스증권 AI 데이터 플랫폼 팀에서 ML 엔지니어로 일하고 있는 황호익입니다. 이번 글에서는 토스증권 안에서 추천과 검색이 어떤 방향으로 진화하고 있는지 이야기해보려고 해요. 추천은 어떻게 배치 중심에서 실시간 개인화로 바뀌고 있는지, 검색은 어떻게 키워드와 필터를 넘어 RAG와 그래프 RAG로 확장되고 있는지 순서대로 다룰게요. 완성된 정답이라기보다는, 시스템을 만들면서 마주친 고민들이라고 봐주시면 좋겠습니다. 토스증권 AI 데이터 플랫폼 팀의 미션 토스증권의 모든 AI 서비스가 공",
+      "summaryEvidence": [
+        "https://toss.tech/article/tech_talk_talk_3"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6c0e06aaba479be95b23d49f6abea99d886184588535de36064c0813eb3e5654",
+      "dedupeKey": "brief:opp_037a7ffbe62a0351d193:sha256:6c0e06aaba479be95b23d49f6abea99d886184588535de36064c0813eb3e5654",
+      "firstSeenAt": "2026-08-26T01:21:57.993Z",
+      "lastSeenAt": "2026-08-26T01:21:57.993Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -33966,6 +34015,30 @@
       "opportunityId": "opp_60651963c0deb6d0e868",
       "sentAt": "2026-08-26T00:06:12.020Z",
       "messageId": "1541961929847865407"
+    },
+    "brief:opp_037a7ffbe62a0351d193:sha256:6c0e06aaba479be95b23d49f6abea99d886184588535de36064c0813eb3e5654": {
+      "status": "SENT",
+      "opportunityId": "opp_037a7ffbe62a0351d193",
+      "sentAt": "2026-08-26T01:21:57.993Z",
+      "messageId": "1541980997384540293"
+    },
+    "brief:opp_bdc72c6ff9562b8a8325:sha256:b6a4002a86b2cf801a0e59de1e78dd375756bafe69df120f960d9716b57c16f2": {
+      "status": "SENT",
+      "opportunityId": "opp_bdc72c6ff9562b8a8325",
+      "sentAt": "2026-08-26T01:21:57.993Z",
+      "messageId": "1541980997384540293"
+    },
+    "brief:opp_8969bc8239a6a130a669:sha256:d171f85262433145dae0a9b5bc112b064c200fb92aa672a7860f821999b702d6": {
+      "status": "SENT",
+      "opportunityId": "opp_8969bc8239a6a130a669",
+      "sentAt": "2026-08-26T01:21:57.993Z",
+      "messageId": "1541980997384540293"
+    },
+    "brief:opp_baeed217d55f0e6c1679:sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82": {
+      "status": "SENT",
+      "opportunityId": "opp_baeed217d55f0e6c1679",
+      "sentAt": "2026-08-26T01:21:57.993Z",
+      "messageId": "1541980997384540293"
     }
   },
   "pending": {},
