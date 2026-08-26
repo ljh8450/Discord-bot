@@ -29999,8 +29999,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
-        "communityRank": 14,
+        "communityPoints": 14,
+        "communityRank": 20,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -30014,8 +30014,8 @@
       },
       "contentHash": "sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
       "dedupeKey": "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
-      "firstSeenAt": "2026-08-26T01:21:57.993Z",
-      "lastSeenAt": "2026-08-26T01:21:57.993Z",
+      "firstSeenAt": "2026-08-26T09:05:47.423Z",
+      "lastSeenAt": "2026-08-26T09:05:47.423Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30660,6 +30660,263 @@
       "dedupeKey": "brief:opp_037a7ffbe62a0351d193:sha256:6c0e06aaba479be95b23d49f6abea99d886184588535de36064c0813eb3e5654",
       "firstSeenAt": "2026-08-26T01:21:57.993Z",
       "lastSeenAt": "2026-08-26T01:21:57.993Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5841ba8e3cd7695aebad": {
+      "id": "opp_5841ba8e3cd7695aebad",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32891",
+      "canonicalUrl": "https://turso.tech/blog/how-poke-gives-every-user-their-own-database",
+      "title": "AI로 만든 웹사이트마다 전용 DB를 하나씩 제공하는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-26T09:15:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "iMessage 기반 개인 비서 Poke는 사용자가 문자로 요청한 웹사이트를 만들어 Vercel에 배포하고, 생성된 사이트마다 별도의 Turso 데이터베이스(DB...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32891"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 13,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:f56e5408cc5a69f70d689223660f80829df84a3ffceb726fa367edc77a414d4e",
+      "dedupeKey": "brief:opp_5841ba8e3cd7695aebad:sha256:f56e5408cc5a69f70d689223660f80829df84a3ffceb726fa367edc77a414d4e",
+      "firstSeenAt": "2026-08-26T09:05:47.423Z",
+      "lastSeenAt": "2026-08-26T09:05:47.423Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_76088924b41480867a56": {
+      "id": "opp_76088924b41480867a56",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32896",
+      "canonicalUrl": "https://paulgraham.com/prepare.html",
+      "title": "대학은 예비 창업가를 어떻게 준비시켜야 하는가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-26T11:54:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "YC가 찾는 유망한 창업가는 무언가를 잘 만들고 꾸준히 만들어온 사람이며, 대학은 별도의 창업 교육보다 컴퓨터과학·기계공학·분자생물학처럼 제...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32896"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:588784256dfe3c6c7f39814e9d56dc63e9ebae285420ea1434f22090cdb75d24",
+      "dedupeKey": "brief:opp_76088924b41480867a56:sha256:588784256dfe3c6c7f39814e9d56dc63e9ebae285420ea1434f22090cdb75d24",
+      "firstSeenAt": "2026-08-26T09:05:47.423Z",
+      "lastSeenAt": "2026-08-26T09:05:47.423Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cf1cd8790849b5bbec6c": {
+      "id": "opp_cf1cd8790849b5bbec6c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:uogfQG6JZwA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uogfQG6JZwA",
+      "title": "[한영자막] 왜 Codex로 바꿨을까요? 제가 두 개의 구독을 쓰는 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-26T03:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Codex로 바꾼 뒤 실제 워크플로가 어떻게 달라졌는지, Claude Code와 비교해 직접 사용한 경험을 정리했습니다. 코딩 성능뿐 아니라 컴퓨터 사용, 모바일 원격 제어, 모델 선택과 구독 비용까지 살펴봅니다. 주요 포인트 • Codex의 백그라운드 컴퓨터 사용이 개발과 테스트를 어떻게 바꾸는지 • 여러 시뮬레이터와 대시보드를 동시에 다루는 실제 활용 사례 • 항공권 검색처럼 마지막 결제 단계까지 검증하는 에이전트 워크플로 • Codex, Claude Code, Fable 5를 작업별로 나누어",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=uogfQG6JZwA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-26T03:00:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b9071037bb2fd0d11a0e2137ecc3e033bb5568062a523ef3e9ff92c0c874d4d",
+      "dedupeKey": "brief:opp_cf1cd8790849b5bbec6c:sha256:0b9071037bb2fd0d11a0e2137ecc3e033bb5568062a523ef3e9ff92c0c874d4d",
+      "firstSeenAt": "2026-08-26T09:05:47.423Z",
+      "lastSeenAt": "2026-08-26T09:05:47.423Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f4d6d4eca9f7d1434245": {
+      "id": "opp_f4d6d4eca9f7d1434245",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:PZzAxqF0KCI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PZzAxqF0KCI",
+      "title": "클로드로 뽑은 글에 워터마크가 생긴다고??",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-08-26T03:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "비상!!! 강의 https://codingapple.com/ 개별강의 10% 할인쿠폰 templeos2018 (자주 바뀜 최신영상 참고) 사용한자료 https://tenor.com/bdJzq.gif https://tenor.com/erYyFcwYoJu.gif https://tenor.com/r5qcHNzc4vc.gif https://tenor.com/bpuc5.gif https://tenor.com/bV5tp.gif https://tenor.com/eq3NQmY0p6U.gif Brendan Smi",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PZzAxqF0KCI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-26T03:00:22.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6b77f3c10b514f7c054cb0210cbef53cd1514226aafe3e0b00902bf18c6ef70e",
+      "dedupeKey": "brief:opp_f4d6d4eca9f7d1434245:sha256:6b77f3c10b514f7c054cb0210cbef53cd1514226aafe3e0b00902bf18c6ef70e",
+      "firstSeenAt": "2026-08-26T09:05:47.423Z",
+      "lastSeenAt": "2026-08-26T09:05:47.423Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4fa0a36a3ec22766e4d5": {
+      "id": "opp_4fa0a36a3ec22766e4d5",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:MosypojkWgU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MosypojkWgU",
+      "title": "삼성 엑시노스 2700, 차세대 퀄컴 압도? 이번 내부 테스트가 유독 신빙성 높은 이유",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-26T04:32:23+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Exynos 2700이 차세대 Snapdragon보다 CPU와 GPU 성능에서 앞섰다는 내부 테스트 결과가 알려졌습니다. 특히 같은 2.5W 전력 조건에서는 GPU 성능 차이가 22~24%까지 벌어졌다고 합니다. 평소라면 출시 전 내부 벤치마크 정도로 넘길 수도 있는 이야기입니다. 그런데 이번 결과는 Exynos를 만드는 System LSI가 아니라 실제 Galaxy를 담당하는 MX사업부의 평가로 알려졌습니다. 영상에서는 왜 이 차이가 꽤 중요한지 삼성전자 내부 구조와 실제 부품 조달 사례를 통해",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=MosypojkWgU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-26T04:32:23.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8b013a5ae6081b82f96dda6db31f2ec355b7cdbf6218917da573ad91a8014516",
+      "dedupeKey": "brief:opp_4fa0a36a3ec22766e4d5:sha256:8b013a5ae6081b82f96dda6db31f2ec355b7cdbf6218917da573ad91a8014516",
+      "firstSeenAt": "2026-08-26T09:05:47.423Z",
+      "lastSeenAt": "2026-08-26T09:05:47.423Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -34039,6 +34296,36 @@
       "opportunityId": "opp_baeed217d55f0e6c1679",
       "sentAt": "2026-08-26T01:21:57.993Z",
       "messageId": "1541980997384540293"
+    },
+    "brief:opp_cf1cd8790849b5bbec6c:sha256:0b9071037bb2fd0d11a0e2137ecc3e033bb5568062a523ef3e9ff92c0c874d4d": {
+      "status": "SENT",
+      "opportunityId": "opp_cf1cd8790849b5bbec6c",
+      "sentAt": "2026-08-26T09:05:47.423Z",
+      "messageId": "1542097722075521155"
+    },
+    "brief:opp_f4d6d4eca9f7d1434245:sha256:6b77f3c10b514f7c054cb0210cbef53cd1514226aafe3e0b00902bf18c6ef70e": {
+      "status": "SENT",
+      "opportunityId": "opp_f4d6d4eca9f7d1434245",
+      "sentAt": "2026-08-26T09:05:47.423Z",
+      "messageId": "1542097722075521155"
+    },
+    "brief:opp_5841ba8e3cd7695aebad:sha256:f56e5408cc5a69f70d689223660f80829df84a3ffceb726fa367edc77a414d4e": {
+      "status": "SENT",
+      "opportunityId": "opp_5841ba8e3cd7695aebad",
+      "sentAt": "2026-08-26T09:05:47.423Z",
+      "messageId": "1542097722075521155"
+    },
+    "brief:opp_4fa0a36a3ec22766e4d5:sha256:8b013a5ae6081b82f96dda6db31f2ec355b7cdbf6218917da573ad91a8014516": {
+      "status": "SENT",
+      "opportunityId": "opp_4fa0a36a3ec22766e4d5",
+      "sentAt": "2026-08-26T09:05:47.423Z",
+      "messageId": "1542097722075521155"
+    },
+    "brief:opp_76088924b41480867a56:sha256:588784256dfe3c6c7f39814e9d56dc63e9ebae285420ea1434f22090cdb75d24": {
+      "status": "SENT",
+      "opportunityId": "opp_76088924b41480867a56",
+      "sentAt": "2026-08-26T09:05:47.423Z",
+      "messageId": "1542097722075521155"
     }
   },
   "pending": {},
