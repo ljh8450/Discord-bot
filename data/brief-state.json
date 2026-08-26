@@ -29705,14 +29705,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
+        "communityPoints": 16,
         "communityRank": 2,
-        "contentScore": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -29720,11 +29720,11 @@
       },
       "contentHash": "sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234",
       "dedupeKey": "brief:opp_60651963c0deb6d0e868:sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234",
-      "firstSeenAt": "2026-08-25T09:32:12.852Z",
-      "lastSeenAt": "2026-08-25T09:32:12.852Z",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -29950,14 +29950,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityPoints": 7,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -29965,8 +29965,8 @@
       },
       "contentHash": "sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
       "dedupeKey": "brief:opp_baeed217d55f0e6c1679:sha256:1ef8354702d6499c9aca7cfc0fae627c13568bc997374818d8e27387ef5acb82",
-      "firstSeenAt": "2026-08-25T09:32:12.852Z",
-      "lastSeenAt": "2026-08-25T09:32:12.852Z",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30000,7 +30000,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 15,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -30014,8 +30014,8 @@
       },
       "contentHash": "sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
       "dedupeKey": "brief:opp_cd20c66b8e990494efda:sha256:0686d93df2a7682b5f44487e82560ffe608ce4e563090986bc4f1c0fe2fe1c4d",
-      "firstSeenAt": "2026-08-25T09:32:12.852Z",
-      "lastSeenAt": "2026-08-25T09:32:12.852Z",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30049,13 +30049,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 16,
-        "contentScore": 11,
+        "communityRank": 14,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -30063,8 +30063,8 @@
       },
       "contentHash": "sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
       "dedupeKey": "brief:opp_1ffb306fcf31269b4e4c:sha256:d835e2185a25f95e7e4f6162056babcaadeba8a7d0da70f58ec1336dfbf4e52a",
-      "firstSeenAt": "2026-08-25T09:32:12.852Z",
-      "lastSeenAt": "2026-08-25T09:32:12.852Z",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -30268,6 +30268,349 @@
       "dedupeKey": "brief:opp_cf64838cecc2897ed9bb:sha256:6b6b544dfd0e8ef37a0561912a057bcda1071c01166e59406503117cac00a42f",
       "firstSeenAt": "2026-08-25T09:05:30.590Z",
       "lastSeenAt": "2026-08-25T09:05:30.590Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8969bc8239a6a130a669": {
+      "id": "opp_8969bc8239a6a130a669",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32853",
+      "canonicalUrl": "https://pantel.is/projects/ai-gaming-companion",
+      "title": "Varkos - 대화를 넘어 Skyrim 세계를 인식하고 행동하는 AI 동료",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T04:39:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Varkos는 대화만 생성하는 NPC를 넘어 Skyrim의 실제 세계 상태를 인식해 전투·수색·전리품 수집·운반·아이템 전달과 복합 명령을 수행하는 실시간...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32853"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d171f85262433145dae0a9b5bc112b064c200fb92aa672a7860f821999b702d6",
+      "dedupeKey": "brief:opp_8969bc8239a6a130a669:sha256:d171f85262433145dae0a9b5bc112b064c200fb92aa672a7860f821999b702d6",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eb738a12f3b2f149a31b": {
+      "id": "opp_eb738a12f3b2f149a31b",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "canonicalUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "title": "The full stack behind abundant intelligence",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "summaryEvidence": [
+        "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2972a173db331201a9c1974c59890f7cb23e17cec1826c2e25a1ec1c72d19ec6",
+      "dedupeKey": "brief:opp_eb738a12f3b2f149a31b:sha256:2972a173db331201a9c1974c59890f7cb23e17cec1826c2e25a1ec1c72d19ec6",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_adc6c64753630770560c": {
+      "id": "opp_adc6c64753630770560c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/jalapeno-first-results",
+      "canonicalUrl": "https://openai.com/index/jalapeno-first-results",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "summaryEvidence": [
+        "https://openai.com/index/jalapeno-first-results"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4763530bde5da85f98026f36dfbbee88e4056d739c0634e03806a0358393cd7b",
+      "dedupeKey": "brief:opp_adc6c64753630770560c:sha256:4763530bde5da85f98026f36dfbbee88e4056d739c0634e03806a0358393cd7b",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bdc72c6ff9562b8a8325": {
+      "id": "opp_bdc72c6ff9562b8a8325",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-admin-plugin",
+      "canonicalUrl": "https://openai.com/index/introducing-admin-plugin",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-admin-plugin"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b6a4002a86b2cf801a0e59de1e78dd375756bafe69df120f960d9716b57c16f2",
+      "dedupeKey": "brief:opp_bdc72c6ff9562b8a8325:sha256:b6a4002a86b2cf801a0e59de1e78dd375756bafe69df120f960d9716b57c16f2",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3e9211c4a149575003aa": {
+      "id": "opp_3e9211c4a149575003aa",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/wellbeing-research-grants",
+      "canonicalUrl": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/wellbeing-research-grants"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5d43ca30b43283312da4080955b0380e7b5438472d99c837f5426b8c46c34ae9",
+      "dedupeKey": "brief:opp_3e9211c4a149575003aa:sha256:5d43ca30b43283312da4080955b0380e7b5438472d99c837f5426b8c46c34ae9",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_99117c525fdf756786c2": {
+      "id": "opp_99117c525fdf756786c2",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98316",
+      "canonicalUrl": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "title": "How to evaluate LLMs before production",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 25 Aug 2026 21:35:11 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:95b7bcb3526af2065dbda44c7dae85a1411d6dc59a97813808aeb5165ba9649b",
+      "dedupeKey": "brief:opp_99117c525fdf756786c2:sha256:95b7bcb3526af2065dbda44c7dae85a1411d6dc59a97813808aeb5165ba9649b",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b509624f20d74330e725": {
+      "id": "opp_b509624f20d74330e725",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:tfgY2AEtklY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tfgY2AEtklY",
+      "title": "[한영자막] Claude로 예쁜 웹사이트를 만드는 디자인 스킬, 진짜 차이는 이것입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-25T22:00:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude로 웹사이트를 만들 때 결과가 매번 비슷하게 나온다면, 디자인 스킬을 바꿔보세요. 이 영상에서는 실제로 테스트해 차이를 만든 Claude 디자인 스킬과 활용법을 소개합니다. 주요 포인트 - Emil Kowalski의 디자인·애니메이션 스킬 - garden의 web design engineer 스킬 - 랜딩 페이지 전용 AI design skill - Awwwards 수준의 스크롤 기반 디자인 스킬 - review, layout, Tastemaker, perception laws 활용법",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=tfgY2AEtklY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-25T22:00:21.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f7319673805579aff6647a1b08d86742e59b1c83e1396c0d6302073d699ecd1",
+      "dedupeKey": "brief:opp_b509624f20d74330e725:sha256:3f7319673805579aff6647a1b08d86742e59b1c83e1396c0d6302073d699ecd1",
+      "firstSeenAt": "2026-08-26T00:06:12.020Z",
+      "lastSeenAt": "2026-08-26T00:06:12.020Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -33587,6 +33930,42 @@
       "opportunityId": "opp_4b4b6a630ad6a31ccd21",
       "sentAt": "2026-08-25T09:32:12.852Z",
       "messageId": "1541741984744742914"
+    },
+    "brief:opp_99117c525fdf756786c2:sha256:95b7bcb3526af2065dbda44c7dae85a1411d6dc59a97813808aeb5165ba9649b": {
+      "status": "SENT",
+      "opportunityId": "opp_99117c525fdf756786c2",
+      "sentAt": "2026-08-26T00:06:12.020Z",
+      "messageId": "1541961929847865407"
+    },
+    "brief:opp_eb738a12f3b2f149a31b:sha256:2972a173db331201a9c1974c59890f7cb23e17cec1826c2e25a1ec1c72d19ec6": {
+      "status": "SENT",
+      "opportunityId": "opp_eb738a12f3b2f149a31b",
+      "sentAt": "2026-08-26T00:06:12.020Z",
+      "messageId": "1541961929847865407"
+    },
+    "brief:opp_adc6c64753630770560c:sha256:4763530bde5da85f98026f36dfbbee88e4056d739c0634e03806a0358393cd7b": {
+      "status": "SENT",
+      "opportunityId": "opp_adc6c64753630770560c",
+      "sentAt": "2026-08-26T00:06:12.020Z",
+      "messageId": "1541961929847865407"
+    },
+    "brief:opp_3e9211c4a149575003aa:sha256:5d43ca30b43283312da4080955b0380e7b5438472d99c837f5426b8c46c34ae9": {
+      "status": "SENT",
+      "opportunityId": "opp_3e9211c4a149575003aa",
+      "sentAt": "2026-08-26T00:06:12.020Z",
+      "messageId": "1541961929847865407"
+    },
+    "brief:opp_b509624f20d74330e725:sha256:3f7319673805579aff6647a1b08d86742e59b1c83e1396c0d6302073d699ecd1": {
+      "status": "SENT",
+      "opportunityId": "opp_b509624f20d74330e725",
+      "sentAt": "2026-08-26T00:06:12.020Z",
+      "messageId": "1541961929847865407"
+    },
+    "brief:opp_60651963c0deb6d0e868:sha256:19ea6b08037312cfe2a7f7d90aece818bc3499d70e9e1ce328d41ad620098234": {
+      "status": "SENT",
+      "opportunityId": "opp_60651963c0deb6d0e868",
+      "sentAt": "2026-08-26T00:06:12.020Z",
+      "messageId": "1541961929847865407"
     }
   },
   "pending": {},
