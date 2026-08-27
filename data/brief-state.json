@@ -31053,12 +31053,12 @@
         "sourcePriority": 100,
         "communityPoints": 8,
         "communityRank": 13,
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -31066,8 +31066,8 @@
       },
       "contentHash": "sha256:b9b9615c3f519e27658aec0d918abcf27569a55085a21f95607860af6b9858c7",
       "dedupeKey": "brief:opp_b0648f98f4979c45b633:sha256:b9b9615c3f519e27658aec0d918abcf27569a55085a21f95607860af6b9858c7",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31101,7 +31101,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 10,
-        "communityRank": 20,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -31115,8 +31115,8 @@
       },
       "contentHash": "sha256:f0aa6bd5677eaccc4f9b0062b8b998bf3264e44f60b04e1e4122208d18aa2acb",
       "dedupeKey": "brief:opp_1d7d2625f706c4a4f374:sha256:f0aa6bd5677eaccc4f9b0062b8b998bf3264e44f60b04e1e4122208d18aa2acb",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31744,23 +31744,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 12,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:dd9af66636e85ce792dc64b536fda8d7fd02161e03789c45560854e7a420cefa",
       "dedupeKey": "brief:opp_ae923462a4ec985f40ec:sha256:dd9af66636e85ce792dc64b536fda8d7fd02161e03789c45560854e7a420cefa",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31794,7 +31794,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 6,
+        "communityRank": 7,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -31808,8 +31808,8 @@
       },
       "contentHash": "sha256:0828fc3ee3a3f19de7ce31974703f214228c04717011b431437c80a74a4aae5b",
       "dedupeKey": "brief:opp_5a4b17b6f1919db1d341:sha256:0828fc3ee3a3f19de7ce31974703f214228c04717011b431437c80a74a4aae5b",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31843,7 +31843,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 7,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -31857,8 +31857,8 @@
       },
       "contentHash": "sha256:2efb715b88e29eb230ee69bfcb95cfdcd3ca89711120b9fb7eafaeb4381a6dec",
       "dedupeKey": "brief:opp_2f7773f212803f6dfa48:sha256:2efb715b88e29eb230ee69bfcb95cfdcd3ca89711120b9fb7eafaeb4381a6dec",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31891,8 +31891,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 8,
+        "communityPoints": 9,
+        "communityRank": 6,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -31906,8 +31906,8 @@
       },
       "contentHash": "sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
       "dedupeKey": "brief:opp_b33e3fbe8914bd27759a:sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31941,13 +31941,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 15,
-        "contentScore": 12,
+        "communityRank": 16,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -31955,8 +31955,8 @@
       },
       "contentHash": "sha256:6eec18808d0aa4b6147788dad2a4992aff7c91a89bab27caf6805414c6f1f825",
       "dedupeKey": "brief:opp_e5e8375f07b75ed8f087:sha256:6eec18808d0aa4b6147788dad2a4992aff7c91a89bab27caf6805414c6f1f825",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32151,11 +32151,11 @@
       },
       "contentHash": "sha256:b93e844384724161d72fa8192c6fa2975b6060e9d3e1a2cee019567e5cefd866",
       "dedupeKey": "brief:opp_87ab6faf38dc56916106:sha256:b93e844384724161d72fa8192c6fa2975b6060e9d3e1a2cee019567e5cefd866",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32249,11 +32249,11 @@
       },
       "contentHash": "sha256:3fd3343757a12e3316d8a7528ee0d2e84a9831805106482e5553949d32723679",
       "dedupeKey": "brief:opp_c99476a900dc801d893f:sha256:3fd3343757a12e3316d8a7528ee0d2e84a9831805106482e5553949d32723679",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32337,7 +32337,7 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-08-27T06:22:13.000Z",
+        "latestChannelActivityAt": "2026-08-27T09:00:06.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -32351,8 +32351,8 @@
       },
       "contentHash": "sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c",
       "dedupeKey": "brief:opp_2a63152f21e22d734e30:sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c",
-      "firstSeenAt": "2026-08-27T09:05:41.484Z",
-      "lastSeenAt": "2026-08-27T09:05:41.484Z",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32409,6 +32409,354 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b12ea00a7122b99b1d7a": {
+      "id": "opp_b12ea00a7122b99b1d7a",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "canonicalUrl": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 27 Aug 2026 09:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "summaryEvidence": [
+        "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d3bd6fd5987b974835917b55b06a7911e04f3c133e4e26e91d5c1b80c2501c0d",
+      "dedupeKey": "brief:opp_b12ea00a7122b99b1d7a:sha256:d3bd6fd5987b974835917b55b06a7911e04f3c133e4e26e91d5c1b80c2501c0d",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9f4fbd52a83f8b3109c8": {
+      "id": "opp_9f4fbd52a83f8b3109c8",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "canonicalUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "summaryEvidence": [
+        "https://openai.com/index/expanding-our-presence-in-brazil"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:85537e485ea724f4ad7b2eb8e1c68bd681ee9cc686f77018f606f6839ecb86ba",
+      "dedupeKey": "brief:opp_9f4fbd52a83f8b3109c8:sha256:85537e485ea724f4ad7b2eb8e1c68bd681ee9cc686f77018f606f6839ecb86ba",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d4fab7ae45937b720a4d": {
+      "id": "opp_d4fab7ae45937b720a4d",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/model-hardware-standard-research-preview",
+      "canonicalUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "title": "Previewing the Model Hardware Standard",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:355c6c856846b1909c1bbe7a2c8e4c9eac697c45b346f306597c54166e8eadb9",
+      "dedupeKey": "brief:opp_d4fab7ae45937b720a4d:sha256:355c6c856846b1909c1bbe7a2c8e4c9eac697c45b346f306597c54166e8eadb9",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eb54955f2c7a213627d2": {
+      "id": "opp_eb54955f2c7a213627d2",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/expanding-support-for-scientists",
+      "canonicalUrl": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "title": "Expanding our support for scientists",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/expanding-support-for-scientists"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2126c254842402217807071f7309b5582cd966a1b2f4c40d7eb24e413fd5b1e0",
+      "dedupeKey": "brief:opp_eb54955f2c7a213627d2:sha256:2126c254842402217807071f7309b5582cd966a1b2f4c40d7eb24e413fd5b1e0",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_037e23922f5f9e3b6615": {
+      "id": "opp_037e23922f5f9e3b6615",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98468",
+      "canonicalUrl": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e73432d7198c72c1d60af2fd44c7418fcb6465ff812ad23d3f815abdb35fb18b",
+      "dedupeKey": "brief:opp_037e23922f5f9e3b6615:sha256:e73432d7198c72c1d60af2fd44c7418fcb6465ff812ad23d3f815abdb35fb18b",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_309ae6342e871e0f4eaa": {
+      "id": "opp_309ae6342e871e0f4eaa",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:qLT5cGk01mQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qLT5cGk01mQ",
+      "title": "[한영자막] 앤트로픽이 공개한 Claude 메모리 2.0, 무엇이 달라졌을까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-27T09:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic이 Claude Co-work와 채팅 모드에서 함께 사용하는 새로운 메모리 시스템을 공개했습니다. 이제 Claude가 기억하는 내용을 직접 확인하고 수정하거나 삭제할 수 있습니다. 주요 포인트: - Claude Co-work와 채팅 모드가 하나의 메모리를 공유합니다. - 대화가 끝날 때까지 기다리지 않고, 대화 중 중요한 내용을 주제별로 저장합니다. - 저장된 메모리를 파일처럼 확인하고 수정하거나 삭제할 수 있습니다. - 무료, Pro, Max 요금제의 웹·데스크톱·모바일에서 기본",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=qLT5cGk01mQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-27T09:00:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:71d71458f091ffbf691e042eeef45f50c36991e0a527f48223b447510029f8ac",
+      "dedupeKey": "brief:opp_309ae6342e871e0f4eaa:sha256:71d71458f091ffbf691e042eeef45f50c36991e0a527f48223b447510029f8ac",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d6353ae7766118991482": {
+      "id": "opp_d6353ae7766118991482",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:LaLtZsRWFMc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LaLtZsRWFMc",
+      "title": "아키텍처 그림, 문서 쉽게 만들기 | C4 · ADR · arc42",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-08-27T12:01:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"우리 시스템 아키텍처 문서, 있나요?\" 이번 영상에서는 아키텍처를 문서화하고 시각화하는 데 개발자들이 참고할 만한 세 가지 도구를 소개합니다. 00:00 아키텍처 문서화 잘 하고 계신가요? 00:09 당신이 만든 시스템 아키텍처 문서가 있나요? 00:13 아키텍처 문서의 현실 00:38 AI시대, 아키텍처 기록의 중요성 01:11 문서화가 어려운 이유 01:35 아키텍처 문서화를 위한 공신력 있는 기준 3가지 02:12 C4 Model: 아키텍처 다이어그램 그리는 방법 03:33 ADR: 아키텍",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=LaLtZsRWFMc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-27T12:01:39.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37088d95536c004b19c15de9d042e296cc0f7ae6ceeae62c4cd7b88fa8516da8",
+      "dedupeKey": "brief:opp_d6353ae7766118991482:sha256:37088d95536c004b19c15de9d042e296cc0f7ae6ceeae62c4cd7b88fa8516da8",
+      "firstSeenAt": "2026-08-27T19:24:45.565Z",
+      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -35935,6 +36283,42 @@
       "opportunityId": "opp_e52eb08e095b351164a9",
       "sentAt": "2026-08-27T09:05:41.484Z",
       "messageId": "1542460085001912353"
+    },
+    "brief:opp_037e23922f5f9e3b6615:sha256:e73432d7198c72c1d60af2fd44c7418fcb6465ff812ad23d3f815abdb35fb18b": {
+      "status": "SENT",
+      "opportunityId": "opp_037e23922f5f9e3b6615",
+      "sentAt": "2026-08-27T19:24:45.565Z",
+      "messageId": "1542615878208716842"
+    },
+    "brief:opp_c99476a900dc801d893f:sha256:3fd3343757a12e3316d8a7528ee0d2e84a9831805106482e5553949d32723679": {
+      "status": "SENT",
+      "opportunityId": "opp_c99476a900dc801d893f",
+      "sentAt": "2026-08-27T19:24:45.565Z",
+      "messageId": "1542615878208716842"
+    },
+    "brief:opp_b12ea00a7122b99b1d7a:sha256:d3bd6fd5987b974835917b55b06a7911e04f3c133e4e26e91d5c1b80c2501c0d": {
+      "status": "SENT",
+      "opportunityId": "opp_b12ea00a7122b99b1d7a",
+      "sentAt": "2026-08-27T19:24:45.565Z",
+      "messageId": "1542615878208716842"
+    },
+    "brief:opp_87ab6faf38dc56916106:sha256:b93e844384724161d72fa8192c6fa2975b6060e9d3e1a2cee019567e5cefd866": {
+      "status": "SENT",
+      "opportunityId": "opp_87ab6faf38dc56916106",
+      "sentAt": "2026-08-27T19:24:45.565Z",
+      "messageId": "1542615878208716842"
+    },
+    "brief:opp_9f4fbd52a83f8b3109c8:sha256:85537e485ea724f4ad7b2eb8e1c68bd681ee9cc686f77018f606f6839ecb86ba": {
+      "status": "SENT",
+      "opportunityId": "opp_9f4fbd52a83f8b3109c8",
+      "sentAt": "2026-08-27T19:24:45.565Z",
+      "messageId": "1542615878208716842"
+    },
+    "brief:opp_d4fab7ae45937b720a4d:sha256:355c6c856846b1909c1bbe7a2c8e4c9eac697c45b346f306597c54166e8eadb9": {
+      "status": "SENT",
+      "opportunityId": "opp_d4fab7ae45937b720a4d",
+      "sentAt": "2026-08-27T19:24:45.565Z",
+      "messageId": "1542615878208716842"
     }
   },
   "pending": {},
