@@ -31891,8 +31891,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 18,
+        "communityPoints": 12,
+        "communityRank": 15,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -31906,8 +31906,8 @@
       },
       "contentHash": "sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
       "dedupeKey": "brief:opp_b33e3fbe8914bd27759a:sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
-      "firstSeenAt": "2026-08-28T09:05:41.435Z",
-      "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32351,11 +32351,11 @@
       },
       "contentHash": "sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c",
       "dedupeKey": "brief:opp_2a63152f21e22d734e30:sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c",
-      "firstSeenAt": "2026-08-28T09:05:41.435Z",
-      "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32854,11 +32854,11 @@
       },
       "contentHash": "sha256:54bfac1b03035231dbbafe1d20eb587a859d8673056d5de2a98ed1425b7e7e68",
       "dedupeKey": "brief:opp_0f1a5c27765beb68c035:sha256:54bfac1b03035231dbbafe1d20eb587a859d8673056d5de2a98ed1425b7e7e68",
-      "firstSeenAt": "2026-08-28T09:05:41.435Z",
-      "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32903,8 +32903,8 @@
       },
       "contentHash": "sha256:91f738679beea78cfcf1ede8542c882450729ef997ad14e51c65fc1cc0db1048",
       "dedupeKey": "brief:opp_da9618648a5474aa12fc:sha256:91f738679beea78cfcf1ede8542c882450729ef997ad14e51c65fc1cc0db1048",
-      "firstSeenAt": "2026-08-28T09:05:41.435Z",
-      "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32952,11 +32952,11 @@
       },
       "contentHash": "sha256:582b6917874e89984285647d059963b1ce6a33c01a190e500fa86fe8fae5e592",
       "dedupeKey": "brief:opp_240be6850bfe82a9d678:sha256:582b6917874e89984285647d059963b1ce6a33c01a190e500fa86fe8fae5e592",
-      "firstSeenAt": "2026-08-28T09:05:41.435Z",
-      "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32986,8 +32986,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
-        "communityRank": 9,
+        "communityPoints": 13,
+        "communityRank": 8,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -33001,8 +33001,8 @@
       },
       "contentHash": "sha256:d1be30970fe76b079c2b919cca9d5ed0bc66448b341701ae56914cf8d7bc71b8",
       "dedupeKey": "brief:opp_20e87aa530b04c69ba9b:sha256:d1be30970fe76b079c2b919cca9d5ed0bc66448b341701ae56914cf8d7bc71b8",
-      "firstSeenAt": "2026-08-28T09:05:41.435Z",
-      "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -33307,6 +33307,54 @@
       "dedupeKey": "brief:opp_4d68084f2c67e8f07700:sha256:f7bccb363b51f35a2c57c91ea213c1d5683709fe32d9c2548a6775859137699b",
       "firstSeenAt": "2026-08-28T09:05:41.435Z",
       "lastSeenAt": "2026-08-28T09:05:41.435Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9c3ca0e689e0f0d01a5e": {
+      "id": "opp_9c3ca0e689e0f0d01a5e",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "canonicalUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "summaryEvidence": [
+        "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:146d8061019a0a22ed5896a514543441e6187501eae3b2a6cab231a4dea4d4bb",
+      "dedupeKey": "brief:opp_9c3ca0e689e0f0d01a5e:sha256:146d8061019a0a22ed5896a514543441e6187501eae3b2a6cab231a4dea4d4bb",
+      "firstSeenAt": "2026-08-28T10:05:31.938Z",
+      "lastSeenAt": "2026-08-28T10:05:31.938Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -36944,6 +36992,30 @@
       "opportunityId": "opp_4d68084f2c67e8f07700",
       "sentAt": "2026-08-28T09:05:41.435Z",
       "messageId": "1542822473672687697"
+    },
+    "brief:opp_9c3ca0e689e0f0d01a5e:sha256:146d8061019a0a22ed5896a514543441e6187501eae3b2a6cab231a4dea4d4bb": {
+      "status": "SENT",
+      "opportunityId": "opp_9c3ca0e689e0f0d01a5e",
+      "sentAt": "2026-08-28T10:05:31.938Z",
+      "messageId": "1542837532646051902"
+    },
+    "brief:opp_240be6850bfe82a9d678:sha256:582b6917874e89984285647d059963b1ce6a33c01a190e500fa86fe8fae5e592": {
+      "status": "SENT",
+      "opportunityId": "opp_240be6850bfe82a9d678",
+      "sentAt": "2026-08-28T10:05:31.938Z",
+      "messageId": "1542837532646051902"
+    },
+    "brief:opp_0f1a5c27765beb68c035:sha256:54bfac1b03035231dbbafe1d20eb587a859d8673056d5de2a98ed1425b7e7e68": {
+      "status": "SENT",
+      "opportunityId": "opp_0f1a5c27765beb68c035",
+      "sentAt": "2026-08-28T10:05:31.938Z",
+      "messageId": "1542837532646051902"
+    },
+    "brief:opp_2a63152f21e22d734e30:sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c": {
+      "status": "SENT",
+      "opportunityId": "opp_2a63152f21e22d734e30",
+      "sentAt": "2026-08-28T10:05:31.938Z",
+      "messageId": "1542837532646051902"
     }
   },
   "pending": {},
