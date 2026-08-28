@@ -31051,8 +31051,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 13,
+        "communityPoints": 9,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -31066,8 +31066,8 @@
       },
       "contentHash": "sha256:b9b9615c3f519e27658aec0d918abcf27569a55085a21f95607860af6b9858c7",
       "dedupeKey": "brief:opp_b0648f98f4979c45b633:sha256:b9b9615c3f519e27658aec0d918abcf27569a55085a21f95607860af6b9858c7",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31745,7 +31745,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 4,
+        "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -31759,11 +31759,11 @@
       },
       "contentHash": "sha256:dd9af66636e85ce792dc64b536fda8d7fd02161e03789c45560854e7a420cefa",
       "dedupeKey": "brief:opp_ae923462a4ec985f40ec:sha256:dd9af66636e85ce792dc64b536fda8d7fd02161e03789c45560854e7a420cefa",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -31808,11 +31808,11 @@
       },
       "contentHash": "sha256:0828fc3ee3a3f19de7ce31974703f214228c04717011b431437c80a74a4aae5b",
       "dedupeKey": "brief:opp_5a4b17b6f1919db1d341:sha256:0828fc3ee3a3f19de7ce31974703f214228c04717011b431437c80a74a4aae5b",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -31857,8 +31857,8 @@
       },
       "contentHash": "sha256:2efb715b88e29eb230ee69bfcb95cfdcd3ca89711120b9fb7eafaeb4381a6dec",
       "dedupeKey": "brief:opp_2f7773f212803f6dfa48:sha256:2efb715b88e29eb230ee69bfcb95cfdcd3ca89711120b9fb7eafaeb4381a6dec",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -31893,12 +31893,12 @@
         "sourcePriority": 100,
         "communityPoints": 9,
         "communityRank": 6,
-        "contentScore": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -31906,8 +31906,8 @@
       },
       "contentHash": "sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
       "dedupeKey": "brief:opp_b33e3fbe8914bd27759a:sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32337,7 +32337,7 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-08-27T09:00:06.000Z",
+        "latestChannelActivityAt": "2026-08-27T22:00:31.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -32351,8 +32351,8 @@
       },
       "contentHash": "sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c",
       "dedupeKey": "brief:opp_2a63152f21e22d734e30:sha256:219438756a0ab3f2e1faa50681ffca7eaac8dd3d8eb2fffa7d7402da293b5a1c",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32585,12 +32585,12 @@
         "practicalValue": 2,
         "sourcePriority": 0,
         "contentCategory": "Announcements",
-        "contentScore": 13,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 13,
+          "total": 12,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 3,
           "novelty": 2,
           "community": 0
@@ -32598,11 +32598,11 @@
       },
       "contentHash": "sha256:2126c254842402217807071f7309b5582cd966a1b2f4c40d7eb24e413fd5b1e0",
       "dedupeKey": "brief:opp_eb54955f2c7a213627d2:sha256:2126c254842402217807071f7309b5582cd966a1b2f4c40d7eb24e413fd5b1e0",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32685,7 +32685,7 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-08-27T09:00:06.000Z",
+        "latestChannelActivityAt": "2026-08-27T22:00:31.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -32699,11 +32699,11 @@
       },
       "contentHash": "sha256:71d71458f091ffbf691e042eeef45f50c36991e0a527f48223b447510029f8ac",
       "dedupeKey": "brief:opp_309ae6342e871e0f4eaa:sha256:71d71458f091ffbf691e042eeef45f50c36991e0a527f48223b447510029f8ac",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32752,11 +32752,64 @@
       },
       "contentHash": "sha256:37088d95536c004b19c15de9d042e296cc0f7ae6ceeae62c4cd7b88fa8516da8",
       "dedupeKey": "brief:opp_d6353ae7766118991482:sha256:37088d95536c004b19c15de9d042e296cc0f7ae6ceeae62c4cd7b88fa8516da8",
-      "firstSeenAt": "2026-08-27T19:24:45.565Z",
-      "lastSeenAt": "2026-08-27T19:24:45.565Z",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c8c56a1f3ebde97ca9b0": {
+      "id": "opp_c8c56a1f3ebde97ca9b0",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:6SBCO0vg1UM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6SBCO0vg1UM",
+      "title": "[한영자막] Warp는 어떻게 클라우드 에이전트 플랫폼을 만들었을까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-27T22:00:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Warp 팀이 AI 에이전트를 클라우드로 확장하며 구축한 클라우드 에이전트 플랫폼 Oz의 설계 철학과 실전 아키텍처를 소개합니다. 개발 도구가 복잡성을 사용자 대신 흡수하고, 다양한 하네스와 에이전트 오케스트레이션을 지원하는 구체적인 방식을 살펴보세요. • 플랫폼이 복잡성을 흡수하는 원칙: 매니지드 및 자체 인프라(셀프 호스팅) 샌드박스 완벽 지원 • 파편화 없는 멀티 하네스: Claude Code, Codex 등 다양한 도구를 일관된 상태와 산출물로 통합 • 에이전트 협업과 API 개방: 프롬프",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6SBCO0vg1UM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-27T22:00:31.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b53472799fbe0d3e8b0a6166fc3f5f8fe4ebe87897e14bee16ff339cd9a22a17",
+      "dedupeKey": "brief:opp_c8c56a1f3ebde97ca9b0:sha256:b53472799fbe0d3e8b0a6166fc3f5f8fe4ebe87897e14bee16ff339cd9a22a17",
+      "firstSeenAt": "2026-08-28T00:06:15.737Z",
+      "lastSeenAt": "2026-08-28T00:06:15.737Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -36319,6 +36372,42 @@
       "opportunityId": "opp_d4fab7ae45937b720a4d",
       "sentAt": "2026-08-27T19:24:45.565Z",
       "messageId": "1542615878208716842"
+    },
+    "brief:opp_c8c56a1f3ebde97ca9b0:sha256:b53472799fbe0d3e8b0a6166fc3f5f8fe4ebe87897e14bee16ff339cd9a22a17": {
+      "status": "SENT",
+      "opportunityId": "opp_c8c56a1f3ebde97ca9b0",
+      "sentAt": "2026-08-28T00:06:15.737Z",
+      "messageId": "1542686721060118660"
+    },
+    "brief:opp_d6353ae7766118991482:sha256:37088d95536c004b19c15de9d042e296cc0f7ae6ceeae62c4cd7b88fa8516da8": {
+      "status": "SENT",
+      "opportunityId": "opp_d6353ae7766118991482",
+      "sentAt": "2026-08-28T00:06:15.737Z",
+      "messageId": "1542686721060118660"
+    },
+    "brief:opp_ae923462a4ec985f40ec:sha256:dd9af66636e85ce792dc64b536fda8d7fd02161e03789c45560854e7a420cefa": {
+      "status": "SENT",
+      "opportunityId": "opp_ae923462a4ec985f40ec",
+      "sentAt": "2026-08-28T00:06:15.737Z",
+      "messageId": "1542686721060118660"
+    },
+    "brief:opp_5a4b17b6f1919db1d341:sha256:0828fc3ee3a3f19de7ce31974703f214228c04717011b431437c80a74a4aae5b": {
+      "status": "SENT",
+      "opportunityId": "opp_5a4b17b6f1919db1d341",
+      "sentAt": "2026-08-28T00:06:15.737Z",
+      "messageId": "1542686721060118660"
+    },
+    "brief:opp_eb54955f2c7a213627d2:sha256:2126c254842402217807071f7309b5582cd966a1b2f4c40d7eb24e413fd5b1e0": {
+      "status": "SENT",
+      "opportunityId": "opp_eb54955f2c7a213627d2",
+      "sentAt": "2026-08-28T00:06:15.737Z",
+      "messageId": "1542686721060118660"
+    },
+    "brief:opp_309ae6342e871e0f4eaa:sha256:71d71458f091ffbf691e042eeef45f50c36991e0a527f48223b447510029f8ac": {
+      "status": "SENT",
+      "opportunityId": "opp_309ae6342e871e0f4eaa",
+      "sentAt": "2026-08-28T00:06:15.737Z",
+      "messageId": "1542686721060118660"
     }
   },
   "pending": {},
