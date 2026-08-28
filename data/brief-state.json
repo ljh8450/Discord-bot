@@ -31892,7 +31892,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 12,
-        "communityRank": 15,
+        "communityRank": 14,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -31906,8 +31906,8 @@
       },
       "contentHash": "sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
       "dedupeKey": "brief:opp_b33e3fbe8914bd27759a:sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
-      "firstSeenAt": "2026-08-28T10:05:31.938Z",
-      "lastSeenAt": "2026-08-28T10:05:31.938Z",
+      "firstSeenAt": "2026-08-28T20:41:08.119Z",
+      "lastSeenAt": "2026-08-28T20:41:08.119Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -32888,7 +32888,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
+        "communityPoints": 12,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -32903,11 +32903,11 @@
       },
       "contentHash": "sha256:91f738679beea78cfcf1ede8542c882450729ef997ad14e51c65fc1cc0db1048",
       "dedupeKey": "brief:opp_da9618648a5474aa12fc:sha256:91f738679beea78cfcf1ede8542c882450729ef997ad14e51c65fc1cc0db1048",
-      "firstSeenAt": "2026-08-28T10:05:31.938Z",
-      "lastSeenAt": "2026-08-28T10:05:31.938Z",
+      "firstSeenAt": "2026-08-28T20:41:08.119Z",
+      "lastSeenAt": "2026-08-28T20:41:08.119Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -32986,8 +32986,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 8,
+        "communityPoints": 17,
+        "communityRank": 6,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -33001,11 +33001,11 @@
       },
       "contentHash": "sha256:d1be30970fe76b079c2b919cca9d5ed0bc66448b341701ae56914cf8d7bc71b8",
       "dedupeKey": "brief:opp_20e87aa530b04c69ba9b:sha256:d1be30970fe76b079c2b919cca9d5ed0bc66448b341701ae56914cf8d7bc71b8",
-      "firstSeenAt": "2026-08-28T10:05:31.938Z",
-      "lastSeenAt": "2026-08-28T10:05:31.938Z",
+      "firstSeenAt": "2026-08-28T20:41:08.119Z",
+      "lastSeenAt": "2026-08-28T20:41:08.119Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -33355,6 +33355,59 @@
       "dedupeKey": "brief:opp_9c3ca0e689e0f0d01a5e:sha256:146d8061019a0a22ed5896a514543441e6187501eae3b2a6cab231a4dea4d4bb",
       "firstSeenAt": "2026-08-28T10:05:31.938Z",
       "lastSeenAt": "2026-08-28T10:05:31.938Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f7d3dcd9aed47adb74ca": {
+      "id": "opp_f7d3dcd9aed47adb74ca",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:vVCOxL3tgHg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vVCOxL3tgHg",
+      "title": "NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-28T13:20:53+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아가 NVHBM이라는 새로운 커스텀 HBM 구상을 공개했습니다. 이름 때문에 직접 HBM 생산에 뛰어든 것으로 보일 수 있지만, 제조는 메모리 업체가 맡고 엔비디아는 컨트롤러와 연결 인터페이스를 설계합니다. NVHBM이 삼성의 cHBM과 닮은 점과 엔비디아가 공급 구조에서 가져가려는 영역을 살펴봤습니다. 자체 AI 칩을 만드는 AWS까지 NVLink Fusion 생태계 안에 묶으려는 전략도 분석했습니다. 삼성이 공개한 cHBM, aHBM, zHBM으로 이어지는 차세대 HBM 로드맵도 함께 정",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=vVCOxL3tgHg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-28T13:20:53.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0d03c8178a85279515bd2d6ac6894077ee3c0adda73b750acfafe74f4c36f9dd",
+      "dedupeKey": "brief:opp_f7d3dcd9aed47adb74ca:sha256:0d03c8178a85279515bd2d6ac6894077ee3c0adda73b750acfafe74f4c36f9dd",
+      "firstSeenAt": "2026-08-28T20:41:08.119Z",
+      "lastSeenAt": "2026-08-28T20:41:08.119Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -37016,6 +37069,24 @@
       "opportunityId": "opp_2a63152f21e22d734e30",
       "sentAt": "2026-08-28T10:05:31.938Z",
       "messageId": "1542837532646051902"
+    },
+    "brief:opp_da9618648a5474aa12fc:sha256:91f738679beea78cfcf1ede8542c882450729ef997ad14e51c65fc1cc0db1048": {
+      "status": "SENT",
+      "opportunityId": "opp_da9618648a5474aa12fc",
+      "sentAt": "2026-08-28T20:41:08.119Z",
+      "messageId": "1542997486497431574"
+    },
+    "brief:opp_20e87aa530b04c69ba9b:sha256:d1be30970fe76b079c2b919cca9d5ed0bc66448b341701ae56914cf8d7bc71b8": {
+      "status": "SENT",
+      "opportunityId": "opp_20e87aa530b04c69ba9b",
+      "sentAt": "2026-08-28T20:41:08.119Z",
+      "messageId": "1542997486497431574"
+    },
+    "brief:opp_f7d3dcd9aed47adb74ca:sha256:0d03c8178a85279515bd2d6ac6894077ee3c0adda73b750acfafe74f4c36f9dd": {
+      "status": "SENT",
+      "opportunityId": "opp_f7d3dcd9aed47adb74ca",
+      "sentAt": "2026-08-28T20:41:08.119Z",
+      "messageId": "1542997486497431574"
     }
   },
   "pending": {},
