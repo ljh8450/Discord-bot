@@ -33520,6 +33520,201 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a8f710c99466235f3575": {
+      "id": "opp_a8f710c99466235f3575",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32967",
+      "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+      "title": "Gemini 3.5 Transcribe: 실시간·녹음 음성을 정밀하게 텍스트로 변환",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-28T10:20:47+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google이 배경 소음과 전문 용어, 말더듬, 자기 수정까지 처리해 정돈된 텍스트로 바꾸는 고정밀 음성-텍스트 모델을 공개함 gemini-3.5-transcrib...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32967"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 12,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:170b5c6ade11ea588e03b8ed7ce24f5877b6a033056f9b9e4abb0b1968c4c9f7",
+      "dedupeKey": "brief:opp_a8f710c99466235f3575:sha256:170b5c6ade11ea588e03b8ed7ce24f5877b6a033056f9b9e4abb0b1968c4c9f7",
+      "firstSeenAt": "2026-08-29T06:04:14.532Z",
+      "lastSeenAt": "2026-08-29T06:04:14.532Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_05dc300c692272e791b7": {
+      "id": "opp_05dc300c692272e791b7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32965",
+      "canonicalUrl": "https://github.com/yorukot/superfile",
+      "title": "superfile - 멀티 패널을 지원하는 터미널 파일 관리자",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-28T10:00:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "터미널 안에서 파일을 화려한 UI로 탐색하고 복사/이동/삭제할 수 있는 현대적인 TUI 파일 관리자 사이드바, 파일 목록, 작업 진행 상황, 파일 정...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32965"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:36f0795591f57d8d87af349972c16355b30374722e796bb7b2c565b3d0b340fe",
+      "dedupeKey": "brief:opp_05dc300c692272e791b7:sha256:36f0795591f57d8d87af349972c16355b30374722e796bb7b2c565b3d0b340fe",
+      "firstSeenAt": "2026-08-29T06:04:14.532Z",
+      "lastSeenAt": "2026-08-29T06:04:14.532Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3ec44161f55d2beecb47": {
+      "id": "opp_3ec44161f55d2beecb47",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32963",
+      "canonicalUrl": "https://calv.info/small-models-have-arrived",
+      "title": "소형 모델의 시대가 도래함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-28T09:47:27+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "gpt-5.6-luna는 약 100tps로 코드베이스·이메일·지식 기반을 처리하며, 복잡한 조사와 수천 개 이메일 검색도 수십 센트 수준에 실행할 수 있음 개...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32963"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 18,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7a5ac79535b05761ad07a0149d2fa3581ecee053c3a46b3043a61a3de768652a",
+      "dedupeKey": "brief:opp_3ec44161f55d2beecb47:sha256:7a5ac79535b05761ad07a0149d2fa3581ecee053c3a46b3043a61a3de768652a",
+      "firstSeenAt": "2026-08-29T06:04:14.532Z",
+      "lastSeenAt": "2026-08-29T06:04:14.532Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_27097af31f45a0d3e530": {
+      "id": "opp_27097af31f45a0d3e530",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "canonicalUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "summaryEvidence": [
+        "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:962eb59531478b5ce34e5ea8482347c9539beebc9d98616db8fb9d7c00b0b286",
+      "dedupeKey": "brief:opp_27097af31f45a0d3e530:sha256:962eb59531478b5ce34e5ea8482347c9539beebc9d98616db8fb9d7c00b0b286",
+      "firstSeenAt": "2026-08-29T06:04:14.532Z",
+      "lastSeenAt": "2026-08-29T06:04:14.532Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -37212,6 +37407,24 @@
       "opportunityId": "opp_b33e3fbe8914bd27759a",
       "sentAt": "2026-08-29T00:05:48.638Z",
       "messageId": "1543048995167928432"
+    },
+    "brief:opp_27097af31f45a0d3e530:sha256:962eb59531478b5ce34e5ea8482347c9539beebc9d98616db8fb9d7c00b0b286": {
+      "status": "SENT",
+      "opportunityId": "opp_27097af31f45a0d3e530",
+      "sentAt": "2026-08-29T06:04:14.532Z",
+      "messageId": "1543139197039280223"
+    },
+    "brief:opp_a8f710c99466235f3575:sha256:170b5c6ade11ea588e03b8ed7ce24f5877b6a033056f9b9e4abb0b1968c4c9f7": {
+      "status": "SENT",
+      "opportunityId": "opp_a8f710c99466235f3575",
+      "sentAt": "2026-08-29T06:04:14.532Z",
+      "messageId": "1543139197039280223"
+    },
+    "brief:opp_3ec44161f55d2beecb47:sha256:7a5ac79535b05761ad07a0149d2fa3581ecee053c3a46b3043a61a3de768652a": {
+      "status": "SENT",
+      "opportunityId": "opp_3ec44161f55d2beecb47",
+      "sentAt": "2026-08-29T06:04:14.532Z",
+      "messageId": "1543139197039280223"
     }
   },
   "pending": {},
