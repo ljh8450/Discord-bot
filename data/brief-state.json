@@ -31893,12 +31893,12 @@
         "sourcePriority": 100,
         "communityPoints": 12,
         "communityRank": 14,
-        "contentScore": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -31906,11 +31906,11 @@
       },
       "contentHash": "sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
       "dedupeKey": "brief:opp_b33e3fbe8914bd27759a:sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56",
-      "firstSeenAt": "2026-08-28T20:41:08.119Z",
-      "lastSeenAt": "2026-08-28T20:41:08.119Z",
+      "firstSeenAt": "2026-08-29T00:05:48.638Z",
+      "lastSeenAt": "2026-08-29T00:05:48.638Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -33408,6 +33408,113 @@
       "dedupeKey": "brief:opp_f7d3dcd9aed47adb74ca:sha256:0d03c8178a85279515bd2d6ac6894077ee3c0adda73b750acfafe74f4c36f9dd",
       "firstSeenAt": "2026-08-28T20:41:08.119Z",
       "lastSeenAt": "2026-08-28T20:41:08.119Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5e334f86cd5521abffcd": {
+      "id": "opp_5e334f86cd5521abffcd",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:DIULfa9PCJk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DIULfa9PCJk",
+      "title": "[한영자막] Anthropic이 만드는 방식: Instagram 공동창업자 Mike Krieger가 말하는 Labs 빌딩 철학",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T00:00:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Instagram을 제로에서 10억 사용자까지 키운 Mike Krieger가 Anthropic Labs에서 배우고 있는 빌딩 철학을 솔직하게 나눕니다. \"무리하게 요청하라\"는 말의 진짜 의미, 2주 단위 '계속 vs 피벗' 리뷰 시스템, Claude에 수십만 줄 코드 포팅을 통째로 맡긴 경험, 그리고 번아웃을 피하는 법까지 — CPO에서 IC로 스스로 자리를 바꾼 이유가 담겨 있습니다. 🔑 주요 포인트 • 과거 모델의 한계에서 비롯된 '작게 요청하는 본능'이 지금도 남아 있다 — Claude는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=DIULfa9PCJk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T00:00:30.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ef4b1cd45ae85fc82220abd9228c839f1110f0d31be253c8a02e41d2d102da64",
+      "dedupeKey": "brief:opp_5e334f86cd5521abffcd:sha256:ef4b1cd45ae85fc82220abd9228c839f1110f0d31be253c8a02e41d2d102da64",
+      "firstSeenAt": "2026-08-29T00:05:48.638Z",
+      "lastSeenAt": "2026-08-29T00:05:48.638Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f3d7613e4d3cca20588f": {
+      "id": "opp_f3d7613e4d3cca20588f",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:nSfEL1Y-nUk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nSfEL1Y-nUk",
+      "title": "Claude Code Just Got Its Biggest Design Upgrade Of The Year (And Here's How To Master It)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-08-28T20:51:50+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Claude Code just got its best upgrade in a long time. With the new",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nSfEL1Y-nUk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-28T20:51:50.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2da81d3b98d523f1902616bd5be5f5b1c60eb2658b6d01d70a3f64d843bc7560",
+      "dedupeKey": "brief:opp_f3d7613e4d3cca20588f:sha256:2da81d3b98d523f1902616bd5be5f5b1c60eb2658b6d01d70a3f64d843bc7560",
+      "firstSeenAt": "2026-08-29T00:05:48.638Z",
+      "lastSeenAt": "2026-08-29T00:05:48.638Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -37087,6 +37194,24 @@
       "opportunityId": "opp_f7d3dcd9aed47adb74ca",
       "sentAt": "2026-08-28T20:41:08.119Z",
       "messageId": "1542997486497431574"
+    },
+    "brief:opp_5e334f86cd5521abffcd:sha256:ef4b1cd45ae85fc82220abd9228c839f1110f0d31be253c8a02e41d2d102da64": {
+      "status": "SENT",
+      "opportunityId": "opp_5e334f86cd5521abffcd",
+      "sentAt": "2026-08-29T00:05:48.638Z",
+      "messageId": "1543048995167928432"
+    },
+    "brief:opp_f3d7613e4d3cca20588f:sha256:2da81d3b98d523f1902616bd5be5f5b1c60eb2658b6d01d70a3f64d843bc7560": {
+      "status": "SENT",
+      "opportunityId": "opp_f3d7613e4d3cca20588f",
+      "sentAt": "2026-08-29T00:05:48.638Z",
+      "messageId": "1543048995167928432"
+    },
+    "brief:opp_b33e3fbe8914bd27759a:sha256:5f0c7659d3308ccf41aaa4028b8b679b3df848bfccc23c142644db1aebf1df56": {
+      "status": "SENT",
+      "opportunityId": "opp_b33e3fbe8914bd27759a",
+      "sentAt": "2026-08-29T00:05:48.638Z",
+      "messageId": "1543048995167928432"
     }
   },
   "pending": {},
