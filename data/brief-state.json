@@ -33715,6 +33715,320 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_80ec001a8dbdeea82e89": {
+      "id": "opp_80ec001a8dbdeea82e89",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33000",
+      "canonicalUrl": "https://github.com/syncular/syncular",
+      "title": "syncular - 로컬 SQLite를 서버와 동기화하는 오프라인 우선 엔진",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "각 클라이언트에 실제 SQLite DB를 두고, 서버가 관리하는 순서 보장 커밋 로그와 동기화하는 서버 권위형 데이터 계층 읽기/조인/집계/인덱스 조...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33000"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:73490103ddaa08a8204ab24fcc2a03b9671dd38bd1e6df97655b6b25ff8344de",
+      "dedupeKey": "brief:opp_80ec001a8dbdeea82e89:sha256:73490103ddaa08a8204ab24fcc2a03b9671dd38bd1e6df97655b6b25ff8344de",
+      "firstSeenAt": "2026-08-29T09:05:34.137Z",
+      "lastSeenAt": "2026-08-29T09:05:34.137Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7a85026ff714ce4c2fb8": {
+      "id": "opp_7a85026ff714ce4c2fb8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:F_smvU3oqbU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=F_smvU3oqbU",
+      "title": "[한영자막] 프롬프트 작성은 그만두세요. 이제 명세(Spec)를 작성할 때입니다.",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T09:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "프롬프트 기반 AI 코딩의 한계를 넘어, 명세(Spec)를 메인 아티팩트로 삼아 재현 가능하고 안정적인 소프트웨어를 개발하는 '스펙 주도 개발(Spec-Driven Development)' 방법론을 소개합니다. 📌 주요 내용: • 프롬프트 중심 개발 vs 스펙 중심 개발의 결정적 차이 • 헌법(Constitution) → 명세(Spec) → 계획(Plan) → 태스크(Task) 4단계 코어 구조 • GitHub SpecKit(specify CLI) 및 GitHub Copilot 연동 실전 워크플",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=F_smvU3oqbU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T09:00:10.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:38564f51afd4cdceda41e8b8350115312a9bde601f27f19ae301bf7cc78afb1d",
+      "dedupeKey": "brief:opp_7a85026ff714ce4c2fb8:sha256:38564f51afd4cdceda41e8b8350115312a9bde601f27f19ae301bf7cc78afb1d",
+      "firstSeenAt": "2026-08-29T09:05:34.137Z",
+      "lastSeenAt": "2026-08-29T09:05:34.137Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_289d348f7084a529f4c0": {
+      "id": "opp_289d348f7084a529f4c0",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:OSd69LTMi3w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OSd69LTMi3w",
+      "title": "[한영자막] 품질 저하 없이 조직에 코딩 에이전트를 성공적으로 도입하는 방법 | Figma",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T05:00:07+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Figma 소프트웨어 엔지니어 에얄 블룸(Eyal Blum)이 사내 코드베이스에 코딩 에이전트를 성공적으로 도입하고 품질을 유지하기 위해 터득한 실전 가이드를 공유합니다. 📌 핵심 포인트 • AI 도입의 3막 구조: 초기 성공(1막)과 실패의 골짜기(2막)를 넘어 체계적인 검증과 가드레일을 갖춘 진정한 역량(3막)으로 나아가는 과정 • 검증 우선 투자와 결정론적 플로우: 사람의 검증을 앞단으로 당기고(Left-shift), 유용한 패턴을 테스트와 결정론적 로직으로 코드화하여 신뢰성 확보 • 프롬",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=OSd69LTMi3w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T09:00:10.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0939f1dce7ccefd5f8790e1d9dc9b6ba3c912665847224260d4be98669bd4dc6",
+      "dedupeKey": "brief:opp_289d348f7084a529f4c0:sha256:0939f1dce7ccefd5f8790e1d9dc9b6ba3c912665847224260d4be98669bd4dc6",
+      "firstSeenAt": "2026-08-29T09:05:34.137Z",
+      "lastSeenAt": "2026-08-29T09:05:34.137Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_89bc491a7f1d7fd261bb": {
+      "id": "opp_89bc491a7f1d7fd261bb",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:u1iQob0v-5k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=u1iQob0v-5k",
+      "title": "[한영자막] AI에 대해 생각이 바뀐 빌 게이츠의 경고",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T01:37:48+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "오랫동안 기술 낙관론자였던 빌 게이츠가 AI의 급격한 발전과 규제 부재에 대해 전례 없는 강력한 경고를 던졌습니다. 단순한 일자리 대체를 넘어 생물테러, 사이버 공격, 사회적 혼란 등 통제 불능의 위험에 직면한 지금, 왜 정부와 사회가 즉각 개입해야 하는지 빌 게이츠의 심층 인터뷰를 전해드립니다. 📌 주요 내용: • \"이번은 다르다\": 역사상 유례없는 인지 능력 초월과 로봇 결합의 파급력 • 2~4년 내 닥칠 화이트칼라·블루칼라 일자리 위기와 '인간 전용 직업' 제안 • 생물테러 및 사이버 위협",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=u1iQob0v-5k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T09:00:10.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:513e69b70780d8501c71ed55fef3758976a02f26907bfdffbacf7f67a5f5afc2",
+      "dedupeKey": "brief:opp_89bc491a7f1d7fd261bb:sha256:513e69b70780d8501c71ed55fef3758976a02f26907bfdffbacf7f67a5f5afc2",
+      "firstSeenAt": "2026-08-29T09:05:34.137Z",
+      "lastSeenAt": "2026-08-29T09:05:34.137Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c42cc2e193127c9454ae": {
+      "id": "opp_c42cc2e193127c9454ae",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:JuWaCZIYeBk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JuWaCZIYeBk",
+      "title": "마이크로소프트 창업자의 AI 메모 — 위험 3가지, 해법 3가지, 그리고 \"계획을 세울 계획조차 없다\"",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T04:17:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "50년 동안 \"기술은 세상을 좋은 쪽으로 바꾼다\"고 말해온 빌 게이츠가, 이번엔 다르다는 데 자기 명성을 걸었습니다. 위험 3가지와 해법 3가지를 적은 메모, 그리고 \"계획을 세울 계획조차 없다\"는 말까지. 글과 인터뷰 2편을 순서대로 따라갑니다. ▶ 원문 메모 (영어) \"The turbulent AI era is here. The choices we make now are critical.\" Bill Gates · Gates Notes · 시리즈 \"Make AI Work For Everyone\"",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=JuWaCZIYeBk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T04:17:30.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:589b49452547e83d4c276cd123f809351cd20f98ddbeb81e214326b4604be921",
+      "dedupeKey": "brief:opp_c42cc2e193127c9454ae:sha256:589b49452547e83d4c276cd123f809351cd20f98ddbeb81e214326b4604be921",
+      "firstSeenAt": "2026-08-29T09:05:34.137Z",
+      "lastSeenAt": "2026-08-29T09:05:34.137Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2a43d1e53fe44f1b2270": {
+      "id": "opp_2a43d1e53fe44f1b2270",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:SOyGqopYHJc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SOyGqopYHJc",
+      "title": "최강 GPU도 HBM 없으면 느려진다 | AI 시대 메모리가 주인공이 된 이유 [패치의 칩문학 시즌1 - 2편]",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T04:39:57+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 반도체의 주인공은 GPU지만, GPU의 계산 성능만 높인다고 실제 AI 성능이 따라오는 것은 아닙니다. 이번 패치의 칩문학 2편에서는 컴퓨터가 오래전부터 안고 있던 ‘메모리 벽’에서 이야기를 시작합니다. CPU의 캐시와 GPU의 병렬 구조가 메모리의 한계를 어떻게 보완해왔는지 살펴봅니다. AI 모델이 커지면서 기존 DIMM만으로는 왜 충분한 대역폭을 확보하기 어려워졌는지도 설명합니다. SOCAMM과 HBM이 등장한 배경과 GPU 바로 옆에 메모리를 배치하는 이유를 알아봅니다. TSV, 인터포",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=SOyGqopYHJc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T04:39:57.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f1c6744babff7756062374a03a1de47ff05d0449b407683b07d436d75a121777",
+      "dedupeKey": "brief:opp_2a43d1e53fe44f1b2270:sha256:f1c6744babff7756062374a03a1de47ff05d0449b407683b07d436d75a121777",
+      "firstSeenAt": "2026-08-29T09:05:34.137Z",
+      "lastSeenAt": "2026-08-29T09:05:34.137Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -37425,6 +37739,36 @@
       "opportunityId": "opp_3ec44161f55d2beecb47",
       "sentAt": "2026-08-29T06:04:14.532Z",
       "messageId": "1543139197039280223"
+    },
+    "brief:opp_7a85026ff714ce4c2fb8:sha256:38564f51afd4cdceda41e8b8350115312a9bde601f27f19ae301bf7cc78afb1d": {
+      "status": "SENT",
+      "opportunityId": "opp_7a85026ff714ce4c2fb8",
+      "sentAt": "2026-08-29T09:05:34.137Z",
+      "messageId": "1543184829607055364"
+    },
+    "brief:opp_c42cc2e193127c9454ae:sha256:589b49452547e83d4c276cd123f809351cd20f98ddbeb81e214326b4604be921": {
+      "status": "SENT",
+      "opportunityId": "opp_c42cc2e193127c9454ae",
+      "sentAt": "2026-08-29T09:05:34.137Z",
+      "messageId": "1543184829607055364"
+    },
+    "brief:opp_2a43d1e53fe44f1b2270:sha256:f1c6744babff7756062374a03a1de47ff05d0449b407683b07d436d75a121777": {
+      "status": "SENT",
+      "opportunityId": "opp_2a43d1e53fe44f1b2270",
+      "sentAt": "2026-08-29T09:05:34.137Z",
+      "messageId": "1543184829607055364"
+    },
+    "brief:opp_289d348f7084a529f4c0:sha256:0939f1dce7ccefd5f8790e1d9dc9b6ba3c912665847224260d4be98669bd4dc6": {
+      "status": "SENT",
+      "opportunityId": "opp_289d348f7084a529f4c0",
+      "sentAt": "2026-08-29T09:05:34.137Z",
+      "messageId": "1543184829607055364"
+    },
+    "brief:opp_80ec001a8dbdeea82e89:sha256:73490103ddaa08a8204ab24fcc2a03b9671dd38bd1e6df97655b6b25ff8344de": {
+      "status": "SENT",
+      "opportunityId": "opp_80ec001a8dbdeea82e89",
+      "sentAt": "2026-08-29T09:05:34.137Z",
+      "messageId": "1543184829607055364"
     }
   },
   "pending": {},
