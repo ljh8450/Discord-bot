@@ -34029,6 +34029,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_c0fda3d4ec06fab8ac05": {
+      "id": "opp_c0fda3d4ec06fab8ac05",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32999",
+      "canonicalUrl": "https://mckayla.blog/posts/yap.html",
+      "title": "Yap - LLM이 코드에 남기는 ‘주석 슬롭’",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T09:19:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM이 산더미 같은 코드를 만들면서, 누군가는 결국 그 코드를 읽고 검토해야 하는 시대가 됨 AI가 만든 코드에는 말은 많지만 이해에 도움이 되는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32999"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4f019f618fe7663feb0f43657b2f959cdfdd211ba42002a90a7d74a4807c1473",
+      "dedupeKey": "brief:opp_c0fda3d4ec06fab8ac05:sha256:4f019f618fe7663feb0f43657b2f959cdfdd211ba42002a90a7d74a4807c1473",
+      "firstSeenAt": "2026-08-30T00:06:11.393Z",
+      "lastSeenAt": "2026-08-30T00:06:11.393Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0a1291c9c388760495c5": {
+      "id": "opp_0a1291c9c388760495c5",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Ry0WHNxDbYA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ry0WHNxDbYA",
+      "title": "[한영자막] AI 보조를 넘어 AI 네이티브로: 일하는 방식을 완전히 바꾸는 5가지 습관",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T23:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "아마존은 1년 가까이 사내 50개 일반 개발팀을 면밀히 관찰했습니다. 동일한 AI 코딩 어시스턴트를 사용했음에도, 절반은 생산성 향상이 3배 미만에 그친 반면 나머지 절반은 4.5배에서 최고 10배 이상의 폭발적인 배포 속도 향상을 기록했습니다. 성과의 차이를 만든 것은 도구가 아니라 '일하는 방식'이었습니다. AWS 수석 엔지니어 클레어 리구오리가 직접 밝히는 프론티어 엔지니어링의 핵심 원리와 5가지 실전 습관을 만나보세요. 📌 주요 내용: 1. 에이전트 컨텍스트 투자: 머릿속 지식을 스티어링",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Ry0WHNxDbYA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-29T23:00:02.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0f71e1dcf35ccc4fcf24562eb277f1f166cdef4f3e884fcb5e6db0b9f155f4e1",
+      "dedupeKey": "brief:opp_0a1291c9c388760495c5:sha256:0f71e1dcf35ccc4fcf24562eb277f1f166cdef4f3e884fcb5e6db0b9f155f4e1",
+      "firstSeenAt": "2026-08-30T00:06:11.393Z",
+      "lastSeenAt": "2026-08-30T00:06:11.393Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -37775,6 +37877,18 @@
       "opportunityId": "opp_89bc491a7f1d7fd261bb",
       "sentAt": "2026-08-29T14:09:04.357Z",
       "messageId": "1543261209829056535"
+    },
+    "brief:opp_c0fda3d4ec06fab8ac05:sha256:4f019f618fe7663feb0f43657b2f959cdfdd211ba42002a90a7d74a4807c1473": {
+      "status": "SENT",
+      "opportunityId": "opp_c0fda3d4ec06fab8ac05",
+      "sentAt": "2026-08-30T00:06:11.393Z",
+      "messageId": "1543411479368310848"
+    },
+    "brief:opp_0a1291c9c388760495c5:sha256:0f71e1dcf35ccc4fcf24562eb277f1f166cdef4f3e884fcb5e6db0b9f155f4e1": {
+      "status": "SENT",
+      "opportunityId": "opp_0a1291c9c388760495c5",
+      "sentAt": "2026-08-30T00:06:11.393Z",
+      "messageId": "1543411479368310848"
     }
   },
   "pending": {},
