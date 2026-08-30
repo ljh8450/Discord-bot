@@ -34131,6 +34131,206 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_2fcd54d70d068a665380": {
+      "id": "opp_2fcd54d70d068a665380",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33021",
+      "canonicalUrl": "https://github.com/opengeos/GeoLibre",
+      "title": "GeoLibre - Tauri 기반의 경량 클라우드 네이티브 데스크톱 GIS",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Tauri/React/TypeScript/MapLibre GL JS/DuckDB-WASM Spatial 기반의 경량 클라우드 네이티브 데스크톱 GIS 프로토타입 OpenFreeMap Liberty 베이...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33021"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de2f83db3934abafa3d56e571b405c7eec11e310e56c6ed2a4ffdae4e80c5daf",
+      "dedupeKey": "brief:opp_2fcd54d70d068a665380:sha256:de2f83db3934abafa3d56e571b405c7eec11e310e56c6ed2a4ffdae4e80c5daf",
+      "firstSeenAt": "2026-08-30T04:11:18.049Z",
+      "lastSeenAt": "2026-08-30T04:11:18.049Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9a6006c3e6dcc8f3a6b4": {
+      "id": "opp_9a6006c3e6dcc8f3a6b4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33016",
+      "canonicalUrl": "https://www.stephendiehl.com/posts/internet_predatory_cesspit",
+      "title": "인터넷은 사람의 약점을 먹고사는 거대한 사기판이 됐다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T05:33:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "초기 인터넷에서 변두리의 골칫거리에 불과했던 사기와 유해 콘텐츠가 이제는 취약한 사람을 찾아내고 성향을 분석해 결제까지 유도하는 약탈 구조...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33016"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:aa4a2f3fb690b4b1cba1fa9388e093f55ed128bb21ec335e369fbcc335c56a0d",
+      "dedupeKey": "brief:opp_9a6006c3e6dcc8f3a6b4:sha256:aa4a2f3fb690b4b1cba1fa9388e093f55ed128bb21ec335e369fbcc335c56a0d",
+      "firstSeenAt": "2026-08-30T04:11:18.049Z",
+      "lastSeenAt": "2026-08-30T04:11:18.049Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_df8430b2d60d3b72c80b": {
+      "id": "opp_df8430b2d60d3b72c80b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "32994",
+      "canonicalUrl": "https://www.orbify.eu/demo",
+      "title": "Orbify - 《인셉션》처럼 앞쪽 도로를 접어 보여주는 곡면 내비게이션 데모",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-29T06:31:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "영화 《인셉션》에서 도시가 위로 접혀 올라가는 장면처럼, 차량 앞쪽의 지형과 도로를 곡면으로 휘어 보여주는 내비게이션 콘셉트 자동차 내비게...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=32994"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 19,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e386d27df8d2b24bb93f0a3d7621fd2230458c685be8636bf0c27959dcd2b560",
+      "dedupeKey": "brief:opp_df8430b2d60d3b72c80b:sha256:e386d27df8d2b24bb93f0a3d7621fd2230458c685be8636bf0c27959dcd2b560",
+      "firstSeenAt": "2026-08-30T04:11:18.049Z",
+      "lastSeenAt": "2026-08-30T04:11:18.049Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b00f623705b81d4753b3": {
+      "id": "opp_b00f623705b81d4753b3",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:0qySk1fcf6k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0qySk1fcf6k",
+      "title": "[한영자막] AI 네이티브 조직은 스킬로 움직입니다: 구조화 및 확장 전략",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T03:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 네이티브 조직의 성패를 가르는 핵심은 바로 '스킬(Skills)'의 체계적인 구조화와 전사적 거버넌스에 있습니다. QuantumBlack의 Imad Touil이 마이크로서비스 설계 원칙을 에이전트 스킬에 적용하여 기술 부채를 방지하고 생산성을 극대화하는 실전 전략을 공유합니다. 📌 주요 내용: • 에이전틱 소프트웨어 스택: 하네스(내부 루프)와 워크플로우(외부 루프)의 구조 • 노하우의 집약체: 훅, MCP, 서브에이전트를 넘어 스킬이 핵심인 이유 • 마이크로서비스 설계 원칙 적용: 점진적",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=0qySk1fcf6k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-30T03:00:27.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a9699aea65041c493ec80e7277f9c0d5ed0cea647aff5dfbdd7685719e25fc33",
+      "dedupeKey": "brief:opp_b00f623705b81d4753b3:sha256:a9699aea65041c493ec80e7277f9c0d5ed0cea647aff5dfbdd7685719e25fc33",
+      "firstSeenAt": "2026-08-30T04:11:18.049Z",
+      "lastSeenAt": "2026-08-30T04:11:18.049Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -37889,6 +38089,24 @@
       "opportunityId": "opp_0a1291c9c388760495c5",
       "sentAt": "2026-08-30T00:06:11.393Z",
       "messageId": "1543411479368310848"
+    },
+    "brief:opp_b00f623705b81d4753b3:sha256:a9699aea65041c493ec80e7277f9c0d5ed0cea647aff5dfbdd7685719e25fc33": {
+      "status": "SENT",
+      "opportunityId": "opp_b00f623705b81d4753b3",
+      "sentAt": "2026-08-30T04:11:18.049Z",
+      "messageId": "1543473163491475518"
+    },
+    "brief:opp_2fcd54d70d068a665380:sha256:de2f83db3934abafa3d56e571b405c7eec11e310e56c6ed2a4ffdae4e80c5daf": {
+      "status": "SENT",
+      "opportunityId": "opp_2fcd54d70d068a665380",
+      "sentAt": "2026-08-30T04:11:18.049Z",
+      "messageId": "1543473163491475518"
+    },
+    "brief:opp_9a6006c3e6dcc8f3a6b4:sha256:aa4a2f3fb690b4b1cba1fa9388e093f55ed128bb21ec335e369fbcc335c56a0d": {
+      "status": "SENT",
+      "opportunityId": "opp_9a6006c3e6dcc8f3a6b4",
+      "sentAt": "2026-08-30T04:11:18.049Z",
+      "messageId": "1543473163491475518"
     }
   },
   "pending": {},
