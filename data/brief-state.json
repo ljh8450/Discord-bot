@@ -34486,6 +34486,259 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_7df6b0661e579b7366b4": {
+      "id": "opp_7df6b0661e579b7366b4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33027",
+      "canonicalUrl": "https://lim.sh/vps-mmo-1000",
+      "title": "월 $6 VPS 한 대로 MMORPG 동접 1,000명에 도전해봤습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T13:53:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "배경 사이드 프로젝트로 웹 기반 MMORPG를 개발하고 있습니다. 현재 서버는 월 $6짜리 1 vCPU / 1GB RAM VPS 한 대에서 운영하고 있습니다. 가능한...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33027"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7a238607bb82de5287ca56f3e301b83f73c635c2d22a101f734ecd9af6a5af1e",
+      "dedupeKey": "brief:opp_7df6b0661e579b7366b4:sha256:7a238607bb82de5287ca56f3e301b83f73c635c2d22a101f734ecd9af6a5af1e",
+      "firstSeenAt": "2026-08-30T14:15:34.841Z",
+      "lastSeenAt": "2026-08-30T14:15:34.841Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9c230ec3ce21126e2112": {
+      "id": "opp_9c230ec3ce21126e2112",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33017",
+      "canonicalUrl": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "title": "가짜 고양이 표준 cats.txt가 드러낸 llms.txt와 GEO의 허술한 근거",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T07:02:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "llms.txt의 효과를 입증한다며 제시되는 기준을 시험하려고, 고양이의 직책·품종·애정도를 기록하는 가짜 표준 cats.txt 를 만들어 인터넷에 퍼뜨...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33017"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:aad2fce55b83bd1a3c7903cb4cb2c21c0314b23859ff33c9c152592ad86aee71",
+      "dedupeKey": "brief:opp_9c230ec3ce21126e2112:sha256:aad2fce55b83bd1a3c7903cb4cb2c21c0314b23859ff33c9c152592ad86aee71",
+      "firstSeenAt": "2026-08-30T14:15:34.841Z",
+      "lastSeenAt": "2026-08-30T14:15:34.841Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_031a489a3c859f3ddf2c": {
+      "id": "opp_031a489a3c859f3ddf2c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33019",
+      "canonicalUrl": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "title": "소름 끼치는 크롤러들",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T09:08:51+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 학습용 크롤러가 Git 커밋을 하나씩 HTML로 렌더링하면서, git.kernel.org에서 Git 복제를 포함한 모든 정상 접근을 합친 것보다 많은 CPU를 사...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33019"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a306c05a65a7e7a2b036e2ff0371c2b7178a9ca9e3b307bcc5dddabcf6b4a1d9",
+      "dedupeKey": "brief:opp_031a489a3c859f3ddf2c:sha256:a306c05a65a7e7a2b036e2ff0371c2b7178a9ca9e3b307bcc5dddabcf6b4a1d9",
+      "firstSeenAt": "2026-08-30T14:15:34.841Z",
+      "lastSeenAt": "2026-08-30T14:15:34.841Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_db7601d70159a3936f88": {
+      "id": "opp_db7601d70159a3936f88",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:TJeeza2KgEE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TJeeza2KgEE",
+      "title": "하루 만에 애플 스타일 웹사이트, SEO까지 끝냈습니다",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T12:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ 힉스필드(higgsfield) 시작하기 https://higgsfield.ai/s/higgsfield-general-campaign-midnightlog-official-PHQAoJ 이 영상은 Higgsfield의 지원을 받아 제작되었습니다. 바이브코딩으로 만든 웹페이지, 늘 비슷하지 않으셨나요. 이번 영상에서는 힉스필드(Higgsfield)로 영화 같은 영상을 만들고, 그 영상을 애플 웹페이지처럼 스크롤에 따라 장면이 움직이는 웹사이트로 만들어 배포까지 합니다. 거기서 끝내지 않고 구글과 네",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=TJeeza2KgEE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-30T12:00:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9a5d993f260d6aea3d54d39ac41aee1e38a23c0b8c7c8fa0911a02e84cb0308f",
+      "dedupeKey": "brief:opp_db7601d70159a3936f88:sha256:9a5d993f260d6aea3d54d39ac41aee1e38a23c0b8c7c8fa0911a02e84cb0308f",
+      "firstSeenAt": "2026-08-30T14:15:34.841Z",
+      "lastSeenAt": "2026-08-30T14:15:34.841Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bdc8bc272007107d8022": {
+      "id": "opp_bdc8bc272007107d8022",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:gJTto7SP8w0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gJTto7SP8w0",
+      "title": "HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T10:51:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "삼성의 zNAND-O와 SK하이닉스·샌디스크의 HBF는 NAND를 HBM처럼 쌓아 AI 가속기 가까이 가져오려는 새로운 메모리 기술입니다. 최대 수백 GB의 용량과 초당 수 TB급 대역폭을 목표로 하지만, 실제 제품화 과정에서는 NAND 특유의 신뢰성 문제가 중요해집니다. 기존 SSD가 NAND를 상대적으로 낮은 온도에서 사용했던 것과 달리, HBF는 뜨거운 GPU 가까이에서 동작해야 합니다. 영상에서는 온도에 따라 데이터 보존 특성이 어떻게 달라지는지, 반복해서 읽을 때 왜 오류가 누적될 수 있",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gJTto7SP8w0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-30T10:51:32.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3887af0a96db94d8e688b427fa4f8f8ed66979f63499e35cdedd460580f9444f",
+      "dedupeKey": "brief:opp_bdc8bc272007107d8022:sha256:3887af0a96db94d8e688b427fa4f8f8ed66979f63499e35cdedd460580f9444f",
+      "firstSeenAt": "2026-08-30T14:15:34.841Z",
+      "lastSeenAt": "2026-08-30T14:15:34.841Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -38280,6 +38533,30 @@
       "opportunityId": "opp_e17475cede77a6638c60",
       "sentAt": "2026-08-30T09:05:44.086Z",
       "messageId": "1543547259961217106"
+    },
+    "brief:opp_db7601d70159a3936f88:sha256:9a5d993f260d6aea3d54d39ac41aee1e38a23c0b8c7c8fa0911a02e84cb0308f": {
+      "status": "SENT",
+      "opportunityId": "opp_db7601d70159a3936f88",
+      "sentAt": "2026-08-30T14:15:34.841Z",
+      "messageId": "1543625235281084577"
+    },
+    "brief:opp_9c230ec3ce21126e2112:sha256:aad2fce55b83bd1a3c7903cb4cb2c21c0314b23859ff33c9c152592ad86aee71": {
+      "status": "SENT",
+      "opportunityId": "opp_9c230ec3ce21126e2112",
+      "sentAt": "2026-08-30T14:15:34.841Z",
+      "messageId": "1543625235281084577"
+    },
+    "brief:opp_bdc8bc272007107d8022:sha256:3887af0a96db94d8e688b427fa4f8f8ed66979f63499e35cdedd460580f9444f": {
+      "status": "SENT",
+      "opportunityId": "opp_bdc8bc272007107d8022",
+      "sentAt": "2026-08-30T14:15:34.841Z",
+      "messageId": "1543625235281084577"
+    },
+    "brief:opp_7df6b0661e579b7366b4:sha256:7a238607bb82de5287ca56f3e301b83f73c635c2d22a101f734ecd9af6a5af1e": {
+      "status": "SENT",
+      "opportunityId": "opp_7df6b0661e579b7366b4",
+      "sentAt": "2026-08-30T14:15:34.841Z",
+      "messageId": "1543625235281084577"
     }
   },
   "pending": {},
