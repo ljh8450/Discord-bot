@@ -34331,6 +34331,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a6774a146ac4def6791b": {
+      "id": "opp_a6774a146ac4def6791b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33015",
+      "canonicalUrl": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T04:39:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "장시간 취약점 조사에서 LLM이 이미 폐기된 가설을 다시 제안하거나, 틀린 전제에서 나온 결론을 계속 믿는 문제를 해결하려다 Datalog 기반 상태 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33015"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:522f7d10083338a168d582d369900ea9b332532f23c8ec4257f5a93056778ab8",
+      "dedupeKey": "brief:opp_a6774a146ac4def6791b:sha256:522f7d10083338a168d582d369900ea9b332532f23c8ec4257f5a93056778ab8",
+      "firstSeenAt": "2026-08-30T09:05:44.086Z",
+      "lastSeenAt": "2026-08-30T09:05:44.086Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e17475cede77a6638c60": {
+      "id": "opp_e17475cede77a6638c60",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:sXCppYzX-0g",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sXCppYzX-0g",
+      "title": "[한영자막] AI 에이전트로 생산성 10배 높이는 비결: 대다수 기업이 실패하는 진짜 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T09:00:24+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Ruby on Rails 창시자이자 37signals의 CTO인 DHH(David Heinemeier Hansson)가 Lex Fridman 팟캐스트에서 밝히는 AI 에이전트 시대의 소프트웨어 개발 혁신과 생산성 10배 달성의 비결입니다. 수만 명의 개발자를 보유한 대기업들이 AI 도입에도 불구하고 속도를 내지 못하는 진짜 원인과, 개인이 AI 에이전트를 활용해 자신만의 맞춤형 소프트웨어를 직접 구축하는 새로운 패러다임을 확인해보세요. 📌 주요 내용: - 대규모 조직에서 AI 도입이 생산성 혁신",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sXCppYzX-0g"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-30T09:00:24.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4ca9acb78c26aac0ce8331f86c7a4afbe705d21177271202dc97137a6d91850b",
+      "dedupeKey": "brief:opp_e17475cede77a6638c60:sha256:4ca9acb78c26aac0ce8331f86c7a4afbe705d21177271202dc97137a6d91850b",
+      "firstSeenAt": "2026-08-30T09:05:44.086Z",
+      "lastSeenAt": "2026-08-30T09:05:44.086Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6021a82aeb0c588c2812": {
+      "id": "opp_6021a82aeb0c588c2812",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:Xs9wHHv-wak",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Xs9wHHv-wak",
+      "title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T09:01:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등 [유료 광고 포함] 🎮 2026 넥슨컴퍼니 채용연계형 인턴십 '넥토리얼' (게임 프로그래머 모집) • 지원 기간: 2026.08.25(화) ~ 09.07(월) 16:00 • 모집 포지션: 게임 프로그래머 (게임프로그래밍 직군) • 공식 채용 공고 바로가기: https://nexon.link/bsT ✨ 주요 특징 - 정규직과 동일한 급여 및 복지 혜택 제공 - 알고",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Xs9wHHv-wak"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-30T09:01:03.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d587b7806026d24c370dee13982a1d74728ddcabf083ce1d415115352be2ec9e",
+      "dedupeKey": "brief:opp_6021a82aeb0c588c2812:sha256:d587b7806026d24c370dee13982a1d74728ddcabf083ce1d415115352be2ec9e",
+      "firstSeenAt": "2026-08-30T09:05:44.086Z",
+      "lastSeenAt": "2026-08-30T09:05:44.086Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -38107,6 +38262,24 @@
       "opportunityId": "opp_9a6006c3e6dcc8f3a6b4",
       "sentAt": "2026-08-30T04:11:18.049Z",
       "messageId": "1543473163491475518"
+    },
+    "brief:opp_6021a82aeb0c588c2812:sha256:d587b7806026d24c370dee13982a1d74728ddcabf083ce1d415115352be2ec9e": {
+      "status": "SENT",
+      "opportunityId": "opp_6021a82aeb0c588c2812",
+      "sentAt": "2026-08-30T09:05:44.086Z",
+      "messageId": "1543547259961217106"
+    },
+    "brief:opp_a6774a146ac4def6791b:sha256:522f7d10083338a168d582d369900ea9b332532f23c8ec4257f5a93056778ab8": {
+      "status": "SENT",
+      "opportunityId": "opp_a6774a146ac4def6791b",
+      "sentAt": "2026-08-30T09:05:44.086Z",
+      "messageId": "1543547259961217106"
+    },
+    "brief:opp_e17475cede77a6638c60:sha256:4ca9acb78c26aac0ce8331f86c7a4afbe705d21177271202dc97137a6d91850b": {
+      "status": "SENT",
+      "opportunityId": "opp_e17475cede77a6638c60",
+      "sentAt": "2026-08-30T09:05:44.086Z",
+      "messageId": "1543547259961217106"
     }
   },
   "pending": {},
