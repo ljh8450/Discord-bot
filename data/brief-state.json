@@ -35126,26 +35126,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 14,
+        "communityRank": 3,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95",
       "dedupeKey": "brief:opp_4d07da1b3562b38fc71b:sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95",
-      "firstSeenAt": "2026-08-31T09:05:25.788Z",
-      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -35175,8 +35175,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 9,
+        "communityPoints": 7,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35190,8 +35190,8 @@
       },
       "contentHash": "sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
       "dedupeKey": "brief:opp_5ca9e47c0b23d1c66b63:sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
-      "firstSeenAt": "2026-08-31T09:05:25.788Z",
-      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35224,26 +35224,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityPoints": 13,
+        "communityRank": 5,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd",
       "dedupeKey": "brief:opp_06c120754b0ced8b110b:sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd",
-      "firstSeenAt": "2026-08-31T09:05:25.788Z",
-      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -35420,7 +35420,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 7,
         "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -35435,8 +35435,8 @@
       },
       "contentHash": "sha256:25069667adaba39a49a2e78998d9be8c0ebdb29f6485a2ba1c9ec8a14b423dda",
       "dedupeKey": "brief:opp_bbbb319f0949078afee7:sha256:25069667adaba39a49a2e78998d9be8c0ebdb29f6485a2ba1c9ec8a14b423dda",
-      "firstSeenAt": "2026-08-31T09:05:25.788Z",
-      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35469,8 +35469,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 11,
+        "communityPoints": 6,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35484,8 +35484,8 @@
       },
       "contentHash": "sha256:0c69d9da3fdbe1d9790a9c2f19f66f5e400827a76b8842574e6fa337d0a6e6b6",
       "dedupeKey": "brief:opp_2541965bb25c7d86307f:sha256:0c69d9da3fdbe1d9790a9c2f19f66f5e400827a76b8842574e6fa337d0a6e6b6",
-      "firstSeenAt": "2026-08-31T09:05:25.788Z",
-      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35690,6 +35690,254 @@
       "dedupeKey": "brief:opp_634d41558e414db7ae43:sha256:4abc588a48cf1ad8919e90951b43bd50be0a1ff69317775fea3771f8ed8219fc",
       "firstSeenAt": "2026-08-31T09:05:25.788Z",
       "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1e81c4cff9d39362508e": {
+      "id": "opp_1e81c4cff9d39362508e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33061",
+      "canonicalUrl": "https://booking.ai/how-we-selected-the-next-vector-database-at-booking-com-1e738a5e3bb0",
+      "title": "Booking.com이 OpenSearch 대신 Weaviate를 벡터 DB로 선택한 과정",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T10:55:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 OpenSearch 기반 벡터 검색이 수억 개 임베딩과 필터 검색, 높은 동시 요청을 처리하면서 클러스터 규모와 운영 비용이 계속 커짐 공개 벤치...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33061"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b368262619c303a9141820920479545ea5b5acd94a1d9c7c817f5c4f93f60033",
+      "dedupeKey": "brief:opp_1e81c4cff9d39362508e:sha256:b368262619c303a9141820920479545ea5b5acd94a1d9c7c817f5c4f93f60033",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09eb8342dc277558e7a4": {
+      "id": "opp_09eb8342dc277558e7a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33071",
+      "canonicalUrl": "https://ai.kisdi.re.kr/aieth/main/contents.do?menuNo=400058",
+      "title": "대한민국 AI 윤리원칙 확정, 3대 가치와 7대 원칙 제시",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T12:50:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "정부가 AI 기본법 제27조에 따라 사회 전 영역에 적용할 대한민국 AI 윤리원칙을 확정함 인간의 존엄성, 사회의 공공선, 인류의 지속가능성을 3대 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33071"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:330729b8b572ab49adf2c62a4fe8d3756d74008a9f67f3ed294bc19e16e19268",
+      "dedupeKey": "brief:opp_09eb8342dc277558e7a4:sha256:330729b8b572ab49adf2c62a4fe8d3756d74008a9f67f3ed294bc19e16e19268",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b07ed8bcb52ebad498c3": {
+      "id": "opp_b07ed8bcb52ebad498c3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33034",
+      "canonicalUrl": "https://danluu.com/bug-blind",
+      "title": "버그 맹시 - 익숙해진 문제를 더 이상 버그로 보지 못하는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-30T22:34:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사람들은 소프트웨어에서 같은 버그를 겪으면서도 문제를 알아차리지 못하고, 자신도 모르게 우회하는 습관을 만들어 정상적인 동작처럼 받아들임 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33034"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 17,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e9dd8162c842d760b0a96abde5886e63b615169b828a8f153c9562117c59edc6",
+      "dedupeKey": "brief:opp_b07ed8bcb52ebad498c3:sha256:e9dd8162c842d760b0a96abde5886e63b615169b828a8f153c9562117c59edc6",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e0b69bdb6941fb02e806": {
+      "id": "opp_e0b69bdb6941fb02e806",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "canonicalUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "title": "A milestone in expanding access to AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "summaryEvidence": [
+        "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6d988f21efaea8e54a5d1a8c89ede54877a2f4f53a65f9f477675613d8ecd70b",
+      "dedupeKey": "brief:opp_e0b69bdb6941fb02e806:sha256:6d988f21efaea8e54a5d1a8c89ede54877a2f4f53a65f9f477675613d8ecd70b",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_69db3989df80933560d7": {
+      "id": "opp_69db3989df80933560d7",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:911nK2zX9Q0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=911nK2zX9Q0",
+      "title": "AI뉴스 - Astra, AGI 올해 달성, Fable 5.1, 할라피뇨, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T14:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[유료 광고 포함] 2026 넥슨컴퍼니 채용연계형 인턴십 '넥토리얼' (게임 프로그래머 모집) • 지원 기간: 2026.08.25(화) ~ 09.07(월) 16:00 • 모집 포지션: 게임 프로그래머 (게임프로그래밍 직군) • 공식 채용 공고 바로가기: https://nexon.link/bss 주요 특징 - 정규직과 동일한 급여 및 복지 혜택 제공 - 알고리즘 코딩테스트 폐지 → 서류 지원자 전원 AI 면접 기회 제공 - AI 리터러시와 실무 역량을 검증하는 AI 활용 역량평가 도입 - 6년 연속",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=911nK2zX9Q0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-31T14:00:25.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b17bbe173012f9d8d4c596baf2e8f53a73b50f29f46f07350ab78ddb169a6dc4",
+      "dedupeKey": "brief:opp_69db3989df80933560d7:sha256:b17bbe173012f9d8d4c596baf2e8f53a73b50f29f46f07350ab78ddb169a6dc4",
+      "firstSeenAt": "2026-08-31T16:41:13.201Z",
+      "lastSeenAt": "2026-08-31T16:41:13.201Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -39603,6 +39851,30 @@
       "opportunityId": "opp_194c0de806302fbf44bb",
       "sentAt": "2026-08-31T09:05:25.788Z",
       "messageId": "1543909571360325663"
+    },
+    "brief:opp_e0b69bdb6941fb02e806:sha256:6d988f21efaea8e54a5d1a8c89ede54877a2f4f53a65f9f477675613d8ecd70b": {
+      "status": "SENT",
+      "opportunityId": "opp_e0b69bdb6941fb02e806",
+      "sentAt": "2026-08-31T16:41:13.201Z",
+      "messageId": "1544024274417877165"
+    },
+    "brief:opp_69db3989df80933560d7:sha256:b17bbe173012f9d8d4c596baf2e8f53a73b50f29f46f07350ab78ddb169a6dc4": {
+      "status": "SENT",
+      "opportunityId": "opp_69db3989df80933560d7",
+      "sentAt": "2026-08-31T16:41:13.201Z",
+      "messageId": "1544024274417877165"
+    },
+    "brief:opp_4d07da1b3562b38fc71b:sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95": {
+      "status": "SENT",
+      "opportunityId": "opp_4d07da1b3562b38fc71b",
+      "sentAt": "2026-08-31T16:41:13.201Z",
+      "messageId": "1544024274417877165"
+    },
+    "brief:opp_06c120754b0ced8b110b:sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd": {
+      "status": "SENT",
+      "opportunityId": "opp_06c120754b0ced8b110b",
+      "sentAt": "2026-08-31T16:41:13.201Z",
+      "messageId": "1544024274417877165"
     }
   },
   "pending": {},
