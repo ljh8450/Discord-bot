@@ -34952,6 +34952,398 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_c22ac4ea1742b00c2a1f": {
+      "id": "opp_c22ac4ea1742b00c2a1f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33050",
+      "canonicalUrl": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "title": "좋은 조직문화가 AI보다 큰 생산성 향상을 만드는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 도구만 도입한다고 엔지니어의 생산성이 2배나 10배로 오르지는 않으며, 사람들이 협력하고 의사결정하는 조직 환경이 먼저 갖춰져야 함 경영진...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33050"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 18,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:33616c381ed4cd9bc30b8b0e13a2130f0f4629bc24ecc354947bfaefef97a70c",
+      "dedupeKey": "brief:opp_c22ac4ea1742b00c2a1f:sha256:33616c381ed4cd9bc30b8b0e13a2130f0f4629bc24ecc354947bfaefef97a70c",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_194c0de806302fbf44bb": {
+      "id": "opp_194c0de806302fbf44bb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33063",
+      "canonicalUrl": "https://unsung.aresluna.org/i-just-chose-words-carefully",
+      "title": "“단어를 신중하게 골랐을 뿐”: 문장으로 만든 양쪽 정렬",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T11:31:41+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "1990년대 후반에 작성된 Super Metroid 공략 글은 17000단어가 넘는 본문에서 모든 줄의 오른쪽 끝을 글자로 정확하게 맞춤 고정폭 글꼴은 모든 글...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33063"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5e6b3918d8a64dff776b11bc880b2af898e2ecbf45b882f91084ecfd68353a2c",
+      "dedupeKey": "brief:opp_194c0de806302fbf44bb:sha256:5e6b3918d8a64dff776b11bc880b2af898e2ecbf45b882f91084ecfd68353a2c",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aeac851323423c027b21": {
+      "id": "opp_aeac851323423c027b21",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33058",
+      "canonicalUrl": "https://theagenticawakening.com/",
+      "title": "The Agentic Awakening - 코딩이 10배 빨라져도 조직 생산성이 따라오지 않는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:55:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 개인의 코딩 속도는 10배 이상 빨라질 수 있지만, 기존의 기획, 검토, 승인, 배포 절차가 속도를 흡수해 조직 전체 생산성 향상은 25~30% 수...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33058"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:985fa8e3d46e876b56083f20769da26591fb64066bf8ca5c23807fa654a868b2",
+      "dedupeKey": "brief:opp_aeac851323423c027b21:sha256:985fa8e3d46e876b56083f20769da26591fb64066bf8ca5c23807fa654a868b2",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4d07da1b3562b38fc71b": {
+      "id": "opp_4d07da1b3562b38fc71b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33062",
+      "canonicalUrl": "https://guldmann.blog/2026/08/19/data-architecture-patterns-decisions-for-the-ai-era",
+      "title": "AI 시대의 데이터 아키텍처 - 저장보다 의미와 계약이 중요해지는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T10:58:07+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 애플리케이션·에이전트·RAG·시맨틱 검색은 BI보다 명확한 데이터 해석을 요구해, 의미·계약·거버넌스가 데이터 아키텍처의 중심으로 이동함 Lam...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33062"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95",
+      "dedupeKey": "brief:opp_4d07da1b3562b38fc71b:sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5ca9e47c0b23d1c66b63": {
+      "id": "opp_5ca9e47c0b23d1c66b63",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33054",
+      "canonicalUrl": "https://github.com/micro/mu",
+      "title": "mu - 에이전트가 들어 있는 개인 서버",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "메일/채팅/파일/노트/캘린더/연락처/셸과 AI 에이전트를 하나의 Go 바이너리로 직접 운영하는 개인 서버 뉴스/웹 검색/날씨/시장/영상/장소/파일/...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33054"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
+      "dedupeKey": "brief:opp_5ca9e47c0b23d1c66b63:sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_06c120754b0ced8b110b": {
+      "id": "opp_06c120754b0ced8b110b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33047",
+      "canonicalUrl": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+      "title": "도구는 중립적이지 않다: 기술이 행동과 사고방식을 바꾸는 방식",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:04:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "도구는 사용자의 능력을 확장할 뿐 아니라 어떤 행동을 쉽게 선택하고 무엇을 자연스럽다고 느끼는지까지 바꾸므로, 결과와 분리된 중립적 수단이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33047"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd",
+      "dedupeKey": "brief:opp_06c120754b0ced8b110b:sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4578eaa9d6b0e96c3eba": {
+      "id": "opp_4578eaa9d6b0e96c3eba",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "2d2d34db5edb772dd81aed63540be48f4b363545",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-multi-datasource-nlp-agent-production",
+      "title": "Amazon Bedrock AgentCore로 멀티 데이터소스 자연어 질의 에이전트를 프로덕션에 배포하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 31 Aug 2026 00:43:11 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 글은 AWS Summit Seoul 세션 “200개국 삼성 스마트 TV 앱 데이터를 자연어로 묻다: 에이전틱 AI on AWS”의 내용을 기반으로 작성되었습니다. 개요 생성형 AI는 실험적 프로토타입에서 벗어나, 이제 프로덕션 환경에서 대규모로, 실제 성능 제약 속에서 안정적으로 동작할 것을 요구받고 있습니다. Strands Agents SDK, LangGraph, CrewAI, LlamaIndex 같은 오픈소스 프레임워크의 등장으로 누구나 하루 만에 인상적인 에이전트 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-multi-datasource-nlp-agent-production/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:745be492e5e93255e5da69cd760f42e4faffae55de88472d669b8b3a24aaab56",
+      "dedupeKey": "brief:opp_4578eaa9d6b0e96c3eba:sha256:745be492e5e93255e5da69cd760f42e4faffae55de88472d669b8b3a24aaab56",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dd1dd3848f40c100918e": {
+      "id": "opp_dd1dd3848f40c100918e",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/831",
+      "canonicalUrl": "https://tech.kakao.com/posts/831",
+      "title": "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Sun, 30 Aug 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "들어가며 지난 글 LLM as a Judge를 활용한 CodeBuddy 성능 평가에서는 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 응답 품질을 어떻게 측정할 것인지를 다뤘습니다. 평가 체계를 세우고 나니 다음 질문이 따라왔습니다. \"그래서 이 리뷰가 실제로 무엇을 막아주고 있는가?\" 코드버디는 PR을 요약하고(describe), 리뷰하고(review), 개선안을 제안합니다(improve). 정확도는 꾸준히 올라갔습니다. 그런데 리뷰 결과...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/831"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5b85b66e9696b53a53cb479feac4174a8caf466316c823b5f4d3856f2bae5e0b",
+      "dedupeKey": "brief:opp_dd1dd3848f40c100918e:sha256:5b85b66e9696b53a53cb479feac4174a8caf466316c823b5f4d3856f2bae5e0b",
+      "firstSeenAt": "2026-08-31T04:16:49.167Z",
+      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -38800,6 +39192,30 @@
       "opportunityId": "opp_031a489a3c859f3ddf2c",
       "sentAt": "2026-08-31T00:06:13.415Z",
       "messageId": "1543773875039379458"
+    },
+    "brief:opp_4578eaa9d6b0e96c3eba:sha256:745be492e5e93255e5da69cd760f42e4faffae55de88472d669b8b3a24aaab56": {
+      "status": "SENT",
+      "opportunityId": "opp_4578eaa9d6b0e96c3eba",
+      "sentAt": "2026-08-31T04:16:49.167Z",
+      "messageId": "1543836938933379124"
+    },
+    "brief:opp_dd1dd3848f40c100918e:sha256:5b85b66e9696b53a53cb479feac4174a8caf466316c823b5f4d3856f2bae5e0b": {
+      "status": "SENT",
+      "opportunityId": "opp_dd1dd3848f40c100918e",
+      "sentAt": "2026-08-31T04:16:49.167Z",
+      "messageId": "1543836938933379124"
+    },
+    "brief:opp_aeac851323423c027b21:sha256:985fa8e3d46e876b56083f20769da26591fb64066bf8ca5c23807fa654a868b2": {
+      "status": "SENT",
+      "opportunityId": "opp_aeac851323423c027b21",
+      "sentAt": "2026-08-31T04:16:49.167Z",
+      "messageId": "1543836938933379124"
+    },
+    "brief:opp_c22ac4ea1742b00c2a1f:sha256:33616c381ed4cd9bc30b8b0e13a2130f0f4629bc24ecc354947bfaefef97a70c": {
+      "status": "SENT",
+      "opportunityId": "opp_c22ac4ea1742b00c2a1f",
+      "sentAt": "2026-08-31T04:16:49.167Z",
+      "messageId": "1543836938933379124"
     }
   },
   "pending": {},
