@@ -35028,8 +35028,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
+        "communityPoints": 9,
+        "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35043,11 +35043,11 @@
       },
       "contentHash": "sha256:5e6b3918d8a64dff776b11bc880b2af898e2ecbf45b882f91084ecfd68353a2c",
       "dedupeKey": "brief:opp_194c0de806302fbf44bb:sha256:5e6b3918d8a64dff776b11bc880b2af898e2ecbf45b882f91084ecfd68353a2c",
-      "firstSeenAt": "2026-08-31T04:16:49.167Z",
-      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -35126,8 +35126,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 4,
+        "communityPoints": 9,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35141,8 +35141,8 @@
       },
       "contentHash": "sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95",
       "dedupeKey": "brief:opp_4d07da1b3562b38fc71b:sha256:39c729c25aafa9b5c9f865738b48e82be5d62682882a131af130ba9b35018c95",
-      "firstSeenAt": "2026-08-31T04:16:49.167Z",
-      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35176,7 +35176,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 5,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35190,8 +35190,8 @@
       },
       "contentHash": "sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
       "dedupeKey": "brief:opp_5ca9e47c0b23d1c66b63:sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
-      "firstSeenAt": "2026-08-31T04:16:49.167Z",
-      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35224,8 +35224,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 7,
+        "communityPoints": 9,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35239,8 +35239,8 @@
       },
       "contentHash": "sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd",
       "dedupeKey": "brief:opp_06c120754b0ced8b110b:sha256:51e79b9c0c0506a3c0f5cf1e983fdaf3d63c78730327a1ee08250a239f0ea1cd",
-      "firstSeenAt": "2026-08-31T04:16:49.167Z",
-      "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35339,6 +35339,357 @@
       "dedupeKey": "brief:opp_dd1dd3848f40c100918e:sha256:5b85b66e9696b53a53cb479feac4174a8caf466316c823b5f4d3856f2bae5e0b",
       "firstSeenAt": "2026-08-31T04:16:49.167Z",
       "lastSeenAt": "2026-08-31T04:16:49.167Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e44c5380ded373bfd265": {
+      "id": "opp_e44c5380ded373bfd265",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33060",
+      "canonicalUrl": "https://news.hada.io/topic?id=33060",
+      "title": "Show GN: 그냥여기 - 공공기관 업무추진비 내역으로 세운 전국 식당 순위 지도",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T10:22:52+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "직접 만들었습니다. 전국 15개 시·도의 공공기관 75곳이 공개하는 업무추진비 집행내역을 모아, 같은 식당에 서로 다른 부서가 몇 곳이나 결제했는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33060"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:3ee4aa3f3c154053be5d3c94aa69014e7842903a923ba1a72765dc18f23ce5e7",
+      "dedupeKey": "brief:opp_e44c5380ded373bfd265:sha256:3ee4aa3f3c154053be5d3c94aa69014e7842903a923ba1a72765dc18f23ce5e7",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bbbb319f0949078afee7": {
+      "id": "opp_bbbb319f0949078afee7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33057",
+      "canonicalUrl": "https://yeptype.com/article/inter-alternatives",
+      "title": "Inter 대신 UI 글꼴을 고르는 두 가지 기준",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Inter 폰트가 UI에서 쓰기 편한 이유는 단순히 깔끔해서가 아니라, 대문자 높이가 글자 상자 중앙에 놓이는 vertical metrics를 갖췄기 때문 글자 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33057"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:25069667adaba39a49a2e78998d9be8c0ebdb29f6485a2ba1c9ec8a14b423dda",
+      "dedupeKey": "brief:opp_bbbb319f0949078afee7:sha256:25069667adaba39a49a2e78998d9be8c0ebdb29f6485a2ba1c9ec8a14b423dda",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2541965bb25c7d86307f": {
+      "id": "opp_2541965bb25c7d86307f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33046",
+      "canonicalUrl": "https://news.hada.io/topic?id=33046",
+      "title": "Show GN: Xazz - Rust 기반 AI 파이프라인 DSL (Polars+Burn 통합)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T08:31:52+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "저는 고등학생 2학년 개발자이고, Rust로 AI 데이터 파이프라인 전용 언어 및 플랫폼을 하나 만들었습니다. 이름은 Xazz입니다. 요즘 AI 프로토타...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33046"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0c69d9da3fdbe1d9790a9c2f19f66f5e400827a76b8842574e6fa337d0a6e6b6",
+      "dedupeKey": "brief:opp_2541965bb25c7d86307f:sha256:0c69d9da3fdbe1d9790a9c2f19f66f5e400827a76b8842574e6fa337d0a6e6b6",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0c067d65ca5a0b6c4040": {
+      "id": "opp_0c067d65ca5a0b6c4040",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "daed77f91b94b9fa0152c9ee67e99f1c7f12ec75",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-imweb-vpclattice-tech-blog",
+      "title": "아임웹의 Amazon VPC Lattice 기반 서비스 네트워크 재설계와 비용 최적화 사례",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 31 Aug 2026 07:47:27 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "들어가며 아임웹의 서비스 진입 경로는 AWS 계정과 VPC, 클러스터에 걸쳐 확장되어 왔습니다. 그 과정에서 로드밸런서 계층의 한도에 부딪혔는데, 상향 신청으로 해결되는 한도도 있었지만, ECS 서비스당 Target Group 5개 제한처럼 상향 대상이 아닌 것도 섞여 있었습니다. 이를 계기로 마이크로 프론트엔드(Micro-Frontends, MFE) 서빙 경로를 대상으로 서비스 네트워크를 재설계했습니다. 재설계의 골자는 외부 진입점(North-South)과 서비스 간 연결(East-West)의",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-imweb-vpclattice-tech-blog/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cdc8db05948f6e9f9e39a1aefc5f96eaa53094cf75b2389cd31c88fff01b11d9",
+      "dedupeKey": "brief:opp_0c067d65ca5a0b6c4040:sha256:cdc8db05948f6e9f9e39a1aefc5f96eaa53094cf75b2389cd31c88fff01b11d9",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_531a23dd73ffac503d76": {
+      "id": "opp_531a23dd73ffac503d76",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "dbb7516709bd103f339f2ed8d7248fa143e37f4f",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/zep-quiz-generation-bedrock-agentcore",
+      "title": "한 줄 프롬프트에서 그래프 기반 Agent로: Amazon Bedrock AgentCore 기반 ZEP의 교육용 퀴즈 생성 아키텍처",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 31 Aug 2026 06:12:32 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "젭(ZEP) 소개 젭은 온라인 메타버스 플랫폼 ZEP을 운영하는 스타트업입니다. ZEP은 사용자들이 온라인 공간에서도 자연스럽게 만나고 소통할 수 있는 경험을 제공하며, 오프라인의 물리적 제약을 넘어 다양한 활동이 이루어질 수 있는 환경을 만들어가고 있습니다. ZEP은 400만 MAU 규모의 서비스 환경에서 WebRTC 기술을 내재화해 안정적인 동시 스트리밍 경험을 제공하고 있으며, 대규모 동시 접속과 상호작용을 처리하는 게임 서버, 웹 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/zep-quiz-generation-bedrock-agentcore/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f46cd41363054e9d6b748064423b6b206481e6782532e7a60047f5e20de70a05",
+      "dedupeKey": "brief:opp_531a23dd73ffac503d76:sha256:f46cd41363054e9d6b748064423b6b206481e6782532e7a60047f5e20de70a05",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_11d4e6e3d3d9d61a79f9": {
+      "id": "opp_11d4e6e3d3d9d61a79f9",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:cVFc9f6M0U0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cVFc9f6M0U0",
+      "title": "[한영자막] AI 에이전트가 소프트웨어 엔지니어를 완전히 대체할까요? | Cursor Lauren Tan & Roshan Sadanani",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:00:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Cursor 팀의 로렌 탄(Lauren Tan)과 로샨 사드나니(Roshan Sadanani)가 새로운 AI 에이전트 도구 'GrokBot'과 신규 모델 'Grok 4.6'에 대해 이야기합니다. GrokBot의 실시간 데모와 사내 개발 비하인드, 그리고 에이전트가 소프트웨어 엔지니어링의 미래를 어떻게 바꾸고 있는지 자세히 확인해 보세요. 📌 주요 내용: • GrokBot 소개 및 실시간 라이브 데모 (비서실장 봇, 마케팅 자동화, 티켓 예매) • SpaceX와 공동 개발한 Grok 4.6 모델",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cVFc9f6M0U0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-31T09:00:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e1117e6994e9a785f4a9285c94f8acacdc9285c4546b51a59c25fcf31be8cbd3",
+      "dedupeKey": "brief:opp_11d4e6e3d3d9d61a79f9:sha256:e1117e6994e9a785f4a9285c94f8acacdc9285c4546b51a59c25fcf31be8cbd3",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_634d41558e414db7ae43": {
+      "id": "opp_634d41558e414db7ae43",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:0EQO8VU3a1Y",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0EQO8VU3a1Y",
+      "title": "정확도 70%에 머문 AI, 그래프 기술로 근본부터 해결한다 | 인포시즈 다큐멘터리",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T09:00:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "기업들이 도입한 생성형 AI, 왜 아직도 정확도 70%의 벽을 못 넘고 있을까요? 이 질문 하나를 붙잡고, 아무도 풀지 못한 문제에 뛰어든 사람들이 있습니다. 그래프 기술과 온톨로지로 기업 데이터의 근본적인 문제를 해결하는 기업, 인포시즈(INFOZS). 이번 다큐멘터리는 대표를 포함한 인포시즈 구성원 6인의 인터뷰를 통해, 이들이 실제로 어떤 문제를 풀어왔고 왜 이 일에 뛰어들었는지를 담았습니다. 🌎 EO 글로벌 채널 구독하기 👉🏻👉🏻 https://bit.ly/3S0Pacc 👽 eo",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=0EQO8VU3a1Y"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-31T09:00:18.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4abc588a48cf1ad8919e90951b43bd50be0a1ff69317775fea3771f8ed8219fc",
+      "dedupeKey": "brief:opp_634d41558e414db7ae43:sha256:4abc588a48cf1ad8919e90951b43bd50be0a1ff69317775fea3771f8ed8219fc",
+      "firstSeenAt": "2026-08-31T09:05:25.788Z",
+      "lastSeenAt": "2026-08-31T09:05:25.788Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -39216,6 +39567,42 @@
       "opportunityId": "opp_c22ac4ea1742b00c2a1f",
       "sentAt": "2026-08-31T04:16:49.167Z",
       "messageId": "1543836938933379124"
+    },
+    "brief:opp_0c067d65ca5a0b6c4040:sha256:cdc8db05948f6e9f9e39a1aefc5f96eaa53094cf75b2389cd31c88fff01b11d9": {
+      "status": "SENT",
+      "opportunityId": "opp_0c067d65ca5a0b6c4040",
+      "sentAt": "2026-08-31T09:05:25.788Z",
+      "messageId": "1543909571360325663"
+    },
+    "brief:opp_531a23dd73ffac503d76:sha256:f46cd41363054e9d6b748064423b6b206481e6782532e7a60047f5e20de70a05": {
+      "status": "SENT",
+      "opportunityId": "opp_531a23dd73ffac503d76",
+      "sentAt": "2026-08-31T09:05:25.788Z",
+      "messageId": "1543909571360325663"
+    },
+    "brief:opp_11d4e6e3d3d9d61a79f9:sha256:e1117e6994e9a785f4a9285c94f8acacdc9285c4546b51a59c25fcf31be8cbd3": {
+      "status": "SENT",
+      "opportunityId": "opp_11d4e6e3d3d9d61a79f9",
+      "sentAt": "2026-08-31T09:05:25.788Z",
+      "messageId": "1543909571360325663"
+    },
+    "brief:opp_e44c5380ded373bfd265:sha256:3ee4aa3f3c154053be5d3c94aa69014e7842903a923ba1a72765dc18f23ce5e7": {
+      "status": "SENT",
+      "opportunityId": "opp_e44c5380ded373bfd265",
+      "sentAt": "2026-08-31T09:05:25.788Z",
+      "messageId": "1543909571360325663"
+    },
+    "brief:opp_634d41558e414db7ae43:sha256:4abc588a48cf1ad8919e90951b43bd50be0a1ff69317775fea3771f8ed8219fc": {
+      "status": "SENT",
+      "opportunityId": "opp_634d41558e414db7ae43",
+      "sentAt": "2026-08-31T09:05:25.788Z",
+      "messageId": "1543909571360325663"
+    },
+    "brief:opp_194c0de806302fbf44bb:sha256:5e6b3918d8a64dff776b11bc880b2af898e2ecbf45b882f91084ecfd68353a2c": {
+      "status": "SENT",
+      "opportunityId": "opp_194c0de806302fbf44bb",
+      "sentAt": "2026-08-31T09:05:25.788Z",
+      "messageId": "1543909571360325663"
     }
   },
   "pending": {},
