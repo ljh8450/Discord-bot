@@ -36093,6 +36093,153 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_6b954fbf63621334e538": {
+      "id": "opp_6b954fbf63621334e538",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33091",
+      "canonicalUrl": "https://komoroske.com/slime-mold",
+      "title": "조직이 커질수록 일이 느려지는 이유, 조정의 역풍 [171p 슬라이드]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:19:47+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "성공한 조직이 성장할수록 예전에는 간단했던 일까지 느려지는 이유는 누군가의 무능이나 방해가 아니라, 조정에 참여하는 사람과 불확실성이 늘면...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33091"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9696f4d29d08ada7358b83ecc9996c67aac01e1f290e5fe17790800509085035",
+      "dedupeKey": "brief:opp_6b954fbf63621334e538:sha256:9696f4d29d08ada7358b83ecc9996c67aac01e1f290e5fe17790800509085035",
+      "firstSeenAt": "2026-09-01T04:02:14.204Z",
+      "lastSeenAt": "2026-09-01T04:02:14.204Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_671ba4c702dc7381a2c6": {
+      "id": "opp_671ba4c702dc7381a2c6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33081",
+      "canonicalUrl": "https://dustycloud.org/blog/but-where-does-taste-come-from",
+      "title": "그렇다면 안목은 어디에서 오는가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T04:02:38+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안목은 좋은 결과물을 알아보는 능력에 그치지 않고, 직접 만들고 실패하며 우연과 자신의 한계를 겪으며 스타일을 형성하는 과정에서 길러짐 Rick...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33081"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:490071ceedeb2bff146e38614bc33e9ed29cb4fc84aadea1b6b482b71219b7a7",
+      "dedupeKey": "brief:opp_671ba4c702dc7381a2c6:sha256:490071ceedeb2bff146e38614bc33e9ed29cb4fc84aadea1b6b482b71219b7a7",
+      "firstSeenAt": "2026-09-01T04:02:14.204Z",
+      "lastSeenAt": "2026-09-01T04:02:14.204Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d96bb079279d2f4093f8": {
+      "id": "opp_d96bb079279d2f4093f8",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/832",
+      "canonicalUrl": "https://tech.kakao.com/posts/832",
+      "title": "곧, if(kakao)26의 이야기가 시작됩니다.",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Sun, 30 Aug 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "“모든 연결에 지능을” if(kakao)26은 이 한 문장에서 시작합니다. 카카오가 기술을 만들며 마주한 고민과 질문, 그 과정에서 얻은 경험과 발견을 나누는 if(kakao)26! 어떤 이야기들이 기다리고 있을지 궁금하신가요? 앞으로 카카오테크 블로그를 통해 if(kakao)26의 다양한 이야기를 하나씩 소개해 드릴 예정입니다! 하나씩 공개될 if(kakao)26의 새로운 이야기를 기대해 주세요! 🔗 if(kakao)26 미리 만나보기",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/832"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d7c80327d21ed464792b9abfff7db845e7806bc5aaf4ad6ea6e8e98e6cba1e1b",
+      "dedupeKey": "brief:opp_d96bb079279d2f4093f8:sha256:d7c80327d21ed464792b9abfff7db845e7806bc5aaf4ad6ea6e8e98e6cba1e1b",
+      "firstSeenAt": "2026-09-01T04:02:14.204Z",
+      "lastSeenAt": "2026-09-01T04:02:14.204Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -40055,6 +40202,24 @@
       "opportunityId": "opp_1e81c4cff9d39362508e",
       "sentAt": "2026-09-01T00:05:40.027Z",
       "messageId": "1544136122702102630"
+    },
+    "brief:opp_d96bb079279d2f4093f8:sha256:d7c80327d21ed464792b9abfff7db845e7806bc5aaf4ad6ea6e8e98e6cba1e1b": {
+      "status": "SENT",
+      "opportunityId": "opp_d96bb079279d2f4093f8",
+      "sentAt": "2026-09-01T04:02:14.204Z",
+      "messageId": "1544195658003521587"
+    },
+    "brief:opp_671ba4c702dc7381a2c6:sha256:490071ceedeb2bff146e38614bc33e9ed29cb4fc84aadea1b6b482b71219b7a7": {
+      "status": "SENT",
+      "opportunityId": "opp_671ba4c702dc7381a2c6",
+      "sentAt": "2026-09-01T04:02:14.204Z",
+      "messageId": "1544195658003521587"
+    },
+    "brief:opp_6b954fbf63621334e538:sha256:9696f4d29d08ada7358b83ecc9996c67aac01e1f290e5fe17790800509085035": {
+      "status": "SENT",
+      "opportunityId": "opp_6b954fbf63621334e538",
+      "sentAt": "2026-09-01T04:02:14.204Z",
+      "messageId": "1544195658003521587"
     }
   },
   "pending": {},
