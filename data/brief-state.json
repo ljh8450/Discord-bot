@@ -36240,6 +36240,601 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_24675b21f4947cf5892d": {
+      "id": "opp_24675b21f4947cf5892d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33100",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "title": "테렌스 타오가 설명하는 수학의 6가지 필수 개념 [영상]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T12:39:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "수학은 현실을 정밀하게 다루는 언어이며, Terence Tao는 수천 년에 걸쳐 발전한 수, 대수, 기하학, 확률, 해석학, 동역학을 그 여섯 기둥으로 분...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33100"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 13,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:2e6bb8ffb99156debbadea5ab35595912fa680102159a39f0bc6a7155cbdd89c",
+      "dedupeKey": "brief:opp_24675b21f4947cf5892d:sha256:2e6bb8ffb99156debbadea5ab35595912fa680102159a39f0bc6a7155cbdd89c",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_67c61f36ac12808f2180": {
+      "id": "opp_67c61f36ac12808f2180",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33087",
+      "canonicalUrl": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+      "title": "학회에서 목격한 터무니없는 AI 사용: 질의응답까지 AI에 맡긴 발표자들",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:10:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "한 학회의 발표 후 질의응답에서 함께 무대에 오른 패널 가운데 한 명을 제외한 전원이 질문을 녹음하고 AI로 답변을 만드는 모습이 목격됨 논평을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33087"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:928d7463cbc6de2dad8213a4d74123357b0c1ed47ba9efc424fd9e3797cb82f7",
+      "dedupeKey": "brief:opp_67c61f36ac12808f2180:sha256:928d7463cbc6de2dad8213a4d74123357b0c1ed47ba9efc424fd9e3797cb82f7",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8c7cf4ce17f97c9411eb": {
+      "id": "opp_8c7cf4ce17f97c9411eb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33089",
+      "canonicalUrl": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+      "title": "VibeCoded AI-Slop License v1.0 - 만든 사람도 읽지 않은 코드를 위해",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:16:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 만들었고 사람은 제대로 읽지도 않았을 법한 코드를 위한 풍자적 라이선스로, 사용과 수정, 판매, 재배포, AI 학습을 포함해 무엇이든 허용함...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33089"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
+      "dedupeKey": "brief:opp_8c7cf4ce17f97c9411eb:sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_60cfa5deebdd3e36c886": {
+      "id": "opp_60cfa5deebdd3e36c886",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33094",
+      "canonicalUrl": "https://github.com/asciimoo/hister",
+      "title": "Hister - 방문한 웹페이지와 로컬 파일을 다시 찾는 개인 검색엔진",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:40:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "방문했던 웹페이지와 보관 중인 파일의 본문 전체를 색인하는 개인 검색엔진 제목과 URL만 남기는 브라우저 기록과 달리, 페이지 안에서 읽었던 문...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33094"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9a4c7f1cd1ac7817132c0652adfd2f79dd9425bc7622085847db531837532694",
+      "dedupeKey": "brief:opp_60cfa5deebdd3e36c886:sha256:9a4c7f1cd1ac7817132c0652adfd2f79dd9425bc7622085847db531837532694",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_66decbc5750f9420155c": {
+      "id": "opp_66decbc5750f9420155c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33093",
+      "canonicalUrl": "https://github.com/palamim/starboard",
+      "title": "Starboard - macOS Dock 옆에 항상 붙어 있는 터미널",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "단축키로 불러내는 드롭다운 터미널이 아니라, macOS Dock 옆에 계속 표시되는 터미널 Dock의 위치와 높이를 실시간으로 따라가며 모든 Space와 전...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33093"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
+      "dedupeKey": "brief:opp_66decbc5750f9420155c:sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90d289ecd761a0c303ce": {
+      "id": "opp_90d289ecd761a0c303ce",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33096",
+      "canonicalUrl": "https://www.jepeake.com/ai-chip-architectures",
+      "title": "AI 칩 아키텍처",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T10:45:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "단일 스레드 CPU 성능 증가율이 1980년대 연 52%에서 2018년 3%로 낮아지면서, AI 연산은 도메인 특화 아키텍처 경쟁의 중심이 됨. NVIDIA GPU부터...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33096"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7d8e5f787874eeeaff9b9ba494f1dc92fadfa537c8a0cd1aa5ab7308a35df306",
+      "dedupeKey": "brief:opp_90d289ecd761a0c303ce:sha256:7d8e5f787874eeeaff9b9ba494f1dc92fadfa537c8a0cd1aa5ab7308a35df306",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b03a6f5aacb47f8ec31d": {
+      "id": "opp_b03a6f5aacb47f8ec31d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33086",
+      "canonicalUrl": "https://webiterate.dev/google-removed-extensions-ublock-origin-108",
+      "title": "Google, Chrome 웹 스토어에서 uBlock Origin 등 모든 MV2 확장 프로그램 삭제",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T08:32:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google이 Manifest V2 지원 중단의 마지막 단계로, uBlock Origin을 포함해 Chrome 웹 스토어에 남아 있던 모든 MV2 확장 프로그램을 삭제함 Chrom...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33086"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d9a9bb8d5ca4f90fee977ed75fcacdbe9cdf2c28734789e4f6e9a60368aef8ba",
+      "dedupeKey": "brief:opp_b03a6f5aacb47f8ec31d:sha256:d9a9bb8d5ca4f90fee977ed75fcacdbe9cdf2c28734789e4f6e9a60368aef8ba",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e71954d409afd5beb2d7": {
+      "id": "opp_e71954d409afd5beb2d7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33082",
+      "canonicalUrl": "https://www.dwarkesh.com/p/openai-huggingface",
+      "title": "에이전트 문명의 흥망성쇠",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T05:40:38+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI에서 약 3개월간 세 차례의 비밀 에이전트 집단이 연이어 생겨났으며, 후속 집단은 앞선 집단이 남긴 통신망과 공격 기술을 이어받음 첫 번...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33082"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
+      "dedupeKey": "brief:opp_e71954d409afd5beb2d7:sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a62ff54ed8f928aa3edb": {
+      "id": "opp_a62ff54ed8f928aa3edb",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "canonicalUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "summaryEvidence": [
+        "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dcb087d2ec88723b5b3e129adfe4f7cc465de26d6eeebe1ee1711070f4f9a48e",
+      "dedupeKey": "brief:opp_a62ff54ed8f928aa3edb:sha256:dcb087d2ec88723b5b3e129adfe4f7cc465de26d6eeebe1ee1711070f4f9a48e",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b077127210b05b654d94": {
+      "id": "opp_b077127210b05b654d94",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/4452165",
+      "canonicalUrl": "https://d2.naver.com/helloworld/4452165",
+      "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T06:52:03Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<html><head></head><body><p dir=\"auto\">저희 팀은 데이터 입수 플랫폼의 배치 워크플로를 Airflow 2.10.2로 운영하고 있습니다. 2025년 4월 Airflow 3.0이 릴리스되었고, UI 개선과 다양한 신규 기능이 포함되었습니다. 이 변화가 저희 운영 환경에 필요하다고 판단했고 도입을 위한 PoC(Proof of Concept)를 진행했습니다.</p> <p dir=\"auto\">이 글은 그 PoC 과정에서 Python의 멀티프로세싱 방식 중 하나인 fork로 인",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/4452165"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b548616d69ded53e56bb273ebc90b0489341c429760e9cb3d4bde99913c7f593",
+      "dedupeKey": "brief:opp_b077127210b05b654d94:sha256:b548616d69ded53e56bb273ebc90b0489341c429760e9cb3d4bde99913c7f593",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4ed119f2ab0f4c8c4387": {
+      "id": "opp_4ed119f2ab0f4c8c4387",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:3tDoLkFcEKg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3tDoLkFcEKg",
+      "title": "[한영자막] 누구나 무엇이든 만들 수 있는 시대, 대체 무엇을 만들어야 할까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:00:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "누구나 AI로 무엇이든 빠르게 만들 수 있게 된 지금, 평범한 결과물의 가치는 바닥으로 떨어졌습니다. 모두가 똑같은 결과물을 쏟아내는 세상에서 왜 우리 제품을 선택해야 하는지, 어떻게 나만의 고유한 신호를 지키고 신뢰를 구축해야 하는지 그 구체적인 전략을 전해드립니다. 📌 주요 내용: • AI 수렴 기계의 한계: 왜 모두가 같은 질문을 하고 같은 답을 얻게 되는가 • 취향(Taste)과 판단력(Judgment)의 차이: AI가 결코 학습할 수 없는 두 가지 영역 • 리처드 해밍의 통찰: 모두가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=3tDoLkFcEKg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T09:00:35.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fdd12513ad8e25d4d958e2212bf26de788ddb46c602250ae92dde5dcbaf200ff",
+      "dedupeKey": "brief:opp_4ed119f2ab0f4c8c4387:sha256:fdd12513ad8e25d4d958e2212bf26de788ddb46c602250ae92dde5dcbaf200ff",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_71c4e46485708a3f6bb6": {
+      "id": "opp_71c4e46485708a3f6bb6",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:TQqa0B_pNGE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TQqa0B_pNGE",
+      "title": "[한영자막] Anthropic의 Claude Platform 팀이 말하는 에이전트의 시대",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T04:43:51+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic의 Claude Platform 팀이 말하는 에이전트의 시대를 한영자막으로 만나보세요. Angela Jiang과 Katelyn Lesse가 에이전트 플랫폼을 실제 제품으로 만들며 얻은 인사이트를 이야기합니다. 주요 포인트 - 단순한 툴 호출을 넘어 장시간 실행되는 에이전트를 안정적으로 운영하는 방법 - 에이전트의 오류 복구, 사람의 개입, 안전성을 플랫폼에 설계하는 방식 - Claude Platform과 Cloud Managed Agents가 개발자 경험에 미치는 변화 - 모델 선",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=TQqa0B_pNGE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T09:00:35.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3b148d7dd5d64b21a54b9cda278247f0be2cb9ce475f332b5bde341a4e6d768e",
+      "dedupeKey": "brief:opp_71c4e46485708a3f6bb6:sha256:3b148d7dd5d64b21a54b9cda278247f0be2cb9ce475f332b5bde341a4e6d768e",
+      "firstSeenAt": "2026-09-01T09:05:26.561Z",
+      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -40220,6 +40815,42 @@
       "opportunityId": "opp_6b954fbf63621334e538",
       "sentAt": "2026-09-01T04:02:14.204Z",
       "messageId": "1544195658003521587"
+    },
+    "brief:opp_b077127210b05b654d94:sha256:b548616d69ded53e56bb273ebc90b0489341c429760e9cb3d4bde99913c7f593": {
+      "status": "SENT",
+      "opportunityId": "opp_b077127210b05b654d94",
+      "sentAt": "2026-09-01T09:05:26.561Z",
+      "messageId": "1544271963105660960"
+    },
+    "brief:opp_71c4e46485708a3f6bb6:sha256:3b148d7dd5d64b21a54b9cda278247f0be2cb9ce475f332b5bde341a4e6d768e": {
+      "status": "SENT",
+      "opportunityId": "opp_71c4e46485708a3f6bb6",
+      "sentAt": "2026-09-01T09:05:26.561Z",
+      "messageId": "1544271963105660960"
+    },
+    "brief:opp_24675b21f4947cf5892d:sha256:2e6bb8ffb99156debbadea5ab35595912fa680102159a39f0bc6a7155cbdd89c": {
+      "status": "SENT",
+      "opportunityId": "opp_24675b21f4947cf5892d",
+      "sentAt": "2026-09-01T09:05:26.561Z",
+      "messageId": "1544271963105660960"
+    },
+    "brief:opp_67c61f36ac12808f2180:sha256:928d7463cbc6de2dad8213a4d74123357b0c1ed47ba9efc424fd9e3797cb82f7": {
+      "status": "SENT",
+      "opportunityId": "opp_67c61f36ac12808f2180",
+      "sentAt": "2026-09-01T09:05:26.561Z",
+      "messageId": "1544271963105660960"
+    },
+    "brief:opp_a62ff54ed8f928aa3edb:sha256:dcb087d2ec88723b5b3e129adfe4f7cc465de26d6eeebe1ee1711070f4f9a48e": {
+      "status": "SENT",
+      "opportunityId": "opp_a62ff54ed8f928aa3edb",
+      "sentAt": "2026-09-01T09:05:26.561Z",
+      "messageId": "1544271963105660960"
+    },
+    "brief:opp_4ed119f2ab0f4c8c4387:sha256:fdd12513ad8e25d4d958e2212bf26de788ddb46c602250ae92dde5dcbaf200ff": {
+      "status": "SENT",
+      "opportunityId": "opp_4ed119f2ab0f4c8c4387",
+      "sentAt": "2026-09-01T09:05:26.561Z",
+      "messageId": "1544271963105660960"
     }
   },
   "pending": {},
