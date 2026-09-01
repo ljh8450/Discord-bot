@@ -36366,7 +36366,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 6,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36380,8 +36380,8 @@
       },
       "contentHash": "sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
       "dedupeKey": "brief:opp_8c7cf4ce17f97c9411eb:sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
-      "firstSeenAt": "2026-09-01T09:05:26.561Z",
-      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36414,8 +36414,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 8,
+        "communityPoints": 8,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36429,11 +36429,11 @@
       },
       "contentHash": "sha256:9a4c7f1cd1ac7817132c0652adfd2f79dd9425bc7622085847db531837532694",
       "dedupeKey": "brief:opp_60cfa5deebdd3e36c886:sha256:9a4c7f1cd1ac7817132c0652adfd2f79dd9425bc7622085847db531837532694",
-      "firstSeenAt": "2026-09-01T09:05:26.561Z",
-      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -36463,8 +36463,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 9,
+        "communityPoints": 8,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36478,8 +36478,8 @@
       },
       "contentHash": "sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
       "dedupeKey": "brief:opp_66decbc5750f9420155c:sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
-      "firstSeenAt": "2026-09-01T09:05:26.561Z",
-      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36512,8 +36512,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 8,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36527,11 +36527,11 @@
       },
       "contentHash": "sha256:7d8e5f787874eeeaff9b9ba494f1dc92fadfa537c8a0cd1aa5ab7308a35df306",
       "dedupeKey": "brief:opp_90d289ecd761a0c303ce:sha256:7d8e5f787874eeeaff9b9ba494f1dc92fadfa537c8a0cd1aa5ab7308a35df306",
-      "firstSeenAt": "2026-09-01T09:05:26.561Z",
-      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -36562,7 +36562,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 11,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36576,8 +36576,8 @@
       },
       "contentHash": "sha256:d9a9bb8d5ca4f90fee977ed75fcacdbe9cdf2c28734789e4f6e9a60368aef8ba",
       "dedupeKey": "brief:opp_b03a6f5aacb47f8ec31d:sha256:d9a9bb8d5ca4f90fee977ed75fcacdbe9cdf2c28734789e4f6e9a60368aef8ba",
-      "firstSeenAt": "2026-09-01T09:05:26.561Z",
-      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36610,8 +36610,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 17,
+        "communityPoints": 6,
+        "communityRank": 20,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36625,8 +36625,8 @@
       },
       "contentHash": "sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
       "dedupeKey": "brief:opp_e71954d409afd5beb2d7:sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
-      "firstSeenAt": "2026-09-01T09:05:26.561Z",
-      "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36830,6 +36830,214 @@
       "dedupeKey": "brief:opp_71c4e46485708a3f6bb6:sha256:3b148d7dd5d64b21a54b9cda278247f0be2cb9ce475f332b5bde341a4e6d768e",
       "firstSeenAt": "2026-09-01T09:05:26.561Z",
       "lastSeenAt": "2026-09-01T09:05:26.561Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a9c3a20a648f8bb7d151": {
+      "id": "opp_a9c3a20a648f8bb7d151",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33090",
+      "canonicalUrl": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "title": "OpenClaw 2.0 출시, 설치부터 메모리와 브라우저 제어까지 전면 개편",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:17:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenClaw 역사상 가장 큰 업데이트로, 933명의 기여자가 만든 16,000개 이상의 PR을 반영해 설치, 메시징, 메모리, 스킬, 자동화, 앱, 플러그인, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33090"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:01789d91aa7ad1d7c67475bef47480caa39d7bf137f349bb86180832a72f7330",
+      "dedupeKey": "brief:opp_a9c3a20a648f8bb7d151:sha256:01789d91aa7ad1d7c67475bef47480caa39d7bf137f349bb86180832a72f7330",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ea33e9c58efcf402d26d": {
+      "id": "opp_ea33e9c58efcf402d26d",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:9Qf_QLt7IWY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9Qf_QLt7IWY",
+      "title": "EP 112. AI 반도체 안에서 일어나는 일들: KV Cache부터 Roofline까지",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T13:30:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "HyperAccel 이진원 CTO와 함께 LLM inference의 핵심 원리를 처음부터 끝까지 짚어보는 심화 강의 편입니다. prefill과 decode의 차이, KV cache의 용량 문제, arithmetic intensity와 roofline analysis를 통해 왜 decode가 memory-bound가 될 수밖에 없는지, 그리고 SemiAnalysis InferenceX 벤치마크의 interactivity–throughput Pareto curve를 어떻게 읽어야 하는지 차근차근 설명",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=9Qf_QLt7IWY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T13:30:29.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9fdf9643431c054bd3ec14ef6f4c641a9e19940f15a484fe84745717caf065b7",
+      "dedupeKey": "brief:opp_ea33e9c58efcf402d26d:sha256:9fdf9643431c054bd3ec14ef6f4c641a9e19940f15a484fe84745717caf065b7",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a580f9bea019070bd1aa": {
+      "id": "opp_a580f9bea019070bd1aa",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:CGDibbwGfvk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=CGDibbwGfvk",
+      "title": "AI에게 맡기는 주식 자동매매 - Codex와 NH투자증권 API로 투자 에이전트 만들기",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T09:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이번 영상은 NH투자증권 Namuh PLUG API와 Codex를 연결해 모의투자부터 실제 매매까지 전 과정을 구현하는 튜토리얼입니다. 🔗 Namuh PLUG 자세히 보기: https://m.mynamuh.com/customer/event/eventView?mNo=1029&utm_source=youtube&utm_medium=video&utm_campaign=260812_event1&utm_content=jocoding 🔗 Github 링크: https://github.com/youtube-j",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=CGDibbwGfvk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T09:00:02.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a3c34cd722eaf3382c90649168836796fedcc82bd362aa120867bca3ca920734",
+      "dedupeKey": "brief:opp_a580f9bea019070bd1aa:sha256:a3c34cd722eaf3382c90649168836796fedcc82bd362aa120867bca3ca920734",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_92edd4925820214ccdc6": {
+      "id": "opp_92edd4925820214ccdc6",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:fXCHw9tV41A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fXCHw9tV41A",
+      "title": "모더나 암 백신 3상 성공… 진짜 암 치료 판 바뀌나 | AI 맞춤형 치료제 팩트체크",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T12:03:40+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "모더나와 머크가 개발한 개인맞춤형 암 치료제 V940이 흑색종 임상 3상에서 주요 목표를 달성했습니다. 하지만 흔히 말하는 ‘암 백신 혁명’이 실제로 어느 정도까지 맞는 표현인지는 조금 더 들여다볼 필요가 있는데요. 이번 영상에서는 V940가 예방 백신이 아니라 수술 후 남아 있을지 모르는 암세포를 노리는 맞춤형 치료제라는 점부터 짚어봅니다. 환자의 암 조직과 정상 혈액을 비교해 돌연변이를 찾고, AI가 수많은 후보 가운데 최대 34개의 표적을 골라내는 과정도 살펴봤습니다. 선택된 정보가 실제 환",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fXCHw9tV41A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T12:03:40.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e0130984fc9325b1ba80adb14669c448ebef3785135f196378e0d50f8d5a2654",
+      "dedupeKey": "brief:opp_92edd4925820214ccdc6:sha256:e0130984fc9325b1ba80adb14669c448ebef3785135f196378e0d50f8d5a2654",
+      "firstSeenAt": "2026-09-01T13:54:54.982Z",
+      "lastSeenAt": "2026-09-01T13:54:54.982Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -40851,6 +41059,36 @@
       "opportunityId": "opp_4ed119f2ab0f4c8c4387",
       "sentAt": "2026-09-01T09:05:26.561Z",
       "messageId": "1544271963105660960"
+    },
+    "brief:opp_a580f9bea019070bd1aa:sha256:a3c34cd722eaf3382c90649168836796fedcc82bd362aa120867bca3ca920734": {
+      "status": "SENT",
+      "opportunityId": "opp_a580f9bea019070bd1aa",
+      "sentAt": "2026-09-01T13:54:54.982Z",
+      "messageId": "1544344810423455827"
+    },
+    "brief:opp_ea33e9c58efcf402d26d:sha256:9fdf9643431c054bd3ec14ef6f4c641a9e19940f15a484fe84745717caf065b7": {
+      "status": "SENT",
+      "opportunityId": "opp_ea33e9c58efcf402d26d",
+      "sentAt": "2026-09-01T13:54:54.982Z",
+      "messageId": "1544344810423455827"
+    },
+    "brief:opp_92edd4925820214ccdc6:sha256:e0130984fc9325b1ba80adb14669c448ebef3785135f196378e0d50f8d5a2654": {
+      "status": "SENT",
+      "opportunityId": "opp_92edd4925820214ccdc6",
+      "sentAt": "2026-09-01T13:54:54.982Z",
+      "messageId": "1544344810423455827"
+    },
+    "brief:opp_90d289ecd761a0c303ce:sha256:7d8e5f787874eeeaff9b9ba494f1dc92fadfa537c8a0cd1aa5ab7308a35df306": {
+      "status": "SENT",
+      "opportunityId": "opp_90d289ecd761a0c303ce",
+      "sentAt": "2026-09-01T13:54:54.982Z",
+      "messageId": "1544344810423455827"
+    },
+    "brief:opp_60cfa5deebdd3e36c886:sha256:9a4c7f1cd1ac7817132c0652adfd2f79dd9425bc7622085847db531837532694": {
+      "status": "SENT",
+      "opportunityId": "opp_60cfa5deebdd3e36c886",
+      "sentAt": "2026-09-01T13:54:54.982Z",
+      "messageId": "1544344810423455827"
     }
   },
   "pending": {},
