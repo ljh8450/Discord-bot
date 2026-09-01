@@ -35176,7 +35176,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 11,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35190,8 +35190,8 @@
       },
       "contentHash": "sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
       "dedupeKey": "brief:opp_5ca9e47c0b23d1c66b63:sha256:301aebc80065ec2a79b7b57df29ce1ffd122d433f7542cb23645abddab9f5870",
-      "firstSeenAt": "2026-08-31T16:41:13.201Z",
-      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35421,7 +35421,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 8,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35435,8 +35435,8 @@
       },
       "contentHash": "sha256:25069667adaba39a49a2e78998d9be8c0ebdb29f6485a2ba1c9ec8a14b423dda",
       "dedupeKey": "brief:opp_bbbb319f0949078afee7:sha256:25069667adaba39a49a2e78998d9be8c0ebdb29f6485a2ba1c9ec8a14b423dda",
-      "firstSeenAt": "2026-08-31T16:41:13.201Z",
-      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35723,7 +35723,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -35737,11 +35737,11 @@
       },
       "contentHash": "sha256:b368262619c303a9141820920479545ea5b5acd94a1d9c7c817f5c4f93f60033",
       "dedupeKey": "brief:opp_1e81c4cff9d39362508e:sha256:b368262619c303a9141820920479545ea5b5acd94a1d9c7c817f5c4f93f60033",
-      "firstSeenAt": "2026-08-31T16:41:13.201Z",
-      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -35786,11 +35786,11 @@
       },
       "contentHash": "sha256:330729b8b572ab49adf2c62a4fe8d3756d74008a9f67f3ed294bc19e16e19268",
       "dedupeKey": "brief:opp_09eb8342dc277558e7a4:sha256:330729b8b572ab49adf2c62a4fe8d3756d74008a9f67f3ed294bc19e16e19268",
-      "firstSeenAt": "2026-08-31T16:41:13.201Z",
-      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -35821,7 +35821,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 17,
+        "communityRank": 18,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -35835,8 +35835,8 @@
       },
       "contentHash": "sha256:e9dd8162c842d760b0a96abde5886e63b615169b828a8f153c9562117c59edc6",
       "dedupeKey": "brief:opp_b07ed8bcb52ebad498c3:sha256:e9dd8162c842d760b0a96abde5886e63b615169b828a8f153c9562117c59edc6",
-      "firstSeenAt": "2026-08-31T16:41:13.201Z",
-      "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -35938,6 +35938,156 @@
       "dedupeKey": "brief:opp_69db3989df80933560d7:sha256:b17bbe173012f9d8d4c596baf2e8f53a73b50f29f46f07350ab78ddb169a6dc4",
       "firstSeenAt": "2026-08-31T16:41:13.201Z",
       "lastSeenAt": "2026-08-31T16:41:13.201Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_abf1ec4c074cd81ace99": {
+      "id": "opp_abf1ec4c074cd81ace99",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/polimill",
+      "canonicalUrl": "https://openai.com/index/polimill",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "summaryEvidence": [
+        "https://openai.com/index/polimill"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c49d523d34f3f8611493c40b7f98fb56ee4d9e1caaca9233e660dade659680b9",
+      "dedupeKey": "brief:opp_abf1ec4c074cd81ace99:sha256:c49d523d34f3f8611493c40b7f98fb56ee4d9e1caaca9233e660dade659680b9",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b6da4146ce3ea81d84d8": {
+      "id": "opp_b6da4146ce3ea81d84d8",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/improving-alignment-security-efforts",
+      "canonicalUrl": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "title": "Improving our alignment and security efforts",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/improving-alignment-security-efforts"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": null,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:075adc1c8179ecb0421bc83c1a4c591bab0a87129ad15bfd92a2c1cd64cf6198",
+      "dedupeKey": "brief:opp_b6da4146ce3ea81d84d8:sha256:075adc1c8179ecb0421bc83c1a4c591bab0a87129ad15bfd92a2c1cd64cf6198",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_38ae8895c975b8611c6e": {
+      "id": "opp_38ae8895c975b8611c6e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:PXHUHNX7nbI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PXHUHNX7nbI",
+      "title": "[한영자막] 에이전틱 사이트: 초개인화 웹사이트를 구축하는 방법 — Adobe Carlos Sanchez",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-08-31T22:00:20+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Adobe의 수석 연구원 Carlos Sanchez가 사용자의 의도와 탐색 행동에 맞춰 실시간으로 조립되는 초개인화 '에이전틱 사이트(Agentic Sites)' 구축 방법과 실전 데모를 공개합니다. 단순한 검색 결과가 아닌, 사용자의 쿼리와 페르소나에 맞춰 카피, 추천 제품, 팁까지 1초 만에 맞춤 생성되는 '단 한 명의 고객을 위한 웹사이트(Audience of One)'의 아키텍처와 성능 최적화 비결을 확인해 보세요. 📌 주요 내용: • 사이트 전체가 아닌 특정 블록(Hero, 상품 목록,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PXHUHNX7nbI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-08-31T22:00:20.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a26bd186dc717d21fa8f8f4498a6a7fa8a8077021e79a60dc603aa01f43cf3db",
+      "dedupeKey": "brief:opp_38ae8895c975b8611c6e:sha256:a26bd186dc717d21fa8f8f4498a6a7fa8a8077021e79a60dc603aa01f43cf3db",
+      "firstSeenAt": "2026-09-01T00:05:40.027Z",
+      "lastSeenAt": "2026-09-01T00:05:40.027Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -39875,6 +40025,36 @@
       "opportunityId": "opp_06c120754b0ced8b110b",
       "sentAt": "2026-08-31T16:41:13.201Z",
       "messageId": "1544024274417877165"
+    },
+    "brief:opp_abf1ec4c074cd81ace99:sha256:c49d523d34f3f8611493c40b7f98fb56ee4d9e1caaca9233e660dade659680b9": {
+      "status": "SENT",
+      "opportunityId": "opp_abf1ec4c074cd81ace99",
+      "sentAt": "2026-09-01T00:05:40.027Z",
+      "messageId": "1544136122702102630"
+    },
+    "brief:opp_38ae8895c975b8611c6e:sha256:a26bd186dc717d21fa8f8f4498a6a7fa8a8077021e79a60dc603aa01f43cf3db": {
+      "status": "SENT",
+      "opportunityId": "opp_38ae8895c975b8611c6e",
+      "sentAt": "2026-09-01T00:05:40.027Z",
+      "messageId": "1544136122702102630"
+    },
+    "brief:opp_b6da4146ce3ea81d84d8:sha256:075adc1c8179ecb0421bc83c1a4c591bab0a87129ad15bfd92a2c1cd64cf6198": {
+      "status": "SENT",
+      "opportunityId": "opp_b6da4146ce3ea81d84d8",
+      "sentAt": "2026-09-01T00:05:40.027Z",
+      "messageId": "1544136122702102630"
+    },
+    "brief:opp_09eb8342dc277558e7a4:sha256:330729b8b572ab49adf2c62a4fe8d3756d74008a9f67f3ed294bc19e16e19268": {
+      "status": "SENT",
+      "opportunityId": "opp_09eb8342dc277558e7a4",
+      "sentAt": "2026-09-01T00:05:40.027Z",
+      "messageId": "1544136122702102630"
+    },
+    "brief:opp_1e81c4cff9d39362508e:sha256:b368262619c303a9141820920479545ea5b5acd94a1d9c7c817f5c4f93f60033": {
+      "status": "SENT",
+      "opportunityId": "opp_1e81c4cff9d39362508e",
+      "sentAt": "2026-09-01T00:05:40.027Z",
+      "messageId": "1544136122702102630"
     }
   },
   "pending": {},
