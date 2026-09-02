@@ -36365,23 +36365,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 10,
+        "communityPoints": 10,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
       "dedupeKey": "brief:opp_8c7cf4ce17f97c9411eb:sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
-      "firstSeenAt": "2026-09-02T00:05:37.321Z",
-      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36463,23 +36463,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 9,
+        "communityPoints": 10,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
       "dedupeKey": "brief:opp_66decbc5750f9420155c:sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
-      "firstSeenAt": "2026-09-02T00:05:37.321Z",
-      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36610,23 +36610,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 16,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 19,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
       "dedupeKey": "brief:opp_e71954d409afd5beb2d7:sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
-      "firstSeenAt": "2026-09-02T00:05:37.321Z",
-      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -37229,11 +37229,11 @@
       },
       "contentHash": "sha256:f456feae2cf1edf14d894e4c08003dec89b86dd4dbbf6ec4acd4be9a0087e8a1",
       "dedupeKey": "brief:opp_12f5d553bccb31254cb2:sha256:f456feae2cf1edf14d894e4c08003dec89b86dd4dbbf6ec4acd4be9a0087e8a1",
-      "firstSeenAt": "2026-09-02T00:05:37.321Z",
-      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -37344,7 +37344,7 @@
       "title": "[한영자막] AI 토큰을 많이 쓰는 것보다 중요한 것 — Ironclad Mingsheng Hong",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-09-01T22:00:06+00:00",
+      "publishedAt": "2026-09-01T22:00:06.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -37363,7 +37363,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-09-01T22:00:06.000Z",
@@ -37380,11 +37380,11 @@
       },
       "contentHash": "sha256:a72a47c63776464d88c0700a1bbc109d8178cb56cc5a6c6eb50ba0a2d53aee27",
       "dedupeKey": "brief:opp_23620a6c323522e7cbb6:sha256:a72a47c63776464d88c0700a1bbc109d8178cb56cc5a6c6eb50ba0a2d53aee27",
-      "firstSeenAt": "2026-09-02T00:05:37.321Z",
-      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -37489,6 +37489,205 @@
       "dedupeKey": "brief:opp_960e0b71e2ec00fc7a75:sha256:9d6034d924f883fa9d6f9aa2669bb9ba5da273404f12122b7d0471fb82bc4b80",
       "firstSeenAt": "2026-09-02T00:05:37.321Z",
       "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_efa967102f6ea1386751": {
+      "id": "opp_efa967102f6ea1386751",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33123",
+      "canonicalUrl": "https://news.hada.io/topic?id=33123",
+      "title": "Show GN: Fontinical - 의미기반 폰트(글꼴) 검색 라이브러리",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T23:48:30+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "\"공포 게임 썸네일용 폰트\", \"사내 교육용 ppt 에 쓸 폰트\" 처럼 상황은 있는데 정확히 어떤 폰트를 쓸 지 잘 모르겠고, 찾아보기도 귀찮아서 이러...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33123"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d6b9c0405dc6654f803f21d268da7bbba027787034d237991bf71b8279cd098a",
+      "dedupeKey": "brief:opp_efa967102f6ea1386751:sha256:d6b9c0405dc6654f803f21d268da7bbba027787034d237991bf71b8279cd098a",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9b58039b078bb4b84aba": {
+      "id": "opp_9b58039b078bb4b84aba",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/gilbert-tobin",
+      "canonicalUrl": "https://openai.com/index/gilbert-tobin",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 01 Sep 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "summaryEvidence": [
+        "https://openai.com/index/gilbert-tobin"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0037e1224fcbf306bc77092141cab84830ef785dfc64cda2aff542b1a828a93e",
+      "dedupeKey": "brief:opp_9b58039b078bb4b84aba:sha256:0037e1224fcbf306bc77092141cab84830ef785dfc64cda2aff542b1a828a93e",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7638e12397394fcdf8bc": {
+      "id": "opp_7638e12397394fcdf8bc",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "6494fad2cfa234da952acfdcec45c699aad0a323",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-02",
+      "title": "Claude Code 토큰 비용 최적화하기 – 2부: 캐시 경제학과 Amazon Bedrock 조직 비용 관리",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 02 Sep 2026 00:06:38 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Claude Code를 조직에 도입하면 개인의 습관만으로는 답할 수 없는 질문이 남습니다. 자리를 비웠다 돌아오면 첫 응답이 왜 유난히 느리고 비싼지, Amazon Bedrock으로 사용하는 조직에서는 누가 얼마나 쓰는지를 어디서 확인할 수 있는지 같은 질문입니다. 이 글은 Claude Code 토큰 비용 최적화 시리즈의 2부입니다. 1부(비용 구조와 세션 습관)에서는 비용이 컨텍스트 크기에 비례하고 실제 지불 단가는 프롬프트 캐싱(prompt […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-02/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0d74ecdf08929e13f0a6f41b5a8a97bbc8b6ab8385f5f1fc9ef52ba8e7e9d5b7",
+      "dedupeKey": "brief:opp_7638e12397394fcdf8bc:sha256:0d74ecdf08929e13f0a6f41b5a8a97bbc8b6ab8385f5f1fc9ef52ba8e7e9d5b7",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dcb18a32899cd76e8d7c": {
+      "id": "opp_dcb18a32899cd76e8d7c",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:nYlCKEN3aDw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nYlCKEN3aDw",
+      "title": "AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T01:10:25.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "9월 3일(목) 저녁 7시 라이브 기업에 AI를 어떻게 정착시킬지, 조코딩AX파트너스 공동대표 조동근·문경원이 이야기합니다. ■ 다루는 내용 01. 데이터로 본 대한민국 기업의 AX 현주소 02. AI 교육이 정착으로 이어지지 않는 이유 03. 정착에 성공한 조직들의 공통점 04. 그래서, 우리 회사는 무엇부터 해야 하는가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nYlCKEN3aDw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-02T01:10:25.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cea8f5242a2210d54ce54acb8aacb70ec79d0b1ac7dd1d2f4e6e309c2c89a628",
+      "dedupeKey": "brief:opp_dcb18a32899cd76e8d7c:sha256:cea8f5242a2210d54ce54acb8aacb70ec79d0b1ac7dd1d2f4e6e309c2c89a628",
+      "firstSeenAt": "2026-09-02T03:23:52.375Z",
+      "lastSeenAt": "2026-09-02T03:23:52.375Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -41576,6 +41775,42 @@
       "opportunityId": "opp_4e7b6b8be19b9e113951",
       "sentAt": "2026-09-02T00:05:37.321Z",
       "messageId": "1544498500182478909"
+    },
+    "brief:opp_7638e12397394fcdf8bc:sha256:0d74ecdf08929e13f0a6f41b5a8a97bbc8b6ab8385f5f1fc9ef52ba8e7e9d5b7": {
+      "status": "SENT",
+      "opportunityId": "opp_7638e12397394fcdf8bc",
+      "sentAt": "2026-09-02T03:23:52.375Z",
+      "messageId": "1544548390266732615"
+    },
+    "brief:opp_12f5d553bccb31254cb2:sha256:f456feae2cf1edf14d894e4c08003dec89b86dd4dbbf6ec4acd4be9a0087e8a1": {
+      "status": "SENT",
+      "opportunityId": "opp_12f5d553bccb31254cb2",
+      "sentAt": "2026-09-02T03:23:52.375Z",
+      "messageId": "1544548390266732615"
+    },
+    "brief:opp_9b58039b078bb4b84aba:sha256:0037e1224fcbf306bc77092141cab84830ef785dfc64cda2aff542b1a828a93e": {
+      "status": "SENT",
+      "opportunityId": "opp_9b58039b078bb4b84aba",
+      "sentAt": "2026-09-02T03:23:52.375Z",
+      "messageId": "1544548390266732615"
+    },
+    "brief:opp_dcb18a32899cd76e8d7c:sha256:cea8f5242a2210d54ce54acb8aacb70ec79d0b1ac7dd1d2f4e6e309c2c89a628": {
+      "status": "SENT",
+      "opportunityId": "opp_dcb18a32899cd76e8d7c",
+      "sentAt": "2026-09-02T03:23:52.375Z",
+      "messageId": "1544548390266732615"
+    },
+    "brief:opp_23620a6c323522e7cbb6:sha256:a72a47c63776464d88c0700a1bbc109d8178cb56cc5a6c6eb50ba0a2d53aee27": {
+      "status": "SENT",
+      "opportunityId": "opp_23620a6c323522e7cbb6",
+      "sentAt": "2026-09-02T03:23:52.375Z",
+      "messageId": "1544548390266732615"
+    },
+    "brief:opp_efa967102f6ea1386751:sha256:d6b9c0405dc6654f803f21d268da7bbba027787034d237991bf71b8279cd098a": {
+      "status": "SENT",
+      "opportunityId": "opp_efa967102f6ea1386751",
+      "sentAt": "2026-09-02T03:23:52.375Z",
+      "messageId": "1544548390266732615"
     }
   },
   "pending": {},
