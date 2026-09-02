@@ -36365,7 +36365,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 9,
         "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -36380,8 +36380,8 @@
       },
       "contentHash": "sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
       "dedupeKey": "brief:opp_8c7cf4ce17f97c9411eb:sha256:f3e7ee5d2b3735466c2db6c8e57f1f8b9f35d22a6994d86aa6f17f2fe9bf14e0",
-      "firstSeenAt": "2026-09-01T13:54:54.982Z",
-      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36463,8 +36463,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 8,
+        "communityPoints": 9,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36478,8 +36478,8 @@
       },
       "contentHash": "sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
       "dedupeKey": "brief:opp_66decbc5750f9420155c:sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
-      "firstSeenAt": "2026-09-01T13:54:54.982Z",
-      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36561,14 +36561,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 14,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -36576,8 +36576,8 @@
       },
       "contentHash": "sha256:d9a9bb8d5ca4f90fee977ed75fcacdbe9cdf2c28734789e4f6e9a60368aef8ba",
       "dedupeKey": "brief:opp_b03a6f5aacb47f8ec31d:sha256:d9a9bb8d5ca4f90fee977ed75fcacdbe9cdf2c28734789e4f6e9a60368aef8ba",
-      "firstSeenAt": "2026-09-01T13:54:54.982Z",
-      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -36610,14 +36610,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 20,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 16,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -36625,8 +36625,8 @@
       },
       "contentHash": "sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
       "dedupeKey": "brief:opp_e71954d409afd5beb2d7:sha256:80f588b8a649ece7efad0d31091cfa90f5407b4d70f1069646bdf48486782fcc",
-      "firstSeenAt": "2026-09-01T13:54:54.982Z",
-      "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -37038,6 +37038,457 @@
       "dedupeKey": "brief:opp_92edd4925820214ccdc6:sha256:e0130984fc9325b1ba80adb14669c448ebef3785135f196378e0d50f8d5a2654",
       "firstSeenAt": "2026-09-01T13:54:54.982Z",
       "lastSeenAt": "2026-09-01T13:54:54.982Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bee245aa0bc0be0b8c80": {
+      "id": "opp_bee245aa0bc0be0b8c80",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33106",
+      "canonicalUrl": "https://x.com/thsottiaux/status/2094254532020818191",
+      "title": "Codex의 20X는 주간 사용량도 실제 20배, Claude는 5시간 한도만 20배",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T15:48:04+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI의 Codex/ChatGPT 담당 Tibo가 두 서비스에서 사용하는 20X의 기준이 서로 다르다고 설명 Codex Pro 20X는 Plus보다 실제 토큰을 항상 20배 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33106"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 12,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:80b2fea7be470a038b7de9f098a023910f27c84f81e3260e27bcb804437cd1cf",
+      "dedupeKey": "brief:opp_bee245aa0bc0be0b8c80:sha256:80b2fea7be470a038b7de9f098a023910f27c84f81e3260e27bcb804437cd1cf",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f22ab89d52d870930c51": {
+      "id": "opp_f22ab89d52d870930c51",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/ai-native-company-workflows",
+      "canonicalUrl": "https://openai.com/index/ai-native-company-workflows",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "summaryEvidence": [
+        "https://openai.com/index/ai-native-company-workflows"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:40ddfafa6f70ea40c54d93d25c0cb60e72e442092896494b0737ef07ad2c6995",
+      "dedupeKey": "brief:opp_f22ab89d52d870930c51:sha256:40ddfafa6f70ea40c54d93d25c0cb60e72e442092896494b0737ef07ad2c6995",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f3a6efd0207e5fbcda3f": {
+      "id": "opp_f3a6efd0207e5fbcda3f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/path-to-astra",
+      "canonicalUrl": "https://openai.com/index/path-to-astra",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "summaryEvidence": [
+        "https://openai.com/index/path-to-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3e1fede03c0bffa1482c211836fafd5c3d20bad792131a5a0ff31cdda78686a0",
+      "dedupeKey": "brief:opp_f3a6efd0207e5fbcda3f:sha256:3e1fede03c0bffa1482c211836fafd5c3d20bad792131a5a0ff31cdda78686a0",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_12f5d553bccb31254cb2": {
+      "id": "opp_12f5d553bccb31254cb2",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "canonicalUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "summaryEvidence": [
+        "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f456feae2cf1edf14d894e4c08003dec89b86dd4dbbf6ec4acd4be9a0087e8a1",
+      "dedupeKey": "brief:opp_12f5d553bccb31254cb2:sha256:f456feae2cf1edf14d894e4c08003dec89b86dd4dbbf6ec4acd4be9a0087e8a1",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4e7b6b8be19b9e113951": {
+      "id": "opp_4e7b6b8be19b9e113951",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/enterprise-frontier-safeguards",
+      "canonicalUrl": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:094bc55b9a9e0df1a4f8bad088c5059775297b172b655804873aad7a57030951",
+      "dedupeKey": "brief:opp_4e7b6b8be19b9e113951:sha256:094bc55b9a9e0df1a4f8bad088c5059775297b172b655804873aad7a57030951",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f30c9207717585fcb6d8": {
+      "id": "opp_f30c9207717585fcb6d8",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "7f5b7f86e146ce5a9259e6c380d551acd16fc120",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-01",
+      "title": "Claude Code 토큰 비용 최적화하기 – 1부: 비용 구조와 세션 습관",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 01 Sep 2026 23:34:12 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Claude Code를 팀에 도입하고 나면 비슷한 질문들이 찾아옵니다. 짧은 한 문장의 질문만 했는데 토큰 사용량이 왜 이렇게 높은지, 하루가 끝날 때쯤이면 세션이 왜 이렇게 무거워져 있는지 같은 의문입니다. Claude Code는 메시지를 보낼 때마다 시스템 프롬프트, 프로젝트 컨텍스트, 지금까지의 전체 대화 이력을 다시 전송하고, 비용은 그 컨텍스트 크기에 비례합니다. 그리고 실제로 지불하는 토큰 단가는 프롬프트 캐싱(prompt […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-01/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2f3f4ac821fe88ca62c93e742861ede7ba2ec19ca464d93a0a3bba705dc0486d",
+      "dedupeKey": "brief:opp_f30c9207717585fcb6d8:sha256:2f3f4ac821fe88ca62c93e742861ede7ba2ec19ca464d93a0a3bba705dc0486d",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_23620a6c323522e7cbb6": {
+      "id": "opp_23620a6c323522e7cbb6",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:fOsLTMhjyMM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fOsLTMhjyMM",
+      "title": "[한영자막] AI 토큰을 많이 쓰는 것보다 중요한 것 — Ironclad Mingsheng Hong",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T22:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 토큰을 많이 쓰는 것이 곧 높은 생산성을 뜻하지는 않습니다. Ironclad의 Mingshan Hong이 토큰 비용을 줄이는 데서 멈추지 않고, 실제로 신뢰할 수 있는 결과물을 더 많이 만드는 방법을 설명합니다. 주요 포인트: - 토큰 사용량 대시보드는 리더보드가 아니라 문제를 발견하는 연기 감지기로 활용합니다. - 비용만 먼저 줄이지 말고, 토큰 사용으로 만들어 낸 가치와 ROI를 함께 측정합니다. - 코드 라인 수나 열린 PR 수보다, 복잡도를 반영한 병합 PR과 고객에게 도달한 결과물이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fOsLTMhjyMM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T22:00:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a72a47c63776464d88c0700a1bbc109d8178cb56cc5a6c6eb50ba0a2d53aee27",
+      "dedupeKey": "brief:opp_23620a6c323522e7cbb6:sha256:a72a47c63776464d88c0700a1bbc109d8178cb56cc5a6c6eb50ba0a2d53aee27",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_19f8165fb5a8fd0dc796": {
+      "id": "opp_19f8165fb5a8fd0dc796",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:nvHEaoYzApA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nvHEaoYzApA",
+      "title": "대규모 트래픽에 참여할 시간입니다 | 9월 7일 추석 기차표 예매",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T22:56:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "추석 명절 기차표 예매 시즌이 돌아 왔습니다. 대규모 트래픽에 직접 참여해 볼 수 있는 기회입니😊 --- Redis 실전 가이드: 기초부터 실무 패턴까지 https://inf.run/8HptS '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/playlist?list=UUMORpOx7jjy2PuuVeRrYKbdCA 개발자 이직·면접·커리어 멘토링 https://inf.run/gRZHG 객체지향 제대로 배우기(with Python)",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nvHEaoYzApA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T22:56:35.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0d7684252902208b6937c28160d7fea41c6c13dcaf1257cccfc4a2844f5e4692",
+      "dedupeKey": "brief:opp_19f8165fb5a8fd0dc796:sha256:0d7684252902208b6937c28160d7fea41c6c13dcaf1257cccfc4a2844f5e4692",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_960e0b71e2ec00fc7a75": {
+      "id": "opp_960e0b71e2ec00fc7a75",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:onL8VFMzxsA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=onL8VFMzxsA",
+      "title": "Fable 5.1 Is The Greatest Model Ever (And Cheaper Than Fable 5)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-01T18:48:58+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Anthropic just released Fable and Mythos 5.1 and it's not only benc",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=onL8VFMzxsA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-01T18:48:58.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9d6034d924f883fa9d6f9aa2669bb9ba5da273404f12122b7d0471fb82bc4b80",
+      "dedupeKey": "brief:opp_960e0b71e2ec00fc7a75:sha256:9d6034d924f883fa9d6f9aa2669bb9ba5da273404f12122b7d0471fb82bc4b80",
+      "firstSeenAt": "2026-09-02T00:05:37.321Z",
+      "lastSeenAt": "2026-09-02T00:05:37.321Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -41089,6 +41540,42 @@
       "opportunityId": "opp_60cfa5deebdd3e36c886",
       "sentAt": "2026-09-01T13:54:54.982Z",
       "messageId": "1544344810423455827"
+    },
+    "brief:opp_f30c9207717585fcb6d8:sha256:2f3f4ac821fe88ca62c93e742861ede7ba2ec19ca464d93a0a3bba705dc0486d": {
+      "status": "SENT",
+      "opportunityId": "opp_f30c9207717585fcb6d8",
+      "sentAt": "2026-09-02T00:05:37.321Z",
+      "messageId": "1544498500182478909"
+    },
+    "brief:opp_f22ab89d52d870930c51:sha256:40ddfafa6f70ea40c54d93d25c0cb60e72e442092896494b0737ef07ad2c6995": {
+      "status": "SENT",
+      "opportunityId": "opp_f22ab89d52d870930c51",
+      "sentAt": "2026-09-02T00:05:37.321Z",
+      "messageId": "1544498500182478909"
+    },
+    "brief:opp_f3a6efd0207e5fbcda3f:sha256:3e1fede03c0bffa1482c211836fafd5c3d20bad792131a5a0ff31cdda78686a0": {
+      "status": "SENT",
+      "opportunityId": "opp_f3a6efd0207e5fbcda3f",
+      "sentAt": "2026-09-02T00:05:37.321Z",
+      "messageId": "1544498500182478909"
+    },
+    "brief:opp_960e0b71e2ec00fc7a75:sha256:9d6034d924f883fa9d6f9aa2669bb9ba5da273404f12122b7d0471fb82bc4b80": {
+      "status": "SENT",
+      "opportunityId": "opp_960e0b71e2ec00fc7a75",
+      "sentAt": "2026-09-02T00:05:37.321Z",
+      "messageId": "1544498500182478909"
+    },
+    "brief:opp_bee245aa0bc0be0b8c80:sha256:80b2fea7be470a038b7de9f098a023910f27c84f81e3260e27bcb804437cd1cf": {
+      "status": "SENT",
+      "opportunityId": "opp_bee245aa0bc0be0b8c80",
+      "sentAt": "2026-09-02T00:05:37.321Z",
+      "messageId": "1544498500182478909"
+    },
+    "brief:opp_4e7b6b8be19b9e113951:sha256:094bc55b9a9e0df1a4f8bad088c5059775297b172b655804873aad7a57030951": {
+      "status": "SENT",
+      "opportunityId": "opp_4e7b6b8be19b9e113951",
+      "sentAt": "2026-09-02T00:05:37.321Z",
+      "messageId": "1544498500182478909"
     }
   },
   "pending": {},
