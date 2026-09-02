@@ -36463,8 +36463,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 14,
+        "communityPoints": 12,
+        "communityRank": 19,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -36478,8 +36478,8 @@
       },
       "contentHash": "sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
       "dedupeKey": "brief:opp_66decbc5750f9420155c:sha256:b7c4dc239a9bce2bc1e70c453ff05a91d809abd4136fd54c4f471a49850ffdb9",
-      "firstSeenAt": "2026-09-02T03:23:52.375Z",
-      "lastSeenAt": "2026-09-02T03:23:52.375Z",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -37433,11 +37433,11 @@
       },
       "contentHash": "sha256:0d7684252902208b6937c28160d7fea41c6c13dcaf1257cccfc4a2844f5e4692",
       "dedupeKey": "brief:opp_19f8165fb5a8fd0dc796:sha256:0d7684252902208b6937c28160d7fea41c6c13dcaf1257cccfc4a2844f5e4692",
-      "firstSeenAt": "2026-09-02T00:05:37.321Z",
-      "lastSeenAt": "2026-09-02T00:05:37.321Z",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -37688,6 +37688,259 @@
       "dedupeKey": "brief:opp_dcb18a32899cd76e8d7c:sha256:cea8f5242a2210d54ce54acb8aacb70ec79d0b1ac7dd1d2f4e6e309c2c89a628",
       "firstSeenAt": "2026-09-02T03:23:52.375Z",
       "lastSeenAt": "2026-09-02T03:23:52.375Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e94f7a288ab173cfe66d": {
+      "id": "opp_e94f7a288ab173cfe66d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33141",
+      "canonicalUrl": "https://www.uber.com/us/en/blog/efficient-software-factory",
+      "title": "Uber 규모의 소프트웨어 팩토리를 효율적으로 운영하는 법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T10:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI를 개발 전 과정에 적용한 결과, PR의 70% 이상을 로컬·클라우드 에이전트가 담당하고 3,600개가 넘는 에이전트 스킬이 하루 3만 회 이상 실행됨...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33141"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9e370b2e381c8df34afc6a8a30676080acfbe938a4bfd7611ca22ce404fed42a",
+      "dedupeKey": "brief:opp_e94f7a288ab173cfe66d:sha256:9e370b2e381c8df34afc6a8a30676080acfbe938a4bfd7611ca22ce404fed42a",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f2e7a29a926b781214d2": {
+      "id": "opp_f2e7a29a926b781214d2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33135",
+      "canonicalUrl": "https://calpaterson.com/memoryfields.html",
+      "title": "에이전트 메모리는 파이프라인이 아니라 파일 형식이어야 한다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T09:15:06+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 에이전트 메모리는 특정 하네스에 종속되거나 별도 LLM과 데이터베이스를 연결한 복잡한 파이프라인이 되기 쉬우므로, 메모리를 단순하고 이...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33135"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bd359f15f5d4ac83329da64ff9db3ebca5657365299aaf41abd15c46d0901611",
+      "dedupeKey": "brief:opp_f2e7a29a926b781214d2:sha256:bd359f15f5d4ac83329da64ff9db3ebca5657365299aaf41abd15c46d0901611",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_66530a2559713ca7a6a0": {
+      "id": "opp_66530a2559713ca7a6a0",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/news/3092933",
+      "canonicalUrl": "https://d2.naver.com/news/3092933",
+      "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T05:51:41Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<div class=\"se-viewer se-theme-default\" lang=\"ko-KR\"> <!-- SE_DOC_HEADER_START --> <!-- SE_DOC_HEADER_END --> <div class=\"se-main-container\"> <div class=\"se-component se-text se-l-default\" id=\"SE-2842e7f2-13e1-40e9-9dd0-cea7d5ed3bde\"> <div class=\"se-component-content\"> <div class",
+      "summaryEvidence": [
+        "https://d2.naver.com/news/3092933"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:803b6adcfe015c2dd398d663d1d5865ae0bbb2530cab5069b778fa837d953015",
+      "dedupeKey": "brief:opp_66530a2559713ca7a6a0:sha256:803b6adcfe015c2dd398d663d1d5865ae0bbb2530cab5069b778fa837d953015",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_94fa7733b3fd8a448b10": {
+      "id": "opp_94fa7733b3fd8a448b10",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:XV6WcGliCGM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XV6WcGliCGM",
+      "title": "[한영자막] AI 에이전트가 이제 분산 시스템이 된 이유 — TikTok Salman Munaf",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T03:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 외부 시스템과 상호작용하는 순간, 단순한 모델 문제가 아니라 분산 시스템 문제가 됩니다. TikTok의 Salman Munaf가 에이전트 설계에 필요한 안정성 원칙을 설명합니다. 주요 포인트: - 타임아웃은 실패가 아니라 ‘상태를 알 수 없음’이며, 요청 ID·멱등성 키·상태 조회가 필요합니다. - 재시도 폭풍을 막기 위해 재시도 예산, 최대 턴 수, 병렬 호출 제한, 지수 백오프를 둬야 합니다. - 행동에 영향을 주는 맥락은 상태이므로, 메모리를 무효화와 출처 추적이 가능한 캐시",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XV6WcGliCGM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-02T03:00:27.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fb9a39136b29673b07dab29c8b51ee4fc707e45d4fc2d37bd8cd50667c3c569e",
+      "dedupeKey": "brief:opp_94fa7733b3fd8a448b10:sha256:fb9a39136b29673b07dab29c8b51ee4fc707e45d4fc2d37bd8cd50667c3c569e",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d5b18eae15a85ce828f6": {
+      "id": "opp_d5b18eae15a85ce828f6",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:FLJ2JTSPV1Y",
+      "canonicalUrl": "https://www.youtube.com/watch?v=FLJ2JTSPV1Y",
+      "title": "크롬이 자동으로 설치하는 2GB짜리 파일 (또?)",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T03:15:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트어쩌구가 뭐에요 https://codingapple.com/ 개별강의 10% 할인쿠폰 chromy494 (자주 바뀜 최신영상 참고) 사용한자료 sanriokorea.co.kr/character/kuromi/ enewstoday.co.kr featurepics.com https://www.esquirekorea.co.kr/article/51990 https://tenor.com/qOMQxRHYvHu.gif https://tenor.com/bWTBsMQmVck.gif https://tenor.",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=FLJ2JTSPV1Y"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-02T03:15:05.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:70e20d960209d736684d87cec5fa0892574f3f4e743d57a7d3227e1125c53573",
+      "dedupeKey": "brief:opp_d5b18eae15a85ce828f6:sha256:70e20d960209d736684d87cec5fa0892574f3f4e743d57a7d3227e1125c53573",
+      "firstSeenAt": "2026-09-02T09:05:16.884Z",
+      "lastSeenAt": "2026-09-02T09:05:16.884Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -41811,6 +42064,42 @@
       "opportunityId": "opp_efa967102f6ea1386751",
       "sentAt": "2026-09-02T03:23:52.375Z",
       "messageId": "1544548390266732615"
+    },
+    "brief:opp_66530a2559713ca7a6a0:sha256:803b6adcfe015c2dd398d663d1d5865ae0bbb2530cab5069b778fa837d953015": {
+      "status": "SENT",
+      "opportunityId": "opp_66530a2559713ca7a6a0",
+      "sentAt": "2026-09-02T09:05:16.884Z",
+      "messageId": "1544634309585928203"
+    },
+    "brief:opp_d5b18eae15a85ce828f6:sha256:70e20d960209d736684d87cec5fa0892574f3f4e743d57a7d3227e1125c53573": {
+      "status": "SENT",
+      "opportunityId": "opp_d5b18eae15a85ce828f6",
+      "sentAt": "2026-09-02T09:05:16.884Z",
+      "messageId": "1544634309585928203"
+    },
+    "brief:opp_94fa7733b3fd8a448b10:sha256:fb9a39136b29673b07dab29c8b51ee4fc707e45d4fc2d37bd8cd50667c3c569e": {
+      "status": "SENT",
+      "opportunityId": "opp_94fa7733b3fd8a448b10",
+      "sentAt": "2026-09-02T09:05:16.884Z",
+      "messageId": "1544634309585928203"
+    },
+    "brief:opp_e94f7a288ab173cfe66d:sha256:9e370b2e381c8df34afc6a8a30676080acfbe938a4bfd7611ca22ce404fed42a": {
+      "status": "SENT",
+      "opportunityId": "opp_e94f7a288ab173cfe66d",
+      "sentAt": "2026-09-02T09:05:16.884Z",
+      "messageId": "1544634309585928203"
+    },
+    "brief:opp_f2e7a29a926b781214d2:sha256:bd359f15f5d4ac83329da64ff9db3ebca5657365299aaf41abd15c46d0901611": {
+      "status": "SENT",
+      "opportunityId": "opp_f2e7a29a926b781214d2",
+      "sentAt": "2026-09-02T09:05:16.884Z",
+      "messageId": "1544634309585928203"
+    },
+    "brief:opp_19f8165fb5a8fd0dc796:sha256:0d7684252902208b6937c28160d7fea41c6c13dcaf1257cccfc4a2844f5e4692": {
+      "status": "SENT",
+      "opportunityId": "opp_19f8165fb5a8fd0dc796",
+      "sentAt": "2026-09-02T09:05:16.884Z",
+      "messageId": "1544634309585928203"
     }
   },
   "pending": {},
