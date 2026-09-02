@@ -37946,6 +37946,304 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_ec6daaf1f226c0bbec80": {
+      "id": "opp_ec6daaf1f226c0bbec80",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33148",
+      "canonicalUrl": "https://news.hada.io/topic?id=33148",
+      "title": "Show GN: 스마트폰 없이도 결제하기 — 교내 매점에 지문인식 결제 시스템을 직접 만들어 배포한 이야기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T16:48:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "스마트폰 반입 금지로 QR 결제가 막혀서 지문인식 결제 단말을 직접 만들었습니다 디미페이는 한국디지털미디어고등학교에서 사용하는 인하우스 QR...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33148"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9fc3232a55d6cfb4c95562eea91f86da3d5160f405e00800557577f4df227437",
+      "dedupeKey": "brief:opp_ec6daaf1f226c0bbec80:sha256:9fc3232a55d6cfb4c95562eea91f86da3d5160f405e00800557577f4df227437",
+      "firstSeenAt": "2026-09-02T13:12:55.004Z",
+      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d2a7e74c373f15b8ea6a": {
+      "id": "opp_d2a7e74c373f15b8ea6a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33140",
+      "canonicalUrl": "https://addyo.substack.com/p/agentic-skill-decay",
+      "title": "에이전틱 스킬 감쇠 : 숙련은 여전히 반복에서 나온다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T10:05:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에이전트가 코딩 과정의 시행착오/디버깅/탐색을 건너뛰고 결과를 바로 만들면서, 예전에는 자연스럽게 쌓이던 반복 경험(reps) 을 이제는 의도...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33140"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
+      "dedupeKey": "brief:opp_d2a7e74c373f15b8ea6a:sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
+      "firstSeenAt": "2026-09-02T13:12:55.004Z",
+      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_36fa8219177b04b3cfe6": {
+      "id": "opp_36fa8219177b04b3cfe6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33132",
+      "canonicalUrl": "https://dbushell.com/2026/09/01/text-editor",
+      "title": "좋아, 내 텍스트 편집기는 직접 만들겠다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T09:06:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "브라우저 텍스트 편집기를 <canvas>, contenteditable, <textarea> 순으로 직접 만들어 보며, 렌더링 자유도와 네이티브 편집 기능 사이의 절충점...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33132"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:89d7d1ce497ad48667b3ce81fd24dde91a419cdf8de5e79a3c15a6bf8f0cf393",
+      "dedupeKey": "brief:opp_36fa8219177b04b3cfe6:sha256:89d7d1ce497ad48667b3ce81fd24dde91a419cdf8de5e79a3c15a6bf8f0cf393",
+      "firstSeenAt": "2026-09-02T13:12:55.004Z",
+      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_32ecaceb7b79bcb86075": {
+      "id": "opp_32ecaceb7b79bcb86075",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33139",
+      "canonicalUrl": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "title": "Firefox를 놓지 마라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T09:33:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Firefox가 X에 계정을 운영한다는 이유로 브라우저를 버리면, 작은 불만을 피하려다 독립 브라우저 엔진과 시장 경쟁이라는 더 큰 가치를 잃게 됨 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33139"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6b155b30ba7616f2742b190ced0d22f5a6886cc936f863da81e595dfa1e78d9e",
+      "dedupeKey": "brief:opp_32ecaceb7b79bcb86075:sha256:6b155b30ba7616f2742b190ced0d22f5a6886cc936f863da81e595dfa1e78d9e",
+      "firstSeenAt": "2026-09-02T13:12:55.004Z",
+      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_08db0b084545ed27a39e": {
+      "id": "opp_08db0b084545ed27a39e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33138",
+      "canonicalUrl": "https://github.com/truefoundry/trueforge",
+      "title": "TrueForge - LLM을 실제 에이전트로 실행하는 오픈소스 하네스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "모델 호출부터 도구 사용/샌드박스/승인/컨텍스트/세션까지 에이전트 실행 루프 전체를 관리하는 런타임 에이전트를 직접 구현할 때 필요한 스트리...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33138"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0e8d4796eb11256090e27ccabcbd77b8f8a67ef425f7ae6b5e58b6869d580ba2",
+      "dedupeKey": "brief:opp_08db0b084545ed27a39e:sha256:0e8d4796eb11256090e27ccabcbd77b8f8a67ef425f7ae6b5e58b6869d580ba2",
+      "firstSeenAt": "2026-09-02T13:12:55.004Z",
+      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fd328d13d6995bcec562": {
+      "id": "opp_fd328d13d6995bcec562",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:4hfmNiQDt1g",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4hfmNiQDt1g",
+      "title": "[한영자막] Flutter 개발자 인터뷰: 플러터 개발자의 AI 워크플로우",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T09:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Flutter & Dart GDE이자 수석 소프트웨어 엔지니어 Ivanna Kaceviča가 실제 Flutter 개발에서 매일 활용하는 가장 유용한 AI 스킬 5가지와 프롬프트 인젝션 보안 팁을 소개합니다. 단순한 전역 규칙(Rules)을 넘어 필요한 순간에만 불러오는 모듈형 AI Skills의 개념과 구조부터, 코드 리뷰 자동화, 새 기능/엔드포인트 연동, 반응형 레이아웃 가이드, 웹 기반 시각적 QA 테스트까지 실무 생산성을 극대화하는 실전 노하우를 확인해보세요. 📌 주요 내용: - 단순 프",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=4hfmNiQDt1g"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-02T09:00:09.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:becec5a6cbbb542b67baca2083bda9387ec0e3fefda3bacd5ac70f1b2ecb82c3",
+      "dedupeKey": "brief:opp_fd328d13d6995bcec562:sha256:becec5a6cbbb542b67baca2083bda9387ec0e3fefda3bacd5ac70f1b2ecb82c3",
+      "firstSeenAt": "2026-09-02T13:12:55.004Z",
+      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -42100,6 +42398,24 @@
       "opportunityId": "opp_19f8165fb5a8fd0dc796",
       "sentAt": "2026-09-02T09:05:16.884Z",
       "messageId": "1544634309585928203"
+    },
+    "brief:opp_08db0b084545ed27a39e:sha256:0e8d4796eb11256090e27ccabcbd77b8f8a67ef425f7ae6b5e58b6869d580ba2": {
+      "status": "SENT",
+      "opportunityId": "opp_08db0b084545ed27a39e",
+      "sentAt": "2026-09-02T13:12:55.004Z",
+      "messageId": "1544696629217595434"
+    },
+    "brief:opp_fd328d13d6995bcec562:sha256:becec5a6cbbb542b67baca2083bda9387ec0e3fefda3bacd5ac70f1b2ecb82c3": {
+      "status": "SENT",
+      "opportunityId": "opp_fd328d13d6995bcec562",
+      "sentAt": "2026-09-02T13:12:55.004Z",
+      "messageId": "1544696629217595434"
+    },
+    "brief:opp_ec6daaf1f226c0bbec80:sha256:9fc3232a55d6cfb4c95562eea91f86da3d5160f405e00800557577f4df227437": {
+      "status": "SENT",
+      "opportunityId": "opp_ec6daaf1f226c0bbec80",
+      "sentAt": "2026-09-02T13:12:55.004Z",
+      "messageId": "1544696629217595434"
     }
   },
   "pending": {},
