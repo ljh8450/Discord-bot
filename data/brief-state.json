@@ -38023,7 +38023,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 16,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -38037,8 +38037,8 @@
       },
       "contentHash": "sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
       "dedupeKey": "brief:opp_d2a7e74c373f15b8ea6a:sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
-      "firstSeenAt": "2026-09-03T09:05:58.354Z",
-      "lastSeenAt": "2026-09-03T09:05:58.354Z",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38869,7 +38869,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 6,
         "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -38884,8 +38884,8 @@
       },
       "contentHash": "sha256:dde5ac5b214bf300e67404c96926d6c16a6e72c23e41e1ef37b3d8628cf15ea8",
       "dedupeKey": "brief:opp_ee1769b79802dde71a83:sha256:dde5ac5b214bf300e67404c96926d6c16a6e72c23e41e1ef37b3d8628cf15ea8",
-      "firstSeenAt": "2026-09-03T09:05:58.354Z",
-      "lastSeenAt": "2026-09-03T09:05:58.354Z",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38918,8 +38918,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 7,
+        "communityRank": 8,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -38933,11 +38933,11 @@
       },
       "contentHash": "sha256:ed754bfa3892f6041642c096cdbd842d71687ace7d8063214cb40cc686f221d2",
       "dedupeKey": "brief:opp_3d6d286e989c9f62d799:sha256:ed754bfa3892f6041642c096cdbd842d71687ace7d8063214cb40cc686f221d2",
-      "firstSeenAt": "2026-09-03T09:05:58.354Z",
-      "lastSeenAt": "2026-09-03T09:05:58.354Z",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -39135,6 +39135,259 @@
       "dedupeKey": "brief:opp_539be267a49c48cc600e:sha256:1cdd9b306d1c675204ad09a54d4bffb0494de73f5f5f6f349b98ccf5e73d66cc",
       "firstSeenAt": "2026-09-03T09:05:58.354Z",
       "lastSeenAt": "2026-09-03T09:05:58.354Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9fa0534b9f3ee6fc6fa0": {
+      "id": "opp_9fa0534b9f3ee6fc6fa0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33177",
+      "canonicalUrl": "https://www.kieranflanagan.io/p/how-i-built-my-marketing-intelligence",
+      "title": "마케팅 인텔리전스 레이어 - 흩어진 경험을 AI의 재사용 가능한 컨텍스트로 만들기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T10:10:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "문서·회의록·Slack 등에 흩어진 15년 이상의 경험을 구조화해, 다양한 AI 도구가 활용할 수 있는 마케팅 인텔리전스 레이어로 구축하는 법 /raw에 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33177"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8d2da87686e11d9d6836b141cb7b8adf81a1fe82b255e45417e0f3177b734753",
+      "dedupeKey": "brief:opp_9fa0534b9f3ee6fc6fa0:sha256:8d2da87686e11d9d6836b141cb7b8adf81a1fe82b255e45417e0f3177b734753",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a17b5f1c30e2d42ba825": {
+      "id": "opp_a17b5f1c30e2d42ba825",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "436e9ee7e3035eb1c67b8049a8416b2e72fc3346",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/agentcore-aiops-samsung-2",
+      "title": "삼성 계정 AIOps: AgentCore기반 AlOps의 실전 활용과 자율성 확장",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 11:45:35 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "지난 1부에서는 삼성계정 서비스의 멀티 에이전트 AIOps 시스템을 어떤 구조로 설계했고, 그 구조를 안정적으로 운영하기 위해 무엇을 뒷받침했는지, 그리고 그 위에서 자율성을 어떻게 조금씩 넓혀왔는지를 다뤘습니다. 이 글에서는 그 시스템이 실제 운영 현장에서 어떻게 쓰이고 있는지, 도입 전후로 업무가 어떻게 달라졌는지, 그리고 더 높은 수준의 자율운영으로 나아가기 위해 무엇을 준비하고 있는지를 다룹니다. 이 글은 2부작으로 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/agentcore-aiops-samsung-2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:554c6b6c9bddaa04c8df04970a9eeaf28037032164eef09a254ae86a4919026c",
+      "dedupeKey": "brief:opp_a17b5f1c30e2d42ba825:sha256:554c6b6c9bddaa04c8df04970a9eeaf28037032164eef09a254ae86a4919026c",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a749d471c5cc073fc965": {
+      "id": "opp_a749d471c5cc073fc965",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ab604d642bc73e59258ff8f4f3791620d9271490",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/agentcore-aiops-samsung-1",
+      "title": "삼성 계정 AIOps: AgentCore기반 멀티 에이전트 운영 자동화 여정",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 11:45:15 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "삼성계정(Samsung Account)은 전 세계 약 21억 사용자에게 삼성 디바이스와 서비스를 연결하는 통합 인증 시스템입니다. Samsung Wallet, Bixby, SmartThings, Samsung Health를 비롯한 수많은 서비스가 삼성계정으로 사용자와 연결되며, 글로벌 대규모 트래픽을 365일 24시간 무중단으로 처리합니다. 이런 초대규모 서비스를 운영한다는 것은, 그만큼 방대한 인프라와 끊임없는 운영 업무를 동반한다는 뜻입니다. 멀티 리전·다계정 환경에 걸친 수많은 마이크로서비스",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/agentcore-aiops-samsung-1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bf7ee281fc6ce400be0f03c493bbee8a6d9f2a593cc904ba6570fceadfeed11e",
+      "dedupeKey": "brief:opp_a749d471c5cc073fc965:sha256:bf7ee281fc6ce400be0f03c493bbee8a6d9f2a593cc904ba6570fceadfeed11e",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bf18d71ecb71ab4ea57b": {
+      "id": "opp_bf18d71ecb71ab4ea57b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Bo2ImHzgOwc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Bo2ImHzgOwc",
+      "title": "[한영자막] Claude Code 개발팀이 Claude Code를 쓰는 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T12:00:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic의 Claude Code 개발팀 엔지니어 3인(Thariq Shihipar, Sid Bidasaria, Robert Boyce)이 지난 1년간 Claude Code를 직접 개발하며 일상 업무에 어떻게 활용해왔는지 생생한 경험을 공유합니다. 개별 프롬프트 입력과 도구 호출에서 Slack 기반의 자율 에이전트(Claude Tag)로 패러다임이 어떻게 진화했는지, 2개월마다 기반 모델이 바뀌는 환경에서 어떻게 제품을 만들고 진화시키는지 확인해보세요. 📌 주요 내용: • 도구 호출에서",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Bo2ImHzgOwc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-03T12:00:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d447439c7aae10c315bd1261c134debf49be1bd1d53f72bc86b8d328326d8861",
+      "dedupeKey": "brief:opp_bf18d71ecb71ab4ea57b:sha256:d447439c7aae10c315bd1261c134debf49be1bd1d53f72bc86b8d328326d8861",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d06689c4c8bf900ee040": {
+      "id": "opp_d06689c4c8bf900ee040",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:QXgymfvVhJo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=QXgymfvVhJo",
+      "title": "빚만 3억, 한국에서 거절 당해 미국 넘어간 20대가 1500억 투자 받기까지 | 트웰브랩스 x 네이버 벤처스",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T09:30:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "오늘 영상의 주인공은 영상을 사람처럼 이해하는 AI를 만드는 트웰브랩스의 이재성 대표님, 그리고 이번 시리즈B를 공동 리드한 네이버벤처스의 박용정 파트너님입니다. 트웰브랩스는 지난 7월 NEA와 네이버벤처스가 공동 주도한 1억 달러, 약 1,500억 원 규모의 시리즈B를 마무리했습니다. 아마존이 주요 투자자로 참여했고, 엔비디아와 인덱스벤처스 등이 주주로 함께하고 있습니다. 트웰브랩스의 공동창업자들은 용산에서 함께 군 복무를 하던 선후임 사이였습니다. 복무 기간 동안 함께 AI 연구 개발을 하던",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=QXgymfvVhJo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-03T09:30:22.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:92f8186734623ef3bc889d64722d4c22d4bd720d761041baf1164d707c901160",
+      "dedupeKey": "brief:opp_d06689c4c8bf900ee040:sha256:92f8186734623ef3bc889d64722d4c22d4bd720d761041baf1164d707c901160",
+      "firstSeenAt": "2026-09-03T13:14:07.006Z",
+      "lastSeenAt": "2026-09-03T13:14:07.006Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -43402,6 +43655,42 @@
       "opportunityId": "opp_539be267a49c48cc600e",
       "sentAt": "2026-09-03T09:05:58.354Z",
       "messageId": "1544996871452229654"
+    },
+    "brief:opp_a17b5f1c30e2d42ba825:sha256:554c6b6c9bddaa04c8df04970a9eeaf28037032164eef09a254ae86a4919026c": {
+      "status": "SENT",
+      "opportunityId": "opp_a17b5f1c30e2d42ba825",
+      "sentAt": "2026-09-03T13:14:07.006Z",
+      "messageId": "1545059317915455519"
+    },
+    "brief:opp_a749d471c5cc073fc965:sha256:bf7ee281fc6ce400be0f03c493bbee8a6d9f2a593cc904ba6570fceadfeed11e": {
+      "status": "SENT",
+      "opportunityId": "opp_a749d471c5cc073fc965",
+      "sentAt": "2026-09-03T13:14:07.006Z",
+      "messageId": "1545059317915455519"
+    },
+    "brief:opp_bf18d71ecb71ab4ea57b:sha256:d447439c7aae10c315bd1261c134debf49be1bd1d53f72bc86b8d328326d8861": {
+      "status": "SENT",
+      "opportunityId": "opp_bf18d71ecb71ab4ea57b",
+      "sentAt": "2026-09-03T13:14:07.006Z",
+      "messageId": "1545059317915455519"
+    },
+    "brief:opp_3d6d286e989c9f62d799:sha256:ed754bfa3892f6041642c096cdbd842d71687ace7d8063214cb40cc686f221d2": {
+      "status": "SENT",
+      "opportunityId": "opp_3d6d286e989c9f62d799",
+      "sentAt": "2026-09-03T13:14:07.006Z",
+      "messageId": "1545059317915455519"
+    },
+    "brief:opp_d06689c4c8bf900ee040:sha256:92f8186734623ef3bc889d64722d4c22d4bd720d761041baf1164d707c901160": {
+      "status": "SENT",
+      "opportunityId": "opp_d06689c4c8bf900ee040",
+      "sentAt": "2026-09-03T13:14:07.006Z",
+      "messageId": "1545059317915455519"
+    },
+    "brief:opp_9fa0534b9f3ee6fc6fa0:sha256:8d2da87686e11d9d6836b141cb7b8adf81a1fe82b255e45417e0f3177b734753": {
+      "status": "SENT",
+      "opportunityId": "opp_9fa0534b9f3ee6fc6fa0",
+      "sentAt": "2026-09-03T13:14:07.006Z",
+      "messageId": "1545059317915455519"
     }
   },
   "pending": {},
