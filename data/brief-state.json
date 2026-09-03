@@ -38022,23 +38022,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
+        "communityPoints": 11,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
       "dedupeKey": "brief:opp_d2a7e74c373f15b8ea6a:sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
-      "firstSeenAt": "2026-09-03T00:06:13.823Z",
-      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "firstSeenAt": "2026-09-03T03:25:38.410Z",
+      "lastSeenAt": "2026-09-03T03:25:38.410Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38071,14 +38071,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 7,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -38086,8 +38086,8 @@
       },
       "contentHash": "sha256:89d7d1ce497ad48667b3ce81fd24dde91a419cdf8de5e79a3c15a6bf8f0cf393",
       "dedupeKey": "brief:opp_36fa8219177b04b3cfe6:sha256:89d7d1ce497ad48667b3ce81fd24dde91a419cdf8de5e79a3c15a6bf8f0cf393",
-      "firstSeenAt": "2026-09-03T00:06:13.823Z",
-      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "firstSeenAt": "2026-09-03T03:25:38.410Z",
+      "lastSeenAt": "2026-09-03T03:25:38.410Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38120,14 +38120,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 18,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -38135,8 +38135,8 @@
       },
       "contentHash": "sha256:6b155b30ba7616f2742b190ced0d22f5a6886cc936f863da81e595dfa1e78d9e",
       "dedupeKey": "brief:opp_32ecaceb7b79bcb86075:sha256:6b155b30ba7616f2742b190ced0d22f5a6886cc936f863da81e595dfa1e78d9e",
-      "firstSeenAt": "2026-09-03T00:06:13.823Z",
-      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "firstSeenAt": "2026-09-03T03:25:38.410Z",
+      "lastSeenAt": "2026-09-03T03:25:38.410Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38588,6 +38588,157 @@
       "dedupeKey": "brief:opp_bcdcdfc5d89d02ec47f4:sha256:edd310549291554fb39056d7e9598353bfe56dc46556fd8d3a7ac86b8c1e42d3",
       "firstSeenAt": "2026-09-03T00:06:13.823Z",
       "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c47ec8a8c98ac82dce80": {
+      "id": "opp_c47ec8a8c98ac82dce80",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33174",
+      "canonicalUrl": "https://github.com/vorssaintapp/vorssaint-utils",
+      "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "앱별 음량 조절, 시스템 모니터, 앱 전환기, 창 관리, 클립보드, 화면 캡처, 파일 정리처럼 따로 구매하던 Mac 도구들을 하나의 메뉴 막대 아이콘...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33174"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3249382cbe30a038354034d0d90ffa8820726a1c0941a785ed6ce556410fa8cf",
+      "dedupeKey": "brief:opp_c47ec8a8c98ac82dce80:sha256:3249382cbe30a038354034d0d90ffa8820726a1c0941a785ed6ce556410fa8cf",
+      "firstSeenAt": "2026-09-03T03:25:38.410Z",
+      "lastSeenAt": "2026-09-03T03:25:38.410Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d2c65144791a8f0f357": {
+      "id": "opp_9d2c65144791a8f0f357",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33175",
+      "canonicalUrl": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1",
+      "title": "Claude Fable 5.1 프롬프팅 가이드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T10:01:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 Claude Fable 5 프롬프트는 대부분 작동하지만, 5.1은 effort, 진행 업데이트, 도구 호출, 대화 이력, 출력 형식이 달라 기존 설정을 그대로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33175"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:33263c67df492d5bfabea0b3136eff202c9f7cc06e5b9958ec7c8987e111c4ca",
+      "dedupeKey": "brief:opp_9d2c65144791a8f0f357:sha256:33263c67df492d5bfabea0b3136eff202c9f7cc06e5b9958ec7c8987e111c4ca",
+      "firstSeenAt": "2026-09-03T03:25:38.410Z",
+      "lastSeenAt": "2026-09-03T03:25:38.410Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e4ffefac4c51af04e765": {
+      "id": "opp_e4ffefac4c51af04e765",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:LjNBhufA0Jg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LjNBhufA0Jg",
+      "title": "메인보드 발주 확인, 갤럭시S27 울트라에 삼성 칩 탑재 보도 분석 | 엑시노스2700 성능·원가·2나노 수율까지 분석",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T00:00:07.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "삼성이 갤럭시 S27 울트라용 엑시노스 2700 메인보드를 개발하고 있다는 취재 보도가 나왔습니다. 지난 영상에서 다뤘던 차세대 스냅드래곤 대비 엑시노스 2700의 내부 성능 테스트가 실제 제품 개발로 이어지고 있는지 살펴봤습니다. 이번 보도가 어느 정도 신빙성이 있는지, 과거 엑시노스 탑재 관련 선행 보도와 함께 확인합니다. CPU와 GPU 성능뿐 아니라 발열, 지속 성능, 모뎀과 RF까지 울트라에서 실제로 검증해야 할 부분도 짚어봤습니다. 퀄컴이 단순히 비싼 AP 업체가 아니라 모바일 컴퓨팅",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=LjNBhufA0Jg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-03T00:00:07.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7fa2f9ce2b27e5a1f375e9417db7d885a2e79c73c4ea47a701d352b62aada2b1",
+      "dedupeKey": "brief:opp_e4ffefac4c51af04e765:sha256:7fa2f9ce2b27e5a1f375e9417db7d885a2e79c73c4ea47a701d352b62aada2b1",
+      "firstSeenAt": "2026-09-03T03:25:38.410Z",
+      "lastSeenAt": "2026-09-03T03:25:38.410Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -42801,6 +42952,24 @@
       "opportunityId": "opp_c35e0fe9799245202109",
       "sentAt": "2026-09-03T00:06:13.823Z",
       "messageId": "1544861041098236017"
+    },
+    "brief:opp_9d2c65144791a8f0f357:sha256:33263c67df492d5bfabea0b3136eff202c9f7cc06e5b9958ec7c8987e111c4ca": {
+      "status": "SENT",
+      "opportunityId": "opp_9d2c65144791a8f0f357",
+      "sentAt": "2026-09-03T03:25:38.410Z",
+      "messageId": "1544911223710163065"
+    },
+    "brief:opp_c47ec8a8c98ac82dce80:sha256:3249382cbe30a038354034d0d90ffa8820726a1c0941a785ed6ce556410fa8cf": {
+      "status": "SENT",
+      "opportunityId": "opp_c47ec8a8c98ac82dce80",
+      "sentAt": "2026-09-03T03:25:38.410Z",
+      "messageId": "1544911223710163065"
+    },
+    "brief:opp_e4ffefac4c51af04e765:sha256:7fa2f9ce2b27e5a1f375e9417db7d885a2e79c73c4ea47a701d352b62aada2b1": {
+      "status": "SENT",
+      "opportunityId": "opp_e4ffefac4c51af04e765",
+      "sentAt": "2026-09-03T03:25:38.410Z",
+      "messageId": "1544911223710163065"
     }
   },
   "pending": {},
