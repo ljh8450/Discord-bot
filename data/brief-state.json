@@ -38022,8 +38022,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 3,
+        "communityPoints": 9,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -38037,8 +38037,8 @@
       },
       "contentHash": "sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
       "dedupeKey": "brief:opp_d2a7e74c373f15b8ea6a:sha256:deaec95b2aec5fff31f4f6b9285200c1f24943281037e3d5341bae75c798f08c",
-      "firstSeenAt": "2026-09-02T13:12:55.004Z",
-      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38071,7 +38071,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 8,
         "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -38086,8 +38086,8 @@
       },
       "contentHash": "sha256:89d7d1ce497ad48667b3ce81fd24dde91a419cdf8de5e79a3c15a6bf8f0cf393",
       "dedupeKey": "brief:opp_36fa8219177b04b3cfe6:sha256:89d7d1ce497ad48667b3ce81fd24dde91a419cdf8de5e79a3c15a6bf8f0cf393",
-      "firstSeenAt": "2026-09-02T13:12:55.004Z",
-      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38120,8 +38120,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 8,
+        "communityPoints": 7,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -38135,8 +38135,8 @@
       },
       "contentHash": "sha256:6b155b30ba7616f2742b190ced0d22f5a6886cc936f863da81e595dfa1e78d9e",
       "dedupeKey": "brief:opp_32ecaceb7b79bcb86075:sha256:6b155b30ba7616f2742b190ced0d22f5a6886cc936f863da81e595dfa1e78d9e",
-      "firstSeenAt": "2026-09-02T13:12:55.004Z",
-      "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -38239,6 +38239,355 @@
       "dedupeKey": "brief:opp_fd328d13d6995bcec562:sha256:becec5a6cbbb542b67baca2083bda9387ec0e3fefda3bacd5ac70f1b2ecb82c3",
       "firstSeenAt": "2026-09-02T13:12:55.004Z",
       "lastSeenAt": "2026-09-02T13:12:55.004Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c35e0fe9799245202109": {
+      "id": "opp_c35e0fe9799245202109",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33149",
+      "canonicalUrl": "https://sungmooncho.com/2026/08/29/clickhouse",
+      "title": "클릭하우스(ClickHouse) – 기적의 데이터베이스 기술",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T17:06:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "차트메트릭 창업자 조성문이 ClickHouse를 도입하며 겪은 경험과 그 성능의 원리를 정리한 글 기존 DB의 한계에서 출발 MySQL/PostgreSQL 같은 관...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33149"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:16ff6c7b86d09405cec242b8c123fa0a8174193dbd5603e86d87f200085a38a5",
+      "dedupeKey": "brief:opp_c35e0fe9799245202109:sha256:16ff6c7b86d09405cec242b8c123fa0a8174193dbd5603e86d87f200085a38a5",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7b220d4f7e2601551438": {
+      "id": "opp_7b220d4f7e2601551438",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33144",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
+      "title": "평균만으로는 충분하지 않다, 딥테크 스타트업을 움직이는 운영체제 [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T11:06:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Science CEO이자 Neuralink 공동창업자였던 Max Hodak은 딥테크 스타트업의 성패가 기술만이 아니라 구매, 예산, 채용, 평가를 연결하는 회사의 운...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33144"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:42e1083cc82836f261de38ee5b1e27819aa639481a6e636bf4f28143ab94a6f8",
+      "dedupeKey": "brief:opp_7b220d4f7e2601551438:sha256:42e1083cc82836f261de38ee5b1e27819aa639481a6e636bf4f28143ab94a6f8",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_605401ad97abc5488c62": {
+      "id": "opp_605401ad97abc5488c62",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/atv-big-air-tour",
+      "canonicalUrl": "https://openai.com/index/atv-big-air-tour",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "summaryEvidence": [
+        "https://openai.com/index/atv-big-air-tour"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ed8e11be7bf150275f706ccfa4b3ec6d1761785d598d90228d2eee3ca68960e8",
+      "dedupeKey": "brief:opp_605401ad97abc5488c62:sha256:ed8e11be7bf150275f706ccfa4b3ec6d1761785d598d90228d2eee3ca68960e8",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_671b4100d3c3f1009024": {
+      "id": "opp_671b4100d3c3f1009024",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98631",
+      "canonicalUrl": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8bcd8a7bec2c24113f0947962d5b313a184528ae081fc09aa751f4bdaee1117e",
+      "dedupeKey": "brief:opp_671b4100d3c3f1009024:sha256:8bcd8a7bec2c24113f0947962d5b313a184528ae081fc09aa751f4bdaee1117e",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3eff49fc83ec0bfe4840": {
+      "id": "opp_3eff49fc83ec0bfe4840",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98586",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 02 Sep 2026 18:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f104669417afcfcf6943d77ce33d29133a229d39999a86e13a1901756d6ed2dc",
+      "dedupeKey": "brief:opp_3eff49fc83ec0bfe4840:sha256:f104669417afcfcf6943d77ce33d29133a229d39999a86e13a1901756d6ed2dc",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a8bca4d89234c3a6e80f": {
+      "id": "opp_a8bca4d89234c3a6e80f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:y2p8Va_zu00",
+      "canonicalUrl": "https://www.youtube.com/watch?v=y2p8Va_zu00",
+      "title": "[한영자막] 안드레 카파시의 스탠포드 1시간 강의",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T22:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "안드레 카파시(Andrej Karpathy)가 스탠포드 CS25에서 진행한 1시간 분량의 전설적인 트랜스포머(Transformers) 특강입니다. 수동 특징 추출에 의존하던 2012년 이전의 AI 역사부터, 어텐션(Attention) 메커니즘의 탄생 비화, NanoGPT 300줄 코드로 뜯어보는 트랜스포머의 작동 원리, 그리고 오늘날 GPT와 거대 언어 모델(LLM)이 범용 컴퓨터로 진화하게 된 본질적인 이유까지 명쾌하게 설명합니다. 📌 주요 내용: • 2012년 AlexNet 이전 수동 엔지니",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=y2p8Va_zu00"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-02T22:00:19.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e134d84f54c60885aef57563c37de29421b1352ec4ab3bcfde582f15c40d88d8",
+      "dedupeKey": "brief:opp_a8bca4d89234c3a6e80f:sha256:e134d84f54c60885aef57563c37de29421b1352ec4ab3bcfde582f15c40d88d8",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bcdcdfc5d89d02ec47f4": {
+      "id": "opp_bcdcdfc5d89d02ec47f4",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:slePq-H-TMA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=slePq-H-TMA",
+      "title": "Fable 5.1 Watermarks EVERYTHING, Here's How To Remove It",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-02T20:20:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Anthropic just released Fable and Mythos 5.1 and it's not only benc",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=slePq-H-TMA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-02T20:20:18.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:edd310549291554fb39056d7e9598353bfe56dc46556fd8d3a7ac86b8c1e42d3",
+      "dedupeKey": "brief:opp_bcdcdfc5d89d02ec47f4:sha256:edd310549291554fb39056d7e9598353bfe56dc46556fd8d3a7ac86b8c1e42d3",
+      "firstSeenAt": "2026-09-03T00:06:13.823Z",
+      "lastSeenAt": "2026-09-03T00:06:13.823Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -42416,6 +42765,42 @@
       "opportunityId": "opp_ec6daaf1f226c0bbec80",
       "sentAt": "2026-09-02T13:12:55.004Z",
       "messageId": "1544696629217595434"
+    },
+    "brief:opp_671b4100d3c3f1009024:sha256:8bcd8a7bec2c24113f0947962d5b313a184528ae081fc09aa751f4bdaee1117e": {
+      "status": "SENT",
+      "opportunityId": "opp_671b4100d3c3f1009024",
+      "sentAt": "2026-09-03T00:06:13.823Z",
+      "messageId": "1544861041098236017"
+    },
+    "brief:opp_3eff49fc83ec0bfe4840:sha256:f104669417afcfcf6943d77ce33d29133a229d39999a86e13a1901756d6ed2dc": {
+      "status": "SENT",
+      "opportunityId": "opp_3eff49fc83ec0bfe4840",
+      "sentAt": "2026-09-03T00:06:13.823Z",
+      "messageId": "1544861041098236017"
+    },
+    "brief:opp_605401ad97abc5488c62:sha256:ed8e11be7bf150275f706ccfa4b3ec6d1761785d598d90228d2eee3ca68960e8": {
+      "status": "SENT",
+      "opportunityId": "opp_605401ad97abc5488c62",
+      "sentAt": "2026-09-03T00:06:13.823Z",
+      "messageId": "1544861041098236017"
+    },
+    "brief:opp_a8bca4d89234c3a6e80f:sha256:e134d84f54c60885aef57563c37de29421b1352ec4ab3bcfde582f15c40d88d8": {
+      "status": "SENT",
+      "opportunityId": "opp_a8bca4d89234c3a6e80f",
+      "sentAt": "2026-09-03T00:06:13.823Z",
+      "messageId": "1544861041098236017"
+    },
+    "brief:opp_bcdcdfc5d89d02ec47f4:sha256:edd310549291554fb39056d7e9598353bfe56dc46556fd8d3a7ac86b8c1e42d3": {
+      "status": "SENT",
+      "opportunityId": "opp_bcdcdfc5d89d02ec47f4",
+      "sentAt": "2026-09-03T00:06:13.823Z",
+      "messageId": "1544861041098236017"
+    },
+    "brief:opp_c35e0fe9799245202109:sha256:16ff6c7b86d09405cec242b8c123fa0a8174193dbd5603e86d87f200085a38a5": {
+      "status": "SENT",
+      "opportunityId": "opp_c35e0fe9799245202109",
+      "sentAt": "2026-09-03T00:06:13.823Z",
+      "messageId": "1544861041098236017"
     }
   },
   "pending": {},
