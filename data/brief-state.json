@@ -38869,8 +38869,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 7,
+        "communityPoints": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -38884,8 +38884,8 @@
       },
       "contentHash": "sha256:dde5ac5b214bf300e67404c96926d6c16a6e72c23e41e1ef37b3d8628cf15ea8",
       "dedupeKey": "brief:opp_ee1769b79802dde71a83:sha256:dde5ac5b214bf300e67404c96926d6c16a6e72c23e41e1ef37b3d8628cf15ea8",
-      "firstSeenAt": "2026-09-03T13:14:07.006Z",
-      "lastSeenAt": "2026-09-03T13:14:07.006Z",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -39388,6 +39388,406 @@
       "dedupeKey": "brief:opp_d06689c4c8bf900ee040:sha256:92f8186734623ef3bc889d64722d4c22d4bd720d761041baf1164d707c901160",
       "firstSeenAt": "2026-09-03T13:14:07.006Z",
       "lastSeenAt": "2026-09-03T13:14:07.006Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6e7fad2d026d0c61f4f0": {
+      "id": "opp_6e7fad2d026d0c61f4f0",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "canonicalUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 13:15:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "summaryEvidence": [
+        "https://openai.com/index/daybreak-for-frontline-defenders"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:571b35b5dbc6f6d7a363d70d513925991e506d4d914896df374ed16a79c6907c",
+      "dedupeKey": "brief:opp_6e7fad2d026d0c61f4f0:sha256:571b35b5dbc6f6d7a363d70d513925991e506d4d914896df374ed16a79c6907c",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_92546f10f17515d17c60": {
+      "id": "opp_92546f10f17515d17c60",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "canonicalUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "summaryEvidence": [
+        "https://openai.com/index/legora-financial-statement-review-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3d3dc4f7922ecb6ad8654af72f8c313ad948723d12700e88374ee218311561a2",
+      "dedupeKey": "brief:opp_92546f10f17515d17c60:sha256:3d3dc4f7922ecb6ad8654af72f8c313ad948723d12700e88374ee218311561a2",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5389fccc23c21e114869": {
+      "id": "opp_5389fccc23c21e114869",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "canonicalUrl": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "summaryEvidence": [
+        "https://openai.com/index/playco-game-prototyping-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:293cd6a4865b19b1d950b63d86dbcef4c26902245fa0c6939c6f487edb487d20",
+      "dedupeKey": "brief:opp_5389fccc23c21e114869:sha256:293cd6a4865b19b1d950b63d86dbcef4c26902245fa0c6939c6f487edb487d20",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a86cd9a019cb51adbb13": {
+      "id": "opp_a86cd9a019cb51adbb13",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "canonicalUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "summaryEvidence": [
+        "https://openai.com/index/safety-overview-gpt-6-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96",
+      "dedupeKey": "brief:opp_a86cd9a019cb51adbb13:sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_da970e261d9e758ef9de": {
+      "id": "opp_da970e261d9e758ef9de",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98638",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c8d915a9c7fc4eccc91842b17699c33f396955b5531f6db5f3d25d7dab58b72d",
+      "dedupeKey": "brief:opp_da970e261d9e758ef9de:sha256:c8d915a9c7fc4eccc91842b17699c33f396955b5531f6db5f3d25d7dab58b72d",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_29cf04eca1bbbb8c816c": {
+      "id": "opp_29cf04eca1bbbb8c816c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:afgyS-bblpw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=afgyS-bblpw",
+      "title": "[한영자막] AI는 왜 틀릴 때도 당당할까요? '불확실성'의 수학",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T22:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "거대 언어 모델(LLM) 열풍 속에서 오늘날의 AI는 틀릴 때조차 당당하게 거짓말을 하곤 합니다. 케임브리지대 교수이자 Google DeepMind Research VP인 주빈 가라마니(Zoubin Ghahramani) 교수가 들려주는 '불확실성의 수학'과 베이지안 확률론, 그리고 AGI의 미래에 대한 심도 있는 대담입니다. 📌 핵심 포인트 • AI의 치명적 약점: 틀릴 때조차 완전한 확신을 갖고 당당하게 대답하는 과신(Overconfidence) 문제 • 베이지안 사고(Bayesian Thin",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=afgyS-bblpw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-03T22:00:19.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ac5fe630bc2a94d683fc09bee7fa13f6d3cc9cad5f407c959bdce29fdd8c0e3",
+      "dedupeKey": "brief:opp_29cf04eca1bbbb8c816c:sha256:2ac5fe630bc2a94d683fc09bee7fa13f6d3cc9cad5f407c959bdce29fdd8c0e3",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1b33fc1501dd2c84056f": {
+      "id": "opp_1b33fc1501dd2c84056f",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:5dlKBmlMEKE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5dlKBmlMEKE",
+      "title": "AI 시대, 개발자가 알아야 할 아키텍처 용어 8가지",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T22:55:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Architecture Driver, 품질속성, Tactic, Style, Pattern, Trade-off, Architecture Decision, ADR. 아키텍처 글이나 설계 회의에서 자주 만나지만 정확히 구분하기는 어려운 8가지 용어를 정리했습니다. --- 00:00 질문(인키콘서트 예매시스템 설계해 보세요) 00:13 설계 문제에 흔히 떠올리는 것 00:36 오늘의 주제: 아키첵처 용어 8선 00:48 8가지 아키텍처 용어 01:20 AI에게 일을 시킬때도 정확한 아키텍처 언어로 02:",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=5dlKBmlMEKE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-03T22:55:27.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:06cae329ee4fb97ef0c9f3402d7b06f98ddb62a2bbbab3dcac846ecd2ffaa4e9",
+      "dedupeKey": "brief:opp_1b33fc1501dd2c84056f:sha256:06cae329ee4fb97ef0c9f3402d7b06f98ddb62a2bbbab3dcac846ecd2ffaa4e9",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_649676dd3dc72ce71bdb": {
+      "id": "opp_649676dd3dc72ce71bdb",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:mRiuhAjnPgI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mRiuhAjnPgI",
+      "title": "GPT 6 Astra Is Here (And It's Better Than Fable 5.1?)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T20:46:53+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io OpenAI strikes back with the release of GPT-6 Astra, their latest r",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mRiuhAjnPgI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-03T20:46:53.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e287afac096e798305066aa91876dbd17df192f8bef29d678fa2d046a1fc5762",
+      "dedupeKey": "brief:opp_649676dd3dc72ce71bdb:sha256:e287afac096e798305066aa91876dbd17df192f8bef29d678fa2d046a1fc5762",
+      "firstSeenAt": "2026-09-04T00:06:09.419Z",
+      "lastSeenAt": "2026-09-04T00:06:09.419Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -43691,6 +44091,42 @@
       "opportunityId": "opp_9fa0534b9f3ee6fc6fa0",
       "sentAt": "2026-09-03T13:14:07.006Z",
       "messageId": "1545059317915455519"
+    },
+    "brief:opp_da970e261d9e758ef9de:sha256:c8d915a9c7fc4eccc91842b17699c33f396955b5531f6db5f3d25d7dab58b72d": {
+      "status": "SENT",
+      "opportunityId": "opp_da970e261d9e758ef9de",
+      "sentAt": "2026-09-04T00:06:09.419Z",
+      "messageId": "1545223409644998687"
+    },
+    "brief:opp_92546f10f17515d17c60:sha256:3d3dc4f7922ecb6ad8654af72f8c313ad948723d12700e88374ee218311561a2": {
+      "status": "SENT",
+      "opportunityId": "opp_92546f10f17515d17c60",
+      "sentAt": "2026-09-04T00:06:09.419Z",
+      "messageId": "1545223409644998687"
+    },
+    "brief:opp_5389fccc23c21e114869:sha256:293cd6a4865b19b1d950b63d86dbcef4c26902245fa0c6939c6f487edb487d20": {
+      "status": "SENT",
+      "opportunityId": "opp_5389fccc23c21e114869",
+      "sentAt": "2026-09-04T00:06:09.419Z",
+      "messageId": "1545223409644998687"
+    },
+    "brief:opp_29cf04eca1bbbb8c816c:sha256:2ac5fe630bc2a94d683fc09bee7fa13f6d3cc9cad5f407c959bdce29fdd8c0e3": {
+      "status": "SENT",
+      "opportunityId": "opp_29cf04eca1bbbb8c816c",
+      "sentAt": "2026-09-04T00:06:09.419Z",
+      "messageId": "1545223409644998687"
+    },
+    "brief:opp_649676dd3dc72ce71bdb:sha256:e287afac096e798305066aa91876dbd17df192f8bef29d678fa2d046a1fc5762": {
+      "status": "SENT",
+      "opportunityId": "opp_649676dd3dc72ce71bdb",
+      "sentAt": "2026-09-04T00:06:09.419Z",
+      "messageId": "1545223409644998687"
+    },
+    "brief:opp_1b33fc1501dd2c84056f:sha256:06cae329ee4fb97ef0c9f3402d7b06f98ddb62a2bbbab3dcac846ecd2ffaa4e9": {
+      "status": "SENT",
+      "opportunityId": "opp_1b33fc1501dd2c84056f",
+      "sentAt": "2026-09-04T00:06:09.419Z",
+      "messageId": "1545223409644998687"
     }
   },
   "pending": {},
