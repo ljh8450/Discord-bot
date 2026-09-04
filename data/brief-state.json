@@ -39434,11 +39434,11 @@
       },
       "contentHash": "sha256:571b35b5dbc6f6d7a363d70d513925991e506d4d914896df374ed16a79c6907c",
       "dedupeKey": "brief:opp_6e7fad2d026d0c61f4f0:sha256:571b35b5dbc6f6d7a363d70d513925991e506d4d914896df374ed16a79c6907c",
-      "firstSeenAt": "2026-09-04T00:06:09.419Z",
-      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -39578,8 +39578,8 @@
       },
       "contentHash": "sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96",
       "dedupeKey": "brief:opp_a86cd9a019cb51adbb13:sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96",
-      "firstSeenAt": "2026-09-04T00:06:09.419Z",
-      "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -39788,6 +39788,399 @@
       "dedupeKey": "brief:opp_649676dd3dc72ce71bdb:sha256:e287afac096e798305066aa91876dbd17df192f8bef29d678fa2d046a1fc5762",
       "firstSeenAt": "2026-09-04T00:06:09.419Z",
       "lastSeenAt": "2026-09-04T00:06:09.419Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ee2bc1bae5309f2d714d": {
+      "id": "opp_ee2bc1bae5309f2d714d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33205",
+      "canonicalUrl": "https://kciter.so/posts/the-expensive-main-thread/en",
+      "title": "브라우저의 메인 스레드는 비싸다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T09:21:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "브라우저 성능의 핵심은 ‘메인 스레드’를 어떻게 사용하는가에 달려 있다 프론트엔드 성능 문제는 단순히 코드가 느려서가 아니라, JavaScript·렌...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33205"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:b15306052fdf7d5b48bec719e879ea3c5ceb6a722c5903413281bb7e0d434a61",
+      "dedupeKey": "brief:opp_ee2bc1bae5309f2d714d:sha256:b15306052fdf7d5b48bec719e879ea3c5ceb6a722c5903413281bb7e0d434a61",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a7136e9f5cf321eadabd": {
+      "id": "opp_a7136e9f5cf321eadabd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33206",
+      "canonicalUrl": "https://github.com/router-for-me/CLIProxyAPI",
+      "title": "CLIProxyAPI - AI 구독 계정을 호환 API로 노출하는 프록시",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T09:30:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ChatGPT Codex, Claude Code, Gemini, Grok Build, Antigravity 등의 OAuth 계정을 로컬 프록시에 연결해, 여러 표준 형식의 API로 제공 별도의 AP...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33206"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d1d929c276c9e3d2dcf0cdb8f47689354738c07af6cce2de5e79660568231edb",
+      "dedupeKey": "brief:opp_a7136e9f5cf321eadabd:sha256:d1d929c276c9e3d2dcf0cdb8f47689354738c07af6cce2de5e79660568231edb",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_99c6993ae45abd95f8a5": {
+      "id": "opp_99c6993ae45abd95f8a5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33199",
+      "canonicalUrl": "https://openai.com/index/gpt-6-astra",
+      "title": "OpenAI, GPT-6 Astra 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T05:34:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사전학습, 강화학습과 정렬 연구를 결합해 코딩, 문서 제작, 과학 연구와 보안 작업까지 폭넓은 전문 업무를 수행하는 차세대 모델 컴퓨터와 브라...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33199"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c1fc17a2659b48b9842d1a7836075fa36d7fa8a6c5ac1daab33188068ae00f1",
+      "dedupeKey": "brief:opp_99c6993ae45abd95f8a5:sha256:7c1fc17a2659b48b9842d1a7836075fa36d7fa8a6c5ac1daab33188068ae00f1",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_783d4666112e9470725e": {
+      "id": "opp_783d4666112e9470725e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33194",
+      "canonicalUrl": "https://github.com/PhiloLabs/fable51-worlds",
+      "title": "Fable 5.1 월드 모델링",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T00:31:41+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Fable 5.1 에이전트 군집이 실제 장소를 조사하고 3D로 모델링한 뒤 검수까지 수행해, 브라우저에서 직접 탐색할 수 있는 세계로 재구성함 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33194"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3df8b100e9b93ff81cf266951467163232edeed399aba69ec530e4f3d6e4ae12",
+      "dedupeKey": "brief:opp_783d4666112e9470725e:sha256:3df8b100e9b93ff81cf266951467163232edeed399aba69ec530e4f3d6e4ae12",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_caa2101dbf938f4942f6": {
+      "id": "opp_caa2101dbf938f4942f6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33182",
+      "canonicalUrl": "https://lws.io/blog/my-local-model-setup",
+      "title": "M4 Pro Mac mini로 구축한 로컬 LLM 환경",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-03T13:33:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "48GB RAM의 M4 Pro Mac mini를 상시 LLM 서버로 운영하며, 추론·에이전트 작업에는 Qwen3.6-35B-A3B, 간단한 대화에는 Gemma-4-E4B를 사용해 약 30...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33182"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 18,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bbdbb42be76f296fc2dde2d2086855e6fe4a4c7f042c651b27147d1f888941ee",
+      "dedupeKey": "brief:opp_caa2101dbf938f4942f6:sha256:bbdbb42be76f296fc2dde2d2086855e6fe4a4c7f042c651b27147d1f888941ee",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e049787aef27c6e7fe72": {
+      "id": "opp_e049787aef27c6e7fe72",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ca21eed8df813127db68f26c0eec996adb7b9364",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/ecs-design-01",
+      "title": "Amazon ECS 실행 구조와 선택 기준 – 1부: 컴퓨트와 실행 형태",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 04 Sep 2026 02:05:40 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "AI 시대로 전환이 가속화되면서 Amazon ECS가 다시 주목받고 있습니다. 모델 추론 서버부터 AI 에이전트와 에이전트가 호출하는 도구까지 컨테이너로 배포되는 워크로드가 증가했고, GPU 컴퓨트와 급격한 트래픽 변화를 감당하는 일들이 컨테이너 운영의 일상이 되었기 때문입니다. 하지만 ECS로 컨테이너 워크로드를 운영하다 보면 비슷한 고민과 마주치게 됩니다. EC2에서 제공되던 서비스를 Fargate로 이전할 때 시작 유형(launch type)이 변경되지 않아 어려움을 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/ecs-design-01/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3eaa2b6344fbfeaeeaf7c59946aade560338e4574bf585f63e91c07c9848e9d2",
+      "dedupeKey": "brief:opp_e049787aef27c6e7fe72:sha256:3eaa2b6344fbfeaeeaf7c59946aade560338e4574bf585f63e91c07c9848e9d2",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8505b6c5ce0d346d1ea6": {
+      "id": "opp_8505b6c5ce0d346d1ea6",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "320ed0dadeacbff92debc102c1e480ace44a8ddc",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/ecs-design-02",
+      "title": "Amazon ECS 실행 구조와 선택 기준 – 2부: 배포 전략과 네트워크, 설계 상한",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 04 Sep 2026 02:04:34 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 Amazon ECS 실행 구조와 선택 기준을 다루는 시리즈의 2부입니다. 1부에서는 launch type은 호환되는 실행 환경을 표시하는 용도로만 사용하고 실제 실행은 용량 공급자(capacity provider)로 구성한다는 원칙을 바탕으로, Fargate와 ECS Managed Instances, EC2에 걸친 컴퓨트 선택과 Express Mode부터 예약 Task까지의 실행 형태를 살펴봤습니다. 2부에서는 남은 선택지를 다룹니다. 6종으로 증가한 배포 전략에서 시작해 네트워크와 스토",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/ecs-design-02/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:974585483e162fe3a4f2d0cc8e296d89404e2254f9b0ff28b541ee83d222cc9d",
+      "dedupeKey": "brief:opp_8505b6c5ce0d346d1ea6:sha256:974585483e162fe3a4f2d0cc8e296d89404e2254f9b0ff28b541ee83d222cc9d",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d5c18bec0a651227f17": {
+      "id": "opp_9d5c18bec0a651227f17",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis",
+      "title": "장애 Alert의 원인을 스스로 찾다: SRE Observer 개발기",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 04 Sep 2026 01:50:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며안녕하세요. LINE Plus에서 Home 서비스의 안정성을 책임지고 있는 Home SRE(Site Reliability Engineering) 팀입니다.SRE Observ...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f1bbc2ee548f1723e673f87ed5200343d28dabddb5b7d3300ab353cb6395b5f8",
+      "dedupeKey": "brief:opp_9d5c18bec0a651227f17:sha256:f1bbc2ee548f1723e673f87ed5200343d28dabddb5b7d3300ab353cb6395b5f8",
+      "firstSeenAt": "2026-09-04T03:23:09.744Z",
+      "lastSeenAt": "2026-09-04T03:23:09.744Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -44127,6 +44520,42 @@
       "opportunityId": "opp_1b33fc1501dd2c84056f",
       "sentAt": "2026-09-04T00:06:09.419Z",
       "messageId": "1545223409644998687"
+    },
+    "brief:opp_e049787aef27c6e7fe72:sha256:3eaa2b6344fbfeaeeaf7c59946aade560338e4574bf585f63e91c07c9848e9d2": {
+      "status": "SENT",
+      "opportunityId": "opp_e049787aef27c6e7fe72",
+      "sentAt": "2026-09-04T03:23:09.744Z",
+      "messageId": "1545272986884374602"
+    },
+    "brief:opp_9d5c18bec0a651227f17:sha256:f1bbc2ee548f1723e673f87ed5200343d28dabddb5b7d3300ab353cb6395b5f8": {
+      "status": "SENT",
+      "opportunityId": "opp_9d5c18bec0a651227f17",
+      "sentAt": "2026-09-04T03:23:09.744Z",
+      "messageId": "1545272986884374602"
+    },
+    "brief:opp_8505b6c5ce0d346d1ea6:sha256:974585483e162fe3a4f2d0cc8e296d89404e2254f9b0ff28b541ee83d222cc9d": {
+      "status": "SENT",
+      "opportunityId": "opp_8505b6c5ce0d346d1ea6",
+      "sentAt": "2026-09-04T03:23:09.744Z",
+      "messageId": "1545272986884374602"
+    },
+    "brief:opp_a7136e9f5cf321eadabd:sha256:d1d929c276c9e3d2dcf0cdb8f47689354738c07af6cce2de5e79660568231edb": {
+      "status": "SENT",
+      "opportunityId": "opp_a7136e9f5cf321eadabd",
+      "sentAt": "2026-09-04T03:23:09.744Z",
+      "messageId": "1545272986884374602"
+    },
+    "brief:opp_ee2bc1bae5309f2d714d:sha256:b15306052fdf7d5b48bec719e879ea3c5ceb6a722c5903413281bb7e0d434a61": {
+      "status": "SENT",
+      "opportunityId": "opp_ee2bc1bae5309f2d714d",
+      "sentAt": "2026-09-04T03:23:09.744Z",
+      "messageId": "1545272986884374602"
+    },
+    "brief:opp_6e7fad2d026d0c61f4f0:sha256:571b35b5dbc6f6d7a363d70d513925991e506d4d914896df374ed16a79c6907c": {
+      "status": "SENT",
+      "opportunityId": "opp_6e7fad2d026d0c61f4f0",
+      "sentAt": "2026-09-04T03:23:09.744Z",
+      "messageId": "1545272986884374602"
     }
   },
   "pending": {},
