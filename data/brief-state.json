@@ -40213,26 +40213,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 11,
         "communityRank": 2,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:4bc74abd73bb387f813779c23de1e350fd414737fe0a3edaf36cd8bc941ec746",
       "dedupeKey": "brief:opp_c806d898e949b2e1aa98:sha256:4bc74abd73bb387f813779c23de1e350fd414737fe0a3edaf36cd8bc941ec746",
-      "firstSeenAt": "2026-09-04T09:05:39.064Z",
-      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "firstSeenAt": "2026-09-04T13:07:49.650Z",
+      "lastSeenAt": "2026-09-04T13:07:49.650Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -40262,8 +40262,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
+        "communityPoints": 8,
+        "communityRank": 6,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -40277,11 +40277,11 @@
       },
       "contentHash": "sha256:3779dd1880cf7b1ef9175cc4e3c5042d3cf4fbbe673ecb7a73a657e38b4923c0",
       "dedupeKey": "brief:opp_e3743ca8cd8b874382f3:sha256:3779dd1880cf7b1ef9175cc4e3c5042d3cf4fbbe673ecb7a73a657e38b4923c0",
-      "firstSeenAt": "2026-09-04T09:05:39.064Z",
-      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "firstSeenAt": "2026-09-04T13:07:49.650Z",
+      "lastSeenAt": "2026-09-04T13:07:49.650Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -40311,8 +40311,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 6,
+        "communityPoints": 6,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -40326,8 +40326,8 @@
       },
       "contentHash": "sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977",
       "dedupeKey": "brief:opp_e84b11641953986d9650:sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977",
-      "firstSeenAt": "2026-09-04T09:05:39.064Z",
-      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "firstSeenAt": "2026-09-04T13:07:49.650Z",
+      "lastSeenAt": "2026-09-04T13:07:49.650Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -40409,23 +40409,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityPoints": 13,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
       "dedupeKey": "brief:opp_36369354659d1534ce61:sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
-      "firstSeenAt": "2026-09-04T09:05:39.064Z",
-      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "firstSeenAt": "2026-09-04T13:07:49.650Z",
+      "lastSeenAt": "2026-09-04T13:07:49.650Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -40584,6 +40584,55 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0bcfe2200ae4a0b51d82": {
+      "id": "opp_0bcfe2200ae4a0b51d82",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33212",
+      "canonicalUrl": "https://news.hada.io/topic?id=33212",
+      "title": "Show GN: Togethery - 가족/부부가 사야할것, 할일을 함께 관리하는 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T10:51:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 제 사소한 불편함에서 시작해 앱 배포까지 해 보았습니다. 가족에게도 협업 도구가 필요하다 올리브유를 다 써간다는걸 혼자 머릿속으...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33212"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e0daf1297416ee4786d399cdd7dcff2ac503decee7a717bc4988aa9f6fc0e078",
+      "dedupeKey": "brief:opp_0bcfe2200ae4a0b51d82:sha256:e0daf1297416ee4786d399cdd7dcff2ac503decee7a717bc4988aa9f6fc0e078",
+      "firstSeenAt": "2026-09-04T13:07:49.650Z",
+      "lastSeenAt": "2026-09-04T13:07:49.650Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -44992,6 +45041,18 @@
       "opportunityId": "opp_6e469f4fae22e463088e",
       "sentAt": "2026-09-04T09:05:39.064Z",
       "messageId": "1545359178355445872"
+    },
+    "brief:opp_c806d898e949b2e1aa98:sha256:4bc74abd73bb387f813779c23de1e350fd414737fe0a3edaf36cd8bc941ec746": {
+      "status": "SENT",
+      "opportunityId": "opp_c806d898e949b2e1aa98",
+      "sentAt": "2026-09-04T13:07:49.650Z",
+      "messageId": "1545420123786190899"
+    },
+    "brief:opp_e3743ca8cd8b874382f3:sha256:3779dd1880cf7b1ef9175cc4e3c5042d3cf4fbbe673ecb7a73a657e38b4923c0": {
+      "status": "SENT",
+      "opportunityId": "opp_e3743ca8cd8b874382f3",
+      "sentAt": "2026-09-04T13:07:49.650Z",
+      "messageId": "1545420123786190899"
     }
   },
   "pending": {},
