@@ -39578,11 +39578,11 @@
       },
       "contentHash": "sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96",
       "dedupeKey": "brief:opp_a86cd9a019cb51adbb13:sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96",
-      "firstSeenAt": "2026-09-04T03:23:09.744Z",
-      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -39918,8 +39918,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 5,
+        "communityPoints": 6,
+        "communityRank": 11,
         "contentScore": 13,
         "contentScoreBreakdown": {
           "total": 13,
@@ -39933,11 +39933,11 @@
       },
       "contentHash": "sha256:7c1fc17a2659b48b9842d1a7836075fa36d7fa8a6c5ac1daab33188068ae00f1",
       "dedupeKey": "brief:opp_99c6993ae45abd95f8a5:sha256:7c1fc17a2659b48b9842d1a7836075fa36d7fa8a6c5ac1daab33188068ae00f1",
-      "firstSeenAt": "2026-09-04T03:23:09.744Z",
-      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -39967,8 +39967,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 12,
+        "communityPoints": 6,
+        "communityRank": 17,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -39982,8 +39982,8 @@
       },
       "contentHash": "sha256:3df8b100e9b93ff81cf266951467163232edeed399aba69ec530e4f3d6e4ae12",
       "dedupeKey": "brief:opp_783d4666112e9470725e:sha256:3df8b100e9b93ff81cf266951467163232edeed399aba69ec530e4f3d6e4ae12",
-      "firstSeenAt": "2026-09-04T03:23:09.744Z",
-      "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -40181,6 +40181,406 @@
       "dedupeKey": "brief:opp_9d5c18bec0a651227f17:sha256:f1bbc2ee548f1723e673f87ed5200343d28dabddb5b7d3300ab353cb6395b5f8",
       "firstSeenAt": "2026-09-04T03:23:09.744Z",
       "lastSeenAt": "2026-09-04T03:23:09.744Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c806d898e949b2e1aa98": {
+      "id": "opp_c806d898e949b2e1aa98",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33216",
+      "canonicalUrl": "https://turtlespace.blog/p/exit-the-cave",
+      "title": "동굴을 나와라: 통제 가능한 노력과 실제 진전을 혼동하지 않기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T12:32:12+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "홀로 몰입하는 동굴 속 수련은 낭만적으로 보이지만, 현실의 평가를 피한 채 통제 가능한 노력과 실제 진전을 혼동하게 만들 수 있음 스마트 기기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33216"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4bc74abd73bb387f813779c23de1e350fd414737fe0a3edaf36cd8bc941ec746",
+      "dedupeKey": "brief:opp_c806d898e949b2e1aa98:sha256:4bc74abd73bb387f813779c23de1e350fd414737fe0a3edaf36cd8bc941ec746",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e3743ca8cd8b874382f3": {
+      "id": "opp_e3743ca8cd8b874382f3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33203",
+      "canonicalUrl": "https://news.ycombinator.com/item?id=49551096",
+      "title": "ChatGPT, Claude, Grok 동시다발 장애 발생, 확인된 원인과 복구 상태",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T08:32:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "한국시간 9월 3일 밤부터 4일 새벽 사이 Claude, Grok, ChatGPT와 Codex의 장애 시간이 겹쳤으며, 세 서비스 모두 현재는 복구됨 Claude와 Grok은 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33203"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3779dd1880cf7b1ef9175cc4e3c5042d3cf4fbbe673ecb7a73a657e38b4923c0",
+      "dedupeKey": "brief:opp_e3743ca8cd8b874382f3:sha256:3779dd1880cf7b1ef9175cc4e3c5042d3cf4fbbe673ecb7a73a657e38b4923c0",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e84b11641953986d9650": {
+      "id": "opp_e84b11641953986d9650",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33211",
+      "canonicalUrl": "https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide",
+      "title": "당신의 지능을 소유하라: 소버린 AI 실전 가이드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T10:47:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 애플리케이션 경쟁이 UI·워크플로·시장 진입을 넘어, 제품의 학습 방식과 성능을 좌우하는 지능 계층의 소유권 경쟁으로 확대되고 있음 Kimi K3...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33211"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977",
+      "dedupeKey": "brief:opp_e84b11641953986d9650:sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f777d34764139bd88912": {
+      "id": "opp_f777d34764139bd88912",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33210",
+      "canonicalUrl": "https://www.anildash.com/2026/09/02/cancer-capital",
+      "title": "VC는 더 이상 VC가 아니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T10:21:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "소수의 초대형 투자사가 전통적인 스타트업 투자를 넘어 막대한 자산과 정치적 영향력을 축적한 현상을 Cancer Capital로 규정하고, 이들을 금융회...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33210"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5def3578bd5961da2c245cda1019110ee7bb12ac188ffa1f508b30be1b1207a9",
+      "dedupeKey": "brief:opp_f777d34764139bd88912:sha256:5def3578bd5961da2c245cda1019110ee7bb12ac188ffa1f508b30be1b1207a9",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_36369354659d1534ce61": {
+      "id": "opp_36369354659d1534ce61",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33200",
+      "canonicalUrl": "https://anyhumanever.com/",
+      "title": "Any Human Ever - 인류 역사상 살았던 1,000억 명 중 한 사람을 무작위로 만나기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T05:37:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "출생 연도, 지역, 생애와 이야기를 단계별로 따라가며, 역사 기록에서 사라진 평범한 사람의 삶을 통계로 그려보는 프로젝트 When → Where → Life ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33200"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
+      "dedupeKey": "brief:opp_36369354659d1534ce61:sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6635fae72e75806a7c94": {
+      "id": "opp_6635fae72e75806a7c94",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/52885",
+      "canonicalUrl": "https://toss.tech/article/52885",
+      "title": "AI가 만든 코드가 어드민이 되기까지",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 04 Sep 2026 08:47:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "실시간으로 생성되는 코드를 어드민 화면으로 보여 주기 위해, 개발 환경을 브라우저 안으로 옮긴 이야기를 소개해요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/52885"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b6f3e924985c02b16ab04ea1735f18050e288f8398a7c6b96eacd4a3eee0b360",
+      "dedupeKey": "brief:opp_6635fae72e75806a7c94:sha256:b6f3e924985c02b16ab04ea1735f18050e288f8398a7c6b96eacd4a3eee0b360",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_719587a8755b9879c99a": {
+      "id": "opp_719587a8755b9879c99a",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:U9AConAimzM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=U9AConAimzM",
+      "title": "에이전트 시대의 터미널 Herdr | 메타 시니어 엔지니어가 잘때도 에이전트를 돌리는 법",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T07:15:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "tmux 대신 herdr — Claude Code 3개를 동시에 굴리며 실제 프로덕트 개발해봤습니다 에이전트를 두세 개 동시에 굴리다 보면 터미널 탭이 여섯 개가 되고, 어느 탭이 나를 기다리고 있는지 모르게 됩니다. 세 번째 탭에서 Claude Code가 20분째 승인을 기다리는데 나는 첫 탭만 보고 있는 상황. 에이전트 셋을 굴리는데 병목은 나였습니다. 오늘 다루는 herdr는 이 문제를 푸는 \"에이전트를 아는 터미널 멀티플렉서\"입니다. tmux처럼 터미널을 닫아도 프로세스를 살려두는 서버 구",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=U9AConAimzM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-04T07:15:39.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:134402990fca6dddc6978df476b3be3319c8b7073d26e7260c90d9bc01503224",
+      "dedupeKey": "brief:opp_719587a8755b9879c99a:sha256:134402990fca6dddc6978df476b3be3319c8b7073d26e7260c90d9bc01503224",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6e469f4fae22e463088e": {
+      "id": "opp_6e469f4fae22e463088e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:rGaSkBWjoHA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rGaSkBWjoHA",
+      "title": "[한영자막] Claude Code 팀이 새로 공개한 INTENT.MD의 정체와 AI-Native 개발 방식",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T09:00:08+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Anthropic의 Claude Code 제작진이 코딩 중심 개발을 넘어 소프트웨어 개발 수명 주기(SDLC) 전체를 AI-Native로 혁신하는 공식 플레이북을 공개했습니다. 기획 인터뷰를 통한 intent.md 생성부터 자동 명세(Spec), 서브에이전트 병렬 빌드, 자동 테스트 및 평가(Evals), 비동기 PR 코드 리뷰, 자율 유지보수까지 실전 워크플로우를 분석해 드립니다. 📌 주요 내용: - 기획(Discovery): 에이전트 인터뷰로 요구사항을 수집하고 intent.md 생성 - 명",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=rGaSkBWjoHA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-04T09:00:08.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bffa1e4b7125ae01bf474b5b3ccdf78c66caff9c37acf8d36ba426cfb726e7cd",
+      "dedupeKey": "brief:opp_6e469f4fae22e463088e:sha256:bffa1e4b7125ae01bf474b5b3ccdf78c66caff9c37acf8d36ba426cfb726e7cd",
+      "firstSeenAt": "2026-09-04T09:05:39.064Z",
+      "lastSeenAt": "2026-09-04T09:05:39.064Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -44556,6 +44956,42 @@
       "opportunityId": "opp_6e7fad2d026d0c61f4f0",
       "sentAt": "2026-09-04T03:23:09.744Z",
       "messageId": "1545272986884374602"
+    },
+    "brief:opp_6635fae72e75806a7c94:sha256:b6f3e924985c02b16ab04ea1735f18050e288f8398a7c6b96eacd4a3eee0b360": {
+      "status": "SENT",
+      "opportunityId": "opp_6635fae72e75806a7c94",
+      "sentAt": "2026-09-04T09:05:39.064Z",
+      "messageId": "1545359178355445872"
+    },
+    "brief:opp_99c6993ae45abd95f8a5:sha256:7c1fc17a2659b48b9842d1a7836075fa36d7fa8a6c5ac1daab33188068ae00f1": {
+      "status": "SENT",
+      "opportunityId": "opp_99c6993ae45abd95f8a5",
+      "sentAt": "2026-09-04T09:05:39.064Z",
+      "messageId": "1545359178355445872"
+    },
+    "brief:opp_a86cd9a019cb51adbb13:sha256:cb776d98686f3953e84c826f6335fe2a759077421508ef269eb0444929b88e96": {
+      "status": "SENT",
+      "opportunityId": "opp_a86cd9a019cb51adbb13",
+      "sentAt": "2026-09-04T09:05:39.064Z",
+      "messageId": "1545359178355445872"
+    },
+    "brief:opp_719587a8755b9879c99a:sha256:134402990fca6dddc6978df476b3be3319c8b7073d26e7260c90d9bc01503224": {
+      "status": "SENT",
+      "opportunityId": "opp_719587a8755b9879c99a",
+      "sentAt": "2026-09-04T09:05:39.064Z",
+      "messageId": "1545359178355445872"
+    },
+    "brief:opp_f777d34764139bd88912:sha256:5def3578bd5961da2c245cda1019110ee7bb12ac188ffa1f508b30be1b1207a9": {
+      "status": "SENT",
+      "opportunityId": "opp_f777d34764139bd88912",
+      "sentAt": "2026-09-04T09:05:39.064Z",
+      "messageId": "1545359178355445872"
+    },
+    "brief:opp_6e469f4fae22e463088e:sha256:bffa1e4b7125ae01bf474b5b3ccdf78c66caff9c37acf8d36ba426cfb726e7cd": {
+      "status": "SENT",
+      "opportunityId": "opp_6e469f4fae22e463088e",
+      "sentAt": "2026-09-04T09:05:39.064Z",
+      "messageId": "1545359178355445872"
     }
   },
   "pending": {},
