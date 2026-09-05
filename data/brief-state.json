@@ -40409,8 +40409,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 16,
-        "communityRank": 5,
+        "communityPoints": 17,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -40424,11 +40424,11 @@
       },
       "contentHash": "sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
       "dedupeKey": "brief:opp_36369354659d1534ce61:sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
-      "firstSeenAt": "2026-09-05T00:06:16.195Z",
-      "lastSeenAt": "2026-09-05T00:06:16.195Z",
+      "firstSeenAt": "2026-09-05T03:25:45.052Z",
+      "lastSeenAt": "2026-09-05T03:25:45.052Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -40731,6 +40731,109 @@
       "dedupeKey": "brief:opp_6d528341d3264fd1e7c5:sha256:b0bace91302a6cbadc01dcee1e282a254bb33036abdfb212714a68ddb0ab68dd",
       "firstSeenAt": "2026-09-05T00:06:16.195Z",
       "lastSeenAt": "2026-09-05T00:06:16.195Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3ca6f85bf1b21eb7213c": {
+      "id": "opp_3ca6f85bf1b21eb7213c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33245",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "title": "DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 [유튜브]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T09:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "최근 AI 발전은 수십 년치 변화에 해당하며, DHH는 Opus 4.5와 에이전트 하네스를 기점으로 AI가 보조 도구에서 문제 해결 전반을 맡는 제작 주체...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33245"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:94b32e0b4a30a6d7e5e3bae5036344961968556c9ae702d04d137aae30a11200",
+      "dedupeKey": "brief:opp_3ca6f85bf1b21eb7213c:sha256:94b32e0b4a30a6d7e5e3bae5036344961968556c9ae702d04d137aae30a11200",
+      "firstSeenAt": "2026-09-05T03:25:45.052Z",
+      "lastSeenAt": "2026-09-05T03:25:45.052Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_23fc4c989b84b7a00c31": {
+      "id": "opp_23fc4c989b84b7a00c31",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:XeMtZeXxHqw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XeMtZeXxHqw",
+      "title": "I Tested GPT 6 Astra vs Fable 5.1 (No Hype Assessment)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T00:08:40.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io OpenAI strikes back with the release of GPT-6 Astra, their latest r",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XeMtZeXxHqw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T00:08:40.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37a1493b8d8d259f8dd997fcfa3e73492ce831e6d290bbf0b6bc24937f2af1b6",
+      "dedupeKey": "brief:opp_23fc4c989b84b7a00c31:sha256:37a1493b8d8d259f8dd997fcfa3e73492ce831e6d290bbf0b6bc24937f2af1b6",
+      "firstSeenAt": "2026-09-05T03:25:45.052Z",
+      "lastSeenAt": "2026-09-05T03:25:45.052Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -45178,6 +45281,24 @@
       "opportunityId": "opp_e84b11641953986d9650",
       "sentAt": "2026-09-05T00:06:16.195Z",
       "messageId": "1545585826015223931"
+    },
+    "brief:opp_23fc4c989b84b7a00c31:sha256:37a1493b8d8d259f8dd997fcfa3e73492ce831e6d290bbf0b6bc24937f2af1b6": {
+      "status": "SENT",
+      "opportunityId": "opp_23fc4c989b84b7a00c31",
+      "sentAt": "2026-09-05T03:25:45.052Z",
+      "messageId": "1545636036988764161"
+    },
+    "brief:opp_3ca6f85bf1b21eb7213c:sha256:94b32e0b4a30a6d7e5e3bae5036344961968556c9ae702d04d137aae30a11200": {
+      "status": "SENT",
+      "opportunityId": "opp_3ca6f85bf1b21eb7213c",
+      "sentAt": "2026-09-05T03:25:45.052Z",
+      "messageId": "1545636036988764161"
+    },
+    "brief:opp_36369354659d1534ce61:sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19": {
+      "status": "SENT",
+      "opportunityId": "opp_36369354659d1534ce61",
+      "sentAt": "2026-09-05T03:25:45.052Z",
+      "messageId": "1545636036988764161"
     }
   },
   "pending": {},
