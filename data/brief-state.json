@@ -40839,6 +40839,214 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_3ee58d69629fc5626d49": {
+      "id": "opp_3ee58d69629fc5626d49",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33226",
+      "canonicalUrl": "https://werwolv.net/posts/file_format_reverse_engineering",
+      "title": "ImHex로 미지의 파일 형식 리버스 엔지니어링하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T22:29:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "게임 FEZ의 독자적인 바이너리 세이브 파일을 대상으로, C# 코드 역컴파일부터 ImHex 패턴 작성까지 파일 형식을 분석하는 전 과정을 보여줌 매직 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33226"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:96daef90d4cd7993293804b656d30cb17bda0afd08f1390f45743c56d1e8960e",
+      "dedupeKey": "brief:opp_3ee58d69629fc5626d49:sha256:96daef90d4cd7993293804b656d30cb17bda0afd08f1390f45743c56d1e8960e",
+      "firstSeenAt": "2026-09-05T09:05:42.640Z",
+      "lastSeenAt": "2026-09-05T09:05:42.640Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_226f5af71d9dffe037af": {
+      "id": "opp_226f5af71d9dffe037af",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:jnHT1AonyGw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jnHT1AonyGw",
+      "title": "[한영자막] [샘 알트만 인터뷰 Part 1] 샘 알트만이 직접 밝힌 OpenAI 차세대 모델 훈련 중단의 진짜 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T09:00:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🎬 [샘 알트만 인터뷰 3부작 시리즈] • Part 1 (훈련 중단 이유): https://www.youtube.com/watch?v=jnHT1AonyGw • Part 2 (AGI vs 초지능 & 실책 고백): https://www.youtube.com/watch?v=Pj_y9zEPv5k • Part 3 (아스트라 & 하드웨어 비전): https://www.youtube.com/watch?v=EzkYQvMXzAc 샘 알트만(Sam Altman) OpenAI CEO가 최근 프런티어 강화학습(RL)",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=jnHT1AonyGw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T09:00:38.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:066805372303cb514ac6a19deda65f87447e00d1332148aa8f7b9d2b4cfc06fc",
+      "dedupeKey": "brief:opp_226f5af71d9dffe037af:sha256:066805372303cb514ac6a19deda65f87447e00d1332148aa8f7b9d2b4cfc06fc",
+      "firstSeenAt": "2026-09-05T09:05:42.640Z",
+      "lastSeenAt": "2026-09-05T09:05:42.640Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_53829017e256699beca4": {
+      "id": "opp_53829017e256699beca4",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:1UWfUAFsB6Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1UWfUAFsB6Q",
+      "title": "힉스필드 이 4가지 모르면 크레딧 날립니다",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T06:30:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이 영상은 힉스필드의 지원을 받아 제작하였습니다. Higgsfield Genjutsu 7일 무제한 생성, 최대 70% 할인 👉 https://higgsfield.ai/s/higgsfield-genjutsu-yt-midnightlog-official-UWAWhX (꼭 필요한 분들만 참고하셔요. 위 링크로 들어가야 할인이 적용됩니다.) 돌 지난 아기 홈비디오 하나로 설산과 한강을 만들었습니다. 그 과정에서 크레딧을 태운 실수 네 개와 그걸 피하는 방법을 정리했습니다. 힉스필드를 처음 쓰시는 분이 이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1UWfUAFsB6Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T06:30:35.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a6a5b7fb7d94fa0ee1d8e9a854e22daaf7d086f896dfb85b3696b6c3c80028e6",
+      "dedupeKey": "brief:opp_53829017e256699beca4:sha256:a6a5b7fb7d94fa0ee1d8e9a854e22daaf7d086f896dfb85b3696b6c3c80028e6",
+      "firstSeenAt": "2026-09-05T09:05:42.640Z",
+      "lastSeenAt": "2026-09-05T09:05:42.640Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5b7517b4b476a8a62141": {
+      "id": "opp_5b7517b4b476a8a62141",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:imuNtB_C72A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=imuNtB_C72A",
+      "title": "GPT6 Astra, 인간 일자리 대체의 시작인가... 5일 동안 쉬지않고 일한 후 미친 결과 | 10만 GPU로 만든 ‘일하는 AI’의 등장 | 구글, 앤트로픽 전략 차이",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T06:41:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "GPT-6 Astra가 공개됐습니다. 이번 모델은 단순히 질문에 더 잘 답하는 것보다, 컴퓨터를 직접 사용하면서 긴 작업을 끝까지 이어가는 능력에서 큰 변화를 보여줬습니다. 초기 사용자 사례에서는 하나의 목표를 닷새 동안 이어서 작업했고, Blender에서 만든 3D 공간을 Unreal Engine 5로 옮기는 데모도 공개됐습니다. GPT-6의 사전학습에는 10만 개가 넘는 GPU가 투입됐지만, 모든 종합 벤치마크에서 Claude를 압도한 것은 아닙니다. 대신 여러 프로그램을 오가며 업무를 완료하",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=imuNtB_C72A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T06:41:06.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:76e3c49bb35253feb99e16fe31a582a3237ccde639e6944e817c42d6d1c1eaa0",
+      "dedupeKey": "brief:opp_5b7517b4b476a8a62141:sha256:76e3c49bb35253feb99e16fe31a582a3237ccde639e6944e817c42d6d1c1eaa0",
+      "firstSeenAt": "2026-09-05T09:05:42.640Z",
+      "lastSeenAt": "2026-09-05T09:05:42.640Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -45299,6 +45507,30 @@
       "opportunityId": "opp_36369354659d1534ce61",
       "sentAt": "2026-09-05T03:25:45.052Z",
       "messageId": "1545636036988764161"
+    },
+    "brief:opp_5b7517b4b476a8a62141:sha256:76e3c49bb35253feb99e16fe31a582a3237ccde639e6944e817c42d6d1c1eaa0": {
+      "status": "SENT",
+      "opportunityId": "opp_5b7517b4b476a8a62141",
+      "sentAt": "2026-09-05T09:05:42.640Z",
+      "messageId": "1545721581517410336"
+    },
+    "brief:opp_226f5af71d9dffe037af:sha256:066805372303cb514ac6a19deda65f87447e00d1332148aa8f7b9d2b4cfc06fc": {
+      "status": "SENT",
+      "opportunityId": "opp_226f5af71d9dffe037af",
+      "sentAt": "2026-09-05T09:05:42.640Z",
+      "messageId": "1545721581517410336"
+    },
+    "brief:opp_53829017e256699beca4:sha256:a6a5b7fb7d94fa0ee1d8e9a854e22daaf7d086f896dfb85b3696b6c3c80028e6": {
+      "status": "SENT",
+      "opportunityId": "opp_53829017e256699beca4",
+      "sentAt": "2026-09-05T09:05:42.640Z",
+      "messageId": "1545721581517410336"
+    },
+    "brief:opp_3ee58d69629fc5626d49:sha256:96daef90d4cd7993293804b656d30cb17bda0afd08f1390f45743c56d1e8960e": {
+      "status": "SENT",
+      "opportunityId": "opp_3ee58d69629fc5626d49",
+      "sentAt": "2026-09-05T09:05:42.640Z",
+      "messageId": "1545721581517410336"
     }
   },
   "pending": {},
