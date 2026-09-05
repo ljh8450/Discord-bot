@@ -41047,6 +41047,259 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_2a8ea35ba965e65dc469": {
+      "id": "opp_2a8ea35ba965e65dc469",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33247",
+      "canonicalUrl": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "title": "Claude Code,Codex,Cursor는 어떤 도구를 선택할까? 1만7천 회 실행 분석",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T11:32:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "75개 저장소와 1,163개 프롬프트 변형으로 진행한 16,893회 실험 가운데, 51개 코드베이스·18개 분야의 유효 세션 5,292개를 1차 분석함 정보 탐색...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33247"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d0ea173c6918f68eb2f31bc4086b1907490000780ea7ac0dbec131ce81c18d5c",
+      "dedupeKey": "brief:opp_2a8ea35ba965e65dc469:sha256:d0ea173c6918f68eb2f31bc4086b1907490000780ea7ac0dbec131ce81c18d5c",
+      "firstSeenAt": "2026-09-05T12:21:04.560Z",
+      "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0b1096de2473060bbdbd": {
+      "id": "opp_0b1096de2473060bbdbd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33235",
+      "canonicalUrl": "https://news.hada.io/topic?id=33235",
+      "title": "Show GN: FlowSuite - 노코드 화면 자동화, AI 파일 정리 등 윈도우 생산성 도구 모음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T01:43:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "업무를 하면서 매일 반복되는 단순 웹/시스템 로그인, 엑셀 취합, 지루한 클릭 노가다와 어지러운 다운로드 폴더 정리에 피로감을 느껴 주말마다 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33235"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c808a1a2227a5a5f4494cec0d0d215fb1f7d55daf622309be2a245a71007a5e6",
+      "dedupeKey": "brief:opp_0b1096de2473060bbdbd:sha256:c808a1a2227a5a5f4494cec0d0d215fb1f7d55daf622309be2a245a71007a5e6",
+      "firstSeenAt": "2026-09-05T12:21:04.560Z",
+      "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_340ac8f7a95af8682b0a": {
+      "id": "opp_340ac8f7a95af8682b0a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33225",
+      "canonicalUrl": "https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop",
+      "title": "모든 글에 AI를 쓰면서도 ‘AI 슬롭’을 피하는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T22:27:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Ahrefs는 모든 글에 AI를 활용하고 6~12분 만에 조사부터 팩트체크까지 수행하는 파이프라인도 갖췄지만, 이를 수만 개의 글을 자동 발행하는 데 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33225"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5cc4488e0833ce190f58a1d8ff0648f9d063b0466a95b82d83f7865c5c482fad",
+      "dedupeKey": "brief:opp_340ac8f7a95af8682b0a:sha256:5cc4488e0833ce190f58a1d8ff0648f9d063b0466a95b82d83f7865c5c482fad",
+      "firstSeenAt": "2026-09-05T12:21:04.560Z",
+      "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ea3ba736ba28dbad9521": {
+      "id": "opp_ea3ba736ba28dbad9521",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:EzkYQvMXzAc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EzkYQvMXzAc",
+      "title": "[한영자막] [샘 알트만 인터뷰 Part 3] 샘 알트만이 밝힌 OpenAI 차세대 모델 '아스트라' & 새로운 하드웨어 비전",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T11:00:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🎬 [샘 알트만 인터뷰 3부작 시리즈] • Part 1 (훈련 중단 이유): https://www.youtube.com/watch?v=jnHT1AonyGw • Part 2 (AGI vs 초지능 & 실책 고백): https://www.youtube.com/watch?v=Pj_y9zEPv5k • Part 3 (아스트라 & 하드웨어 비전): https://www.youtube.com/watch?v=EzkYQvMXzAc 샘 알트만(Sam Altman) OpenAI CEO가 차세대 모델 '아스트라(Ast",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=EzkYQvMXzAc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T11:00:05.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dedaac44711ad768547bb3585b0991b8c1d8ac63a44f057ee386de77cb4a7718",
+      "dedupeKey": "brief:opp_ea3ba736ba28dbad9521:sha256:dedaac44711ad768547bb3585b0991b8c1d8ac63a44f057ee386de77cb4a7718",
+      "firstSeenAt": "2026-09-05T12:21:04.560Z",
+      "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_75ee44c06421e7f60b6a": {
+      "id": "opp_75ee44c06421e7f60b6a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Pj_y9zEPv5k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Pj_y9zEPv5k",
+      "title": "[한영자막] [샘 알트만 인터뷰 Part 2] 샘 알트만이 말하는 AGI와 초지능의 차이 & OpenAI의 지난 1년간의 실수",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T10:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "🎬 [샘 알트만 인터뷰 3부작 시리즈] • Part 1 (훈련 중단 이유): https://www.youtube.com/watch?v=jnHT1AonyGw • Part 2 (AGI vs 초지능 & 실책 고백): https://www.youtube.com/watch?v=Pj_y9zEPv5k • Part 3 (아스트라 & 하드웨어 비전): https://www.youtube.com/watch?v=EzkYQvMXzAc 샘 알트만(Sam Altman) OpenAI CEO가 AGI와 초지능(Superin",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Pj_y9zEPv5k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T11:00:05.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:54a35224f24ce7ae95ffb91957ac1f5f82cc955f600b765d173cd4024ad1d863",
+      "dedupeKey": "brief:opp_75ee44c06421e7f60b6a:sha256:54a35224f24ce7ae95ffb91957ac1f5f82cc955f600b765d173cd4024ad1d863",
+      "firstSeenAt": "2026-09-05T12:21:04.560Z",
+      "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -45531,6 +45784,30 @@
       "opportunityId": "opp_3ee58d69629fc5626d49",
       "sentAt": "2026-09-05T09:05:42.640Z",
       "messageId": "1545721581517410336"
+    },
+    "brief:opp_ea3ba736ba28dbad9521:sha256:dedaac44711ad768547bb3585b0991b8c1d8ac63a44f057ee386de77cb4a7718": {
+      "status": "SENT",
+      "opportunityId": "opp_ea3ba736ba28dbad9521",
+      "sentAt": "2026-09-05T12:21:04.560Z",
+      "messageId": "1545770746603774104"
+    },
+    "brief:opp_75ee44c06421e7f60b6a:sha256:54a35224f24ce7ae95ffb91957ac1f5f82cc955f600b765d173cd4024ad1d863": {
+      "status": "SENT",
+      "opportunityId": "opp_75ee44c06421e7f60b6a",
+      "sentAt": "2026-09-05T12:21:04.560Z",
+      "messageId": "1545770746603774104"
+    },
+    "brief:opp_2a8ea35ba965e65dc469:sha256:d0ea173c6918f68eb2f31bc4086b1907490000780ea7ac0dbec131ce81c18d5c": {
+      "status": "SENT",
+      "opportunityId": "opp_2a8ea35ba965e65dc469",
+      "sentAt": "2026-09-05T12:21:04.560Z",
+      "messageId": "1545770746603774104"
+    },
+    "brief:opp_0b1096de2473060bbdbd:sha256:c808a1a2227a5a5f4494cec0d0d215fb1f7d55daf622309be2a245a71007a5e6": {
+      "status": "SENT",
+      "opportunityId": "opp_0b1096de2473060bbdbd",
+      "sentAt": "2026-09-05T12:21:04.560Z",
+      "messageId": "1545770746603774104"
     }
   },
   "pending": {},
