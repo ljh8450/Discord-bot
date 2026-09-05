@@ -40312,7 +40312,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 9,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -40326,11 +40326,11 @@
       },
       "contentHash": "sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977",
       "dedupeKey": "brief:opp_e84b11641953986d9650:sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977",
-      "firstSeenAt": "2026-09-04T13:07:49.650Z",
-      "lastSeenAt": "2026-09-04T13:07:49.650Z",
+      "firstSeenAt": "2026-09-05T00:06:16.195Z",
+      "lastSeenAt": "2026-09-05T00:06:16.195Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -40409,14 +40409,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 4,
-        "contentScore": 12,
+        "communityPoints": 16,
+        "communityRank": 5,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -40424,8 +40424,8 @@
       },
       "contentHash": "sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
       "dedupeKey": "brief:opp_36369354659d1534ce61:sha256:9696e444beb7728c3f9512d984f9ae3b14b7d80705bec9ff64640e64134aba19",
-      "firstSeenAt": "2026-09-04T13:07:49.650Z",
-      "lastSeenAt": "2026-09-04T13:07:49.650Z",
+      "firstSeenAt": "2026-09-05T00:06:16.195Z",
+      "lastSeenAt": "2026-09-05T00:06:16.195Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -40613,8 +40613,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 12,
+        "communityPoints": 7,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -40628,11 +40628,112 @@
       },
       "contentHash": "sha256:e0daf1297416ee4786d399cdd7dcff2ac503decee7a717bc4988aa9f6fc0e078",
       "dedupeKey": "brief:opp_0bcfe2200ae4a0b51d82:sha256:e0daf1297416ee4786d399cdd7dcff2ac503decee7a717bc4988aa9f6fc0e078",
-      "firstSeenAt": "2026-09-04T13:07:49.650Z",
-      "lastSeenAt": "2026-09-04T13:07:49.650Z",
+      "firstSeenAt": "2026-09-05T00:06:16.195Z",
+      "lastSeenAt": "2026-09-05T00:06:16.195Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9a4d035fe57b71fe9c20": {
+      "id": "opp_9a4d035fe57b71fe9c20",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98615",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 04 Sep 2026 16:04:14 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-mo",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cbba16d8a491cb75555e9e072a207413f11d02873c30461db5f5a83fb672e3c5",
+      "dedupeKey": "brief:opp_9a4d035fe57b71fe9c20:sha256:cbba16d8a491cb75555e9e072a207413f11d02873c30461db5f5a83fb672e3c5",
+      "firstSeenAt": "2026-09-05T00:06:16.195Z",
+      "lastSeenAt": "2026-09-05T00:06:16.195Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6d528341d3264fd1e7c5": {
+      "id": "opp_6d528341d3264fd1e7c5",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ss4lbO8M8wk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ss4lbO8M8wk",
+      "title": "[한영자막] 바이브 코딩 생산성을 10배 끌어올리는 역대급 Claude 스킬 6가지입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-04T23:00:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code 기반 바이브 코딩(Vibe Coding)의 생산성을 극대화해 주는 핵심 에이전트 스킬 6가지를 소개합니다. 기존 작업 방식을 바꾸지 않고도 에이전트가 알아서 스킬을 개선하고, 제품 전환율을 높이며, 코딩 규칙을 지키고, 웹사이트를 직접 제어하게 만드는 실전 활용법을 확인해 보세요. 📌 주요 내용: • Task Observer: 작업 중 실수와 교훈을 자동 감지해 스킬을 지속적으로 진화시키는 스킬 • 인앱 마케팅 스킬 3종: 5단계 가입을 1개로 줄이는 온보딩, 미리보기형 페",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ss4lbO8M8wk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-04T23:00:16.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b0bace91302a6cbadc01dcee1e282a254bb33036abdfb212714a68ddb0ab68dd",
+      "dedupeKey": "brief:opp_6d528341d3264fd1e7c5:sha256:b0bace91302a6cbadc01dcee1e282a254bb33036abdfb212714a68ddb0ab68dd",
+      "firstSeenAt": "2026-09-05T00:06:16.195Z",
+      "lastSeenAt": "2026-09-05T00:06:16.195Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -45053,6 +45154,30 @@
       "opportunityId": "opp_e3743ca8cd8b874382f3",
       "sentAt": "2026-09-04T13:07:49.650Z",
       "messageId": "1545420123786190899"
+    },
+    "brief:opp_9a4d035fe57b71fe9c20:sha256:cbba16d8a491cb75555e9e072a207413f11d02873c30461db5f5a83fb672e3c5": {
+      "status": "SENT",
+      "opportunityId": "opp_9a4d035fe57b71fe9c20",
+      "sentAt": "2026-09-05T00:06:16.195Z",
+      "messageId": "1545585826015223931"
+    },
+    "brief:opp_6d528341d3264fd1e7c5:sha256:b0bace91302a6cbadc01dcee1e282a254bb33036abdfb212714a68ddb0ab68dd": {
+      "status": "SENT",
+      "opportunityId": "opp_6d528341d3264fd1e7c5",
+      "sentAt": "2026-09-05T00:06:16.195Z",
+      "messageId": "1545585826015223931"
+    },
+    "brief:opp_0bcfe2200ae4a0b51d82:sha256:e0daf1297416ee4786d399cdd7dcff2ac503decee7a717bc4988aa9f6fc0e078": {
+      "status": "SENT",
+      "opportunityId": "opp_0bcfe2200ae4a0b51d82",
+      "sentAt": "2026-09-05T00:06:16.195Z",
+      "messageId": "1545585826015223931"
+    },
+    "brief:opp_e84b11641953986d9650:sha256:362ac521efc6b03064b3e02c8056da9063a03de17599a7eb1873ac7398034977": {
+      "status": "SENT",
+      "opportunityId": "opp_e84b11641953986d9650",
+      "sentAt": "2026-09-05T00:06:16.195Z",
+      "messageId": "1545585826015223931"
     }
   },
   "pending": {},
