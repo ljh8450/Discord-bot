@@ -41455,6 +41455,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_1685f4666abfea288462": {
+      "id": "opp_1685f4666abfea288462",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33263",
+      "canonicalUrl": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "title": "AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T02:37:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI SRE가 경보 분석부터 가설 수립, 텔레메트리 조회, 배포 내역 연계, 수정까지 맡으면 평균 복구 시간은 줄어들지만, 엔지니어가 시스템의 동작...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33263"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9e2055dd17dded06766ab9e2cb79326d2c63b0179a7522b32dd4782357d878e6",
+      "dedupeKey": "brief:opp_1685f4666abfea288462:sha256:9e2055dd17dded06766ab9e2cb79326d2c63b0179a7522b32dd4782357d878e6",
+      "firstSeenAt": "2026-09-06T09:06:02.797Z",
+      "lastSeenAt": "2026-09-06T09:06:02.797Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c4b9c90a3513ce513a34": {
+      "id": "opp_c4b9c90a3513ce513a34",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:I57mRWlOV_w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=I57mRWlOV_w",
+      "title": "[한영자막] 일론 머스크가 G20에서 밝힌 AI의 미래, 생각보다 훨씬 빨리 옵니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T09:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "G20 기술 회의에 화상으로 참석한 일론 머스크가 AI와 휴머노이드 로봇, 그리고 다가올 전력 위기에 대한 파격적인 미래 전망을 내놓았습니다. 소프트웨어 개발에서 인간이 AI를 이길 수 없게 되는 시점부터, 전 인류의 생산성을 압도할 10억 대의 로봇 시대까지 그가 제시한 구체적인 타임라인과 핵심 통찰을 전해드립니다. 📌 주요 내용: • AI가 견인할 경제 성장: 글로벌 경제 20~30%(연간 20~30조 달러) 부가가치 창출 • '스톡피시(Stockfish)급' 코딩 AI: 12~18개월 내",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=I57mRWlOV_w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-06T09:00:22.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:36b4b511ff21c7dcb65aff893e8c6cb1c10c6f918e7891cdcd307c9f398c5692",
+      "dedupeKey": "brief:opp_c4b9c90a3513ce513a34:sha256:36b4b511ff21c7dcb65aff893e8c6cb1c10c6f918e7891cdcd307c9f398c5692",
+      "firstSeenAt": "2026-09-06T09:06:02.797Z",
+      "lastSeenAt": "2026-09-06T09:06:02.797Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_65d5271e37d82c759287": {
+      "id": "opp_65d5271e37d82c759287",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:UnWoCJPRjYg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UnWoCJPRjYg",
+      "title": "IT뉴스 - GPT-6 Astra 미쳤다, Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3, World Labs Atlas 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T09:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - GPT-6 Astra 미쳤다, Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3, World Labs Atlas 등",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=UnWoCJPRjYg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-06T09:00:37.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:53980ceb7bd91793f65b210cf71c2a1de0ac8b1fc8f858db55d50d1053be33f3",
+      "dedupeKey": "brief:opp_65d5271e37d82c759287:sha256:53980ceb7bd91793f65b210cf71c2a1de0ac8b1fc8f858db55d50d1053be33f3",
+      "firstSeenAt": "2026-09-06T09:06:02.797Z",
+      "lastSeenAt": "2026-09-06T09:06:02.797Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -45987,6 +46142,24 @@
       "opportunityId": "opp_9d4018cede0b6ccfeb75",
       "sentAt": "2026-09-06T03:25:49.336Z",
       "messageId": "1545998433158955131"
+    },
+    "brief:opp_65d5271e37d82c759287:sha256:53980ceb7bd91793f65b210cf71c2a1de0ac8b1fc8f858db55d50d1053be33f3": {
+      "status": "SENT",
+      "opportunityId": "opp_65d5271e37d82c759287",
+      "sentAt": "2026-09-06T09:06:02.797Z",
+      "messageId": "1546084054871580733"
+    },
+    "brief:opp_c4b9c90a3513ce513a34:sha256:36b4b511ff21c7dcb65aff893e8c6cb1c10c6f918e7891cdcd307c9f398c5692": {
+      "status": "SENT",
+      "opportunityId": "opp_c4b9c90a3513ce513a34",
+      "sentAt": "2026-09-06T09:06:02.797Z",
+      "messageId": "1546084054871580733"
+    },
+    "brief:opp_1685f4666abfea288462:sha256:9e2055dd17dded06766ab9e2cb79326d2c63b0179a7522b32dd4782357d878e6": {
+      "status": "SENT",
+      "opportunityId": "opp_1685f4666abfea288462",
+      "sentAt": "2026-09-06T09:06:02.797Z",
+      "messageId": "1546084054871580733"
     }
   },
   "pending": {},
