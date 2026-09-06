@@ -41172,26 +41172,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 15,
+        "communityPoints": 10,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:5cc4488e0833ce190f58a1d8ff0648f9d063b0466a95b82d83f7865c5c482fad",
       "dedupeKey": "brief:opp_340ac8f7a95af8682b0a:sha256:5cc4488e0833ce190f58a1d8ff0648f9d063b0466a95b82d83f7865c5c482fad",
-      "firstSeenAt": "2026-09-05T12:21:04.560Z",
-      "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "firstSeenAt": "2026-09-06T03:25:49.336Z",
+      "lastSeenAt": "2026-09-06T03:25:49.336Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -41295,6 +41295,161 @@
       "dedupeKey": "brief:opp_75ee44c06421e7f60b6a:sha256:54a35224f24ce7ae95ffb91957ac1f5f82cc955f600b765d173cd4024ad1d863",
       "firstSeenAt": "2026-09-05T12:21:04.560Z",
       "lastSeenAt": "2026-09-05T12:21:04.560Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d4018cede0b6ccfeb75": {
+      "id": "opp_9d4018cede0b6ccfeb75",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33244",
+      "canonicalUrl": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "title": "AI 시대에 코드 리뷰에서 살아남는 방법은?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T09:03:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "동료들이 AI를 적극 활용하면서 리뷰할 PR이 평균 약 6,000줄의 diff로 커졌고, 효과적인 검토가 어려운 상황임 사람이 구축 중인 시스템의 작동 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33244"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 9,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:238c5aea32bc55e22f4709b1aa7b092d8d77f90a7c6b2ad721b1cec25909c4cf",
+      "dedupeKey": "brief:opp_9d4018cede0b6ccfeb75:sha256:238c5aea32bc55e22f4709b1aa7b092d8d77f90a7c6b2ad721b1cec25909c4cf",
+      "firstSeenAt": "2026-09-06T03:25:49.336Z",
+      "lastSeenAt": "2026-09-06T03:25:49.336Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_40d6ac2ccfcc2557e6b0": {
+      "id": "opp_40d6ac2ccfcc2557e6b0",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ap4fr5RYTCk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ap4fr5RYTCk",
+      "title": "[한영자막] 엔비디아 젠슨 황이 G20에서 \"우리는 이미 AGI에 도달했습니다\"라고 말한 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-05T23:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아 CEO 젠슨 황이 미국 채플힐에서 열린 G20 혁신 장관 회의에서 하워드 러트닉 미국 상무장관과 함께 AI의 미래와 글로벌 인프라의 핵심을 밝혔습니다. \"우리는 사실상 이미 AGI에 도달했다\"는 선언과 함께, 일자리 소멸론이 왜 터무니없는 주장인지 명쾌한 통찰을 전합니다. 📌 주요 포인트: • AI는 에너지부터 응용 프로그램까지 5단 케이크 구조입니다. 각국은 모든 층을 개발할 필요 없이 자국 산업에 맞춰 전략적으로 도입해야 합니다. • 대규모 언어 모델(LLM)에 에이전트 하네스를 결",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ap4fr5RYTCk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-05T23:00:28.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:972a531f77b8b429f2f89c982f2dee92055e14281fc82497f998f1a35903ec36",
+      "dedupeKey": "brief:opp_40d6ac2ccfcc2557e6b0:sha256:972a531f77b8b429f2f89c982f2dee92055e14281fc82497f998f1a35903ec36",
+      "firstSeenAt": "2026-09-06T03:25:49.336Z",
+      "lastSeenAt": "2026-09-06T03:25:49.336Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_686555435b8dfafa6ddf": {
+      "id": "opp_686555435b8dfafa6ddf",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:rWLlp2gw6og",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rWLlp2gw6og",
+      "title": "한 번 찍은 영상으로 광고 여러 편 — Higgsfield Genjutsu로 인물·장소 바꾸기",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T02:57:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "한 번 찍은 영상에서 인물과 장소만 바꿔 광고를 여러 편으로 만들었습니다. 카메라 움직임과 편집은 그대로입니다. ▶ Higgsfield Genjutsu 시작하기 (7일 무제한 생성 · 70% 할인) https://higgsfield.ai/s/higgsfield-genjutsu-yt-ai-agentos-SaBwCV ※ 이 영상은 Higgsfield의 유료 광고를 포함하고 있습니다. ━━━━━━━━━━━━━━━━━━━━ Higgsfield Genjutsu는 이미 찍어둔 영상을 넣으면 카메라 움직임,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=rWLlp2gw6og"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-06T02:57:10.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e5f5d057ed8e5e725f0b8b3dff435cbf9d5bc09bd5739baf60e39f3b90f09e80",
+      "dedupeKey": "brief:opp_686555435b8dfafa6ddf:sha256:e5f5d057ed8e5e725f0b8b3dff435cbf9d5bc09bd5739baf60e39f3b90f09e80",
+      "firstSeenAt": "2026-09-06T03:25:49.336Z",
+      "lastSeenAt": "2026-09-06T03:25:49.336Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -45808,6 +45963,30 @@
       "opportunityId": "opp_0b1096de2473060bbdbd",
       "sentAt": "2026-09-05T12:21:04.560Z",
       "messageId": "1545770746603774104"
+    },
+    "brief:opp_686555435b8dfafa6ddf:sha256:e5f5d057ed8e5e725f0b8b3dff435cbf9d5bc09bd5739baf60e39f3b90f09e80": {
+      "status": "SENT",
+      "opportunityId": "opp_686555435b8dfafa6ddf",
+      "sentAt": "2026-09-06T03:25:49.336Z",
+      "messageId": "1545998433158955131"
+    },
+    "brief:opp_40d6ac2ccfcc2557e6b0:sha256:972a531f77b8b429f2f89c982f2dee92055e14281fc82497f998f1a35903ec36": {
+      "status": "SENT",
+      "opportunityId": "opp_40d6ac2ccfcc2557e6b0",
+      "sentAt": "2026-09-06T03:25:49.336Z",
+      "messageId": "1545998433158955131"
+    },
+    "brief:opp_340ac8f7a95af8682b0a:sha256:5cc4488e0833ce190f58a1d8ff0648f9d063b0466a95b82d83f7865c5c482fad": {
+      "status": "SENT",
+      "opportunityId": "opp_340ac8f7a95af8682b0a",
+      "sentAt": "2026-09-06T03:25:49.336Z",
+      "messageId": "1545998433158955131"
+    },
+    "brief:opp_9d4018cede0b6ccfeb75:sha256:238c5aea32bc55e22f4709b1aa7b092d8d77f90a7c6b2ad721b1cec25909c4cf": {
+      "status": "SENT",
+      "opportunityId": "opp_9d4018cede0b6ccfeb75",
+      "sentAt": "2026-09-06T03:25:49.336Z",
+      "messageId": "1545998433158955131"
     }
   },
   "pending": {},
