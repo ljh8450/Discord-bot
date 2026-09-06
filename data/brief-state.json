@@ -41610,6 +41610,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_14e6ca9c6ce110fdbfa7": {
+      "id": "opp_14e6ca9c6ce110fdbfa7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33266",
+      "canonicalUrl": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+      "title": "삶의 진정한 사치",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T06:31:30+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "60세를 지나 61세를 앞두면서 삶에서 진정으로 중요한 것을 더 자주 돌아보게 됨 진정한 사치는 물질보다 시간·건강·고요한 마음처럼 일상을 안정...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33266"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a4e97c429631d6c9fd5e382fcf3f46a442d0d8cc62e1c99042acba01e4f0c979",
+      "dedupeKey": "brief:opp_14e6ca9c6ce110fdbfa7:sha256:a4e97c429631d6c9fd5e382fcf3f46a442d0d8cc62e1c99042acba01e4f0c979",
+      "firstSeenAt": "2026-09-06T12:35:54.350Z",
+      "lastSeenAt": "2026-09-06T12:35:54.350Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd1c53f5255336720d19": {
+      "id": "opp_cd1c53f5255336720d19",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:fNIYliCqEzE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fNIYliCqEzE",
+      "title": "[LIVE] AI 인플루언서 H3 실시간 생성 테스트 (ft. RTX Pro 6000 Blackwell, Qwen 3.8)",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T10:40:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] AI 인플루언서 H3 실시간 생성 테스트 (ft. RTX Pro 6000 Blackwell, Qwen 3.8)",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fNIYliCqEzE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-06T10:40:16.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:165df0166c800fb420cdb25ac8a3e6c7265b9011d4cbd735f950020d00b47e76",
+      "dedupeKey": "brief:opp_cd1c53f5255336720d19:sha256:165df0166c800fb420cdb25ac8a3e6c7265b9011d4cbd735f950020d00b47e76",
+      "firstSeenAt": "2026-09-06T12:35:54.350Z",
+      "lastSeenAt": "2026-09-06T12:35:54.350Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a45f29d661c81b28cb74": {
+      "id": "opp_a45f29d661c81b28cb74",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:2wdo4COWh-k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2wdo4COWh-k",
+      "title": "구글 브레인 창립자 앤드류 응이 계산한 AI 일자리 산수 — 40%가 자동화되면 나머지 60%는 더 비싸집니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T11:32:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 내 일의 40%를 대신하면 일자리도 40% 줄어드는 걸까요. 2011년 구글 브레인을 만든 앤드류 응의 계산은 반대입니다. 40%가 싸지는 순간 나머지 60%는 경제적 보완재가 되어 더 비싸진다는 것. 응이 2026년 8월 말 실리콘밸리 걸과 한 37분 인터뷰를 순서대로 따라가며, AI 공포의 출처, 일자리 산수, 그리고 \"AI를 쓰는 사람\"이 아니라 \"AI로 만드는 사람\"이 되라는 그의 조언을 정리합니다. ▶ 원본 인터뷰 (영어) \"Andrew Ng: The Biggest Opportun",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2wdo4COWh-k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-06T11:32:16.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6623481785773b8afb3726a775b495ec69abbc7ab137a53965383e5dfa045913",
+      "dedupeKey": "brief:opp_a45f29d661c81b28cb74:sha256:6623481785773b8afb3726a775b495ec69abbc7ab137a53965383e5dfa045913",
+      "firstSeenAt": "2026-09-06T12:35:54.350Z",
+      "lastSeenAt": "2026-09-06T12:35:54.350Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -46160,6 +46315,24 @@
       "opportunityId": "opp_1685f4666abfea288462",
       "sentAt": "2026-09-06T09:06:02.797Z",
       "messageId": "1546084054871580733"
+    },
+    "brief:opp_a45f29d661c81b28cb74:sha256:6623481785773b8afb3726a775b495ec69abbc7ab137a53965383e5dfa045913": {
+      "status": "SENT",
+      "opportunityId": "opp_a45f29d661c81b28cb74",
+      "sentAt": "2026-09-06T12:35:54.350Z",
+      "messageId": "1546136866733039717"
+    },
+    "brief:opp_cd1c53f5255336720d19:sha256:165df0166c800fb420cdb25ac8a3e6c7265b9011d4cbd735f950020d00b47e76": {
+      "status": "SENT",
+      "opportunityId": "opp_cd1c53f5255336720d19",
+      "sentAt": "2026-09-06T12:35:54.350Z",
+      "messageId": "1546136866733039717"
+    },
+    "brief:opp_14e6ca9c6ce110fdbfa7:sha256:a4e97c429631d6c9fd5e382fcf3f46a442d0d8cc62e1c99042acba01e4f0c979": {
+      "status": "SENT",
+      "opportunityId": "opp_14e6ca9c6ce110fdbfa7",
+      "sentAt": "2026-09-06T12:35:54.350Z",
+      "messageId": "1546136866733039717"
     }
   },
   "pending": {},
