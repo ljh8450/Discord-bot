@@ -41990,26 +41990,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
-        "contentScore": 11,
+        "communityPoints": 14,
+        "communityRank": 1,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:e4a225ceb074122b2c755afde39685118d5f2d3a9725c9246bbaff2f816092ec",
       "dedupeKey": "brief:opp_0cb062634dcc4260a1b2:sha256:e4a225ceb074122b2c755afde39685118d5f2d3a9725c9246bbaff2f816092ec",
-      "firstSeenAt": "2026-09-07T03:25:31.273Z",
-      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -42088,23 +42088,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 10,
         "communityRank": 4,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b",
       "dedupeKey": "brief:opp_cd2e7a97e3bd4262568a:sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b",
-      "firstSeenAt": "2026-09-07T03:25:31.273Z",
-      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -42207,6 +42207,451 @@
       "dedupeKey": "brief:opp_a0fa8e3229659fcc02fe:sha256:888df203e630940ead30f1e0ab66eb04525124a4dd1fa610beff97b914b10a11",
       "firstSeenAt": "2026-09-07T03:25:31.273Z",
       "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_680b0be021534b136460": {
+      "id": "opp_680b0be021534b136460",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33293",
+      "canonicalUrl": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "title": "AI로 도구를 만드는 것과 기업을 바꾸는 것은 다른 일이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T06:46:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 도구를 쉽게 만들거나 업무를 직접 처리할 수 있어도, 어떤 도구가 필요한지 발견하고 조직 전체가 쓰게 만드는 일은 별개임 기업 소프트웨어...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33293"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:461dba635be8e3df6b614aeb7e132f3140d3cbbbca670727e68c71e03eee44f9",
+      "dedupeKey": "brief:opp_680b0be021534b136460:sha256:461dba635be8e3df6b614aeb7e132f3140d3cbbbca670727e68c71e03eee44f9",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_40eb8000184f64d08447": {
+      "id": "opp_40eb8000184f64d08447",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "canonicalUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "summaryEvidence": [
+        "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa9dd37026e5e4fe0f3bfa9264edc9d40aabd635126338693adcfd86fcaf815e",
+      "dedupeKey": "brief:opp_40eb8000184f64d08447:sha256:fa9dd37026e5e4fe0f3bfa9264edc9d40aabd635126338693adcfd86fcaf815e",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_570fde00e124987e5559": {
+      "id": "opp_570fde00e124987e5559",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "879f4a794caf9cf5bd80fd68a9ea174c02178db3",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/gsretail-aigateway-02",
+      "title": "GS리테일의 전사 AI Gateway 구축 사례 – 2부: 실사용을 견디는 운영과 거버넌스",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 08:30:07 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 GS리테일과 AWS의 협업으로 작성되었습니다. 이 글은 GS리테일의 전사 AI Gateway 구축 사례 1부: 인증·라우팅·계정 자동화 설계에 이어지는 두 번째 글입니다. 1부를 아직 보지 않으셨다면 먼저 읽어보시길 권해드립니다. 1부에서는 GS리테일 클라우드인프라팀이 사내 AI 도구 수요를 조직 차원에서 안전하게 받아내기 위해, 모든 AI 호출을 하나의 관문으로 모으는 전사 AI Gateway를 구축한 과정을 다뤘습니다. Claude on […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/gsretail-aigateway-02/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:31192fe4d4cdb486f784f153a70d3158d809f6cc86ede9c706a9c46444faa46f",
+      "dedupeKey": "brief:opp_570fde00e124987e5559:sha256:31192fe4d4cdb486f784f153a70d3158d809f6cc86ede9c706a9c46444faa46f",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b6f6b5dc66f7c564155a": {
+      "id": "opp_b6f6b5dc66f7c564155a",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "3cda9b943003643f6dcaf82887eed72237531130",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/gsretail-aigateway-01",
+      "title": "GS리테일의 전사 AI Gateway 구축 사례 – 1부: 인증·라우팅·계정 자동화 설계",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 08:27:21 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 GS리테일과 AWS의 협업으로 작성되었습니다. 다양한 AI 서비스를 안전하게 활용하기 위한 단일 운영 플랫폼 구축 수백 개 팀 계정의 AI 호출을 하나의 관문에서 인증·비용·쿼터 단위로 통제할 수 있을까요? 생성형 AI는 이제 기업의 업무 환경에 빠르게 자리 잡고 있습니다. 개발자는 코드 작성을 위해 AI를 활용하고, 기획자는 문서 작성과 아이디어 발굴에 AI를 사용하며, 데이터 분석가는 AI를 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/gsretail-aigateway-01/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:77ad7382b1ad24bde9db96b7d3834ab65149ae4479ac3062c042a9eeb9b1ab34",
+      "dedupeKey": "brief:opp_b6f6b5dc66f7c564155a:sha256:77ad7382b1ad24bde9db96b7d3834ab65149ae4479ac3062c042a9eeb9b1ab34",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d3721e7d95d618c2841e": {
+      "id": "opp_d3721e7d95d618c2841e",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "f8fd47d332c19459194f3a8958d18cc21db9abde",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/evaluate-ai-agent-search-quality-with-amazon-opensearch-service-2",
+      "title": "AI Agent를 위한 OpenSearch 검색 품질 개선하기 (Part 2)",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 07:06:14 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Rerank와 Weight 튜닝, 그리고 예상과 다른 결과들 1부에서는 Amazon OpenSearch Service와 Amazon Bedrock으로 검색 품질을 측정하는 시스템을 만들었습니다. 이제 측정할 수 있게 됐으니, 고객들은 자연스럽게 “그래서 어떻게 개선하지?” 를 묻게 됩니다. 이번 글에서는 측정 결과를 바탕으로 검색 품질을 실제로 끌어올리는 방법을 다룹니다. 사실 저는 이 테스트를 시작할 때 “검색 성능은 Rerank를 붙이면 당연히 좋아지겠지?” 라고 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/evaluate-ai-agent-search-quality-with-amazon-opensearch-service-2/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f85a80a1f55885f4bca2e2128bbf9191cf898310053dbaa7defe45c073accaf5",
+      "dedupeKey": "brief:opp_d3721e7d95d618c2841e:sha256:f85a80a1f55885f4bca2e2128bbf9191cf898310053dbaa7defe45c073accaf5",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8009481dbdef9a9d1baa": {
+      "id": "opp_8009481dbdef9a9d1baa",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "e32ba26365f73e423452512d73fdf00e8a3c4d6e",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-3-user-and-badge",
+      "title": "채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 3부",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 05:20:35 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 블로그는 Channel Corporation의 이해빈님, 박진영님과 함께 작성되었습니다. 채널코퍼레이션은 올인원 AI 메신저 ‘채널톡’을 운영하는 B2B SaaS 스타트업으로 Amazon DynamoDB의 수평 확장성, ACID 트랜잭션과 같은 특징을 활용해 빠르게 성장하는 비즈니스를 문제없이 수행하고 있습니다. 이 시리즈의 1부에서는 채널코퍼레이션이 Amazon DynamoDB를 선택한 이유와 Amazon DynamoDB에서 트랜잭션을 처리한 방법을 살펴보았습니다. 2부에서는 채널코퍼레이션이",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-3-user-and-badge/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd",
+      "dedupeKey": "brief:opp_8009481dbdef9a9d1baa:sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9d20dfc236737765a65f": {
+      "id": "opp_9d20dfc236737765a65f",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "0bd494ca53f65bb8ebb0c241ff9775f3eb2cee21",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/lg-energy-solution-price-prediction-agent",
+      "title": "가격 예측부터 입찰 전략까지, LG에너지솔루션의 Amazon Bedrock AgentCore 기반 ERCOT 분석 에이전트 구축기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 05:15:45 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "– 박경수(AWS Solutions Architect), 장현태(AWS Solutions Architect),, 백승연 (LG에너지솔루션, Product Owner) · 최수아 (LG에너지솔루션, Data Scientist “실시간으로 가격이 바뀌는 전력시장에서 최대 수익을 내려면 얼마에 입찰해야 할까? 그 가격을 예측하고 입찰 전략까지 분석해주는 에이전트가 있다면?” LG에너지솔루션 전력거래솔루션은 이 한 문장에서 출발했습니다. LG에너지솔루션은 배터리 셀부터 ESS(Energy Storage",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/lg-energy-solution-price-prediction-agent/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f708ced95a5616758c3ed0ab9842dc022011492e216e773593f3394c660bd2bf",
+      "dedupeKey": "brief:opp_9d20dfc236737765a65f:sha256:f708ced95a5616758c3ed0ab9842dc022011492e216e773593f3394c660bd2bf",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_05107efe43612b068965": {
+      "id": "opp_05107efe43612b068965",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=26835",
+      "canonicalUrl": "https://techblog.woowahan.com/26835",
+      "title": "문서로만 지키던 아키텍처 규칙, 테스트 코드로 강제하기",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T04:46:49.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며 제가 속한 파트너셀프서비스팀은 코딩 컨벤션을 사내 위키 문서와 AI 에이전트가 참조할 수 있는 규칙 문서에 정의해놓고 개발하고 있습니다. 하지만 그 규칙을 잘 지키고 있는지 확인하는 방법이 코드 리뷰뿐이었다는 점이 문제였습니다. 문서에 있는 규칙은 팀원들이 의식적으로 인지해서 코드를 작성하거나 리뷰를 받는 과정에서 반영해야 했습니다. AI 에이전트를 이용해 규칙을 주입하더라도 세션별 컨텍스트에 따라 규칙을 위반하는 경우가 […] The post 문서로만 지키던 아키텍처 규칙, 테스트 코드",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/26835/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d330137a6518b9baa7d8d788250acca59daf5f56a773582460558f31f0cad0ac",
+      "dedupeKey": "brief:opp_05107efe43612b068965:sha256:d330137a6518b9baa7d8d788250acca59daf5f56a773582460558f31f0cad0ac",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c56fae49aa3553b362c9": {
+      "id": "opp_c56fae49aa3553b362c9",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:zpGx_Db4FGo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zpGx_Db4FGo",
+      "title": "GPT6 Astra, 난리인 이유가 보이네요 | 진짜 좋아진 능력과 기술적 차이 | OpenAI만의 기술적 해자일까?",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T08:06:50+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "GPT-6 Astra 공개 이후 X를 중심으로 다양한 시연 영상이 빠르게 퍼지고 있습니다. 3D 공간을 만들고, 게임을 구현하고, 인체와 자동차를 직접 탐색하는 인터랙티브 화면까지 등장했습니다. 이번 영상에서는 화제가 된 시연들을 직접 보면서 Astra가 실제로 어떤 일을 맡고 있는지 살펴봤습니다. Three.js, Blender, KiCad, Onshape 같은 실제 제작 도구를 어떻게 활용하는지도 함께 봅니다. 기존 3D 데이터를 가져와 기능을 붙인 사례와 형상 자체를 코드로 만든 사례도 구분",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=zpGx_Db4FGo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-07T08:06:50.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1d5c53d118af0590927d8b2483c5636ae79459cad3639dd2ad26a24a879ed7e9",
+      "dedupeKey": "brief:opp_c56fae49aa3553b362c9:sha256:1d5c53d118af0590927d8b2483c5636ae79459cad3639dd2ad26a24a879ed7e9",
+      "firstSeenAt": "2026-09-07T09:05:28.205Z",
+      "lastSeenAt": "2026-09-07T09:05:28.205Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -46822,6 +47267,42 @@
       "opportunityId": "opp_b352d74abc49fe1ef2ee",
       "sentAt": "2026-09-07T03:25:31.273Z",
       "messageId": "1546360745019834471"
+    },
+    "brief:opp_d3721e7d95d618c2841e:sha256:f85a80a1f55885f4bca2e2128bbf9191cf898310053dbaa7defe45c073accaf5": {
+      "status": "SENT",
+      "opportunityId": "opp_d3721e7d95d618c2841e",
+      "sentAt": "2026-09-07T09:05:28.205Z",
+      "messageId": "1546446296544452671"
+    },
+    "brief:opp_9d20dfc236737765a65f:sha256:f708ced95a5616758c3ed0ab9842dc022011492e216e773593f3394c660bd2bf": {
+      "status": "SENT",
+      "opportunityId": "opp_9d20dfc236737765a65f",
+      "sentAt": "2026-09-07T09:05:28.205Z",
+      "messageId": "1546446296544452671"
+    },
+    "brief:opp_05107efe43612b068965:sha256:d330137a6518b9baa7d8d788250acca59daf5f56a773582460558f31f0cad0ac": {
+      "status": "SENT",
+      "opportunityId": "opp_05107efe43612b068965",
+      "sentAt": "2026-09-07T09:05:28.205Z",
+      "messageId": "1546446296544452671"
+    },
+    "brief:opp_40eb8000184f64d08447:sha256:fa9dd37026e5e4fe0f3bfa9264edc9d40aabd635126338693adcfd86fcaf815e": {
+      "status": "SENT",
+      "opportunityId": "opp_40eb8000184f64d08447",
+      "sentAt": "2026-09-07T09:05:28.205Z",
+      "messageId": "1546446296544452671"
+    },
+    "brief:opp_c56fae49aa3553b362c9:sha256:1d5c53d118af0590927d8b2483c5636ae79459cad3639dd2ad26a24a879ed7e9": {
+      "status": "SENT",
+      "opportunityId": "opp_c56fae49aa3553b362c9",
+      "sentAt": "2026-09-07T09:05:28.205Z",
+      "messageId": "1546446296544452671"
+    },
+    "brief:opp_0cb062634dcc4260a1b2:sha256:e4a225ceb074122b2c755afde39685118d5f2d3a9725c9246bbaff2f816092ec": {
+      "status": "SENT",
+      "opportunityId": "opp_0cb062634dcc4260a1b2",
+      "sentAt": "2026-09-07T09:05:28.205Z",
+      "messageId": "1546446296544452671"
     }
   },
   "pending": {},
