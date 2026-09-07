@@ -41765,6 +41765,155 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_d808d9008280507dfb76": {
+      "id": "opp_d808d9008280507dfb76",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/an-alien-mind",
+      "canonicalUrl": "https://openai.com/index/an-alien-mind",
+      "title": "An Alien Mind",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "summaryEvidence": [
+        "https://openai.com/index/an-alien-mind"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4a5c2fc4debf2c982fdb2ca5c7593a86ed409b1e2b15737f50ac77a1e2183419",
+      "dedupeKey": "brief:opp_d808d9008280507dfb76:sha256:4a5c2fc4debf2c982fdb2ca5c7593a86ed409b1e2b15737f50ac77a1e2183419",
+      "firstSeenAt": "2026-09-07T00:05:26.430Z",
+      "lastSeenAt": "2026-09-07T00:05:26.430Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a7cb081b25bf3dc6c120": {
+      "id": "opp_a7cb081b25bf3dc6c120",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "canonicalUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "summaryEvidence": [
+        "https://openai.com/index/research-acceleration-view-inside-openai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:25f95e71b9cdbbd0af2efa3bbb060bff12d60b7a4f0298558a3a4f7ac3624175",
+      "dedupeKey": "brief:opp_a7cb081b25bf3dc6c120:sha256:25f95e71b9cdbbd0af2efa3bbb060bff12d60b7a4f0298558a3a4f7ac3624175",
+      "firstSeenAt": "2026-09-07T00:05:26.430Z",
+      "lastSeenAt": "2026-09-07T00:05:26.430Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3e160542d820b1859c91": {
+      "id": "opp_3e160542d820b1859c91",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:fN_D7PgtUik",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fN_D7PgtUik",
+      "title": "[한영자막] 샘 올트먼이 밝힌 AI 대전환, 사상 최대의 경제적 붐이 찾아오는 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-06T23:00:01+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI CEO 샘 올트먼이 노스캐롤라이나주 채플힐에서 열린 G20 혁신 장관급 회의에서 미국 상무장관 하워드 러트닉과 특별 대담을 가졌습니다. 인공지능이 불러올 사상 최대 규모의 상거래 및 경제적 붐, 소상공인과 스타트업을 위한 혁신, 그리고 10년 후 AI가 전력망처럼 일상이 되는 미래 비전을 직접 확인해 보세요. 📌 주요 내용: • 딥러닝 혁명과 OpenAI 설립 비하인드 (GPT-1에서 GPT-4까지의 진화) • 스타트업 3개월 작업을 17분 만에 끝내는 AI 에이전트와 창업 붐 •",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fN_D7PgtUik"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-06T23:00:01.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f084eb361bd60c03b53d53b41d63550ae8061e7b8e1c228233c669b8b7cebc5",
+      "dedupeKey": "brief:opp_3e160542d820b1859c91:sha256:3f084eb361bd60c03b53d53b41d63550ae8061e7b8e1c228233c669b8b7cebc5",
+      "firstSeenAt": "2026-09-07T00:05:26.430Z",
+      "lastSeenAt": "2026-09-07T00:05:26.430Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -46333,6 +46482,24 @@
       "opportunityId": "opp_14e6ca9c6ce110fdbfa7",
       "sentAt": "2026-09-06T12:35:54.350Z",
       "messageId": "1546136866733039717"
+    },
+    "brief:opp_a7cb081b25bf3dc6c120:sha256:25f95e71b9cdbbd0af2efa3bbb060bff12d60b7a4f0298558a3a4f7ac3624175": {
+      "status": "SENT",
+      "opportunityId": "opp_a7cb081b25bf3dc6c120",
+      "sentAt": "2026-09-07T00:05:26.430Z",
+      "messageId": "1546310392337145879"
+    },
+    "brief:opp_3e160542d820b1859c91:sha256:3f084eb361bd60c03b53d53b41d63550ae8061e7b8e1c228233c669b8b7cebc5": {
+      "status": "SENT",
+      "opportunityId": "opp_3e160542d820b1859c91",
+      "sentAt": "2026-09-07T00:05:26.430Z",
+      "messageId": "1546310392337145879"
+    },
+    "brief:opp_d808d9008280507dfb76:sha256:4a5c2fc4debf2c982fdb2ca5c7593a86ed409b1e2b15737f50ac77a1e2183419": {
+      "status": "SENT",
+      "opportunityId": "opp_d808d9008280507dfb76",
+      "sentAt": "2026-09-07T00:05:26.430Z",
+      "messageId": "1546310392337145879"
     }
   },
   "pending": {},
