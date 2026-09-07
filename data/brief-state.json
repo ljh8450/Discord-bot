@@ -42088,8 +42088,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 4,
+        "communityPoints": 11,
+        "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -42103,11 +42103,11 @@
       },
       "contentHash": "sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b",
       "dedupeKey": "brief:opp_cd2e7a97e3bd4262568a:sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b",
-      "firstSeenAt": "2026-09-07T09:05:28.205Z",
-      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -42239,8 +42239,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 9,
+        "communityPoints": 6,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -42254,8 +42254,8 @@
       },
       "contentHash": "sha256:461dba635be8e3df6b614aeb7e132f3140d3cbbbca670727e68c71e03eee44f9",
       "dedupeKey": "brief:opp_680b0be021534b136460:sha256:461dba635be8e3df6b614aeb7e132f3140d3cbbbca670727e68c71e03eee44f9",
-      "firstSeenAt": "2026-09-07T09:05:28.205Z",
-      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -42351,11 +42351,11 @@
       },
       "contentHash": "sha256:31192fe4d4cdb486f784f153a70d3158d809f6cc86ede9c706a9c46444faa46f",
       "dedupeKey": "brief:opp_570fde00e124987e5559:sha256:31192fe4d4cdb486f784f153a70d3158d809f6cc86ede9c706a9c46444faa46f",
-      "firstSeenAt": "2026-09-07T09:05:28.205Z",
-      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -42400,11 +42400,11 @@
       },
       "contentHash": "sha256:77ad7382b1ad24bde9db96b7d3834ab65149ae4479ac3062c042a9eeb9b1ab34",
       "dedupeKey": "brief:opp_b6f6b5dc66f7c564155a:sha256:77ad7382b1ad24bde9db96b7d3834ab65149ae4479ac3062c042a9eeb9b1ab34",
-      "firstSeenAt": "2026-09-07T09:05:28.205Z",
-      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -42498,8 +42498,8 @@
       },
       "contentHash": "sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd",
       "dedupeKey": "brief:opp_8009481dbdef9a9d1baa:sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd",
-      "firstSeenAt": "2026-09-07T09:05:28.205Z",
-      "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -42652,6 +42652,255 @@
       "dedupeKey": "brief:opp_c56fae49aa3553b362c9:sha256:1d5c53d118af0590927d8b2483c5636ae79459cad3639dd2ad26a24a879ed7e9",
       "firstSeenAt": "2026-09-07T09:05:28.205Z",
       "lastSeenAt": "2026-09-07T09:05:28.205Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d8e19382f2b05eb281fc": {
+      "id": "opp_d8e19382f2b05eb281fc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33308",
+      "canonicalUrl": "https://www.tving.com/help/notice/144718",
+      "title": "티빙 3,954만 계정 정보 유출…보상은 직접 신청해야 함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T10:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "정부 조사에서 Tving 약 3,954만 계정의 정보와 소스코드 유출이 확인됐으며, 현재 이용 중인 계정뿐 아니라 휴면/탈퇴 등 비활성 계정도 포함됨 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33308"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f75dfe25fb209f9a38c5e8f99fae4f8420806fea81c4c97e6d6ebcfe44451eef",
+      "dedupeKey": "brief:opp_d8e19382f2b05eb281fc:sha256:f75dfe25fb209f9a38c5e8f99fae4f8420806fea81c4c97e6d6ebcfe44451eef",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fa84ec408a4512b8393c": {
+      "id": "opp_fa84ec408a4512b8393c",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/technical-writing-2-eng",
+      "canonicalUrl": "https://toss.tech/article/technical-writing-2-eng",
+      "title": "2. Beyond Our Expertise",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 06:47:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "This is the story of how we turned Technical Writers’ challenges and expertise into a product called \"todoc\", and how the process helped us take that expertise even further.",
+      "summaryEvidence": [
+        "https://toss.tech/article/technical-writing-2-eng"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4eae66e44a81223f50b7e1a823104c37166daa5839914801527c70b8c6351fff",
+      "dedupeKey": "brief:opp_fa84ec408a4512b8393c:sha256:4eae66e44a81223f50b7e1a823104c37166daa5839914801527c70b8c6351fff",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9ea06638a3837b48eeb0": {
+      "id": "opp_9ea06638a3837b48eeb0",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/technical-writing-1-eng",
+      "canonicalUrl": "https://toss.tech/article/technical-writing-1-eng",
+      "title": "1. Creating a Role That Didn’t Exist Before",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 06:44:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "Learn how Toss’s Technical Writers have expanded their role from writing documentation to designing knowledge systems for the organization.",
+      "summaryEvidence": [
+        "https://toss.tech/article/technical-writing-1-eng"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3d630e9b70765999d4e65e2ca2015e90dcd4a4caa8c901c6f261488b0bc4db9a",
+      "dedupeKey": "brief:opp_9ea06638a3837b48eeb0:sha256:3d630e9b70765999d4e65e2ca2015e90dcd4a4caa8c901c6f261488b0bc4db9a",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_deef05ebfeecd281caf7": {
+      "id": "opp_deef05ebfeecd281caf7",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/toss-frontend-ai-docs-eng",
+      "canonicalUrl": "https://toss.tech/article/toss-frontend-ai-docs-eng",
+      "title": "How Documents Find Developers at Toss",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 06:27:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "The Toss Frontend team no longer has to dig through documents to find what they need. We’re building an environment where developers can get immediate answers to their questions through docs and AI. Here’s how we built a new documentation system that lets developers focus entirel",
+      "summaryEvidence": [
+        "https://toss.tech/article/toss-frontend-ai-docs-eng"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:420d5d6804d2312d52a23bc3ca8a5b8f149bed64219474ccc8db58ae8a1742f6",
+      "dedupeKey": "brief:opp_deef05ebfeecd281caf7:sha256:420d5d6804d2312d52a23bc3ca8a5b8f149bed64219474ccc8db58ae8a1742f6",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6e473721ba9e5fce3aad": {
+      "id": "opp_6e473721ba9e5fce3aad",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:TdudKNElsA8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TdudKNElsA8",
+      "title": "[한영자막] AI 에이전트에 100만 토큰 컨텍스트가 꼭 필요한 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T09:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "허깅페이스(Hugging Face) 공동 창업자이자 CSO인 토마스 울프(Thomas Wolf)와 미니맥스(MiniMax)의 RL 리드 올리브 송(Olive Song)이 나눈 대담입니다. 짧은 컨텍스트 창으로는 복잡한 도구 호출과 다자간 대화를 처리하는 에이전트를 감당할 수 없습니다. 4,000억 파라미터(230억 활성화) 규모의 오픈소스 모델 MiniMax M3가 100만 토큰의 초장문 컨텍스트를 어떻게 효율적으로 구현했는지, 인턴이 설계한 혁신적인 희소 어텐션(MSA) 아키텍처와 첫 단계부터",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=TdudKNElsA8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-07T09:00:27.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3a038364bb2f323b0895b673abf3cc13bad241c3be5026874d5cd762e9840009",
+      "dedupeKey": "brief:opp_6e473721ba9e5fce3aad:sha256:3a038364bb2f323b0895b673abf3cc13bad241c3be5026874d5cd762e9840009",
+      "firstSeenAt": "2026-09-07T14:45:36.235Z",
+      "lastSeenAt": "2026-09-07T14:45:36.235Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -47303,6 +47552,42 @@
       "opportunityId": "opp_0cb062634dcc4260a1b2",
       "sentAt": "2026-09-07T09:05:28.205Z",
       "messageId": "1546446296544452671"
+    },
+    "brief:opp_deef05ebfeecd281caf7:sha256:420d5d6804d2312d52a23bc3ca8a5b8f149bed64219474ccc8db58ae8a1742f6": {
+      "status": "SENT",
+      "opportunityId": "opp_deef05ebfeecd281caf7",
+      "sentAt": "2026-09-07T14:45:36.235Z",
+      "messageId": "1546531897616633887"
+    },
+    "brief:opp_570fde00e124987e5559:sha256:31192fe4d4cdb486f784f153a70d3158d809f6cc86ede9c706a9c46444faa46f": {
+      "status": "SENT",
+      "opportunityId": "opp_570fde00e124987e5559",
+      "sentAt": "2026-09-07T14:45:36.235Z",
+      "messageId": "1546531897616633887"
+    },
+    "brief:opp_b6f6b5dc66f7c564155a:sha256:77ad7382b1ad24bde9db96b7d3834ab65149ae4479ac3062c042a9eeb9b1ab34": {
+      "status": "SENT",
+      "opportunityId": "opp_b6f6b5dc66f7c564155a",
+      "sentAt": "2026-09-07T14:45:36.235Z",
+      "messageId": "1546531897616633887"
+    },
+    "brief:opp_fa84ec408a4512b8393c:sha256:4eae66e44a81223f50b7e1a823104c37166daa5839914801527c70b8c6351fff": {
+      "status": "SENT",
+      "opportunityId": "opp_fa84ec408a4512b8393c",
+      "sentAt": "2026-09-07T14:45:36.235Z",
+      "messageId": "1546531897616633887"
+    },
+    "brief:opp_6e473721ba9e5fce3aad:sha256:3a038364bb2f323b0895b673abf3cc13bad241c3be5026874d5cd762e9840009": {
+      "status": "SENT",
+      "opportunityId": "opp_6e473721ba9e5fce3aad",
+      "sentAt": "2026-09-07T14:45:36.235Z",
+      "messageId": "1546531897616633887"
+    },
+    "brief:opp_cd2e7a97e3bd4262568a:sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b": {
+      "status": "SENT",
+      "opportunityId": "opp_cd2e7a97e3bd4262568a",
+      "sentAt": "2026-09-07T14:45:36.235Z",
+      "messageId": "1546531897616633887"
     }
   },
   "pending": {},
