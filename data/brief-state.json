@@ -41914,6 +41914,304 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_b352d74abc49fe1ef2ee": {
+      "id": "opp_b352d74abc49fe1ef2ee",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33305",
+      "canonicalUrl": "https://github.com/databasus/databasus",
+      "title": "Databasus - 실제 복원까지 검증하는 셀프 호스팅 데이터베이스 백업 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T09:40:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "백업 일정과 저장 위치, 보관 기간을 관리하고 백업한 데이터가 실제로 복원되는지까지 자동으로 확인하는 도구 PostgreSQL/MySQL/MariaDB/MongoDB...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33305"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:395099923ed8ea605ade476a24e83112ce860c3d838ea0b2367dbcf5dff8477b",
+      "dedupeKey": "brief:opp_b352d74abc49fe1ef2ee:sha256:395099923ed8ea605ade476a24e83112ce860c3d838ea0b2367dbcf5dff8477b",
+      "firstSeenAt": "2026-09-07T03:25:31.273Z",
+      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0cb062634dcc4260a1b2": {
+      "id": "opp_0cb062634dcc4260a1b2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33304",
+      "canonicalUrl": "https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield",
+      "title": "브라운필드의 코끼리: AI로 개인은 빨라졌는데, 조직은 왜 그대로인가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T09:35:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 시스템과 조직 구조가 자리 잡은 브라운필드 기업의 AI 전환에는 기술뿐 아니라, 자신의 역할과 팀의 권한을 정체성으로 여기는 문제가 걸려 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33304"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e4a225ceb074122b2c755afde39685118d5f2d3a9725c9246bbaff2f816092ec",
+      "dedupeKey": "brief:opp_0cb062634dcc4260a1b2:sha256:e4a225ceb074122b2c755afde39685118d5f2d3a9725c9246bbaff2f816092ec",
+      "firstSeenAt": "2026-09-07T03:25:31.273Z",
+      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4422158359ea648fb8ad": {
+      "id": "opp_4422158359ea648fb8ad",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33301",
+      "canonicalUrl": "https://fewshotacademy.com/blog/gpt-6-astra-the-harness-is-the-product",
+      "title": "GPT-6 Astra: 하네스가 곧 제품이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T09:25:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "같은 GPT-6 Astra도 ARC-AGI-3의 동일한 High 추론 설정에서 하네스에 따라 54.8%와 99.9% 를 기록함. 즉, 장기 실행 에이전트는 모델뿐 아니라 메...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33301"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6a7d10cfd405b6446dd8326e55e411210e45e0ba946dc7147292ca8e8c229862",
+      "dedupeKey": "brief:opp_4422158359ea648fb8ad:sha256:6a7d10cfd405b6446dd8326e55e411210e45e0ba946dc7147292ca8e8c229862",
+      "firstSeenAt": "2026-09-07T03:25:31.273Z",
+      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd2e7a97e3bd4262568a": {
+      "id": "opp_cd2e7a97e3bd4262568a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33300",
+      "canonicalUrl": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get",
+      "title": "코드가 나빠지는 데는 한계가 없다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T09:02:51+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "건물과 달리 소프트웨어에는 물리적 붕괴 한계가 없어, 시스템이 계속 작동하는 동안에도 복잡성과 성능 저하가 끝없이 누적될 수 있음 Amazon 주...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33300"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b",
+      "dedupeKey": "brief:opp_cd2e7a97e3bd4262568a:sha256:26ad671ff9ab6bb88d5da92c53d798aacdbd2d4cd97e902dfc9c2eb0bcb8989b",
+      "firstSeenAt": "2026-09-07T03:25:31.273Z",
+      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_140ca811c863f5d8e4f9": {
+      "id": "opp_140ca811c863f5d8e4f9",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/834",
+      "canonicalUrl": "https://tech.kakao.com/posts/834",
+      "title": "카카오, if(kakao)26 컨퍼런스 개최... 모든 연결에 지능을",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Sun, 06 Sep 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "🔗 if(kakao)26 바로가기 - 10월 13일부터 14일까지 이틀간 카카오 AI 캠퍼스에서 온·오프라인 진행 -올해 슬로건 ‘모든 연결에 지능을’… AI가 확장할 연결의 경험과 신뢰할 수 있는 기술 기준 제시 - 50여개 기술 세션서 AI 적용 성과와 개발 경험 공유…파이어사이드 챗·네트워킹 프로그램도 운영 [2026-09-07] 카카오(대표이사 정신아)가 오는 10월 13일부터 14일까지 이틀간 경기도 용인시 소재 ‘카카오 AI 캠퍼스’에서 ...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/834"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4d809daf3f696ffa9a47010d9f035b83926bb1afca789c0e733f4b6463f09d64",
+      "dedupeKey": "brief:opp_140ca811c863f5d8e4f9:sha256:4d809daf3f696ffa9a47010d9f035b83926bb1afca789c0e733f4b6463f09d64",
+      "firstSeenAt": "2026-09-07T03:25:31.273Z",
+      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a0fa8e3229659fcc02fe": {
+      "id": "opp_a0fa8e3229659fcc02fe",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:7excI-0n2xk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7excI-0n2xk",
+      "title": "실무 아키텍처 설계 과정을 보여 드립니다.",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T03:10:56+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"콘서트 티켓 예매 시스템을 설계해 보세요.\" 실무에서의 아키텍처 설계 흐름을 보여 드립니다. ▶ 목차 00:00 도입(지난 시간 영상 요약) 00:29 콘서트 티켓 예매 시스템 설계 과정 시작 00:41 고객 요구사항 01:46 기술부터 고르지 않습니다 02:28 시작하기 전에(오늘 중요한 것은 결정에 이르는 과정을 아는 것) 03:05 Step1. 고객의 말을 분류한다 05:27 Step2. 모호한 말은 되묻는다 06:47 Step3. 설계하고 검증할 수 있는 형태로 07:49 Step4. A",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=7excI-0n2xk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-07T03:10:56.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:888df203e630940ead30f1e0ab66eb04525124a4dd1fa610beff97b914b10a11",
+      "dedupeKey": "brief:opp_a0fa8e3229659fcc02fe:sha256:888df203e630940ead30f1e0ab66eb04525124a4dd1fa610beff97b914b10a11",
+      "firstSeenAt": "2026-09-07T03:25:31.273Z",
+      "lastSeenAt": "2026-09-07T03:25:31.273Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -46500,6 +46798,30 @@
       "opportunityId": "opp_d808d9008280507dfb76",
       "sentAt": "2026-09-07T00:05:26.430Z",
       "messageId": "1546310392337145879"
+    },
+    "brief:opp_140ca811c863f5d8e4f9:sha256:4d809daf3f696ffa9a47010d9f035b83926bb1afca789c0e733f4b6463f09d64": {
+      "status": "SENT",
+      "opportunityId": "opp_140ca811c863f5d8e4f9",
+      "sentAt": "2026-09-07T03:25:31.273Z",
+      "messageId": "1546360745019834471"
+    },
+    "brief:opp_4422158359ea648fb8ad:sha256:6a7d10cfd405b6446dd8326e55e411210e45e0ba946dc7147292ca8e8c229862": {
+      "status": "SENT",
+      "opportunityId": "opp_4422158359ea648fb8ad",
+      "sentAt": "2026-09-07T03:25:31.273Z",
+      "messageId": "1546360745019834471"
+    },
+    "brief:opp_a0fa8e3229659fcc02fe:sha256:888df203e630940ead30f1e0ab66eb04525124a4dd1fa610beff97b914b10a11": {
+      "status": "SENT",
+      "opportunityId": "opp_a0fa8e3229659fcc02fe",
+      "sentAt": "2026-09-07T03:25:31.273Z",
+      "messageId": "1546360745019834471"
+    },
+    "brief:opp_b352d74abc49fe1ef2ee:sha256:395099923ed8ea605ade476a24e83112ce860c3d838ea0b2367dbcf5dff8477b": {
+      "status": "SENT",
+      "opportunityId": "opp_b352d74abc49fe1ef2ee",
+      "sentAt": "2026-09-07T03:25:31.273Z",
+      "messageId": "1546360745019834471"
     }
   },
   "pending": {},
