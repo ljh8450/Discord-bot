@@ -42240,13 +42240,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 8,
-        "contentScore": 11,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -42254,8 +42254,8 @@
       },
       "contentHash": "sha256:461dba635be8e3df6b614aeb7e132f3140d3cbbbca670727e68c71e03eee44f9",
       "dedupeKey": "brief:opp_680b0be021534b136460:sha256:461dba635be8e3df6b614aeb7e132f3140d3cbbbca670727e68c71e03eee44f9",
-      "firstSeenAt": "2026-09-07T14:45:36.235Z",
-      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -42498,11 +42498,11 @@
       },
       "contentHash": "sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd",
       "dedupeKey": "brief:opp_8009481dbdef9a9d1baa:sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd",
-      "firstSeenAt": "2026-09-07T14:45:36.235Z",
-      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -42685,7 +42685,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 6,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -42699,8 +42699,8 @@
       },
       "contentHash": "sha256:f75dfe25fb209f9a38c5e8f99fae4f8420806fea81c4c97e6d6ebcfe44451eef",
       "dedupeKey": "brief:opp_d8e19382f2b05eb281fc:sha256:f75dfe25fb209f9a38c5e8f99fae4f8420806fea81c4c97e6d6ebcfe44451eef",
-      "firstSeenAt": "2026-09-07T14:45:36.235Z",
-      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -42797,11 +42797,11 @@
       },
       "contentHash": "sha256:3d630e9b70765999d4e65e2ca2015e90dcd4a4caa8c901c6f261488b0bc4db9a",
       "dedupeKey": "brief:opp_9ea06638a3837b48eeb0:sha256:3d630e9b70765999d4e65e2ca2015e90dcd4a4caa8c901c6f261488b0bc4db9a",
-      "firstSeenAt": "2026-09-07T14:45:36.235Z",
-      "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -42901,6 +42901,215 @@
       "dedupeKey": "brief:opp_6e473721ba9e5fce3aad:sha256:3a038364bb2f323b0895b673abf3cc13bad241c3be5026874d5cd762e9840009",
       "firstSeenAt": "2026-09-07T14:45:36.235Z",
       "lastSeenAt": "2026-09-07T14:45:36.235Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d8f9c0a4376e8fed8cd0": {
+      "id": "opp_d8f9c0a4376e8fed8cd0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33318",
+      "canonicalUrl": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "title": "LG TV 화면을 끈 상태에서 오디오 녹음, 주변 기기 탐색 적발",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T20:24:18+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Gamers Nexus가 Level1Techs 및 독립 보안 연구자들과 함께 LG G5 등 OLED TV를 테스트한 결과를 135분 분량 영상으로 공개 Wireshark 패킷 분석 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33318"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:97f1605c8d7a229919301a814caf5253e105173eb1390c4839787dd3bf5c12ba",
+      "dedupeKey": "brief:opp_d8f9c0a4376e8fed8cd0:sha256:97f1605c8d7a229919301a814caf5253e105173eb1390c4839787dd3bf5c12ba",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c45346ed59636deb1a96": {
+      "id": "opp_c45346ed59636deb1a96",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:9GQE_jb_Iq8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9GQE_jb_Iq8",
+      "title": "[한영자막] 스킬 vs MCP vs RAG vs 메모리: AI 에이전트에게 필요한 핵심 4가지 지식입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T22:00:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 현실 세계의 복잡한 문제를 해결하기 위해 필요한 핵심 메커니즘 4가지(스킬, MCP, RAG, 메모리)의 차이점과 실전 활용법을 명쾌하게 정리해 드립니다. 단순히 컨텍스트 창에 모든 데이터를 쏟아붓는 방식의 한계를 짚어보고, 각 기술이 언제 어떤 역할을 담당해야 하는지 알아봅니다. 📌 주요 내용: • 에이전트 스킬(Skills): 문제 해결 절차와 실행 판단 기준을 정형화한 실행 지침 • 모델 컨텍스트 프로토콜(MCP): 외부 도구, 시스템, 로그를 안전하게 연결하고 호출하는 표",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=9GQE_jb_Iq8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-07T22:00:17.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:853125314ce385a586a0bd5891eba16cb286260587098445066de60fcf0aa920",
+      "dedupeKey": "brief:opp_c45346ed59636deb1a96:sha256:853125314ce385a586a0bd5891eba16cb286260587098445066de60fcf0aa920",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_91e89627249566a199fb": {
+      "id": "opp_91e89627249566a199fb",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:KgKA0A3qlz0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KgKA0A3qlz0",
+      "title": "This SIMPLE Hack Combines GPT 6 Astra With Fable 5.1",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T15:03:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io In this video I break down the how and why behind combining the two top AI models: GPT 6 Astra and Cla",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=KgKA0A3qlz0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-07T15:03:39.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f0db15fc4d52c76b950a371d15fe15c228448d1d4bf69042cc006edd4df0a07c",
+      "dedupeKey": "brief:opp_91e89627249566a199fb:sha256:f0db15fc4d52c76b950a371d15fe15c228448d1d4bf69042cc006edd4df0a07c",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_08c2533c99065de5de13": {
+      "id": "opp_08c2533c99065de5de13",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:J0aIaS9DIqA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J0aIaS9DIqA",
+      "title": "GPT6 Astra, AI로 돈 번다… NVIDIA 젠슨황 말을 증명하다 | Compute is Revenue",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T23:05:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "GPT-6 Astra는 Blender와 Unreal Engine을 직접 활용하면서 사람이 돈 받고 하던 제작 업무 일부를 수행하기 시작했습니다.이번 영상에서는 Astra의 비전 성능과 Computer Use가 왜 크게 좋아졌는지 공개 연구를 통해 뜯어봅니다.작은 UI를 찾는 Visual Grounding부터 화면을 다시 보고 수정하는 방법, 여러 에이전트가 긴 작업을 이어가는 구조까지 살펴봅니다.흥미로운 건 이런 기술적 접근 자체는 이미 여러 논문에서 확인할 수 있다는 점입니다.차이는 이 방법을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=J0aIaS9DIqA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-07T23:05:25.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bfbaf9515657027eae3498bed013f4d7a48e5a43cc76590bbb6aa3539656481e",
+      "dedupeKey": "brief:opp_08c2533c99065de5de13:sha256:bfbaf9515657027eae3498bed013f4d7a48e5a43cc76590bbb6aa3539656481e",
+      "firstSeenAt": "2026-09-08T00:05:42.079Z",
+      "lastSeenAt": "2026-09-08T00:05:42.079Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -47588,6 +47797,42 @@
       "opportunityId": "opp_cd2e7a97e3bd4262568a",
       "sentAt": "2026-09-07T14:45:36.235Z",
       "messageId": "1546531897616633887"
+    },
+    "brief:opp_91e89627249566a199fb:sha256:f0db15fc4d52c76b950a371d15fe15c228448d1d4bf69042cc006edd4df0a07c": {
+      "status": "SENT",
+      "opportunityId": "opp_91e89627249566a199fb",
+      "sentAt": "2026-09-08T00:05:42.079Z",
+      "messageId": "1546672846489653362"
+    },
+    "brief:opp_9ea06638a3837b48eeb0:sha256:3d630e9b70765999d4e65e2ca2015e90dcd4a4caa8c901c6f261488b0bc4db9a": {
+      "status": "SENT",
+      "opportunityId": "opp_9ea06638a3837b48eeb0",
+      "sentAt": "2026-09-08T00:05:42.079Z",
+      "messageId": "1546672846489653362"
+    },
+    "brief:opp_8009481dbdef9a9d1baa:sha256:81d344db35ffaa16f2211f9a9e8e5ba5d0a16c68bb878d8404dc164fe9e963bd": {
+      "status": "SENT",
+      "opportunityId": "opp_8009481dbdef9a9d1baa",
+      "sentAt": "2026-09-08T00:05:42.079Z",
+      "messageId": "1546672846489653362"
+    },
+    "brief:opp_c45346ed59636deb1a96:sha256:853125314ce385a586a0bd5891eba16cb286260587098445066de60fcf0aa920": {
+      "status": "SENT",
+      "opportunityId": "opp_c45346ed59636deb1a96",
+      "sentAt": "2026-09-08T00:05:42.079Z",
+      "messageId": "1546672846489653362"
+    },
+    "brief:opp_08c2533c99065de5de13:sha256:bfbaf9515657027eae3498bed013f4d7a48e5a43cc76590bbb6aa3539656481e": {
+      "status": "SENT",
+      "opportunityId": "opp_08c2533c99065de5de13",
+      "sentAt": "2026-09-08T00:05:42.079Z",
+      "messageId": "1546672846489653362"
+    },
+    "brief:opp_d8f9c0a4376e8fed8cd0:sha256:97f1605c8d7a229919301a814caf5253e105173eb1390c4839787dd3bf5c12ba": {
+      "status": "SENT",
+      "opportunityId": "opp_d8f9c0a4376e8fed8cd0",
+      "sentAt": "2026-09-08T00:05:42.079Z",
+      "messageId": "1546672846489653362"
     }
   },
   "pending": {},
