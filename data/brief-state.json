@@ -43142,23 +43142,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 1,
-        "contentScore": 11,
+        "communityPoints": 15,
+        "communityRank": 2,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae",
       "dedupeKey": "brief:opp_130609081a90b80ae3f2:sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae",
-      "firstSeenAt": "2026-09-08T03:31:27.602Z",
-      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -43289,7 +43289,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 7,
         "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -43304,8 +43304,8 @@
       },
       "contentHash": "sha256:2fe2eb2f62c3c8cf6c7c2ded0ae633a5e396c9a0749948f1b65ba50fff61d9f3",
       "dedupeKey": "brief:opp_ebbbe935c6c0b988666e:sha256:2fe2eb2f62c3c8cf6c7c2ded0ae633a5e396c9a0749948f1b65ba50fff61d9f3",
-      "firstSeenAt": "2026-09-08T03:31:27.602Z",
-      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -43355,6 +43355,407 @@
       "dedupeKey": "brief:opp_7dc567f0c947644947b3:sha256:3a40d6564feb84e2153e92faf9da505052f41567786b63526e09a2a652f53246",
       "firstSeenAt": "2026-09-08T03:31:27.602Z",
       "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fa0abc83d9a10585a056": {
+      "id": "opp_fa0abc83d9a10585a056",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33349",
+      "canonicalUrl": "https://github.com/debpalash/VoiceStudio",
+      "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T11:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "계정이나 API 키, 구독 없이 내 컴퓨터에서 음성 작업을 처리하는 데스크톱 앱으로, 필요한 모델을 내려받으면 오프라인에서도 사용 가능 깨끗한 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33349"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 16,
+        "communityRank": 1,
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:b98b563e7930b122a4c533f525e9561a8ab3fcdaed30c68547321db33504e8d9",
+      "dedupeKey": "brief:opp_fa0abc83d9a10585a056:sha256:b98b563e7930b122a4c533f525e9561a8ab3fcdaed30c68547321db33504e8d9",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5c45d1926e319398dec0": {
+      "id": "opp_5c45d1926e319398dec0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33338",
+      "canonicalUrl": "https://news.ycombinator.com/item?id=49589914",
+      "title": "Ask HN: 스킬 파일을 어떻게 관리하시나요?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T09:57:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에이전트용 스킬을 어디서 찾고, 어떻게 관리하며, 실제로 작동하는지 검증하는지에 대한 질문으로, 댓글에서는 범용 스킬 수집보다 직접 만든 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33338"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda",
+      "dedupeKey": "brief:opp_5c45d1926e319398dec0:sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_faac4933c9fc2ce5d82e": {
+      "id": "opp_faac4933c9fc2ce5d82e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33329",
+      "canonicalUrl": "https://austinhenley.com/blog/python1024.html",
+      "title": "1024바이트로 Python 인터프리터 만들기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T04:33:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33329"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7832ff87d3f52773f50bfcf7de1d06d397584e7d82c042ab18a6d5b4f3f8aea0",
+      "dedupeKey": "brief:opp_faac4933c9fc2ce5d82e:sha256:7832ff87d3f52773f50bfcf7de1d06d397584e7d82c042ab18a6d5b4f3f8aea0",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3178f825f0773ee31ba8": {
+      "id": "opp_3178f825f0773ee31ba8",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ed08bb10a5938b88b50346f4f91cf101c3414b36",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/sonic-rumble-party-dynamodb-elasticache",
+      "title": "주식회사 SEGA, 소규모 팀으로 「Sonic Rumble Party」 글로벌 출시를 위한 Amazon DynamoDB 및 Amazon ElastiCache Serverless for Valkey 활용 사례",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 08 Sep 2026 08:02:48 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 2026년 8월 19일 AWS Japan 블로그에 게재된 ‘株式会社セガ、グローバル展開タイトル『ソニックランブル パーティ』を少人数チームで支える Amazon DynamoDB / Amazon ElastiCache Serverless for Valkey 活用事例’를 번역한 글입니다. 서론 주식회사 SEGA는 가정용 게임기, PC, 스마트폰용 게임의 기획, 개발, 판매, 운영을 중심으로, 다양한 콘텐츠와 상품을 전 세계에 제공하고 있습니다. SEGA는 비교적 새로운 기술도 적극적으로 도입하는 문화를",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/sonic-rumble-party-dynamodb-elasticache/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:df588a7b98f574bde7bfa3d23750869b75f526a8652c227a2d73914cb7964196",
+      "dedupeKey": "brief:opp_3178f825f0773ee31ba8:sha256:df588a7b98f574bde7bfa3d23750869b75f526a8652c227a2d73914cb7964196",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b0391908954e428adf6e": {
+      "id": "opp_b0391908954e428adf6e",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/833",
+      "canonicalUrl": "https://tech.kakao.com/posts/833",
+      "title": "if(kakao)2026 첫째 날, 기술 세션 소개",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Mon, 07 Sep 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를 개발한 노하우를 공유합니다! 최근 공개한 Kanana-2 SLM ...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/833"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4d23b1968b5eb3e4ed5cf917b4f9fa6500557ebfd544405d62a90f46af288b9a",
+      "dedupeKey": "brief:opp_b0391908954e428adf6e:sha256:4d23b1968b5eb3e4ed5cf917b4f9fa6500557ebfd544405d62a90f46af288b9a",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_571c6f09ae1add0a48aa": {
+      "id": "opp_571c6f09ae1add0a48aa",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=26832",
+      "canonicalUrl": "https://techblog.woowahan.com/26832",
+      "title": "한꺼번에 짊어지던 배치를 내려놓고, 하나씩 흘려보내는 워크플로로",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T04:50:28.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "Temporal 도입은 부담스러웠고, 그렇다고 배치를 그대로 둘 순 없었습니다 – 입맛대로 골라 Claude로 뚝딱 만든 워크플로 엔진 개발기 ℹ️ 이 글에 등장하는 수치와 설정값(대기 시간, 타임아웃, 재시도 횟수 등)은 이해를 돕기 위한 예시이며, 실제 운영 설정과는 다릅니다. 들어가는 말 배달의민족 사장님이 사용하는 포스(POS)의 백엔드를 만들다 보면, \"지금 당장 처리할 일\"보다 \"시간이 흐른 뒤에 처리해야 할 […] The post 한꺼번에 짊어지던 배치를 내려놓고, 하나씩 흘려보내는",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/26832/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5f3bf9b1f6f2eeb652b93da4c5682b3c91fd1b53e277bb7cafea120719376944",
+      "dedupeKey": "brief:opp_571c6f09ae1add0a48aa:sha256:5f3bf9b1f6f2eeb652b93da4c5682b3c91fd1b53e277bb7cafea120719376944",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_79b8ebae05b20e00c234": {
+      "id": "opp_79b8ebae05b20e00c234",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:A7xJz1A74B8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A7xJz1A74B8",
+      "title": "[한영자막] Cursor 엔지니어의 AI를 이용한 레거시 코드 리팩터링 시연 영상",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T09:00:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Cursor를 활용해 방대하고 복잡한 레거시 코드베이스를 안전하고 체계적으로 리팩터링하는 4단계 핵심 워크플로우를 소개합니다. 노트북을 닫아도 백그라운드에서 자율적으로 코드를 수정하고 비디오로 검증하는 클라우드 에이전트와 자동화 기법을 직접 확인해 보세요. 📌 주요 내용: • Canvas를 활용한 코드베이스 진단 및 테스트 커버리지 시각화 • Plan Mode를 통한 TDD 마이그레이션 전략 수립 (코드 미생성 기획 문서) • Atlassian 플러그인 연동으로 계획서를 Jira 티켓과 PR로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=A7xJz1A74B8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-08T09:00:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2da374817816cb80523861f68c6bfb74a3fbf1e996c2479682b11904378315c6",
+      "dedupeKey": "brief:opp_79b8ebae05b20e00c234:sha256:2da374817816cb80523861f68c6bfb74a3fbf1e996c2479682b11904378315c6",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4496828e2257cd7406fc": {
+      "id": "opp_4496828e2257cd7406fc",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:IusPKnUTU6I",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IusPKnUTU6I",
+      "title": "같은 프롬프트로 두 번 생성했습니다 — 회색 블록아웃 하나 차이로 크레딧 135, 재생성 0번",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T07:39:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ Higgsfield Blender 플러그인 (무료 다운로드): https://higgsfield.ai/s/higgsfield-x-blender-yt-ai-agentos-cPaBth 블렌더에서 회색 박스로 카메라·동선·타이밍을 먼저 잠그고, 그 렌더를 Seedance 2.5에 모션 레퍼런스로 넣습니다. 프롬프트로 도박하지 않으니 크레딧을 한 번만 씁니다. 클로드 데스크톱을 Higgsfield Bridge로 블렌더에 연결하면, 블렌더를 몰라도 말로 블록아웃을 만들 수 있습니다. 플러그인은 무료로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=IusPKnUTU6I"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-08T07:39:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:67c4cb826fe5d173a99c6692a9c3b2081fbcdbb250a35a09de94b8640b3a4830",
+      "dedupeKey": "brief:opp_4496828e2257cd7406fc:sha256:67c4cb826fe5d173a99c6692a9c3b2081fbcdbb250a35a09de94b8640b3a4830",
+      "firstSeenAt": "2026-09-08T09:05:38.444Z",
+      "lastSeenAt": "2026-09-08T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -48096,6 +48497,42 @@
       "opportunityId": "opp_2d2bf5dbcc6dfc5c9233",
       "sentAt": "2026-09-08T03:31:27.602Z",
       "messageId": "1546724627487924257"
+    },
+    "brief:opp_571c6f09ae1add0a48aa:sha256:5f3bf9b1f6f2eeb652b93da4c5682b3c91fd1b53e277bb7cafea120719376944": {
+      "status": "SENT",
+      "opportunityId": "opp_571c6f09ae1add0a48aa",
+      "sentAt": "2026-09-08T09:05:38.444Z",
+      "messageId": "1546808726860603415"
+    },
+    "brief:opp_b0391908954e428adf6e:sha256:4d23b1968b5eb3e4ed5cf917b4f9fa6500557ebfd544405d62a90f46af288b9a": {
+      "status": "SENT",
+      "opportunityId": "opp_b0391908954e428adf6e",
+      "sentAt": "2026-09-08T09:05:38.444Z",
+      "messageId": "1546808726860603415"
+    },
+    "brief:opp_3178f825f0773ee31ba8:sha256:df588a7b98f574bde7bfa3d23750869b75f526a8652c227a2d73914cb7964196": {
+      "status": "SENT",
+      "opportunityId": "opp_3178f825f0773ee31ba8",
+      "sentAt": "2026-09-08T09:05:38.444Z",
+      "messageId": "1546808726860603415"
+    },
+    "brief:opp_fa0abc83d9a10585a056:sha256:b98b563e7930b122a4c533f525e9561a8ab3fcdaed30c68547321db33504e8d9": {
+      "status": "SENT",
+      "opportunityId": "opp_fa0abc83d9a10585a056",
+      "sentAt": "2026-09-08T09:05:38.444Z",
+      "messageId": "1546808726860603415"
+    },
+    "brief:opp_4496828e2257cd7406fc:sha256:67c4cb826fe5d173a99c6692a9c3b2081fbcdbb250a35a09de94b8640b3a4830": {
+      "status": "SENT",
+      "opportunityId": "opp_4496828e2257cd7406fc",
+      "sentAt": "2026-09-08T09:05:38.444Z",
+      "messageId": "1546808726860603415"
+    },
+    "brief:opp_79b8ebae05b20e00c234:sha256:2da374817816cb80523861f68c6bfb74a3fbf1e996c2479682b11904378315c6": {
+      "status": "SENT",
+      "opportunityId": "opp_79b8ebae05b20e00c234",
+      "sentAt": "2026-09-08T09:05:38.444Z",
+      "messageId": "1546808726860603415"
     }
   },
   "pending": {},
