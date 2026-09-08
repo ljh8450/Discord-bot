@@ -43142,7 +43142,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 15,
+        "communityPoints": 17,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -43157,11 +43157,11 @@
       },
       "contentHash": "sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae",
       "dedupeKey": "brief:opp_130609081a90b80ae3f2:sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae",
-      "firstSeenAt": "2026-09-08T09:05:38.444Z",
-      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "firstSeenAt": "2026-09-08T13:18:38.223Z",
+      "lastSeenAt": "2026-09-08T13:18:38.223Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -43436,8 +43436,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
+        "communityPoints": 9,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -43451,8 +43451,8 @@
       },
       "contentHash": "sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda",
       "dedupeKey": "brief:opp_5c45d1926e319398dec0:sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda",
-      "firstSeenAt": "2026-09-08T09:05:38.444Z",
-      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "firstSeenAt": "2026-09-08T13:18:38.223Z",
+      "lastSeenAt": "2026-09-08T13:18:38.223Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -43485,8 +43485,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 14,
+        "communityPoints": 6,
+        "communityRank": 12,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -43500,8 +43500,8 @@
       },
       "contentHash": "sha256:7832ff87d3f52773f50bfcf7de1d06d397584e7d82c042ab18a6d5b4f3f8aea0",
       "dedupeKey": "brief:opp_faac4933c9fc2ce5d82e:sha256:7832ff87d3f52773f50bfcf7de1d06d397584e7d82c042ab18a6d5b4f3f8aea0",
-      "firstSeenAt": "2026-09-08T09:05:38.444Z",
-      "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "firstSeenAt": "2026-09-08T13:18:38.223Z",
+      "lastSeenAt": "2026-09-08T13:18:38.223Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -43756,6 +43756,156 @@
       "dedupeKey": "brief:opp_4496828e2257cd7406fc:sha256:67c4cb826fe5d173a99c6692a9c3b2081fbcdbb250a35a09de94b8640b3a4830",
       "firstSeenAt": "2026-09-08T09:05:38.444Z",
       "lastSeenAt": "2026-09-08T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a1828fad6327febf3878": {
+      "id": "opp_a1828fad6327febf3878",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33336",
+      "canonicalUrl": "https://github.com/apache/maka",
+      "title": "Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "원하는 AI 모델을 연결해 데스크톱이나 터미널에서 작업을 맡기고, 에이전트가 무엇을 했는지 실행 과정까지 확인할 수 있는 작업 공간 대화뿐 아...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33336"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2c2bf069583de635492ddaa7c23b8b04d3bc5a3fa8dfff4f8af643723d9131e1",
+      "dedupeKey": "brief:opp_a1828fad6327febf3878:sha256:2c2bf069583de635492ddaa7c23b8b04d3bc5a3fa8dfff4f8af643723d9131e1",
+      "firstSeenAt": "2026-09-08T13:18:38.223Z",
+      "lastSeenAt": "2026-09-08T13:18:38.223Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3902a97502fefc3db414": {
+      "id": "opp_3902a97502fefc3db414",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/the-work-now-within-reach",
+      "canonicalUrl": "https://openai.com/index/the-work-now-within-reach",
+      "title": "The Work Now Within Reach",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "summaryEvidence": [
+        "https://openai.com/index/the-work-now-within-reach"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:58c04f25f62cd1bb0354cdd219a084e5b830cdefbb825b4136a836d23848c0f9",
+      "dedupeKey": "brief:opp_3902a97502fefc3db414:sha256:58c04f25f62cd1bb0354cdd219a084e5b830cdefbb825b4136a836d23848c0f9",
+      "firstSeenAt": "2026-09-08T13:18:38.223Z",
+      "lastSeenAt": "2026-09-08T13:18:38.223Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_024239e5c17ac2063607": {
+      "id": "opp_024239e5c17ac2063607",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:yvjqxQKBsM4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yvjqxQKBsM4",
+      "title": "2년간 샌프란시스코에서 살아남은 00년생 창업가의 새로운 도전ㅣ아메리칸드림2.0",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T09:00:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "마지막 회 대AI 시대, 다시 없을 변화의 기회를 잡기 위해 샌프란시스코 해커하우스에 모인 20대 창업가들. 그들은 실리콘밸리까지 왔지만, 도시를 즐길 시간은 없다. 하루 대부분을 해커하우스 사무실에 앉아 새벽까지 프로덕트를 만든다. 왜 이들은 미국 땅, 빅테크의 도시 실리콘밸리로 왔을까. 어떤 확신과 열정이 이들을 여기까지 움직였을까. AI 시대 한가운데서 자신만의 기회를 만들려는 젊은 창업가들의 기록. 그들의 아메리칸 드림은 무엇일까. 🌎 EO 글로벌 채널 구독하기 👉🏻👉🏻 https",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=yvjqxQKBsM4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-08T09:00:04.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9bbc11f1966ada5aaeab11a900495bc1b6c956dd28d4daadcc632fdc15728fdc",
+      "dedupeKey": "brief:opp_024239e5c17ac2063607:sha256:9bbc11f1966ada5aaeab11a900495bc1b6c956dd28d4daadcc632fdc15728fdc",
+      "firstSeenAt": "2026-09-08T13:18:38.223Z",
+      "lastSeenAt": "2026-09-08T13:18:38.223Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -48533,6 +48683,30 @@
       "opportunityId": "opp_79b8ebae05b20e00c234",
       "sentAt": "2026-09-08T09:05:38.444Z",
       "messageId": "1546808726860603415"
+    },
+    "brief:opp_3902a97502fefc3db414:sha256:58c04f25f62cd1bb0354cdd219a084e5b830cdefbb825b4136a836d23848c0f9": {
+      "status": "SENT",
+      "opportunityId": "opp_3902a97502fefc3db414",
+      "sentAt": "2026-09-08T13:18:38.223Z",
+      "messageId": "1546872395317645374"
+    },
+    "brief:opp_a1828fad6327febf3878:sha256:2c2bf069583de635492ddaa7c23b8b04d3bc5a3fa8dfff4f8af643723d9131e1": {
+      "status": "SENT",
+      "opportunityId": "opp_a1828fad6327febf3878",
+      "sentAt": "2026-09-08T13:18:38.223Z",
+      "messageId": "1546872395317645374"
+    },
+    "brief:opp_130609081a90b80ae3f2:sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae": {
+      "status": "SENT",
+      "opportunityId": "opp_130609081a90b80ae3f2",
+      "sentAt": "2026-09-08T13:18:38.223Z",
+      "messageId": "1546872395317645374"
+    },
+    "brief:opp_024239e5c17ac2063607:sha256:9bbc11f1966ada5aaeab11a900495bc1b6c956dd28d4daadcc632fdc15728fdc": {
+      "status": "SENT",
+      "opportunityId": "opp_024239e5c17ac2063607",
+      "sentAt": "2026-09-08T13:18:38.223Z",
+      "messageId": "1546872395317645374"
     }
   },
   "pending": {},
