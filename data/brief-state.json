@@ -43115,6 +43115,251 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_130609081a90b80ae3f2": {
+      "id": "opp_130609081a90b80ae3f2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33334",
+      "canonicalUrl": "https://www.benjoffe.com/fast-time-of-day",
+      "title": "타임스탬프를 시·분·초로 변환하는 더 빠른 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T09:07:51+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "여러 주요 날짜/시간 라이브러리는 시/분/초를 구할 때 앞선 계산 결과를 차례로 기다리는 구조를 사용하며, 계산 순서만 바꿔도 이 대기 시간을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33334"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae",
+      "dedupeKey": "brief:opp_130609081a90b80ae3f2:sha256:08572f9eca91e6e9684aef83546aeb16c6dac35185eb63ad53386443f0bd5bae",
+      "firstSeenAt": "2026-09-08T03:31:27.602Z",
+      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a79c9f5850dc08774cec": {
+      "id": "opp_a79c9f5850dc08774cec",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33346",
+      "canonicalUrl": "https://kevingoldsmith.substack.com/p/build-vs-buy-when-building-just-got",
+      "title": "Build vs Buy - AI로 개발은 싸졌지만, 3년 뒤 유지보수는 누가 맡을까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T10:35:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI는 소프트웨어의 초기 개발 비용을 크게 낮췄지만, 수년간 유지보수와 보안, 장애 대응을 책임지는 운영 비용까지 없애지는 못함 직접 만들지는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33346"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d594da0f7353990261152f6280452e3f67c1c90f4935783557cb827cffc8a67b",
+      "dedupeKey": "brief:opp_a79c9f5850dc08774cec:sha256:d594da0f7353990261152f6280452e3f67c1c90f4935783557cb827cffc8a67b",
+      "firstSeenAt": "2026-09-08T03:31:27.602Z",
+      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2d2bf5dbcc6dfc5c9233": {
+      "id": "opp_2d2bf5dbcc6dfc5c9233",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33337",
+      "canonicalUrl": "https://stray-prong-71918885.figma.site/",
+      "title": "강남언니 약 22만 명 개인정보 유출…상담 사진과 실제 시술 내역까지 포함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-08T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "미용의료 플랫폼 강남언니 운영사 힐링페이퍼가 21만 9,665명의 개인정보 유출을 공지했으며, 이중 한국 이용자는 약 16만 명 이름과 연락처뿐 아...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33337"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:230dadf115b126b16e89e90bbc8e032dffb4af20ea40c6d9fdfe9b7d5e134cf2",
+      "dedupeKey": "brief:opp_2d2bf5dbcc6dfc5c9233:sha256:230dadf115b126b16e89e90bbc8e032dffb4af20ea40c6d9fdfe9b7d5e134cf2",
+      "firstSeenAt": "2026-09-08T03:31:27.602Z",
+      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ebbbe935c6c0b988666e": {
+      "id": "opp_ebbbe935c6c0b988666e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33321",
+      "canonicalUrl": "https://news.hada.io/topic?id=33321",
+      "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-07T21:24:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "최근 약간 빠져버린 무협지에서 기인해, 가벼운 마음으로 무협지 문체 스킬을 만들어 보았습니다. 이 초식은 클로드가 강호의 말투로 한국어를 쓰...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33321"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2fe2eb2f62c3c8cf6c7c2ded0ae633a5e396c9a0749948f1b65ba50fff61d9f3",
+      "dedupeKey": "brief:opp_ebbbe935c6c0b988666e:sha256:2fe2eb2f62c3c8cf6c7c2ded0ae633a5e396c9a0749948f1b65ba50fff61d9f3",
+      "firstSeenAt": "2026-09-08T03:31:27.602Z",
+      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7dc567f0c947644947b3": {
+      "id": "opp_7dc567f0c947644947b3",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/52631",
+      "canonicalUrl": "https://toss.tech/article/52631",
+      "title": "AI가 팀 규칙을 지키도록 하는 방법",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 08 Sep 2026 02:43:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "Coding Agent를 위한 Stylepack",
+      "summaryEvidence": [
+        "https://toss.tech/article/52631"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3a40d6564feb84e2153e92faf9da505052f41567786b63526e09a2a652f53246",
+      "dedupeKey": "brief:opp_7dc567f0c947644947b3:sha256:3a40d6564feb84e2153e92faf9da505052f41567786b63526e09a2a652f53246",
+      "firstSeenAt": "2026-09-08T03:31:27.602Z",
+      "lastSeenAt": "2026-09-08T03:31:27.602Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -47833,6 +48078,24 @@
       "opportunityId": "opp_d8f9c0a4376e8fed8cd0",
       "sentAt": "2026-09-08T00:05:42.079Z",
       "messageId": "1546672846489653362"
+    },
+    "brief:opp_7dc567f0c947644947b3:sha256:3a40d6564feb84e2153e92faf9da505052f41567786b63526e09a2a652f53246": {
+      "status": "SENT",
+      "opportunityId": "opp_7dc567f0c947644947b3",
+      "sentAt": "2026-09-08T03:31:27.602Z",
+      "messageId": "1546724627487924257"
+    },
+    "brief:opp_a79c9f5850dc08774cec:sha256:d594da0f7353990261152f6280452e3f67c1c90f4935783557cb827cffc8a67b": {
+      "status": "SENT",
+      "opportunityId": "opp_a79c9f5850dc08774cec",
+      "sentAt": "2026-09-08T03:31:27.602Z",
+      "messageId": "1546724627487924257"
+    },
+    "brief:opp_2d2bf5dbcc6dfc5c9233:sha256:230dadf115b126b16e89e90bbc8e032dffb4af20ea40c6d9fdfe9b7d5e134cf2": {
+      "status": "SENT",
+      "opportunityId": "opp_2d2bf5dbcc6dfc5c9233",
+      "sentAt": "2026-09-08T03:31:27.602Z",
+      "messageId": "1546724627487924257"
     }
   },
   "pending": {},
