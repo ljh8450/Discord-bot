@@ -44684,26 +44684,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 3,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:aca37f80ddeaa9c80fdd7b96ebe21e188509506f8e9eac14f0161dd9587da2d3",
       "dedupeKey": "brief:opp_b36f678a0dbe930d1922:sha256:aca37f80ddeaa9c80fdd7b96ebe21e188509506f8e9eac14f0161dd9587da2d3",
-      "firstSeenAt": "2026-09-09T09:06:17.265Z",
-      "lastSeenAt": "2026-09-09T09:06:17.265Z",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -44734,7 +44734,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 5,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -44748,8 +44748,8 @@
       },
       "contentHash": "sha256:8b5577b45bbc2e21a1c1ae2389544ae7f5c2f95e8531a02dff23c06511f85e42",
       "dedupeKey": "brief:opp_7891e4eb8f1002336344:sha256:8b5577b45bbc2e21a1c1ae2389544ae7f5c2f95e8531a02dff23c06511f85e42",
-      "firstSeenAt": "2026-09-09T09:06:17.265Z",
-      "lastSeenAt": "2026-09-09T09:06:17.265Z",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -44783,7 +44783,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 7,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -44797,8 +44797,8 @@
       },
       "contentHash": "sha256:ffac9717ea8e601f9371bdbb45fd0277b12779da11725b8eab98d8861b8596f0",
       "dedupeKey": "brief:opp_842bae34a6be7b864ee5:sha256:ffac9717ea8e601f9371bdbb45fd0277b12779da11725b8eab98d8861b8596f0",
-      "firstSeenAt": "2026-09-09T09:06:17.265Z",
-      "lastSeenAt": "2026-09-09T09:06:17.265Z",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -44846,8 +44846,8 @@
       },
       "contentHash": "sha256:b858d06a3e9c4ea121150305a3aa9716b41a1541534134c92e7bbd9bbe636eda",
       "dedupeKey": "brief:opp_76e3f04e4181131cb9c4:sha256:b858d06a3e9c4ea121150305a3aa9716b41a1541534134c92e7bbd9bbe636eda",
-      "firstSeenAt": "2026-09-09T09:06:17.265Z",
-      "lastSeenAt": "2026-09-09T09:06:17.265Z",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -44999,6 +44999,161 @@
       "dedupeKey": "brief:opp_cbc5de710bdd0f83a1fe:sha256:5c55db04b8ddbe5968fa02e44fcee20dbffcb6286503abc6b214db16458ca9c2",
       "firstSeenAt": "2026-09-09T09:06:17.265Z",
       "lastSeenAt": "2026-09-09T09:06:17.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3fdb3e7f3fcdef40f142": {
+      "id": "opp_3fdb3e7f3fcdef40f142",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33396",
+      "canonicalUrl": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked",
+      "title": "Qwen3.8 27B 양자화 벤치마크: 4비트는 성능 유지, 1비트는 붕괴",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T10:56:51+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "55GB인 Qwen3.8 27B를 4비트 양자화로 17GB까지 줄여도, 과학 문제, 지시 준수와 에이전트 코딩 평가에서 원본과 눈에 띄는 성능 차이가 없었음 17...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33396"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b651e959901422725f0dfda749aba1cf007713fa882e98f49bcb3e86846333fb",
+      "dedupeKey": "brief:opp_3fdb3e7f3fcdef40f142:sha256:b651e959901422725f0dfda749aba1cf007713fa882e98f49bcb3e86846333fb",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e5bb0a4479ff623bb911": {
+      "id": "opp_e5bb0a4479ff623bb911",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:l4WuRnKFk-c",
+      "canonicalUrl": "https://www.youtube.com/watch?v=l4WuRnKFk-c",
+      "title": "[한영자막] 에이전트의 다음 개척지: 에이전트 간 협업과 네트워크 효과의 미래입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T10:00:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "전 Plaid CTO이자 현 Town CTO인 장드니(Jean-Denis Greze)가 밝히는 에이전트 간 협업(A2A)과 네트워크 효과의 본질입니다. '에이전트 간 상호작용'은 사실 검색 문제입니다. 세상의 모든 데이터에 접근하는 단 하나의 완벽한 에이전트가 이상적이지만, 현실에서는 프라이버시와 보안이라는 거래 비용 때문에 데이터가 격리되어 있습니다. 본 강연에서는 사내 데이터 사일로를 허물고 에이전트 간 네트워크 효과를 창출하기 위한 5가지 실전 전략과 미래 방향을 심도 있게 분석합니다. 📌",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=l4WuRnKFk-c"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-09T10:00:32.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c036d9a5cc27efef81407e87156b6edee31b3cecb0ab665bbf091663f3b18402",
+      "dedupeKey": "brief:opp_e5bb0a4479ff623bb911:sha256:c036d9a5cc27efef81407e87156b6edee31b3cecb0ab665bbf091663f3b18402",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3effa5afc5b400d634c9": {
+      "id": "opp_3effa5afc5b400d634c9",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:gUfdzjf_J2k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gUfdzjf_J2k",
+      "title": "GPT6, 일반인도 잡일, 업무 다 대체됩니다… 제대로 쓰는 법 | AI 에이전트의 진짜 비용 구조 | Computer Use·하네스·토큰 절약법까지",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T09:33:45+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "GPT-6 Astra를 써본 사용자들 사이에서는 일을 잘하는 만큼 토큰도 빠르게 쓴다는 이야기가 나오고 있습니다. 이번 영상에서는 짧은 요청 하나를 처리할 때 AI가 뒤에서 화면을 읽고, 도구를 실행하고, 결과를 다시 확인하는 과정에서 왜 생각보다 많은 토큰이 쓰이는지 살펴봅니다. Computer Use와 에이전트 하네스가 실제로 어떤 식으로 일을 이어가는지도 쉽게 풀어봤습니다. 코딩이나 웹 작업에서 오류를 다시 읽고 수정하거나, 여러 서브에이전트가 동시에 움직일 때 사용량이 늘어나는 이유도 함께",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gUfdzjf_J2k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-09T09:33:45.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d0a9baa4a05039bd1eeb35f0b24eb7c8b2897d7d07cb902dc1f49f556442cfdf",
+      "dedupeKey": "brief:opp_3effa5afc5b400d634c9:sha256:d0a9baa4a05039bd1eeb35f0b24eb7c8b2897d7d07cb902dc1f49f556442cfdf",
+      "firstSeenAt": "2026-09-09T13:21:49.536Z",
+      "lastSeenAt": "2026-09-09T13:21:49.536Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -49902,6 +50057,30 @@
       "opportunityId": "opp_ba7fc71d1fbb9f1db145",
       "sentAt": "2026-09-09T09:06:17.265Z",
       "messageId": "1547171277746475139"
+    },
+    "brief:opp_e5bb0a4479ff623bb911:sha256:c036d9a5cc27efef81407e87156b6edee31b3cecb0ab665bbf091663f3b18402": {
+      "status": "SENT",
+      "opportunityId": "opp_e5bb0a4479ff623bb911",
+      "sentAt": "2026-09-09T13:21:49.536Z",
+      "messageId": "1547235585909985431"
+    },
+    "brief:opp_3effa5afc5b400d634c9:sha256:d0a9baa4a05039bd1eeb35f0b24eb7c8b2897d7d07cb902dc1f49f556442cfdf": {
+      "status": "SENT",
+      "opportunityId": "opp_3effa5afc5b400d634c9",
+      "sentAt": "2026-09-09T13:21:49.536Z",
+      "messageId": "1547235585909985431"
+    },
+    "brief:opp_b36f678a0dbe930d1922:sha256:aca37f80ddeaa9c80fdd7b96ebe21e188509506f8e9eac14f0161dd9587da2d3": {
+      "status": "SENT",
+      "opportunityId": "opp_b36f678a0dbe930d1922",
+      "sentAt": "2026-09-09T13:21:49.536Z",
+      "messageId": "1547235585909985431"
+    },
+    "brief:opp_3fdb3e7f3fcdef40f142:sha256:b651e959901422725f0dfda749aba1cf007713fa882e98f49bcb3e86846333fb": {
+      "status": "SENT",
+      "opportunityId": "opp_3fdb3e7f3fcdef40f142",
+      "sentAt": "2026-09-09T13:21:49.536Z",
+      "messageId": "1547235585909985431"
     }
   },
   "pending": {},
