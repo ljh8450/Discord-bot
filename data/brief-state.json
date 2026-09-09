@@ -43436,26 +43436,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 17,
-        "communityRank": 3,
+        "communityPoints": 20,
+        "communityRank": 8,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda",
       "dedupeKey": "brief:opp_5c45d1926e319398dec0:sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda",
-      "firstSeenAt": "2026-09-09T00:05:40.972Z",
-      "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -44195,11 +44195,11 @@
       },
       "contentHash": "sha256:79af6bd5c5f695e9e165d8565557d4180517c38e083de64dfe0dbb40aeadfd5d",
       "dedupeKey": "brief:opp_b7a77eec322959d09e11:sha256:79af6bd5c5f695e9e165d8565557d4180517c38e083de64dfe0dbb40aeadfd5d",
-      "firstSeenAt": "2026-09-09T00:05:40.972Z",
-      "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -44243,11 +44243,11 @@
       },
       "contentHash": "sha256:af7085a0e58e52de782c02f0a5be3a337e97e3010b13022a776b73c619f79231",
       "dedupeKey": "brief:opp_585b0bace3bffd2ae740:sha256:af7085a0e58e52de782c02f0a5be3a337e97e3010b13022a776b73c619f79231",
-      "firstSeenAt": "2026-09-09T00:05:40.972Z",
-      "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -44291,8 +44291,8 @@
       },
       "contentHash": "sha256:b23cea022690cd229a3763a6fad7dfceb4b563712b96e550d921bf83dcacd17e",
       "dedupeKey": "brief:opp_ba7fc71d1fbb9f1db145:sha256:b23cea022690cd229a3763a6fad7dfceb4b563712b96e550d921bf83dcacd17e",
-      "firstSeenAt": "2026-09-09T00:05:40.972Z",
-      "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -44339,8 +44339,8 @@
       },
       "contentHash": "sha256:282b8e826a91c52e10f7f90037ced1381650277f1a59be0ae74a988a508ae090",
       "dedupeKey": "brief:opp_7cd661b3106356cdd6f7:sha256:282b8e826a91c52e10f7f90037ced1381650277f1a59be0ae74a988a508ae090",
-      "firstSeenAt": "2026-09-09T00:05:40.972Z",
-      "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -44462,7 +44462,7 @@
       "title": "[한영자막] AI 시대의 코드 품질: 완벽한 코드로도 부족한 진짜 이유입니다",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-09-08T12:50:32+00:00",
+      "publishedAt": "2026-09-08T12:50:32.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -44481,7 +44481,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-09-08T22:00:02.000Z",
@@ -44498,11 +44498,11 @@
       },
       "contentHash": "sha256:41089d65e7fbe2b1f970339079da4f36d00ff6fa86987e453478406b6c60c39d",
       "dedupeKey": "brief:opp_ffbe0298e8ddfccadbf8:sha256:41089d65e7fbe2b1f970339079da4f36d00ff6fa86987e453478406b6c60c39d",
-      "firstSeenAt": "2026-09-09T00:05:40.972Z",
-      "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -44554,6 +44554,55 @@
       "dedupeKey": "brief:opp_b5b84bc5b6e4783c1b42:sha256:ab03c8766119cb70aa067710220373b53fdf07eea32dc3bf5deffab9cd3e1c1a",
       "firstSeenAt": "2026-09-09T00:05:40.972Z",
       "lastSeenAt": "2026-09-09T00:05:40.972Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dbb4b2c83cd0086a1be7": {
+      "id": "opp_dbb4b2c83cd0086a1be7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33383",
+      "canonicalUrl": "https://github.com/QwenLM/Qwen-Drive-1.0",
+      "title": "Qwen-Drive-1.0 - 도로 상황을 이해하고 주행 경로까지 계획하는 자율주행 AI 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "주변 환경의 3D 인식, 주행 상황에 대한 질의응답, 차량의 이동 경로 계획을 하나로 결합한 모델 Qwen3.5-4B의 기본 구조를 유지하면서 주변 공간...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33383"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e8c4291e44f191a9dcd3621fe049b4ecc213144e89caa8699eff47352f005a05",
+      "dedupeKey": "brief:opp_dbb4b2c83cd0086a1be7:sha256:e8c4291e44f191a9dcd3621fe049b4ecc213144e89caa8699eff47352f005a05",
+      "firstSeenAt": "2026-09-09T03:35:39.555Z",
+      "lastSeenAt": "2026-09-09T03:35:39.555Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -49391,6 +49440,36 @@
       "opportunityId": "opp_58849f08342723cf9c23",
       "sentAt": "2026-09-09T00:05:40.972Z",
       "messageId": "1547035229900775457"
+    },
+    "brief:opp_b7a77eec322959d09e11:sha256:79af6bd5c5f695e9e165d8565557d4180517c38e083de64dfe0dbb40aeadfd5d": {
+      "status": "SENT",
+      "opportunityId": "opp_b7a77eec322959d09e11",
+      "sentAt": "2026-09-09T03:35:39.555Z",
+      "messageId": "1547088072238301185"
+    },
+    "brief:opp_585b0bace3bffd2ae740:sha256:af7085a0e58e52de782c02f0a5be3a337e97e3010b13022a776b73c619f79231": {
+      "status": "SENT",
+      "opportunityId": "opp_585b0bace3bffd2ae740",
+      "sentAt": "2026-09-09T03:35:39.555Z",
+      "messageId": "1547088072238301185"
+    },
+    "brief:opp_dbb4b2c83cd0086a1be7:sha256:e8c4291e44f191a9dcd3621fe049b4ecc213144e89caa8699eff47352f005a05": {
+      "status": "SENT",
+      "opportunityId": "opp_dbb4b2c83cd0086a1be7",
+      "sentAt": "2026-09-09T03:35:39.555Z",
+      "messageId": "1547088072238301185"
+    },
+    "brief:opp_5c45d1926e319398dec0:sha256:72533d10aa7c2119b8d44973e70c055b996c854fe423f725c138282d0fc76fda": {
+      "status": "SENT",
+      "opportunityId": "opp_5c45d1926e319398dec0",
+      "sentAt": "2026-09-09T03:35:39.555Z",
+      "messageId": "1547088072238301185"
+    },
+    "brief:opp_ffbe0298e8ddfccadbf8:sha256:41089d65e7fbe2b1f970339079da4f36d00ff6fa86987e453478406b6c60c39d": {
+      "status": "SENT",
+      "opportunityId": "opp_ffbe0298e8ddfccadbf8",
+      "sentAt": "2026-09-09T03:35:39.555Z",
+      "messageId": "1547088072238301185"
     }
   },
   "pending": {},
