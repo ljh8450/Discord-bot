@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-10T09:05:36.523Z",
-      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -45536,7 +45536,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 9,
+        "communityRank": 10,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -45550,8 +45550,8 @@
       },
       "contentHash": "sha256:2a9c391df42e984fca360b0df52fdb75e079ff8ad42f5ecd514c778e10eac5bf",
       "dedupeKey": "brief:opp_bd80da77e15f1f904040:sha256:2a9c391df42e984fca360b0df52fdb75e079ff8ad42f5ecd514c778e10eac5bf",
-      "firstSeenAt": "2026-09-10T09:05:36.523Z",
-      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -45794,11 +45794,11 @@
       },
       "contentHash": "sha256:9790fd26b4dc7a2b080877c9ac5872a29708ec8e4f60dd62b7fd84512143e200",
       "dedupeKey": "brief:opp_74254a7f1bb0440aec96:sha256:9790fd26b4dc7a2b080877c9ac5872a29708ec8e4f60dd62b7fd84512143e200",
-      "firstSeenAt": "2026-09-10T09:05:36.523Z",
-      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -45927,7 +45927,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -45941,8 +45941,8 @@
       },
       "contentHash": "sha256:d3c882b31d04d5974590335c76733ada7944761920ee12f7189c6a49e4a93473",
       "dedupeKey": "brief:opp_f493bab18c2499eec105:sha256:d3c882b31d04d5974590335c76733ada7944761920ee12f7189c6a49e4a93473",
-      "firstSeenAt": "2026-09-10T09:05:36.523Z",
-      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46088,11 +46088,166 @@
       },
       "contentHash": "sha256:f5f730f4f5082f23811d810c40fbb199ea02c30232b33fe1ccf437df531558ff",
       "dedupeKey": "brief:opp_97ab7bc29a1c1bc13d37:sha256:f5f730f4f5082f23811d810c40fbb199ea02c30232b33fe1ccf437df531558ff",
-      "firstSeenAt": "2026-09-10T09:05:36.523Z",
-      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bc352596b0fd03cf9ab6": {
+      "id": "opp_bc352596b0fd03cf9ab6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33462",
+      "canonicalUrl": "https://x.com/addyosmani/status/2097210828659564642",
+      "title": "Addy Osmani, Google 떠나 Anthropic 합류",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T09:20:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "웹 성능과 소프트웨어 개발 관련 글로 널리 알려진 Addy Osmani가 9월 8일 Anthropic 합류를 발표, Claude Code를 개발자들이 더 잘 사용할 수 있...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33462"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:470b3617fa62a82b370f2ba9f157103671a96645fdda4b8ecd9da0bb28cd11b2",
+      "dedupeKey": "brief:opp_bc352596b0fd03cf9ab6:sha256:470b3617fa62a82b370f2ba9f157103671a96645fdda4b8ecd9da0bb28cd11b2",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5d6ae608cbfa15f38ed4": {
+      "id": "opp_5d6ae608cbfa15f38ed4",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:vZ-Empnyug0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vZ-Empnyug0",
+      "title": "[한영자막] 개발용 AI 도구가 왜 실제 환경에선 실패할까요? 빌드타임과 런타임의 결정적 차이 | Google 엔지니어",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T09:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "개발 환경에서는 훌륭하게 작동하던 AI 도구가 왜 실제 프로덕션 환경에 배포되면 치명적인 사고를 일으킬까요? Google Cloud 데이터베이스 MCP 테크 리드와 Eval Bench 테크 리드가 실전 경험을 바탕으로 빌드타임 도구와 런타임 도구의 결정적 차이, 그리고 에이전트 환경에서 데이터베이스를 안전하게 보호하는 보안 아키텍처를 명쾌하게 정리해 드립니다. 📌 주요 내용: • 빌드타임 vs 런타임 도구: 자유로운 탐색용 도구(NL2SQL, Control Plane)와 통제된 프로덕션 도구의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=vZ-Empnyug0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-10T09:00:22.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3352c53e66068122a4db017b8d1df5f34ef2e5216da95c90fee626b8311b2fa1",
+      "dedupeKey": "brief:opp_5d6ae608cbfa15f38ed4:sha256:3352c53e66068122a4db017b8d1df5f34ef2e5216da95c90fee626b8311b2fa1",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_30a7026e64603d96f22e": {
+      "id": "opp_30a7026e64603d96f22e",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:49ppsNOieaw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=49ppsNOieaw",
+      "title": "Astra와 Fable, 출시 가능한 게임도 쉽게 만들 수 있을까?",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T09:15:08+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#GPT6 Astra #Claude Fable #AI게임개발 #바이브코딩 #게임개발 ▶ 완성 게임 직접 플레이 https://stock-rush.youngjunekim.chatgpt.site 같은 기획서와 같은 에셋을 두 AI에게 주면, 어느 쪽이 출시 가능한 게임을 만들까요? GPT-6 Astra와 Claude Fable 5.1에 같은 24장 기획서와 에셋 90장을 주고 모바일 퍼즐 게임을 만들게 했습니다. 완성도, 직접 플레이 후 개선, 비용을 비교하고 마지막에는 제가 사운드와 시각 효과를 다",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=49ppsNOieaw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-10T09:15:08.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ce98f573b75f92910abca6fd925502919afcbab30a467e96b0edf2ffb76eaceb",
+      "dedupeKey": "brief:opp_30a7026e64603d96f22e:sha256:ce98f573b75f92910abca6fd925502919afcbab30a467e96b0edf2ffb76eaceb",
+      "firstSeenAt": "2026-09-10T13:18:48.063Z",
+      "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -51113,6 +51268,36 @@
       "opportunityId": "opp_0e8fbff76813dc25cecb",
       "sentAt": "2026-09-10T09:05:36.523Z",
       "messageId": "1547533494002131006"
+    },
+    "brief:opp_97ab7bc29a1c1bc13d37:sha256:f5f730f4f5082f23811d810c40fbb199ea02c30232b33fe1ccf437df531558ff": {
+      "status": "SENT",
+      "opportunityId": "opp_97ab7bc29a1c1bc13d37",
+      "sentAt": "2026-09-10T13:18:48.063Z",
+      "messageId": "1547597212492767263"
+    },
+    "brief:opp_30a7026e64603d96f22e:sha256:ce98f573b75f92910abca6fd925502919afcbab30a467e96b0edf2ffb76eaceb": {
+      "status": "SENT",
+      "opportunityId": "opp_30a7026e64603d96f22e",
+      "sentAt": "2026-09-10T13:18:48.063Z",
+      "messageId": "1547597212492767263"
+    },
+    "brief:opp_5d6ae608cbfa15f38ed4:sha256:3352c53e66068122a4db017b8d1df5f34ef2e5216da95c90fee626b8311b2fa1": {
+      "status": "SENT",
+      "opportunityId": "opp_5d6ae608cbfa15f38ed4",
+      "sentAt": "2026-09-10T13:18:48.063Z",
+      "messageId": "1547597212492767263"
+    },
+    "brief:opp_74254a7f1bb0440aec96:sha256:9790fd26b4dc7a2b080877c9ac5872a29708ec8e4f60dd62b7fd84512143e200": {
+      "status": "SENT",
+      "opportunityId": "opp_74254a7f1bb0440aec96",
+      "sentAt": "2026-09-10T13:18:48.063Z",
+      "messageId": "1547597212492767263"
+    },
+    "brief:opp_bc352596b0fd03cf9ab6:sha256:470b3617fa62a82b370f2ba9f157103671a96645fdda4b8ecd9da0bb28cd11b2": {
+      "status": "SENT",
+      "opportunityId": "opp_bc352596b0fd03cf9ab6",
+      "sentAt": "2026-09-10T13:18:48.063Z",
+      "messageId": "1547597212492767263"
     }
   },
   "pending": {},
