@@ -45486,23 +45486,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 13,
         "communityRank": 2,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-10T03:33:14.944Z",
-      "lastSeenAt": "2026-09-10T03:33:14.944Z",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -45536,13 +45536,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 3,
-        "contentScore": 11,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -45550,8 +45550,8 @@
       },
       "contentHash": "sha256:2a9c391df42e984fca360b0df52fdb75e079ff8ad42f5ecd514c778e10eac5bf",
       "dedupeKey": "brief:opp_bd80da77e15f1f904040:sha256:2a9c391df42e984fca360b0df52fdb75e079ff8ad42f5ecd514c778e10eac5bf",
-      "firstSeenAt": "2026-09-10T03:33:14.944Z",
-      "lastSeenAt": "2026-09-10T03:33:14.944Z",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -45750,6 +45750,349 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_74254a7f1bb0440aec96": {
+      "id": "opp_74254a7f1bb0440aec96",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33464",
+      "canonicalUrl": "https://www.nfx.com/post/how-much-should-founders-get-paid",
+      "title": "창업자는 월급을 얼마나 받아야 할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T10:32:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "창업자 급여의 기준은 남들이 받는 금액이 아니라 자신과 가족의 생활을 지키면서 회사의 장기적 성공에 집중할 수 있는 수준이어야 함 생활비를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33464"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9790fd26b4dc7a2b080877c9ac5872a29708ec8e4f60dd62b7fd84512143e200",
+      "dedupeKey": "brief:opp_74254a7f1bb0440aec96:sha256:9790fd26b4dc7a2b080877c9ac5872a29708ec8e4f60dd62b7fd84512143e200",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0e8fbff76813dc25cecb": {
+      "id": "opp_0e8fbff76813dc25cecb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33446",
+      "canonicalUrl": "https://desertant.com/blog/introducing-desert-ant-labs",
+      "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T00:34:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "음성 인식, 녹음 음질 개선, 개인정보 가리기 등을 기기 안에서 처리하는 소형 특화 모델 18개를 공개함. 안정 버전 12개와 베타 6개로 구성 반복 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33446"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:73973a52a2a7c3638e9d2d21ed0d6e2ea97b494a3586af8e97327f7f84340e45",
+      "dedupeKey": "brief:opp_0e8fbff76813dc25cecb:sha256:73973a52a2a7c3638e9d2d21ed0d6e2ea97b494a3586af8e97327f7f84340e45",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_515c390dbe7f6120f29c": {
+      "id": "opp_515c390dbe7f6120f29c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33449",
+      "canonicalUrl": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "title": "GPT-6 Astra와 루프형 트랜스포머: 추론이 짧아지면 속을 알기 어려워질까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T03:40:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "글쓰기, 수학, 코딩 전반에서 GPT-5.6보다 개선된 GPT-6 Astra는 특히 3D 렌더링, 애니메이션과 컴퓨터 사용에서 큰 진전을 보임 성능 향상과 짧아...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33449"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:13471a33bdee95c012f7f2377c559475257278cd31e094f34be280341e535f17",
+      "dedupeKey": "brief:opp_515c390dbe7f6120f29c:sha256:13471a33bdee95c012f7f2377c559475257278cd31e094f34be280341e535f17",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f493bab18c2499eec105": {
+      "id": "opp_f493bab18c2499eec105",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33444",
+      "canonicalUrl": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "title": "Tailwind Labs, Shopify에 합류",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T23:45:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "수백만 사용자가 의존하는 Tailwind CSS를 개발중인 Tailwind Labs가 장기적인 개발과 유지보수 기반을 확보하기 위해 Shopify에 합류함 Tailwind ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33444"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d3c882b31d04d5974590335c76733ada7944761920ee12f7189c6a49e4a93473",
+      "dedupeKey": "brief:opp_f493bab18c2499eec105:sha256:d3c882b31d04d5974590335c76733ada7944761920ee12f7189c6a49e4a93473",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_854cd5039ab461af75fd": {
+      "id": "opp_854cd5039ab461af75fd",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "4802da78fe84548f7a884ec5d71c8606c9cb10d4",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/rendering-digital-humans-with-amazon-ec2-spot-instances",
+      "title": "Amazon EC2 Spot 인스턴스로 디지털 휴먼 렌더링하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 06:53:49 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "원문: Rendering Digital Humans with Amazon EC2 Spot Instances — Dario Macagnano, Jyothi Madanlal, 2026년 7월 10일 (AWS Physical AI Blog) Amazon Web Services는 이 게시물에 기여해 주신 UneeQ 엔지니어링 팀에 감사드립니다 UneeQ는 실시간 고충실도(high-fidelity) 3D 렌더링을 통해 사실적인 표정을 표현하면서 자연스러운 대화를 나누는 AI 기반 디지털 휴먼(digital",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/rendering-digital-humans-with-amazon-ec2-spot-instances/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:711d60e03f5262dc0d3b4fc57137d55cfa78b5189c456f6ff4586045c65922d4",
+      "dedupeKey": "brief:opp_854cd5039ab461af75fd:sha256:711d60e03f5262dc0d3b4fc57137d55cfa78b5189c456f6ff4586045c65922d4",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fa93e9f8c6081c76b5ae": {
+      "id": "opp_fa93e9f8c6081c76b5ae",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "fe0058975532fe1b26e8cf62fd96e8bcb0480f24",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/running-pgvector-in-production-on-amazon-aurora-postgresql",
+      "title": "Amazon Aurora PostgreSQL에서 pgvector를 프로덕션 환경으로 운영하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 06:46:57 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 AWS Database Blog에 게시된 Running pgvector in production on Amazon Aurora PostgreSQL by Stefan Aichholzer 을 한국어 번역 및 편집하였습니다. Amazon Aurora PostgreSQL-Compatible Edition에서 pgvector를 실행하면 이미 익숙한 데이터베이스 위에 프로덕션 수준의 벡터 스토어를 구축할 수 있으며, Amazon Aurora의 운영 도구, 고가용성, 확장 기능이 이를 뒷받침합니다.",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/running-pgvector-in-production-on-amazon-aurora-postgresql/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a65d8e7b4066231d602127c46ffdc9cfa4c84afb60943de6b4fc117c1d663f01",
+      "dedupeKey": "brief:opp_fa93e9f8c6081c76b5ae:sha256:a65d8e7b4066231d602127c46ffdc9cfa4c84afb60943de6b4fc117c1d663f01",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_97ab7bc29a1c1bc13d37": {
+      "id": "opp_97ab7bc29a1c1bc13d37",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "3a6f9403ed9497be8cfa08817008d5f0266aab3f",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/accelerate-oracle-to-postgresql-migration-with-gamma-on-amazon-bedrock",
+      "title": "Amazon Bedrock 기반 멀티 에이전트 GAMMA로 Oracle-to-PostgreSQL 마이그레이션 가속화하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 06:19:48 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "소개 클라우드 전환을 가속화하는 조직들은 공통된 병목에 직면합니다. 바로 핵심 비즈니스를 지탱하는 레거시 시스템의 현대화(Modernization)입니다. 기업이 Oracle에서 Amazon Aurora PostgreSQL-Compatible Edition으로 마이그레이션할 때, 테이블, 인덱스, 뷰 같은 스키마 객체는 AWS Schema Conversion Tool(SCT)과 AWS DMS Schema Conversion으로 안정적으로 변환할 수 있습니다. 실제 병목은 복잡한 비즈니스 로직이 내",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/accelerate-oracle-to-postgresql-migration-with-gamma-on-amazon-bedrock/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f5f730f4f5082f23811d810c40fbb199ea02c30232b33fe1ccf437df531558ff",
+      "dedupeKey": "brief:opp_97ab7bc29a1c1bc13d37:sha256:f5f730f4f5082f23811d810c40fbb199ea02c30232b33fe1ccf437df531558ff",
+      "firstSeenAt": "2026-09-10T09:05:36.523Z",
+      "lastSeenAt": "2026-09-10T09:05:36.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -50746,6 +51089,30 @@
       "opportunityId": "opp_08b5b7d27c950376cb7f",
       "sentAt": "2026-09-10T03:33:14.944Z",
       "messageId": "1547449853175402557"
+    },
+    "brief:opp_854cd5039ab461af75fd:sha256:711d60e03f5262dc0d3b4fc57137d55cfa78b5189c456f6ff4586045c65922d4": {
+      "status": "SENT",
+      "opportunityId": "opp_854cd5039ab461af75fd",
+      "sentAt": "2026-09-10T09:05:36.523Z",
+      "messageId": "1547533494002131006"
+    },
+    "brief:opp_fa93e9f8c6081c76b5ae:sha256:a65d8e7b4066231d602127c46ffdc9cfa4c84afb60943de6b4fc117c1d663f01": {
+      "status": "SENT",
+      "opportunityId": "opp_fa93e9f8c6081c76b5ae",
+      "sentAt": "2026-09-10T09:05:36.523Z",
+      "messageId": "1547533494002131006"
+    },
+    "brief:opp_515c390dbe7f6120f29c:sha256:13471a33bdee95c012f7f2377c559475257278cd31e094f34be280341e535f17": {
+      "status": "SENT",
+      "opportunityId": "opp_515c390dbe7f6120f29c",
+      "sentAt": "2026-09-10T09:05:36.523Z",
+      "messageId": "1547533494002131006"
+    },
+    "brief:opp_0e8fbff76813dc25cecb:sha256:73973a52a2a7c3638e9d2d21ed0d6e2ea97b494a3586af8e97327f7f84340e45": {
+      "status": "SENT",
+      "opportunityId": "opp_0e8fbff76813dc25cecb",
+      "sentAt": "2026-09-10T09:05:36.523Z",
+      "messageId": "1547533494002131006"
     }
   },
   "pending": {},
