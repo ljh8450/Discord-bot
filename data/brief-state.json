@@ -44734,13 +44734,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -44748,8 +44748,8 @@
       },
       "contentHash": "sha256:8b5577b45bbc2e21a1c1ae2389544ae7f5c2f95e8531a02dff23c06511f85e42",
       "dedupeKey": "brief:opp_7891e4eb8f1002336344:sha256:8b5577b45bbc2e21a1c1ae2389544ae7f5c2f95e8531a02dff23c06511f85e42",
-      "firstSeenAt": "2026-09-09T13:21:49.536Z",
-      "lastSeenAt": "2026-09-09T13:21:49.536Z",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -44783,13 +44783,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityRank": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -44797,11 +44797,11 @@
       },
       "contentHash": "sha256:ffac9717ea8e601f9371bdbb45fd0277b12779da11725b8eab98d8861b8596f0",
       "dedupeKey": "brief:opp_842bae34a6be7b864ee5:sha256:ffac9717ea8e601f9371bdbb45fd0277b12779da11725b8eab98d8861b8596f0",
-      "firstSeenAt": "2026-09-09T13:21:49.536Z",
-      "lastSeenAt": "2026-09-09T13:21:49.536Z",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -44832,13 +44832,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -44846,11 +44846,11 @@
       },
       "contentHash": "sha256:b858d06a3e9c4ea121150305a3aa9716b41a1541534134c92e7bbd9bbe636eda",
       "dedupeKey": "brief:opp_76e3f04e4181131cb9c4:sha256:b858d06a3e9c4ea121150305a3aa9716b41a1541534134c92e7bbd9bbe636eda",
-      "firstSeenAt": "2026-09-09T13:21:49.536Z",
-      "lastSeenAt": "2026-09-09T13:21:49.536Z",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -45154,6 +45154,257 @@
       "dedupeKey": "brief:opp_3effa5afc5b400d634c9:sha256:d0a9baa4a05039bd1eeb35f0b24eb7c8b2897d7d07cb902dc1f49f556442cfdf",
       "firstSeenAt": "2026-09-09T13:21:49.536Z",
       "lastSeenAt": "2026-09-09T13:21:49.536Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_248d2b94e254b7e4e5fe": {
+      "id": "opp_248d2b94e254b7e4e5fe",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/ai-policy-window",
+      "canonicalUrl": "https://openai.com/index/ai-policy-window",
+      "title": "The AI policy window is open. We need to act.",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "summaryEvidence": [
+        "https://openai.com/index/ai-policy-window"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4f1ae3e45094cb67fb86178b40696433559d62d7ab913ec35051d3ed00b5b849",
+      "dedupeKey": "brief:opp_248d2b94e254b7e4e5fe:sha256:4f1ae3e45094cb67fb86178b40696433559d62d7ab913ec35051d3ed00b5b849",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_53739f338230d1746bc2": {
+      "id": "opp_53739f338230d1746bc2",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "canonicalUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 09 Sep 2026 11:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "summaryEvidence": [
+        "https://openai.com/index/gpt-6-astra-next-generation-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9520ac87f63e0e86bda883d2a5f8b425482dd4efbbd73dcf976d318cd7226f0c",
+      "dedupeKey": "brief:opp_53739f338230d1746bc2:sha256:9520ac87f63e0e86bda883d2a5f8b425482dd4efbbd73dcf976d318cd7226f0c",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9676624daa8ceed8b23f": {
+      "id": "opp_9676624daa8ceed8b23f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "canonicalUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "summaryEvidence": [
+        "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ec3297c384c0449e95e44f4a6c5e29112a217dbc5adad3937bc35af02ae9dd21",
+      "dedupeKey": "brief:opp_9676624daa8ceed8b23f:sha256:ec3297c384c0449e95e44f4a6c5e29112a217dbc5adad3937bc35af02ae9dd21",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90b94d2369fa0e3fee1b": {
+      "id": "opp_90b94d2369fa0e3fee1b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:WSPio2OavfU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WSPio2OavfU",
+      "title": "[한영자막] 사내 AI는 결국 회사 기밀을 유출합니다: 대형 은행에서 이를 막아낸 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T22:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "사내 AI 지식 베이스(Company Brain)를 구축할 때 발생하는 치명적인 기밀 유출 위험과, 포춘 100 대형 은행의 엄격한 보안 규제를 뚫고 이를 안전하게 배포해낸 실전 아키텍처를 소개합니다. Hasura GraphQL 엔진의 창업자이자 PromptQL을 이끄는 탄마이 고팔(Tanmai Gopal)이 15~20개 기업과 5,000페이지 규모의 사내 위키를 운영하며 증명해낸 전사 지식 관리 및 협업 AI의 핵심 설계 원칙을 확인해 보세요. 📌 주요 내용: • 사내 지식 베이스의 건강 신호",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=WSPio2OavfU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-09T22:00:02.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2896936c3dfab9311417bd07a0469ec8aba6ea749496df9cc3e931c62274afb2",
+      "dedupeKey": "brief:opp_90b94d2369fa0e3fee1b:sha256:2896936c3dfab9311417bd07a0469ec8aba6ea749496df9cc3e931c62274afb2",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ff58b8df7ef24c1da66f": {
+      "id": "opp_ff58b8df7ef24c1da66f",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:XK6S1hbYv7I",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XK6S1hbYv7I",
+      "title": "The EASIEST Way To Create $10,000 Websites With GPT-6 Astra",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T16:50:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io In this video, I break down the simple 3 step process for turning GPT 6 Astra (alongside the brand new",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XK6S1hbYv7I"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-09T16:50:27.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9ebba4268b3fc2c1b70b2f4de43e25396f976d3eb079149d32ab9e5f8fceba80",
+      "dedupeKey": "brief:opp_ff58b8df7ef24c1da66f:sha256:9ebba4268b3fc2c1b70b2f4de43e25396f976d3eb079149d32ab9e5f8fceba80",
+      "firstSeenAt": "2026-09-10T00:05:53.594Z",
+      "lastSeenAt": "2026-09-10T00:05:53.594Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -50081,6 +50332,42 @@
       "opportunityId": "opp_3fdb3e7f3fcdef40f142",
       "sentAt": "2026-09-09T13:21:49.536Z",
       "messageId": "1547235585909985431"
+    },
+    "brief:opp_53739f338230d1746bc2:sha256:9520ac87f63e0e86bda883d2a5f8b425482dd4efbbd73dcf976d318cd7226f0c": {
+      "status": "SENT",
+      "opportunityId": "opp_53739f338230d1746bc2",
+      "sentAt": "2026-09-10T00:05:53.594Z",
+      "messageId": "1547397671071916073"
+    },
+    "brief:opp_9676624daa8ceed8b23f:sha256:ec3297c384c0449e95e44f4a6c5e29112a217dbc5adad3937bc35af02ae9dd21": {
+      "status": "SENT",
+      "opportunityId": "opp_9676624daa8ceed8b23f",
+      "sentAt": "2026-09-10T00:05:53.594Z",
+      "messageId": "1547397671071916073"
+    },
+    "brief:opp_ff58b8df7ef24c1da66f:sha256:9ebba4268b3fc2c1b70b2f4de43e25396f976d3eb079149d32ab9e5f8fceba80": {
+      "status": "SENT",
+      "opportunityId": "opp_ff58b8df7ef24c1da66f",
+      "sentAt": "2026-09-10T00:05:53.594Z",
+      "messageId": "1547397671071916073"
+    },
+    "brief:opp_90b94d2369fa0e3fee1b:sha256:2896936c3dfab9311417bd07a0469ec8aba6ea749496df9cc3e931c62274afb2": {
+      "status": "SENT",
+      "opportunityId": "opp_90b94d2369fa0e3fee1b",
+      "sentAt": "2026-09-10T00:05:53.594Z",
+      "messageId": "1547397671071916073"
+    },
+    "brief:opp_76e3f04e4181131cb9c4:sha256:b858d06a3e9c4ea121150305a3aa9716b41a1541534134c92e7bbd9bbe636eda": {
+      "status": "SENT",
+      "opportunityId": "opp_76e3f04e4181131cb9c4",
+      "sentAt": "2026-09-10T00:05:53.594Z",
+      "messageId": "1547397671071916073"
+    },
+    "brief:opp_842bae34a6be7b864ee5:sha256:ffac9717ea8e601f9371bdbb45fd0277b12779da11725b8eab98d8861b8596f0": {
+      "status": "SENT",
+      "opportunityId": "opp_842bae34a6be7b864ee5",
+      "sentAt": "2026-09-10T00:05:53.594Z",
+      "messageId": "1547397671071916073"
     }
   },
   "pending": {},
