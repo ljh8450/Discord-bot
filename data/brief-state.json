@@ -45487,7 +45487,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 13,
-        "communityRank": 2,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-11T00:05:44.498Z",
-      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46485,11 +46485,11 @@
       },
       "contentHash": "sha256:9a8473efd6dede9082b90c633ec3cebd54bec614db18bbb2b9ce92249b195f03",
       "dedupeKey": "brief:opp_cd6289e50d755755b4b9:sha256:9a8473efd6dede9082b90c633ec3cebd54bec614db18bbb2b9ce92249b195f03",
-      "firstSeenAt": "2026-09-11T00:05:44.498Z",
-      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -46533,11 +46533,11 @@
       },
       "contentHash": "sha256:6d0eabf92bd50999c11749412f471e4b7845884c49f59df8a9674c59556f540d",
       "dedupeKey": "brief:opp_1c0210322c2e5582c0ed:sha256:6d0eabf92bd50999c11749412f471e4b7845884c49f59df8a9674c59556f540d",
-      "firstSeenAt": "2026-09-11T00:05:44.498Z",
-      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -46581,8 +46581,8 @@
       },
       "contentHash": "sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed",
       "dedupeKey": "brief:opp_d8cb75f071e8589e0ae1:sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed",
-      "firstSeenAt": "2026-09-11T00:05:44.498Z",
-      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46629,8 +46629,8 @@
       },
       "contentHash": "sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954",
       "dedupeKey": "brief:opp_5879447e52662ba90bb6:sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954",
-      "firstSeenAt": "2026-09-11T00:05:44.498Z",
-      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46786,6 +46786,154 @@
       "dedupeKey": "brief:opp_c15fc2baa9a5959ca42c:sha256:0b2a990a1477201cffddc497744c9c6858720ba031839a115c96a9baec54e7e4",
       "firstSeenAt": "2026-09-11T00:05:44.498Z",
       "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90d53a661c5a2d8f10c9": {
+      "id": "opp_90d53a661c5a2d8f10c9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33480",
+      "canonicalUrl": "https://mathstodon.xyz/@tao/117244102901892965",
+      "title": "모든 어른은 한때 어린이였지만, 그것을 기억하는 어른은 드물다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T20:38:58+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "수학자 테렌스 타오(Terence Tao) 는 AI가 문제를 풀더라도, 그 과정에서 사람이 얻는 배움과 통찰까지 대신하는 것은 아니라며 호기심에 이끌리는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33480"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bf0a8e07e0799e3b4b38af8f63fb373e79f58fce925cd47ac11a666c182ae102",
+      "dedupeKey": "brief:opp_90d53a661c5a2d8f10c9:sha256:bf0a8e07e0799e3b4b38af8f63fb373e79f58fce925cd47ac11a666c182ae102",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eec98fca40056c2cfce2": {
+      "id": "opp_eec98fca40056c2cfce2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33471",
+      "canonicalUrl": "https://www.anthropic.com/institute/econ-scenarios",
+      "title": "AI는 우리의 경제적 미래를 어떻게 바꿀까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T13:36:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Anthropic이 AI의 발전과 도입 속도에 관한 예상을 입력하면 2030년 미국의 경제와 일자리 변화를 보여주는 경제 시나리오 탐색기를 공개함 직업 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33471"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b94636ec63edd688ffe19bc93f26c21172e1c5e11c86a4f27a91ddda57e9d57",
+      "dedupeKey": "brief:opp_eec98fca40056c2cfce2:sha256:0b94636ec63edd688ffe19bc93f26c21172e1c5e11c86a4f27a91ddda57e9d57",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b978456c7cf4b99b1265": {
+      "id": "opp_b978456c7cf4b99b1265",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
+      "title": "AI를 전제로 다시 설계하다, Tech-Verse 2026 참관기",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 11 Sep 2026 01:50:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며안녕하세요. LINE Plus의 LINE VoIP Service Dev 팀에서 서버 개발을 하고 있는 한규범, ABC Studio에서 서버를 개발하고 있는 황건구입니다.저희...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bb7b2e17671c7e06117dd553356912a35a2ff4be34b22761669de133676bfdb7",
+      "dedupeKey": "brief:opp_b978456c7cf4b99b1265:sha256:bb7b2e17671c7e06117dd553356912a35a2ff4be34b22761669de133676bfdb7",
+      "firstSeenAt": "2026-09-11T03:31:06.760Z",
+      "lastSeenAt": "2026-09-11T03:31:06.760Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -51875,6 +52023,36 @@
       "opportunityId": "opp_bc4e3e25dd8f594bcc25",
       "sentAt": "2026-09-11T00:05:44.498Z",
       "messageId": "1547760020584800358"
+    },
+    "brief:opp_b978456c7cf4b99b1265:sha256:bb7b2e17671c7e06117dd553356912a35a2ff4be34b22761669de133676bfdb7": {
+      "status": "SENT",
+      "opportunityId": "opp_b978456c7cf4b99b1265",
+      "sentAt": "2026-09-11T03:31:06.760Z",
+      "messageId": "1547811702878244985"
+    },
+    "brief:opp_cd6289e50d755755b4b9:sha256:9a8473efd6dede9082b90c633ec3cebd54bec614db18bbb2b9ce92249b195f03": {
+      "status": "SENT",
+      "opportunityId": "opp_cd6289e50d755755b4b9",
+      "sentAt": "2026-09-11T03:31:06.760Z",
+      "messageId": "1547811702878244985"
+    },
+    "brief:opp_1c0210322c2e5582c0ed:sha256:6d0eabf92bd50999c11749412f471e4b7845884c49f59df8a9674c59556f540d": {
+      "status": "SENT",
+      "opportunityId": "opp_1c0210322c2e5582c0ed",
+      "sentAt": "2026-09-11T03:31:06.760Z",
+      "messageId": "1547811702878244985"
+    },
+    "brief:opp_90d53a661c5a2d8f10c9:sha256:bf0a8e07e0799e3b4b38af8f63fb373e79f58fce925cd47ac11a666c182ae102": {
+      "status": "SENT",
+      "opportunityId": "opp_90d53a661c5a2d8f10c9",
+      "sentAt": "2026-09-11T03:31:06.760Z",
+      "messageId": "1547811702878244985"
+    },
+    "brief:opp_eec98fca40056c2cfce2:sha256:0b94636ec63edd688ffe19bc93f26c21172e1c5e11c86a4f27a91ddda57e9d57": {
+      "status": "SENT",
+      "opportunityId": "opp_eec98fca40056c2cfce2",
+      "sentAt": "2026-09-11T03:31:06.760Z",
+      "messageId": "1547811702878244985"
     }
   },
   "pending": {},
