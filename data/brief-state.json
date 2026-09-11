@@ -45486,14 +45486,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 17,
-        "contentScore": 11,
+        "communityPoints": 15,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-11T03:31:06.760Z",
-      "lastSeenAt": "2026-09-11T03:31:06.760Z",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46581,11 +46581,11 @@
       },
       "contentHash": "sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed",
       "dedupeKey": "brief:opp_d8cb75f071e8589e0ae1:sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed",
-      "firstSeenAt": "2026-09-11T03:31:06.760Z",
-      "lastSeenAt": "2026-09-11T03:31:06.760Z",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -46629,11 +46629,11 @@
       },
       "contentHash": "sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954",
       "dedupeKey": "brief:opp_5879447e52662ba90bb6:sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954",
-      "firstSeenAt": "2026-09-11T03:31:06.760Z",
-      "lastSeenAt": "2026-09-11T03:31:06.760Z",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -46934,6 +46934,357 @@
       "dedupeKey": "brief:opp_b978456c7cf4b99b1265:sha256:bb7b2e17671c7e06117dd553356912a35a2ff4be34b22761669de133676bfdb7",
       "firstSeenAt": "2026-09-11T03:31:06.760Z",
       "lastSeenAt": "2026-09-11T03:31:06.760Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ce9d5cd4ea9af74ddeea": {
+      "id": "opp_ce9d5cd4ea9af74ddeea",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33485",
+      "canonicalUrl": "https://shopify.engineering/back-to-native",
+      "title": "Shopify, React Native에서 네이티브로 복귀",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T00:42:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩 에이전트가 같은 기능을 iOS와 Android에 각각 구현하는 비용을 크게 낮추면서, 모든 모바일 앱을 Swift와 Kotlin으로 전환하기로 함 React N...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33485"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:83d69bf2de28e95900009f75183bf42d3b0ebe301df5500eba04c2206277fd09",
+      "dedupeKey": "brief:opp_ce9d5cd4ea9af74ddeea:sha256:83d69bf2de28e95900009f75183bf42d3b0ebe301df5500eba04c2206277fd09",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b2ebde4fc5891d2441b9": {
+      "id": "opp_b2ebde4fc5891d2441b9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33519",
+      "canonicalUrl": "https://news.hada.io/article/who-owns-wordpress",
+      "title": "WordPress는 누구의 것인가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T13:38:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "2026년 9월 9일 Automattic 이사회가 창업자이자 CEO인 Matt Mullenweg를 강제로 유급 휴직 처리했습니다. CFO였던 Mark Davies가 임시 CEO를 맡았...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33519"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
+      "dedupeKey": "brief:opp_b2ebde4fc5891d2441b9:sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7b5235944e8bc6e1fd04": {
+      "id": "opp_7b5235944e8bc6e1fd04",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33487",
+      "canonicalUrl": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft",
+      "title": "Rust, Microsoft의 Tier-1 언어로 자리 잡음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T01:46:51+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Microsoft는 Rust를 C++, C#, TypeScript와 함께 내부 개발에서 가장 잘 지원하는 Tier-1 언어로 운영하며, 로컬 개발부터 프로덕션까지 보안 도구...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33487"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a9e91c8b7a83e4b26985efd9f5b5b3c1285d1869f3f6035b6e5bd1f648169ed0",
+      "dedupeKey": "brief:opp_7b5235944e8bc6e1fd04:sha256:a9e91c8b7a83e4b26985efd9f5b5b3c1285d1869f3f6035b6e5bd1f648169ed0",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_10411605a7ebac0a758c": {
+      "id": "opp_10411605a7ebac0a758c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33493",
+      "canonicalUrl": "https://graybeard.ing/software-drives-people-insane",
+      "title": "소프트웨어는 어떻게 사람을 미치게 만드는가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T04:39:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "소프트웨어에서는 화면부터 사업 모델까지 바꿀 수 있다 보니, “할 수 있다”가 “해야 한다”, 다시 “왜 아직 안 됐나”로 바뀌며 모든 일이 긴급해지...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33493"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:affb5a21e4f3eb0a3397940a8c5458ac3c3d7a11666efe00b3f924add2d7f531",
+      "dedupeKey": "brief:opp_10411605a7ebac0a758c:sha256:affb5a21e4f3eb0a3397940a8c5458ac3c3d7a11666efe00b3f924add2d7f531",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0ee17b86b60e084e8f57": {
+      "id": "opp_0ee17b86b60e084e8f57",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33501",
+      "canonicalUrl": "https://planetscale.com/blog/introducing-neki",
+      "title": "Neki - Postgres를 여러 서버로 확장하는 PlanetScale의 새 서비스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T07:37:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "단일 서버의 한계에 도달한 Postgres 데이터를 여러 서버에 나눠 저장하고 처리하는 샤딩 서비스로, 각 샤드에서 별도의 호환 엔진이 아닌 실제 Po...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33501"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
+      "dedupeKey": "brief:opp_0ee17b86b60e084e8f57:sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c18a6ca607813550565d": {
+      "id": "opp_c18a6ca607813550565d",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:6PZI-of-f9k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6PZI-of-f9k",
+      "title": "메타 시니어 엔지니어의 Fable 5.1 vs GPT-6 Astra 실전 비교",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T06:45:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Fable 5.1 vs Astra — 실제 서비스에 똑같이 던져봤습니다 (홍보 영상 · 최적화 · UI 리디자인 · 협업) 9월 1일 Anthropic의 Claude Fable 5.1, 9월 3일 OpenAI의 GPT-6 Astra. 이틀 간격으로 나온 두 모델을 두고 일주일 동안 리뷰가 쏟아졌습니다. AGI가 왔다는 사람도 있고 아직 그 정도는 아니라는 사람도 있습니다. 벤치마크는 두 회사가 공식으로 냈고 다루는 영상도 많으니, 이 영상은 벤치마크를 읽지 않습니다. 대신 알렉스와 함께 개발 중인",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6PZI-of-f9k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-11T06:45:27.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:eee4a0d7a6eba00baad7bf3b7c6cc83097ceb4c168e3cd5cf01f9944791d816f",
+      "dedupeKey": "brief:opp_c18a6ca607813550565d:sha256:eee4a0d7a6eba00baad7bf3b7c6cc83097ceb4c168e3cd5cf01f9944791d816f",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef1814245ba7d7f090a6": {
+      "id": "opp_ef1814245ba7d7f090a6",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:KbT3A34tTPk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KbT3A34tTPk",
+      "title": "아이폰18 Pro, 애플은 AI에서 모든 게 준비됩니다... 메모리 열 설계까지 바꾼 AI 아이폰 | A20 Pro와 AFM 3가 맞춰진 이유",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T06:51:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "스마트폰 성능은 이미 충분하다는 이야기가 많았지만, AI가 들어오면서 새로운 병목이 생기기 시작했습니다. A20 Pro는 CPU와 GPU뿐 아니라 Neural Engine, 메모리 대역폭, 패키징과 냉각 구조까지 크게 바꿨습니다. 특히 몇 달 전 다뤘던 64비트→96비트 메모리 인터페이스 추정과 실제 50% 대역폭 증가가 어떻게 연결되는지 살펴봅니다. WWDC26에서 공개된 AFM 3 Core Advanced와 IFP가 스마트폰의 제한된 DRAM과 NAND를 어떻게 활용하는지도 함께 다룹니다. 소",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=KbT3A34tTPk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-11T06:51:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4dc72682dee194764ccb0580f7b2f22dd5734a9a06fa913d780ff7ded8696a4c",
+      "dedupeKey": "brief:opp_ef1814245ba7d7f090a6:sha256:4dc72682dee194764ccb0580f7b2f22dd5734a9a06fa913d780ff7ded8696a4c",
+      "firstSeenAt": "2026-09-11T09:05:32.873Z",
+      "lastSeenAt": "2026-09-11T09:05:32.873Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -52053,6 +52404,42 @@
       "opportunityId": "opp_eec98fca40056c2cfce2",
       "sentAt": "2026-09-11T03:31:06.760Z",
       "messageId": "1547811702878244985"
+    },
+    "brief:opp_c18a6ca607813550565d:sha256:eee4a0d7a6eba00baad7bf3b7c6cc83097ceb4c168e3cd5cf01f9944791d816f": {
+      "status": "SENT",
+      "opportunityId": "opp_c18a6ca607813550565d",
+      "sentAt": "2026-09-11T09:05:32.873Z",
+      "messageId": "1547895867011239967"
+    },
+    "brief:opp_5879447e52662ba90bb6:sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954": {
+      "status": "SENT",
+      "opportunityId": "opp_5879447e52662ba90bb6",
+      "sentAt": "2026-09-11T09:05:32.873Z",
+      "messageId": "1547895867011239967"
+    },
+    "brief:opp_d8cb75f071e8589e0ae1:sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed": {
+      "status": "SENT",
+      "opportunityId": "opp_d8cb75f071e8589e0ae1",
+      "sentAt": "2026-09-11T09:05:32.873Z",
+      "messageId": "1547895867011239967"
+    },
+    "brief:opp_10411605a7ebac0a758c:sha256:affb5a21e4f3eb0a3397940a8c5458ac3c3d7a11666efe00b3f924add2d7f531": {
+      "status": "SENT",
+      "opportunityId": "opp_10411605a7ebac0a758c",
+      "sentAt": "2026-09-11T09:05:32.873Z",
+      "messageId": "1547895867011239967"
+    },
+    "brief:opp_7b5235944e8bc6e1fd04:sha256:a9e91c8b7a83e4b26985efd9f5b5b3c1285d1869f3f6035b6e5bd1f648169ed0": {
+      "status": "SENT",
+      "opportunityId": "opp_7b5235944e8bc6e1fd04",
+      "sentAt": "2026-09-11T09:05:32.873Z",
+      "messageId": "1547895867011239967"
+    },
+    "brief:opp_ef1814245ba7d7f090a6:sha256:4dc72682dee194764ccb0580f7b2f22dd5734a9a06fa913d780ff7ded8696a4c": {
+      "status": "SENT",
+      "opportunityId": "opp_ef1814245ba7d7f090a6",
+      "sentAt": "2026-09-11T09:05:32.873Z",
+      "messageId": "1547895867011239967"
     }
   },
   "pending": {},
