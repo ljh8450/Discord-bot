@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-10T13:18:48.063Z",
-      "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -45535,8 +45535,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 6,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -45550,8 +45550,8 @@
       },
       "contentHash": "sha256:2a9c391df42e984fca360b0df52fdb75e079ff8ad42f5ecd514c778e10eac5bf",
       "dedupeKey": "brief:opp_bd80da77e15f1f904040:sha256:2a9c391df42e984fca360b0df52fdb75e079ff8ad42f5ecd514c778e10eac5bf",
-      "firstSeenAt": "2026-09-10T13:18:48.063Z",
-      "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -45926,14 +45926,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -45941,8 +45941,8 @@
       },
       "contentHash": "sha256:d3c882b31d04d5974590335c76733ada7944761920ee12f7189c6a49e4a93473",
       "dedupeKey": "brief:opp_f493bab18c2499eec105:sha256:d3c882b31d04d5974590335c76733ada7944761920ee12f7189c6a49e4a93473",
-      "firstSeenAt": "2026-09-10T13:18:48.063Z",
-      "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46245,6 +46245,547 @@
       "dedupeKey": "brief:opp_30a7026e64603d96f22e:sha256:ce98f573b75f92910abca6fd925502919afcbab30a467e96b0edf2ffb76eaceb",
       "firstSeenAt": "2026-09-10T13:18:48.063Z",
       "lastSeenAt": "2026-09-10T13:18:48.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_df07b41ce8c82b469d05": {
+      "id": "opp_df07b41ce8c82b469d05",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33467",
+      "canonicalUrl": "https://news.hada.io/topic?id=33467",
+      "title": "Show GN: ReadMD - AI가 만들어 준 .md 파일을 설치 없이 바로 읽는 마크다운 뷰어",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T11:00:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude, ChatGPT가 결과물을 .md 파일로 주는 일이 많아졌는데, 막상 열어 보려면 VS Code를 켜야 해서 불편했습니다. 앱스토어에도 쓸 만한 뷰어...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33467"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35b299def0bf4a3c9156a43da5aab60319873f52672ec7bc6f3796e0f94979c3",
+      "dedupeKey": "brief:opp_df07b41ce8c82b469d05:sha256:35b299def0bf4a3c9156a43da5aab60319873f52672ec7bc6f3796e0f94979c3",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_afc21ffd759ef2722efd": {
+      "id": "opp_afc21ffd759ef2722efd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33440",
+      "canonicalUrl": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "title": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-09T22:34:58+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI가 약 1만 개 AI 에이전트를 88시간 가동해 나비에-스토크스 방정식에서 물리적으로 실현될 수 없는 결과가 나오는 사례를 찾았다며 난제 해...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33440"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0ae73312169dbfd82d8769b7d16585ed5a254a475d9710cea9757e52165a5de7",
+      "dedupeKey": "brief:opp_afc21ffd759ef2722efd:sha256:0ae73312169dbfd82d8769b7d16585ed5a254a475d9710cea9757e52165a5de7",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8d1e3357cfa6df601e69": {
+      "id": "opp_8d1e3357cfa6df601e69",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "canonicalUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "summaryEvidence": [
+        "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ff7a787643c1188dbda25ee6439d76569d6ea3eba8adc6c67e234a506873ee60",
+      "dedupeKey": "brief:opp_8d1e3357cfa6df601e69:sha256:ff7a787643c1188dbda25ee6439d76569d6ea3eba8adc6c67e234a506873ee60",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_feab1ab0cb5232ecd53e": {
+      "id": "opp_feab1ab0cb5232ecd53e",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/put-data-to-work",
+      "canonicalUrl": "https://openai.com/index/put-data-to-work",
+      "title": "Now everyone can put data to work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "summaryEvidence": [
+        "https://openai.com/index/put-data-to-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1afc3635392c7c3dbc15ba758e949860d27304fe3cc5b7f6ba7490e417bf5286",
+      "dedupeKey": "brief:opp_feab1ab0cb5232ecd53e:sha256:1afc3635392c7c3dbc15ba758e949860d27304fe3cc5b7f6ba7490e417bf5286",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd6289e50d755755b4b9": {
+      "id": "opp_cd6289e50d755755b4b9",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "canonicalUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "title": "Introducing ChatGPT for Financial Services",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-chatgpt-financial-services"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9a8473efd6dede9082b90c633ec3cebd54bec614db18bbb2b9ce92249b195f03",
+      "dedupeKey": "brief:opp_cd6289e50d755755b4b9:sha256:9a8473efd6dede9082b90c633ec3cebd54bec614db18bbb2b9ce92249b195f03",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1c0210322c2e5582c0ed": {
+      "id": "opp_1c0210322c2e5582c0ed",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/expanding-ai-access-us-government",
+      "canonicalUrl": "https://openai.com/index/expanding-ai-access-us-government",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "summaryEvidence": [
+        "https://openai.com/index/expanding-ai-access-us-government"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6d0eabf92bd50999c11749412f471e4b7845884c49f59df8a9674c59556f540d",
+      "dedupeKey": "brief:opp_1c0210322c2e5582c0ed:sha256:6d0eabf92bd50999c11749412f471e4b7845884c49f59df8a9674c59556f540d",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d8cb75f071e8589e0ae1": {
+      "id": "opp_d8cb75f071e8589e0ae1",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-the-agents-api",
+      "canonicalUrl": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Introducing the Agents API",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-the-agents-api"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed",
+      "dedupeKey": "brief:opp_d8cb75f071e8589e0ae1:sha256:2324f3aa902f06b27ff2d5d23a81bc87a2735276b74166a767a97f752e28b5ed",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5879447e52662ba90bb6": {
+      "id": "opp_5879447e52662ba90bb6",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "canonicalUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954",
+      "dedupeKey": "brief:opp_5879447e52662ba90bb6:sha256:c8dcc4501139d22a36a98d2d493ac6f74e9fa2ce99b5bccd162440a661ebf954",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1683965ef3809fea1f75": {
+      "id": "opp_1683965ef3809fea1f75",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98771",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 10 Sep 2026 21:31:19 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The Gi",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d64a22b2ef5e0c5566724c41aef63b3465d051090df6b1a4cd5312341e6de4e1",
+      "dedupeKey": "brief:opp_1683965ef3809fea1f75:sha256:d64a22b2ef5e0c5566724c41aef63b3465d051090df6b1a4cd5312341e6de4e1",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bc4e3e25dd8f594bcc25": {
+      "id": "opp_bc4e3e25dd8f594bcc25",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:1Ex2iQRO9tI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1Ex2iQRO9tI",
+      "title": "\"좌석 잡아 두기\"는 어떻게 구현할까? | 티켓 예매 좌석 선점, 실제로 어떻게 만들까",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T23:00:57+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "좌석을 선택하고 결제하는 몇 분 동안, 그 좌석은 어떤 상태일까요? 이 영상은 좌석 하나를 잠시 잡아두는 문제를 끝까지 따라가면서, 왜 그 시간이 저절로 풀리지 않는지, 만료를 누가 판정해야 하는지, 결제 결과를 모를 때 좌석을 어떻게 다뤄야 하는지를 다룹니다. \"좌석을 선점한다\"는 비즈니스 요구를 상태와 규칙으로 바꾸는 과정에 대한 이야기입니다. ━━━━━━━━━━━━━━━━━━━ '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1Ex2iQRO9tI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-10T23:00:57.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d7fbf945dcf7410c1bedaafe88f159bfd7764e419d6e65266ddd49178792e514",
+      "dedupeKey": "brief:opp_bc4e3e25dd8f594bcc25:sha256:d7fbf945dcf7410c1bedaafe88f159bfd7764e419d6e65266ddd49178792e514",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c15fc2baa9a5959ca42c": {
+      "id": "opp_c15fc2baa9a5959ca42c",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:5EhrMJ9HIfU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5EhrMJ9HIfU",
+      "title": "5 Things RUINING Your GPT 6 Astra Results (And How To Fix Them)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-10T16:27:11+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Lets break down the 5 common mistakes that are hamstringing your GPT 6 performance, and how to best av",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=5EhrMJ9HIfU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-10T16:27:11.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b2a990a1477201cffddc497744c9c6858720ba031839a115c96a9baec54e7e4",
+      "dedupeKey": "brief:opp_c15fc2baa9a5959ca42c:sha256:0b2a990a1477201cffddc497744c9c6858720ba031839a115c96a9baec54e7e4",
+      "firstSeenAt": "2026-09-11T00:05:44.498Z",
+      "lastSeenAt": "2026-09-11T00:05:44.498Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -51298,6 +51839,42 @@
       "opportunityId": "opp_bc352596b0fd03cf9ab6",
       "sentAt": "2026-09-10T13:18:48.063Z",
       "messageId": "1547597212492767263"
+    },
+    "brief:opp_1683965ef3809fea1f75:sha256:d64a22b2ef5e0c5566724c41aef63b3465d051090df6b1a4cd5312341e6de4e1": {
+      "status": "SENT",
+      "opportunityId": "opp_1683965ef3809fea1f75",
+      "sentAt": "2026-09-11T00:05:44.498Z",
+      "messageId": "1547760020584800358"
+    },
+    "brief:opp_8d1e3357cfa6df601e69:sha256:ff7a787643c1188dbda25ee6439d76569d6ea3eba8adc6c67e234a506873ee60": {
+      "status": "SENT",
+      "opportunityId": "opp_8d1e3357cfa6df601e69",
+      "sentAt": "2026-09-11T00:05:44.498Z",
+      "messageId": "1547760020584800358"
+    },
+    "brief:opp_feab1ab0cb5232ecd53e:sha256:1afc3635392c7c3dbc15ba758e949860d27304fe3cc5b7f6ba7490e417bf5286": {
+      "status": "SENT",
+      "opportunityId": "opp_feab1ab0cb5232ecd53e",
+      "sentAt": "2026-09-11T00:05:44.498Z",
+      "messageId": "1547760020584800358"
+    },
+    "brief:opp_c15fc2baa9a5959ca42c:sha256:0b2a990a1477201cffddc497744c9c6858720ba031839a115c96a9baec54e7e4": {
+      "status": "SENT",
+      "opportunityId": "opp_c15fc2baa9a5959ca42c",
+      "sentAt": "2026-09-11T00:05:44.498Z",
+      "messageId": "1547760020584800358"
+    },
+    "brief:opp_df07b41ce8c82b469d05:sha256:35b299def0bf4a3c9156a43da5aab60319873f52672ec7bc6f3796e0f94979c3": {
+      "status": "SENT",
+      "opportunityId": "opp_df07b41ce8c82b469d05",
+      "sentAt": "2026-09-11T00:05:44.498Z",
+      "messageId": "1547760020584800358"
+    },
+    "brief:opp_bc4e3e25dd8f594bcc25:sha256:d7fbf945dcf7410c1bedaafe88f159bfd7764e419d6e65266ddd49178792e514": {
+      "status": "SENT",
+      "opportunityId": "opp_bc4e3e25dd8f594bcc25",
+      "sentAt": "2026-09-11T00:05:44.498Z",
+      "messageId": "1547760020584800358"
     }
   },
   "pending": {},
