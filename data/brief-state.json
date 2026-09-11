@@ -45486,8 +45486,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 15,
-        "communityRank": 15,
+        "communityPoints": 17,
+        "communityRank": 13,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-11T09:05:32.873Z",
-      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -46966,7 +46966,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
+        "communityPoints": 13,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -46981,11 +46981,11 @@
       },
       "contentHash": "sha256:83d69bf2de28e95900009f75183bf42d3b0ebe301df5500eba04c2206277fd09",
       "dedupeKey": "brief:opp_ce9d5cd4ea9af74ddeea:sha256:83d69bf2de28e95900009f75183bf42d3b0ebe301df5500eba04c2206277fd09",
-      "firstSeenAt": "2026-09-11T09:05:32.873Z",
-      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -47015,8 +47015,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 3,
+        "communityPoints": 7,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -47030,8 +47030,8 @@
       },
       "contentHash": "sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
       "dedupeKey": "brief:opp_b2ebde4fc5891d2441b9:sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
-      "firstSeenAt": "2026-09-11T09:05:32.873Z",
-      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47163,7 +47163,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -47177,8 +47177,8 @@
       },
       "contentHash": "sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
       "dedupeKey": "brief:opp_0ee17b86b60e084e8f57:sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
-      "firstSeenAt": "2026-09-11T09:05:32.873Z",
-      "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47285,6 +47285,210 @@
       "dedupeKey": "brief:opp_ef1814245ba7d7f090a6:sha256:4dc72682dee194764ccb0580f7b2f22dd5734a9a06fa913d780ff7ded8696a4c",
       "firstSeenAt": "2026-09-11T09:05:32.873Z",
       "lastSeenAt": "2026-09-11T09:05:32.873Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3c91e4b4a1a8afd85c2d": {
+      "id": "opp_3c91e4b4a1a8afd85c2d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33505",
+      "canonicalUrl": "https://github.com/multigres/multigres",
+      "title": "Multigres - Postgres의 수평 확장을 위한 오픈소스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T09:19:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "MySQL을 여러 서버로 확장하는 Vitess의 접근을 Postgres에 적용해, 샤딩과 연결 풀링, 복제와 장애 전환을 함께 관리하려는 프로젝트 별도의 호환...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33505"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:14a4b1144e2a75df2c7652db202e6d65be44cb643172428f26e243da11d537b8",
+      "dedupeKey": "brief:opp_3c91e4b4a1a8afd85c2d:sha256:14a4b1144e2a75df2c7652db202e6d65be44cb643172428f26e243da11d537b8",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_86c1b19b528f4e4b589a": {
+      "id": "opp_86c1b19b528f4e4b589a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33506",
+      "canonicalUrl": "https://github.com/google/artemis",
+      "title": "Google ARTEMIS - 자연어로 Android 앱을 조작/테스트하는 자동화 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "“로그인한 뒤 팝업이 뜨는지 확인해줘”처럼 작업을 설명하면 실제 Android 기기나 에뮬레이터를 조작해 수행 앱 테스트뿐 아니라 Google Maps에서 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33506"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e74b8db74659d7dba094571214723e45a56fdff76d67be46b5368fc09a964b8e",
+      "dedupeKey": "brief:opp_86c1b19b528f4e4b589a:sha256:e74b8db74659d7dba094571214723e45a56fdff76d67be46b5368fc09a964b8e",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ead904906a6629bbc796": {
+      "id": "opp_ead904906a6629bbc796",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:PAXtfqAGWpQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PAXtfqAGWpQ",
+      "title": "[한영자막] 왜 AI 디자인은 원샷으로 안 될까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T11:30:11+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code, Copilot, Cursor 등 코딩 AI 위에서 동작하는 혁신적인 디자인 스킬 'Impeccable'을 개발한 Paul Bakaus가 설명하는 AI 디자인의 본질과 조향(Steering) 철학입니다. 왜 AI 디자인은 원샷으로 끝낼 수 없는지, 그리고 단순한 프롬프트가 아닌 형용사/동사 어휘를 통해 인간의 미적 취향을 반영하는 최적의 제어 수준을 찾아가는 방법을 공유합니다. 📌 주요 내용: • 보라색 그라데이션에서 'Claude 베이지'로 진화한 AI 슬롭과 획일화의 한",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PAXtfqAGWpQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-11T11:30:11.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:df1e3cd3eaeb14baab633cb1e83771be36734e3b5867832b85bca9db4a7e81e1",
+      "dedupeKey": "brief:opp_ead904906a6629bbc796:sha256:df1e3cd3eaeb14baab633cb1e83771be36734e3b5867832b85bca9db4a7e81e1",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7da5ca47f1f0e4985875": {
+      "id": "opp_7da5ca47f1f0e4985875",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:2rd5mZzXBc4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2rd5mZzXBc4",
+      "title": "OpenAI·Anthropic에서 3년 일한 연구자가 CNN·NBC에서 설명한 퇴사 이유",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T12:36:55+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "2026년 9월 8일 밤, OpenAI와 Anthropic에서 3년 동안 프리트레이닝 연구를 한 제이콥 콕슨이 퇴사하며 X에 7개의 글을 올렸습니다. 다음 날부터 CNN과 NBC가 본인을 인터뷰에 불렀습니다. 이 영상은 그 사람이 무엇을 주장하는지, 왜 나왔다고 설명하는지, 회사는 뭐라고 답했는지를 정리합니다. 판단은 하지 않습니다. 중간중간 CNN·NBC 인터뷰 클립이 한국어 자막과 함께 들어갑니다. 챕터 0:00 9월 8일 X에 올라온 글, 누가 무엇을 썼나 1:34 CNN — 현직 연구자의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2rd5mZzXBc4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-11T12:36:55.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d5727d9c2eca5e4d538b553f967b3d52f460c0f0018bac277bbaf9be8edd5ea8",
+      "dedupeKey": "brief:opp_7da5ca47f1f0e4985875:sha256:d5727d9c2eca5e4d538b553f967b3d52f460c0f0018bac277bbaf9be8edd5ea8",
+      "firstSeenAt": "2026-09-11T13:12:57.580Z",
+      "lastSeenAt": "2026-09-11T13:12:57.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -52440,6 +52644,30 @@
       "opportunityId": "opp_ef1814245ba7d7f090a6",
       "sentAt": "2026-09-11T09:05:32.873Z",
       "messageId": "1547895867011239967"
+    },
+    "brief:opp_7da5ca47f1f0e4985875:sha256:d5727d9c2eca5e4d538b553f967b3d52f460c0f0018bac277bbaf9be8edd5ea8": {
+      "status": "SENT",
+      "opportunityId": "opp_7da5ca47f1f0e4985875",
+      "sentAt": "2026-09-11T13:12:57.580Z",
+      "messageId": "1547958129852027032"
+    },
+    "brief:opp_ead904906a6629bbc796:sha256:df1e3cd3eaeb14baab633cb1e83771be36734e3b5867832b85bca9db4a7e81e1": {
+      "status": "SENT",
+      "opportunityId": "opp_ead904906a6629bbc796",
+      "sentAt": "2026-09-11T13:12:57.580Z",
+      "messageId": "1547958129852027032"
+    },
+    "brief:opp_3c91e4b4a1a8afd85c2d:sha256:14a4b1144e2a75df2c7652db202e6d65be44cb643172428f26e243da11d537b8": {
+      "status": "SENT",
+      "opportunityId": "opp_3c91e4b4a1a8afd85c2d",
+      "sentAt": "2026-09-11T13:12:57.580Z",
+      "messageId": "1547958129852027032"
+    },
+    "brief:opp_ce9d5cd4ea9af74ddeea:sha256:83d69bf2de28e95900009f75183bf42d3b0ebe301df5500eba04c2206277fd09": {
+      "status": "SENT",
+      "opportunityId": "opp_ce9d5cd4ea9af74ddeea",
+      "sentAt": "2026-09-11T13:12:57.580Z",
+      "messageId": "1547958129852027032"
     }
   },
   "pending": {},
