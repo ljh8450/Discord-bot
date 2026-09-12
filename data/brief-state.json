@@ -47891,6 +47891,365 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_f64dbb478b1f227f7772": {
+      "id": "opp_f64dbb478b1f227f7772",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33548",
+      "canonicalUrl": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
+      "title": "AI 때문에 느끼는 슬픔",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T03:40:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 생계를 잃을지 모른다는 걱정보다, 평생 취미이자 직업이며 정체성이었던 프로그래밍을 이제 쓸모없는 기술로 취급하는 태도가 더 깊은 슬픔...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33548"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dfd9c382efc94b6332f66d294c91a695d60a444f144981a344264de1109d1fc1",
+      "dedupeKey": "brief:opp_f64dbb478b1f227f7772:sha256:dfd9c382efc94b6332f66d294c91a695d60a444f144981a344264de1109d1fc1",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f6083fb40c67138da4a5": {
+      "id": "opp_f6083fb40c67138da4a5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33513",
+      "canonicalUrl": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "title": "21세기 교실을 위한 음악 이론 - 팝송과 악보로 배우는 무료 온라인 교재",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T10:31:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "음표와 리듬 읽기부터 화성, 작곡과 현대음악까지 대학 4학기 분량의 음악 이론을 무료로 공개한 Robert Hutchinson의 영어 온라인 교재 클래식뿐 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33513"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 2,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:34bd5c8e17a21f5f4941c693497f5050aa6cdbc61e1372ecd7c3ebb85a91b6f4",
+      "dedupeKey": "brief:opp_f6083fb40c67138da4a5:sha256:34bd5c8e17a21f5f4941c693497f5050aa6cdbc61e1372ecd7c3ebb85a91b6f4",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cfe8cce8326664e7918e": {
+      "id": "opp_cfe8cce8326664e7918e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33547",
+      "canonicalUrl": "https://earendil.com/posts/measuring-code-sloppiness",
+      "title": "코딩이 해결됐다면, 코드의 조잡함은 어떻게 측정할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T03:37:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 테스트를 통과하는 코드를 만들어도 불필요한 추상화와 중복, 나쁜 설계까지 피하는 것은 아니며, 기능을 추가할 때마다 코드가 불어나면 사...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33547"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e2c21cd74c363b5fa9e5db945465f53c4dffc3ae3e07c0d2887884edc3d9239a",
+      "dedupeKey": "brief:opp_cfe8cce8326664e7918e:sha256:e2c21cd74c363b5fa9e5db945465f53c4dffc3ae3e07c0d2887884edc3d9239a",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_408aca03497eaf431db4": {
+      "id": "opp_408aca03497eaf431db4",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:PZZ4aNF-O2E",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PZZ4aNF-O2E",
+      "title": "[한영자막] 측정할 수 없는 AI 에이전트는 관리할 수도 없습니다: '마우스파워'란 무엇일까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T09:00:26+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "측정할 수 없는 에이전트는 관리할 수도 없습니다. 수많은 에이전트를 병렬로 가동하며 환호하다가도, 막대한 토큰 청구서를 마주하면 '과연 그만한 가치가 있었는가?'라는 회의감이 밀려옵니다. Yutori의 창립 디자이너 막시밀리안 피라스는 18세기 제임스 와트가 증기기관의 가치를 설득하기 위해 '마력(Horsepower)'이라는 직관적 기준을 만든 역사에서 AI 에이전트 시대의 해법을 찾습니다. 토큰이라는 단순 투입량에 매몰되지 않고 명확한 성과(ROI)를 입증하는 법, 그리고 검증 비용이 실행 비용",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PZZ4aNF-O2E"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T09:00:26.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c45d901f86e8b351a6a2f3b2fe5a129d45179ac1a779b1de2b5fe6a3bf01c8ff",
+      "dedupeKey": "brief:opp_408aca03497eaf431db4:sha256:c45d901f86e8b351a6a2f3b2fe5a129d45179ac1a779b1de2b5fe6a3bf01c8ff",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4ddaec423ed9570ecb74": {
+      "id": "opp_4ddaec423ed9570ecb74",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:jLKQp4SgGr0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jLKQp4SgGr0",
+      "title": "[한영자막] Cursor 핵심 개발자 Lauren Tan: AI 에이전트를 실전에서 제대로 신뢰하는 법 (xAI GrokBot 워크숍)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T04:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Cursor 핵심 엔지니어 Lauren Tan(전 Meta React Core 팀, React Compiler 개발자)이 xAI GrokBot 팀과 함께 진행한 심층 워크숍입니다. AI 코딩 에이전트를 실무에 도입할 때 가장 중요한 '신뢰 구축 방법'과 실전 노하우를 상세히 전해드립니다. 📌 주요 내용: • AI 에이전트를 신뢰하는 3가지 기둥: 평가(Evals), 소프트웨어 엔지니어링 스킬, 에이전트 친화적 아키텍처 • 문제 정의부터 검증까지 스스로 수행하는 Pstack 스킬 프레임워크와 실제",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=jLKQp4SgGr0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T09:00:26.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1afa5dd6401a3b63cbbe090aabf61e80b7591e34597fe14d7d98657b436e1cae",
+      "dedupeKey": "brief:opp_4ddaec423ed9570ecb74:sha256:1afa5dd6401a3b63cbbe090aabf61e80b7591e34597fe14d7d98657b436e1cae",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4a573b7cc3ebe947c6bb": {
+      "id": "opp_4a573b7cc3ebe947c6bb",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:b79rStjx3nU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=b79rStjx3nU",
+      "title": "[LIVE] 초파리 24시간 DOOM 시키기 (ft. RTX PRO 6000 Blackwell)",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T05:02:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] 초파리 24시간 DOOM 시키기 (ft. RTX PRO 6000 Blackwell)",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=b79rStjx3nU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T05:02:16.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e8d025727d6fc378719c2a28cec4f02dcabc68db27e1d004a2fa95770e1d72f",
+      "dedupeKey": "brief:opp_4a573b7cc3ebe947c6bb:sha256:6e8d025727d6fc378719c2a28cec4f02dcabc68db27e1d004a2fa95770e1d72f",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_36d45cc0ac83a5a58ee8": {
+      "id": "opp_36d45cc0ac83a5a58ee8",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:b3I_zBYF3e0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=b3I_zBYF3e0",
+      "title": "3명이 5년간 손으로 쓴 30만 줄 Rust — 에이전트로 수만 줄을 뽑았는데 머지한 건 거의 없었습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T04:18:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Rust 크로스플랫폼 프레임워크 Dioxus를 만든 Jonathan Kelley가 2026년 7월 AI Engineer World's Fair에서 한 발표를 처음부터 끝까지 따라갑니다. 3명이 5년 동안 손으로 쓴 30만 줄짜리 프로젝트에 코딩 에이전트를 붙였더니 무엇이 됐고 무엇이 안 됐는지, 그리고 그 팀이 지금 시간을 어디에 쓰는지를 정리합니다. 중간중간 발표 클립이 한국어 자막과 함께 들어갑니다. 챕터 0:00 3명이 5년간 손으로 쓴 프레임워크, 머지된 건 거의 없었다 1:34 클립 —",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=b3I_zBYF3e0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T04:18:12.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0f8bf75e139c54282dc38aa1a0aed30e89848d4b35d95a612cedbf005e070e2f",
+      "dedupeKey": "brief:opp_36d45cc0ac83a5a58ee8:sha256:0f8bf75e139c54282dc38aa1a0aed30e89848d4b35d95a612cedbf005e070e2f",
+      "firstSeenAt": "2026-09-12T09:06:04.464Z",
+      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -53119,6 +53478,42 @@
       "opportunityId": "opp_5dc977fdc1cb8d94003e",
       "sentAt": "2026-09-12T00:06:02.854Z",
       "messageId": "1548122485659144235"
+    },
+    "brief:opp_36d45cc0ac83a5a58ee8:sha256:0f8bf75e139c54282dc38aa1a0aed30e89848d4b35d95a612cedbf005e070e2f": {
+      "status": "SENT",
+      "opportunityId": "opp_36d45cc0ac83a5a58ee8",
+      "sentAt": "2026-09-12T09:06:04.464Z",
+      "messageId": "1548258387819761686"
+    },
+    "brief:opp_4a573b7cc3ebe947c6bb:sha256:6e8d025727d6fc378719c2a28cec4f02dcabc68db27e1d004a2fa95770e1d72f": {
+      "status": "SENT",
+      "opportunityId": "opp_4a573b7cc3ebe947c6bb",
+      "sentAt": "2026-09-12T09:06:04.464Z",
+      "messageId": "1548258387819761686"
+    },
+    "brief:opp_408aca03497eaf431db4:sha256:c45d901f86e8b351a6a2f3b2fe5a129d45179ac1a779b1de2b5fe6a3bf01c8ff": {
+      "status": "SENT",
+      "opportunityId": "opp_408aca03497eaf431db4",
+      "sentAt": "2026-09-12T09:06:04.464Z",
+      "messageId": "1548258387819761686"
+    },
+    "brief:opp_4ddaec423ed9570ecb74:sha256:1afa5dd6401a3b63cbbe090aabf61e80b7591e34597fe14d7d98657b436e1cae": {
+      "status": "SENT",
+      "opportunityId": "opp_4ddaec423ed9570ecb74",
+      "sentAt": "2026-09-12T09:06:04.464Z",
+      "messageId": "1548258387819761686"
+    },
+    "brief:opp_f64dbb478b1f227f7772:sha256:dfd9c382efc94b6332f66d294c91a695d60a444f144981a344264de1109d1fc1": {
+      "status": "SENT",
+      "opportunityId": "opp_f64dbb478b1f227f7772",
+      "sentAt": "2026-09-12T09:06:04.464Z",
+      "messageId": "1548258387819761686"
+    },
+    "brief:opp_cfe8cce8326664e7918e:sha256:e2c21cd74c363b5fa9e5db945465f53c4dffc3ae3e07c0d2887884edc3d9239a": {
+      "status": "SENT",
+      "opportunityId": "opp_cfe8cce8326664e7918e",
+      "sentAt": "2026-09-12T09:06:04.464Z",
+      "messageId": "1548258387819761686"
     }
   },
   "pending": {},
