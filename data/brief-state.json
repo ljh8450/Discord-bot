@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-12T00:05:21.202Z",
-      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "firstSeenAt": "2026-09-12T00:06:02.854Z",
+      "lastSeenAt": "2026-09-12T00:06:02.854Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47030,11 +47030,11 @@
       },
       "contentHash": "sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
       "dedupeKey": "brief:opp_b2ebde4fc5891d2441b9:sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
-      "firstSeenAt": "2026-09-12T00:05:21.202Z",
-      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "firstSeenAt": "2026-09-12T00:06:02.854Z",
+      "lastSeenAt": "2026-09-12T00:06:02.854Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -47177,8 +47177,8 @@
       },
       "contentHash": "sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
       "dedupeKey": "brief:opp_0ee17b86b60e084e8f57:sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
-      "firstSeenAt": "2026-09-12T00:05:21.202Z",
-      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "firstSeenAt": "2026-09-12T00:06:02.854Z",
+      "lastSeenAt": "2026-09-12T00:06:02.854Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47381,8 +47381,8 @@
       },
       "contentHash": "sha256:e74b8db74659d7dba094571214723e45a56fdff76d67be46b5368fc09a964b8e",
       "dedupeKey": "brief:opp_86c1b19b528f4e4b589a:sha256:e74b8db74659d7dba094571214723e45a56fdff76d67be46b5368fc09a964b8e",
-      "firstSeenAt": "2026-09-12T00:05:21.202Z",
-      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "firstSeenAt": "2026-09-12T00:06:02.854Z",
+      "lastSeenAt": "2026-09-12T00:06:02.854Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47585,11 +47585,11 @@
       },
       "contentHash": "sha256:4c0ddaf453dd63b90b718cbc309b07f2ac735b1cc88825547684266d88e9b48c",
       "dedupeKey": "brief:opp_5dc977fdc1cb8d94003e:sha256:4c0ddaf453dd63b90b718cbc309b07f2ac735b1cc88825547684266d88e9b48c",
-      "firstSeenAt": "2026-09-12T00:05:21.202Z",
-      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "firstSeenAt": "2026-09-12T00:06:02.854Z",
+      "lastSeenAt": "2026-09-12T00:06:02.854Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -47838,6 +47838,54 @@
       "dedupeKey": "brief:opp_e0fb5436a7c0ec446a1b:sha256:7206d0e84892447cbf0cc45e3c7bec71edb967f6c560d15f5638d89923b8a77d",
       "firstSeenAt": "2026-09-12T00:05:21.202Z",
       "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2e3f7c4707fe3e27d5ca": {
+      "id": "opp_2e3f7c4707fe3e27d5ca",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "canonicalUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "summaryEvidence": [
+        "https://openai.com/index/cognition-devin-testing-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:42e0b118f8b51f1da0375d88c1c494404ab610f0d013708386280e397483fb1b",
+      "dedupeKey": "brief:opp_2e3f7c4707fe3e27d5ca:sha256:42e0b118f8b51f1da0375d88c1c494404ab610f0d013708386280e397483fb1b",
+      "firstSeenAt": "2026-09-12T00:06:02.854Z",
+      "lastSeenAt": "2026-09-12T00:06:02.854Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -53053,6 +53101,24 @@
       "opportunityId": "opp_7c6dea3c2252507fd518",
       "sentAt": "2026-09-12T00:05:21.202Z",
       "messageId": "1548122311498928139"
+    },
+    "brief:opp_2e3f7c4707fe3e27d5ca:sha256:42e0b118f8b51f1da0375d88c1c494404ab610f0d013708386280e397483fb1b": {
+      "status": "SENT",
+      "opportunityId": "opp_2e3f7c4707fe3e27d5ca",
+      "sentAt": "2026-09-12T00:06:02.854Z",
+      "messageId": "1548122485659144235"
+    },
+    "brief:opp_b2ebde4fc5891d2441b9:sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232": {
+      "status": "SENT",
+      "opportunityId": "opp_b2ebde4fc5891d2441b9",
+      "sentAt": "2026-09-12T00:06:02.854Z",
+      "messageId": "1548122485659144235"
+    },
+    "brief:opp_5dc977fdc1cb8d94003e:sha256:4c0ddaf453dd63b90b718cbc309b07f2ac735b1cc88825547684266d88e9b48c": {
+      "status": "SENT",
+      "opportunityId": "opp_5dc977fdc1cb8d94003e",
+      "sentAt": "2026-09-12T00:06:02.854Z",
+      "messageId": "1548122485659144235"
     }
   },
   "pending": {},
