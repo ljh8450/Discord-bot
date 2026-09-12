@@ -47982,11 +47982,11 @@
       },
       "contentHash": "sha256:34bd5c8e17a21f5f4941c693497f5050aa6cdbc61e1372ecd7c3ebb85a91b6f4",
       "dedupeKey": "brief:opp_f6083fb40c67138da4a5:sha256:34bd5c8e17a21f5f4941c693497f5050aa6cdbc61e1372ecd7c3ebb85a91b6f4",
-      "firstSeenAt": "2026-09-12T09:06:04.464Z",
-      "lastSeenAt": "2026-09-12T09:06:04.464Z",
+      "firstSeenAt": "2026-09-12T09:06:24.475Z",
+      "lastSeenAt": "2026-09-12T09:06:24.475Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -53514,6 +53514,12 @@
       "opportunityId": "opp_cfe8cce8326664e7918e",
       "sentAt": "2026-09-12T09:06:04.464Z",
       "messageId": "1548258387819761686"
+    },
+    "brief:opp_f6083fb40c67138da4a5:sha256:34bd5c8e17a21f5f4941c693497f5050aa6cdbc61e1372ecd7c3ebb85a91b6f4": {
+      "status": "SENT",
+      "opportunityId": "opp_f6083fb40c67138da4a5",
+      "sentAt": "2026-09-12T09:06:24.475Z",
+      "messageId": "1548258471558774877"
     }
   },
   "pending": {},
