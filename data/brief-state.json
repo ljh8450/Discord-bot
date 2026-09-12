@@ -48250,6 +48250,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_feadaf798f25dc30bb27": {
+      "id": "opp_feadaf798f25dc30bb27",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33524",
+      "canonicalUrl": "https://lucumr.pocoo.org/2026/9/7/astra-why",
+      "title": "Astra로 코딩하기: 우리는 대체 왜 이러고 있는 걸까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T17:37:10+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "GPT-6 Astra는 컴퓨터 사용과 이미지 이해에서 뛰어난 능력을 보이지만, 실제 소프트웨어 개발에서는 함께 일하기 더 어려워졌고, 높아진 비용에 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33524"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a3fe0af0fa2b4e6088a73c7f90e7862098adbfeba999efc4350a3934031ec7c8",
+      "dedupeKey": "brief:opp_feadaf798f25dc30bb27:sha256:a3fe0af0fa2b4e6088a73c7f90e7862098adbfeba999efc4350a3934031ec7c8",
+      "firstSeenAt": "2026-09-12T12:36:43.342Z",
+      "lastSeenAt": "2026-09-12T12:36:43.342Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3fc9a810fe267fa72c87": {
+      "id": "opp_3fc9a810fe267fa72c87",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:lr5kzD67O_U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lr5kzD67O_U",
+      "title": "엔비디아 진짜 해자는 GPU가 아니다 | CUDA·NVLink·Mellanox가 만든 AI 시스템",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T10:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아의 경쟁력은 정말 GPU 한 장의 성능에서 끝나는 걸까요? 이번 영상에서는 그래픽 처리용 GPU가 어떻게 범용 병렬 컴퓨팅으로 확장됐고, CUDA가 그 과정에서 어떤 역할을 했는지 살펴봅니다. AI 모델이 커지면서 GPU 한 장으로는 해결할 수 없게 된 뒤, 여러 GPU의 계산 결과를 맞추는 AllReduce와 NCCL이 왜 중요해졌는지도 알아봅니다. GPU 사이의 데이터 이동을 빠르게 만드는 NVLink와 NVSwitch, 그리고 랙 밖의 통신을 담당하는 고성능 네트워크의 역할도 함께 짚",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lr5kzD67O_U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T10:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b4207b925ddf8bcca7249e21d5d245a7755b71863401ca2a20c5cb6510b623b8",
+      "dedupeKey": "brief:opp_3fc9a810fe267fa72c87:sha256:b4207b925ddf8bcca7249e21d5d245a7755b71863401ca2a20c5cb6510b623b8",
+      "firstSeenAt": "2026-09-12T12:36:43.342Z",
+      "lastSeenAt": "2026-09-12T12:36:43.342Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -53520,6 +53622,18 @@
       "opportunityId": "opp_f6083fb40c67138da4a5",
       "sentAt": "2026-09-12T09:06:24.475Z",
       "messageId": "1548258471558774877"
+    },
+    "brief:opp_3fc9a810fe267fa72c87:sha256:b4207b925ddf8bcca7249e21d5d245a7755b71863401ca2a20c5cb6510b623b8": {
+      "status": "SENT",
+      "opportunityId": "opp_3fc9a810fe267fa72c87",
+      "sentAt": "2026-09-12T12:36:43.342Z",
+      "messageId": "1548311397790654507"
+    },
+    "brief:opp_feadaf798f25dc30bb27:sha256:a3fe0af0fa2b4e6088a73c7f90e7862098adbfeba999efc4350a3934031ec7c8": {
+      "status": "SENT",
+      "opportunityId": "opp_feadaf798f25dc30bb27",
+      "sentAt": "2026-09-12T12:36:43.342Z",
+      "messageId": "1548311397790654507"
     }
   },
   "pending": {},
