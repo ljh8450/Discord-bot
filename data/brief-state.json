@@ -45487,7 +45487,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 17,
-        "communityRank": 13,
+        "communityRank": 11,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -45501,8 +45501,8 @@
       },
       "contentHash": "sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
       "dedupeKey": "brief:opp_b7a0f2261c8761ff63c5:sha256:58095333e449684912a24d278671f6e1095edbaada9daf09e83498ea3bc025df",
-      "firstSeenAt": "2026-09-11T13:12:57.580Z",
-      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47016,7 +47016,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 5,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -47030,8 +47030,8 @@
       },
       "contentHash": "sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
       "dedupeKey": "brief:opp_b2ebde4fc5891d2441b9:sha256:ef5f6f49524b952ada7124871984c5e271c1a209d6300ae184b53af22a310232",
-      "firstSeenAt": "2026-09-11T13:12:57.580Z",
-      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47163,13 +47163,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityRank": 12,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -47177,8 +47177,8 @@
       },
       "contentHash": "sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
       "dedupeKey": "brief:opp_0ee17b86b60e084e8f57:sha256:55a3ba56175b82f80b380db6c029b3b61183e04557c971f3a3022c8b4bfdd4e2",
-      "firstSeenAt": "2026-09-11T13:12:57.580Z",
-      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47367,7 +47367,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 11,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -47381,8 +47381,8 @@
       },
       "contentHash": "sha256:e74b8db74659d7dba094571214723e45a56fdff76d67be46b5368fc09a964b8e",
       "dedupeKey": "brief:opp_86c1b19b528f4e4b589a:sha256:e74b8db74659d7dba094571214723e45a56fdff76d67be46b5368fc09a964b8e",
-      "firstSeenAt": "2026-09-11T13:12:57.580Z",
-      "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -47489,6 +47489,355 @@
       "dedupeKey": "brief:opp_7da5ca47f1f0e4985875:sha256:d5727d9c2eca5e4d538b553f967b3d52f460c0f0018bac277bbaf9be8edd5ea8",
       "firstSeenAt": "2026-09-11T13:12:57.580Z",
       "lastSeenAt": "2026-09-11T13:12:57.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7c6dea3c2252507fd518": {
+      "id": "opp_7c6dea3c2252507fd518",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33520",
+      "canonicalUrl": "https://mun-jeong-min.github.io/personal-blog/posts/ax-fde-organizational-capability.html",
+      "title": "AX 시대의 FDE는 조직에 무엇을 남길까",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T14:58:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AX 컨설턴트로 일하면서 팔란티어의 FDE 인터뷰를 읽고 든 생각을 적어봤습니다. 현장에서 해결한 문제를 제품에 쌓아간다는 이야기가 인상적이었...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33520"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:02068ee095d93df19025f289d07f7f9285e7c2c78cf4aee64737d1cfa6ee6102",
+      "dedupeKey": "brief:opp_7c6dea3c2252507fd518:sha256:02068ee095d93df19025f289d07f7f9285e7c2c78cf4aee64737d1cfa6ee6102",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5dc977fdc1cb8d94003e": {
+      "id": "opp_5dc977fdc1cb8d94003e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33507",
+      "canonicalUrl": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12459",
+      "title": "개인정보 유출 가능성도 통지 의무화, 중대 위반에는 매출 최대 10% 과징금 제도 시행",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "오늘(9월 11일)부터 개정 개인정보 보호법과 시행령이 시행돼, 유출이 확정되지 않았더라도 객관적으로 유출 가능성이 높다고 판단되면 정보주체에...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33507"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4c0ddaf453dd63b90b718cbc309b07f2ac735b1cc88825547684266d88e9b48c",
+      "dedupeKey": "brief:opp_5dc977fdc1cb8d94003e:sha256:4c0ddaf453dd63b90b718cbc309b07f2ac735b1cc88825547684266d88e9b48c",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8b62417a9ae76443d84a": {
+      "id": "opp_8b62417a9ae76443d84a",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "canonicalUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 11 Sep 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "summaryEvidence": [
+        "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:eeac66516a6ffad107ea3492ea972f20e0a3b0d62ccedb3303284621c3b5c68b",
+      "dedupeKey": "brief:opp_8b62417a9ae76443d84a:sha256:eeac66516a6ffad107ea3492ea972f20e0a3b0d62ccedb3303284621c3b5c68b",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c5662cba9821a2466b60": {
+      "id": "opp_c5662cba9821a2466b60",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "422d0d655be4b1d9dadc02070d4cc288dd3cddea",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/healthomics-cancer-genomics-automation",
+      "title": "이노크라스의 AWS HealthOmics 기반 임상 유전체 파이프라인 운영 효율화 방안",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 11 Sep 2026 13:24:45 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "서론 정밀의료 시대에 바이오마커 기반 표적치료는 암 치료의 핵심 전략으로 자리 잡고 있습니다. 실제 임상에서는 유전체 분석 결과를 바탕으로 치료 방침이 결정되기 때문에, 유전체 분석 검사의 신뢰성(Reliability)과 신속한 결과 제공(Turnaround Time, TAT)은 단순한 운영 성과 지표(KPI)가 아닙니다. 이는 환자의 치료 일정과 의료진의 임상 의사결정에 직접적인 영향을 미치는 핵심 제약 조건입니다. 그 사이를 채우는 것은 시퀀서가 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/healthomics-cancer-genomics-automation/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9f665278525ca076b1cbb79c4fd7cf8bf7e2e0149effc66e9bde3468859651ad",
+      "dedupeKey": "brief:opp_c5662cba9821a2466b60:sha256:9f665278525ca076b1cbb79c4fd7cf8bf7e2e0149effc66e9bde3468859651ad",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4919d6386f2193f34db9": {
+      "id": "opp_4919d6386f2193f34db9",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98799",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 11 Sep 2026 18:26:10 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7148bc4dcf1dcb8786719b4872a42f78967429ed47d580e42b1c7eef212ca4c0",
+      "dedupeKey": "brief:opp_4919d6386f2193f34db9:sha256:7148bc4dcf1dcb8786719b4872a42f78967429ed47d580e42b1c7eef212ca4c0",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_24e4beb75a95fa459092": {
+      "id": "opp_24e4beb75a95fa459092",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:y7VAW4Xd_Q0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=y7VAW4Xd_Q0",
+      "title": "EP114. 도망칠 틈이 없다",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T00:00:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이번 영상에서는 Navier–Stokes 방정식 도전 사례를 통해 대규모 멀티 에이전트와 막대한 컴퓨트가 수학 연구를 어떻게 바꾸고 있는지 살펴봅니다. 이어 GPT Image 2.5의 이미지 일관성·편집 성능과 Astra의 computer use 및 에이전트 활용 사례를 직접 이야기합니다. 또한 Google DeepMind의 AlphaGenome Atlas가 유전자 변이와 질병 연구, 신약 개발에 미칠 가능성을 설명하며 AI for Science의 현재와 미래를 짚어봅니다. 빠르게 발전하는 AI",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=y7VAW4Xd_Q0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T00:00:38.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b83b7c717ac52c97db08a9c391af83bb971d46a81987c333341544c579e8d87c",
+      "dedupeKey": "brief:opp_24e4beb75a95fa459092:sha256:b83b7c717ac52c97db08a9c391af83bb971d46a81987c333341544c579e8d87c",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e0fb5436a7c0ec446a1b": {
+      "id": "opp_e0fb5436a7c0ec446a1b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:usSawqBoVZU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=usSawqBoVZU",
+      "title": "[한영자막] AI에게 '디자인 안목'을 훈련시키는 방법입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T23:00:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 생성한 뻔하고 영혼 없는 저품질 결과물(AI 슬롭)을 끝내기 위해, Taste Labs가 200만 개 웹사이트를 분석하고 디자인 안목을 정량화하여 모델과 에이전트의 품질을 끌어올리는 연구와 실전 솔루션을 소개합니다. 📌 주요 내용: • AI 슬롭의 3대 특징: 천편일률적인 반복성, 맥락에 맞지 않는 적합성 부족, 사용자의 진짜 의도를 살리지 못하는 낮은 의도성 • 200만 개 웹사이트 빅데이터 분석: AI 이전부터 진행된 인터넷의 획일화와 AI 등장 이후 맥락 없는 복제의 가속화 • 슬롭",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=usSawqBoVZU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-11T23:00:38.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7206d0e84892447cbf0cc45e3c7bec71edb967f6c560d15f5638d89923b8a77d",
+      "dedupeKey": "brief:opp_e0fb5436a7c0ec446a1b:sha256:7206d0e84892447cbf0cc45e3c7bec71edb967f6c560d15f5638d89923b8a77d",
+      "firstSeenAt": "2026-09-12T00:05:21.202Z",
+      "lastSeenAt": "2026-09-12T00:05:21.202Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -52668,6 +53017,42 @@
       "opportunityId": "opp_ce9d5cd4ea9af74ddeea",
       "sentAt": "2026-09-11T13:12:57.580Z",
       "messageId": "1547958129852027032"
+    },
+    "brief:opp_4919d6386f2193f34db9:sha256:7148bc4dcf1dcb8786719b4872a42f78967429ed47d580e42b1c7eef212ca4c0": {
+      "status": "SENT",
+      "opportunityId": "opp_4919d6386f2193f34db9",
+      "sentAt": "2026-09-12T00:05:21.202Z",
+      "messageId": "1548122311498928139"
+    },
+    "brief:opp_c5662cba9821a2466b60:sha256:9f665278525ca076b1cbb79c4fd7cf8bf7e2e0149effc66e9bde3468859651ad": {
+      "status": "SENT",
+      "opportunityId": "opp_c5662cba9821a2466b60",
+      "sentAt": "2026-09-12T00:05:21.202Z",
+      "messageId": "1548122311498928139"
+    },
+    "brief:opp_8b62417a9ae76443d84a:sha256:eeac66516a6ffad107ea3492ea972f20e0a3b0d62ccedb3303284621c3b5c68b": {
+      "status": "SENT",
+      "opportunityId": "opp_8b62417a9ae76443d84a",
+      "sentAt": "2026-09-12T00:05:21.202Z",
+      "messageId": "1548122311498928139"
+    },
+    "brief:opp_24e4beb75a95fa459092:sha256:b83b7c717ac52c97db08a9c391af83bb971d46a81987c333341544c579e8d87c": {
+      "status": "SENT",
+      "opportunityId": "opp_24e4beb75a95fa459092",
+      "sentAt": "2026-09-12T00:05:21.202Z",
+      "messageId": "1548122311498928139"
+    },
+    "brief:opp_e0fb5436a7c0ec446a1b:sha256:7206d0e84892447cbf0cc45e3c7bec71edb967f6c560d15f5638d89923b8a77d": {
+      "status": "SENT",
+      "opportunityId": "opp_e0fb5436a7c0ec446a1b",
+      "sentAt": "2026-09-12T00:05:21.202Z",
+      "messageId": "1548122311498928139"
+    },
+    "brief:opp_7c6dea3c2252507fd518:sha256:02068ee095d93df19025f289d07f7f9285e7c2c78cf4aee64737d1cfa6ee6102": {
+      "status": "SENT",
+      "opportunityId": "opp_7c6dea3c2252507fd518",
+      "sentAt": "2026-09-12T00:05:21.202Z",
+      "messageId": "1548122311498928139"
     }
   },
   "pending": {},
