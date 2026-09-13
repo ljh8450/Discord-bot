@@ -48352,6 +48352,206 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_224d5db525ae6142d82c": {
+      "id": "opp_224d5db525ae6142d82c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33559",
+      "canonicalUrl": "https://dayzlegame.com/blog/google-ads-bot-farm",
+      "title": "Google 앱 광고에 220달러를 썼는데, 설치의 60%가 봇이었다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T07:36:08+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "퍼즐 앱 Dayzle의 Android 광고에서 2주간 과금된 설치 56건 중 33건이 봇으로 의심되는 행동을 보였으며, 실제 이용자로 분류된 사람은 13명이었...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33559"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:366a119c3d9c880d247ad8952e35adc506240bb442ade71c97429e393a35e7d5",
+      "dedupeKey": "brief:opp_224d5db525ae6142d82c:sha256:366a119c3d9c880d247ad8952e35adc506240bb442ade71c97429e393a35e7d5",
+      "firstSeenAt": "2026-09-13T00:06:05.944Z",
+      "lastSeenAt": "2026-09-13T00:06:05.944Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_66610712b4d013b158d6": {
+      "id": "opp_66610712b4d013b158d6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33550",
+      "canonicalUrl": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "title": "필즈상 수상자 25명의 경고: AI의 문제 풀이 경쟁이 놓치는 수학의 목적",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T04:51:14+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "테렌스 타오를 포함한 필즈상 수상자 25명이 공동 선언을 내고, 난제 해결을 벤치마크로 삼는 AI 기업의 경쟁이 수학의 발전과 공동체를 해칠 수 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33550"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c2998b4112c6141326b40b1f5bcb421e81eaea9dae56cfef66601fe87ffbe3c",
+      "dedupeKey": "brief:opp_66610712b4d013b158d6:sha256:7c2998b4112c6141326b40b1f5bcb421e81eaea9dae56cfef66601fe87ffbe3c",
+      "firstSeenAt": "2026-09-13T00:06:05.944Z",
+      "lastSeenAt": "2026-09-13T00:06:05.944Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6fa93c6148b80aa12379": {
+      "id": "opp_6fa93c6148b80aa12379",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33534",
+      "canonicalUrl": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "title": "창의성이 새로운 해자다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-11T22:40:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 앱과 디자인을 쉽게 복제할 수 있게 되면서, 경쟁 우위는 참신한 결과물 하나가 아니라 독창적인 해결책을 계속 만들어내는 능력에 있음 Flas...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33534"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:72405ae151fbaea8fdabe6affac242d357296152551e019873ae7dc1585b1868",
+      "dedupeKey": "brief:opp_6fa93c6148b80aa12379:sha256:72405ae151fbaea8fdabe6affac242d357296152551e019873ae7dc1585b1868",
+      "firstSeenAt": "2026-09-13T00:06:05.944Z",
+      "lastSeenAt": "2026-09-13T00:06:05.944Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1b3be3de2b8205d0d48c": {
+      "id": "opp_1b3be3de2b8205d0d48c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:tOPsby-irKY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tOPsby-irKY",
+      "title": "[한영자막] AI 에이전트를 위한 만능 리모컨, ACP를 소개합니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T22:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트가 외부 도구를 호출하는 표준인 MCP에 이어, 클라이언트가 에이전트 하네스를 일관되게 제어하기 위한 개방형 표준 프로토콜 'ACP(Agent Client Protocol)'를 소개합니다. Goose 메인테이너이자 MCP Rust SDK 개발자인 Alex Hancock(Block)이 Zed와 JetBrains에서 시작된 ACP의 구조, 로컬/원격 데모, 그리고 에이전트 생태계에 가져올 변화를 알기 쉽게 설명합니다. 📌 핵심 포인트 • MCP가 '에이전트 → 외부 도구' 방향의 표준이라면,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=tOPsby-irKY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-12T22:00:06.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:625c40a15ed7e40ff202a0d9226ecc6f101a1ec6c4772cbe821abc81414b5969",
+      "dedupeKey": "brief:opp_1b3be3de2b8205d0d48c:sha256:625c40a15ed7e40ff202a0d9226ecc6f101a1ec6c4772cbe821abc81414b5969",
+      "firstSeenAt": "2026-09-13T00:06:05.944Z",
+      "lastSeenAt": "2026-09-13T00:06:05.944Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -53634,6 +53834,24 @@
       "opportunityId": "opp_feadaf798f25dc30bb27",
       "sentAt": "2026-09-12T12:36:43.342Z",
       "messageId": "1548311397790654507"
+    },
+    "brief:opp_1b3be3de2b8205d0d48c:sha256:625c40a15ed7e40ff202a0d9226ecc6f101a1ec6c4772cbe821abc81414b5969": {
+      "status": "SENT",
+      "opportunityId": "opp_1b3be3de2b8205d0d48c",
+      "sentAt": "2026-09-13T00:06:05.944Z",
+      "messageId": "1548484886040420447"
+    },
+    "brief:opp_224d5db525ae6142d82c:sha256:366a119c3d9c880d247ad8952e35adc506240bb442ade71c97429e393a35e7d5": {
+      "status": "SENT",
+      "opportunityId": "opp_224d5db525ae6142d82c",
+      "sentAt": "2026-09-13T00:06:05.944Z",
+      "messageId": "1548484886040420447"
+    },
+    "brief:opp_66610712b4d013b158d6:sha256:7c2998b4112c6141326b40b1f5bcb421e81eaea9dae56cfef66601fe87ffbe3c": {
+      "status": "SENT",
+      "opportunityId": "opp_66610712b4d013b158d6",
+      "sentAt": "2026-09-13T00:06:05.944Z",
+      "messageId": "1548484886040420447"
     }
   },
   "pending": {},
