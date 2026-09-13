@@ -48629,7 +48629,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 2,
+        "communityRank": 3,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -48643,8 +48643,8 @@
       },
       "contentHash": "sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61",
       "dedupeKey": "brief:opp_13a4f1ba185ff30a1c5e:sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61",
-      "firstSeenAt": "2026-09-13T09:05:54.727Z",
-      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "firstSeenAt": "2026-09-13T13:38:32.594Z",
+      "lastSeenAt": "2026-09-13T13:38:32.594Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -48741,11 +48741,11 @@
       },
       "contentHash": "sha256:148e543148bf7b1a71cf382911b3e31f9d7cbfdc2ca2a4cf46c2c92a8ab2d6a3",
       "dedupeKey": "brief:opp_c9281aa77dce3df5e99f:sha256:148e543148bf7b1a71cf382911b3e31f9d7cbfdc2ca2a4cf46c2c92a8ab2d6a3",
-      "firstSeenAt": "2026-09-13T09:05:54.727Z",
-      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "firstSeenAt": "2026-09-13T13:38:32.594Z",
+      "lastSeenAt": "2026-09-13T13:38:32.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49006,11 +49006,11 @@
       },
       "contentHash": "sha256:a092b12fb2b9d8baf6339d21462aed0fdd88b2d430a9744ebad49d8587e77431",
       "dedupeKey": "brief:opp_a802907b6dc35868178a:sha256:a092b12fb2b9d8baf6339d21462aed0fdd88b2d430a9744ebad49d8587e77431",
-      "firstSeenAt": "2026-09-13T09:05:54.727Z",
-      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "firstSeenAt": "2026-09-13T13:38:32.594Z",
+      "lastSeenAt": "2026-09-13T13:38:32.594Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49061,6 +49061,104 @@
       "dedupeKey": "brief:opp_1988707d4979f05d506e:sha256:d41f6d6ba508de0bb7e9c97fcc5eeb47def795f73326d4c7cc93cc86dbd31373",
       "firstSeenAt": "2026-09-13T09:05:54.727Z",
       "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a0021f05a9e8455cf06b": {
+      "id": "opp_a0021f05a9e8455cf06b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33587",
+      "canonicalUrl": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T01:44:18+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Minitap 팀이 Google의 모바일 자동화 프로젝트 Artemis에서 자신들이 만든 mobile-use 코드를 발견했지만, 원래 프로젝트와 개발자에 대한 출처 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33587"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3b5184d7ccea4cb16dd8136c419463071af520e312d70b6433da7468679cd4dc",
+      "dedupeKey": "brief:opp_a0021f05a9e8455cf06b:sha256:3b5184d7ccea4cb16dd8136c419463071af520e312d70b6433da7468679cd4dc",
+      "firstSeenAt": "2026-09-13T13:38:32.594Z",
+      "lastSeenAt": "2026-09-13T13:38:32.594Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a95acae94ea0638c158b": {
+      "id": "opp_a95acae94ea0638c158b",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "1ffe6a06ce7528dab3f773f45875f9725a4c8e79",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/celltrion-pharm-oms-develop-with-ai-dlc",
+      "title": "셀트리온제약의 AI-DLC 방법론과 Kiro를 활용한 OMS 서비스 구축하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Sun, 13 Sep 2026 12:41:05 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "셀트리온제약은 케미컬의약품과 바이오의약품을 국내외 시장에 공급하는 대한민국 대표 제약기업입니다. 셀트리온제약은 의약품 위탁 생산(Contract Manufacturing Organization, CMO)을 위한 관리, 공급망, 계약 업무를 하나로 연결하는 핵심 시스템인 OMS(Order Management System)를 새롭게 구축해야 했습니다. 프로젝트 착수 시점에 개발팀이 마주한 현실은 다음 한 문장에 압축되어 있습니다. “3개월 안에 OMS를 출시해야 합니다. 외주를 주기엔 도메인 전달에만",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/celltrion-pharm-oms-develop-with-ai-dlc/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f45c6c368de6d14c0d463b49198ca2f6eef4cd3acdfd3c72b69a0b7fca11ae1e",
+      "dedupeKey": "brief:opp_a95acae94ea0638c158b:sha256:f45c6c368de6d14c0d463b49198ca2f6eef4cd3acdfd3c72b69a0b7fca11ae1e",
+      "firstSeenAt": "2026-09-13T13:38:32.594Z",
+      "lastSeenAt": "2026-09-13T13:38:32.594Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -54408,6 +54506,30 @@
       "opportunityId": "opp_1cf4760aa7a61e38f923",
       "sentAt": "2026-09-13T09:05:54.727Z",
       "messageId": "1548620737198424150"
+    },
+    "brief:opp_a95acae94ea0638c158b:sha256:f45c6c368de6d14c0d463b49198ca2f6eef4cd3acdfd3c72b69a0b7fca11ae1e": {
+      "status": "SENT",
+      "opportunityId": "opp_a95acae94ea0638c158b",
+      "sentAt": "2026-09-13T13:38:32.594Z",
+      "messageId": "1548689344338993194"
+    },
+    "brief:opp_a802907b6dc35868178a:sha256:a092b12fb2b9d8baf6339d21462aed0fdd88b2d430a9744ebad49d8587e77431": {
+      "status": "SENT",
+      "opportunityId": "opp_a802907b6dc35868178a",
+      "sentAt": "2026-09-13T13:38:32.594Z",
+      "messageId": "1548689344338993194"
+    },
+    "brief:opp_a0021f05a9e8455cf06b:sha256:3b5184d7ccea4cb16dd8136c419463071af520e312d70b6433da7468679cd4dc": {
+      "status": "SENT",
+      "opportunityId": "opp_a0021f05a9e8455cf06b",
+      "sentAt": "2026-09-13T13:38:32.594Z",
+      "messageId": "1548689344338993194"
+    },
+    "brief:opp_c9281aa77dce3df5e99f:sha256:148e543148bf7b1a71cf382911b3e31f9d7cbfdc2ca2a4cf46c2c92a8ab2d6a3": {
+      "status": "SENT",
+      "opportunityId": "opp_c9281aa77dce3df5e99f",
+      "sentAt": "2026-09-13T13:38:32.594Z",
+      "messageId": "1548689344338993194"
     }
   },
   "pending": {},
