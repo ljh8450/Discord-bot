@@ -48601,6 +48601,471 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_13a4f1ba185ff30a1c5e": {
+      "id": "opp_13a4f1ba185ff30a1c5e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33576",
+      "canonicalUrl": "https://eddie.codes/posts/pandas-should-go-extinct",
+      "title": "Pandas는 멸종해야 한다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T17:36:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Pandas가 느리다는 이유만으로 복잡한 분산 쿼리 시스템으로 넘어갈 필요는 없음. 약 100GB 부근의 작업은 Polars와 DuckDB 같은 고성능 단일 머신...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33576"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61",
+      "dedupeKey": "brief:opp_13a4f1ba185ff30a1c5e:sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1cf4760aa7a61e38f923": {
+      "id": "opp_1cf4760aa7a61e38f923",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33595",
+      "canonicalUrl": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights",
+      "title": "다리오에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T05:35:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "다리오 아모데이의 AI 개발 속도 조절 제안에 대해, 외부 평가자와 복잡한 규제 대신 대중에게 제공하는 모델의 가중치 공개를 법으로 의무화하자...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33595"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:372d1d88702153dffdcaa360ebd6ea319a4c1818565a5b19c1bd59935951c2e2",
+      "dedupeKey": "brief:opp_1cf4760aa7a61e38f923:sha256:372d1d88702153dffdcaa360ebd6ea319a4c1818565a5b19c1bd59935951c2e2",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c9281aa77dce3df5e99f": {
+      "id": "opp_c9281aa77dce3df5e99f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33563",
+      "canonicalUrl": "https://tante.cc/2026/09/11/power-grab",
+      "title": "Omarchy의 권력 장악",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T09:11:55+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Arch Linux 기반 배포판 Omarchy를 둘러싼 핵심 쟁점은 기술보다 1,800만 달러 이상의 후원금과 이를 배분하는 DHH의 권한에 있음 기업이 오픈소스...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33563"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:148e543148bf7b1a71cf382911b3e31f9d7cbfdc2ca2a4cf46c2c92a8ab2d6a3",
+      "dedupeKey": "brief:opp_c9281aa77dce3df5e99f:sha256:148e543148bf7b1a71cf382911b3e31f9d7cbfdc2ca2a4cf46c2c92a8ab2d6a3",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9f7a7737ff440f3ebd30": {
+      "id": "opp_9f7a7737ff440f3ebd30",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:lf75rqTaO8s",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lf75rqTaO8s",
+      "title": "[한영자막] Pstack은 과한 오버스펙일까요? 그래도 써봐야 하는 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T09:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Cursor 엔지니어이자 React 코어 팀 출신 로렌 탄(Lauren Tan)이 사내에서 검증하고 오픈소스로 공개한 에이전트 스킬 스택 'Pstack'의 모든 것을 상세히 분석합니다. 단순한 코드 생성을 넘어 엄격한 엔지니어링 원칙과 철저한 교차 검증으로 AI 에이전트의 신뢰도를 극대화하는 실전 노하우를 만나보세요. 📌 주요 내용: • 포테이토 모드(/poteto-mode) 라우터와 22개 플레이북 구조 분석 • 아레나(Arena)와 스웜(Swarm)을 활용한 병렬 탐색 및 결과 취합 기법 •",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lf75rqTaO8s"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T09:00:22.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3e013c6c09ab38f4ec5fc9b3377ffc7a4a9bd21a188601aca0be8fadf815c6d9",
+      "dedupeKey": "brief:opp_9f7a7737ff440f3ebd30:sha256:3e013c6c09ab38f4ec5fc9b3377ffc7a4a9bd21a188601aca0be8fadf815c6d9",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9ba0bf1c1e20abf7535b": {
+      "id": "opp_9ba0bf1c1e20abf7535b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:DND22Bf88QI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DND22Bf88QI",
+      "title": "[한영자막] 마크 저커버그가 밝힌 메타의 AI 에이전트 '뮤즈'가 돈을 벌어다 주는 방식입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T04:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "메타(Meta)의 마크 저커버그 CEO가 새로운 AI 에이전트 '뮤즈(Muse)'를 발표하며, 24시간 나를 대신해 일하는 개인용 AI 에이전트가 어떻게 사용자들에게 돈을 벌어다 줄 것인지 심도 있는 비전을 공개합니다. 수소문 끝에 공개된 이번 인터뷰에서는 소수 빅테크의 독점을 깨뜨릴 오픈소스 AI의 필요성부터 데이터센터와 에너지 이슈, Llama 4의 개발 뒷이야기, 그리고 스마트 안경의 미래까지 기술 생태계의 거대한 변화를 직접 확인하실 수 있습니다. 📌 주요 내용: • 24시간 나를 위해",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=DND22Bf88QI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T09:00:22.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7c02489413b240b6f8fe7e5b0d484843722a5c26894136fddb03b5f94a5014f",
+      "dedupeKey": "brief:opp_9ba0bf1c1e20abf7535b:sha256:c7c02489413b240b6f8fe7e5b0d484843722a5c26894136fddb03b5f94a5014f",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b9dc4ffb33d2ab4e7c07": {
+      "id": "opp_b9dc4ffb33d2ab4e7c07",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:l7frz_bd5vM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=l7frz_bd5vM",
+      "title": "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T09:02:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=l7frz_bd5vM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T09:02:04.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:94fac0e54d7662548e584c0777742d6190f7980da5f6f70bc08907fe9ff262be",
+      "dedupeKey": "brief:opp_b9dc4ffb33d2ab4e7c07:sha256:94fac0e54d7662548e584c0777742d6190f7980da5f6f70bc08907fe9ff262be",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bd70a11a2c044e4c8456": {
+      "id": "opp_bd70a11a2c044e4c8456",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:fsZ_7WGEego",
+      "canonicalUrl": "https://www.youtube.com/watch?v=fsZ_7WGEego",
+      "title": "36분 영상 83만 뷰, Dan Koe — 직업은 250년짜리 발명품, AI 시대에 남는 스킬 스택 3층",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T08:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "구독자 142만 명의 작가 Dan Koe 가 2026년 9월에 올린 36분짜리 영상 \"If You Have Multiple Interests, Please Take Advantage of the Next 10 Years\" 를 처음부터 끝까지 따라갑니다. AI 를 거부하는 사람도, 전부 맡기는 사람도 아닌 세 번째 길이 무엇인지, AI 가 먼저 대신하게 되는 스킬과 남는 스킬, 그리고 AI 를 쓰기 시작하는 구체적인 순서를 정리합니다. 중간중간 원본 클립이 한국어 자막과 함께 들어갑니다. 원본 영상",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=fsZ_7WGEego"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T08:00:25.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c553d94cc5b9b2fdf94fb681ef543d6954e51f9815ce5c77d742a281e845f4af",
+      "dedupeKey": "brief:opp_bd70a11a2c044e4c8456:sha256:c553d94cc5b9b2fdf94fb681ef543d6954e51f9815ce5c77d742a281e845f4af",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a802907b6dc35868178a": {
+      "id": "opp_a802907b6dc35868178a",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:v2Eab3U0W9s",
+      "canonicalUrl": "https://www.youtube.com/watch?v=v2Eab3U0W9s",
+      "title": "Kafka 제대로 이해하기 | 멤버십 영상",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T02:59:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "(2026.3월에 업로드 한 멤버십 영상입니다.) 카프카 개발자 Jay Kreps가 2013년 12월에 링크드인 엔지니어링 블로그에 게재한 원문글을 리뷰합니다. 이를 통해 분산 시스템에서 로그의 역할과 중요성을 이해하고, Kafka의 탄생 배경은 물론이고 Kafka를 단순히 사용하는 개발자를 넘어서, 데이터 흐름을 이해하고 설계하는 아키텍트의 시각을 갖게 되실 겁니다. '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/playlist",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=v2Eab3U0W9s"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T02:59:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a092b12fb2b9d8baf6339d21462aed0fdd88b2d430a9744ebad49d8587e77431",
+      "dedupeKey": "brief:opp_a802907b6dc35868178a:sha256:a092b12fb2b9d8baf6339d21462aed0fdd88b2d430a9744ebad49d8587e77431",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1988707d4979f05d506e": {
+      "id": "opp_1988707d4979f05d506e",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:d0kRWcguYSU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=d0kRWcguYSU",
+      "title": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T07:28:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "앤트로픽이 공개한 보고서에는 꽤 이상한 데이터 흐름이 등장합니다.딥시크와 키미 같은 중국 AI를 사용한 고객들의 요청 일부가 프록시를 거쳐 Claude Opus까지 전달됐다는 내용입니다.경쟁 모델의 성능을 학습하기 위한 대규모 증류 과정에서 실제 고객 요청까지 함께 사용된 것이 핵심입니다.그 과정에서 중국 청두 지역의 CCTV 자료와 러시아 정부기관 데이터베이스 접속정보 같은 민감한 데이터도 함께 이동했습니다.기업의 CAPEX 계획이나 개발자의 .env 파일처럼 평범한 업무 과정에서 사용하는 자료",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=d0kRWcguYSU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T07:28:14.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d41f6d6ba508de0bb7e9c97fcc5eeb47def795f73326d4c7cc93cc86dbd31373",
+      "dedupeKey": "brief:opp_1988707d4979f05d506e:sha256:d41f6d6ba508de0bb7e9c97fcc5eeb47def795f73326d4c7cc93cc86dbd31373",
+      "firstSeenAt": "2026-09-13T09:05:54.727Z",
+      "lastSeenAt": "2026-09-13T09:05:54.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -53907,6 +54372,42 @@
       "opportunityId": "opp_4a0383a73ea0cb2d6ea0",
       "sentAt": "2026-09-13T03:42:47.142Z",
       "messageId": "1548539417734414448"
+    },
+    "brief:opp_bd70a11a2c044e4c8456:sha256:c553d94cc5b9b2fdf94fb681ef543d6954e51f9815ce5c77d742a281e845f4af": {
+      "status": "SENT",
+      "opportunityId": "opp_bd70a11a2c044e4c8456",
+      "sentAt": "2026-09-13T09:05:54.727Z",
+      "messageId": "1548620737198424150"
+    },
+    "brief:opp_b9dc4ffb33d2ab4e7c07:sha256:94fac0e54d7662548e584c0777742d6190f7980da5f6f70bc08907fe9ff262be": {
+      "status": "SENT",
+      "opportunityId": "opp_b9dc4ffb33d2ab4e7c07",
+      "sentAt": "2026-09-13T09:05:54.727Z",
+      "messageId": "1548620737198424150"
+    },
+    "brief:opp_9f7a7737ff440f3ebd30:sha256:3e013c6c09ab38f4ec5fc9b3377ffc7a4a9bd21a188601aca0be8fadf815c6d9": {
+      "status": "SENT",
+      "opportunityId": "opp_9f7a7737ff440f3ebd30",
+      "sentAt": "2026-09-13T09:05:54.727Z",
+      "messageId": "1548620737198424150"
+    },
+    "brief:opp_1988707d4979f05d506e:sha256:d41f6d6ba508de0bb7e9c97fcc5eeb47def795f73326d4c7cc93cc86dbd31373": {
+      "status": "SENT",
+      "opportunityId": "opp_1988707d4979f05d506e",
+      "sentAt": "2026-09-13T09:05:54.727Z",
+      "messageId": "1548620737198424150"
+    },
+    "brief:opp_9ba0bf1c1e20abf7535b:sha256:c7c02489413b240b6f8fe7e5b0d484843722a5c26894136fddb03b5f94a5014f": {
+      "status": "SENT",
+      "opportunityId": "opp_9ba0bf1c1e20abf7535b",
+      "sentAt": "2026-09-13T09:05:54.727Z",
+      "messageId": "1548620737198424150"
+    },
+    "brief:opp_1cf4760aa7a61e38f923:sha256:372d1d88702153dffdcaa360ebd6ea319a4c1818565a5b19c1bd59935951c2e2": {
+      "status": "SENT",
+      "opportunityId": "opp_1cf4760aa7a61e38f923",
+      "sentAt": "2026-09-13T09:05:54.727Z",
+      "messageId": "1548620737198424150"
     }
   },
   "pending": {},
