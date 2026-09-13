@@ -48552,6 +48552,55 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_4a0383a73ea0cb2d6ea0": {
+      "id": "opp_4a0383a73ea0cb2d6ea0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33582",
+      "canonicalUrl": "https://www.joelotter.com/posts/2026/09/make-it-anyway",
+      "title": "젠장, 그래도 만들자",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T22:33:21+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프롬프트 하나로 도구와 게임을 만드는 시대가 되면서, 수년간 어렵게 배운 기술과 직접 만든 결과물이 무슨 가치가 있는지 회의가 들 수 있음 LLM...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33582"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0861262d98959ff18c90624c43408e423ad920538cf7591c8ef33d2f9ebfaef3",
+      "dedupeKey": "brief:opp_4a0383a73ea0cb2d6ea0:sha256:0861262d98959ff18c90624c43408e423ad920538cf7591c8ef33d2f9ebfaef3",
+      "firstSeenAt": "2026-09-13T03:42:47.142Z",
+      "lastSeenAt": "2026-09-13T03:42:47.142Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -53852,6 +53901,12 @@
       "opportunityId": "opp_66610712b4d013b158d6",
       "sentAt": "2026-09-13T00:06:05.944Z",
       "messageId": "1548484886040420447"
+    },
+    "brief:opp_4a0383a73ea0cb2d6ea0:sha256:0861262d98959ff18c90624c43408e423ad920538cf7591c8ef33d2f9ebfaef3": {
+      "status": "SENT",
+      "opportunityId": "opp_4a0383a73ea0cb2d6ea0",
+      "sentAt": "2026-09-13T03:42:47.142Z",
+      "messageId": "1548539417734414448"
     }
   },
   "pending": {},
