@@ -48628,26 +48628,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 3,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61",
       "dedupeKey": "brief:opp_13a4f1ba185ff30a1c5e:sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61",
-      "firstSeenAt": "2026-09-13T13:38:32.594Z",
-      "lastSeenAt": "2026-09-13T13:38:32.594Z",
+      "firstSeenAt": "2026-09-14T00:05:47.542Z",
+      "lastSeenAt": "2026-09-14T00:05:47.542Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49159,6 +49159,156 @@
       "dedupeKey": "brief:opp_a95acae94ea0638c158b:sha256:f45c6c368de6d14c0d463b49198ca2f6eef4cd3acdfd3c72b69a0b7fca11ae1e",
       "firstSeenAt": "2026-09-13T13:38:32.594Z",
       "lastSeenAt": "2026-09-13T13:38:32.594Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8295f1dd738a1f916a3e": {
+      "id": "opp_8295f1dd738a1f916a3e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33564",
+      "canonicalUrl": "https://mail.cyberneticforests.com/models-dont-go-rogue",
+      "title": "모델은 스스로 통제를 벗어나지 않는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-12T09:14:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI의 Hugging Face 해킹 사건에서 먼저 살펴야 할 것은 AI의 자발적 일탈보다 안전장치를 해제하고 취약점 탐색을 맡긴 인간의 결정임 모델들...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33564"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:73e20e3714052c50eb84e9291401785ee60e4737e3b49a4ab312f5325cad635a",
+      "dedupeKey": "brief:opp_8295f1dd738a1f916a3e:sha256:73e20e3714052c50eb84e9291401785ee60e4737e3b49a4ab312f5325cad635a",
+      "firstSeenAt": "2026-09-14T00:05:47.542Z",
+      "lastSeenAt": "2026-09-14T00:05:47.542Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ac52f19166a094dea0f6": {
+      "id": "opp_ac52f19166a094dea0f6",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "canonicalUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "summaryEvidence": [
+        "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5a43de93c7f67a8a3627a9e142cdcdd75451f747bb43b49563f76604998df849",
+      "dedupeKey": "brief:opp_ac52f19166a094dea0f6:sha256:5a43de93c7f67a8a3627a9e142cdcdd75451f747bb43b49563f76604998df849",
+      "firstSeenAt": "2026-09-14T00:05:47.542Z",
+      "lastSeenAt": "2026-09-14T00:05:47.542Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_de68b3c901bb7d920078": {
+      "id": "opp_de68b3c901bb7d920078",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:T2bWgEhLl6M",
+      "canonicalUrl": "https://www.youtube.com/watch?v=T2bWgEhLl6M",
+      "title": "[한영자막] AI 시대, 대담한 소프트웨어를 개발하는 법 — Jonathan Kelley (Dioxus Labs & Cognition)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T22:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 에이전트가 발전하면서 소프트웨어 개발의 패러다임이 완전히 바뀌고 있습니다. Dioxus Labs 창립자 Jonathan Kelley가 수만 줄의 코드를 쏟아내며 겪은 실패와, 코딩 에이전트 시대를 맞아 Rust가 최고의 무기로 거듭난 실전 인사이트를 공유합니다. 📌 주요 내용: • '슬롭 캐논(Slop Cannon)'의 함정: 코딩 에이전트로 수만 줄의 코드를 양산했으나 머지하지 못했던 이유 • Rust의 반전: 까다로운 대여 검사기(Borrow Checker)와 타입 시스템이 AI",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=T2bWgEhLl6M"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-13T22:00:15.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:daffb83b66d7f38bcde8972f1ed7891de39e621b5ccb7c40ebc3bd37c2da3eb1",
+      "dedupeKey": "brief:opp_de68b3c901bb7d920078:sha256:daffb83b66d7f38bcde8972f1ed7891de39e621b5ccb7c40ebc3bd37c2da3eb1",
+      "firstSeenAt": "2026-09-14T00:05:47.542Z",
+      "lastSeenAt": "2026-09-14T00:05:47.542Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -54530,6 +54680,30 @@
       "opportunityId": "opp_c9281aa77dce3df5e99f",
       "sentAt": "2026-09-13T13:38:32.594Z",
       "messageId": "1548689344338993194"
+    },
+    "brief:opp_ac52f19166a094dea0f6:sha256:5a43de93c7f67a8a3627a9e142cdcdd75451f747bb43b49563f76604998df849": {
+      "status": "SENT",
+      "opportunityId": "opp_ac52f19166a094dea0f6",
+      "sentAt": "2026-09-14T00:05:47.542Z",
+      "messageId": "1548847195988688937"
+    },
+    "brief:opp_de68b3c901bb7d920078:sha256:daffb83b66d7f38bcde8972f1ed7891de39e621b5ccb7c40ebc3bd37c2da3eb1": {
+      "status": "SENT",
+      "opportunityId": "opp_de68b3c901bb7d920078",
+      "sentAt": "2026-09-14T00:05:47.542Z",
+      "messageId": "1548847195988688937"
+    },
+    "brief:opp_13a4f1ba185ff30a1c5e:sha256:02f5d899e681925e710cea60040db731417c79fe96808848a0b0c39e36626a61": {
+      "status": "SENT",
+      "opportunityId": "opp_13a4f1ba185ff30a1c5e",
+      "sentAt": "2026-09-14T00:05:47.542Z",
+      "messageId": "1548847195988688937"
+    },
+    "brief:opp_8295f1dd738a1f916a3e:sha256:73e20e3714052c50eb84e9291401785ee60e4737e3b49a4ab312f5325cad635a": {
+      "status": "SENT",
+      "opportunityId": "opp_8295f1dd738a1f916a3e",
+      "sentAt": "2026-09-14T00:05:47.542Z",
+      "messageId": "1548847195988688937"
     }
   },
   "pending": {},
