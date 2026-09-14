@@ -49314,6 +49314,353 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_bf6a647f16b51270b38b": {
+      "id": "opp_bf6a647f16b51270b38b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33616",
+      "canonicalUrl": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "title": "현실과 동떨어진 쿵푸 고수가 되지 말라 - 존 카맥",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T18:32:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "무술이 전장의 필수 기술에서 스포츠와 취미로 바뀌었듯, 프로그래밍 기술도 AI로 인해 비슷한 길을 걷고 있음 과거에는 명령어를 직접 16진수 기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33616"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:ccb74372f451dc4c0d372475381e0f5bf98df8fd31d8cc95f77640157d4201f1",
+      "dedupeKey": "brief:opp_bf6a647f16b51270b38b:sha256:ccb74372f451dc4c0d372475381e0f5bf98df8fd31d8cc95f77640157d4201f1",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c101a09b2c7a55b511a8": {
+      "id": "opp_c101a09b2c7a55b511a8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33664",
+      "canonicalUrl": "https://github.com/cathrynlavery/diagram-design",
+      "title": "Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code/Codex/Pi 등에서 블로그와 문서, 발표 자료에 넣을 다이어그램을 자연어로 요청해 만드는 에이전트 스킬 비슷한 둥근 상자와 화살표를...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33664"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:08dda0c1afb94e8dfee8008bb10a788c41123865fb8191410041142211babfee",
+      "dedupeKey": "brief:opp_c101a09b2c7a55b511a8:sha256:08dda0c1afb94e8dfee8008bb10a788c41123865fb8191410041142211babfee",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_877efd6dd16f2abfcb00": {
+      "id": "opp_877efd6dd16f2abfcb00",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33666",
+      "canonicalUrl": "https://news.hada.io/topic?id=33666",
+      "title": "Show GN: Study Kit — 아는 내용은 건너뛰고, 질문으로 교재를 고치는 Claude Code·Codex 플러그인",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T09:59:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "어떤 분야를 빠르게 핵심만, 혹은 내가 필요로 하는 부분만 파악해야 할 때가 있죠. 교재 한 권을 처음부터 읽고 모든 문제를 풀 시간은 부족합니...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33666"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
+      "dedupeKey": "brief:opp_877efd6dd16f2abfcb00:sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9a1bf565ae22de9a6fce": {
+      "id": "opp_9a1bf565ae22de9a6fce",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33651",
+      "canonicalUrl": "https://kucharski.substack.com/p/ten-reasons-your-vibe-coded-dashboard",
+      "title": "바이브 코딩으로 만든 대시보드가 형편없어 보이는 10가지 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T06:36:17+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI에 “보기 좋은 대화형 대시보드”를 요청하면 차트와 필터는 만들어주지만, 사용자가 무엇을 찾고 어디부터 봐야 하는지까지 정리해주지는 못함 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33651"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068",
+      "dedupeKey": "brief:opp_9a1bf565ae22de9a6fce:sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_137d73aa64859c0d5580": {
+      "id": "opp_137d73aa64859c0d5580",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33656",
+      "canonicalUrl": "https://softwareleads.substack.com/p/the-four-pillars-of-engineering-management",
+      "title": "엔지니어링 매니저의 네 가지 핵심 책임 영역",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T06:52:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "엔지니어링 매니저의 역할은 개인 기여를 넘어 팀 전체의 영향력을 높이는 것임. 소통, 우선순위 조정, 목표 정렬, 의사결정을 지원해 팀이 공동 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33656"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b57200e7eaf3f1a536dac29b2cddd7fd6d70d69f51a4c586cdbc25d53296d337",
+      "dedupeKey": "brief:opp_137d73aa64859c0d5580:sha256:b57200e7eaf3f1a536dac29b2cddd7fd6d70d69f51a4c586cdbc25d53296d337",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a00b11ab9db200e1bb78": {
+      "id": "opp_a00b11ab9db200e1bb78",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "94ea501a5b7f7d06292252e899a2d239c203336a",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/eks-advanced-control-plane",
+      "title": "Amazon EKS 고급 컨트롤 플레인 구성하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 14 Sep 2026 01:16:51 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "EKS 노드에 파드(Pod)를 더 밀도 있게 채워서 컴퓨트 비용을 줄이고 싶은데, 스케줄러 설정에는 손댈 방법이 없어 아쉬웠던 적이 있으신가요? 대규모 이벤트로 트래픽이 많아지는 순간 오토스케일링이 조금 더 빨리 반응해 주기를 바랐던 경험은 어떠신가요? 지금까지 Amazon EKS에서 이런 요구를 해결하기가 쉽지 않았습니다. kube-scheduler와 kube-apiserver 같은 컴포넌트의 구성이 EKS 컨트롤 플레인 고유의 영역이었기 때문입니다. 2026년 8월 12일, […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/eks-advanced-control-plane/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0c9981798ead06e24380d213046857777629b778aa0097082b9c4551bd4fcf24",
+      "dedupeKey": "brief:opp_a00b11ab9db200e1bb78:sha256:0c9981798ead06e24380d213046857777629b778aa0097082b9c4551bd4fcf24",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a355b0d3ff2fda249320": {
+      "id": "opp_a355b0d3ff2fda249320",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:mw82ucojLIY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mw82ucojLIY",
+      "title": "GPT-6 Astra가 감독, Higgsfield가 촬영팀 — 광고부터 건축 영상까지 직접 만들어 봤습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T00:40:49.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ ChatGPT에 Higgsfield 연결하기 (GPT-6 Astra): https://higgsfield.ai/s/gpt-6-astra-yt-ai-agentos-TDZowH GPT-6 Astra가 기획하고, Higgsfield가 만듭니다. ChatGPT에 Higgsfield MCP를 연결하면 GPT-6 Astra가 요청을 읽고 촬영 지시서를 쓴 다음, Seedance·Nano Banana 같은 AI video generation 모델을 직접 불러 영상과 이미지를 만들어 줍니다. 사진 한 장과",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mw82ucojLIY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-14T00:40:49.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b2ac442ce85a83a4be3d66ee6670210adda03c7d8bc2616ac6f3a1a31d37873f",
+      "dedupeKey": "brief:opp_a355b0d3ff2fda249320:sha256:b2ac442ce85a83a4be3d66ee6670210adda03c7d8bc2616ac6f3a1a31d37873f",
+      "firstSeenAt": "2026-09-14T03:51:28.400Z",
+      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -54704,6 +55051,30 @@
       "opportunityId": "opp_8295f1dd738a1f916a3e",
       "sentAt": "2026-09-14T00:05:47.542Z",
       "messageId": "1548847195988688937"
+    },
+    "brief:opp_a00b11ab9db200e1bb78:sha256:0c9981798ead06e24380d213046857777629b778aa0097082b9c4551bd4fcf24": {
+      "status": "SENT",
+      "opportunityId": "opp_a00b11ab9db200e1bb78",
+      "sentAt": "2026-09-14T03:51:28.400Z",
+      "messageId": "1548903991453421568"
+    },
+    "brief:opp_a355b0d3ff2fda249320:sha256:b2ac442ce85a83a4be3d66ee6670210adda03c7d8bc2616ac6f3a1a31d37873f": {
+      "status": "SENT",
+      "opportunityId": "opp_a355b0d3ff2fda249320",
+      "sentAt": "2026-09-14T03:51:28.400Z",
+      "messageId": "1548903991453421568"
+    },
+    "brief:opp_c101a09b2c7a55b511a8:sha256:08dda0c1afb94e8dfee8008bb10a788c41123865fb8191410041142211babfee": {
+      "status": "SENT",
+      "opportunityId": "opp_c101a09b2c7a55b511a8",
+      "sentAt": "2026-09-14T03:51:28.400Z",
+      "messageId": "1548903991453421568"
+    },
+    "brief:opp_bf6a647f16b51270b38b:sha256:ccb74372f451dc4c0d372475381e0f5bf98df8fd31d8cc95f77640157d4201f1": {
+      "status": "SENT",
+      "opportunityId": "opp_bf6a647f16b51270b38b",
+      "sentAt": "2026-09-14T03:51:28.400Z",
+      "messageId": "1548903991453421568"
     }
   },
   "pending": {},
