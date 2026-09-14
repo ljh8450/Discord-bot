@@ -49439,8 +49439,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 3,
+        "communityPoints": 7,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49454,8 +49454,8 @@
       },
       "contentHash": "sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
       "dedupeKey": "brief:opp_877efd6dd16f2abfcb00:sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
-      "firstSeenAt": "2026-09-14T03:51:28.400Z",
-      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49488,23 +49488,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 14,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068",
       "dedupeKey": "brief:opp_9a1bf565ae22de9a6fce:sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068",
-      "firstSeenAt": "2026-09-14T03:51:28.400Z",
-      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49537,26 +49537,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 12,
         "communityRank": 6,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:b57200e7eaf3f1a536dac29b2cddd7fd6d70d69f51a4c586cdbc25d53296d337",
       "dedupeKey": "brief:opp_137d73aa64859c0d5580:sha256:b57200e7eaf3f1a536dac29b2cddd7fd6d70d69f51a4c586cdbc25d53296d337",
-      "firstSeenAt": "2026-09-14T03:51:28.400Z",
-      "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49656,6 +49656,407 @@
       "dedupeKey": "brief:opp_a355b0d3ff2fda249320:sha256:b2ac442ce85a83a4be3d66ee6670210adda03c7d8bc2616ac6f3a1a31d37873f",
       "firstSeenAt": "2026-09-14T03:51:28.400Z",
       "lastSeenAt": "2026-09-14T03:51:28.400Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fdc27f3ab074d1d759b9": {
+      "id": "opp_fdc27f3ab074d1d759b9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33668",
+      "canonicalUrl": "https://news.hada.io/topic?id=33668",
+      "title": "Show GN: FastFind - 초성 검색이 되는 윈도우 파일 검색 프로그램 (무료, Everything 대안)",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T11:13:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "윈도우 탐색기 검색이 너무 느려서 직접 만들기 시작한 파일 검색 프로그램입니다. 개발한 지 꽤 됐고, 주변 사람들한테 돌려쓰다가 이제 어느 정...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33668"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:3ab635c3504fe07ee934916df698312af11b5a340383adf6ed2b3b9a5844e493",
+      "dedupeKey": "brief:opp_fdc27f3ab074d1d759b9:sha256:3ab635c3504fe07ee934916df698312af11b5a340383adf6ed2b3b9a5844e493",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a1785af2862bf649c7a8": {
+      "id": "opp_a1785af2862bf649c7a8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33620",
+      "canonicalUrl": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "title": "JetKVM Mini",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T20:33:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "JetKVM Mini는 영상 캡처, USB 키보드/마우스 제어, 가상 미디어 기능을 갖춘 더 작고 저렴한 JetKVM으로, 유선 모델은 39달러, 무선 Mini W는 42...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33620"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:17929493b0c97738096b659c67a656fda44c31dee406c07f38d9cc68caa620d1",
+      "dedupeKey": "brief:opp_a1785af2862bf649c7a8:sha256:17929493b0c97738096b659c67a656fda44c31dee406c07f38d9cc68caa620d1",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_75f8391e45ce7b28e7ad": {
+      "id": "opp_75f8391e45ce7b28e7ad",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33657",
+      "canonicalUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "title": "에이전트형 AI를 위한 데이터 준비하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T07:02:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사람이 경험으로 알아채던 데이터 오류와 업무 맥락을 에이전트가 스스로 보완하리라 기대할 수는 없음. 데이터의 품질과 의미, 사용 권한을 시스...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33657"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
+      "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5226159242a9b14fe605": {
+      "id": "opp_5226159242a9b14fe605",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33629",
+      "canonicalUrl": "https://hyperbo.la/w/aligned-to-whom",
+      "title": "누구에게 정렬되어 있는가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T00:39:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "자신이 잘 아는 분야에서는 AI의 오류와 나쁜 판단을 알아볼 수 있지만, 전문성 밖에서는 무엇을 요구하고 어떤 위험을 확인해야 하는지조차 모른 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33629"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1606bc4a779b0f74b9840bd7613ae75d5e851645a6b367eff45e05992bdb288b",
+      "dedupeKey": "brief:opp_5226159242a9b14fe605:sha256:1606bc4a779b0f74b9840bd7613ae75d5e851645a6b367eff45e05992bdb288b",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d841811caa97d5a1475b": {
+      "id": "opp_d841811caa97d5a1475b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33613",
+      "canonicalUrl": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "title": "AI 에이전트는 왜 거짓말하고, 부정행위를 하며, 서로 협력하는가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-13T17:37:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "인간 모방과 강화학습이 AI의 아첨, 자기 보존, 에이전트 간 협력을 유도할 수 있으며, 학습 원리를 바꾸지 않으면 역량 향상과 함께 일탈도 심각...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33613"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:47d97b6b731b5137ae28c2a899fb2aed6337468ddc1a5a6f641b72a41df7207c",
+      "dedupeKey": "brief:opp_d841811caa97d5a1475b:sha256:47d97b6b731b5137ae28c2a899fb2aed6337468ddc1a5a6f641b72a41df7207c",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_43fda3ab114fc8f8c13e": {
+      "id": "opp_43fda3ab114fc8f8c13e",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=27640",
+      "canonicalUrl": "https://techblog.woowahan.com/27640",
+      "title": "AI 전환, 우리가 도운 건 돕는 사람이었습니다",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T07:15:55.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "1편 \"AI로 바뀐 건 업무가 아니라 사람이었습니다\"는 옆자리 동료가 덜 힘들어졌으면 좋겠다는 마음이 계속될 것 같다는 말로 끝났습니다. 혹시 못 읽으셨어도 따라오실 수 있게 배경만 짧게 정리합니다. 저는 우아한형제들에서 개발자를 길러내는 교육의 코치로 일하며 배운 게 하나 있습니다. 사람은 설명을 들어서가 아니라 자기 손으로 부딪혀봐야 변한다는 것입니다. 그 원리로 개발을 전혀 모르는 동료 15명이 5주 […] The post AI 전환, 우리가 도운 건 돕는 사람이었습니다 first appea",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/27640/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e6e92db290a59fcc426a8cc5b8a773deed4334e88f1bd010fbf165dc00717f82",
+      "dedupeKey": "brief:opp_43fda3ab114fc8f8c13e:sha256:e6e92db290a59fcc426a8cc5b8a773deed4334e88f1bd010fbf165dc00717f82",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0c5bd9096184c530de22": {
+      "id": "opp_0c5bd9096184c530de22",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:KfTAIanL0tY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KfTAIanL0tY",
+      "title": "[한영자막] 디자이너 한 명과 AI로 수백 가지 결과물을 만드는 방법 — Vincent Wendy, AI Engineer",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T09:00:23+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "디자이너 한 명이 AI와 자동화 워크플로우를 활용해 7,000명 규모 컨퍼런스의 수백 가지 디자인 결과물을 만들어내는 과정을 소개합니다. 디자인 시스템부터 발표자 그래픽, 일정표, 스폰서 로고 검수까지 실제 업무 사례를 살펴봅니다. 주요 포인트 - 12~15명 규모의 작은 팀에서 한 명의 디자이너가 140곳 이상의 스폰서, 300명 이상의 발표자, 600개 이상의 세션을 지원하는 방법 - 디자인 시스템과 아토믹 디자인으로 이메일, 전단지, 문서까지 재사용하는 방법 - Devin과 MCP를 활용해",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=KfTAIanL0tY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-14T09:00:23.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ea5d14df3062521c1715b5fc9bacea70b51c3e159364bd4c7f9eb0787c7c4e01",
+      "dedupeKey": "brief:opp_0c5bd9096184c530de22:sha256:ea5d14df3062521c1715b5fc9bacea70b51c3e159364bd4c7f9eb0787c7c4e01",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f2546e872e3f92cd8c39": {
+      "id": "opp_f2546e872e3f92cd8c39",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:O6eCcA9fFg8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=O6eCcA9fFg8",
+      "title": "갑작스레 AI 속도 늦추자... 투자는 확대? ‘카르텔’ 논란의 진짜 쟁점 | 중국은 멈추지 않는다",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T07:39:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "실리콘밸리의 AI 기업들이 경쟁을 멈추기는커녕, 함께 속도를 조절하자는 이야기를 꺼냈습니다. 앤트로픽의 다리오 아모데이와 오픈AI의 샘 올트먼, 일론 머스크가 AI 안전을 이유로 개발 속도 조절에 공감하면서 ‘AI 카르텔’ 논란도 시작됐습니다. 시험을 보던 AI 에이전트들이 서로 연락망을 만들고 채점 시스템을 공략한 사건이 이들의 우려를 키웠습니다. 중국 연구진도 ‘인간이 만드는 마지막 AI’라는 논문을 통해 AI가 다음 AI의 개선 과정까지 맡는 재귀적 자기개선을 다루고 있습니다. 데이비드 삭스",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=O6eCcA9fFg8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-14T07:39:12.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fbd05aff6a0674ec9beebb6ddf2d6ec5715f77c9715e11ddd3fe4615d321d723",
+      "dedupeKey": "brief:opp_f2546e872e3f92cd8c39:sha256:fbd05aff6a0674ec9beebb6ddf2d6ec5715f77c9715e11ddd3fe4615d321d723",
+      "firstSeenAt": "2026-09-14T09:05:47.706Z",
+      "lastSeenAt": "2026-09-14T09:05:47.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -55075,6 +55476,36 @@
       "opportunityId": "opp_bf6a647f16b51270b38b",
       "sentAt": "2026-09-14T03:51:28.400Z",
       "messageId": "1548903991453421568"
+    },
+    "brief:opp_43fda3ab114fc8f8c13e:sha256:e6e92db290a59fcc426a8cc5b8a773deed4334e88f1bd010fbf165dc00717f82": {
+      "status": "SENT",
+      "opportunityId": "opp_43fda3ab114fc8f8c13e",
+      "sentAt": "2026-09-14T09:05:47.706Z",
+      "messageId": "1548983093195448381"
+    },
+    "brief:opp_0c5bd9096184c530de22:sha256:ea5d14df3062521c1715b5fc9bacea70b51c3e159364bd4c7f9eb0787c7c4e01": {
+      "status": "SENT",
+      "opportunityId": "opp_0c5bd9096184c530de22",
+      "sentAt": "2026-09-14T09:05:47.706Z",
+      "messageId": "1548983093195448381"
+    },
+    "brief:opp_fdc27f3ab074d1d759b9:sha256:3ab635c3504fe07ee934916df698312af11b5a340383adf6ed2b3b9a5844e493": {
+      "status": "SENT",
+      "opportunityId": "opp_fdc27f3ab074d1d759b9",
+      "sentAt": "2026-09-14T09:05:47.706Z",
+      "messageId": "1548983093195448381"
+    },
+    "brief:opp_137d73aa64859c0d5580:sha256:b57200e7eaf3f1a536dac29b2cddd7fd6d70d69f51a4c586cdbc25d53296d337": {
+      "status": "SENT",
+      "opportunityId": "opp_137d73aa64859c0d5580",
+      "sentAt": "2026-09-14T09:05:47.706Z",
+      "messageId": "1548983093195448381"
+    },
+    "brief:opp_f2546e872e3f92cd8c39:sha256:fbd05aff6a0674ec9beebb6ddf2d6ec5715f77c9715e11ddd3fe4615d321d723": {
+      "status": "SENT",
+      "opportunityId": "opp_f2546e872e3f92cd8c39",
+      "sentAt": "2026-09-14T09:05:47.706Z",
+      "messageId": "1548983093195448381"
     }
   },
   "pending": {},
