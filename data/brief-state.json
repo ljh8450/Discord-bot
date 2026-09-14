@@ -49440,7 +49440,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49454,8 +49454,8 @@
       },
       "contentHash": "sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
       "dedupeKey": "brief:opp_877efd6dd16f2abfcb00:sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
-      "firstSeenAt": "2026-09-14T09:05:47.706Z",
-      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49488,8 +49488,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
-        "communityRank": 4,
+        "communityPoints": 18,
+        "communityRank": 3,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -49503,11 +49503,11 @@
       },
       "contentHash": "sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068",
       "dedupeKey": "brief:opp_9a1bf565ae22de9a6fce:sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068",
-      "firstSeenAt": "2026-09-14T09:05:47.706Z",
-      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49737,26 +49737,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 11,
         "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:17929493b0c97738096b659c67a656fda44c31dee406c07f38d9cc68caa620d1",
       "dedupeKey": "brief:opp_a1785af2862bf649c7a8:sha256:17929493b0c97738096b659c67a656fda44c31dee406c07f38d9cc68caa620d1",
-      "firstSeenAt": "2026-09-14T09:05:47.706Z",
-      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49786,8 +49786,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 9,
+        "communityPoints": 9,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49801,8 +49801,8 @@
       },
       "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
       "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
-      "firstSeenAt": "2026-09-14T09:05:47.706Z",
-      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49836,7 +49836,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 10,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49850,8 +49850,8 @@
       },
       "contentHash": "sha256:1606bc4a779b0f74b9840bd7613ae75d5e851645a6b367eff45e05992bdb288b",
       "dedupeKey": "brief:opp_5226159242a9b14fe605:sha256:1606bc4a779b0f74b9840bd7613ae75d5e851645a6b367eff45e05992bdb288b",
-      "firstSeenAt": "2026-09-14T09:05:47.706Z",
-      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49884,8 +49884,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 11,
+        "communityPoints": 6,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -49899,8 +49899,8 @@
       },
       "contentHash": "sha256:47d97b6b731b5137ae28c2a899fb2aed6337468ddc1a5a6f641b72a41df7207c",
       "dedupeKey": "brief:opp_d841811caa97d5a1475b:sha256:47d97b6b731b5137ae28c2a899fb2aed6337468ddc1a5a6f641b72a41df7207c",
-      "firstSeenAt": "2026-09-14T09:05:47.706Z",
-      "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50057,6 +50057,206 @@
       "dedupeKey": "brief:opp_f2546e872e3f92cd8c39:sha256:fbd05aff6a0674ec9beebb6ddf2d6ec5715f77c9715e11ddd3fe4615d321d723",
       "firstSeenAt": "2026-09-14T09:05:47.706Z",
       "lastSeenAt": "2026-09-14T09:05:47.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d0d3c89632582ec865d2": {
+      "id": "opp_d0d3c89632582ec865d2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33679",
+      "canonicalUrl": "https://news.hada.io/topic?id=33679",
+      "title": "Show GN: AI가 발표자료를 만들 때 쓰는 검증된 슬라이드 레이아웃 167종과 테마 41종",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T15:22:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에게 발표자료를 시키면 내용은 그럴듯한데 배치가 무너집니다. 제목이 두 줄로 넘어가면서 아래를 밀어내고, 항목이 둘인데 카드가 세 장 나오...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33679"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fd5dc7bbe35f507da6b1f4cc0f640b24127de40fcba8b4db7ad259b1ecd8c044",
+      "dedupeKey": "brief:opp_d0d3c89632582ec865d2:sha256:fd5dc7bbe35f507da6b1f4cc0f640b24127de40fcba8b4db7ad259b1ecd8c044",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c1dbed7dcbdcb8e4980e": {
+      "id": "opp_c1dbed7dcbdcb8e4980e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33649",
+      "canonicalUrl": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "title": "Windows에서 AMD GPU로 CUDA 실행하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T05:55:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ZLUDA와 AMD HIP/ROCm을 조합해, NVIDIA CUDA용 Windows 프로그램을 AMD GPU에서 실행할 수 있도록 설치/진단/실행 스크립트를 제공하는 프로젝트 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33649"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e7f809feafa451ec4d858dcf439d35adfef57f2ce7ab349b30cd8880ea2e9a2f",
+      "dedupeKey": "brief:opp_c1dbed7dcbdcb8e4980e:sha256:e7f809feafa451ec4d858dcf439d35adfef57f2ce7ab349b30cd8880ea2e9a2f",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_afc57d6f2e3d85e0a71d": {
+      "id": "opp_afc57d6f2e3d85e0a71d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33665",
+      "canonicalUrl": "https://github.com/alienplatform/alien",
+      "title": "Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T09:45:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "데이터를 외부 SaaS로 보내기 어려운 사용자를 위해, 소프트웨어는 고객 환경에 설치하고 업데이트와 운영은 개발사가 맡는 관리형 셀프 호스팅 플...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33665"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7bc1f673c41b9aeba5f23f13f70b4803872ad162b10181ef70b40f379fec511c",
+      "dedupeKey": "brief:opp_afc57d6f2e3d85e0a71d:sha256:7bc1f673c41b9aeba5f23f13f70b4803872ad162b10181ef70b40f379fec511c",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1b648a9124bfd5157d4b": {
+      "id": "opp_1b648a9124bfd5157d4b",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:vmzKqn5GOaw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vmzKqn5GOaw",
+      "title": "AI뉴스 - AI 멈추지 않으면 다 죽는다, OpenAI 밀레니엄 난제 해결, Images 2.5, Google ARTEMIS, AlphaGenome Atlas 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T14:30:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg 무료 전자책: https://edu.sbiz.or.kr/edu/online/ebookInfo.do?menuCode=WWW008001 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ 🕖목차 00:00 다리오 아모데이 \"AI 발전 속도 늦춰야\" 03:35 앤트로픽 연구원 \"자기개선형 초지능 도박\" 05:09 구글이 부른 초파리 열풍",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=vmzKqn5GOaw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-14T14:30:21.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5973113b98852ab0292802383ee55d018c46da5736be956000bef77133d3cc1a",
+      "dedupeKey": "brief:opp_1b648a9124bfd5157d4b:sha256:5973113b98852ab0292802383ee55d018c46da5736be956000bef77133d3cc1a",
+      "firstSeenAt": "2026-09-14T15:38:14.339Z",
+      "lastSeenAt": "2026-09-14T15:38:14.339Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -55506,6 +55706,24 @@
       "opportunityId": "opp_f2546e872e3f92cd8c39",
       "sentAt": "2026-09-14T09:05:47.706Z",
       "messageId": "1548983093195448381"
+    },
+    "brief:opp_1b648a9124bfd5157d4b:sha256:5973113b98852ab0292802383ee55d018c46da5736be956000bef77133d3cc1a": {
+      "status": "SENT",
+      "opportunityId": "opp_1b648a9124bfd5157d4b",
+      "sentAt": "2026-09-14T15:38:14.339Z",
+      "messageId": "1549081853909012597"
+    },
+    "brief:opp_9a1bf565ae22de9a6fce:sha256:beca98f99013d5fab86dd03cf16baebc26530d4dd80cbf2b26ad083b1bd71068": {
+      "status": "SENT",
+      "opportunityId": "opp_9a1bf565ae22de9a6fce",
+      "sentAt": "2026-09-14T15:38:14.339Z",
+      "messageId": "1549081853909012597"
+    },
+    "brief:opp_a1785af2862bf649c7a8:sha256:17929493b0c97738096b659c67a656fda44c31dee406c07f38d9cc68caa620d1": {
+      "status": "SENT",
+      "opportunityId": "opp_a1785af2862bf649c7a8",
+      "sentAt": "2026-09-14T15:38:14.339Z",
+      "messageId": "1549081853909012597"
     }
   },
   "pending": {},
