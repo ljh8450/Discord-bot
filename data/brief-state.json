@@ -49787,7 +49787,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 13,
-        "communityRank": 15,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49801,8 +49801,8 @@
       },
       "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
       "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
-      "firstSeenAt": "2026-09-15T03:51:17.688Z",
-      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50444,8 +50444,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 1,
+        "communityPoints": 15,
+        "communityRank": 2,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -50459,8 +50459,8 @@
       },
       "contentHash": "sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6",
       "dedupeKey": "brief:opp_e81f2eaeb3fba1a23ce2:sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6",
-      "firstSeenAt": "2026-09-15T03:51:17.688Z",
-      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50591,8 +50591,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 4,
+        "communityPoints": 8,
+        "communityRank": 6,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -50606,8 +50606,8 @@
       },
       "contentHash": "sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
       "dedupeKey": "brief:opp_715f318653918f210a8a:sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
-      "firstSeenAt": "2026-09-15T03:51:17.688Z",
-      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50657,6 +50657,407 @@
       "dedupeKey": "brief:opp_506cc9b83f7355d8223d:sha256:91790b389580abc3be45f8577049e664a062fce7f997bf24a6e723b463cef18e",
       "firstSeenAt": "2026-09-15T03:51:17.688Z",
       "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_03fc3ad0826be498a4ef": {
+      "id": "opp_03fc3ad0826be498a4ef",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33714",
+      "canonicalUrl": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+      "title": "여러분의 사고방식에 가장 큰 영향을 준 블로그 글은 무엇인가요?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T09:04:47+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사고방식에 가장 큰 영향을 준 블로그 글을 묻는 질문으로, 소프트웨어 설계부터 제품 완성, 경력과 개발자의 책임까지 다양하게 추천됨 질문자는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33714"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:25e789ad15efcf9ea93690ac009175b08279bb2126660c07d3fa1f748d6e379e",
+      "dedupeKey": "brief:opp_03fc3ad0826be498a4ef:sha256:25e789ad15efcf9ea93690ac009175b08279bb2126660c07d3fa1f748d6e379e",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ebc19f2c1b49c0ea0bc6": {
+      "id": "opp_ebc19f2c1b49c0ea0bc6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33710",
+      "canonicalUrl": "https://pop.rdi.sh/dario-please",
+      "title": "Dario, 제발!",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T07:36:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Anthropic CEO 다리오 아모데이는 AI 개발 속도 조절을 제안하지만, 오픈 웨이트 규제와 독점금지법 예외는 안전을 명분으로 선두 기업의 지위를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33710"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032",
+      "dedupeKey": "brief:opp_ebc19f2c1b49c0ea0bc6:sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7df47a9e97ba343a16da": {
+      "id": "opp_7df47a9e97ba343a16da",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33709",
+      "canonicalUrl": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics",
+      "title": "수학의 시작",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T06:48:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 수학 논문을 만들 수 있게 되면서, 좋은 결과물을 냈다는 사실만으로 그 사람의 이해와 전문성을 판단하기 어려워짐. 논문과 정리 증명 중심...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33709"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:31ab2caee9fcaa83ee75133a466e11db39c6484d3e2e5a0eff8876656df55299",
+      "dedupeKey": "brief:opp_7df47a9e97ba343a16da:sha256:31ab2caee9fcaa83ee75133a466e11db39c6484d3e2e5a0eff8876656df55299",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bfd263f930dddd7e1bb7": {
+      "id": "opp_bfd263f930dddd7e1bb7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33721",
+      "canonicalUrl": "https://news.hada.io/topic?id=33721",
+      "title": "Show GN: 바다거북스프 — AI와 질문을 주고받으며 푸는 추리 게임",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T10:40:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 경기도 갭이어라는 프로그램에서 만난 3명이 모여서 만든 프로젝트를 소개드립니다. 뭘 만들었나요 \"바다거북스프\"라는 유명한 추리 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33721"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ef17ff3902b584518377d32fc625e28e26be2e12458ce5ae9bf33602d6c3e2d2",
+      "dedupeKey": "brief:opp_bfd263f930dddd7e1bb7:sha256:ef17ff3902b584518377d32fc625e28e26be2e12458ce5ae9bf33602d6c3e2d2",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2f8f0e92495b8126ba94": {
+      "id": "opp_2f8f0e92495b8126ba94",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33720",
+      "canonicalUrl": "https://medium.com/@AnalyticsAtMeta/measuring-what-matters-how-causal-inference-turned-ai-infrastructure-into-a-quantifiable-business-bbc49bddaa2b",
+      "title": "Meta가 AI 인프라의 매출 기여도를 측정한 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T09:42:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "광고 모델을 개선해 매출이 늘어도 그 모델을 만든 인프라가 얼마나 기여했는지는 알기 어려움. Meta는 개별 모델 출시 데이터를 분석해 7개 인프...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33720"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:88973a18fefaa81d3a44eec89e6f91b2f503b9bb73536339eed7262e38c850e4",
+      "dedupeKey": "brief:opp_2f8f0e92495b8126ba94:sha256:88973a18fefaa81d3a44eec89e6f91b2f503b9bb73536339eed7262e38c850e4",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b3177d32c945c8864b7a": {
+      "id": "opp_b3177d32c945c8864b7a",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=27330",
+      "canonicalUrl": "https://techblog.woowahan.com/27330",
+      "title": "집 나간 네트워크는 돌아왔는데 React.lazy는 왜 안 돌아올까",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T04:50:15.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며 파트너(업주)님이 영업 내내 주문을 받는 배민주문접수 웹뷰를 개발하던 중 QA 과정에서 네트워크 OFF -> ON으로 변경 후 다른 화면으로 이동 시 오류 화면이 노출된다는 티켓을 전달받았습니다. 원인을 파악해 보니 브라우저가 모듈 로드 실패를 기억하고 있었고, 이는 버그가 아니라 HTML 스펙에 명시된 동작이었습니다. 더 곤란한 것은 프런트엔드 빌드 도구인 Vite 공식 문서가 안내하는 해결책 중 […] The post 집 나간 네트워크는 돌아왔는데 React.lazy는 왜 안 돌아올까",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/27330/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d71d43e5a04a193473ea53602fcde4bc2b72e9213443b1c8611be5085df4c12e",
+      "dedupeKey": "brief:opp_b3177d32c945c8864b7a:sha256:d71d43e5a04a193473ea53602fcde4bc2b72e9213443b1c8611be5085df4c12e",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_19a53307af916e17aef0": {
+      "id": "opp_19a53307af916e17aef0",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:5wDzydCqkV8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5wDzydCqkV8",
+      "title": "[한영자막] 앤트로픽 CEO 다리오 아모데이 인터뷰",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T09:00:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "앤트로픽(Anthropic)의 CEO 다리오 아모데이(Dario Amodei)가 CBS 선데이 모닝과 나눈 풀 인터뷰 영상입니다. 급격히 발전하는 AI 기술의 실질적 위험과 기회, 그리고 안전한 미래를 위한 구체적인 규제와 거버넌스 방안에 대해 심도 있는 이야기를 전합니다. 📌 주요 내용: • AI 기술의 기하급수적 발전 곡선과 지금 우리가 서 있는 위치 • 앤트로픽이 제안한 3단계 안전 계획: 독립적인 제3자 평가자 상주 도입 • AI 모델 전면 금지 및 킬스위치 법안에 대한 현실적인 한계와",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=5wDzydCqkV8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-15T09:00:13.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:44c516ba658291d07ba1d5afb5d019cf9321c5fc9617ab8afb2feb009f2d9226",
+      "dedupeKey": "brief:opp_19a53307af916e17aef0:sha256:44c516ba658291d07ba1d5afb5d019cf9321c5fc9617ab8afb2feb009f2d9226",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_87021e9cb8bd779b2779": {
+      "id": "opp_87021e9cb8bd779b2779",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:SDGs1odCWtI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SDGs1odCWtI",
+      "title": "TSMC보다 2년 빠르게 도입하는 삼성? High-NA EUV의 한계와 두 회사의 서로 다른 계산",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T05:24:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "삼성전자가 ASML과 함께 기존 6인치 포토마스크를 12인치급으로 키우는 개발에 나섰습니다. 반도체 회로는 점점 작아지는데, 왜 회로의 원본인 마스크는 오히려 커져야 할까요? 이번 영상에서는 High-NA EUV가 기존 EUV보다 더 미세한 회로를 찍으면서도, 한 번에 노광할 수 있는 영역은 절반으로 줄어드는 이유를 살펴봤습니다. 기존 노광 영역인 약 858㎟가 엔비디아 A100과 H100 같은 대형 GPU의 크기와 어떻게 연결되는지도 설명합니다. High-NA에서는 이 영역이 약 429㎟로 줄면",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=SDGs1odCWtI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-15T05:24:04.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:41a6bb51feff3c4e676b98127f94af5621b133e82f9b79d50239e5210ebf0072",
+      "dedupeKey": "brief:opp_87021e9cb8bd779b2779:sha256:41a6bb51feff3c4e676b98127f94af5621b133e82f9b79d50239e5210ebf0072",
+      "firstSeenAt": "2026-09-15T09:05:37.040Z",
+      "lastSeenAt": "2026-09-15T09:05:37.040Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -56172,6 +56573,36 @@
       "opportunityId": "opp_421fed46fc3b77e479b1",
       "sentAt": "2026-09-15T03:51:17.688Z",
       "messageId": "1549266333504639070"
+    },
+    "brief:opp_b3177d32c945c8864b7a:sha256:d71d43e5a04a193473ea53602fcde4bc2b72e9213443b1c8611be5085df4c12e": {
+      "status": "SENT",
+      "opportunityId": "opp_b3177d32c945c8864b7a",
+      "sentAt": "2026-09-15T09:05:37.040Z",
+      "messageId": "1549345435242598401"
+    },
+    "brief:opp_19a53307af916e17aef0:sha256:44c516ba658291d07ba1d5afb5d019cf9321c5fc9617ab8afb2feb009f2d9226": {
+      "status": "SENT",
+      "opportunityId": "opp_19a53307af916e17aef0",
+      "sentAt": "2026-09-15T09:05:37.040Z",
+      "messageId": "1549345435242598401"
+    },
+    "brief:opp_2f8f0e92495b8126ba94:sha256:88973a18fefaa81d3a44eec89e6f91b2f503b9bb73536339eed7262e38c850e4": {
+      "status": "SENT",
+      "opportunityId": "opp_2f8f0e92495b8126ba94",
+      "sentAt": "2026-09-15T09:05:37.040Z",
+      "messageId": "1549345435242598401"
+    },
+    "brief:opp_03fc3ad0826be498a4ef:sha256:25e789ad15efcf9ea93690ac009175b08279bb2126660c07d3fa1f748d6e379e": {
+      "status": "SENT",
+      "opportunityId": "opp_03fc3ad0826be498a4ef",
+      "sentAt": "2026-09-15T09:05:37.040Z",
+      "messageId": "1549345435242598401"
+    },
+    "brief:opp_87021e9cb8bd779b2779:sha256:41a6bb51feff3c4e676b98127f94af5621b133e82f9b79d50239e5210ebf0072": {
+      "status": "SENT",
+      "opportunityId": "opp_87021e9cb8bd779b2779",
+      "sentAt": "2026-09-15T09:05:37.040Z",
+      "messageId": "1549345435242598401"
     }
   },
   "pending": {},
