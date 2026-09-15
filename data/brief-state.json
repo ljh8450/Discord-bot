@@ -49439,8 +49439,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 9,
+        "communityPoints": 8,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49454,11 +49454,11 @@
       },
       "contentHash": "sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
       "dedupeKey": "brief:opp_877efd6dd16f2abfcb00:sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -49786,23 +49786,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 8,
+        "communityPoints": 11,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
       "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49836,13 +49836,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 16,
-        "contentScore": 11,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -49850,8 +49850,8 @@
       },
       "contentHash": "sha256:1606bc4a779b0f74b9840bd7613ae75d5e851645a6b367eff45e05992bdb288b",
       "dedupeKey": "brief:opp_5226159242a9b14fe605:sha256:1606bc4a779b0f74b9840bd7613ae75d5e851645a6b367eff45e05992bdb288b",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -49885,7 +49885,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 12,
+        "communityRank": 13,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -49899,8 +49899,8 @@
       },
       "contentHash": "sha256:47d97b6b731b5137ae28c2a899fb2aed6337468ddc1a5a6f641b72a41df7207c",
       "dedupeKey": "brief:opp_d841811caa97d5a1475b:sha256:47d97b6b731b5137ae28c2a899fb2aed6337468ddc1a5a6f641b72a41df7207c",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50089,8 +50089,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 7,
+        "communityPoints": 8,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -50104,11 +50104,11 @@
       },
       "contentHash": "sha256:fd5dc7bbe35f507da6b1f4cc0f640b24127de40fcba8b4db7ad259b1ecd8c044",
       "dedupeKey": "brief:opp_d0d3c89632582ec865d2:sha256:fd5dc7bbe35f507da6b1f4cc0f640b24127de40fcba8b4db7ad259b1ecd8c044",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -50140,12 +50140,12 @@
         "sourcePriority": 100,
         "communityPoints": 5,
         "communityRank": 14,
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -50153,8 +50153,8 @@
       },
       "contentHash": "sha256:e7f809feafa451ec4d858dcf439d35adfef57f2ce7ab349b30cd8880ea2e9a2f",
       "dedupeKey": "brief:opp_c1dbed7dcbdcb8e4980e:sha256:e7f809feafa451ec4d858dcf439d35adfef57f2ce7ab349b30cd8880ea2e9a2f",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50188,7 +50188,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 15,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -50202,8 +50202,8 @@
       },
       "contentHash": "sha256:7bc1f673c41b9aeba5f23f13f70b4803872ad162b10181ef70b40f379fec511c",
       "dedupeKey": "brief:opp_afc57d6f2e3d85e0a71d:sha256:7bc1f673c41b9aeba5f23f13f70b4803872ad162b10181ef70b40f379fec511c",
-      "firstSeenAt": "2026-09-14T15:38:14.339Z",
-      "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50257,6 +50257,161 @@
       "dedupeKey": "brief:opp_1b648a9124bfd5157d4b:sha256:5973113b98852ab0292802383ee55d018c46da5736be956000bef77133d3cc1a",
       "firstSeenAt": "2026-09-14T15:38:14.339Z",
       "lastSeenAt": "2026-09-14T15:38:14.339Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6560681b5723217fea41": {
+      "id": "opp_6560681b5723217fea41",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/fyxer",
+      "canonicalUrl": "https://openai.com/index/fyxer",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "summaryEvidence": [
+        "https://openai.com/index/fyxer"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9d5e94153b457f8d17fca9264b3684ca5d56d8077c5f6c6ce474175197c43da6",
+      "dedupeKey": "brief:opp_6560681b5723217fea41:sha256:9d5e94153b457f8d17fca9264b3684ca5d56d8077c5f6c6ce474175197c43da6",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e8942e6c386006cfb00f": {
+      "id": "opp_e8942e6c386006cfb00f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:VCQPCvN4uiA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VCQPCvN4uiA",
+      "title": "[한영자막] GitHub 1위 트렌딩 도구가 해결한 AI 에이전트의 치명적인 문제입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T22:00:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Code나 Codex 같은 코딩 에이전트가 코드를 수정하기도 전에 터미널 검색을 반복하며 토큰을 낭비하고 컨텍스트 한도에 걸리는 고질적인 문제를 해결하는 오픈소스 도구 'Graft'를 소개합니다. 프로젝트 전체를 지식 그래프(Knowledge Graph)로 인덱싱하여, 에이전트가 불필요한 파일 탐색 없이 필요한 코드 위치를 즉시 찾아 수정할 수 있도록 지원합니다. 핵심 포인트: • 파일 탐색 턴 제거: 지식 그래프를 통해 프롬프트 입력 즉시 관련 코드 위치를 매핑하여 불필요한 도구 호",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=VCQPCvN4uiA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-14T22:00:16.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2a74bd04cb57187d68ba793a1a0bbf09b40a83cd435fe95195580f4d20f7ed51",
+      "dedupeKey": "brief:opp_e8942e6c386006cfb00f:sha256:2a74bd04cb57187d68ba793a1a0bbf09b40a83cd435fe95195580f4d20f7ed51",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_48a679b9daa0e0693d61": {
+      "id": "opp_48a679b9daa0e0693d61",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:C8dWdic-oK4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=C8dWdic-oK4",
+      "title": "GPT-6 Astra Just Unlocked Motion Design + After Effects",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T17:53:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚫ Motion Designer Plugin: https://higgsfield.ai/ai-motion-designer 🟡Higgsfield: https://higgsfield.ai/s/chase-h-ai-FMBdch ⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult \ud83d",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=C8dWdic-oK4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-14T17:53:21.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ae50ad4d47b368440ae888fd8bc29e65dcc3aae5f20da03120207f11d51b95bb",
+      "dedupeKey": "brief:opp_48a679b9daa0e0693d61:sha256:ae50ad4d47b368440ae888fd8bc29e65dcc3aae5f20da03120207f11d51b95bb",
+      "firstSeenAt": "2026-09-15T00:06:26.411Z",
+      "lastSeenAt": "2026-09-15T00:06:26.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -55724,6 +55879,36 @@
       "opportunityId": "opp_a1785af2862bf649c7a8",
       "sentAt": "2026-09-14T15:38:14.339Z",
       "messageId": "1549081853909012597"
+    },
+    "brief:opp_6560681b5723217fea41:sha256:9d5e94153b457f8d17fca9264b3684ca5d56d8077c5f6c6ce474175197c43da6": {
+      "status": "SENT",
+      "opportunityId": "opp_6560681b5723217fea41",
+      "sentAt": "2026-09-15T00:06:26.411Z",
+      "messageId": "1549209747687739393"
+    },
+    "brief:opp_e8942e6c386006cfb00f:sha256:2a74bd04cb57187d68ba793a1a0bbf09b40a83cd435fe95195580f4d20f7ed51": {
+      "status": "SENT",
+      "opportunityId": "opp_e8942e6c386006cfb00f",
+      "sentAt": "2026-09-15T00:06:26.411Z",
+      "messageId": "1549209747687739393"
+    },
+    "brief:opp_48a679b9daa0e0693d61:sha256:ae50ad4d47b368440ae888fd8bc29e65dcc3aae5f20da03120207f11d51b95bb": {
+      "status": "SENT",
+      "opportunityId": "opp_48a679b9daa0e0693d61",
+      "sentAt": "2026-09-15T00:06:26.411Z",
+      "messageId": "1549209747687739393"
+    },
+    "brief:opp_d0d3c89632582ec865d2:sha256:fd5dc7bbe35f507da6b1f4cc0f640b24127de40fcba8b4db7ad259b1ecd8c044": {
+      "status": "SENT",
+      "opportunityId": "opp_d0d3c89632582ec865d2",
+      "sentAt": "2026-09-15T00:06:26.411Z",
+      "messageId": "1549209747687739393"
+    },
+    "brief:opp_877efd6dd16f2abfcb00:sha256:62ec17687ffa14a052e1cfe5c99b108ee2b8def0e644417c27eaed5f42d8ac05": {
+      "status": "SENT",
+      "opportunityId": "opp_877efd6dd16f2abfcb00",
+      "sentAt": "2026-09-15T00:06:26.411Z",
+      "messageId": "1549209747687739393"
     }
   },
   "pending": {},
