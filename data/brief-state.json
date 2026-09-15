@@ -49787,7 +49787,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 13,
-        "communityRank": 18,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49801,8 +49801,8 @@
       },
       "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
       "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
-      "firstSeenAt": "2026-09-15T09:05:37.040Z",
-      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "firstSeenAt": "2026-09-15T14:08:37.078Z",
+      "lastSeenAt": "2026-09-15T14:08:37.078Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50444,26 +50444,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 15,
+        "communityPoints": 20,
         "communityRank": 2,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6",
       "dedupeKey": "brief:opp_e81f2eaeb3fba1a23ce2:sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6",
-      "firstSeenAt": "2026-09-15T09:05:37.040Z",
-      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "firstSeenAt": "2026-09-15T14:08:37.078Z",
+      "lastSeenAt": "2026-09-15T14:08:37.078Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -50591,8 +50591,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 6,
+        "communityPoints": 9,
+        "communityRank": 8,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -50606,8 +50606,8 @@
       },
       "contentHash": "sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
       "dedupeKey": "brief:opp_715f318653918f210a8a:sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
-      "firstSeenAt": "2026-09-15T09:05:37.040Z",
-      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "firstSeenAt": "2026-09-15T14:08:37.078Z",
+      "lastSeenAt": "2026-09-15T14:08:37.078Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50738,8 +50738,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 7,
+        "communityPoints": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -50753,8 +50753,8 @@
       },
       "contentHash": "sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032",
       "dedupeKey": "brief:opp_ebc19f2c1b49c0ea0bc6:sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032",
-      "firstSeenAt": "2026-09-15T09:05:37.040Z",
-      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "firstSeenAt": "2026-09-15T14:08:37.078Z",
+      "lastSeenAt": "2026-09-15T14:08:37.078Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50802,8 +50802,8 @@
       },
       "contentHash": "sha256:31ab2caee9fcaa83ee75133a466e11db39c6484d3e2e5a0eff8876656df55299",
       "dedupeKey": "brief:opp_7df47a9e97ba343a16da:sha256:31ab2caee9fcaa83ee75133a466e11db39c6484d3e2e5a0eff8876656df55299",
-      "firstSeenAt": "2026-09-15T09:05:37.040Z",
-      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "firstSeenAt": "2026-09-15T14:08:37.078Z",
+      "lastSeenAt": "2026-09-15T14:08:37.078Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50851,11 +50851,11 @@
       },
       "contentHash": "sha256:ef17ff3902b584518377d32fc625e28e26be2e12458ce5ae9bf33602d6c3e2d2",
       "dedupeKey": "brief:opp_bfd263f930dddd7e1bb7:sha256:ef17ff3902b584518377d32fc625e28e26be2e12458ce5ae9bf33602d6c3e2d2",
-      "firstSeenAt": "2026-09-15T09:05:37.040Z",
-      "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "firstSeenAt": "2026-09-15T14:08:37.078Z",
+      "lastSeenAt": "2026-09-15T14:08:37.078Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56603,6 +56603,18 @@
       "opportunityId": "opp_87021e9cb8bd779b2779",
       "sentAt": "2026-09-15T09:05:37.040Z",
       "messageId": "1549345435242598401"
+    },
+    "brief:opp_e81f2eaeb3fba1a23ce2:sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6": {
+      "status": "SENT",
+      "opportunityId": "opp_e81f2eaeb3fba1a23ce2",
+      "sentAt": "2026-09-15T14:08:37.078Z",
+      "messageId": "1549421688817586260"
+    },
+    "brief:opp_bfd263f930dddd7e1bb7:sha256:ef17ff3902b584518377d32fc625e28e26be2e12458ce5ae9bf33602d6c3e2d2": {
+      "status": "SENT",
+      "opportunityId": "opp_bfd263f930dddd7e1bb7",
+      "sentAt": "2026-09-15T14:08:37.078Z",
+      "messageId": "1549421688817586260"
     }
   },
   "pending": {},
