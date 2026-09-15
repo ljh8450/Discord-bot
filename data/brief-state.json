@@ -49786,8 +49786,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 10,
+        "communityPoints": 13,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -49801,8 +49801,8 @@
       },
       "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
       "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
-      "firstSeenAt": "2026-09-15T00:06:26.411Z",
-      "lastSeenAt": "2026-09-15T00:06:26.411Z",
+      "firstSeenAt": "2026-09-15T03:51:17.688Z",
+      "lastSeenAt": "2026-09-15T03:51:17.688Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50412,6 +50412,251 @@
       "dedupeKey": "brief:opp_48a679b9daa0e0693d61:sha256:ae50ad4d47b368440ae888fd8bc29e65dcc3aae5f20da03120207f11d51b95bb",
       "firstSeenAt": "2026-09-15T00:06:26.411Z",
       "lastSeenAt": "2026-09-15T00:06:26.411Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e81f2eaeb3fba1a23ce2": {
+      "id": "opp_e81f2eaeb3fba1a23ce2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33659",
+      "canonicalUrl": "https://paulgraham.com/powerful.html",
+      "title": "스타트업을 강력하게 만드는 법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T07:42:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "매출을 늘리는 방법보다 회사를 더 강력하게 만드는 방법을 물으면, 점진적 개선을 넘어 기업 가치를 몇 자릿수나 키울 수 있는 전환을 발견하기도...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33659"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6",
+      "dedupeKey": "brief:opp_e81f2eaeb3fba1a23ce2:sha256:7613ec1d20a77b5adec92906acfe5985b29d734810c9aaee6363b5f16d686dd6",
+      "firstSeenAt": "2026-09-15T03:51:17.688Z",
+      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5495dabf76548f5c71d1": {
+      "id": "opp_5495dabf76548f5c71d1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33700",
+      "canonicalUrl": "https://github.com/anuj0456/OpenArch",
+      "title": "OpenArch - LLM 아키텍처를 모델별 한 파일로 구현한 PyTorch 코드 모음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T01:45:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Llama, Qwen, DeepSeek 등 LLM의 내부 구조를 코드로 읽고 비교하며 공부할 수 있도록, 각 아키텍처를 하나의 PyTorch 파일로 직접 구현한 저장소 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33700"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:34e08f424425d1be914ef4162e70d5d27edd4eb027e32e59ec9bdef694089e2a",
+      "dedupeKey": "brief:opp_5495dabf76548f5c71d1:sha256:34e08f424425d1be914ef4162e70d5d27edd4eb027e32e59ec9bdef694089e2a",
+      "firstSeenAt": "2026-09-15T03:51:17.688Z",
+      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_421fed46fc3b77e479b1": {
+      "id": "opp_421fed46fc3b77e479b1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33696",
+      "canonicalUrl": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc",
+      "title": "효과적인 소프트웨어 설계 문서 작성법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T00:35:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "설계 문서는 구현 전에 어려운 문제와 중요한 결정을 검토하고, 팀원 및 협력 팀의 피드백을 모아 잘못된 구현에 시간을 낭비하지 않도록 돕는 도...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33696"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa06fa3d898b2026e285c94e0df3e3676af68fb637b9248f424755a79b7e542c",
+      "dedupeKey": "brief:opp_421fed46fc3b77e479b1:sha256:fa06fa3d898b2026e285c94e0df3e3676af68fb637b9248f424755a79b7e542c",
+      "firstSeenAt": "2026-09-15T03:51:17.688Z",
+      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_715f318653918f210a8a": {
+      "id": "opp_715f318653918f210a8a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33667",
+      "canonicalUrl": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear",
+      "title": "공포의 전염",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-14T10:34:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "“AI가 10년 안에 전 인류를 죽일 확률이 10%를 넘는다” 는 극단적인 예측을 내놓으려면, 전문가라는 신뢰에 기대기보다 그에 걸맞은 구체적인 근거...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33667"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
+      "dedupeKey": "brief:opp_715f318653918f210a8a:sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
+      "firstSeenAt": "2026-09-15T03:51:17.688Z",
+      "lastSeenAt": "2026-09-15T03:51:17.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_506cc9b83f7355d8223d": {
+      "id": "opp_506cc9b83f7355d8223d",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/gpu-native-cluster",
+      "canonicalUrl": "https://toss.tech/article/gpu-native-cluster",
+      "title": "토스증권이 GPU-aware를 넘어 GPU-native 클러스터를 구축한 방법",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 15 Sep 2026 01:42:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "토스증권이 Kubernetes GPU 클러스터의 운영 한계를 해결한 방법",
+      "summaryEvidence": [
+        "https://toss.tech/article/gpu-native-cluster"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:91790b389580abc3be45f8577049e664a062fce7f997bf24a6e723b463cef18e",
+      "dedupeKey": "brief:opp_506cc9b83f7355d8223d:sha256:91790b389580abc3be45f8577049e664a062fce7f997bf24a6e723b463cef18e",
+      "firstSeenAt": "2026-09-15T03:51:17.688Z",
+      "lastSeenAt": "2026-09-15T03:51:17.688Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -55909,6 +56154,24 @@
       "opportunityId": "opp_877efd6dd16f2abfcb00",
       "sentAt": "2026-09-15T00:06:26.411Z",
       "messageId": "1549209747687739393"
+    },
+    "brief:opp_506cc9b83f7355d8223d:sha256:91790b389580abc3be45f8577049e664a062fce7f997bf24a6e723b463cef18e": {
+      "status": "SENT",
+      "opportunityId": "opp_506cc9b83f7355d8223d",
+      "sentAt": "2026-09-15T03:51:17.688Z",
+      "messageId": "1549266333504639070"
+    },
+    "brief:opp_5495dabf76548f5c71d1:sha256:34e08f424425d1be914ef4162e70d5d27edd4eb027e32e59ec9bdef694089e2a": {
+      "status": "SENT",
+      "opportunityId": "opp_5495dabf76548f5c71d1",
+      "sentAt": "2026-09-15T03:51:17.688Z",
+      "messageId": "1549266333504639070"
+    },
+    "brief:opp_421fed46fc3b77e479b1:sha256:fa06fa3d898b2026e285c94e0df3e3676af68fb637b9248f424755a79b7e542c": {
+      "status": "SENT",
+      "opportunityId": "opp_421fed46fc3b77e479b1",
+      "sentAt": "2026-09-15T03:51:17.688Z",
+      "messageId": "1549266333504639070"
     }
   },
   "pending": {},
