@@ -51246,26 +51246,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 12,
         "communityRank": 3,
-        "contentScore": 10,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5",
       "dedupeKey": "brief:opp_be829dd629cf30ced96f:sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5",
-      "firstSeenAt": "2026-09-16T09:05:24.706Z",
-      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "firstSeenAt": "2026-09-16T14:00:58.411Z",
+      "lastSeenAt": "2026-09-16T14:00:58.411Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -51447,7 +51447,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 4,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -51461,8 +51461,8 @@
       },
       "contentHash": "sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6",
       "dedupeKey": "brief:opp_c23150819df9138fc0ec:sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6",
-      "firstSeenAt": "2026-09-16T09:05:24.706Z",
-      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "firstSeenAt": "2026-09-16T14:00:58.411Z",
+      "lastSeenAt": "2026-09-16T14:00:58.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -51716,6 +51716,152 @@
       "dedupeKey": "brief:opp_93499dcf77432e9ad4ee:sha256:d5baef9ebcef7a913d06e78dc664cdf96f310b94522cbe4ce73ab1655b4ff529",
       "firstSeenAt": "2026-09-16T09:05:24.706Z",
       "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_49db74827de3cc271e57": {
+      "id": "opp_49db74827de3cc271e57",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33754",
+      "canonicalUrl": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+      "title": "UNIX 도메인 소켓에 어떻게 낭만을 느끼지 않을 수 있을까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T06:02:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "DEFCON 34 무대에서 충돌한 iOS 데모를 조사하다, 1985년부터 이어져 온 커널 버그를 발견함 기기를 재부팅한 뒤 첫 실행에서만 문제가 생겼으며, ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33754"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:87c6c047c4c03c881ab254f97bfb9a9a741a47080bbb8a0d3e8d4bb2764d95f9",
+      "dedupeKey": "brief:opp_49db74827de3cc271e57:sha256:87c6c047c4c03c881ab254f97bfb9a9a741a47080bbb8a0d3e8d4bb2764d95f9",
+      "firstSeenAt": "2026-09-16T14:00:58.411Z",
+      "lastSeenAt": "2026-09-16T14:00:58.411Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e15d820a7d555394576": {
+      "id": "opp_7e15d820a7d555394576",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/reimagining-advertising-with-ai",
+      "canonicalUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "Reimagining advertising with AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "summaryEvidence": [
+        "https://openai.com/index/reimagining-advertising-with-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6ff78038bf56fc649f2b1b5ef8731b1bd3d73129785ffe6dfd2e59f79dbad0f9",
+      "dedupeKey": "brief:opp_7e15d820a7d555394576:sha256:6ff78038bf56fc649f2b1b5ef8731b1bd3d73129785ffe6dfd2e59f79dbad0f9",
+      "firstSeenAt": "2026-09-16T14:00:58.411Z",
+      "lastSeenAt": "2026-09-16T14:00:58.411Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eca34f8dbe9e669effc4": {
+      "id": "opp_eca34f8dbe9e669effc4",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "525696abf8e19384978c989595fef42ed96beb60",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/gsshop-search-recommendation-aidlc",
+      "title": "AI-DLC 기반 GS SHOP 검색·추천 개발 프로세스 고도화 사례",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 09:52:44 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 블로그는 GS리테일과 AWS가 공동 작성하였습니다. 검색과 추천, 서로 다른 두 과제를 하나의 개발 방법론으로 풀다 온라인 커머스에서 검색과 추천은 고객 경험을 결정하는 핵심 서비스입니다. 고객이 원하는 상품을 빠르게 찾고, 적절한 상품을 제안하기 위해서는 검색 방식과 추천 모델을 지속적으로 개선해야 합니다. 하지만 실제 운영 환경에서는 새로운 기능을 개발하는 것보다 빠르게 검증하고 반복적으로 개선할 수 있는 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/gsshop-search-recommendation-aidlc/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:986ed12d2f93c3bc9b6c4858d16a908e57259f9766418928f3ed5fd975956083",
+      "dedupeKey": "brief:opp_eca34f8dbe9e669effc4:sha256:986ed12d2f93c3bc9b6c4858d16a908e57259f9766418928f3ed5fd975956083",
+      "firstSeenAt": "2026-09-16T14:00:58.411Z",
+      "lastSeenAt": "2026-09-16T14:00:58.411Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -57351,6 +57497,30 @@
       "opportunityId": "opp_779c853aaf1b1e9cd9ba",
       "sentAt": "2026-09-16T09:05:24.706Z",
       "messageId": "1549707771744620646"
+    },
+    "brief:opp_eca34f8dbe9e669effc4:sha256:986ed12d2f93c3bc9b6c4858d16a908e57259f9766418928f3ed5fd975956083": {
+      "status": "SENT",
+      "opportunityId": "opp_eca34f8dbe9e669effc4",
+      "sentAt": "2026-09-16T14:00:58.411Z",
+      "messageId": "1549782152802082937"
+    },
+    "brief:opp_7e15d820a7d555394576:sha256:6ff78038bf56fc649f2b1b5ef8731b1bd3d73129785ffe6dfd2e59f79dbad0f9": {
+      "status": "SENT",
+      "opportunityId": "opp_7e15d820a7d555394576",
+      "sentAt": "2026-09-16T14:00:58.411Z",
+      "messageId": "1549782152802082937"
+    },
+    "brief:opp_49db74827de3cc271e57:sha256:87c6c047c4c03c881ab254f97bfb9a9a741a47080bbb8a0d3e8d4bb2764d95f9": {
+      "status": "SENT",
+      "opportunityId": "opp_49db74827de3cc271e57",
+      "sentAt": "2026-09-16T14:00:58.411Z",
+      "messageId": "1549782152802082937"
+    },
+    "brief:opp_be829dd629cf30ced96f:sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5": {
+      "status": "SENT",
+      "opportunityId": "opp_be829dd629cf30ced96f",
+      "sentAt": "2026-09-16T14:00:58.411Z",
+      "messageId": "1549782152802082937"
     }
   },
   "pending": {},
