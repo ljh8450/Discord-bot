@@ -49788,12 +49788,12 @@
         "sourcePriority": 100,
         "communityPoints": 13,
         "communityRank": 17,
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -49801,8 +49801,8 @@
       },
       "contentHash": "sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
       "dedupeKey": "brief:opp_75f8391e45ce7b28e7ad:sha256:ce4638d36735aaf2f57cc98cfe52fa204636000a57aa86b2dc3790c39c86b29c",
-      "firstSeenAt": "2026-09-15T14:08:37.078Z",
-      "lastSeenAt": "2026-09-15T14:08:37.078Z",
+      "firstSeenAt": "2026-09-16T00:05:35.839Z",
+      "lastSeenAt": "2026-09-16T00:05:35.839Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -50591,26 +50591,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 8,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 7,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
       "dedupeKey": "brief:opp_715f318653918f210a8a:sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186",
-      "firstSeenAt": "2026-09-15T14:08:37.078Z",
-      "lastSeenAt": "2026-09-15T14:08:37.078Z",
+      "firstSeenAt": "2026-09-16T00:05:35.839Z",
+      "lastSeenAt": "2026-09-16T00:05:35.839Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -50738,14 +50738,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 8,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -50753,11 +50753,11 @@
       },
       "contentHash": "sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032",
       "dedupeKey": "brief:opp_ebc19f2c1b49c0ea0bc6:sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032",
-      "firstSeenAt": "2026-09-15T14:08:37.078Z",
-      "lastSeenAt": "2026-09-15T14:08:37.078Z",
+      "firstSeenAt": "2026-09-16T00:05:35.839Z",
+      "lastSeenAt": "2026-09-16T00:05:35.839Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -50787,14 +50787,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityPoints": 6,
+        "communityRank": 12,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -50802,8 +50802,8 @@
       },
       "contentHash": "sha256:31ab2caee9fcaa83ee75133a466e11db39c6484d3e2e5a0eff8876656df55299",
       "dedupeKey": "brief:opp_7df47a9e97ba343a16da:sha256:31ab2caee9fcaa83ee75133a466e11db39c6484d3e2e5a0eff8876656df55299",
-      "firstSeenAt": "2026-09-15T14:08:37.078Z",
-      "lastSeenAt": "2026-09-15T14:08:37.078Z",
+      "firstSeenAt": "2026-09-16T00:05:35.839Z",
+      "lastSeenAt": "2026-09-16T00:05:35.839Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -51058,6 +51058,113 @@
       "dedupeKey": "brief:opp_87021e9cb8bd779b2779:sha256:41a6bb51feff3c4e676b98127f94af5621b133e82f9b79d50239e5210ebf0072",
       "firstSeenAt": "2026-09-15T09:05:37.040Z",
       "lastSeenAt": "2026-09-15T09:05:37.040Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2c11b13c4aa322faddc5": {
+      "id": "opp_2c11b13c4aa322faddc5",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:LHpplKlnXes",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LHpplKlnXes",
+      "title": "[한영자막] AI 엔지니어가 되려면 무엇부터 배워야 할까요? (필수 기술 3단계 총정리)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T22:00:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 엔지니어가 되기 위해 무엇부터 시작해야 할지 막막하셨나요? Red Hat의 수석 개발자 애드보킷 Cedric Clyburn이 기초 프로그래밍부터 RAG, AI 에이전트, 배포까지 AI 엔지니어링의 핵심 기술 3단계를 알기 쉽게 정리해 드립니다. 📌 주요 내용: • 머신러닝 연구원 vs AI 엔지니어: 모델 연구원과 실전 시스템을 구축하는 엔지니어의 결정적 차이 • 1단계 (기본기): Python, Git, CLI, Linux, API 연동 등 AI 도구를 다루기 위한 필수 개발 역량 • 2",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=LHpplKlnXes"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-15T22:00:31.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b9196d645a7d888a710e35af9ae56e70280e36e9455f07133a6ee734772084ac",
+      "dedupeKey": "brief:opp_2c11b13c4aa322faddc5:sha256:b9196d645a7d888a710e35af9ae56e70280e36e9455f07133a6ee734772084ac",
+      "firstSeenAt": "2026-09-16T00:05:35.839Z",
+      "lastSeenAt": "2026-09-16T00:05:35.839Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_326e15284b22f428450c": {
+      "id": "opp_326e15284b22f428450c",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:RhGiG-yZP-c",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RhGiG-yZP-c",
+      "title": "GPT 6 Astra + Blender = INSANE 3D Websites",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T21:35:44+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io In this video I break down the how and why behind combining the two top AI models: GPT 6 Astra and Clau",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=RhGiG-yZP-c"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-15T21:35:44.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f792182d85fcc651127e0419a58ecf10189f8ed4466973806d03cf7bc6d7b7e7",
+      "dedupeKey": "brief:opp_326e15284b22f428450c:sha256:f792182d85fcc651127e0419a58ecf10189f8ed4466973806d03cf7bc6d7b7e7",
+      "firstSeenAt": "2026-09-16T00:05:35.839Z",
+      "lastSeenAt": "2026-09-16T00:05:35.839Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -56615,6 +56722,30 @@
       "opportunityId": "opp_bfd263f930dddd7e1bb7",
       "sentAt": "2026-09-15T14:08:37.078Z",
       "messageId": "1549421688817586260"
+    },
+    "brief:opp_326e15284b22f428450c:sha256:f792182d85fcc651127e0419a58ecf10189f8ed4466973806d03cf7bc6d7b7e7": {
+      "status": "SENT",
+      "opportunityId": "opp_326e15284b22f428450c",
+      "sentAt": "2026-09-16T00:05:35.839Z",
+      "messageId": "1549571923262967879"
+    },
+    "brief:opp_2c11b13c4aa322faddc5:sha256:b9196d645a7d888a710e35af9ae56e70280e36e9455f07133a6ee734772084ac": {
+      "status": "SENT",
+      "opportunityId": "opp_2c11b13c4aa322faddc5",
+      "sentAt": "2026-09-16T00:05:35.839Z",
+      "messageId": "1549571923262967879"
+    },
+    "brief:opp_715f318653918f210a8a:sha256:c3c1c66fca2840b5dcbbbf75821d6b2983606536f4387686d2e0ea4f7a1d3186": {
+      "status": "SENT",
+      "opportunityId": "opp_715f318653918f210a8a",
+      "sentAt": "2026-09-16T00:05:35.839Z",
+      "messageId": "1549571923262967879"
+    },
+    "brief:opp_ebc19f2c1b49c0ea0bc6:sha256:6db96e1d7ccf6b1cdb92d979a2267f72d4f9b7f87e38731774627754483a0032": {
+      "status": "SENT",
+      "opportunityId": "opp_ebc19f2c1b49c0ea0bc6",
+      "sentAt": "2026-09-16T00:05:35.839Z",
+      "messageId": "1549571923262967879"
     }
   },
   "pending": {},
