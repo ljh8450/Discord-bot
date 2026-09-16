@@ -51246,14 +51246,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 3,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -51261,8 +51261,8 @@
       },
       "contentHash": "sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5",
       "dedupeKey": "brief:opp_be829dd629cf30ced96f:sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5",
-      "firstSeenAt": "2026-09-16T03:48:27.074Z",
-      "lastSeenAt": "2026-09-16T03:48:27.074Z",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -51365,6 +51365,357 @@
       "dedupeKey": "brief:opp_6274f8773d0c299c5148:sha256:35e4eb46b9699114c79352bc659604846f60ed13869e8a408aec330572afaacd",
       "firstSeenAt": "2026-09-16T03:48:27.074Z",
       "lastSeenAt": "2026-09-16T03:48:27.074Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_332008e8dd21b965f37a": {
+      "id": "opp_332008e8dd21b965f37a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33762",
+      "canonicalUrl": "https://news.hada.io/topic?id=33762",
+      "title": "Show GN: AI에게 “시니어처럼 생각해”라고 하지 않고, 엔지니어의 판단 과정을 23개 스킬로 쪼개봤습니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T10:02:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩 에이전트를 쓰면서 이런 프롬프트를 자주 보게 됩니다. “Think like a senior engineer.” 그런데 이 한 문장이 실제로 무엇을 의미하는지는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33762"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:ac1b8971696cbf6265e64986916682ea0a92764eb74dab5cb14bc6616bfdf81c",
+      "dedupeKey": "brief:opp_332008e8dd21b965f37a:sha256:ac1b8971696cbf6265e64986916682ea0a92764eb74dab5cb14bc6616bfdf81c",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c23150819df9138fc0ec": {
+      "id": "opp_c23150819df9138fc0ec",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33723",
+      "canonicalUrl": "https://dbtcharts.com/blog/charts-built-for-chat",
+      "title": "dbt Charts - AI와 대화로 만들고 Git으로 관리하는 대시보드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T13:47:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "dbt Labs가 차트와 필터, 데이터 조회를 YAML 파일 하나로 정의하는 오픈소스 대시보드 언어 dbt Charts를 공개함 AI가 보고서 하나를 만들면서 여...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33723"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6",
+      "dedupeKey": "brief:opp_c23150819df9138fc0ec:sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_779c853aaf1b1e9cd9ba": {
+      "id": "opp_779c853aaf1b1e9cd9ba",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33748",
+      "canonicalUrl": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+      "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T03:51:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 인류를 멸종시킬지는 논쟁 중이지만, 인터넷에서 사람을 귀찮게 만드는 일은 이미 현실임. 채팅창을 넘어 이메일과 계정에 접근하는 에이전트...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33748"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:380be50c718d75704a0158ad7389ccfafe7395b6b627977b7c30f8e95439f251",
+      "dedupeKey": "brief:opp_779c853aaf1b1e9cd9ba:sha256:380be50c718d75704a0158ad7389ccfafe7395b6b627977b7c30f8e95439f251",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aafba3eaad999b0f1123": {
+      "id": "opp_aafba3eaad999b0f1123",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "9f5d61bac87da197c2ed20ea284b0dfa60c358cf",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/anfw-eks-ecs",
+      "title": "AWS Network Firewall 컨테이너 속성 기반 규칙으로 EKS와 ECS 트래픽 제어하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 04:16:56 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "2026년 6월 30일, AWS Network Firewall이 컨테이너 속성 기반 규칙(container attribute-based rules)을 출시했습니다. 이제 방화벽 규칙에 IP를 나열할 필요가 없습니다. “이 label을 가진 pod”나 “이 속성을 가진 인스턴스에서 실행되는 task”라는 조건만 선언하면 됩니다. Network Firewall이 해당 컨테이너의 IP를 자동으로 추적합니다. Amazon Elastic Kubernetes Service(Amazon EKS)나 Amazon",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/anfw-eks-ecs/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4162f8dced9e55ec726de690a9498fc41c82d5e26646a35dffea9d4bbcb6c722",
+      "dedupeKey": "brief:opp_aafba3eaad999b0f1123:sha256:4162f8dced9e55ec726de690a9498fc41c82d5e26646a35dffea9d4bbcb6c722",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_735346eea59204d59a0f": {
+      "id": "opp_735346eea59204d59a0f",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/toss-benchmark",
+      "canonicalUrl": "https://toss.tech/article/toss-benchmark",
+      "title": "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 05:37:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "Toss의 AI 기반 서비스에 적합한 LLM이 무엇인지 평가하는 Toss Benchmark 구축기",
+      "summaryEvidence": [
+        "https://toss.tech/article/toss-benchmark"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5ab635222e56929cbb2cdfa791c0ca20bb1cf99b557a5e672531dfded4a3c68a",
+      "dedupeKey": "brief:opp_735346eea59204d59a0f:sha256:5ab635222e56929cbb2cdfa791c0ca20bb1cf99b557a5e672531dfded4a3c68a",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_125258a9c84b31d29660": {
+      "id": "opp_125258a9c84b31d29660",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:DFI8qMCRDjc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DFI8qMCRDjc",
+      "title": "[한영자막] 당신을 위해 24시간 일하는 메타의 개인용 AI '뮤즈', 마크 저커버그가 직접 밝힙니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T09:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "마크 저커버그 메타 CEO가 직접 출연하여 메타의 차세대 개인용 AI 에이전트 '뮤즈(Muse)'를 전격 공개합니다. 단순한 대화를 넘어 사용자의 삶 속에서 24시간 자율적으로 프로젝트를 실행하는 개인 슈퍼인텔리전스의 실체와 보안 아키텍처를 확인해 보세요. 📌 주요 내용: • 24시간 자율 작동 에이전트: 딸과의 베이킹, 로봇 제작, MMA 훈련 코칭까지 저커버그의 실제 활용법 • 파격적인 혜택: 매주 1억 토큰 무료 제공 및 장기 상거래 중심 비즈니스 모델 • 강력한 프라이버시: 메타조차 열어",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=DFI8qMCRDjc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-16T09:00:10.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e0834be071288c86344a40603e2fe017947df2823b61b312ddc239645a26645f",
+      "dedupeKey": "brief:opp_125258a9c84b31d29660:sha256:e0834be071288c86344a40603e2fe017947df2823b61b312ddc239645a26645f",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_93499dcf77432e9ad4ee": {
+      "id": "opp_93499dcf77432e9ad4ee",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:7W0ec_bzDy0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7W0ec_bzDy0",
+      "title": "AI가 코드를 짜는 시대, 설계 문서가 필요한가 | 개발자 논쟁",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T05:16:47+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "좋은 설계 문서는 어떻게 써야 할까요? Michael Lynch의 Design Doc 작성법 글과, 이를 두고 Hacker News에서 이어진 개발자들의 흥미로운 논쟁을 함께 살펴봤습니다. “설계 문서가 필요하다” vs “그냥 만들어보는 게 더 빠르다.” AI 시대에는 이 논쟁이 어떻게 달라질지도 같이 생각해봅니다. 00:00 도입(개발 트랜드 자동화) 00:12 효과적인 소프트웨어 설계 문서 작성법 소개 00:41 이 글에 대한 Hacker News 댓글들 01:21 원문 글 소개 01:57 저",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=7W0ec_bzDy0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-16T05:16:47.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d5baef9ebcef7a913d06e78dc664cdf96f310b94522cbe4ce73ab1655b4ff529",
+      "dedupeKey": "brief:opp_93499dcf77432e9ad4ee:sha256:d5baef9ebcef7a913d06e78dc664cdf96f310b94522cbe4ce73ab1655b4ff529",
+      "firstSeenAt": "2026-09-16T09:05:24.706Z",
+      "lastSeenAt": "2026-09-16T09:05:24.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -56964,6 +57315,42 @@
       "opportunityId": "opp_3bf9632f54795bf9fdeb",
       "sentAt": "2026-09-16T03:48:27.074Z",
       "messageId": "1549628006438281287"
+    },
+    "brief:opp_735346eea59204d59a0f:sha256:5ab635222e56929cbb2cdfa791c0ca20bb1cf99b557a5e672531dfded4a3c68a": {
+      "status": "SENT",
+      "opportunityId": "opp_735346eea59204d59a0f",
+      "sentAt": "2026-09-16T09:05:24.706Z",
+      "messageId": "1549707771744620646"
+    },
+    "brief:opp_aafba3eaad999b0f1123:sha256:4162f8dced9e55ec726de690a9498fc41c82d5e26646a35dffea9d4bbcb6c722": {
+      "status": "SENT",
+      "opportunityId": "opp_aafba3eaad999b0f1123",
+      "sentAt": "2026-09-16T09:05:24.706Z",
+      "messageId": "1549707771744620646"
+    },
+    "brief:opp_125258a9c84b31d29660:sha256:e0834be071288c86344a40603e2fe017947df2823b61b312ddc239645a26645f": {
+      "status": "SENT",
+      "opportunityId": "opp_125258a9c84b31d29660",
+      "sentAt": "2026-09-16T09:05:24.706Z",
+      "messageId": "1549707771744620646"
+    },
+    "brief:opp_93499dcf77432e9ad4ee:sha256:d5baef9ebcef7a913d06e78dc664cdf96f310b94522cbe4ce73ab1655b4ff529": {
+      "status": "SENT",
+      "opportunityId": "opp_93499dcf77432e9ad4ee",
+      "sentAt": "2026-09-16T09:05:24.706Z",
+      "messageId": "1549707771744620646"
+    },
+    "brief:opp_332008e8dd21b965f37a:sha256:ac1b8971696cbf6265e64986916682ea0a92764eb74dab5cb14bc6616bfdf81c": {
+      "status": "SENT",
+      "opportunityId": "opp_332008e8dd21b965f37a",
+      "sentAt": "2026-09-16T09:05:24.706Z",
+      "messageId": "1549707771744620646"
+    },
+    "brief:opp_779c853aaf1b1e9cd9ba:sha256:380be50c718d75704a0158ad7389ccfafe7395b6b627977b7c30f8e95439f251": {
+      "status": "SENT",
+      "opportunityId": "opp_779c853aaf1b1e9cd9ba",
+      "sentAt": "2026-09-16T09:05:24.706Z",
+      "messageId": "1549707771744620646"
     }
   },
   "pending": {},
