@@ -51170,6 +51170,206 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_3bf9632f54795bf9fdeb": {
+      "id": "opp_3bf9632f54795bf9fdeb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33735",
+      "canonicalUrl": "https://zanlib.dev/blog/do-you-still-read-the-code",
+      "title": "아직도 코드를 읽나요?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T22:05:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 활용 방식은 구현 이해를 유지하는 가속형 개발자와 구현 및 수정을 위임하는 바이브코더로 나뉨. 차이는 AI가 작성한 코드의 양이 아니라 결과...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33735"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:e3de078ca5401b2f8ae1797c840ea3a7ad41c2e624d84761e0122933aa37c839",
+      "dedupeKey": "brief:opp_3bf9632f54795bf9fdeb:sha256:e3de078ca5401b2f8ae1797c840ea3a7ad41c2e624d84761e0122933aa37c839",
+      "firstSeenAt": "2026-09-16T03:48:27.074Z",
+      "lastSeenAt": "2026-09-16T03:48:27.074Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be829dd629cf30ced96f": {
+      "id": "opp_be829dd629cf30ced96f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33729",
+      "canonicalUrl": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "title": "전 FTC 위원장 Khan, 1934년 판례 들며 “AI CEO들에게 수갑을 채워라”",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-15T16:33:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Lina Khan 전 FTC 위원장은 기존 법률만으로도 위험하거나 검증되지 않은 AI를 출시한 기업과, 일부 상황에서는 경영진에게 책임을 물을 수 있다며...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33729"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5",
+      "dedupeKey": "brief:opp_be829dd629cf30ced96f:sha256:b0b1ab0994ac8cd8926b6151349a7d0a6ca396487a2d21658891030b66a20df5",
+      "firstSeenAt": "2026-09-16T03:48:27.074Z",
+      "lastSeenAt": "2026-09-16T03:48:27.074Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_212b5bc4e327b0c22631": {
+      "id": "opp_212b5bc4e327b0c22631",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33760",
+      "canonicalUrl": "https://termdom.org/",
+      "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "웹 개발에 익숙한 HTML, CSS와 DOM API로 터미널 UI와 대화형 CLI를 만드는 JavaScript/TypeScript 라이브러리 별도의 터미널 위젯 API를 배우는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33760"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7e05fc360c39cb8fcca0a45766260324eae8bd8df7ea01ad712ecbea4c3ef133",
+      "dedupeKey": "brief:opp_212b5bc4e327b0c22631:sha256:7e05fc360c39cb8fcca0a45766260324eae8bd8df7ea01ad712ecbea4c3ef133",
+      "firstSeenAt": "2026-09-16T03:48:27.074Z",
+      "lastSeenAt": "2026-09-16T03:48:27.074Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6274f8773d0c299c5148": {
+      "id": "opp_6274f8773d0c299c5148",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:Lm8hLSJKtvc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Lm8hLSJKtvc",
+      "title": "나비에 스토크스 난제로 불타는 이유",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T03:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "방구로 비유해보겠습니다 뿡 https://codingapple.com/ 개별강의 10% 할인쿠폰 chromy494 (자주 바뀜 최신영상 참고) 사용한 자료 https://tenor.com/ktwNiRhJcfb.gif https://tenor.com/bqtm5.gif https://tenor.com/bbw5C.gif https://tenor.com/btR7T.gif https://tenor.com/bSs6l.gif https://www.instagram.com/reels/DPep7iVDusV/ en",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Lm8hLSJKtvc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-16T03:00:06.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35e4eb46b9699114c79352bc659604846f60ed13869e8a408aec330572afaacd",
+      "dedupeKey": "brief:opp_6274f8773d0c299c5148:sha256:35e4eb46b9699114c79352bc659604846f60ed13869e8a408aec330572afaacd",
+      "firstSeenAt": "2026-09-16T03:48:27.074Z",
+      "lastSeenAt": "2026-09-16T03:48:27.074Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -56746,6 +56946,24 @@
       "opportunityId": "opp_ebc19f2c1b49c0ea0bc6",
       "sentAt": "2026-09-16T00:05:35.839Z",
       "messageId": "1549571923262967879"
+    },
+    "brief:opp_6274f8773d0c299c5148:sha256:35e4eb46b9699114c79352bc659604846f60ed13869e8a408aec330572afaacd": {
+      "status": "SENT",
+      "opportunityId": "opp_6274f8773d0c299c5148",
+      "sentAt": "2026-09-16T03:48:27.074Z",
+      "messageId": "1549628006438281287"
+    },
+    "brief:opp_212b5bc4e327b0c22631:sha256:7e05fc360c39cb8fcca0a45766260324eae8bd8df7ea01ad712ecbea4c3ef133": {
+      "status": "SENT",
+      "opportunityId": "opp_212b5bc4e327b0c22631",
+      "sentAt": "2026-09-16T03:48:27.074Z",
+      "messageId": "1549628006438281287"
+    },
+    "brief:opp_3bf9632f54795bf9fdeb:sha256:e3de078ca5401b2f8ae1797c840ea3a7ad41c2e624d84761e0122933aa37c839": {
+      "status": "SENT",
+      "opportunityId": "opp_3bf9632f54795bf9fdeb",
+      "sentAt": "2026-09-16T03:48:27.074Z",
+      "messageId": "1549628006438281287"
     }
   },
   "pending": {},
