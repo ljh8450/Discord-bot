@@ -51446,26 +51446,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 7,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6",
       "dedupeKey": "brief:opp_c23150819df9138fc0ec:sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6",
-      "firstSeenAt": "2026-09-16T14:00:58.411Z",
-      "lastSeenAt": "2026-09-16T14:00:58.411Z",
+      "firstSeenAt": "2026-09-17T00:06:01.995Z",
+      "lastSeenAt": "2026-09-17T00:06:01.995Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -51862,6 +51862,251 @@
       "dedupeKey": "brief:opp_eca34f8dbe9e669effc4:sha256:986ed12d2f93c3bc9b6c4858d16a908e57259f9766418928f3ed5fd975956083",
       "firstSeenAt": "2026-09-16T14:00:58.411Z",
       "lastSeenAt": "2026-09-16T14:00:58.411Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d6890be77229e9f369ce": {
+      "id": "opp_d6890be77229e9f369ce",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "canonicalUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Helping older adults use AI in everyday life",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "summaryEvidence": [
+        "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2091b7523a7da1f9320ec2194da51de518d86ec95edf931fcddfc9402ac3c203",
+      "dedupeKey": "brief:opp_d6890be77229e9f369ce:sha256:2091b7523a7da1f9320ec2194da51de518d86ec95edf931fcddfc9402ac3c203",
+      "firstSeenAt": "2026-09-17T00:06:01.995Z",
+      "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_426bbe2934cf1c6f3a8a": {
+      "id": "opp_426bbe2934cf1c6f3a8a",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "canonicalUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "title": "How to connect AI usage to business value",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:17a0da33a44a9c4439a88517151a8ae9c018475d41532f101429c069ec3da111",
+      "dedupeKey": "brief:opp_426bbe2934cf1c6f3a8a:sha256:17a0da33a44a9c4439a88517151a8ae9c018475d41532f101429c069ec3da111",
+      "firstSeenAt": "2026-09-17T00:06:01.995Z",
+      "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3db89aa138de8ae265a4": {
+      "id": "opp_3db89aa138de8ae265a4",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/model-misalignment-reporting-framework",
+      "canonicalUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+      "title": "Our framework for reporting model misalignment",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "summaryEvidence": [
+        "https://openai.com/index/model-misalignment-reporting-framework"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d9f7411fc627b4cd445133bccb92c6495c6173cfab0ba4ea823ad58300ec890a",
+      "dedupeKey": "brief:opp_3db89aa138de8ae265a4:sha256:d9f7411fc627b4cd445133bccb92c6495c6173cfab0ba4ea823ad58300ec890a",
+      "firstSeenAt": "2026-09-17T00:06:01.995Z",
+      "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_df0c7a251293e7624fc7": {
+      "id": "opp_df0c7a251293e7624fc7",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/unlocking-new-ways-of-working",
+      "canonicalUrl": "https://openai.com/index/unlocking-new-ways-of-working",
+      "title": "How workers are unlocking new ways of working",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "summaryEvidence": [
+        "https://openai.com/index/unlocking-new-ways-of-working"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9aa475957204633e980f515fdec125eb3064f73e74fe3a821ae35304d5a4c786",
+      "dedupeKey": "brief:opp_df0c7a251293e7624fc7:sha256:9aa475957204633e980f515fdec125eb3064f73e74fe3a821ae35304d5a4c786",
+      "firstSeenAt": "2026-09-17T00:06:01.995Z",
+      "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0ad5b0305feed7f4c28b": {
+      "id": "opp_0ad5b0305feed7f4c28b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:xdtHydnLmcU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xdtHydnLmcU",
+      "title": "[한영자막] 개발자는 AI가 생성한 코드를 어떻게 지킬까요? 꼭 알아야 할 5가지 보안 원칙",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T22:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 몇 초 만에 코드를 쏟아내는 시대, 기존의 개발 완료 후 사후 보안 검토 방식은 더 이상 통하지 않습니다. IBM의 Jeff Crume 박사가 AI 지원 개발 환경에서 안전한 코드를 만들기 위한 '시프트 레프트(Shift-Left) 보안 5가지 핵심 원칙'을 명쾌하게 설명합니다. 💡 핵심 포인트: 1. 생성 과정이 아닌 결과 검증: 코드가 잘 돌아간다고 안전한 것은 아닙니다. 실제 운영 환경에서의 동작과 권한을 검증해야 합니다. 2. 개발 단계에서부터 보안 시작: 배포 후 버그 수정은 막",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=xdtHydnLmcU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-16T22:00:28.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:739ba9d1b20b9d709856a6fe2f210ee92769e2c6267b4a1ee823a67e83710642",
+      "dedupeKey": "brief:opp_0ad5b0305feed7f4c28b:sha256:739ba9d1b20b9d709856a6fe2f210ee92769e2c6267b4a1ee823a67e83710642",
+      "firstSeenAt": "2026-09-17T00:06:01.995Z",
+      "lastSeenAt": "2026-09-17T00:06:01.995Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -57521,6 +57766,30 @@
       "opportunityId": "opp_be829dd629cf30ced96f",
       "sentAt": "2026-09-16T14:00:58.411Z",
       "messageId": "1549782152802082937"
+    },
+    "brief:opp_3db89aa138de8ae265a4:sha256:d9f7411fc627b4cd445133bccb92c6495c6173cfab0ba4ea823ad58300ec890a": {
+      "status": "SENT",
+      "opportunityId": "opp_3db89aa138de8ae265a4",
+      "sentAt": "2026-09-17T00:06:01.995Z",
+      "messageId": "1549934420717338687"
+    },
+    "brief:opp_d6890be77229e9f369ce:sha256:2091b7523a7da1f9320ec2194da51de518d86ec95edf931fcddfc9402ac3c203": {
+      "status": "SENT",
+      "opportunityId": "opp_d6890be77229e9f369ce",
+      "sentAt": "2026-09-17T00:06:01.995Z",
+      "messageId": "1549934420717338687"
+    },
+    "brief:opp_0ad5b0305feed7f4c28b:sha256:739ba9d1b20b9d709856a6fe2f210ee92769e2c6267b4a1ee823a67e83710642": {
+      "status": "SENT",
+      "opportunityId": "opp_0ad5b0305feed7f4c28b",
+      "sentAt": "2026-09-17T00:06:01.995Z",
+      "messageId": "1549934420717338687"
+    },
+    "brief:opp_c23150819df9138fc0ec:sha256:83eaef4a9e5946d39319022c95271bb13c85072c17b58432e46547bbcf6414b6": {
+      "status": "SENT",
+      "opportunityId": "opp_c23150819df9138fc0ec",
+      "sentAt": "2026-09-17T00:06:01.995Z",
+      "messageId": "1549934420717338687"
     }
   },
   "pending": {},
