@@ -52286,23 +52286,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 11,
         "communityRank": 4,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5",
       "dedupeKey": "brief:opp_030b7143af153b0d54ee:sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5",
-      "firstSeenAt": "2026-09-17T09:05:55.436Z",
-      "lastSeenAt": "2026-09-17T09:05:55.436Z",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -52383,23 +52383,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 5,
-        "contentScore": 10,
+        "communityPoints": 13,
+        "communityRank": 3,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9",
       "dedupeKey": "brief:opp_514ec04683fada432dab:sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9",
-      "firstSeenAt": "2026-09-17T09:05:55.436Z",
-      "lastSeenAt": "2026-09-17T09:05:55.436Z",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -52609,6 +52609,308 @@
       "dedupeKey": "brief:opp_4059e435447e01cfff70:sha256:082660038b1952b43eaf1053d12c4e275c57c09bdcbcd43f23cf63f6ae25e655",
       "firstSeenAt": "2026-09-17T09:05:55.436Z",
       "lastSeenAt": "2026-09-17T09:05:55.436Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c7340e7dc49d7111321b": {
+      "id": "opp_c7340e7dc49d7111321b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33798",
+      "canonicalUrl": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped",
+      "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T02:53:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "같은 HTML을 CSS만 바꿔 전혀 다른 모습으로 만드는 CSS Zen Garden의 이상을, 현대 CSS로 Firefox.com을 재구축하며 실제 서비스에 적용함 Custom...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33798"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4c21769ecc487951445060217bb963f7c8fe8150bc916d699eaf59955728388c",
+      "dedupeKey": "brief:opp_c7340e7dc49d7111321b:sha256:4c21769ecc487951445060217bb963f7c8fe8150bc916d699eaf59955728388c",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f45d5972ab66c4dde567": {
+      "id": "opp_f45d5972ab66c4dde567",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33809",
+      "canonicalUrl": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T07:45:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "DeepSeek V4.1 Flash가 Enclave 해킹 벤치마크의 취약한 타깃 11개 모두에서 코드 실행에 성공했으며, 수정된 대조군 4개는 모두 안전하게 유지됨 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33809"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 9,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de4200472be5edf7e5c1fdf816929b0fe0f2503801b8fbb82d110c297318cfca",
+      "dedupeKey": "brief:opp_f45d5972ab66c4dde567:sha256:de4200472be5edf7e5c1fdf816929b0fe0f2503801b8fbb82d110c297318cfca",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef4eec73d89e733fe600": {
+      "id": "opp_ef4eec73d89e733fe600",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33805",
+      "canonicalUrl": "https://rohanbansal.com/qorl",
+      "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T06:46:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "4B 소형 모델을 학습시켜 조인이 많은 SQL 쿼리 113개에서 Postgres 기본 실행 계획 대비 기하평균 1.81배 가속과 총 실행 시간 44.7% 감소를 달성...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33805"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b773afd4132563426196d2b5dd6ad81796263de4d102a064f48fddb0eaf90bc",
+      "dedupeKey": "brief:opp_ef4eec73d89e733fe600:sha256:0b773afd4132563426196d2b5dd6ad81796263de4d102a064f48fddb0eaf90bc",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cdc40b5ebff21d005f4b": {
+      "id": "opp_cdc40b5ebff21d005f4b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33773",
+      "canonicalUrl": "https://security.apple.com/blog/apple-reference-image",
+      "title": "Apple Reference Image - 실제 카메라로 찍은 사진임을 검증하는 기술",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-16T16:36:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 사진을 만들거나 바꾸기 쉬워진 상황에서, 아이폰 카메라가 실제로 포착한 이미지와 촬영 시간 범위를 검증하는 기능을 iPhone 18 Pro와 Pro ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33773"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f13f52056e08801db533e913b8c3a4e0128b2ebcdf7f33c8646881fba886f270",
+      "dedupeKey": "brief:opp_cdc40b5ebff21d005f4b:sha256:f13f52056e08801db533e913b8c3a4e0128b2ebcdf7f33c8646881fba886f270",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e496c99bf9960a58883": {
+      "id": "opp_7e496c99bf9960a58883",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:mkaJJ1BrhKc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mkaJJ1BrhKc",
+      "title": "아스트라로 코딩 한 줄 없이 게임을 어떻게 만들까?",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T11:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#Higgsfield #GPT6Astra #바이브코딩 #astra ▶ Higgsfield 시작하기 (GPT-6 Astra 연결) → https://higgsfield.ai/s/gpt-6-astra-yt-midnightlog-official-agHLHE ▶ 영상에서 쓴 Blender용 Higgsfield Bridge → https://higgsfield.ai/ko/plugins/blender 이 영상은 Higgsfield로부터 제작비를 지원받아 만들었습니다. 2D 그림 한 장을 3D 마을로 바꾸고,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mkaJJ1BrhKc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-17T11:00:15.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:74764f1ca62475973edb9934865f3d1c5471daede51d22dfef43fe76b854fbb9",
+      "dedupeKey": "brief:opp_7e496c99bf9960a58883:sha256:74764f1ca62475973edb9934865f3d1c5471daede51d22dfef43fe76b854fbb9",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_160a0e4565a3d2c8b9ec": {
+      "id": "opp_160a0e4565a3d2c8b9ec",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:rpUNfIsLyGI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rpUNfIsLyGI",
+      "title": "AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수 있는 이유",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T11:02:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "최신 AI 도구들은 왜 보기 어려운 까만 터미널에서 먼저 발전했을까요? 지메일은 메일, 엑셀은 계산처럼 정해진 기능에 강하지만 우리가 하는 일은 여러 앱에 걸쳐 이어집니다. 터미널에서는 파일 검색과 문서 분석, 계산, 코딩 같은 도구를 한 작업으로 연결할 수 있습니다. Codex, Claude Code, Gemini CLI가 이 환경을 활용하는 이유를 실제 견적서 처리 과정으로 살펴봤습니다. AI가 필요한 코드를 직접 만들고, 실행 결과와 오류를 확인하며 작업을 고치는 과정도 설명합니다. API와",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=rpUNfIsLyGI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-17T11:02:38.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dbb56aad269a279ca0fcccad7a60c95adaac8ec3fe7d8677bd04197ed089f24b",
+      "dedupeKey": "brief:opp_160a0e4565a3d2c8b9ec:sha256:dbb56aad269a279ca0fcccad7a60c95adaac8ec3fe7d8677bd04197ed089f24b",
+      "firstSeenAt": "2026-09-17T14:05:02.951Z",
+      "lastSeenAt": "2026-09-17T14:05:02.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -58352,6 +58654,30 @@
       "opportunityId": "opp_a26e8ca154c29f31c4f8",
       "sentAt": "2026-09-17T09:05:55.436Z",
       "messageId": "1550070289340047482"
+    },
+    "brief:opp_160a0e4565a3d2c8b9ec:sha256:dbb56aad269a279ca0fcccad7a60c95adaac8ec3fe7d8677bd04197ed089f24b": {
+      "status": "SENT",
+      "opportunityId": "opp_160a0e4565a3d2c8b9ec",
+      "sentAt": "2026-09-17T14:05:02.951Z",
+      "messageId": "1550145566770728981"
+    },
+    "brief:opp_7e496c99bf9960a58883:sha256:74764f1ca62475973edb9934865f3d1c5471daede51d22dfef43fe76b854fbb9": {
+      "status": "SENT",
+      "opportunityId": "opp_7e496c99bf9960a58883",
+      "sentAt": "2026-09-17T14:05:02.951Z",
+      "messageId": "1550145566770728981"
+    },
+    "brief:opp_f45d5972ab66c4dde567:sha256:de4200472be5edf7e5c1fdf816929b0fe0f2503801b8fbb82d110c297318cfca": {
+      "status": "SENT",
+      "opportunityId": "opp_f45d5972ab66c4dde567",
+      "sentAt": "2026-09-17T14:05:02.951Z",
+      "messageId": "1550145566770728981"
+    },
+    "brief:opp_ef4eec73d89e733fe600:sha256:0b773afd4132563426196d2b5dd6ad81796263de4d102a064f48fddb0eaf90bc": {
+      "status": "SENT",
+      "opportunityId": "opp_ef4eec73d89e733fe600",
+      "sentAt": "2026-09-17T14:05:02.951Z",
+      "messageId": "1550145566770728981"
     }
   },
   "pending": {},
