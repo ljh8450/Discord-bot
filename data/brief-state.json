@@ -51956,11 +51956,11 @@
       },
       "contentHash": "sha256:17a0da33a44a9c4439a88517151a8ae9c018475d41532f101429c069ec3da111",
       "dedupeKey": "brief:opp_426bbe2934cf1c6f3a8a:sha256:17a0da33a44a9c4439a88517151a8ae9c018475d41532f101429c069ec3da111",
-      "firstSeenAt": "2026-09-17T00:06:01.995Z",
-      "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -52052,11 +52052,11 @@
       },
       "contentHash": "sha256:9aa475957204633e980f515fdec125eb3064f73e74fe3a821ae35304d5a4c786",
       "dedupeKey": "brief:opp_df0c7a251293e7624fc7:sha256:9aa475957204633e980f515fdec125eb3064f73e74fe3a821ae35304d5a4c786",
-      "firstSeenAt": "2026-09-17T00:06:01.995Z",
-      "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -52107,6 +52107,250 @@
       "dedupeKey": "brief:opp_0ad5b0305feed7f4c28b:sha256:739ba9d1b20b9d709856a6fe2f210ee92769e2c6267b4a1ee823a67e83710642",
       "firstSeenAt": "2026-09-17T00:06:01.995Z",
       "lastSeenAt": "2026-09-17T00:06:01.995Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b65bce570da52f18429f": {
+      "id": "opp_b65bce570da52f18429f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33800",
+      "canonicalUrl": "https://ohhelloana.blog/tell-the-speakers",
+      "title": "발표가 좋았다면 발표자에게 말해주세요",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T03:34:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "발표가 좋았다면 짧게라도 발표자에게 직접 전할 가치가 있음. 발표자는 많은 노력을 들여 준비하며, 청중이 즐겼는지와 발표가 괜찮았는지 알고 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33800"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:21ab129ed513118ff0ef0a1b0ef2826a7b132576ff083d3a4b3b86bc53e90a8f",
+      "dedupeKey": "brief:opp_b65bce570da52f18429f:sha256:21ab129ed513118ff0ef0a1b0ef2826a7b132576ff083d3a4b3b86bc53e90a8f",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_57ebe35d1cb44a157c67": {
+      "id": "opp_57ebe35d1cb44a157c67",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33792",
+      "canonicalUrl": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T01:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단함 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33792"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:47151b1cb933b8f00fd291fac76ce6640ffd9f3d443d19d04ea1948abc00820a",
+      "dedupeKey": "brief:opp_57ebe35d1cb44a157c67:sha256:47151b1cb933b8f00fd291fac76ce6640ffd9f3d443d19d04ea1948abc00820a",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2acb7872f7e230b14938": {
+      "id": "opp_2acb7872f7e230b14938",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33794",
+      "canonicalUrl": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "title": "LLM 시대의 프로그래밍 학습",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T01:51:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33794"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ea8c192b816ecfca0747ff62636c5e91be4c4ff6f18dc689c7458fd17b08ac9a",
+      "dedupeKey": "brief:opp_2acb7872f7e230b14938:sha256:ea8c192b816ecfca0747ff62636c5e91be4c4ff6f18dc689c7458fd17b08ac9a",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_030b7143af153b0d54ee": {
+      "id": "opp_030b7143af153b0d54ee",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33793",
+      "canonicalUrl": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "title": "다른 사람들의 일까지 하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T01:48:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "다른 사람의 일까지 할 줄 알면 그들이 어떻게 일하고 무엇을 필요로 하는지 이해할 수 있으며, 특히 필요한 일을 담당자가 하지 않을 때 직접 해...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33793"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5",
+      "dedupeKey": "brief:opp_030b7143af153b0d54ee:sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9cdb1a2a33bb363113fd": {
+      "id": "opp_9cdb1a2a33bb363113fd",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98713",
+      "canonicalUrl": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 17 Sep 2026 00:26:43 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a58a2e24af2762c10f4b10060c53329720e31ee1c65e4cca42c42b952130648",
+      "dedupeKey": "brief:opp_9cdb1a2a33bb363113fd:sha256:8a58a2e24af2762c10f4b10060c53329720e31ee1c65e4cca42c42b952130648",
+      "firstSeenAt": "2026-09-17T03:53:31.832Z",
+      "lastSeenAt": "2026-09-17T03:53:31.832Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -57790,6 +58034,36 @@
       "opportunityId": "opp_c23150819df9138fc0ec",
       "sentAt": "2026-09-17T00:06:01.995Z",
       "messageId": "1549934420717338687"
+    },
+    "brief:opp_9cdb1a2a33bb363113fd:sha256:8a58a2e24af2762c10f4b10060c53329720e31ee1c65e4cca42c42b952130648": {
+      "status": "SENT",
+      "opportunityId": "opp_9cdb1a2a33bb363113fd",
+      "sentAt": "2026-09-17T03:53:31.832Z",
+      "messageId": "1549991672299921462"
+    },
+    "brief:opp_426bbe2934cf1c6f3a8a:sha256:17a0da33a44a9c4439a88517151a8ae9c018475d41532f101429c069ec3da111": {
+      "status": "SENT",
+      "opportunityId": "opp_426bbe2934cf1c6f3a8a",
+      "sentAt": "2026-09-17T03:53:31.832Z",
+      "messageId": "1549991672299921462"
+    },
+    "brief:opp_df0c7a251293e7624fc7:sha256:9aa475957204633e980f515fdec125eb3064f73e74fe3a821ae35304d5a4c786": {
+      "status": "SENT",
+      "opportunityId": "opp_df0c7a251293e7624fc7",
+      "sentAt": "2026-09-17T03:53:31.832Z",
+      "messageId": "1549991672299921462"
+    },
+    "brief:opp_2acb7872f7e230b14938:sha256:ea8c192b816ecfca0747ff62636c5e91be4c4ff6f18dc689c7458fd17b08ac9a": {
+      "status": "SENT",
+      "opportunityId": "opp_2acb7872f7e230b14938",
+      "sentAt": "2026-09-17T03:53:31.832Z",
+      "messageId": "1549991672299921462"
+    },
+    "brief:opp_57ebe35d1cb44a157c67:sha256:47151b1cb933b8f00fd291fac76ce6640ffd9f3d443d19d04ea1948abc00820a": {
+      "status": "SENT",
+      "opportunityId": "opp_57ebe35d1cb44a157c67",
+      "sentAt": "2026-09-17T03:53:31.832Z",
+      "messageId": "1549991672299921462"
     }
   },
   "pending": {},
