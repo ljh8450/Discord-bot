@@ -53244,7 +53244,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 9,
         "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -53259,8 +53259,8 @@
       },
       "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
       "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
-      "firstSeenAt": "2026-09-18T09:05:41.783Z",
-      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "firstSeenAt": "2026-09-18T13:22:40.727Z",
+      "lastSeenAt": "2026-09-18T13:22:40.727Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -53343,26 +53343,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 11,
         "communityRank": 2,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:58d10ff8bc47e685d37c5d46f54d3d35fcc9058119996c5a1e1cad4586720f5f",
       "dedupeKey": "brief:opp_edd03deea30a5d4b7ad1:sha256:58d10ff8bc47e685d37c5d46f54d3d35fcc9058119996c5a1e1cad4586720f5f",
-      "firstSeenAt": "2026-09-18T09:05:41.783Z",
-      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "firstSeenAt": "2026-09-18T13:22:40.727Z",
+      "lastSeenAt": "2026-09-18T13:22:40.727Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -53491,7 +53491,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 6,
+        "communityRank": 7,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -53505,11 +53505,11 @@
       },
       "contentHash": "sha256:5c2861dbe53cf99dcc90aa203a939d444bf947376a75e2bde78950e1c3467ab4",
       "dedupeKey": "brief:opp_89129769d4fa7a98b33b:sha256:5c2861dbe53cf99dcc90aa203a939d444bf947376a75e2bde78950e1c3467ab4",
-      "firstSeenAt": "2026-09-18T09:05:41.783Z",
-      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "firstSeenAt": "2026-09-18T13:22:40.727Z",
+      "lastSeenAt": "2026-09-18T13:22:40.727Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -53540,7 +53540,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 8,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -53554,8 +53554,8 @@
       },
       "contentHash": "sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed",
       "dedupeKey": "brief:opp_54c3233ab72e33263337:sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed",
-      "firstSeenAt": "2026-09-18T09:05:41.783Z",
-      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "firstSeenAt": "2026-09-18T13:22:40.727Z",
+      "lastSeenAt": "2026-09-18T13:22:40.727Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -53588,8 +53588,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 9,
+        "communityPoints": 6,
+        "communityRank": 8,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -53603,8 +53603,8 @@
       },
       "contentHash": "sha256:4da3c09f507d5508b06e1c8561ae187a859bc5ef34865556c4c6329b3ee406bb",
       "dedupeKey": "brief:opp_b3726d1a44a6e4cc5b46:sha256:4da3c09f507d5508b06e1c8561ae187a859bc5ef34865556c4c6329b3ee406bb",
-      "firstSeenAt": "2026-09-18T09:05:41.783Z",
-      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "firstSeenAt": "2026-09-18T13:22:40.727Z",
+      "lastSeenAt": "2026-09-18T13:22:40.727Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -53806,6 +53806,59 @@
       "dedupeKey": "brief:opp_ae875e92865ce1b9de96:sha256:fdb4464b8f05c6f5c88073d236ffc56d1093dbc8a095ccfbb8c17933c818c0a5",
       "firstSeenAt": "2026-09-18T09:05:41.783Z",
       "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ac7aafbb4ccba25adb1f": {
+      "id": "opp_ac7aafbb4ccba25adb1f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Q3403O6h-yI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Q3403O6h-yI",
+      "title": "[한영자막] 보이스 AI 에이전트가 배포 첫 주에 무너지는 5가지 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T09:00:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "보이스 AI 에이전트를 데모 환경에서 만들 때는 완벽해 보이지만, 실제 프로덕션에 배포하는 순간 지연 시간과 데이터 수집 오류 등으로 처참하게 무너집니다. 매달 10억 건 이상의 음성 통화를 처리하는 텔레포니 플랫폼 Plivo의 창업자이자 CEO Venky B가 현장에서 목격한 5가지 핵심 실패 패턴과 현실적인 극복 방안을 명쾌하게 공유합니다. 📌 주요 포인트: - 지연 시간(Latency)과 첫 음성 출력(TTFA)의 현실: 왜 550ms 목표가 무너지고 750~1200ms에 갇히는가 - 추론",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Q3403O6h-yI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-18T09:00:03.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:140b4d901757ff53a1f89686946b46b8b2086ddbc2af90a56bece3ac9bd7c6f7",
+      "dedupeKey": "brief:opp_ac7aafbb4ccba25adb1f:sha256:140b4d901757ff53a1f89686946b46b8b2086ddbc2af90a56bece3ac9bd7c6f7",
+      "firstSeenAt": "2026-09-18T13:22:40.727Z",
+      "lastSeenAt": "2026-09-18T13:22:40.727Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -59663,6 +59716,24 @@
       "opportunityId": "opp_6b40e7606c15217a62fc",
       "sentAt": "2026-09-18T09:05:41.783Z",
       "messageId": "1550432618670202892"
+    },
+    "brief:opp_edd03deea30a5d4b7ad1:sha256:58d10ff8bc47e685d37c5d46f54d3d35fcc9058119996c5a1e1cad4586720f5f": {
+      "status": "SENT",
+      "opportunityId": "opp_edd03deea30a5d4b7ad1",
+      "sentAt": "2026-09-18T13:22:40.727Z",
+      "messageId": "1550497290614214709"
+    },
+    "brief:opp_89129769d4fa7a98b33b:sha256:5c2861dbe53cf99dcc90aa203a939d444bf947376a75e2bde78950e1c3467ab4": {
+      "status": "SENT",
+      "opportunityId": "opp_89129769d4fa7a98b33b",
+      "sentAt": "2026-09-18T13:22:40.727Z",
+      "messageId": "1550497290614214709"
+    },
+    "brief:opp_ac7aafbb4ccba25adb1f:sha256:140b4d901757ff53a1f89686946b46b8b2086ddbc2af90a56bece3ac9bd7c6f7": {
+      "status": "SENT",
+      "opportunityId": "opp_ac7aafbb4ccba25adb1f",
+      "sentAt": "2026-09-18T13:22:40.727Z",
+      "messageId": "1550497290614214709"
     }
   },
   "pending": {},
