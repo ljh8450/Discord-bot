@@ -52286,14 +52286,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 4,
-        "contentScore": 12,
+        "communityPoints": 13,
+        "communityRank": 5,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -52301,11 +52301,11 @@
       },
       "contentHash": "sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5",
       "dedupeKey": "brief:opp_030b7143af153b0d54ee:sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5",
-      "firstSeenAt": "2026-09-17T14:05:02.951Z",
-      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -52383,8 +52383,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 3,
+        "communityPoints": 19,
+        "communityRank": 2,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -52398,8 +52398,8 @@
       },
       "contentHash": "sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9",
       "dedupeKey": "brief:opp_514ec04683fada432dab:sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9",
-      "firstSeenAt": "2026-09-17T14:05:02.951Z",
-      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -52641,14 +52641,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 8,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 10,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -52656,8 +52656,8 @@
       },
       "contentHash": "sha256:4c21769ecc487951445060217bb963f7c8fe8150bc916d699eaf59955728388c",
       "dedupeKey": "brief:opp_c7340e7dc49d7111321b:sha256:4c21769ecc487951445060217bb963f7c8fe8150bc916d699eaf59955728388c",
-      "firstSeenAt": "2026-09-17T14:05:02.951Z",
-      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -52788,8 +52788,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 13,
+        "communityPoints": 6,
+        "communityRank": 14,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -52803,8 +52803,8 @@
       },
       "contentHash": "sha256:f13f52056e08801db533e913b8c3a4e0128b2ebcdf7f33c8646881fba886f270",
       "dedupeKey": "brief:opp_cdc40b5ebff21d005f4b:sha256:f13f52056e08801db533e913b8c3a4e0128b2ebcdf7f33c8646881fba886f270",
-      "firstSeenAt": "2026-09-17T14:05:02.951Z",
-      "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -52911,6 +52911,258 @@
       "dedupeKey": "brief:opp_160a0e4565a3d2c8b9ec:sha256:dbb56aad269a279ca0fcccad7a60c95adaac8ec3fe7d8677bd04197ed089f24b",
       "firstSeenAt": "2026-09-17T14:05:02.951Z",
       "lastSeenAt": "2026-09-17T14:05:02.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7da9706cba996d782f80": {
+      "id": "opp_7da9706cba996d782f80",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/cooley-gopublic",
+      "canonicalUrl": "https://openai.com/index/cooley-gopublic",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "summaryEvidence": [
+        "https://openai.com/index/cooley-gopublic"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9715081005b23020572a8978e03de4c031c1e7c77113be3e4e6714bc19525ba7",
+      "dedupeKey": "brief:opp_7da9706cba996d782f80:sha256:9715081005b23020572a8978e03de4c031c1e7c77113be3e4e6714bc19525ba7",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aebc354cd68b1dc8a0d4": {
+      "id": "opp_aebc354cd68b1dc8a0d4",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/astra-for-law",
+      "canonicalUrl": "https://openai.com/index/astra-for-law",
+      "title": "Introducing Astra for Law",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "summaryEvidence": [
+        "https://openai.com/index/astra-for-law"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6c36a1cb88859998637df24a79c159de674f8f592f12ef7d4daf13a1272b2746",
+      "dedupeKey": "brief:opp_aebc354cd68b1dc8a0d4:sha256:6c36a1cb88859998637df24a79c159de674f8f592f12ef7d4daf13a1272b2746",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_24cf150a012a9b4248a9": {
+      "id": "opp_24cf150a012a9b4248a9",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/life-sciences-verification-program",
+      "canonicalUrl": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/life-sciences-verification-program"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6cf86fb9055c40c43ca9144019225247f9c5528a58aedb012c0f61d4659591af",
+      "dedupeKey": "brief:opp_24cf150a012a9b4248a9:sha256:6cf86fb9055c40c43ca9144019225247f9c5528a58aedb012c0f61d4659591af",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a69894c17c7fe01451b8": {
+      "id": "opp_a69894c17c7fe01451b8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:odZzme-t3aY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=odZzme-t3aY",
+      "title": "[한영자막] 레거시 코드란 무엇이며, AI는 어떻게 낡은 시스템을 바꿀까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T22:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "수십 년 된 레거시 코드는 금융, 의료, 물류 등 전 세계 핵심 인프라를 지탱하고 있지만, 유지보수와 현대화는 개발팀에게 가장 큰 난제입니다. IBM의 AI 엔지니어 안나 구토프스카(Anna Gutowska)가 레거시 코드의 실체와 현대화가 어려운 이유, 그리고 생성형 AI와 에이전트 시스템을 활용해 안전하게 레거시 시스템을 혁신하는 방법을 명쾌하게 정리해 드립니다. 📌 주요 내용: - 레거시 코드의 정의와 IT 인프라의 숨은 위험 - 베테랑 엔지니어 은퇴와 기술 격차, 개발자 생산성 저하 문제",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=odZzme-t3aY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-17T22:00:25.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa2f0baa4e120b77d8ab0cc0e5d4949e7b9d90616e1724a0833e2b5185672bbb",
+      "dedupeKey": "brief:opp_a69894c17c7fe01451b8:sha256:fa2f0baa4e120b77d8ab0cc0e5d4949e7b9d90616e1724a0833e2b5185672bbb",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7643a340f2ddc749fbed": {
+      "id": "opp_7643a340f2ddc749fbed",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:2Gu21Y4hgd8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2Gu21Y4hgd8",
+      "title": "Union Alpha Is INSANE",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T20:03:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io There is a new stealth AI model competing with the big boys, and its name is Union Alpha. In this video",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2Gu21Y4hgd8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-17T20:03:02.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:314c84b3fa98ea32019ef4dfe2a05d4f22a8ec0873f2bc02f83e52e200c77b2e",
+      "dedupeKey": "brief:opp_7643a340f2ddc749fbed:sha256:314c84b3fa98ea32019ef4dfe2a05d4f22a8ec0873f2bc02f83e52e200c77b2e",
+      "firstSeenAt": "2026-09-18T00:06:23.921Z",
+      "lastSeenAt": "2026-09-18T00:06:23.921Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -58678,6 +58930,42 @@
       "opportunityId": "opp_ef4eec73d89e733fe600",
       "sentAt": "2026-09-17T14:05:02.951Z",
       "messageId": "1550145566770728981"
+    },
+    "brief:opp_7da9706cba996d782f80:sha256:9715081005b23020572a8978e03de4c031c1e7c77113be3e4e6714bc19525ba7": {
+      "status": "SENT",
+      "opportunityId": "opp_7da9706cba996d782f80",
+      "sentAt": "2026-09-18T00:06:23.921Z",
+      "messageId": "1550296901436444753"
+    },
+    "brief:opp_7643a340f2ddc749fbed:sha256:314c84b3fa98ea32019ef4dfe2a05d4f22a8ec0873f2bc02f83e52e200c77b2e": {
+      "status": "SENT",
+      "opportunityId": "opp_7643a340f2ddc749fbed",
+      "sentAt": "2026-09-18T00:06:23.921Z",
+      "messageId": "1550296901436444753"
+    },
+    "brief:opp_aebc354cd68b1dc8a0d4:sha256:6c36a1cb88859998637df24a79c159de674f8f592f12ef7d4daf13a1272b2746": {
+      "status": "SENT",
+      "opportunityId": "opp_aebc354cd68b1dc8a0d4",
+      "sentAt": "2026-09-18T00:06:23.921Z",
+      "messageId": "1550296901436444753"
+    },
+    "brief:opp_24cf150a012a9b4248a9:sha256:6cf86fb9055c40c43ca9144019225247f9c5528a58aedb012c0f61d4659591af": {
+      "status": "SENT",
+      "opportunityId": "opp_24cf150a012a9b4248a9",
+      "sentAt": "2026-09-18T00:06:23.921Z",
+      "messageId": "1550296901436444753"
+    },
+    "brief:opp_a69894c17c7fe01451b8:sha256:fa2f0baa4e120b77d8ab0cc0e5d4949e7b9d90616e1724a0833e2b5185672bbb": {
+      "status": "SENT",
+      "opportunityId": "opp_a69894c17c7fe01451b8",
+      "sentAt": "2026-09-18T00:06:23.921Z",
+      "messageId": "1550296901436444753"
+    },
+    "brief:opp_030b7143af153b0d54ee:sha256:70b9908d710c325048c4d7096949c450e494a9b4586cdde1de264375644d03e5": {
+      "status": "SENT",
+      "opportunityId": "opp_030b7143af153b0d54ee",
+      "sentAt": "2026-09-18T00:06:23.921Z",
+      "messageId": "1550296901436444753"
     }
   },
   "pending": {},
