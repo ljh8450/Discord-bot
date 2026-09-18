@@ -53244,8 +53244,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
+        "communityPoints": 8,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -53259,8 +53259,8 @@
       },
       "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
       "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
-      "firstSeenAt": "2026-09-18T03:40:49.804Z",
-      "lastSeenAt": "2026-09-18T03:40:49.804Z",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -53311,6 +53311,501 @@
       "dedupeKey": "brief:opp_097f2eef624f6958bcd7:sha256:bdaa68f9255bae9786565ffa9fcb1fce4292714dcbf4f297e21b8f0ab94b2dfe",
       "firstSeenAt": "2026-09-18T03:40:49.804Z",
       "lastSeenAt": "2026-09-18T03:40:49.804Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_edd03deea30a5d4b7ad1": {
+      "id": "opp_edd03deea30a5d4b7ad1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33853",
+      "canonicalUrl": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "title": "마틴 파울러: 나는 LLM이 마음에 들지 않는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T04:52:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM의 생산성 향상 가능성과 유용성을 인정하지만, 직접 대화할 때는 기대나 두려움보다 거부감이 앞섬 유용한 답과 지어낸 내용을 똑같이 확신에 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33853"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:58d10ff8bc47e685d37c5d46f54d3d35fcc9058119996c5a1e1cad4586720f5f",
+      "dedupeKey": "brief:opp_edd03deea30a5d4b7ad1:sha256:58d10ff8bc47e685d37c5d46f54d3d35fcc9058119996c5a1e1cad4586720f5f",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6b40e7606c15217a62fc": {
+      "id": "opp_6b40e7606c15217a62fc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33869",
+      "canonicalUrl": "https://prismml.com/news/bonsai-2-27b",
+      "title": "Bonsai 2 27B, 성능 98.2%를 유지하며 모델 크기를 5.9GB로 압축",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T09:42:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "PrismML이 Qwen3.8 27B 기반의 3진 가중치 모델을 공개함. 전체 정밀도 모델보다 크기를 9배 이상 줄였으며, 종합 벤치마크 성능 98.2% 를 유지 가...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33869"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:017b293a4e9a621aaba5c123fdecb3254e575247483bb72d34f53551f20eedc1",
+      "dedupeKey": "brief:opp_6b40e7606c15217a62fc:sha256:017b293a4e9a621aaba5c123fdecb3254e575247483bb72d34f53551f20eedc1",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_84495e3c84b6e8ec49b2": {
+      "id": "opp_84495e3c84b6e8ec49b2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33854",
+      "canonicalUrl": "https://github.com/vinnylarouge/jevlike",
+      "title": "Jevlike - 문장 대신 선택지별 확률을 반환하는 Jev 방식의 오픈소스 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T04:52:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "TypeSafe의 Jev처럼 문장 대신 선택지별 확률을 반환하는 모델을 직접 학습하고 실험할 수 있도록 만든 오픈소스 프로젝트 문맥과 매번 달라질 수 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33854"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:45b07cf7e923c72aca6b3493d002da90f4981cc2bbe1c4a51692c6fb87868ad7",
+      "dedupeKey": "brief:opp_84495e3c84b6e8ec49b2:sha256:45b07cf7e923c72aca6b3493d002da90f4981cc2bbe1c4a51692c6fb87868ad7",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_89129769d4fa7a98b33b": {
+      "id": "opp_89129769d4fa7a98b33b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33842",
+      "canonicalUrl": "https://harnesstax.github.io/",
+      "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T22:52:14+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "7개 모델을 Claude Code, Codex CLI, Pi에 연결해 비교한 결과, 같은 모델이 비슷한 작업 성공률을 내면서도 토큰 비용은 최대 5배 차이가 났음 읽...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33842"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5c2861dbe53cf99dcc90aa203a939d444bf947376a75e2bde78950e1c3467ab4",
+      "dedupeKey": "brief:opp_89129769d4fa7a98b33b:sha256:5c2861dbe53cf99dcc90aa203a939d444bf947376a75e2bde78950e1c3467ab4",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_54c3233ab72e33263337": {
+      "id": "opp_54c3233ab72e33263337",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33868",
+      "canonicalUrl": "https://github.com/1jehuang/jcode",
+      "title": "jcode - 수십 개 세션을 병렬로 실행하는 터미널 코딩 에이전트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "한 작업이 끝나기를 기다리는 대신 여러 에이전트에 일을 동시에 맡길 수 있도록, 메모리 사용량과 시작 시간을 줄인 Rust 기반 코딩 에이전트 추...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33868"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed",
+      "dedupeKey": "brief:opp_54c3233ab72e33263337:sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b3726d1a44a6e4cc5b46": {
+      "id": "opp_b3726d1a44a6e4cc5b46",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33827",
+      "canonicalUrl": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "title": "백업은 단순하지 않다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T15:42:12+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "파일을 다른 곳에 복사하는 것으로 시작한 백업은, 실수와 랜섬웨어에 대비해 과거 상태를 보존하는 일까지 필요해짐. RAID 1처럼 현재 상태를 복...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33827"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4da3c09f507d5508b06e1c8561ae187a859bc5ef34865556c4c6329b3ee406bb",
+      "dedupeKey": "brief:opp_b3726d1a44a6e4cc5b46:sha256:4da3c09f507d5508b06e1c8561ae187a859bc5ef34865556c4c6329b3ee406bb",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0cefcb5383f17da96398": {
+      "id": "opp_0cefcb5383f17da96398",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/836",
+      "canonicalUrl": "https://tech.kakao.com/posts/836",
+      "title": "if(kakao)26에서 네트워킹하는 법",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "흥미로운 발표를 듣다 보면, 더 자세히 묻고 싶은 점이 생길 때가 있습니다. “우리 팀에도 적용할 수 있을까?”, “저 방법 말고 다른 선택지도 고민하셨을까?” 와 같은 질문들이죠. 생각해보면, 우리가 컨퍼런스에 모이는 이유도 여기에 있는 것 같습니다. 같은 공간에서 발표를 듣고, 비슷한 고민을 하는 사람을 만나고, 서로의 경험을 나누는 것. 잘 정리된 발표에서 배움을 얻기도 하지만, 그 뒤에 이어진 대화 한마디에서 뜻밖의 실마리를 찾기도 하니까요. 사...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/836"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5e3f502576ab3cc6cecb6809b0df74be49ecbbcad89015b3d33b50b5ff62b523",
+      "dedupeKey": "brief:opp_0cefcb5383f17da96398:sha256:5e3f502576ab3cc6cecb6809b0df74be49ecbbcad89015b3d33b50b5ff62b523",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e11a377559becbef6fe4": {
+      "id": "opp_e11a377559becbef6fe4",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/lockbank",
+      "canonicalUrl": "https://toss.tech/article/lockbank",
+      "title": "사용자를 위해 일부러 어렵게 만드는 경험, 어디까지 괜찮을까?",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 18 Sep 2026 03:41:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "10대를 위한 잠금 저금통을 만들며 찾은 ‘좋은 불편함’의 기준을 공유합니다.",
+      "summaryEvidence": [
+        "https://toss.tech/article/lockbank"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:07787df7b61c665682e388072afd14cede72eda20d0530ed18ea0a6f430ea9b6",
+      "dedupeKey": "brief:opp_e11a377559becbef6fe4:sha256:07787df7b61c665682e388072afd14cede72eda20d0530ed18ea0a6f430ea9b6",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_40b18e2e134b560d85fb": {
+      "id": "opp_40b18e2e134b560d85fb",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=27604",
+      "canonicalUrl": "https://techblog.woowahan.com/27604",
+      "title": "배달의민족 전자계약서 화면 개편기: AI에게 맡긴 것과 사람이 챙긴 것",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T06:10:50.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며 전자계약서는 파트너(사장님)가 배달의민족을 처음 시작할 때 작성하는 전자문서입니다. 영업 담당자가 파트너와 함께 작성하고, 계약 내용을 바꿀 때도 같은 문서를 씁니다. 이 문서를 쓰는 작성 화면은 사업자 정보, 가게 정보, 광고 정보 같은 섹션이 모여 계약서 한 장을 이루는 큰 폼입니다. 2026년 4월부터 6월까지 이 작성 화면을 개편했습니다. 작성자가 계약서를 더 편하게 쓸 수 있게 […] The post 배달의민족 전자계약서 화면 개편기: AI에게 맡긴 것과 사람이 챙긴 것 firs",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/27604/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7bad7babab0acdd8a06c1291fefed9b4da268e9a0200d50fd391675a28a67aed",
+      "dedupeKey": "brief:opp_40b18e2e134b560d85fb:sha256:7bad7babab0acdd8a06c1291fefed9b4da268e9a0200d50fd391675a28a67aed",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ae875e92865ce1b9de96": {
+      "id": "opp_ae875e92865ce1b9de96",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:znw2ootoMzg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=znw2ootoMzg",
+      "title": "After Effects를 한 번도 안 만졌습니다 — GPT-6 Astra와 Higgsfield가 만든 30초 광고, 레이어 158개",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T04:20:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ Higgsfield AI Motion Designer 써보기: https://higgsfield.ai/s/ai-motion-designer-ai-agentos-lLRTLD After Effects에서 제일 오래 걸리는 건 아이디어가 아니라 반복 작업이죠. 레이어를 수십 개 만들고, 키프레임을 하나씩 찍고, 표현식을 레이어마다 복사해 붙이고요. Higgsfield AI Motion Designer는 그 반복을 ChatGPT 채팅창으로 옮깁니다. 요청을 한 문단 보내면 GPT-6 Astra가 Af",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=znw2ootoMzg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-18T04:20:16.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fdb4464b8f05c6f5c88073d236ffc56d1093dbc8a095ccfbb8c17933c818c0a5",
+      "dedupeKey": "brief:opp_ae875e92865ce1b9de96:sha256:fdb4464b8f05c6f5c88073d236ffc56d1093dbc8a095ccfbb8c17933c818c0a5",
+      "firstSeenAt": "2026-09-18T09:05:41.783Z",
+      "lastSeenAt": "2026-09-18T09:05:41.783Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -59132,6 +59627,42 @@
       "opportunityId": "opp_a63b68a76830058f9fb6",
       "sentAt": "2026-09-18T03:40:49.804Z",
       "messageId": "1550350864726761534"
+    },
+    "brief:opp_40b18e2e134b560d85fb:sha256:7bad7babab0acdd8a06c1291fefed9b4da268e9a0200d50fd391675a28a67aed": {
+      "status": "SENT",
+      "opportunityId": "opp_40b18e2e134b560d85fb",
+      "sentAt": "2026-09-18T09:05:41.783Z",
+      "messageId": "1550432618670202892"
+    },
+    "brief:opp_ae875e92865ce1b9de96:sha256:fdb4464b8f05c6f5c88073d236ffc56d1093dbc8a095ccfbb8c17933c818c0a5": {
+      "status": "SENT",
+      "opportunityId": "opp_ae875e92865ce1b9de96",
+      "sentAt": "2026-09-18T09:05:41.783Z",
+      "messageId": "1550432618670202892"
+    },
+    "brief:opp_e11a377559becbef6fe4:sha256:07787df7b61c665682e388072afd14cede72eda20d0530ed18ea0a6f430ea9b6": {
+      "status": "SENT",
+      "opportunityId": "opp_e11a377559becbef6fe4",
+      "sentAt": "2026-09-18T09:05:41.783Z",
+      "messageId": "1550432618670202892"
+    },
+    "brief:opp_0cefcb5383f17da96398:sha256:5e3f502576ab3cc6cecb6809b0df74be49ecbbcad89015b3d33b50b5ff62b523": {
+      "status": "SENT",
+      "opportunityId": "opp_0cefcb5383f17da96398",
+      "sentAt": "2026-09-18T09:05:41.783Z",
+      "messageId": "1550432618670202892"
+    },
+    "brief:opp_84495e3c84b6e8ec49b2:sha256:45b07cf7e923c72aca6b3493d002da90f4981cc2bbe1c4a51692c6fb87868ad7": {
+      "status": "SENT",
+      "opportunityId": "opp_84495e3c84b6e8ec49b2",
+      "sentAt": "2026-09-18T09:05:41.783Z",
+      "messageId": "1550432618670202892"
+    },
+    "brief:opp_6b40e7606c15217a62fc:sha256:017b293a4e9a621aaba5c123fdecb3254e575247483bb72d34f53551f20eedc1": {
+      "status": "SENT",
+      "opportunityId": "opp_6b40e7606c15217a62fc",
+      "sentAt": "2026-09-18T09:05:41.783Z",
+      "messageId": "1550432618670202892"
     }
   },
   "pending": {},
