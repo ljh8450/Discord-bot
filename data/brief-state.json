@@ -52383,26 +52383,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 19,
-        "communityRank": 2,
-        "contentScore": 11,
+        "communityPoints": 22,
+        "communityRank": 9,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9",
       "dedupeKey": "brief:opp_514ec04683fada432dab:sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9",
-      "firstSeenAt": "2026-09-18T00:06:23.921Z",
-      "lastSeenAt": "2026-09-18T00:06:23.921Z",
+      "firstSeenAt": "2026-09-18T03:40:49.804Z",
+      "lastSeenAt": "2026-09-18T03:40:49.804Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -53163,6 +53163,154 @@
       "dedupeKey": "brief:opp_7643a340f2ddc749fbed:sha256:314c84b3fa98ea32019ef4dfe2a05d4f22a8ec0873f2bc02f83e52e200c77b2e",
       "firstSeenAt": "2026-09-18T00:06:23.921Z",
       "lastSeenAt": "2026-09-18T00:06:23.921Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a63b68a76830058f9fb6": {
+      "id": "opp_a63b68a76830058f9fb6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33862",
+      "canonicalUrl": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "title": "모두가 제정신을 잃었다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T07:02:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 대응이 하루 업무의 75% 이상을 차지하면서 일의 즐거움까지 잃은 경험에서 출발해, 윤리와 실제 효과를 따지지 않는 조직의 AI 도입 열풍을 비...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33862"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7cebf5128ac5c49f7dd466f696fb48783f674932f6d6215908f46035ab247b92",
+      "dedupeKey": "brief:opp_a63b68a76830058f9fb6:sha256:7cebf5128ac5c49f7dd466f696fb48783f674932f6d6215908f46035ab247b92",
+      "firstSeenAt": "2026-09-18T03:40:49.804Z",
+      "lastSeenAt": "2026-09-18T03:40:49.804Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ec355049afc3dab56f59": {
+      "id": "opp_ec355049afc3dab56f59",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33841",
+      "canonicalUrl": "https://openspec.dev/",
+      "title": "OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-17T22:42:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "대화 기록에만 남아 있던 요구사항을 명세와 구현 계획으로 정리하고, 사람이 검토한 뒤 AI가 코드를 작성하도록 돕는 도구 변경 작업마다 제안서,...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33841"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
+      "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
+      "firstSeenAt": "2026-09-18T03:40:49.804Z",
+      "lastSeenAt": "2026-09-18T03:40:49.804Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_097f2eef624f6958bcd7": {
+      "id": "opp_097f2eef624f6958bcd7",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
+      "title": "LLM에게 어디까지 맡길 것인가: AI 에이전트 기반 광고 분석 리포트 자동화",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 18 Sep 2026 01:50:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며안녕하세요. LINE Ads에서 데이터 분석 플랫폼을 개발하고 있는 이종우, 이운열입니다.광고 매출은 상품, 광고주, 캠페인 집행 변화에 따라 매일 움직입니다. 광고 KPI...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bdaa68f9255bae9786565ffa9fcb1fce4292714dcbf4f297e21b8f0ab94b2dfe",
+      "dedupeKey": "brief:opp_097f2eef624f6958bcd7:sha256:bdaa68f9255bae9786565ffa9fcb1fce4292714dcbf4f297e21b8f0ab94b2dfe",
+      "firstSeenAt": "2026-09-18T03:40:49.804Z",
+      "lastSeenAt": "2026-09-18T03:40:49.804Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -58966,6 +59114,24 @@
       "opportunityId": "opp_030b7143af153b0d54ee",
       "sentAt": "2026-09-18T00:06:23.921Z",
       "messageId": "1550296901436444753"
+    },
+    "brief:opp_097f2eef624f6958bcd7:sha256:bdaa68f9255bae9786565ffa9fcb1fce4292714dcbf4f297e21b8f0ab94b2dfe": {
+      "status": "SENT",
+      "opportunityId": "opp_097f2eef624f6958bcd7",
+      "sentAt": "2026-09-18T03:40:49.804Z",
+      "messageId": "1550350864726761534"
+    },
+    "brief:opp_514ec04683fada432dab:sha256:c1df103f6178ad2da4d2bf951e8f825a5663a07983063509fe64f6c78f20a4f9": {
+      "status": "SENT",
+      "opportunityId": "opp_514ec04683fada432dab",
+      "sentAt": "2026-09-18T03:40:49.804Z",
+      "messageId": "1550350864726761534"
+    },
+    "brief:opp_a63b68a76830058f9fb6:sha256:7cebf5128ac5c49f7dd466f696fb48783f674932f6d6215908f46035ab247b92": {
+      "status": "SENT",
+      "opportunityId": "opp_a63b68a76830058f9fb6",
+      "sentAt": "2026-09-18T03:40:49.804Z",
+      "messageId": "1550350864726761534"
     }
   },
   "pending": {},
