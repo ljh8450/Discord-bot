@@ -53259,8 +53259,8 @@
       },
       "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
       "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
-      "firstSeenAt": "2026-09-19T09:05:47.384Z",
-      "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "firstSeenAt": "2026-09-19T12:51:33.649Z",
+      "lastSeenAt": "2026-09-19T12:51:33.649Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -54240,26 +54240,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 12,
         "communityRank": 1,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:6f7712ac98e4e9b81d242d9b2f3ab4d90133ebbe077a7b46d456db14efbf8cd9",
       "dedupeKey": "brief:opp_8bc37e23c7542d5b176b:sha256:6f7712ac98e4e9b81d242d9b2f3ab4d90133ebbe077a7b46d456db14efbf8cd9",
-      "firstSeenAt": "2026-09-19T09:05:47.384Z",
-      "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "firstSeenAt": "2026-09-19T12:51:33.649Z",
+      "lastSeenAt": "2026-09-19T12:51:33.649Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -54456,6 +54456,157 @@
       "dedupeKey": "brief:opp_ab0a959810ac9546e911:sha256:00beb0aa9a65a67437c02e9f2fec7e0b666e832ab4f8584652dbaaea3504a3b2",
       "firstSeenAt": "2026-09-19T09:05:47.384Z",
       "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0470140ace4efc9fae48": {
+      "id": "opp_0470140ace4efc9fae48",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33909",
+      "canonicalUrl": "https://danluu.com/brain-off",
+      "title": "생각을 멈춰도 되는 때는 오지 않는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T05:52:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM의 결과를 확인하지 않고 받아들이거나, 문제가 생길 때마다 다시 해결해 달라고 요청하는 것만으로는 모델이 발전해도 자신의 일자리와 가치를...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33909"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a7f7ddb29a82c9530f449d297c80f73b9ff7939da9359a5c7b34a122ea5f3978",
+      "dedupeKey": "brief:opp_0470140ace4efc9fae48:sha256:a7f7ddb29a82c9530f449d297c80f73b9ff7939da9359a5c7b34a122ea5f3978",
+      "firstSeenAt": "2026-09-19T12:51:33.649Z",
+      "lastSeenAt": "2026-09-19T12:51:33.649Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9529687d28bd069133b2": {
+      "id": "opp_9529687d28bd069133b2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33904",
+      "canonicalUrl": "https://try.cloudflare.com/",
+      "title": "Cloudflare Quick Tunnels - 계정 없이 로컬 서버를 인터넷에 공유하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T02:42:18+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "개발 중인 웹사이트나 API를 별도 서버에 배포하지 않고 외부에서 접속할 수 있는 임시 HTTPS 주소로 공유하는 무료 서비스 cloudflared tunnel --...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33904"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ed56b113df74abbbf29560932dcbbaac8f53e646ee6113de0c3c321d68f6a6e9",
+      "dedupeKey": "brief:opp_9529687d28bd069133b2:sha256:ed56b113df74abbbf29560932dcbbaac8f53e646ee6113de0c3c321d68f6a6e9",
+      "firstSeenAt": "2026-09-19T12:51:33.649Z",
+      "lastSeenAt": "2026-09-19T12:51:33.649Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_02ea95a7384c6f28c48d": {
+      "id": "opp_02ea95a7384c6f28c48d",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:Imf1RaZ9M5k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Imf1RaZ9M5k",
+      "title": "9,900원 박리다매의 함정, a16z 파트너가 말하는 당장 ‘월 130만원 플랜’을 만들어야 하는 이유",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T10:21:42+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 기술로 누구나 쉽게 제품을 만드는 시대, 그럼에도 대중성을 버리고 월 1,000달러(약130만 원)을 낼 극소수에 집중해야 한다고 말하는 실리콘밸리 투자자가 있습니다. 그는 세계 톱티어 벤처캐피탈 a16z(안데르센 호로위츠)의 파트너, 어니쉬 아차리야인데요. EO Global팀에서 어니쉬의 인사이트를 통해 AI 시대, 스타트업의 유일한 생존 공식을 담아보았습니다 🌏 모두가 대중 시장을 좇을 때, 왜 오히려 좁고 깊은 시장을 장악해야 하는지, 올바른 방법은 무엇일지, 영상을 통해 확인해보세요",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Imf1RaZ9M5k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-19T10:21:42.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8144231e15c3d8a15419bb915422f63874696d8f996c6b47e8356e942d5ae926",
+      "dedupeKey": "brief:opp_02ea95a7384c6f28c48d:sha256:8144231e15c3d8a15419bb915422f63874696d8f996c6b47e8356e942d5ae926",
+      "firstSeenAt": "2026-09-19T12:51:33.649Z",
+      "lastSeenAt": "2026-09-19T12:51:33.649Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -60403,6 +60554,24 @@
       "opportunityId": "opp_2bd1a8b2f503c40794d4",
       "sentAt": "2026-09-19T09:05:47.384Z",
       "messageId": "1550795030652915743"
+    },
+    "brief:opp_0470140ace4efc9fae48:sha256:a7f7ddb29a82c9530f449d297c80f73b9ff7939da9359a5c7b34a122ea5f3978": {
+      "status": "SENT",
+      "opportunityId": "opp_0470140ace4efc9fae48",
+      "sentAt": "2026-09-19T12:51:33.649Z",
+      "messageId": "1550851848297250857"
+    },
+    "brief:opp_8bc37e23c7542d5b176b:sha256:6f7712ac98e4e9b81d242d9b2f3ab4d90133ebbe077a7b46d456db14efbf8cd9": {
+      "status": "SENT",
+      "opportunityId": "opp_8bc37e23c7542d5b176b",
+      "sentAt": "2026-09-19T12:51:33.649Z",
+      "messageId": "1550851848297250857"
+    },
+    "brief:opp_02ea95a7384c6f28c48d:sha256:8144231e15c3d8a15419bb915422f63874696d8f996c6b47e8356e942d5ae926": {
+      "status": "SENT",
+      "opportunityId": "opp_02ea95a7384c6f28c48d",
+      "sentAt": "2026-09-19T12:51:33.649Z",
+      "messageId": "1550851848297250857"
     }
   },
   "pending": {},
