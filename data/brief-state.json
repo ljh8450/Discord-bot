@@ -53245,7 +53245,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 4,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -53259,8 +53259,8 @@
       },
       "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
       "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
-      "firstSeenAt": "2026-09-19T00:05:31.606Z",
-      "lastSeenAt": "2026-09-19T00:05:31.606Z",
+      "firstSeenAt": "2026-09-19T03:37:43.478Z",
+      "lastSeenAt": "2026-09-19T03:37:43.478Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -54110,6 +54110,104 @@
       "dedupeKey": "brief:opp_1d46638be0dd9d20af86:sha256:2d71ec15c1a423611406fe4d1bc7653fb8934f68c70fd4206ebe7a0eba5ca415",
       "firstSeenAt": "2026-09-19T00:05:31.606Z",
       "lastSeenAt": "2026-09-19T00:05:31.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b35361e428e0ed60e6a4": {
+      "id": "opp_b35361e428e0ed60e6a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33887",
+      "canonicalUrl": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+      "title": "LLM과 함께 글 쓰는 법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T18:42:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM은 대필 작가가 아니라 교정 편집자로 활용해야 함. 글은 직접 쓰고, 좋은 모델에 초안을 넘겨 결함을 찾게 하는 방식임 첫 번째 원칙은 LLM이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33887"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8b75677cff5f562bfc3c7319673358faf7b2e3142648293c6c47c2cf871f775f",
+      "dedupeKey": "brief:opp_b35361e428e0ed60e6a4:sha256:8b75677cff5f562bfc3c7319673358faf7b2e3142648293c6c47c2cf871f775f",
+      "firstSeenAt": "2026-09-19T03:37:43.478Z",
+      "lastSeenAt": "2026-09-19T03:37:43.478Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2cdba47a4e9d959f03f7": {
+      "id": "opp_2cdba47a4e9d959f03f7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33925",
+      "canonicalUrl": "https://x.com/trq212/status/2101009392611278961",
+      "title": "Claude Code, 이제 AGENTS.md도 지원",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T10:38:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code 2.1.277부터 프로젝트에 \"CLAUDE.md\"가 없으면 \"AGENTS.md\"를 프로젝트 지침으로 자동 사용 여러 코딩 에이전트가 공통으로 사용하는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33925"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:819bcb39b6f80a0b7f2fd8f267842b9da5251cc0d47e6a4f3708ae910cdd6ac8",
+      "dedupeKey": "brief:opp_2cdba47a4e9d959f03f7:sha256:819bcb39b6f80a0b7f2fd8f267842b9da5251cc0d47e6a4f3708ae910cdd6ac8",
+      "firstSeenAt": "2026-09-19T03:37:43.478Z",
+      "lastSeenAt": "2026-09-19T03:37:43.478Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -60021,6 +60119,18 @@
       "opportunityId": "opp_54c3233ab72e33263337",
       "sentAt": "2026-09-19T00:05:31.606Z",
       "messageId": "1550659069126377584"
+    },
+    "brief:opp_b35361e428e0ed60e6a4:sha256:8b75677cff5f562bfc3c7319673358faf7b2e3142648293c6c47c2cf871f775f": {
+      "status": "SENT",
+      "opportunityId": "opp_b35361e428e0ed60e6a4",
+      "sentAt": "2026-09-19T03:37:43.478Z",
+      "messageId": "1550712470254125067"
+    },
+    "brief:opp_2cdba47a4e9d959f03f7:sha256:819bcb39b6f80a0b7f2fd8f267842b9da5251cc0d47e6a4f3708ae910cdd6ac8": {
+      "status": "SENT",
+      "opportunityId": "opp_2cdba47a4e9d959f03f7",
+      "sentAt": "2026-09-19T03:37:43.478Z",
+      "messageId": "1550712470254125067"
     }
   },
   "pending": {},
