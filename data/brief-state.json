@@ -53244,23 +53244,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 11,
         "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
       "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
-      "firstSeenAt": "2026-09-18T13:22:40.727Z",
-      "lastSeenAt": "2026-09-18T13:22:40.727Z",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -53539,8 +53539,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 6,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -53554,11 +53554,11 @@
       },
       "contentHash": "sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed",
       "dedupeKey": "brief:opp_54c3233ab72e33263337:sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed",
-      "firstSeenAt": "2026-09-18T13:22:40.727Z",
-      "lastSeenAt": "2026-09-18T13:22:40.727Z",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -53588,8 +53588,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 8,
+        "communityPoints": 7,
+        "communityRank": 11,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -53603,8 +53603,8 @@
       },
       "contentHash": "sha256:4da3c09f507d5508b06e1c8561ae187a859bc5ef34865556c4c6329b3ee406bb",
       "dedupeKey": "brief:opp_b3726d1a44a6e4cc5b46:sha256:4da3c09f507d5508b06e1c8561ae187a859bc5ef34865556c4c6329b3ee406bb",
-      "firstSeenAt": "2026-09-18T13:22:40.727Z",
-      "lastSeenAt": "2026-09-18T13:22:40.727Z",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -53859,6 +53859,257 @@
       "dedupeKey": "brief:opp_ac7aafbb4ccba25adb1f:sha256:140b4d901757ff53a1f89686946b46b8b2086ddbc2af90a56bece3ac9bd7c6f7",
       "firstSeenAt": "2026-09-18T13:22:40.727Z",
       "lastSeenAt": "2026-09-18T13:22:40.727Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6f4d74d9c12ef06fcec7": {
+      "id": "opp_6f4d74d9c12ef06fcec7",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/hex-gpt-6-astra",
+      "canonicalUrl": "https://openai.com/index/hex-gpt-6-astra",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "summaryEvidence": [
+        "https://openai.com/index/hex-gpt-6-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 1,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cea353ecab16941eba56b3bf8a499f215305093da4b91b3abe16aebd39ebc8bd",
+      "dedupeKey": "brief:opp_6f4d74d9c12ef06fcec7:sha256:cea353ecab16941eba56b3bf8a499f215305093da4b91b3abe16aebd39ebc8bd",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_562f39c667b0d45b721a": {
+      "id": "opp_562f39c667b0d45b721a",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/accenture-embedded-evaluation",
+      "canonicalUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/accenture-embedded-evaluation"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2c5c37e8ad33ab7f189a2b8f2c7668547067fb6327d8dfce11c644c3a6d65f02",
+      "dedupeKey": "brief:opp_562f39c667b0d45b721a:sha256:2c5c37e8ad33ab7f189a2b8f2c7668547067fb6327d8dfce11c644c3a6d65f02",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bd83969d58f0be9e7674": {
+      "id": "opp_bd83969d58f0be9e7674",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98893",
+      "canonicalUrl": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3c2181fa4fd1a443aa6665145275fd75a68004609e7f876b57aa532f7a690092",
+      "dedupeKey": "brief:opp_bd83969d58f0be9e7674:sha256:3c2181fa4fd1a443aa6665145275fd75a68004609e7f876b57aa532f7a690092",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_11747ea36c8241bc3c4b": {
+      "id": "opp_11747ea36c8241bc3c4b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:scnU1ON5wBY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=scnU1ON5wBY",
+      "title": "[한영자막] Vercel은 어떻게 AI 에이전트 개발 문제를 해결했을까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T22:00:32.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Vercel의 소프트웨어 총괄 Andrew Qu가 사내 데이터 사이언스 에이전트를 구축하며 겪은 시행착오와, Claude Code에서 영감을 얻어 파일 시스템 기반의 에이전트 프레임워크 'Eve'를 탄생시킨 실전 개발 여정을 공유합니다. 단순 메가 프롬프트와 체인형 구조의 한계를 짚고, 왜 복잡한 전용 도구보다 파일 시스템과 사내 특화 지식이 실전 AI 에이전트의 성패를 가르는 핵심인지 명쾌하게 설명합니다. 주요 내용: - 사내 병목이었던 데이터 팀을 위한 에이전트 개발 3단계 진화 과정 - 내부",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=scnU1ON5wBY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-18T22:00:32.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:539e952474e2f70173bd9486ba04f72422124a327eb825eb202ae1ece6b06ae5",
+      "dedupeKey": "brief:opp_11747ea36c8241bc3c4b:sha256:539e952474e2f70173bd9486ba04f72422124a327eb825eb202ae1ece6b06ae5",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1d46638be0dd9d20af86": {
+      "id": "opp_1d46638be0dd9d20af86",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:-_-mMtzXxGk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-_-mMtzXxGk",
+      "title": "ChatGPT·Claude 월 20달러를 결제한 베스트셀러 작가가 한 달 반 만에 AI를 끊은 3가지 이유",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-18T23:01:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "『딥 워크』 저자 칼 뉴포트가 자기 팟캐스트에서 작가 브래드 스털버그와 나눈 대담을 따라갑니다. 뉴욕타임스 베스트셀러 작가인 브래드가 월 20달러를 결제하고 한 달 반 동안 AI를 써본 뒤 왜 그만뒀는지, 그가 정리한 세 가지 근거와 실제로 선을 긋는 기준이 무엇인지 정리했습니다. 중간중간 대담 클립이 한국어 자막과 함께 들어갑니다. 챕터 0:00 오프닝 — 『딥 워크』 저자가 꺼낸 AI 이야기 1:37 클립 — 월 20달러를 결제하고 한 달 반, 그리고 중단 3:54 근거 1 — 의미는 줄어든",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-_-mMtzXxGk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-18T23:01:06.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2d71ec15c1a423611406fe4d1bc7653fb8934f68c70fd4206ebe7a0eba5ca415",
+      "dedupeKey": "brief:opp_1d46638be0dd9d20af86:sha256:2d71ec15c1a423611406fe4d1bc7653fb8934f68c70fd4206ebe7a0eba5ca415",
+      "firstSeenAt": "2026-09-19T00:05:31.606Z",
+      "lastSeenAt": "2026-09-19T00:05:31.606Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -59734,6 +59985,42 @@
       "opportunityId": "opp_ac7aafbb4ccba25adb1f",
       "sentAt": "2026-09-18T13:22:40.727Z",
       "messageId": "1550497290614214709"
+    },
+    "brief:opp_bd83969d58f0be9e7674:sha256:3c2181fa4fd1a443aa6665145275fd75a68004609e7f876b57aa532f7a690092": {
+      "status": "SENT",
+      "opportunityId": "opp_bd83969d58f0be9e7674",
+      "sentAt": "2026-09-19T00:05:31.606Z",
+      "messageId": "1550659069126377584"
+    },
+    "brief:opp_1d46638be0dd9d20af86:sha256:2d71ec15c1a423611406fe4d1bc7653fb8934f68c70fd4206ebe7a0eba5ca415": {
+      "status": "SENT",
+      "opportunityId": "opp_1d46638be0dd9d20af86",
+      "sentAt": "2026-09-19T00:05:31.606Z",
+      "messageId": "1550659069126377584"
+    },
+    "brief:opp_562f39c667b0d45b721a:sha256:2c5c37e8ad33ab7f189a2b8f2c7668547067fb6327d8dfce11c644c3a6d65f02": {
+      "status": "SENT",
+      "opportunityId": "opp_562f39c667b0d45b721a",
+      "sentAt": "2026-09-19T00:05:31.606Z",
+      "messageId": "1550659069126377584"
+    },
+    "brief:opp_6f4d74d9c12ef06fcec7:sha256:cea353ecab16941eba56b3bf8a499f215305093da4b91b3abe16aebd39ebc8bd": {
+      "status": "SENT",
+      "opportunityId": "opp_6f4d74d9c12ef06fcec7",
+      "sentAt": "2026-09-19T00:05:31.606Z",
+      "messageId": "1550659069126377584"
+    },
+    "brief:opp_11747ea36c8241bc3c4b:sha256:539e952474e2f70173bd9486ba04f72422124a327eb825eb202ae1ece6b06ae5": {
+      "status": "SENT",
+      "opportunityId": "opp_11747ea36c8241bc3c4b",
+      "sentAt": "2026-09-19T00:05:31.606Z",
+      "messageId": "1550659069126377584"
+    },
+    "brief:opp_54c3233ab72e33263337:sha256:78a2589ad2a70fcd0fafb83a21cbff97893c8aabf9263ff85e6dc53bcaa67bed": {
+      "status": "SENT",
+      "opportunityId": "opp_54c3233ab72e33263337",
+      "sentAt": "2026-09-19T00:05:31.606Z",
+      "messageId": "1550659069126377584"
     }
   },
   "pending": {},
