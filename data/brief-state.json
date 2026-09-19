@@ -53244,8 +53244,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 17,
+        "communityPoints": 12,
+        "communityRank": 19,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -53259,8 +53259,8 @@
       },
       "contentHash": "sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
       "dedupeKey": "brief:opp_ec355049afc3dab56f59:sha256:20fda90266d518859a9fce8d5aca59afe92c73e035e426ab28b20b42edbdc6c2",
-      "firstSeenAt": "2026-09-19T03:37:43.478Z",
-      "lastSeenAt": "2026-09-19T03:37:43.478Z",
+      "firstSeenAt": "2026-09-19T09:05:47.384Z",
+      "lastSeenAt": "2026-09-19T09:05:47.384Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -54208,6 +54208,254 @@
       "dedupeKey": "brief:opp_2cdba47a4e9d959f03f7:sha256:819bcb39b6f80a0b7f2fd8f267842b9da5251cc0d47e6a4f3708ae910cdd6ac8",
       "firstSeenAt": "2026-09-19T03:37:43.478Z",
       "lastSeenAt": "2026-09-19T03:37:43.478Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8bc37e23c7542d5b176b": {
+      "id": "opp_8bc37e23c7542d5b176b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33905",
+      "canonicalUrl": "https://arxiv.org/abs/2609.20804",
+      "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T02:42:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩 에이전트의 계획 수립, 도구 구성, 컨텍스트 관리를 따로 바꿔 4개 모델과 2개 벤치마크에서 176개 설정을 비교했으며, 효과는 모델과 작업에...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33905"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6f7712ac98e4e9b81d242d9b2f3ab4d90133ebbe077a7b46d456db14efbf8cd9",
+      "dedupeKey": "brief:opp_8bc37e23c7542d5b176b:sha256:6f7712ac98e4e9b81d242d9b2f3ab4d90133ebbe077a7b46d456db14efbf8cd9",
+      "firstSeenAt": "2026-09-19T09:05:47.384Z",
+      "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2bd1a8b2f503c40794d4": {
+      "id": "opp_2bd1a8b2f503c40794d4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33915",
+      "canonicalUrl": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math",
+      "title": "Cloudflare, 수학과 Rust로 RAM 100TB 추가 절감",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T08:42:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "캐시 요청을 서버에 분배하는 Pingora Backend Router(PBR) 를 최적화해 전 세계에서 100TB 이상의 RAM 사용량을 줄임 서버별 부하를 고르게 나누...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33915"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c61be88656a018bfcb4b34a639b2335d0b5cc9e825f0332cccf87c244ea1975f",
+      "dedupeKey": "brief:opp_2bd1a8b2f503c40794d4:sha256:c61be88656a018bfcb4b34a639b2335d0b5cc9e825f0332cccf87c244ea1975f",
+      "firstSeenAt": "2026-09-19T09:05:47.384Z",
+      "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7c327a44f1ef9a136ac0": {
+      "id": "opp_7c327a44f1ef9a136ac0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33920",
+      "canonicalUrl": "https://github.com/BuilderIO/agent-native",
+      "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 앱과 AI 에이전트를 별개로 만들지 않고 하나의 애플리케이션 안에서 같은 기능과 데이터를 공유하게 하는 프레임워크 작업을 defineAction으...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33920"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0d2dd37b5b2cd513cc04b2f656047820da155c8e3d457f8e3f259ce1f7809678",
+      "dedupeKey": "brief:opp_7c327a44f1ef9a136ac0:sha256:0d2dd37b5b2cd513cc04b2f656047820da155c8e3d457f8e3f259ce1f7809678",
+      "firstSeenAt": "2026-09-19T09:05:47.384Z",
+      "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_72a881c98aac85551242": {
+      "id": "opp_72a881c98aac85551242",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/australian-youth-safety-blueprint",
+      "canonicalUrl": "https://openai.com/index/australian-youth-safety-blueprint",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 18 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "summaryEvidence": [
+        "https://openai.com/index/australian-youth-safety-blueprint"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9f26c020441f7f0b1e245969cd4454ea0593648ac3fcbcb9fc57835214f35fd3",
+      "dedupeKey": "brief:opp_72a881c98aac85551242:sha256:9f26c020441f7f0b1e245969cd4454ea0593648ac3fcbcb9fc57835214f35fd3",
+      "firstSeenAt": "2026-09-19T09:05:47.384Z",
+      "lastSeenAt": "2026-09-19T09:05:47.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ab0a959810ac9546e911": {
+      "id": "opp_ab0a959810ac9546e911",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:mXdTWLIXqfg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mXdTWLIXqfg",
+      "title": "[한영자막] GPT-4 공동 저자가 밝히는 RLHF를 버리고 'Jev'를 만든 진짜 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T09:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "GPT-4, ChatGPT, InstructGPT(RLHF) 논문의 공동 저자이자 사후 훈련(Post-training)의 선구자인 지오구 알메이다(Diogo Almeida)가 AI Engineer World's Fair에서 발표한 강연입니다. 오늘날 모든 LLM의 기반이 된 RLHF가 왜 '진정한 자동화'의 발목을 잡고 있는지, 그리고 왜 Claude Code나 단순 어시스턴트가 AI의 최종 목적지가 될 수 없는지 냉철하게 짚어봅니다. 인간의 비위를 맞추는 '보조(Assistance)'를 넘어 진",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mXdTWLIXqfg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-19T09:00:02.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:00beb0aa9a65a67437c02e9f2fec7e0b666e832ab4f8584652dbaaea3504a3b2",
+      "dedupeKey": "brief:opp_ab0a959810ac9546e911:sha256:00beb0aa9a65a67437c02e9f2fec7e0b666e832ab4f8584652dbaaea3504a3b2",
+      "firstSeenAt": "2026-09-19T09:05:47.384Z",
+      "lastSeenAt": "2026-09-19T09:05:47.384Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -60131,6 +60379,30 @@
       "opportunityId": "opp_2cdba47a4e9d959f03f7",
       "sentAt": "2026-09-19T03:37:43.478Z",
       "messageId": "1550712470254125067"
+    },
+    "brief:opp_ab0a959810ac9546e911:sha256:00beb0aa9a65a67437c02e9f2fec7e0b666e832ab4f8584652dbaaea3504a3b2": {
+      "status": "SENT",
+      "opportunityId": "opp_ab0a959810ac9546e911",
+      "sentAt": "2026-09-19T09:05:47.384Z",
+      "messageId": "1550795030652915743"
+    },
+    "brief:opp_7c327a44f1ef9a136ac0:sha256:0d2dd37b5b2cd513cc04b2f656047820da155c8e3d457f8e3f259ce1f7809678": {
+      "status": "SENT",
+      "opportunityId": "opp_7c327a44f1ef9a136ac0",
+      "sentAt": "2026-09-19T09:05:47.384Z",
+      "messageId": "1550795030652915743"
+    },
+    "brief:opp_72a881c98aac85551242:sha256:9f26c020441f7f0b1e245969cd4454ea0593648ac3fcbcb9fc57835214f35fd3": {
+      "status": "SENT",
+      "opportunityId": "opp_72a881c98aac85551242",
+      "sentAt": "2026-09-19T09:05:47.384Z",
+      "messageId": "1550795030652915743"
+    },
+    "brief:opp_2bd1a8b2f503c40794d4:sha256:c61be88656a018bfcb4b34a639b2335d0b5cc9e825f0332cccf87c244ea1975f": {
+      "status": "SENT",
+      "opportunityId": "opp_2bd1a8b2f503c40794d4",
+      "sentAt": "2026-09-19T09:05:47.384Z",
+      "messageId": "1550795030652915743"
     }
   },
   "pending": {},
