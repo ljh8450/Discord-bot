@@ -54967,6 +54967,157 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_5fa43f3389de8b055091": {
+      "id": "opp_5fa43f3389de8b055091",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33975",
+      "canonicalUrl": "https://www.seangoedecke.com/jev-means-structured-output-is-interesting-again",
+      "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T12:32:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 긴 답변 대신 프로그램의 의사결정 지점마다 빠르고 저렴한 판단을 제공하면, 정교한 챗봇을 넘어 새로운 종류의 응용을 만들 수 있음 Jev는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33975"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ac4030d7afce9a5dd71dcade81fbcbcd56257f4f303a3aa5361e5e35f8a72521",
+      "dedupeKey": "brief:opp_5fa43f3389de8b055091:sha256:ac4030d7afce9a5dd71dcade81fbcbcd56257f4f303a3aa5361e5e35f8a72521",
+      "firstSeenAt": "2026-09-20T13:26:21.231Z",
+      "lastSeenAt": "2026-09-20T13:26:21.231Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4971db2b93b6eb275cbc": {
+      "id": "opp_4971db2b93b6eb275cbc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33944",
+      "canonicalUrl": "https://laya.convaiinnovations.com/",
+      "title": "Laya - 직접 실행하고 학습할 수 있는 Jev의 오픈소스 대안",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T22:52:21+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "텍스트를 생성하는 대신 선택지별 확률, 점수, 참일 확률을 반환하는 비자기회귀형 의사결정 모델군으로, 하나의 입력에 대한 여러 질문을 한 번의...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33944"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8cf5d44713dbfe7bde89950621f6c01ab47ea49d3bec025cee836e8c0ed8e339",
+      "dedupeKey": "brief:opp_4971db2b93b6eb275cbc:sha256:8cf5d44713dbfe7bde89950621f6c01ab47ea49d3bec025cee836e8c0ed8e339",
+      "firstSeenAt": "2026-09-20T13:26:21.231Z",
+      "lastSeenAt": "2026-09-20T13:26:21.231Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_32f98d330fc5a1c2f2ed": {
+      "id": "opp_32f98d330fc5a1c2f2ed",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:uRE_cAq--Lo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=uRE_cAq--Lo",
+      "title": "[한영자막] AI에게 지식 업무를 맡기려면 '코딩 에이전트'가 아닌 '지식 에이전트'로 설계해야 합니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T09:00:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "왜 코딩 에이전트는 잘 작동하는데, 법률이나 금융 같은 복잡한 지식 업무를 맡기면 AI가 헤맬까요? 검색 기술 스타트업 Mixedbread의 벤자민 클라비에(Benjamin Clavié)가 코딩 에이전트와 지식 에이전트의 근본적인 차이점과 인간의 지식 분업 역사에서 배운 에이전트 아키텍처 해법을 명쾌하게 제시합니다. 📌 주요 내용: • 코드는 식별자와 파일 경로 등 명확한 단서(grep 가능)가 있지만, 일반 지식은 맥락과 의미가 암묵적입니다. • 도구 최적화(단순 BM25 대비 멀티모달 검색)",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=uRE_cAq--Lo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-20T09:00:16.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f65ec20177a6e44f72aa000537f133ead35772ca988c84ba36eaf1369ebca165",
+      "dedupeKey": "brief:opp_32f98d330fc5a1c2f2ed:sha256:f65ec20177a6e44f72aa000537f133ead35772ca988c84ba36eaf1369ebca165",
+      "firstSeenAt": "2026-09-20T13:26:21.231Z",
+      "lastSeenAt": "2026-09-20T13:26:21.231Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -60975,6 +61126,24 @@
       "opportunityId": "opp_cbbde88f0f7450734c8f",
       "sentAt": "2026-09-20T09:06:07.796Z",
       "messageId": "1551157504090841190"
+    },
+    "brief:opp_4971db2b93b6eb275cbc:sha256:8cf5d44713dbfe7bde89950621f6c01ab47ea49d3bec025cee836e8c0ed8e339": {
+      "status": "SENT",
+      "opportunityId": "opp_4971db2b93b6eb275cbc",
+      "sentAt": "2026-09-20T13:26:21.231Z",
+      "messageId": "1551222991952543786"
+    },
+    "brief:opp_32f98d330fc5a1c2f2ed:sha256:f65ec20177a6e44f72aa000537f133ead35772ca988c84ba36eaf1369ebca165": {
+      "status": "SENT",
+      "opportunityId": "opp_32f98d330fc5a1c2f2ed",
+      "sentAt": "2026-09-20T13:26:21.231Z",
+      "messageId": "1551222991952543786"
+    },
+    "brief:opp_5fa43f3389de8b055091:sha256:ac4030d7afce9a5dd71dcade81fbcbcd56257f4f303a3aa5361e5e35f8a72521": {
+      "status": "SENT",
+      "opportunityId": "opp_5fa43f3389de8b055091",
+      "sentAt": "2026-09-20T13:26:21.231Z",
+      "messageId": "1551222991952543786"
     }
   },
   "pending": {},
