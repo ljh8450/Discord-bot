@@ -54714,6 +54714,259 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_b20031d497ed09e85da9": {
+      "id": "opp_b20031d497ed09e85da9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33959",
+      "canonicalUrl": "https://github.com/browserbase/stagehand",
+      "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T07:52:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에이전트가 웹사이트를 조작하고 데이터를 추출하는 오픈소스 SDK로, Playwright와 비슷한 코드에 자연어 명령을 함께 사용할 수 있음 브라우저...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33959"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f16094e4fc4ced1cb980501d2374c883e3e36836bb4aaf40a14a336a7485bea1",
+      "dedupeKey": "brief:opp_b20031d497ed09e85da9:sha256:f16094e4fc4ced1cb980501d2374c883e3e36836bb4aaf40a14a336a7485bea1",
+      "firstSeenAt": "2026-09-20T09:06:07.796Z",
+      "lastSeenAt": "2026-09-20T09:06:07.796Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cbbde88f0f7450734c8f": {
+      "id": "opp_cbbde88f0f7450734c8f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33950",
+      "canonicalUrl": "https://liamnugent.me/posts/what-you-dont-build",
+      "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T02:52:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "앱에 문서 목록과 알림 하나를 넣으려던 일이 요구사항을 더하다 보면 Google Drive와 Gmail을 어설프게 다시 만드는 작업으로 커질 수 있음 기능...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33950"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5d23f4409ac4b6464a76b14bf7e51881bea2140f72685f6f2e79161ac6e02cb3",
+      "dedupeKey": "brief:opp_cbbde88f0f7450734c8f:sha256:5d23f4409ac4b6464a76b14bf7e51881bea2140f72685f6f2e79161ac6e02cb3",
+      "firstSeenAt": "2026-09-20T09:06:07.796Z",
+      "lastSeenAt": "2026-09-20T09:06:07.796Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1481f6b0f4a9d3629e07": {
+      "id": "opp_1481f6b0f4a9d3629e07",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "971b80f16c116fc7e504d279111beefdf925f89b",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/securely-connect-aws-devops-agent-to-private-services-in-your-vpcs",
+      "title": "VPC 내 프라이빗 서비스에 AWS DevOps Agent를 안전하게 연결하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Sun, 20 Sep 2026 07:30:29 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 2026년 4월 1일 AWS DevOps &amp; Developer Productivity 블로그에 게시된 Securely connect AWS DevOps Agent to private services in your VPCs(Alexandra Huides, Jordan Merrick, Mohak Kohli, Tipu Qureshi 공저)를 한국어로 번역∙편집한 글입니다. 원문 게시 이후 서비스가 업데이트됨에 따라, 콘솔 화면 구성·연결 상태값·DNS 해석 옵션 등은 현행 AWS Dev",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/securely-connect-aws-devops-agent-to-private-services-in-your-vpcs/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fcd7abba0de9ef29bfb038a1ad8810e1e217a33ac48c79ce28e2dfaeb21a2536",
+      "dedupeKey": "brief:opp_1481f6b0f4a9d3629e07:sha256:fcd7abba0de9ef29bfb038a1ad8810e1e217a33ac48c79ce28e2dfaeb21a2536",
+      "firstSeenAt": "2026-09-20T09:06:07.796Z",
+      "lastSeenAt": "2026-09-20T09:06:07.796Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d4637893c9e6ce4522ee": {
+      "id": "opp_d4637893c9e6ce4522ee",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:hJj7Xrc5N6c",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hJj7Xrc5N6c",
+      "title": "IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T08:58:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=hJj7Xrc5N6c"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-20T08:58:39.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3fd1e1a6c9e942adf47d9eccddfb9e05b919a9d053e304e82f1322807d6a632d",
+      "dedupeKey": "brief:opp_d4637893c9e6ce4522ee:sha256:3fd1e1a6c9e942adf47d9eccddfb9e05b919a9d053e304e82f1322807d6a632d",
+      "firstSeenAt": "2026-09-20T09:06:07.796Z",
+      "lastSeenAt": "2026-09-20T09:06:07.796Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ea63f8b0e0e5ee5ada3c": {
+      "id": "opp_ea63f8b0e0e5ee5ada3c",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:1CRNXpfYvZE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1CRNXpfYvZE",
+      "title": "내가 대규모 트래픽을 만나면 제일 먼저 하는 일",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T07:32:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "대규모 트래픽을 만나면 우리는 보통 서버 증설, 대기열, 캐시 같은 기술적인 방법부터 떠올립니다. 하지만 그 이전에 할 수 있는 일이 있습니다. 그것은 바로 요구사항 자체를 조절해서, 크고 복잡한 일을 작고 단순한 일로 나누는 것입니다. ⏱ 타임라인 00:00 대규모트래픽처리, 당장 뭐부터 시작할껀가요? 00:22 코레일을 왜 노션마다 예매일을 다르게 했을까요? 00:44 능력있는 아키텍트는 기술로만 해결하지 않는다 01:23 (1) 트래픽을 나눈다(크기를 줄인다) 02:01 (2) 일을 나눈다(",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1CRNXpfYvZE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-20T07:32:30.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fe61100ca38cf84138a34f59b73d802109f3fb2710c3060655fef60fb569de98",
+      "dedupeKey": "brief:opp_ea63f8b0e0e5ee5ada3c:sha256:fe61100ca38cf84138a34f59b73d802109f3fb2710c3060655fef60fb569de98",
+      "firstSeenAt": "2026-09-20T09:06:07.796Z",
+      "lastSeenAt": "2026-09-20T09:06:07.796Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -60692,6 +60945,36 @@
       "opportunityId": "opp_9529687d28bd069133b2",
       "sentAt": "2026-09-20T00:05:51.493Z",
       "messageId": "1551021540718547125"
+    },
+    "brief:opp_1481f6b0f4a9d3629e07:sha256:fcd7abba0de9ef29bfb038a1ad8810e1e217a33ac48c79ce28e2dfaeb21a2536": {
+      "status": "SENT",
+      "opportunityId": "opp_1481f6b0f4a9d3629e07",
+      "sentAt": "2026-09-20T09:06:07.796Z",
+      "messageId": "1551157504090841190"
+    },
+    "brief:opp_d4637893c9e6ce4522ee:sha256:3fd1e1a6c9e942adf47d9eccddfb9e05b919a9d053e304e82f1322807d6a632d": {
+      "status": "SENT",
+      "opportunityId": "opp_d4637893c9e6ce4522ee",
+      "sentAt": "2026-09-20T09:06:07.796Z",
+      "messageId": "1551157504090841190"
+    },
+    "brief:opp_b20031d497ed09e85da9:sha256:f16094e4fc4ced1cb980501d2374c883e3e36836bb4aaf40a14a336a7485bea1": {
+      "status": "SENT",
+      "opportunityId": "opp_b20031d497ed09e85da9",
+      "sentAt": "2026-09-20T09:06:07.796Z",
+      "messageId": "1551157504090841190"
+    },
+    "brief:opp_ea63f8b0e0e5ee5ada3c:sha256:fe61100ca38cf84138a34f59b73d802109f3fb2710c3060655fef60fb569de98": {
+      "status": "SENT",
+      "opportunityId": "opp_ea63f8b0e0e5ee5ada3c",
+      "sentAt": "2026-09-20T09:06:07.796Z",
+      "messageId": "1551157504090841190"
+    },
+    "brief:opp_cbbde88f0f7450734c8f:sha256:5d23f4409ac4b6464a76b14bf7e51881bea2140f72685f6f2e79161ac6e02cb3": {
+      "status": "SENT",
+      "opportunityId": "opp_cbbde88f0f7450734c8f",
+      "sentAt": "2026-09-20T09:06:07.796Z",
+      "messageId": "1551157504090841190"
     }
   },
   "pending": {},
