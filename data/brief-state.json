@@ -54537,14 +54537,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 9,
         "communityRank": 5,
-        "contentScore": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -54552,11 +54552,11 @@
       },
       "contentHash": "sha256:ed56b113df74abbbf29560932dcbbaac8f53e646ee6113de0c3c321d68f6a6e9",
       "dedupeKey": "brief:opp_9529687d28bd069133b2:sha256:ed56b113df74abbbf29560932dcbbaac8f53e646ee6113de0c3c321d68f6a6e9",
-      "firstSeenAt": "2026-09-19T12:51:33.649Z",
-      "lastSeenAt": "2026-09-19T12:51:33.649Z",
+      "firstSeenAt": "2026-09-20T00:05:51.493Z",
+      "lastSeenAt": "2026-09-20T00:05:51.493Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -54607,6 +54607,108 @@
       "dedupeKey": "brief:opp_02ea95a7384c6f28c48d:sha256:8144231e15c3d8a15419bb915422f63874696d8f996c6b47e8356e942d5ae926",
       "firstSeenAt": "2026-09-19T12:51:33.649Z",
       "lastSeenAt": "2026-09-19T12:51:33.649Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_75fb5f0a1288e4eef95d": {
+      "id": "opp_75fb5f0a1288e4eef95d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33917",
+      "canonicalUrl": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+      "title": "기술 분야에서 여전히 가슴 뛰게 하는 것은 무엇인가요?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T09:12:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "1990년대부터 이어진 기술에 대한 설렘과 달리, 지금은 새 소프트웨어와 변경 기록, 낯선 프로젝트의 알파/베타 버전을 기다리던 즐거움이 희미해...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33917"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fbcf7b75a26b1d724229c67909295a47c63317e5892a03d391ad99ad02594796",
+      "dedupeKey": "brief:opp_75fb5f0a1288e4eef95d:sha256:fbcf7b75a26b1d724229c67909295a47c63317e5892a03d391ad99ad02594796",
+      "firstSeenAt": "2026-09-20T00:05:51.493Z",
+      "lastSeenAt": "2026-09-20T00:05:51.493Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_262dfffad9567d9a6df7": {
+      "id": "opp_262dfffad9567d9a6df7",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:_-mtHUK98mY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_-mtHUK98mY",
+      "title": "[한영자막] OpenAI 사장이 직접 밝히는 AGI 시대 진입의 숨은 의미입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-19T22:00:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI의 공동 창업자이자 사장인 그렉 브록먼(Greg Brockman)이 a16z 팟캐스트에 출연해 AI가 왜 새로운 국면에 진입했는지, 최신 Astra 모델이 보여주는 AGI로의 여정과 필수적인 안전·보안 과제를 심도 있게 설명합니다. 컴퓨터 유즈(Computer Use)가 자율 에이전트에 가져올 거대한 변화, 1만 개의 에이전트를 동원해 나비에-스토크스 난제를 해결한 배경, 그리고 단순 텍스트 박스를 넘어 인간의 시간을 되찾아줄 미래의 능동적 AI 비서에 대한 통찰을 만나보세요. 📌 주",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_-mtHUK98mY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-19T22:00:32.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:096b270839f86e6076e5584e68dfcd82d7cfca793f15bc21de3eb1d9d3b8a39d",
+      "dedupeKey": "brief:opp_262dfffad9567d9a6df7:sha256:096b270839f86e6076e5584e68dfcd82d7cfca793f15bc21de3eb1d9d3b8a39d",
+      "firstSeenAt": "2026-09-20T00:05:51.493Z",
+      "lastSeenAt": "2026-09-20T00:05:51.493Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -60572,6 +60674,24 @@
       "opportunityId": "opp_02ea95a7384c6f28c48d",
       "sentAt": "2026-09-19T12:51:33.649Z",
       "messageId": "1550851848297250857"
+    },
+    "brief:opp_262dfffad9567d9a6df7:sha256:096b270839f86e6076e5584e68dfcd82d7cfca793f15bc21de3eb1d9d3b8a39d": {
+      "status": "SENT",
+      "opportunityId": "opp_262dfffad9567d9a6df7",
+      "sentAt": "2026-09-20T00:05:51.493Z",
+      "messageId": "1551021540718547125"
+    },
+    "brief:opp_75fb5f0a1288e4eef95d:sha256:fbcf7b75a26b1d724229c67909295a47c63317e5892a03d391ad99ad02594796": {
+      "status": "SENT",
+      "opportunityId": "opp_75fb5f0a1288e4eef95d",
+      "sentAt": "2026-09-20T00:05:51.493Z",
+      "messageId": "1551021540718547125"
+    },
+    "brief:opp_9529687d28bd069133b2:sha256:ed56b113df74abbbf29560932dcbbaac8f53e646ee6113de0c3c321d68f6a6e9": {
+      "status": "SENT",
+      "opportunityId": "opp_9529687d28bd069133b2",
+      "sentAt": "2026-09-20T00:05:51.493Z",
+      "messageId": "1551021540718547125"
     }
   },
   "pending": {},
