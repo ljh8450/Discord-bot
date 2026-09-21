@@ -55398,26 +55398,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 24,
         "communityRank": 1,
-        "contentScore": 11,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 2
         }
       },
       "contentHash": "sha256:95b4f3ffcfa245126c743220cdfe13e64ff1d8f7184434ebd305f8a9bb1aadeb",
       "dedupeKey": "brief:opp_907f45d6cb719b78ccd6:sha256:95b4f3ffcfa245126c743220cdfe13e64ff1d8f7184434ebd305f8a9bb1aadeb",
-      "firstSeenAt": "2026-09-21T03:50:27.384Z",
-      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -55545,8 +55545,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 4,
+        "communityPoints": 9,
+        "communityRank": 2,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55560,8 +55560,8 @@
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-21T03:50:27.384Z",
-      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55594,7 +55594,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 9,
         "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -55609,8 +55609,8 @@
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-21T03:50:27.384Z",
-      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55663,6 +55663,602 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_18a583dc3aac4015fffc": {
+      "id": "opp_18a583dc3aac4015fffc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34038",
+      "canonicalUrl": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it",
+      "title": "누가 GDPR을 싫어하는지 보면 GDPR이 좋은 규제임을 알 수 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:52:47+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "GDPR에 대한 기술 업계의 반발은 개인정보 통제권을 기업에서 개인으로 옮기는 규제가 작동한다는 신호임 쿠키 배너 때문에 GDPR을 탓하는 것은 바...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34038"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4978c296dd48e6c40f9f9edbf505e5cf54fad0b9a71ffe155f0b709f8e9159cb",
+      "dedupeKey": "brief:opp_18a583dc3aac4015fffc:sha256:4978c296dd48e6c40f9f9edbf505e5cf54fad0b9a71ffe155f0b709f8e9159cb",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a7a703e846c583cf84c0": {
+      "id": "opp_a7a703e846c583cf84c0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34018",
+      "canonicalUrl": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs",
+      "title": "Three.js로 브라우저에서 LLM 실행하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:45:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "3D 그래픽에 쓰이는 Three.js의 GPU 연산 기능으로 언어 모델을 실행하는 Three-LLM을 구현함. 별도 추론 서버 없이 브라우저에서 GPT-2, SmolLM2,...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34018"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:163a1b8977af3a0e5a9047e332f4c7f5302eac4f13d6067391e2600091a4cef9",
+      "dedupeKey": "brief:opp_a7a703e846c583cf84c0:sha256:163a1b8977af3a0e5a9047e332f4c7f5302eac4f13d6067391e2600091a4cef9",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7ceec1f176bf734eb9c2": {
+      "id": "opp_7ceec1f176bf734eb9c2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34034",
+      "canonicalUrl": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "title": "Claude Code 개발자 보리스 처니: \"나는 자주 틀린다\"",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:52:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "새로운 정보가 들어오면 문제 정의와 접근법, 목표도 바꿔야 함. 방향이 자꾸 바뀌는 것처럼 보여도, 복잡한 문제를 해결하는 데 필요한 반복일 수...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34034"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
+      "dedupeKey": "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0d6b2ff5f74d1d1d0625": {
+      "id": "opp_0d6b2ff5f74d1d1d0625",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34014",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sLSTM9znQNs",
+      "title": "Tibo와 함께 살펴보는 Codex 개발 이야기 [동영상]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Codex는 OpenAI 내부 연구와 인프라 개발을 가속하던 모델/에이전트 실험에서 출발했으며, 연구 조직과 엔지니어링 조직이 모델과 하네스를 함께 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34014"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456",
+      "dedupeKey": "brief:opp_0d6b2ff5f74d1d1d0625:sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_21e3e07cde9a5ae0adb5": {
+      "id": "opp_21e3e07cde9a5ae0adb5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34001",
+      "canonicalUrl": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "title": "외국어 학습, 나이 들어도 뇌 건강을 지키는 좋은 방법이 될 수 있음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T22:42:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "외국어 학습은 단어 기억, 소리 구별, 문법 파악과 표현 선택을 동시에 요구하는 복합적인 뇌 운동으로, 나이가 들어서도 인지 기능에 도움이 될 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34001"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5847cf90cd8bab7a6cf42f524013ce8e72a15e32d3ec23da7c7926021b9e4074",
+      "dedupeKey": "brief:opp_21e3e07cde9a5ae0adb5:sha256:5847cf90cd8bab7a6cf42f524013ce8e72a15e32d3ec23da7c7926021b9e4074",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eae662d0207cc4d5b2c4": {
+      "id": "opp_eae662d0207cc4d5b2c4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34040",
+      "canonicalUrl": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to",
+      "title": "아무도 오픈소스에 돈을 내지 않는다. 돈을 내게 만들 수는 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:52:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기업은 오픈소스를 안전하고 안정적으로 사용하려고 JFrog, Docker 같은 업체에 이미 돈을 내지만, 정작 코드를 만든 유지보수자에게는 그 돈이 돌...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34040"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d",
+      "dedupeKey": "brief:opp_eae662d0207cc4d5b2c4:sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f16d7e5a70f4e86301ff": {
+      "id": "opp_f16d7e5a70f4e86301ff",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "c88e7fa62e64cb2ed414814f8eaa7cefb5468729",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/rebellions-eda-aws",
+      "title": "AWS 기반 EDA 환경으로 Rebellions의 차세대 AI NPU 개발 가속화하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 06:02:25 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "첨단 반도체를 개발하려면 수많은 Logic Simulation을 반복하고, DFT(Design for Test)와 Physical Design 같은 높은 컴퓨팅 성능이 필요한 EDA(Electronic Design Automation) 작업을 수행해야 합니다. 설계 규모와 검증 범위가 커질수록 필요한 CPU 코어와 메모리, 공유 스토리지 처리량도 함께 증가합니다. 필요한 시점에 충분한 인프라를 확보하지 못하면 EDA 도구의 실행 시간과 작업 대기열이 길어지면서 전체 개발 일정에 영향을 줄 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/rebellions-eda-aws/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:58a886463e2eb012dcc2331542885d51ea396aca8f1de57c1c117ad15ca7999f",
+      "dedupeKey": "brief:opp_f16d7e5a70f4e86301ff:sha256:58a886463e2eb012dcc2331542885d51ea396aca8f1de57c1c117ad15ca7999f",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e3b24a6c5155e82535db": {
+      "id": "opp_e3b24a6c5155e82535db",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "09bf2ca440c9de43bbb2f1d7dbc3acffe56003e2",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-03",
+      "title": "AWS 네트워크 데이터 전송 및 처리 요금, 아키텍처로 이해하기 [3부: VPC 간 연결과 하이브리드]",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 05:07:56 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 여러 VPC와 계정, 온프레미스를 연결하는 네트워크를 설계하거나 운영하는 아키텍트와 네트워크 담당자를 대상으로, VPC 경계와 리전 경계를 넘는 트래픽에 어떤 요금이 과금되고 연결 방식별로 비용이 어떻게 달라지는지를 다룹니다. 1부에서는 AWS 네트워크 비용이 데이터 전송 요금과 데이터 처리 요금 두 축으로 정해진다는 점과 인터넷 게이트웨이, NAT Gateway, VPC 엔드포인트의 요금을 살펴보았습니다. 2부에서는 같은 리전 안에서 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-03/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:49ca692098d1d48b60cb1352672ae14ee6d0c8a3321bf0c2033773abad7c2e67",
+      "dedupeKey": "brief:opp_e3b24a6c5155e82535db:sha256:49ca692098d1d48b60cb1352672ae14ee6d0c8a3321bf0c2033773abad7c2e67",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fda45aca781aee4d8ad5": {
+      "id": "opp_fda45aca781aee4d8ad5",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "92905a88931053b791a501d8159aab456c8fbe7a",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-02",
+      "title": "AWS 네트워크 데이터 전송 및 처리 요금, 아키텍처로 이해하기 [2부: 리전 안의 트래픽]",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 05:07:47 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 VPC와 가용 영역(Availability Zone, AZ)의 기본 개념과 Elastic Load Balancing, Amazon ElastiCache, Amazon EKS를 운영해 본 경험이 있는 아키텍트와 운영 담당자를 대상으로, 같은 리전 안에서 AZ 경계를 넘는 트래픽이 어디에서 발생하고 어떻게 최적화하는지를 다룹니다. 1부에서는 AWS 네트워크 비용이 데이터 전송 요금과 데이터 처리 요금 두 축으로 결정된다는 점을 살펴보았습니다. 전송 요금은 트래픽이 넘는 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-02/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4dab0212fb35097b4cc1b175c80c2cd08b37ddc70ebfbf861a638062f55050c9",
+      "dedupeKey": "brief:opp_fda45aca781aee4d8ad5:sha256:4dab0212fb35097b4cc1b175c80c2cd08b37ddc70ebfbf861a638062f55050c9",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_329aee4466e71c396ccd": {
+      "id": "opp_329aee4466e71c396ccd",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "cfe5806c86bebf52867ffbe3c7bd83b43763d9cb",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-01",
+      "title": "AWS 네트워크 데이터 전송 및 처리 요금, 아키텍처로 이해하기 [1부: 요금 구조와 인터넷 경계]",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 05:07:44 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 VPC, 서브넷, 가용 영역(Availability Zone, AZ)의 기본 개념을 아는 아키텍트와 운영 담당자를 대상으로, AWS 네트워크 비용이 어느 경로에서 어떤 단위로 발생하는지와 이를 설계 단계에서 최적화하는 방법을 다룹니다. 데이터 전송 비용은 청구서에서 식별되기 어렵습니다. EC2 인스턴스나 RDS처럼 서비스 이름으로 묶이지 않고 여러 서비스에 흩어져 기록되기 때문입니다. 필자가 검토한 고객 사례들에서는 EC2-Other 항목이 전체 청구액의 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-01/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bc0f86e8d2093ab0fda5554d541b8482b0bc5ca7014de858eabbd8f05c2f0f4c",
+      "dedupeKey": "brief:opp_329aee4466e71c396ccd:sha256:bc0f86e8d2093ab0fda5554d541b8482b0bc5ca7014de858eabbd8f05c2f0f4c",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4303ddb6a19ad767df4b": {
+      "id": "opp_4303ddb6a19ad767df4b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:vMlsLmKuFZk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vMlsLmKuFZk",
+      "title": "[한영자막] 샘 올트먼과 마크 베니오프 대담: AI가 스스로 해킹한 사건부터 2030년 미래까지",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:00:23+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "세일즈포스 드림포스 무대에서 마크 베니오프와 샘 올트먼이 나눈 심도 있는 AI 대담입니다. 모델이 스스로 샌드박스를 뚫고 침투했던 충격적인 허깅페이스 사건의 전말부터, 코딩 및 컴퓨터 사용 에이전트를 넘어 화면을 실시간으로 그려내는 차세대 인터페이스, 그리고 2030년 1인 유니콘 기업의 시대까지 AI의 미래를 솔직하게 밝힙니다. 📌 주요 내용: • 모델 성능의 폭발적 비약: ChatGPT 출시 3년 만에 초등 수학에서 밀레니엄 난제 증명까지 도달한 여정 • 허깅페이스 해킹 사건의 충격: 샌드박",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=vMlsLmKuFZk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-21T09:00:23.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0c6f1131c9c83a8cc485d243942fb5898dbc9f79174e123744993839a5be4155",
+      "dedupeKey": "brief:opp_4303ddb6a19ad767df4b:sha256:0c6f1131c9c83a8cc485d243942fb5898dbc9f79174e123744993839a5be4155",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_34812d9da01103bdc6ca": {
+      "id": "opp_34812d9da01103bdc6ca",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:72rJKQ2a6Ak",
+      "canonicalUrl": "https://www.youtube.com/watch?v=72rJKQ2a6Ak",
+      "title": "200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T08:35:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "게임 50개가 동시에 돌아가고, 글을 쓰는 도중에 문장의 어조와 감정 평가가 바뀝니다.SNS에서는 사용자가 정한 조건에 따라 게시물이 접힙니다.이 데모들에 들어간 AI 모델이 TypeSafe AI의 Jev입니다.Jev는 답변 문장을 생성하는 대신, 프로그램이 사용할 선택과 점수, 확률을 반환합니다.이번 영상에서는 공개된 시연을 통해 빠르고 저렴한 판단이 소프트웨어의 사용감을 어떻게 바꿀 수 있는지 살펴봅니다.항공편 검색을 약 7초에 수행한 Browser Use의 공개 사례와 모델·코드의 역할 분담",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=72rJKQ2a6Ak"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-21T08:35:35.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3c8d031a325ef35872a2cbc2420660b79a44ccfaa3d23d8c9e04f2cc75183422",
+      "dedupeKey": "brief:opp_34812d9da01103bdc6ca:sha256:3c8d031a325ef35872a2cbc2420660b79a44ccfaa3d23d8c9e04f2cc75183422",
+      "firstSeenAt": "2026-09-21T09:05:44.645Z",
+      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -61727,6 +62323,42 @@
       "opportunityId": "opp_23d5e08917031de15f84",
       "sentAt": "2026-09-21T03:50:27.384Z",
       "messageId": "1551440450303565919"
+    },
+    "brief:opp_f16d7e5a70f4e86301ff:sha256:58a886463e2eb012dcc2331542885d51ea396aca8f1de57c1c117ad15ca7999f": {
+      "status": "SENT",
+      "opportunityId": "opp_f16d7e5a70f4e86301ff",
+      "sentAt": "2026-09-21T09:05:44.645Z",
+      "messageId": "1551519796007534654"
+    },
+    "brief:opp_e3b24a6c5155e82535db:sha256:49ca692098d1d48b60cb1352672ae14ee6d0c8a3321bf0c2033773abad7c2e67": {
+      "status": "SENT",
+      "opportunityId": "opp_e3b24a6c5155e82535db",
+      "sentAt": "2026-09-21T09:05:44.645Z",
+      "messageId": "1551519796007534654"
+    },
+    "brief:opp_4303ddb6a19ad767df4b:sha256:0c6f1131c9c83a8cc485d243942fb5898dbc9f79174e123744993839a5be4155": {
+      "status": "SENT",
+      "opportunityId": "opp_4303ddb6a19ad767df4b",
+      "sentAt": "2026-09-21T09:05:44.645Z",
+      "messageId": "1551519796007534654"
+    },
+    "brief:opp_34812d9da01103bdc6ca:sha256:3c8d031a325ef35872a2cbc2420660b79a44ccfaa3d23d8c9e04f2cc75183422": {
+      "status": "SENT",
+      "opportunityId": "opp_34812d9da01103bdc6ca",
+      "sentAt": "2026-09-21T09:05:44.645Z",
+      "messageId": "1551519796007534654"
+    },
+    "brief:opp_907f45d6cb719b78ccd6:sha256:95b4f3ffcfa245126c743220cdfe13e64ff1d8f7184434ebd305f8a9bb1aadeb": {
+      "status": "SENT",
+      "opportunityId": "opp_907f45d6cb719b78ccd6",
+      "sentAt": "2026-09-21T09:05:44.645Z",
+      "messageId": "1551519796007534654"
+    },
+    "brief:opp_a7a703e846c583cf84c0:sha256:163a1b8977af3a0e5a9047e332f4c7f5302eac4f13d6067391e2600091a4cef9": {
+      "status": "SENT",
+      "opportunityId": "opp_a7a703e846c583cf84c0",
+      "sentAt": "2026-09-21T09:05:44.645Z",
+      "messageId": "1551519796007534654"
     }
   },
   "pending": {},
