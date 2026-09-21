@@ -55371,6 +55371,300 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_907f45d6cb719b78ccd6": {
+      "id": "opp_907f45d6cb719b78ccd6",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34027",
+      "canonicalUrl": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral",
+      "title": "시니어 엔지니어의 파멸적 악순환",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:52:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "새 직장이나 승진, 큰 프로젝트에서 자신을 증명하려고 지나치게 야심 찬 작업을 떠맡고, 결과를 보여주지 못할수록 더 오래 혼자 일하는 악순환에...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34027"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:95b4f3ffcfa245126c743220cdfe13e64ff1d8f7184434ebd305f8a9bb1aadeb",
+      "dedupeKey": "brief:opp_907f45d6cb719b78ccd6:sha256:95b4f3ffcfa245126c743220cdfe13e64ff1d8f7184434ebd305f8a9bb1aadeb",
+      "firstSeenAt": "2026-09-21T03:50:27.384Z",
+      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_23d5e08917031de15f84": {
+      "id": "opp_23d5e08917031de15f84",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34041",
+      "canonicalUrl": "https://www.langchain.com/blog/paid-media-agent",
+      "title": "LangChain은 유료 광고 운영 에이전트를 어떻게 만들었나",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:55:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "광고 플랫폼과 사내 데이터를 연결해 성과 분석, 캠페인 변경 제안, 사람의 승인과 실행 검증까지 이어지는 Slack 기반 에이전트를 구축함 신입 분...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34041"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:eb8a30cad0f6936aef1203b0fc5d52617549b8722ac914c05d1afe6471f7029a",
+      "dedupeKey": "brief:opp_23d5e08917031de15f84:sha256:eb8a30cad0f6936aef1203b0fc5d52617549b8722ac914c05d1afe6471f7029a",
+      "firstSeenAt": "2026-09-21T03:50:27.384Z",
+      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0c72a79d017cfa7e8a6f": {
+      "id": "opp_0c72a79d017cfa7e8a6f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34036",
+      "canonicalUrl": "https://evaluation.club/",
+      "title": "프롬프트는 실재하지 않는다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:52:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "잘 작동하던 프롬프트도 다른 지시나 문맥과 결합하거나 모델이 바뀌면 효과가 달라지므로, 문구를 다듬는 것만으로 에이전트의 신뢰성을 유지하기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34036"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:48667aba5a87d766f0ca30de54b29032faafb5c9f911987d8169368ea69e4cc8",
+      "dedupeKey": "brief:opp_0c72a79d017cfa7e8a6f:sha256:48667aba5a87d766f0ca30de54b29032faafb5c9f911987d8169368ea69e4cc8",
+      "firstSeenAt": "2026-09-21T03:50:27.384Z",
+      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4fad4475e6b4e798b207": {
+      "id": "opp_4fad4475e6b4e798b207",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34000",
+      "canonicalUrl": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "title": "AI가 무너뜨리는 공유의 문화",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T22:42:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코드와 지식을 공개해 서로 배우고 재사용하던 문화에서, AI는 공유를 세상에 주는 선물이 아니라 창작자가 감당해야 할 부담으로 바꾸고 있음 카...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34000"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
+      "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
+      "firstSeenAt": "2026-09-21T03:50:27.384Z",
+      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a8303f9a8a1c48050112": {
+      "id": "opp_a8303f9a8a1c48050112",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34016",
+      "canonicalUrl": "https://www.pgcache.com/blog/postgresql-caching",
+      "title": "PostgreSQL 캐싱: 기본 동작과 추가 캐시의 선택 기준",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T09:25:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "PostgreSQL은 데이터 페이지와 실행 계획은 캐싱하지만 쿼리 결과는 저장하지 않음. 데이터가 메모리에 있어도 같은 조회를 반복하면 결과를 만드...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34016"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
+      "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
+      "firstSeenAt": "2026-09-21T03:50:27.384Z",
+      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ab6e765838dca590b641": {
+      "id": "opp_ab6e765838dca590b641",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33995",
+      "canonicalUrl": "https://x.com/MGAldys4/status/2098541143474749913",
+      "title": "초고속 APK 역컴파일러인 ASC를 새로 개발했다.",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T21:05:52+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "개발자 MG193_7는 Jadx보다 월등히 빠르고 병렬 분석이 가능한 역컴파일러 ASC를 개발해 실제 원격 코드 실행 취약점을 발견했으며, 해당 도구가 B...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33995"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 20,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:314b0b765209d8ab3e0465e8813adef9b87b875372bf8f96e9c659e221013861",
+      "dedupeKey": "brief:opp_ab6e765838dca590b641:sha256:314b0b765209d8ab3e0465e8813adef9b87b875372bf8f96e9c659e221013861",
+      "firstSeenAt": "2026-09-21T03:50:27.384Z",
+      "lastSeenAt": "2026-09-21T03:50:27.384Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -61421,6 +61715,18 @@
       "opportunityId": "opp_340ddbf19ba80e53ede7",
       "sentAt": "2026-09-21T00:06:13.701Z",
       "messageId": "1551384021500567663"
+    },
+    "brief:opp_0c72a79d017cfa7e8a6f:sha256:48667aba5a87d766f0ca30de54b29032faafb5c9f911987d8169368ea69e4cc8": {
+      "status": "SENT",
+      "opportunityId": "opp_0c72a79d017cfa7e8a6f",
+      "sentAt": "2026-09-21T03:50:27.384Z",
+      "messageId": "1551440450303565919"
+    },
+    "brief:opp_23d5e08917031de15f84:sha256:eb8a30cad0f6936aef1203b0fc5d52617549b8722ac914c05d1afe6471f7029a": {
+      "status": "SENT",
+      "opportunityId": "opp_23d5e08917031de15f84",
+      "sentAt": "2026-09-21T03:50:27.384Z",
+      "messageId": "1551440450303565919"
     }
   },
   "pending": {},
