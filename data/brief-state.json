@@ -55118,6 +55118,259 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_340ddbf19ba80e53ede7": {
+      "id": "opp_340ddbf19ba80e53ede7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33990",
+      "canonicalUrl": "https://purplesyringa.moe/blog/write-while-learning",
+      "title": "배움의 과정을 글로 작성해라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T18:02:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "전문가와 입문자 사이의 정보 공백 새로운 기술을 배울 때 생기는 여러 의문(예를 들자면 \"왜 같은 일을 하는 API가 두 개인가?\", \"예제대로 했는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33990"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1df45bfa2cbd064cfe6a7f1475ce50a54c8ab939729cc10526d1d87d521ee0f8",
+      "dedupeKey": "brief:opp_340ddbf19ba80e53ede7:sha256:1df45bfa2cbd064cfe6a7f1475ce50a54c8ab939729cc10526d1d87d521ee0f8",
+      "firstSeenAt": "2026-09-21T00:06:13.701Z",
+      "lastSeenAt": "2026-09-21T00:06:13.701Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3d092543b78a92a87bd9": {
+      "id": "opp_3d092543b78a92a87bd9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33967",
+      "canonicalUrl": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "title": "AI 챗봇이 사람들의 생각을 바꾸는 데 전문가가 되고 있음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T10:02:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ChatGPT, Gemini, Claude가 정치적 쟁점에 관한 대화에서 세계 챔피언을 포함한 전문 토론자보다 높은 설득력을 보인 연구 결과가 나옴 챗봇은 감...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33967"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 7,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a86b8beeec81bfcfeba579b23553d0c2c14031d00f25c0594add31d44198ced9",
+      "dedupeKey": "brief:opp_3d092543b78a92a87bd9:sha256:a86b8beeec81bfcfeba579b23553d0c2c14031d00f25c0594add31d44198ced9",
+      "firstSeenAt": "2026-09-21T00:06:13.701Z",
+      "lastSeenAt": "2026-09-21T00:06:13.701Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f2699adec7803f66bcaf": {
+      "id": "opp_f2699adec7803f66bcaf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "33964",
+      "canonicalUrl": "https://github.com/px0-ai/px0",
+      "title": "px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "1ms 미만의 시작 시간과 약 20MB의 메모리 사용량을 내세우는 경량 코드 뷰어, 로컬과 원격 서버의 코드를 브라우저에서 빠르게 탐색하고 검토 직...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=33964"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:97a448feff1a00e9e3ab71e31204599a4370e22e51eeb0028b04930813dc63b8",
+      "dedupeKey": "brief:opp_f2699adec7803f66bcaf:sha256:97a448feff1a00e9e3ab71e31204599a4370e22e51eeb0028b04930813dc63b8",
+      "firstSeenAt": "2026-09-21T00:06:13.701Z",
+      "lastSeenAt": "2026-09-21T00:06:13.701Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3db62d710e3f890ad8c3": {
+      "id": "opp_3db62d710e3f890ad8c3",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:yNPS1Z64wQM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yNPS1Z64wQM",
+      "title": "[한영자막] 에이전트 검색에서 30년 된 BM25가 놀랍도록 강력한 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T22:00:20+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "30년 전에 개발된 고전적인 텍스트 검색 알고리즘 BM25가 AI 에이전트 시대에 왜 다시 최고의 도구로 주목받고 있을까요? 20년 이상 검색 엔진을 연구해 온 Hornet.dev의 CEO 조 베르굼(Jo Kristian Bergum)이 에이전트 검색(Agentic Search)에서 BM25가 놀랍도록 강력한 이유와 최신 활용 전략을 설명합니다. 📌 주요 내용: • 함수는 그대로이지만 '사용자'가 바뀌었습니다. 방대한 지식을 갖추고 정교한 쿼리를 쏟아내는 AI 에이전트의 등장. • 컨텍스트 윈도",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=yNPS1Z64wQM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-20T22:00:20.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cb7d832e9b4dad0d304ee6110f3f6024db4f2062ff7c878e2c18d69d047a0d2b",
+      "dedupeKey": "brief:opp_3db62d710e3f890ad8c3:sha256:cb7d832e9b4dad0d304ee6110f3f6024db4f2062ff7c878e2c18d69d047a0d2b",
+      "firstSeenAt": "2026-09-21T00:06:13.701Z",
+      "lastSeenAt": "2026-09-21T00:06:13.701Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9f0b135c207eaa79db6a": {
+      "id": "opp_9f0b135c207eaa79db6a",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:cciIo8-5lf0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cciIo8-5lf0",
+      "title": "ChatGPT에 Higgsfield 마케팅 스킬 8개를 붙였습니다 — 제품 사진 한 장으로 광고 5장, 영상 훅 9개, 해외판까지",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-20T22:59:52+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ ChatGPT에서 Higgsfield 플러그인 써보기 (무료로 시작): https://higgsfield.ai/s/higgsfield-marketing-inside-chatgpt-ai-agentos-HDSvMk 광고를 한 번도 안 해 본 브랜드가 제일 먼저 막히는 곳은 \"뭘 만들까\"가 아니라 \"무슨 말을 할까\"예요. Higgsfield 플러그인은 그 과정을 통째로 ChatGPT 채팅창 안으로 옮깁니다. ChatGPT가 요청을 이해하고 계획을 세우면, 이미지와 영상은 Higgsfield가 만들어",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cciIo8-5lf0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-20T22:59:52.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b6c128525c5630cc586e39dc47b4798aa016f50ef96ee0090434d3cf6c853de9",
+      "dedupeKey": "brief:opp_9f0b135c207eaa79db6a:sha256:b6c128525c5630cc586e39dc47b4798aa016f50ef96ee0090434d3cf6c853de9",
+      "firstSeenAt": "2026-09-21T00:06:13.701Z",
+      "lastSeenAt": "2026-09-21T00:06:13.701Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -61144,6 +61397,30 @@
       "opportunityId": "opp_5fa43f3389de8b055091",
       "sentAt": "2026-09-20T13:26:21.231Z",
       "messageId": "1551222991952543786"
+    },
+    "brief:opp_9f0b135c207eaa79db6a:sha256:b6c128525c5630cc586e39dc47b4798aa016f50ef96ee0090434d3cf6c853de9": {
+      "status": "SENT",
+      "opportunityId": "opp_9f0b135c207eaa79db6a",
+      "sentAt": "2026-09-21T00:06:13.701Z",
+      "messageId": "1551384021500567663"
+    },
+    "brief:opp_3d092543b78a92a87bd9:sha256:a86b8beeec81bfcfeba579b23553d0c2c14031d00f25c0594add31d44198ced9": {
+      "status": "SENT",
+      "opportunityId": "opp_3d092543b78a92a87bd9",
+      "sentAt": "2026-09-21T00:06:13.701Z",
+      "messageId": "1551384021500567663"
+    },
+    "brief:opp_3db62d710e3f890ad8c3:sha256:cb7d832e9b4dad0d304ee6110f3f6024db4f2062ff7c878e2c18d69d047a0d2b": {
+      "status": "SENT",
+      "opportunityId": "opp_3db62d710e3f890ad8c3",
+      "sentAt": "2026-09-21T00:06:13.701Z",
+      "messageId": "1551384021500567663"
+    },
+    "brief:opp_340ddbf19ba80e53ede7:sha256:1df45bfa2cbd064cfe6a7f1475ce50a54c8ab939729cc10526d1d87d521ee0f8": {
+      "status": "SENT",
+      "opportunityId": "opp_340ddbf19ba80e53ede7",
+      "sentAt": "2026-09-21T00:06:13.701Z",
+      "messageId": "1551384021500567663"
     }
   },
   "pending": {},
