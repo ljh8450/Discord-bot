@@ -55545,23 +55545,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 2,
+        "communityPoints": 10,
+        "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55594,23 +55594,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 12,
+        "communityRank": 2,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55693,7 +55693,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 3,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55707,8 +55707,8 @@
       },
       "contentHash": "sha256:4978c296dd48e6c40f9f9edbf505e5cf54fad0b9a71ffe155f0b709f8e9159cb",
       "dedupeKey": "brief:opp_18a583dc3aac4015fffc:sha256:4978c296dd48e6c40f9f9edbf505e5cf54fad0b9a71ffe155f0b709f8e9159cb",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55790,23 +55790,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 7,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
       "dedupeKey": "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55839,7 +55839,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 9,
         "communityRank": 8,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -55854,8 +55854,8 @@
       },
       "contentHash": "sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456",
       "dedupeKey": "brief:opp_0d6b2ff5f74d1d1d0625:sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55888,14 +55888,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityPoints": 9,
+        "communityRank": 6,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -55903,8 +55903,8 @@
       },
       "contentHash": "sha256:5847cf90cd8bab7a6cf42f524013ce8e72a15e32d3ec23da7c7926021b9e4074",
       "dedupeKey": "brief:opp_21e3e07cde9a5ae0adb5:sha256:5847cf90cd8bab7a6cf42f524013ce8e72a15e32d3ec23da7c7926021b9e4074",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55937,7 +55937,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 8,
         "communityRank": 10,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -55952,8 +55952,8 @@
       },
       "contentHash": "sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d",
       "dedupeKey": "brief:opp_eae662d0207cc4d5b2c4:sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -56099,11 +56099,11 @@
       },
       "contentHash": "sha256:4dab0212fb35097b4cc1b175c80c2cd08b37ddc70ebfbf861a638062f55050c9",
       "dedupeKey": "brief:opp_fda45aca781aee4d8ad5:sha256:4dab0212fb35097b4cc1b175c80c2cd08b37ddc70ebfbf861a638062f55050c9",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56148,11 +56148,11 @@
       },
       "contentHash": "sha256:bc0f86e8d2093ab0fda5554d541b8482b0bc5ca7014de858eabbd8f05c2f0f4c",
       "dedupeKey": "brief:opp_329aee4466e71c396ccd:sha256:bc0f86e8d2093ab0fda5554d541b8482b0bc5ca7014de858eabbd8f05c2f0f4c",
-      "firstSeenAt": "2026-09-21T09:05:44.645Z",
-      "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56256,6 +56256,262 @@
       "dedupeKey": "brief:opp_34812d9da01103bdc6ca:sha256:3c8d031a325ef35872a2cbc2420660b79a44ccfaa3d23d8c9e04f2cc75183422",
       "firstSeenAt": "2026-09-21T09:05:44.645Z",
       "lastSeenAt": "2026-09-21T09:05:44.645Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b79bdb2c7bacfdeb5675": {
+      "id": "opp_b79bdb2c7bacfdeb5675",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/v7",
+      "canonicalUrl": "https://openai.com/index/v7",
+      "title": "How V7 gives AI agents institutional memory",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "summaryEvidence": [
+        "https://openai.com/index/v7"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:380f75bf2e6836edac07a72949335ff1ecc577b237ba473f7507ea5f6458f923",
+      "dedupeKey": "brief:opp_b79bdb2c7bacfdeb5675:sha256:380f75bf2e6836edac07a72949335ff1ecc577b237ba473f7507ea5f6458f923",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ce4fc236630cd7b4a873": {
+      "id": "opp_ce4fc236630cd7b4a873",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/remittance_transfer",
+      "canonicalUrl": "https://toss.tech/article/remittance_transfer",
+      "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 10:15:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "은행 지식이 없던 디자이너가 규제가 가득한 도메인에서 어떻게 팀의 기준을 바꿨는지 이야기해 보려고 해요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/remittance_transfer"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:47a309fedcb62f366265cdea24111907fc5e011cbf6de638fcd28f2f82dac32b",
+      "dedupeKey": "brief:opp_ce4fc236630cd7b4a873:sha256:47a309fedcb62f366265cdea24111907fc5e011cbf6de638fcd28f2f82dac32b",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_109b280e61dfde6f39f9": {
+      "id": "opp_109b280e61dfde6f39f9",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:cR6rp110f50",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cR6rp110f50",
+      "title": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T13:38:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리 * Apple에서 Mac Studio를 대여 받아 진행하는 콘텐츠 입니다.",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cR6rp110f50"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-21T13:38:31.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9cbd92000db35619ea9d23d1bfc228bfd60d9b5e10a77e796a9e498642c50253",
+      "dedupeKey": "brief:opp_109b280e61dfde6f39f9:sha256:9cbd92000db35619ea9d23d1bfc228bfd60d9b5e10a77e796a9e498642c50253",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b06b0c554f2d98182f4b": {
+      "id": "opp_b06b0c554f2d98182f4b",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:vrIBLHcqPRs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vrIBLHcqPRs",
+      "title": "AI뉴스 - Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T12:30:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg 무료 전자책: https://edu.sbiz.or.kr/edu/online/ebookInfo.do?menuCode=WWW008001 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ 🕖목차 00:00 200배 빠른 Jev 열풍 05:42 오픈소스 대안 Laya 06:51 Astra for Law 07:31 ChatGPT 확장 프로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=vrIBLHcqPRs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-21T13:38:31.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f822937d4e3ece5d58960d4f8e2eab7cd619aa0d216c5ccb9017e2e42a428a66",
+      "dedupeKey": "brief:opp_b06b0c554f2d98182f4b:sha256:f822937d4e3ece5d58960d4f8e2eab7cd619aa0d216c5ccb9017e2e42a428a66",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2ba8e848b86584abbdd4": {
+      "id": "opp_2ba8e848b86584abbdd4",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:OTttvhEHncQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OTttvhEHncQ",
+      "title": "“빠르게 해주세요”는 요구사항이 아닙니다 | 품질 목표 제대로 정하는 법",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T10:19:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이번 영상에서는 모호한 품질 요구사항을 측정하고 검증할 수 있는 목표로 바꾸는 방법을 다룹니다. 품질 요구사항과 평가를 위한 국제표준(SQuaRE) 중 ISO/IEC 25010(제품 품질 모델)과 ISO/IEC 25023(제품 품질 측정)이 무엇을 정의하는지, 그리고 표준이 정해 주지 않는 '목표값'은 왜 우리가 정해야 하는지 성능 · 가용성 · 보안 사례로 살펴봅니다. 00:00 이런 요구사항, 어떻습니까? 00:20 측정하고 검증할 수 있는 품질목표 세우는 법 00:53 완료 판단은 어떻게 하",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=OTttvhEHncQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-21T10:19:14.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9c0e699f5b01721c0499bb3d604fc9de1420acabaa4395eafac02f07c8a1a577",
+      "dedupeKey": "brief:opp_2ba8e848b86584abbdd4:sha256:9c0e699f5b01721c0499bb3d604fc9de1420acabaa4395eafac02f07c8a1a577",
+      "firstSeenAt": "2026-09-21T15:39:05.966Z",
+      "lastSeenAt": "2026-09-21T15:39:05.966Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -62359,6 +62615,42 @@
       "opportunityId": "opp_a7a703e846c583cf84c0",
       "sentAt": "2026-09-21T09:05:44.645Z",
       "messageId": "1551519796007534654"
+    },
+    "brief:opp_b06b0c554f2d98182f4b:sha256:f822937d4e3ece5d58960d4f8e2eab7cd619aa0d216c5ccb9017e2e42a428a66": {
+      "status": "SENT",
+      "opportunityId": "opp_b06b0c554f2d98182f4b",
+      "sentAt": "2026-09-21T15:39:05.966Z",
+      "messageId": "1551618785469927480"
+    },
+    "brief:opp_ce4fc236630cd7b4a873:sha256:47a309fedcb62f366265cdea24111907fc5e011cbf6de638fcd28f2f82dac32b": {
+      "status": "SENT",
+      "opportunityId": "opp_ce4fc236630cd7b4a873",
+      "sentAt": "2026-09-21T15:39:05.966Z",
+      "messageId": "1551618785469927480"
+    },
+    "brief:opp_fda45aca781aee4d8ad5:sha256:4dab0212fb35097b4cc1b175c80c2cd08b37ddc70ebfbf861a638062f55050c9": {
+      "status": "SENT",
+      "opportunityId": "opp_fda45aca781aee4d8ad5",
+      "sentAt": "2026-09-21T15:39:05.966Z",
+      "messageId": "1551618785469927480"
+    },
+    "brief:opp_329aee4466e71c396ccd:sha256:bc0f86e8d2093ab0fda5554d541b8482b0bc5ca7014de858eabbd8f05c2f0f4c": {
+      "status": "SENT",
+      "opportunityId": "opp_329aee4466e71c396ccd",
+      "sentAt": "2026-09-21T15:39:05.966Z",
+      "messageId": "1551618785469927480"
+    },
+    "brief:opp_b79bdb2c7bacfdeb5675:sha256:380f75bf2e6836edac07a72949335ff1ecc577b237ba473f7507ea5f6458f923": {
+      "status": "SENT",
+      "opportunityId": "opp_b79bdb2c7bacfdeb5675",
+      "sentAt": "2026-09-21T15:39:05.966Z",
+      "messageId": "1551618785469927480"
+    },
+    "brief:opp_2ba8e848b86584abbdd4:sha256:9c0e699f5b01721c0499bb3d604fc9de1420acabaa4395eafac02f07c8a1a577": {
+      "status": "SENT",
+      "opportunityId": "opp_2ba8e848b86584abbdd4",
+      "sentAt": "2026-09-21T15:39:05.966Z",
+      "messageId": "1551618785469927480"
     }
   },
   "pending": {},
