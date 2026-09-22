@@ -55546,7 +55546,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 3,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55560,8 +55560,8 @@
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-22T00:06:02.706Z",
-      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55594,14 +55594,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
-        "communityRank": 2,
-        "contentScore": 12,
+        "communityPoints": 15,
+        "communityRank": 14,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -55609,8 +55609,8 @@
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-22T00:06:02.706Z",
-      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -56607,11 +56607,11 @@
       },
       "contentHash": "sha256:9df49f15d53121e61e7e71a4dc3adeedef52b6ac2dac8528145664fa0acb6d4a",
       "dedupeKey": "brief:opp_fee3a0b15090dbe68b90:sha256:9df49f15d53121e61e7e71a4dc3adeedef52b6ac2dac8528145664fa0acb6d4a",
-      "firstSeenAt": "2026-09-22T00:06:02.706Z",
-      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56703,11 +56703,11 @@
       },
       "contentHash": "sha256:a91a81953aa844ef96fbb84ce69e3933acebc2451949560a9647806dc4247a0f",
       "dedupeKey": "brief:opp_692acd35ccebbc0dcd4b:sha256:a91a81953aa844ef96fbb84ce69e3933acebc2451949560a9647806dc4247a0f",
-      "firstSeenAt": "2026-09-22T00:06:02.706Z",
-      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56806,6 +56806,300 @@
       "dedupeKey": "brief:opp_c0aaafac3408e8a8f933:sha256:e8c32eca7296f21e84d05fd6a962c0eaa9a1e32a1544c7869a16336233aa38d0",
       "firstSeenAt": "2026-09-22T00:06:02.706Z",
       "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0e0ecc434fe241ae0d98": {
+      "id": "opp_0e0ecc434fe241ae0d98",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34059",
+      "canonicalUrl": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "title": "MCP는 처음부터 잘못된 아이디어였다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T16:36:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코드를 실행하고 API를 직접 호출할 수 있는 에이전트에는 기존 API를 다시 감싼 MCP 서버가 불필요해졌으며, 필요한 기능이 이미 있는 HTTP API와...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34059"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e9c2e521496be699448ba72ca37f70e2137f1463cd45ab89acb0501d2e2b5808",
+      "dedupeKey": "brief:opp_0e0ecc434fe241ae0d98:sha256:e9c2e521496be699448ba72ca37f70e2137f1463cd45ab89acb0501d2e2b5808",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ac89bd8ca4fbaf0aa902": {
+      "id": "opp_ac89bd8ca4fbaf0aa902",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34076",
+      "canonicalUrl": "https://alicegg.tech/2026/09/21/attention",
+      "title": "주의력은 당신이 가진 전부다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T02:46:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "오랫동안 집중하는 대상은 생각을 형성함. 테트리스를 반복해 플레이하면 일상에서도 블록 모양이 눈에 들어오는 ‘테트리스 효과’처럼, 화면에서 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34076"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
+      "dedupeKey": "brief:opp_ac89bd8ca4fbaf0aa902:sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7631f19d1dec1fa05d33": {
+      "id": "opp_7631f19d1dec1fa05d33",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34065",
+      "canonicalUrl": "https://github.com/jaredpalmer/kev/tree/main",
+      "title": "Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T20:42:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Qwen3.5를 기반으로, 긴 답변을 생성하는 대신 예/아니요 확률, 선택지별 확률과 평가 점수를 반환하는 의사결정 모델 고객 문의 하나에서 담당 부...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34065"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a",
+      "dedupeKey": "brief:opp_7631f19d1dec1fa05d33:sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_80c4772223dc6746115f": {
+      "id": "opp_80c4772223dc6746115f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34090",
+      "canonicalUrl": "https://github.com/shadcn-labs/pdfcn",
+      "title": "pdfcn - React 컴포넌트로 만드는 PDF 문서",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "청구서, 보고서 같은 PDF를 처음부터 디자인하지 않고 준비된 React 컴포넌트와 문서 템플릿을 조합해 만드는 오픈소스 프로젝트 shadcn/ui 처럼 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34090"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3cecdfe5198e434b0de1b856a99b936ae71f30cd0bb5e7ffa408749e545a0153",
+      "dedupeKey": "brief:opp_80c4772223dc6746115f:sha256:3cecdfe5198e434b0de1b856a99b936ae71f30cd0bb5e7ffa408749e545a0153",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9e4689cb22fc1b0ae8ca": {
+      "id": "opp_9e4689cb22fc1b0ae8ca",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ec0199c9419ef30c89d7fe3f357fbe175379d037",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/arae-energy-service-diagnostic-agent",
+      "title": "Strands Agents와 Amazon Bedrock AgentCore을 이용한 발전설비진단 구현하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 01:48:15 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "발전소에는 목적이 다른 시스템과 문서가 함께 존재합니다. 원격 진동 고장진단 시스템(Remote Vibration Monitoring System, RVMS)은 회전설비의 베어링 진동을 상시 감시하고 임계치 초과를 알려 줍니다. 운전 매뉴얼과 로직 도면에는 조치 절차와 설비 관계가 기록되어 있습니다. 하지만 경보가 발생한 뒤 원인 후보를 좁히고, 여러 지표를 비교하고, 필요한 근거를 찾아 조치 순서를 정하는 일은 여전히 전문가의 경험에 의존합니다. […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/arae-energy-service-diagnostic-agent/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:766a4fb654d806eafeada2cea764713017b6ba26ab19f1297dc451d0d180887d",
+      "dedupeKey": "brief:opp_9e4689cb22fc1b0ae8ca:sha256:766a4fb654d806eafeada2cea764713017b6ba26ab19f1297dc451d0d180887d",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0a8ca4fb60337d9f8cbf": {
+      "id": "opp_0a8ca4fb60337d9f8cbf",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/toss-doctor",
+      "canonicalUrl": "https://toss.tech/article/toss-doctor",
+      "title": "쉼 없이 도는 테스트, 사람이 어디까지 돌봐야 할까요? - 토스닥터(Toss Doctor)",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 03:42:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "스스로 만들고 고치는 자동화, 토스닥터 V2를 다시 만든 이야기",
+      "summaryEvidence": [
+        "https://toss.tech/article/toss-doctor"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ce373c7af25be166e89065d148c73ce9a6e7808cd16ef58dbe20fe9a3765a14",
+      "dedupeKey": "brief:opp_0a8ca4fb60337d9f8cbf:sha256:2ce373c7af25be166e89065d148c73ce9a6e7808cd16ef58dbe20fe9a3765a14",
+      "firstSeenAt": "2026-09-22T03:47:43.044Z",
+      "lastSeenAt": "2026-09-22T03:47:43.044Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -62981,6 +63275,42 @@
       "opportunityId": "opp_c0aaafac3408e8a8f933",
       "sentAt": "2026-09-22T00:06:02.706Z",
       "messageId": "1551746363627147388"
+    },
+    "brief:opp_9e4689cb22fc1b0ae8ca:sha256:766a4fb654d806eafeada2cea764713017b6ba26ab19f1297dc451d0d180887d": {
+      "status": "SENT",
+      "opportunityId": "opp_9e4689cb22fc1b0ae8ca",
+      "sentAt": "2026-09-22T03:47:43.044Z",
+      "messageId": "1551802148856008726"
+    },
+    "brief:opp_0a8ca4fb60337d9f8cbf:sha256:2ce373c7af25be166e89065d148c73ce9a6e7808cd16ef58dbe20fe9a3765a14": {
+      "status": "SENT",
+      "opportunityId": "opp_0a8ca4fb60337d9f8cbf",
+      "sentAt": "2026-09-22T03:47:43.044Z",
+      "messageId": "1551802148856008726"
+    },
+    "brief:opp_fee3a0b15090dbe68b90:sha256:9df49f15d53121e61e7e71a4dc3adeedef52b6ac2dac8528145664fa0acb6d4a": {
+      "status": "SENT",
+      "opportunityId": "opp_fee3a0b15090dbe68b90",
+      "sentAt": "2026-09-22T03:47:43.044Z",
+      "messageId": "1551802148856008726"
+    },
+    "brief:opp_692acd35ccebbc0dcd4b:sha256:a91a81953aa844ef96fbb84ce69e3933acebc2451949560a9647806dc4247a0f": {
+      "status": "SENT",
+      "opportunityId": "opp_692acd35ccebbc0dcd4b",
+      "sentAt": "2026-09-22T03:47:43.044Z",
+      "messageId": "1551802148856008726"
+    },
+    "brief:opp_0e0ecc434fe241ae0d98:sha256:e9c2e521496be699448ba72ca37f70e2137f1463cd45ab89acb0501d2e2b5808": {
+      "status": "SENT",
+      "opportunityId": "opp_0e0ecc434fe241ae0d98",
+      "sentAt": "2026-09-22T03:47:43.044Z",
+      "messageId": "1551802148856008726"
+    },
+    "brief:opp_80c4772223dc6746115f:sha256:3cecdfe5198e434b0de1b856a99b936ae71f30cd0bb5e7ffa408749e545a0153": {
+      "status": "SENT",
+      "opportunityId": "opp_80c4772223dc6746115f",
+      "sentAt": "2026-09-22T03:47:43.044Z",
+      "messageId": "1551802148856008726"
     }
   },
   "pending": {},
