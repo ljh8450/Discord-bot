@@ -55545,7 +55545,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
+        "communityPoints": 11,
         "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -55560,8 +55560,8 @@
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55594,7 +55594,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
+        "communityPoints": 14,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -55609,8 +55609,8 @@
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55693,7 +55693,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 7,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55707,8 +55707,8 @@
       },
       "contentHash": "sha256:4978c296dd48e6c40f9f9edbf505e5cf54fad0b9a71ffe155f0b709f8e9159cb",
       "dedupeKey": "brief:opp_18a583dc3aac4015fffc:sha256:4978c296dd48e6c40f9f9edbf505e5cf54fad0b9a71ffe155f0b709f8e9159cb",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55791,7 +55791,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 10,
-        "communityRank": 4,
+        "communityRank": 6,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -55805,8 +55805,8 @@
       },
       "contentHash": "sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
       "dedupeKey": "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55839,26 +55839,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 8,
-        "contentScore": 12,
+        "communityPoints": 10,
+        "communityRank": 7,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456",
       "dedupeKey": "brief:opp_0d6b2ff5f74d1d1d0625:sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -55888,23 +55888,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 6,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 5,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:5847cf90cd8bab7a6cf42f524013ce8e72a15e32d3ec23da7c7926021b9e4074",
       "dedupeKey": "brief:opp_21e3e07cde9a5ae0adb5:sha256:5847cf90cd8bab7a6cf42f524013ce8e72a15e32d3ec23da7c7926021b9e4074",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55938,7 +55938,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -55952,11 +55952,11 @@
       },
       "contentHash": "sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d",
       "dedupeKey": "brief:opp_eae662d0207cc4d5b2c4:sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56368,7 +56368,7 @@
       "title": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리",
       "organization": "조코딩 JoCoding",
       "status": "OPEN",
-      "publishedAt": "2026-09-21T13:38:31+00:00",
+      "publishedAt": "2026-09-21T16:13:34+00:00",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -56390,7 +56390,7 @@
         "feedFormat": "atom",
         "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-09-21T13:38:31.000Z",
+        "latestChannelActivityAt": "2026-09-21T16:13:34.000Z",
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -56404,11 +56404,11 @@
       },
       "contentHash": "sha256:9cbd92000db35619ea9d23d1bfc228bfd60d9b5e10a77e796a9e498642c50253",
       "dedupeKey": "brief:opp_109b280e61dfde6f39f9:sha256:9cbd92000db35619ea9d23d1bfc228bfd60d9b5e10a77e796a9e498642c50253",
-      "firstSeenAt": "2026-09-21T15:39:05.966Z",
-      "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56512,6 +56512,300 @@
       "dedupeKey": "brief:opp_2ba8e848b86584abbdd4:sha256:9c0e699f5b01721c0499bb3d604fc9de1420acabaa4395eafac02f07c8a1a577",
       "firstSeenAt": "2026-09-21T15:39:05.966Z",
       "lastSeenAt": "2026-09-21T15:39:05.966Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_78edec93a0342de9122b": {
+      "id": "opp_78edec93a0342de9122b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34004",
+      "canonicalUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "title": "Qwen-Image-2.1 공개, 이미지 생성부터 투명 배경 편집까지",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T00:52:25+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "이미지 생성과 편집을 하나로 통합한 모델로, 시각 생성부를 7B 파라미터로 구성하고 추론 속도와 메모리 효율을 개선함 투명 배경 이미지를 바로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34004"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bbc78872eb4200d9d5ac8c5cf63f9da4e27f34c34b2b76d40993b977574fbbb1",
+      "dedupeKey": "brief:opp_78edec93a0342de9122b:sha256:bbc78872eb4200d9d5ac8c5cf63f9da4e27f34c34b2b76d40993b977574fbbb1",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fee3a0b15090dbe68b90": {
+      "id": "opp_fee3a0b15090dbe68b90",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "canonicalUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "summaryEvidence": [
+        "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9df49f15d53121e61e7e71a4dc3adeedef52b6ac2dac8528145664fa0acb6d4a",
+      "dedupeKey": "brief:opp_fee3a0b15090dbe68b90:sha256:9df49f15d53121e61e7e71a4dc3adeedef52b6ac2dac8528145664fa0acb6d4a",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a16e0653a34d9b1e254f": {
+      "id": "opp_a16e0653a34d9b1e254f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "canonicalUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "summaryEvidence": [
+        "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:94ff657276d80d3b69a616d215185e1e955b145ec74c49f3b95502422102fedf",
+      "dedupeKey": "brief:opp_a16e0653a34d9b1e254f:sha256:94ff657276d80d3b69a616d215185e1e955b145ec74c49f3b95502422102fedf",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_692acd35ccebbc0dcd4b": {
+      "id": "opp_692acd35ccebbc0dcd4b",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/building-standards-next-phase-ai",
+      "canonicalUrl": "https://openai.com/index/building-standards-next-phase-ai",
+      "title": "Building standards for the next phase of AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "summaryEvidence": [
+        "https://openai.com/index/building-standards-next-phase-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a91a81953aa844ef96fbb84ce69e3933acebc2451949560a9647806dc4247a0f",
+      "dedupeKey": "brief:opp_692acd35ccebbc0dcd4b:sha256:a91a81953aa844ef96fbb84ce69e3933acebc2451949560a9647806dc4247a0f",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cee4a2b504a8a075191d": {
+      "id": "opp_cee4a2b504a8a075191d",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "canonicalUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "summaryEvidence": [
+        "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e6184f8aa53881731a4a4f0febab29bb52d2560fb2ce0b1c38480e1b4856246c",
+      "dedupeKey": "brief:opp_cee4a2b504a8a075191d:sha256:e6184f8aa53881731a4a4f0febab29bb52d2560fb2ce0b1c38480e1b4856246c",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c0aaafac3408e8a8f933": {
+      "id": "opp_c0aaafac3408e8a8f933",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:X66cWPrmiq4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=X66cWPrmiq4",
+      "title": "[한영자막] AI 에이전트 시대를 위한 검색 엔진, 왜 기존 검색과 완전히 다를까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T22:00:01+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "2026년, 역사상 처음으로 AI 시스템의 검색량이 인간의 검색량을 넘어섭니다. AI 에이전트는 왜 인간용으로 만들어진 구글 대신 새로운 차원의 검색 엔진을 필요로 할까요? Exa 창업자 Will Bryk이 설명하는 에이전트 웹 시대의 '완벽한 검색' 비전입니다. 주요 내용: • 인간과 AI의 검색량 역전: 앞으로 AI 에이전트의 검색량은 인간의 1,000배 이상으로 폭발합니다. • 추천 엔진 구글 vs 데이터베이스 Exa: 광고와 SEO에 최적화된 기존 검색으로는 에이전트의 복합 질의를 해결할",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=X66cWPrmiq4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-21T22:00:01.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e8c32eca7296f21e84d05fd6a962c0eaa9a1e32a1544c7869a16336233aa38d0",
+      "dedupeKey": "brief:opp_c0aaafac3408e8a8f933:sha256:e8c32eca7296f21e84d05fd6a962c0eaa9a1e32a1544c7869a16336233aa38d0",
+      "firstSeenAt": "2026-09-22T00:06:02.706Z",
+      "lastSeenAt": "2026-09-22T00:06:02.706Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -62651,6 +62945,42 @@
       "opportunityId": "opp_2ba8e848b86584abbdd4",
       "sentAt": "2026-09-21T15:39:05.966Z",
       "messageId": "1551618785469927480"
+    },
+    "brief:opp_a16e0653a34d9b1e254f:sha256:94ff657276d80d3b69a616d215185e1e955b145ec74c49f3b95502422102fedf": {
+      "status": "SENT",
+      "opportunityId": "opp_a16e0653a34d9b1e254f",
+      "sentAt": "2026-09-22T00:06:02.706Z",
+      "messageId": "1551746363627147388"
+    },
+    "brief:opp_cee4a2b504a8a075191d:sha256:e6184f8aa53881731a4a4f0febab29bb52d2560fb2ce0b1c38480e1b4856246c": {
+      "status": "SENT",
+      "opportunityId": "opp_cee4a2b504a8a075191d",
+      "sentAt": "2026-09-22T00:06:02.706Z",
+      "messageId": "1551746363627147388"
+    },
+    "brief:opp_0d6b2ff5f74d1d1d0625:sha256:16f8c60f7db1718a0c4c17b7d29b9c42e6a4cdb4eef7aa9913adc1297e696456": {
+      "status": "SENT",
+      "opportunityId": "opp_0d6b2ff5f74d1d1d0625",
+      "sentAt": "2026-09-22T00:06:02.706Z",
+      "messageId": "1551746363627147388"
+    },
+    "brief:opp_109b280e61dfde6f39f9:sha256:9cbd92000db35619ea9d23d1bfc228bfd60d9b5e10a77e796a9e498642c50253": {
+      "status": "SENT",
+      "opportunityId": "opp_109b280e61dfde6f39f9",
+      "sentAt": "2026-09-22T00:06:02.706Z",
+      "messageId": "1551746363627147388"
+    },
+    "brief:opp_eae662d0207cc4d5b2c4:sha256:2b2e323322bfa9a9483cd1184a4db7a2def2248d1241528553091337b8500d9d": {
+      "status": "SENT",
+      "opportunityId": "opp_eae662d0207cc4d5b2c4",
+      "sentAt": "2026-09-22T00:06:02.706Z",
+      "messageId": "1551746363627147388"
+    },
+    "brief:opp_c0aaafac3408e8a8f933:sha256:e8c32eca7296f21e84d05fd6a962c0eaa9a1e32a1544c7869a16336233aa38d0": {
+      "status": "SENT",
+      "opportunityId": "opp_c0aaafac3408e8a8f933",
+      "sentAt": "2026-09-22T00:06:02.706Z",
+      "messageId": "1551746363627147388"
     }
   },
   "pending": {},
