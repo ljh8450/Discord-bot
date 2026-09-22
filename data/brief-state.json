@@ -55546,13 +55546,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 15,
-        "communityRank": 14,
-        "contentScore": 11,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -55560,8 +55560,8 @@
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-22T09:05:46.046Z",
-      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "firstSeenAt": "2026-09-22T13:52:49.053Z",
+      "lastSeenAt": "2026-09-22T13:52:49.053Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55609,8 +55609,8 @@
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-22T09:05:46.046Z",
-      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "firstSeenAt": "2026-09-22T13:52:49.053Z",
+      "lastSeenAt": "2026-09-22T13:52:49.053Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55790,8 +55790,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
-        "communityRank": 19,
+        "communityPoints": 14,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55805,8 +55805,8 @@
       },
       "contentHash": "sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
       "dedupeKey": "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
-      "firstSeenAt": "2026-09-22T09:05:46.046Z",
-      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "firstSeenAt": "2026-09-22T13:52:49.053Z",
+      "lastSeenAt": "2026-09-22T13:52:49.053Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -56888,7 +56888,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 4,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -56902,8 +56902,8 @@
       },
       "contentHash": "sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
       "dedupeKey": "brief:opp_ac89bd8ca4fbaf0aa902:sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
-      "firstSeenAt": "2026-09-22T09:05:46.046Z",
-      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "firstSeenAt": "2026-09-22T13:52:49.053Z",
+      "lastSeenAt": "2026-09-22T13:52:49.053Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -56936,26 +56936,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
+        "communityPoints": 11,
+        "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a",
       "dedupeKey": "brief:opp_7631f19d1dec1fa05d33:sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a",
-      "firstSeenAt": "2026-09-22T09:05:46.046Z",
-      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "firstSeenAt": "2026-09-22T13:52:49.053Z",
+      "lastSeenAt": "2026-09-22T13:52:49.053Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -57181,8 +57181,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
-        "communityRank": 2,
+        "communityPoints": 14,
+        "communityRank": 3,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -57196,11 +57196,11 @@
       },
       "contentHash": "sha256:8a48bc341985a804d62f6496947dfbb3aa9cc35067d3574b6b0086947b9cdbdb",
       "dedupeKey": "brief:opp_0e520e13a4474f858b99:sha256:8a48bc341985a804d62f6496947dfbb3aa9cc35067d3574b6b0086947b9cdbdb",
-      "firstSeenAt": "2026-09-22T09:05:46.046Z",
-      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "firstSeenAt": "2026-09-22T13:52:49.053Z",
+      "lastSeenAt": "2026-09-22T13:52:49.053Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -63643,6 +63643,18 @@
       "opportunityId": "opp_48edbcb7b8a067c091d3",
       "sentAt": "2026-09-22T09:05:46.046Z",
       "messageId": "1551882187983556690"
+    },
+    "brief:opp_0e520e13a4474f858b99:sha256:8a48bc341985a804d62f6496947dfbb3aa9cc35067d3574b6b0086947b9cdbdb": {
+      "status": "SENT",
+      "opportunityId": "opp_0e520e13a4474f858b99",
+      "sentAt": "2026-09-22T13:52:49.053Z",
+      "messageId": "1551954426925813794"
+    },
+    "brief:opp_7631f19d1dec1fa05d33:sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a": {
+      "status": "SENT",
+      "opportunityId": "opp_7631f19d1dec1fa05d33",
+      "sentAt": "2026-09-22T13:52:49.053Z",
+      "messageId": "1551954426925813794"
     }
   },
   "pending": {},
