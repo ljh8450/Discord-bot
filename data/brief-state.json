@@ -55545,8 +55545,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 18,
+        "communityPoints": 15,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55560,8 +55560,8 @@
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-22T03:47:43.044Z",
-      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55595,7 +55595,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 15,
-        "communityRank": 14,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55609,8 +55609,8 @@
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-22T03:47:43.044Z",
-      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55790,14 +55790,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 6,
-        "contentScore": 12,
+        "communityPoints": 13,
+        "communityRank": 19,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -55805,8 +55805,8 @@
       },
       "contentHash": "sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
       "dedupeKey": "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
-      "firstSeenAt": "2026-09-22T00:06:02.706Z",
-      "lastSeenAt": "2026-09-22T00:06:02.706Z",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -56887,8 +56887,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 2,
+        "communityPoints": 9,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -56902,8 +56902,8 @@
       },
       "contentHash": "sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
       "dedupeKey": "brief:opp_ac89bd8ca4fbaf0aa902:sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
-      "firstSeenAt": "2026-09-22T03:47:43.044Z",
-      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -56936,8 +56936,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 3,
+        "communityPoints": 9,
+        "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -56951,8 +56951,8 @@
       },
       "contentHash": "sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a",
       "dedupeKey": "brief:opp_7631f19d1dec1fa05d33:sha256:ee276916e067a24500f7c7c23b996e9af6f1632c38c312a9d0d3c917700a7c1a",
-      "firstSeenAt": "2026-09-22T03:47:43.044Z",
-      "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -57100,6 +57100,308 @@
       "dedupeKey": "brief:opp_0a8ca4fb60337d9f8cbf:sha256:2ce373c7af25be166e89065d148c73ce9a6e7808cd16ef58dbe20fe9a3765a14",
       "firstSeenAt": "2026-09-22T03:47:43.044Z",
       "lastSeenAt": "2026-09-22T03:47:43.044Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_48edbcb7b8a067c091d3": {
+      "id": "opp_48edbcb7b8a067c091d3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34091",
+      "canonicalUrl": "https://poloclub.github.io/transformer-explainer",
+      "title": "Transformer를 시각적으로 이해하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T09:40:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Transformer Explainer는 브라우저에서 1억 2,400만 매개변수의 GPT-2 small을 실행하며, 입력 텍스트가 다음 토큰 예측으로 이어지는 과정을 시각...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34091"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:2d2f9050d09eb15c89693b16a1cbe1423c636df0d49c6eb3e6d43dcf98c3fbaa",
+      "dedupeKey": "brief:opp_48edbcb7b8a067c091d3:sha256:2d2f9050d09eb15c89693b16a1cbe1423c636df0d49c6eb3e6d43dcf98c3fbaa",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0e520e13a4474f858b99": {
+      "id": "opp_0e520e13a4474f858b99",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34092",
+      "canonicalUrl": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write",
+      "title": "당신이 직접 쓰지 않은 글은 읽고 싶지 않다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T09:43:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 만든 설계 문서와 PR 요약은 변경 사항을 상세히 나열하지만, 왜 필요한지, 무엇이 중요하고 어디를 검토해야 하는지는 빠뜨리기 쉬움 프롬프...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34092"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:8a48bc341985a804d62f6496947dfbb3aa9cc35067d3574b6b0086947b9cdbdb",
+      "dedupeKey": "brief:opp_0e520e13a4474f858b99:sha256:8a48bc341985a804d62f6496947dfbb3aa9cc35067d3574b6b0086947b9cdbdb",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f4511e4c8f88b062ca2b": {
+      "id": "opp_f4511e4c8f88b062ca2b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34095",
+      "canonicalUrl": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+      "title": "확산 언어 모델을 만드는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T09:55:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 언어 모델이 토큰을 하나씩 이어 쓰는 반면, 확산 언어 모델(Diffusion Language Model)은 여러 위치를 동시에 채우며 반복 단계 수에 따라 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34095"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 8,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e3671d9d5e718e3b6890a4967932665f38953e4142017369328c1d9022b19d97",
+      "dedupeKey": "brief:opp_f4511e4c8f88b062ca2b:sha256:e3671d9d5e718e3b6890a4967932665f38953e4142017369328c1d9022b19d97",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4fc92616d9c74750606c": {
+      "id": "opp_4fc92616d9c74750606c",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/asset_management",
+      "canonicalUrl": "https://toss.tech/article/asset_management",
+      "title": "방해하지 않고, 눈에 띌 수 있을까",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 08:20:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "CVR을 3배 높이면서도 사용자 경험을 놓치지 않기 위해 고민한 과정을 들려드려요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/asset_management"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dae5b9ffbfd1166dad014f4c0fcc6c10fb8e559b41b6c9e4bfda3885ce732a8c",
+      "dedupeKey": "brief:opp_4fc92616d9c74750606c:sha256:dae5b9ffbfd1166dad014f4c0fcc6c10fb8e559b41b6c9e4bfda3885ce732a8c",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9bb9c293a4151c60fd31": {
+      "id": "opp_9bb9c293a4151c60fd31",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:7nprL4UclH8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=7nprL4UclH8",
+      "title": "[한영자막] 일론 머스크가 직접 밝힌 AI의 진짜 위험과 숨겨진 미래 계획입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T09:00:22+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "All-In 팟캐스트에 일론 머스크와 그윈 숏웰(스페이스X 사장 겸 COO)이 함께 출연해 인공지능의 실질적인 위협과 모델 상호 검증(Peer Review) 시스템, 스타십의 완전 재사용 로드맵, 그리고 자체 칩 공장인 테라팹(Terafab) 프로젝트에 대해 심도 있는 대화를 나눴습니다. 주요 내용: • 허깅페이스 해킹과 OpenAI 관리자 권한 침해 사건을 통해 본 AI의 실질적 위험 • AI 기업 간 상호 검증(Peer Review)을 통한 사전 안전 평가 및 중국과의 규제 합의 가능성 • 물",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=7nprL4UclH8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-22T09:00:22.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4c087977fd71b10ecd396409b4dd3474960634fbba079da763be61ad78de347e",
+      "dedupeKey": "brief:opp_9bb9c293a4151c60fd31:sha256:4c087977fd71b10ecd396409b4dd3474960634fbba079da763be61ad78de347e",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1149aab3218f72bc3041": {
+      "id": "opp_1149aab3218f72bc3041",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:qV5p14OSgXU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=qV5p14OSgXU",
+      "title": "Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T07:11:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 빠른 반응 속도로 개발자들의 관심을 모은 AI, Jev를 살펴봅니다. 문장을 길게 생성하는 대신 선택지의 확률을 돌려주는 모델입니다. 기존의 작은 언어모델로도 가능하다는 비판과 비교 조건의 문제를 짚었습니다. 토큰을 순서대로 생성하는 방식과 판단값을 반환하는 방식의 차이도 설명합니다. 반복되는 판단에서 응답 시간과 비용이 왜 중요한지 살펴봅니다. 세레브라스와 Groq의 사례를 통해 빠른 추론이 쓰이는 곳을 짚었습니다. 구",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=qV5p14OSgXU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-22T07:11:05.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cc53d435b82b2468293949f70c9aebb04548f779b96a018b9c356c7ad3063cb0",
+      "dedupeKey": "brief:opp_1149aab3218f72bc3041:sha256:cc53d435b82b2468293949f70c9aebb04548f779b96a018b9c356c7ad3063cb0",
+      "firstSeenAt": "2026-09-22T09:05:46.046Z",
+      "lastSeenAt": "2026-09-22T09:05:46.046Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -63311,6 +63613,36 @@
       "opportunityId": "opp_80c4772223dc6746115f",
       "sentAt": "2026-09-22T03:47:43.044Z",
       "messageId": "1551802148856008726"
+    },
+    "brief:opp_4fc92616d9c74750606c:sha256:dae5b9ffbfd1166dad014f4c0fcc6c10fb8e559b41b6c9e4bfda3885ce732a8c": {
+      "status": "SENT",
+      "opportunityId": "opp_4fc92616d9c74750606c",
+      "sentAt": "2026-09-22T09:05:46.046Z",
+      "messageId": "1551882187983556690"
+    },
+    "brief:opp_9bb9c293a4151c60fd31:sha256:4c087977fd71b10ecd396409b4dd3474960634fbba079da763be61ad78de347e": {
+      "status": "SENT",
+      "opportunityId": "opp_9bb9c293a4151c60fd31",
+      "sentAt": "2026-09-22T09:05:46.046Z",
+      "messageId": "1551882187983556690"
+    },
+    "brief:opp_1149aab3218f72bc3041:sha256:cc53d435b82b2468293949f70c9aebb04548f779b96a018b9c356c7ad3063cb0": {
+      "status": "SENT",
+      "opportunityId": "opp_1149aab3218f72bc3041",
+      "sentAt": "2026-09-22T09:05:46.046Z",
+      "messageId": "1551882187983556690"
+    },
+    "brief:opp_f4511e4c8f88b062ca2b:sha256:e3671d9d5e718e3b6890a4967932665f38953e4142017369328c1d9022b19d97": {
+      "status": "SENT",
+      "opportunityId": "opp_f4511e4c8f88b062ca2b",
+      "sentAt": "2026-09-22T09:05:46.046Z",
+      "messageId": "1551882187983556690"
+    },
+    "brief:opp_48edbcb7b8a067c091d3:sha256:2d2f9050d09eb15c89693b16a1cbe1423c636df0d49c6eb3e6d43dcf98c3fbaa": {
+      "status": "SENT",
+      "opportunityId": "opp_48edbcb7b8a067c091d3",
+      "sentAt": "2026-09-22T09:05:46.046Z",
+      "messageId": "1551882187983556690"
     }
   },
   "pending": {},
