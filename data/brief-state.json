@@ -55546,7 +55546,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 15,
-        "communityRank": 15,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -55560,8 +55560,8 @@
       },
       "contentHash": "sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
       "dedupeKey": "brief:opp_4fad4475e6b4e798b207:sha256:3ec84e1b36d6ba033f9fe3ff7728bc3cc4058c34f1ad74217ec7329fae8c9501",
-      "firstSeenAt": "2026-09-22T13:52:49.053Z",
-      "lastSeenAt": "2026-09-22T13:52:49.053Z",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55595,7 +55595,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 15,
-        "communityRank": 16,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55609,8 +55609,8 @@
       },
       "contentHash": "sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
       "dedupeKey": "brief:opp_a8303f9a8a1c48050112:sha256:4b9181a6169e80bb4d246e5d71b7cacb902301fd7369fd0e79733674232233b8",
-      "firstSeenAt": "2026-09-22T13:52:49.053Z",
-      "lastSeenAt": "2026-09-22T13:52:49.053Z",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -55791,7 +55791,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 14,
-        "communityRank": 17,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -55805,11 +55805,11 @@
       },
       "contentHash": "sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
       "dedupeKey": "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4",
-      "firstSeenAt": "2026-09-22T13:52:49.053Z",
-      "lastSeenAt": "2026-09-22T13:52:49.053Z",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -56888,13 +56888,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 7,
-        "contentScore": 11,
+        "communityRank": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -56902,8 +56902,8 @@
       },
       "contentHash": "sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
       "dedupeKey": "brief:opp_ac89bd8ca4fbaf0aa902:sha256:0babfa969b6832dec525384e1484063f583d3a5cc8d953878a3480c9dc6b2aa0",
-      "firstSeenAt": "2026-09-22T13:52:49.053Z",
-      "lastSeenAt": "2026-09-22T13:52:49.053Z",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -57402,6 +57402,408 @@
       "dedupeKey": "brief:opp_1149aab3218f72bc3041:sha256:cc53d435b82b2468293949f70c9aebb04548f779b96a018b9c356c7ad3063cb0",
       "firstSeenAt": "2026-09-22T09:05:46.046Z",
       "lastSeenAt": "2026-09-22T09:05:46.046Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1a21385c7e615945543d": {
+      "id": "opp_1a21385c7e615945543d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34046",
+      "canonicalUrl": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore",
+      "title": "이제 인간 수학자가 왜 필요한가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-21T11:04:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 인간보다 많은 증명을 만들어내더라도, 무엇을 연구하고 그 성과를 어디에 쓸지는 인간의 삶을 더 낫게 만들려는 전문가 공동체가 결정해야 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34046"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e69c96464fccc7f849b4f51baf360b77b6972303184f080bfd240f72eb4d4e8f",
+      "dedupeKey": "brief:opp_1a21385c7e615945543d:sha256:e69c96464fccc7f849b4f51baf360b77b6972303184f080bfd240f72eb4d4e8f",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_47d96d55b6c5b8232cac": {
+      "id": "opp_47d96d55b6c5b8232cac",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "canonicalUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Better prompt caching for GPT-6",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "summaryEvidence": [
+        "https://openai.com/index/better-prompt-caching-for-gpt-6"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8f4c7d98351e582e9c656e28a8f3f40c258bf19e643359848e1a933b45255987",
+      "dedupeKey": "brief:opp_47d96d55b6c5b8232cac:sha256:8f4c7d98351e582e9c656e28a8f3f40c258bf19e643359848e1a933b45255987",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a354a2e77677a77b6462": {
+      "id": "opp_a354a2e77677a77b6462",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "canonicalUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3686981143e9b2c9e0d54dd34f55aead5be094615255d609ca293d9aff5369fa",
+      "dedupeKey": "brief:opp_a354a2e77677a77b6462:sha256:3686981143e9b2c9e0d54dd34f55aead5be094615255d609ca293d9aff5369fa",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9cb6dec50e1dc5c5ce31": {
+      "id": "opp_9cb6dec50e1dc5c5ce31",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "canonicalUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "summaryEvidence": [
+        "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6ecf71352f663511ec41b4f4701467d989e5fde4b230236ba6eb8d61fb98a836",
+      "dedupeKey": "brief:opp_9cb6dec50e1dc5c5ce31:sha256:6ecf71352f663511ec41b4f4701467d989e5fde4b230236ba6eb8d61fb98a836",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_47ba0140dc3e74471366": {
+      "id": "opp_47ba0140dc3e74471366",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "canonicalUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "summaryEvidence": [
+        "https://openai.com/index/priorities-principles-third-party-assessments"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6f98db452838018585fde3e8c7f885cd36b7b54e23778f8f4e844d4de13e98d5",
+      "dedupeKey": "brief:opp_47ba0140dc3e74471366:sha256:6f98db452838018585fde3e8c7f885cd36b7b54e23778f8f4e844d4de13e98d5",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b0b455b6e94fd70d1dc8": {
+      "id": "opp_b0b455b6e94fd70d1dc8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:PzhJ3IWrN9Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PzhJ3IWrN9Q",
+      "title": "[한영자막] 하네스 엔지니어링 완벽 해설: Antigravity, Claude Code, Cursor를 지탱하는 스택의 비밀을 파헤칩니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T22:00:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트 하네스(Agent Harness)란 무엇이며, 왜 완전 자율 코딩의 핵심 열쇠일까요? 코딩 에이전트가 한계에 부딪혔다면 문제는 모델 자체가 아니라 스택에 있을 수 있습니다. 이번 영상에서는 '에이전트 하네스'라는 개념을 처음 제시한 Google 엔지니어 라이언 로포폴로(Ryan Lopopolo)와 함께 왜 그가 작년 5월 이후 직접 코드를 작성하지 않는지, 고성능 에이전트를 만들기 위한 엔지니어링 원칙은 무엇인지 알아봅니다. 또한 빌리(Billy)의 ADK 코드 데모와 스미타(Smitha",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PzhJ3IWrN9Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-22T22:00:18.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a23a3a1b6b7bef3051500ee5ac45be6a78bd36abf5da9c44948cbf82a1ed83fe",
+      "dedupeKey": "brief:opp_b0b455b6e94fd70d1dc8:sha256:a23a3a1b6b7bef3051500ee5ac45be6a78bd36abf5da9c44948cbf82a1ed83fe",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c7f5940b21c19b40f2a3": {
+      "id": "opp_c7f5940b21c19b40f2a3",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:U_sjnF3jvCo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=U_sjnF3jvCo",
+      "title": "GPT 6 Sol & Luna Are Here (And 50% CHEAPER!)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T19:05:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io 1 hour after Anthropic releases Opus 5.5, OpenAI responds with GPT 6 Sol and Luna. Here's a breakdown",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=U_sjnF3jvCo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-22T19:05:34.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bc19f6f3c119a369238bf0560f5727bf9b1f39e0885a62f96acde6840d19b582",
+      "dedupeKey": "brief:opp_c7f5940b21c19b40f2a3:sha256:bc19f6f3c119a369238bf0560f5727bf9b1f39e0885a62f96acde6840d19b582",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_05be0c35dff5855628e4": {
+      "id": "opp_05be0c35dff5855628e4",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:ijPsFZ1EHlI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ijPsFZ1EHlI",
+      "title": "Opus 5.5 Crushes Fable & Astra",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T17:15:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Anthropic strikes back with the release of Claude 5.5 Opus, their l",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ijPsFZ1EHlI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-22T19:05:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a55df13e830ea61c2ed2b91073ee7366ab7f61d3897e7b1af986855f1fa0504e",
+      "dedupeKey": "brief:opp_05be0c35dff5855628e4:sha256:a55df13e830ea61c2ed2b91073ee7366ab7f61d3897e7b1af986855f1fa0504e",
+      "firstSeenAt": "2026-09-23T00:06:05.245Z",
+      "lastSeenAt": "2026-09-23T00:06:05.245Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -63655,6 +64057,42 @@
       "opportunityId": "opp_7631f19d1dec1fa05d33",
       "sentAt": "2026-09-22T13:52:49.053Z",
       "messageId": "1551954426925813794"
+    },
+    "brief:opp_47d96d55b6c5b8232cac:sha256:8f4c7d98351e582e9c656e28a8f3f40c258bf19e643359848e1a933b45255987": {
+      "status": "SENT",
+      "opportunityId": "opp_47d96d55b6c5b8232cac",
+      "sentAt": "2026-09-23T00:06:05.245Z",
+      "messageId": "1552108762184155257"
+    },
+    "brief:opp_a354a2e77677a77b6462:sha256:3686981143e9b2c9e0d54dd34f55aead5be094615255d609ca293d9aff5369fa": {
+      "status": "SENT",
+      "opportunityId": "opp_a354a2e77677a77b6462",
+      "sentAt": "2026-09-23T00:06:05.245Z",
+      "messageId": "1552108762184155257"
+    },
+    "brief:opp_b0b455b6e94fd70d1dc8:sha256:a23a3a1b6b7bef3051500ee5ac45be6a78bd36abf5da9c44948cbf82a1ed83fe": {
+      "status": "SENT",
+      "opportunityId": "opp_b0b455b6e94fd70d1dc8",
+      "sentAt": "2026-09-23T00:06:05.245Z",
+      "messageId": "1552108762184155257"
+    },
+    "brief:opp_c7f5940b21c19b40f2a3:sha256:bc19f6f3c119a369238bf0560f5727bf9b1f39e0885a62f96acde6840d19b582": {
+      "status": "SENT",
+      "opportunityId": "opp_c7f5940b21c19b40f2a3",
+      "sentAt": "2026-09-23T00:06:05.245Z",
+      "messageId": "1552108762184155257"
+    },
+    "brief:opp_05be0c35dff5855628e4:sha256:a55df13e830ea61c2ed2b91073ee7366ab7f61d3897e7b1af986855f1fa0504e": {
+      "status": "SENT",
+      "opportunityId": "opp_05be0c35dff5855628e4",
+      "sentAt": "2026-09-23T00:06:05.245Z",
+      "messageId": "1552108762184155257"
+    },
+    "brief:opp_7ceec1f176bf734eb9c2:sha256:7da642e1df9c512ec55944003203a59f3cf613ca08c8e74777ad056cf231a8c4": {
+      "status": "SENT",
+      "opportunityId": "opp_7ceec1f176bf734eb9c2",
+      "sentAt": "2026-09-23T00:06:05.245Z",
+      "messageId": "1552108762184155257"
     }
   },
   "pending": {},
