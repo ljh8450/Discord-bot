@@ -57957,6 +57957,452 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_6a2701e0c6315d1eb24e": {
+      "id": "opp_6a2701e0c6315d1eb24e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34142",
+      "canonicalUrl": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T06:35:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AAII에서 최대 추론 설정의 Opus 5.5 max는 지능 지수 58점을 기록했으며, 이전 Opus 5의 최고점 51점과 Fable 5.1의 53점을 넘어섬 추론 강도에 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34142"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
+      "dedupeKey": "brief:opp_6a2701e0c6315d1eb24e:sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b29f9ff8acd95e122301": {
+      "id": "opp_b29f9ff8acd95e122301",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34120",
+      "canonicalUrl": "https://nathan.rs/posts/gzip-lm",
+      "title": "gzip도 언어 모델이 될 수 있을까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T20:33:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "GziPT는 신경망이나 별도 학습 없이 gzip의 압축 원리로 글을 이어 쓰는 실험으로, 주어진 텍스트 뒤에 여러 후보를 붙여 보고 가장 작게 압축되는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34120"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e2ba99d4729aa3c7d3f156ee2744c8d5e81bf1fbc6e3375bfc197e341b9e962e",
+      "dedupeKey": "brief:opp_b29f9ff8acd95e122301:sha256:e2ba99d4729aa3c7d3f156ee2744c8d5e81bf1fbc6e3375bfc197e341b9e962e",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_86c1cdb7faade5d95cb4": {
+      "id": "opp_86c1cdb7faade5d95cb4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34139",
+      "canonicalUrl": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "title": "OpenAI가 Jev의 밥그릇을 빼앗을까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T03:42:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "문장 대신 선택지별 확률과 판단을 반환하는 Jev가 인기를 얻고 있지만, OpenAI도 이미 도구 선택과 응답 종료 등에 토큰 확률을 활용하고 있어 비...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34139"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:67c5df19ad2fc60498b6391f81e0139bf85ac2069db6a875a75a8b986e588249",
+      "dedupeKey": "brief:opp_86c1cdb7faade5d95cb4:sha256:67c5df19ad2fc60498b6391f81e0139bf85ac2069db6a875a75a8b986e588249",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3ec5e92b610252c4ce6f": {
+      "id": "opp_3ec5e92b610252c4ce6f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34154",
+      "canonicalUrl": "https://news.hada.io/topic?id=34154",
+      "title": "Show GN: UtilPick — 설치도 가입도 없이 브라우저에서 쓰는 무료 도구 100개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T10:03:21+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 자주 쓰는 작은 도구 100개를 한곳에 모은 UtilPick을 만들었습니다. 뭘 만들었나 글자수 세기, 이미지 압축, PDF 합치기·나누기·비교...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34154"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:091062270d566a8f225b6e63b7d4366679a5ee3b15d71e2550b83dfb7e78033a",
+      "dedupeKey": "brief:opp_3ec5e92b610252c4ce6f:sha256:091062270d566a8f225b6e63b7d4366679a5ee3b15d71e2550b83dfb7e78033a",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5d2cf0cdad51f5bbefca": {
+      "id": "opp_5d2cf0cdad51f5bbefca",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34150",
+      "canonicalUrl": "https://github.com/fluree/db",
+      "title": "Fluree DB - 이력과 검증, 브랜치 병합을 갖춘 그래프 데이터베이스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "데이터의 현재 상태뿐 아니라 변경 이력과 출처를 함께 관리하는 Rust 기반 그래프 데이터베이스 Git처럼 데이터베이스를 브랜치로 나누고 독립적...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34150"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a",
+      "dedupeKey": "brief:opp_5d2cf0cdad51f5bbefca:sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_499a6ed79e3a0b89ac5a": {
+      "id": "opp_499a6ed79e3a0b89ac5a",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/837",
+      "canonicalUrl": "https://tech.kakao.com/posts/837",
+      "title": "개인화 추천을 위한 랭킹 모델 개발기",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Tue, 22 Sep 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "안녕하세요! 카카오에서 유저 편의성을 높이는 데 관심이 많은 토리입니다. 카카오에는 정말 다양한 서비스와 그 안에 쌓이는 방대한 데이터가 있습니다. 이 많은 콘텐츠와 유저를 잘 이어주는 역할을 하는 것이 바로 추천이고, 그중에서도 \"얼마나 이 유저에게 맞는 콘텐츠를 보여주는가\"는 서비스 체류시간과 만족도에 직결되는 핵심 문제입니다. 그래서 세그먼트 단위로 동작하던 추천 로직을, 유저 개인의 히스토리를 반영하는 개인화 랭킹 모델로 교체하는 프로젝트를 진행...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/837"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e84f40319daba4a397718ac10669d0d6ae77592f9b9668f63a105c8dd9dcb4b5",
+      "dedupeKey": "brief:opp_499a6ed79e3a0b89ac5a:sha256:e84f40319daba4a397718ac10669d0d6ae77592f9b9668f63a105c8dd9dcb4b5",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_59623ae744edce7a9422": {
+      "id": "opp_59623ae744edce7a9422",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/AI_chatbot",
+      "canonicalUrl": "https://toss.tech/article/AI_chatbot",
+      "title": "연 300시간을 아낀 AI 상담 서비스",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 06:39:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "전화 문의를 줄이려다 사용자의 경험에서 답을 찾은 이야기예요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/AI_chatbot"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:36da3c107078d755e323812b6f6219f1e3d75b292be8f075581e70471b38562b",
+      "dedupeKey": "brief:opp_59623ae744edce7a9422:sha256:36da3c107078d755e323812b6f6219f1e3d75b292be8f075581e70471b38562b",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3090ebc0c97657514d2b": {
+      "id": "opp_3090ebc0c97657514d2b",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=27678",
+      "canonicalUrl": "https://techblog.woowahan.com/27678",
+      "title": "사장님 입점신청 자동승인 주기를 10분에서 10초로",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T06:40:18.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "사장님의 입점신청 요청들은 자동승인 처리가 시작되기까지 최소 3분에서 최대 12분 59초가 걸렸습니다. 이 대기를 10초 이내로 줄인 과정을 기록한 글입니다. 그림 출처: AI 자동생성(https://youmind.com) 세 줄 요약 큐 역할을 하는 DB에 후보를 모았다가 처리하던 2단계 스케줄러(10분 주기)를 걷어내고, 요청 테이블과 처리 상태 테이블을 한 번에 보는 조회와 10초 폴링으로 변경했습니다. 자동승인 대상건 생성 후 처리 […] The post 사장님 입점신청 자동승인 주기를 1",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/27678/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c5c57c6a73bd80c7758910a47edf75cc9473497254d8d25b33cd7620614dc477",
+      "dedupeKey": "brief:opp_3090ebc0c97657514d2b:sha256:c5c57c6a73bd80c7758910a47edf75cc9473497254d8d25b33cd7620614dc477",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2aff050db4cd5bde904f": {
+      "id": "opp_2aff050db4cd5bde904f",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:o_7vTaHOL28",
+      "canonicalUrl": "https://www.youtube.com/watch?v=o_7vTaHOL28",
+      "title": "Cursor 엔지니어의 한 달 PR 1,000개 — 에이전트를 믿게 만든 건 프롬프트가 아니라 코드베이스였습니다",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T06:16:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Cursor 엔지니어 Lauren Tan 이 Maven 라이브 워크샵에서 한 시간 동안 풀어놓은 이야기를 따라갑니다. 한 달에 PR 1,000개를 머지하고, 그다음 달엔 12일 만에 800개를 채운 사람입니다. 직접 다 짠 게 아니라 에이전트가 짜고 에이전트가 머지했고, 본인은 아침에 일어나 밤사이 main 에 올라간 스무 개를 확인한다고 해요. 그 신뢰가 어디서 왔는지 — 검증 스킬, eval, 그리고 코드베이스 자체를 에이전트가 일하기 좋게 다시 짠 과정을 순서대로 정리했습니다. 중간중간 강연",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=o_7vTaHOL28"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-23T06:16:02.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4127bf66cf031908f3975fe680a590c36225563a3af89f70a4de6d7287759da8",
+      "dedupeKey": "brief:opp_2aff050db4cd5bde904f:sha256:4127bf66cf031908f3975fe680a590c36225563a3af89f70a4de6d7287759da8",
+      "firstSeenAt": "2026-09-23T09:06:11.219Z",
+      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -64271,6 +64717,42 @@
       "opportunityId": "opp_41dceb29ba4e6a64edd9",
       "sentAt": "2026-09-23T03:46:22.688Z",
       "messageId": "1552164199839432737"
+    },
+    "brief:opp_3090ebc0c97657514d2b:sha256:c5c57c6a73bd80c7758910a47edf75cc9473497254d8d25b33cd7620614dc477": {
+      "status": "SENT",
+      "opportunityId": "opp_3090ebc0c97657514d2b",
+      "sentAt": "2026-09-23T09:06:11.219Z",
+      "messageId": "1552244681554001982"
+    },
+    "brief:opp_59623ae744edce7a9422:sha256:36da3c107078d755e323812b6f6219f1e3d75b292be8f075581e70471b38562b": {
+      "status": "SENT",
+      "opportunityId": "opp_59623ae744edce7a9422",
+      "sentAt": "2026-09-23T09:06:11.219Z",
+      "messageId": "1552244681554001982"
+    },
+    "brief:opp_499a6ed79e3a0b89ac5a:sha256:e84f40319daba4a397718ac10669d0d6ae77592f9b9668f63a105c8dd9dcb4b5": {
+      "status": "SENT",
+      "opportunityId": "opp_499a6ed79e3a0b89ac5a",
+      "sentAt": "2026-09-23T09:06:11.219Z",
+      "messageId": "1552244681554001982"
+    },
+    "brief:opp_2aff050db4cd5bde904f:sha256:4127bf66cf031908f3975fe680a590c36225563a3af89f70a4de6d7287759da8": {
+      "status": "SENT",
+      "opportunityId": "opp_2aff050db4cd5bde904f",
+      "sentAt": "2026-09-23T09:06:11.219Z",
+      "messageId": "1552244681554001982"
+    },
+    "brief:opp_b29f9ff8acd95e122301:sha256:e2ba99d4729aa3c7d3f156ee2744c8d5e81bf1fbc6e3375bfc197e341b9e962e": {
+      "status": "SENT",
+      "opportunityId": "opp_b29f9ff8acd95e122301",
+      "sentAt": "2026-09-23T09:06:11.219Z",
+      "messageId": "1552244681554001982"
+    },
+    "brief:opp_3ec5e92b610252c4ce6f:sha256:091062270d566a8f225b6e63b7d4366679a5ee3b15d71e2550b83dfb7e78033a": {
+      "status": "SENT",
+      "opportunityId": "opp_3ec5e92b610252c4ce6f",
+      "sentAt": "2026-09-23T09:06:11.219Z",
+      "messageId": "1552244681554001982"
     }
   },
   "pending": {},
