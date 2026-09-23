@@ -57593,11 +57593,11 @@
       },
       "contentHash": "sha256:6ecf71352f663511ec41b4f4701467d989e5fde4b230236ba6eb8d61fb98a836",
       "dedupeKey": "brief:opp_9cb6dec50e1dc5c5ce31:sha256:6ecf71352f663511ec41b4f4701467d989e5fde4b230236ba6eb8d61fb98a836",
-      "firstSeenAt": "2026-09-23T00:06:05.245Z",
-      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "firstSeenAt": "2026-09-23T03:46:22.688Z",
+      "lastSeenAt": "2026-09-23T03:46:22.688Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -57641,11 +57641,11 @@
       },
       "contentHash": "sha256:6f98db452838018585fde3e8c7f885cd36b7b54e23778f8f4e844d4de13e98d5",
       "dedupeKey": "brief:opp_47ba0140dc3e74471366:sha256:6f98db452838018585fde3e8c7f885cd36b7b54e23778f8f4e844d4de13e98d5",
-      "firstSeenAt": "2026-09-23T00:06:05.245Z",
-      "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "firstSeenAt": "2026-09-23T03:46:22.688Z",
+      "lastSeenAt": "2026-09-23T03:46:22.688Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -57804,6 +57804,154 @@
       "dedupeKey": "brief:opp_05be0c35dff5855628e4:sha256:a55df13e830ea61c2ed2b91073ee7366ab7f61d3897e7b1af986855f1fa0504e",
       "firstSeenAt": "2026-09-23T00:06:05.245Z",
       "lastSeenAt": "2026-09-23T00:06:05.245Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_41dceb29ba4e6a64edd9": {
+      "id": "opp_41dceb29ba4e6a64edd9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34105",
+      "canonicalUrl": "https://linear.app/now/ci-bottleneck-reworked",
+      "title": "AI 코딩으로 병목이 된 CI, Linear는 어떻게 개선했나",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T12:42:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Linear는 연초 이후 테스트가 거의 4배로 늘었는데도, PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고 테스트당 러너 사용 시간을 약 절반...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34105"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0b1babbe94a198e6aa2f4bdfbc59455972bd56fcbfa4445ced0641fdec7dc140",
+      "dedupeKey": "brief:opp_41dceb29ba4e6a64edd9:sha256:0b1babbe94a198e6aa2f4bdfbc59455972bd56fcbfa4445ced0641fdec7dc140",
+      "firstSeenAt": "2026-09-23T03:46:22.688Z",
+      "lastSeenAt": "2026-09-23T03:46:22.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a09e7f8ad007c4288657": {
+      "id": "opp_a09e7f8ad007c4288657",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34122",
+      "canonicalUrl": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
+      "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-22T22:11:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Scala 라이브러리 Monix의 저자 Alexandru Nedelcu가 쓴 글로, 코드를 읽고 쓰지 않게 된 사람과 조직은 스스로 위험을 자초하는 것이라고 주장함 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34122"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ad451bff10f1140a8f39817289147bf51f6937ecdbb78d675cd8014768e3531a",
+      "dedupeKey": "brief:opp_a09e7f8ad007c4288657:sha256:ad451bff10f1140a8f39817289147bf51f6937ecdbb78d675cd8014768e3531a",
+      "firstSeenAt": "2026-09-23T03:46:22.688Z",
+      "lastSeenAt": "2026-09-23T03:46:22.688Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef19c29842309cc77945": {
+      "id": "opp_ef19c29842309cc77945",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=27782",
+      "canonicalUrl": "https://techblog.woowahan.com/27782",
+      "title": "우아한형제들의 기술 콘퍼런스, WOOWACON 2026이 열립니다!",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T01:00:34.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "정보는 이미 실시간으로 움직입니다. 하지만 현실의 세계에는 여전히 많은 기다림이 남아 있습니다. 고객은 원하는 것을 찾기 위해 기다리고, 상품은 준비되기를 기다리고, 시스템은 사람의 판단을 기다립니다. 올해 우아콘은 \"우리가 어떤 기술을 만들었는가\"가 아니라 \"배민은 기술로 어떤 세계를 만들고 있는가\"를 이야기합니다. 백엔드, AI/ML, 데이터, 프런트엔드, 모바일 앱, 디자인, 문화/성장 등 각자의 자리에서 마주한 문제를 풀어낸 사례를 공유합니다. […] The post 우아한형제들의 기술 콘",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/27782/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2588ffbad6a301220638aec5d6fbe62b8c2219a36a448b61e1ef93685d0a8e1a",
+      "dedupeKey": "brief:opp_ef19c29842309cc77945:sha256:2588ffbad6a301220638aec5d6fbe62b8c2219a36a448b61e1ef93685d0a8e1a",
+      "firstSeenAt": "2026-09-23T03:46:22.688Z",
+      "lastSeenAt": "2026-09-23T03:46:22.688Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -64093,6 +64241,36 @@
       "opportunityId": "opp_7ceec1f176bf734eb9c2",
       "sentAt": "2026-09-23T00:06:05.245Z",
       "messageId": "1552108762184155257"
+    },
+    "brief:opp_ef19c29842309cc77945:sha256:2588ffbad6a301220638aec5d6fbe62b8c2219a36a448b61e1ef93685d0a8e1a": {
+      "status": "SENT",
+      "opportunityId": "opp_ef19c29842309cc77945",
+      "sentAt": "2026-09-23T03:46:22.688Z",
+      "messageId": "1552164199839432737"
+    },
+    "brief:opp_9cb6dec50e1dc5c5ce31:sha256:6ecf71352f663511ec41b4f4701467d989e5fde4b230236ba6eb8d61fb98a836": {
+      "status": "SENT",
+      "opportunityId": "opp_9cb6dec50e1dc5c5ce31",
+      "sentAt": "2026-09-23T03:46:22.688Z",
+      "messageId": "1552164199839432737"
+    },
+    "brief:opp_47ba0140dc3e74471366:sha256:6f98db452838018585fde3e8c7f885cd36b7b54e23778f8f4e844d4de13e98d5": {
+      "status": "SENT",
+      "opportunityId": "opp_47ba0140dc3e74471366",
+      "sentAt": "2026-09-23T03:46:22.688Z",
+      "messageId": "1552164199839432737"
+    },
+    "brief:opp_a09e7f8ad007c4288657:sha256:ad451bff10f1140a8f39817289147bf51f6937ecdbb78d675cd8014768e3531a": {
+      "status": "SENT",
+      "opportunityId": "opp_a09e7f8ad007c4288657",
+      "sentAt": "2026-09-23T03:46:22.688Z",
+      "messageId": "1552164199839432737"
+    },
+    "brief:opp_41dceb29ba4e6a64edd9:sha256:0b1babbe94a198e6aa2f4bdfbc59455972bd56fcbfa4445ced0641fdec7dc140": {
+      "status": "SENT",
+      "opportunityId": "opp_41dceb29ba4e6a64edd9",
+      "sentAt": "2026-09-23T03:46:22.688Z",
+      "messageId": "1552164199839432737"
     }
   },
   "pending": {},
