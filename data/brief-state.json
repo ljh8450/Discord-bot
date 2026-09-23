@@ -57984,8 +57984,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 3,
+        "communityPoints": 8,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -57999,8 +57999,8 @@
       },
       "contentHash": "sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
       "dedupeKey": "brief:opp_6a2701e0c6315d1eb24e:sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
-      "firstSeenAt": "2026-09-23T09:06:11.219Z",
-      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -58083,7 +58083,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 6,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -58097,8 +58097,8 @@
       },
       "contentHash": "sha256:67c5df19ad2fc60498b6391f81e0139bf85ac2069db6a875a75a8b986e588249",
       "dedupeKey": "brief:opp_86c1cdb7faade5d95cb4:sha256:67c5df19ad2fc60498b6391f81e0139bf85ac2069db6a875a75a8b986e588249",
-      "firstSeenAt": "2026-09-23T09:06:11.219Z",
-      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -58181,7 +58181,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 8,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -58195,8 +58195,8 @@
       },
       "contentHash": "sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a",
       "dedupeKey": "brief:opp_5d2cf0cdad51f5bbefca:sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a",
-      "firstSeenAt": "2026-09-23T09:06:11.219Z",
-      "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -58398,6 +58398,305 @@
       "dedupeKey": "brief:opp_2aff050db4cd5bde904f:sha256:4127bf66cf031908f3975fe680a590c36225563a3af89f70a4de6d7287759da8",
       "firstSeenAt": "2026-09-23T09:06:11.219Z",
       "lastSeenAt": "2026-09-23T09:06:11.219Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_78f455f91e246b2d2d74": {
+      "id": "opp_78f455f91e246b2d2d74",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34135",
+      "canonicalUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "title": "Claude Opus 5.5 출시",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T02:43:06+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude 5.5 제품군의 첫 모델로, 대부분의 작업에서 Fable 5.1 수준의 성능을 내며 코딩, 컴퓨터 사용과 문서 작성 등 전문 업무 능력을 높임 기본...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34135"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b882a336194c53ea3184233a222168f47f50a64c5722654941f1cd2ed90ad019",
+      "dedupeKey": "brief:opp_78f455f91e246b2d2d74:sha256:b882a336194c53ea3184233a222168f47f50a64c5722654941f1cd2ed90ad019",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d0187d7e3e201fdd0aff": {
+      "id": "opp_d0187d7e3e201fdd0aff",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "canonicalUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "summaryEvidence": [
+        "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:42bd50ea78c3067c213bb721dd43f29517a01cd508081b7d559c1e28ec33ca1b",
+      "dedupeKey": "brief:opp_d0187d7e3e201fdd0aff:sha256:42bd50ea78c3067c213bb721dd43f29517a01cd508081b7d559c1e28ec33ca1b",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_874c1ad303d8b2682e91": {
+      "id": "opp_874c1ad303d8b2682e91",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "canonicalUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "summaryEvidence": [
+        "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d5e166130e6ea7f5d53ab77fe0c42241d2d2fd231356dc403739b2fcc005ff57",
+      "dedupeKey": "brief:opp_874c1ad303d8b2682e91:sha256:d5e166130e6ea7f5d53ab77fe0c42241d2d2fd231356dc403739b2fcc005ff57",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0b4975639a0b9d73d045": {
+      "id": "opp_0b4975639a0b9d73d045",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98976",
+      "canonicalUrl": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need",
+      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told u",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:59871a8687c425c058d0a38b2cd74d675ff197fdb733b47637b68501d78cd90a",
+      "dedupeKey": "brief:opp_0b4975639a0b9d73d045:sha256:59871a8687c425c058d0a38b2cd74d675ff197fdb733b47637b68501d78cd90a",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_af8e1a233e067e095442": {
+      "id": "opp_af8e1a233e067e095442",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:DesSEX_9Z5A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=DesSEX_9Z5A",
+      "title": "[한영자막] 토탈 리콜: 에이전트 메모리와 하네스 엔지니어링을 마스터해보세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T09:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "언어 모델(LLM) 자체는 고정된 추론 엔진에 불과하며, 실제 안정적이고 반복 가능한 에이전트를 완성하는 열쇠는 바로 이를 둘러싼 '하네스(Harness)'와 '메모리 아키텍처'에 있습니다. 오라클의 AI 데브렐 Ignacio Martinez가 전하는 에이전트 7계층 하네스 엔지니어링과 실전 메모리 설계 노하우를 확인해보세요. 📌 주요 내용: • 추론은 빌려 쓰지만, 메모리와 하네스는 개발자가 직접 완벽히 통제해야 합니다. • 다중 에이전트 환경에서 작업 충돌을 방지하는 파일 vs 데이터베이스(",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=DesSEX_9Z5A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-23T09:00:09.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:89f6405cbf23b71da77c1639ed355055aae5eb8c0eddc2ea13584dcf924936b9",
+      "dedupeKey": "brief:opp_af8e1a233e067e095442:sha256:89f6405cbf23b71da77c1639ed355055aae5eb8c0eddc2ea13584dcf924936b9",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a71c5c2a06d5c5a7590": {
+      "id": "opp_8a71c5c2a06d5c5a7590",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:6ESP4rQLhEo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6ESP4rQLhEo",
+      "title": "한마디 했더니 광고까지 만들었다 | AI 영상 제작의 새로운 방식",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T10:00:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "지금 Higgsfield MCP 사용해보기 https://higgsfield.ai/s/unrealtech-pwRpxi ChatGPT에서 힉스필드 연결하기 AI가 똑똑해질수록 우리가 직접 해야 하는 작업은 어디까지 줄어들까요? 이번 영상에서는 ChatGPT 안에 힉스필드를 연결해 영상을 제작하는 과정을 보여드립니다. GPT-6 Astra에 짧은 방향만 주고 콘셉트와 장면 구성을 기획하게 했습니다. GPU 서버 조립 장면과 판타지 K-드라마, 프리미엄 헤드폰 광고를 직접 만들어봤습니다. 기준 이미지를",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6ESP4rQLhEo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-23T10:00:21.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:15f254c832a0d988eff3a181e3974225264b214413d1b1104394f83e904f8b3d",
+      "dedupeKey": "brief:opp_8a71c5c2a06d5c5a7590:sha256:15f254c832a0d988eff3a181e3974225264b214413d1b1104394f83e904f8b3d",
+      "firstSeenAt": "2026-09-23T14:03:43.036Z",
+      "lastSeenAt": "2026-09-23T14:03:43.036Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -64753,6 +65052,42 @@
       "opportunityId": "opp_3ec5e92b610252c4ce6f",
       "sentAt": "2026-09-23T09:06:11.219Z",
       "messageId": "1552244681554001982"
+    },
+    "brief:opp_0b4975639a0b9d73d045:sha256:59871a8687c425c058d0a38b2cd74d675ff197fdb733b47637b68501d78cd90a": {
+      "status": "SENT",
+      "opportunityId": "opp_0b4975639a0b9d73d045",
+      "sentAt": "2026-09-23T14:03:43.036Z",
+      "messageId": "1552319559342497873"
+    },
+    "brief:opp_d0187d7e3e201fdd0aff:sha256:42bd50ea78c3067c213bb721dd43f29517a01cd508081b7d559c1e28ec33ca1b": {
+      "status": "SENT",
+      "opportunityId": "opp_d0187d7e3e201fdd0aff",
+      "sentAt": "2026-09-23T14:03:43.036Z",
+      "messageId": "1552319559342497873"
+    },
+    "brief:opp_8a71c5c2a06d5c5a7590:sha256:15f254c832a0d988eff3a181e3974225264b214413d1b1104394f83e904f8b3d": {
+      "status": "SENT",
+      "opportunityId": "opp_8a71c5c2a06d5c5a7590",
+      "sentAt": "2026-09-23T14:03:43.036Z",
+      "messageId": "1552319559342497873"
+    },
+    "brief:opp_af8e1a233e067e095442:sha256:89f6405cbf23b71da77c1639ed355055aae5eb8c0eddc2ea13584dcf924936b9": {
+      "status": "SENT",
+      "opportunityId": "opp_af8e1a233e067e095442",
+      "sentAt": "2026-09-23T14:03:43.036Z",
+      "messageId": "1552319559342497873"
+    },
+    "brief:opp_874c1ad303d8b2682e91:sha256:d5e166130e6ea7f5d53ab77fe0c42241d2d2fd231356dc403739b2fcc005ff57": {
+      "status": "SENT",
+      "opportunityId": "opp_874c1ad303d8b2682e91",
+      "sentAt": "2026-09-23T14:03:43.036Z",
+      "messageId": "1552319559342497873"
+    },
+    "brief:opp_78f455f91e246b2d2d74:sha256:b882a336194c53ea3184233a222168f47f50a64c5722654941f1cd2ed90ad019": {
+      "status": "SENT",
+      "opportunityId": "opp_78f455f91e246b2d2d74",
+      "sentAt": "2026-09-23T14:03:43.036Z",
+      "messageId": "1552319559342497873"
     }
   },
   "pending": {},
