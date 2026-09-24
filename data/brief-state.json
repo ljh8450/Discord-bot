@@ -57985,13 +57985,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityRank": 5,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -57999,8 +57999,8 @@
       },
       "contentHash": "sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
       "dedupeKey": "brief:opp_6a2701e0c6315d1eb24e:sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
-      "firstSeenAt": "2026-09-23T14:03:43.036Z",
-      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -58083,13 +58083,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 8,
-        "contentScore": 11,
+        "communityRank": 12,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -58097,8 +58097,8 @@
       },
       "contentHash": "sha256:67c5df19ad2fc60498b6391f81e0139bf85ac2069db6a875a75a8b986e588249",
       "dedupeKey": "brief:opp_86c1cdb7faade5d95cb4:sha256:67c5df19ad2fc60498b6391f81e0139bf85ac2069db6a875a75a8b986e588249",
-      "firstSeenAt": "2026-09-23T14:03:43.036Z",
-      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -58181,7 +58181,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 11,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -58195,11 +58195,11 @@
       },
       "contentHash": "sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a",
       "dedupeKey": "brief:opp_5d2cf0cdad51f5bbefca:sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a",
-      "firstSeenAt": "2026-09-23T14:03:43.036Z",
-      "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -58697,6 +58697,492 @@
       "dedupeKey": "brief:opp_8a71c5c2a06d5c5a7590:sha256:15f254c832a0d988eff3a181e3974225264b214413d1b1104394f83e904f8b3d",
       "firstSeenAt": "2026-09-23T14:03:43.036Z",
       "lastSeenAt": "2026-09-23T14:03:43.036Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4d3f2ea0758d132f3d45": {
+      "id": "opp_4d3f2ea0758d132f3d45",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/two-years-of-openai-academy",
+      "canonicalUrl": "https://openai.com/index/two-years-of-openai-academy",
+      "title": "Two years of OpenAI Academy",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "summaryEvidence": [
+        "https://openai.com/index/two-years-of-openai-academy"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:26315754ede0577dfa4f5aa01f0bea89636dceccbfcf08fbf172279fad28b0fb",
+      "dedupeKey": "brief:opp_4d3f2ea0758d132f3d45:sha256:26315754ede0577dfa4f5aa01f0bea89636dceccbfcf08fbf172279fad28b0fb",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dcb1bc21b0f21faac609": {
+      "id": "opp_dcb1bc21b0f21faac609",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "canonicalUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "summaryEvidence": [
+        "https://openai.com/index/sam-altman-un-security-council-remarks"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff",
+      "dedupeKey": "brief:opp_dcb1bc21b0f21faac609:sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_923b61332dd85381ba8c": {
+      "id": "opp_923b61332dd85381ba8c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "canonicalUrl": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "summaryEvidence": [
+        "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:29b34fd3b4c84139d21b1f442fb6eb1489996aeadf6c1912583ce61f9926ddc1",
+      "dedupeKey": "brief:opp_923b61332dd85381ba8c:sha256:29b34fd3b4c84139d21b1f442fb6eb1489996aeadf6c1912583ce61f9926ddc1",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1864240f962237c8e686": {
+      "id": "opp_1864240f962237c8e686",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "canonicalUrl": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "summaryEvidence": [
+        "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9b84451dab2151190d890fb6a44377f36a50c0c754aa6b796ff9560d405fd98e",
+      "dedupeKey": "brief:opp_1864240f962237c8e686:sha256:9b84451dab2151190d890fb6a44377f36a50c0c754aa6b796ff9560d405fd98e",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3b9edcda2365ec500333": {
+      "id": "opp_3b9edcda2365ec500333",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/ringg",
+      "canonicalUrl": "https://openai.com/index/ringg",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summaryEvidence": [
+        "https://openai.com/index/ringg"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b7e3348af7b632975cfbd950ad4237341fcf1d61a358c78e0a08037d5ed6767e",
+      "dedupeKey": "brief:opp_3b9edcda2365ec500333:sha256:b7e3348af7b632975cfbd950ad4237341fcf1d61a358c78e0a08037d5ed6767e",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b7f32a16790e64bc2074": {
+      "id": "opp_b7f32a16790e64bc2074",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-mentalhealthbench",
+      "canonicalUrl": "https://openai.com/index/introducing-mentalhealthbench",
+      "title": "Introducing MentalHealthBench",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-mentalhealthbench"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551",
+      "dedupeKey": "brief:opp_b7f32a16790e64bc2074:sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9cd84a32707503b150ca": {
+      "id": "opp_9cd84a32707503b150ca",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/airbnb-gpt-6-astra",
+      "canonicalUrl": "https://openai.com/index/airbnb-gpt-6-astra",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "summaryEvidence": [
+        "https://openai.com/index/airbnb-gpt-6-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
+      "dedupeKey": "brief:opp_9cd84a32707503b150ca:sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_de4466689693c4f2e71d": {
+      "id": "opp_de4466689693c4f2e71d",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/claude-discovers-novel-enzyme-system",
+      "canonicalUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Science · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Science",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2cfd02ac16e10c7d80a4e8540968239189aae6c859075bc0fa78a9997de32711",
+      "dedupeKey": "brief:opp_de4466689693c4f2e71d:sha256:2cfd02ac16e10c7d80a4e8540968239189aae6c859075bc0fa78a9997de32711",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_13fab380bd75fc455d92": {
+      "id": "opp_13fab380bd75fc455d92",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99002",
+      "canonicalUrl": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 18:29:49 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3d7a2e175e74eb2fe80227d77d862a7c10c843934e4799e595ba2c206028bb39",
+      "dedupeKey": "brief:opp_13fab380bd75fc455d92:sha256:3d7a2e175e74eb2fe80227d77d862a7c10c843934e4799e595ba2c206028bb39",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6c92b87559e1885c159d": {
+      "id": "opp_6c92b87559e1885c159d",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:H5h_GUaR-bU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=H5h_GUaR-bU",
+      "title": "[한영자막] 토큰맥싱과의 작별: AI 사용량보다 에이전틱 성과가 중요한 이유",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T23:00:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI를 얼마나 많이, 혹은 적게 쓰는가에 집착하는 '토큰맥싱'과 '토큰 최소화'의 함정을 벗어나, 실질적인 비즈니스 성과를 창출하는 '밸류맥싱(Valuemaxxing)' 전략을 소개합니다. 📌 주요 내용: • 활동 지표의 함정: 토큰 소비량 증가나 단순 사용량이 비즈니스 성공을 보장하지 않는 이유 • 무조건적인 토큰 줄이기의 위험성: 아키텍처 맥락 축소로 인한 디버깅 및 재작업 비용의 폭증 • 밸류맥싱(Valuemaxxing): 배포 성공 횟수, 절약된 개발 시간, 취약점 해결 등 실제 성과 중",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=H5h_GUaR-bU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-23T23:00:31.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0f112ca9246b556ccf132f61491c85353947b7eb2ad59529cf639627ecf8f5bd",
+      "dedupeKey": "brief:opp_6c92b87559e1885c159d:sha256:0f112ca9246b556ccf132f61491c85353947b7eb2ad59529cf639627ecf8f5bd",
+      "firstSeenAt": "2026-09-24T00:06:14.281Z",
+      "lastSeenAt": "2026-09-24T00:06:14.281Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -65088,6 +65574,42 @@
       "opportunityId": "opp_78f455f91e246b2d2d74",
       "sentAt": "2026-09-23T14:03:43.036Z",
       "messageId": "1552319559342497873"
+    },
+    "brief:opp_13fab380bd75fc455d92:sha256:3d7a2e175e74eb2fe80227d77d862a7c10c843934e4799e595ba2c206028bb39": {
+      "status": "SENT",
+      "opportunityId": "opp_13fab380bd75fc455d92",
+      "sentAt": "2026-09-24T00:06:14.281Z",
+      "messageId": "1552471187697959017"
+    },
+    "brief:opp_923b61332dd85381ba8c:sha256:29b34fd3b4c84139d21b1f442fb6eb1489996aeadf6c1912583ce61f9926ddc1": {
+      "status": "SENT",
+      "opportunityId": "opp_923b61332dd85381ba8c",
+      "sentAt": "2026-09-24T00:06:14.281Z",
+      "messageId": "1552471187697959017"
+    },
+    "brief:opp_1864240f962237c8e686:sha256:9b84451dab2151190d890fb6a44377f36a50c0c754aa6b796ff9560d405fd98e": {
+      "status": "SENT",
+      "opportunityId": "opp_1864240f962237c8e686",
+      "sentAt": "2026-09-24T00:06:14.281Z",
+      "messageId": "1552471187697959017"
+    },
+    "brief:opp_de4466689693c4f2e71d:sha256:2cfd02ac16e10c7d80a4e8540968239189aae6c859075bc0fa78a9997de32711": {
+      "status": "SENT",
+      "opportunityId": "opp_de4466689693c4f2e71d",
+      "sentAt": "2026-09-24T00:06:14.281Z",
+      "messageId": "1552471187697959017"
+    },
+    "brief:opp_6c92b87559e1885c159d:sha256:0f112ca9246b556ccf132f61491c85353947b7eb2ad59529cf639627ecf8f5bd": {
+      "status": "SENT",
+      "opportunityId": "opp_6c92b87559e1885c159d",
+      "sentAt": "2026-09-24T00:06:14.281Z",
+      "messageId": "1552471187697959017"
+    },
+    "brief:opp_5d2cf0cdad51f5bbefca:sha256:89eef8e107eb1ca9156bc0d3a692332abf67084076eccad5fb94a5681d0a846a": {
+      "status": "SENT",
+      "opportunityId": "opp_5d2cf0cdad51f5bbefca",
+      "sentAt": "2026-09-24T00:06:14.281Z",
+      "messageId": "1552471187697959017"
     }
   },
   "pending": {},
