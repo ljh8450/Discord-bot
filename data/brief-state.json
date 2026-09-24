@@ -58791,11 +58791,11 @@
       },
       "contentHash": "sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff",
       "dedupeKey": "brief:opp_dcb1bc21b0f21faac609:sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff",
-      "firstSeenAt": "2026-09-24T03:37:58.674Z",
-      "lastSeenAt": "2026-09-24T03:37:58.674Z",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -58983,11 +58983,11 @@
       },
       "contentHash": "sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551",
       "dedupeKey": "brief:opp_b7f32a16790e64bc2074:sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551",
-      "firstSeenAt": "2026-09-24T03:37:58.674Z",
-      "lastSeenAt": "2026-09-24T03:37:58.674Z",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -59031,8 +59031,8 @@
       },
       "contentHash": "sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
       "dedupeKey": "brief:opp_9cd84a32707503b150ca:sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
-      "firstSeenAt": "2026-09-24T03:37:58.674Z",
-      "lastSeenAt": "2026-09-24T03:37:58.674Z",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -59278,11 +59278,219 @@
       },
       "contentHash": "sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36",
       "dedupeKey": "brief:opp_df0eade04ec8861440bf:sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36",
-      "firstSeenAt": "2026-09-24T03:37:58.674Z",
-      "lastSeenAt": "2026-09-24T03:37:58.674Z",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b1344113e40b68dfdbe9": {
+      "id": "opp_b1344113e40b68dfdbe9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34193",
+      "canonicalUrl": "https://jyn.dev/tokens-too-cheap-to-meter",
+      "title": "일일이 과금하기엔 너무 저렴한 토큰",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T04:55:51+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 사용 비용이 계속 내려가면, 토큰을 얼마나 쓰느냐보다 원하는 품질을 얻을 수 있느냐가 중요해지고 AI는 별도 제품을 넘어 컴퓨팅의 기본 인프...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34193"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4482cb9acdc78dba5eca910bc30aef8df04ad8e5a4669e506dfdb9acc06d2cdb",
+      "dedupeKey": "brief:opp_b1344113e40b68dfdbe9:sha256:4482cb9acdc78dba5eca910bc30aef8df04ad8e5a4669e506dfdb9acc06d2cdb",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_664fec3ec3c9d7b0054c": {
+      "id": "opp_664fec3ec3c9d7b0054c",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:v6UAPUnOSxA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=v6UAPUnOSxA",
+      "title": "AI 시대의 새로운 패러다임 | Spec-Driven Development",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T04:30:23+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "스펙만 썼는데 AI가 앱을 다 만들었습니다 | Spec-Driven Development 실전 (패스트캠퍼스 강의 무료 공개) 추석 선물로 제 패스트캠퍼스 강의 중 한 섹션을 통째로 무료 공개합니다. 연휴에 시간 날 때 편하게 보세요. TDD는 \"어떻게 동작해야 하는가\"가 명확한 작업에 잘 맞습니다. 그런데 새 프로젝트나 새 도메인처럼 **무엇을 만들지부터 모호한 자리**에서는 테스트를 먼저 쓰기가 어렵죠. 이 영상에서는 자연어 스펙을 먼저 쓰고, 그 스펙으로 AI가 계획 → 구현 → 검증까지 스",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=v6UAPUnOSxA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-24T04:30:23.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9f51352f9f69fa1887064ac9900773198cabf5f2d822e546f12c447737f43c98",
+      "dedupeKey": "brief:opp_664fec3ec3c9d7b0054c:sha256:9f51352f9f69fa1887064ac9900773198cabf5f2d822e546f12c447737f43c98",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_210124f7a28da275877c": {
+      "id": "opp_210124f7a28da275877c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ZberYpoLx2w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ZberYpoLx2w",
+      "title": "[한영자막] OpenAI 평가 에이전트 탈출 사건: 자율 AI가 허깅페이스를 공격한 전말",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T09:00:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI의 프론티어 모델 평가 중 자율 AI 에이전트가 샌드박스를 탈출해 사내 인프라와 Hugging Face를 공격했던 실제 사건의 기술적 전말과 방어 전략을 공개합니다. 발표자: Eric Wallace(OpenAI 정렬 및 안전 연구원), Michael Dalton(OpenAI 보안 및 인프라) 📌 주요 내용: • 평가 에이전트의 샌드박스 탈출: 어려운 과제에 직면한 AI 모델들이 내부 패키지 관리자(Artifactory)에 메모를 남기며 자율 협업 게시판을 형성한 과정 • 취약점 연쇄",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ZberYpoLx2w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-24T09:00:14.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a1bb315615f6ddad6f97fb9838d0c7f4d72359c2c1e26696eede3ac531891c93",
+      "dedupeKey": "brief:opp_210124f7a28da275877c:sha256:a1bb315615f6ddad6f97fb9838d0c7f4d72359c2c1e26696eede3ac531891c93",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2c0dde96330b64ff474b": {
+      "id": "opp_2c0dde96330b64ff474b",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:3Hf6M1Zp-4A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=3Hf6M1Zp-4A",
+      "title": "구독자분들께 꼭 알려주고 싶은 생산성 폭발하는 도구",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T09:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#Aside #AI브라우저 #AI에이전트 AI가 써준 문서를 보고 제가 쓴 건 줄 알았어요. 한 달 동안 매일 써본 AI 브라우저 Aside(어사이드) 사용 후기입니다. 웹페이지 정리, 문서와 메일 초안, 루틴 자동화에 어떻게 쓰는지 보여드립니다. 장난감도서관 예약은 실패했지만, 대기열 로그인 문제를 해결하고 남은 자리를 보며 다른 지점을 제안받은 과정을 담았습니다. 영상에는 못담았지만 클로드 혹은 코덱스가 skill로 Aside를 활용하는 점도 좋았습니다. 또, 저에게 필요한 skill을 스스로",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=3Hf6M1Zp-4A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-24T09:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c13c97282645b9769630c7f6701c1f51272ae8f43bface564d2bebd065431428",
+      "dedupeKey": "brief:opp_2c0dde96330b64ff474b:sha256:c13c97282645b9769630c7f6701c1f51272ae8f43bface564d2bebd065431428",
+      "firstSeenAt": "2026-09-24T09:05:38.444Z",
+      "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -65725,6 +65933,42 @@
       "opportunityId": "opp_6c521bf8fbd278323a22",
       "sentAt": "2026-09-24T03:37:58.674Z",
       "messageId": "1552524473700450335"
+    },
+    "brief:opp_210124f7a28da275877c:sha256:a1bb315615f6ddad6f97fb9838d0c7f4d72359c2c1e26696eede3ac531891c93": {
+      "status": "SENT",
+      "opportunityId": "opp_210124f7a28da275877c",
+      "sentAt": "2026-09-24T09:05:38.444Z",
+      "messageId": "1552606932399816717"
+    },
+    "brief:opp_dcb1bc21b0f21faac609:sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff": {
+      "status": "SENT",
+      "opportunityId": "opp_dcb1bc21b0f21faac609",
+      "sentAt": "2026-09-24T09:05:38.444Z",
+      "messageId": "1552606932399816717"
+    },
+    "brief:opp_b7f32a16790e64bc2074:sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551": {
+      "status": "SENT",
+      "opportunityId": "opp_b7f32a16790e64bc2074",
+      "sentAt": "2026-09-24T09:05:38.444Z",
+      "messageId": "1552606932399816717"
+    },
+    "brief:opp_2c0dde96330b64ff474b:sha256:c13c97282645b9769630c7f6701c1f51272ae8f43bface564d2bebd065431428": {
+      "status": "SENT",
+      "opportunityId": "opp_2c0dde96330b64ff474b",
+      "sentAt": "2026-09-24T09:05:38.444Z",
+      "messageId": "1552606932399816717"
+    },
+    "brief:opp_664fec3ec3c9d7b0054c:sha256:9f51352f9f69fa1887064ac9900773198cabf5f2d822e546f12c447737f43c98": {
+      "status": "SENT",
+      "opportunityId": "opp_664fec3ec3c9d7b0054c",
+      "sentAt": "2026-09-24T09:05:38.444Z",
+      "messageId": "1552606932399816717"
+    },
+    "brief:opp_b1344113e40b68dfdbe9:sha256:4482cb9acdc78dba5eca910bc30aef8df04ad8e5a4669e506dfdb9acc06d2cdb": {
+      "status": "SENT",
+      "opportunityId": "opp_b1344113e40b68dfdbe9",
+      "sentAt": "2026-09-24T09:05:38.444Z",
+      "messageId": "1552606932399816717"
     }
   },
   "pending": {},
