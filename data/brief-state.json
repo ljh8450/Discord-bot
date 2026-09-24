@@ -59031,11 +59031,11 @@
       },
       "contentHash": "sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
       "dedupeKey": "brief:opp_9cd84a32707503b150ca:sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
-      "firstSeenAt": "2026-09-24T09:05:38.444Z",
-      "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "firstSeenAt": "2026-09-24T13:47:52.144Z",
+      "lastSeenAt": "2026-09-24T13:47:52.144Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -59278,11 +59278,11 @@
       },
       "contentHash": "sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36",
       "dedupeKey": "brief:opp_df0eade04ec8861440bf:sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36",
-      "firstSeenAt": "2026-09-24T09:05:38.444Z",
-      "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "firstSeenAt": "2026-09-24T13:47:52.144Z",
+      "lastSeenAt": "2026-09-24T13:47:52.144Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -59488,6 +59488,108 @@
       "dedupeKey": "brief:opp_2c0dde96330b64ff474b:sha256:c13c97282645b9769630c7f6701c1f51272ae8f43bface564d2bebd065431428",
       "firstSeenAt": "2026-09-24T09:05:38.444Z",
       "lastSeenAt": "2026-09-24T09:05:38.444Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2ec36f1fcb21fd6aaa97": {
+      "id": "opp_2ec36f1fcb21fd6aaa97",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34176",
+      "canonicalUrl": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit",
+      "title": "이딴 짓은 이제 못 해 먹겠다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-23T22:44:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "대기업에 합류한 지 보름 된 개발자의 경험담으로, 명세와 코드, 테스트, 제품 요구사항, 티켓과 보고서까지 모두 Claude Code가 만드는 업무 환경...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34176"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b09d3aed12668ef7d83ffc851dc9993b80cb1d94db34e075f3a3eb52c8b9a57d",
+      "dedupeKey": "brief:opp_2ec36f1fcb21fd6aaa97:sha256:b09d3aed12668ef7d83ffc851dc9993b80cb1d94db34e075f3a3eb52c8b9a57d",
+      "firstSeenAt": "2026-09-24T13:47:52.144Z",
+      "lastSeenAt": "2026-09-24T13:47:52.144Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d827635c3cafb92cd181": {
+      "id": "opp_d827635c3cafb92cd181",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:sHRtYwXtbio",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sHRtYwXtbio",
+      "title": "아이폰 18 Pro 압도적 성능에… 체감 속도 2배 온디바이스AI 성능은 더 놀랍네요 | 2나노 칩 A20, 충격적인 벤치마크 점수보다 AI 성능 설계 | 발열 관리",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T11:12:07+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "아이폰 18 프로에서 인터넷 연결 없이 AI 그림 스무 장을 연속으로 만들어봤습니다.LLM 속도도 체감상 2배는 된 것 같은데요. 모델을 휴대폰에 내려받아두면 이미지를 만들 때마다 서버에 요청할 필요가 없습니다.장당 생성 요금도 없어 원하는 장면을 바꿔가며 계속 시도할 수 있습니다.물론 작업을 이어갈 수 있는 시간은 배터리와 발열에 영향을 받습니다.이번 영상에서는 A20 프로의 CPU 성능을 전작 및 맥북 프로의 벤치마크와 비교합니다.이미지 생성에 쓰이는 GPU와 AI 가속 기능, 메모리 대역폭도",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sHRtYwXtbio"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-24T11:12:07.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:04345d4fae16ed0d842b4bd80526a47e8b0aff838d1d5bfaf7fc8523cac07734",
+      "dedupeKey": "brief:opp_d827635c3cafb92cd181:sha256:04345d4fae16ed0d842b4bd80526a47e8b0aff838d1d5bfaf7fc8523cac07734",
+      "firstSeenAt": "2026-09-24T13:47:52.144Z",
+      "lastSeenAt": "2026-09-24T13:47:52.144Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -65969,6 +66071,30 @@
       "opportunityId": "opp_b1344113e40b68dfdbe9",
       "sentAt": "2026-09-24T09:05:38.444Z",
       "messageId": "1552606932399816717"
+    },
+    "brief:opp_d827635c3cafb92cd181:sha256:04345d4fae16ed0d842b4bd80526a47e8b0aff838d1d5bfaf7fc8523cac07734": {
+      "status": "SENT",
+      "opportunityId": "opp_d827635c3cafb92cd181",
+      "sentAt": "2026-09-24T13:47:52.144Z",
+      "messageId": "1552677957733191701"
+    },
+    "brief:opp_df0eade04ec8861440bf:sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36": {
+      "status": "SENT",
+      "opportunityId": "opp_df0eade04ec8861440bf",
+      "sentAt": "2026-09-24T13:47:52.144Z",
+      "messageId": "1552677957733191701"
+    },
+    "brief:opp_9cd84a32707503b150ca:sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a": {
+      "status": "SENT",
+      "opportunityId": "opp_9cd84a32707503b150ca",
+      "sentAt": "2026-09-24T13:47:52.144Z",
+      "messageId": "1552677957733191701"
+    },
+    "brief:opp_2ec36f1fcb21fd6aaa97:sha256:b09d3aed12668ef7d83ffc851dc9993b80cb1d94db34e075f3a3eb52c8b9a57d": {
+      "status": "SENT",
+      "opportunityId": "opp_2ec36f1fcb21fd6aaa97",
+      "sentAt": "2026-09-24T13:47:52.144Z",
+      "messageId": "1552677957733191701"
     }
   },
   "pending": {},
