@@ -58743,11 +58743,11 @@
       },
       "contentHash": "sha256:26315754ede0577dfa4f5aa01f0bea89636dceccbfcf08fbf172279fad28b0fb",
       "dedupeKey": "brief:opp_4d3f2ea0758d132f3d45:sha256:26315754ede0577dfa4f5aa01f0bea89636dceccbfcf08fbf172279fad28b0fb",
-      "firstSeenAt": "2026-09-24T00:06:14.281Z",
-      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -58791,8 +58791,8 @@
       },
       "contentHash": "sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff",
       "dedupeKey": "brief:opp_dcb1bc21b0f21faac609:sha256:de1bd044d6fb9adeffc07200eddcf082e7a472c6f7475fac162179c2c969d1ff",
-      "firstSeenAt": "2026-09-24T00:06:14.281Z",
-      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -58935,11 +58935,11 @@
       },
       "contentHash": "sha256:b7e3348af7b632975cfbd950ad4237341fcf1d61a358c78e0a08037d5ed6767e",
       "dedupeKey": "brief:opp_3b9edcda2365ec500333:sha256:b7e3348af7b632975cfbd950ad4237341fcf1d61a358c78e0a08037d5ed6767e",
-      "firstSeenAt": "2026-09-24T00:06:14.281Z",
-      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -58983,8 +58983,8 @@
       },
       "contentHash": "sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551",
       "dedupeKey": "brief:opp_b7f32a16790e64bc2074:sha256:040f3f7eb29c8c26afcb17bbe6bbf113fb8896a41c3b79a3d73dc3f75db85551",
-      "firstSeenAt": "2026-09-24T00:06:14.281Z",
-      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -59018,12 +59018,12 @@
         "practicalValue": 2,
         "sourcePriority": 0,
         "feedFormat": "rss",
-        "contentScore": 14,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 14,
+          "total": 13,
           "relevance": 4,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 3,
           "novelty": 2,
           "community": 0
@@ -59031,8 +59031,8 @@
       },
       "contentHash": "sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
       "dedupeKey": "brief:opp_9cd84a32707503b150ca:sha256:5e8f10e4ca05af9013cf05419352eb5544e67aa2aaec6d838208d05c282a9f4a",
-      "firstSeenAt": "2026-09-24T00:06:14.281Z",
-      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -59186,6 +59186,103 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6c521bf8fbd278323a22": {
+      "id": "opp_6c521bf8fbd278323a22",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34204",
+      "canonicalUrl": "https://github.com/tunnetio/Tunnet",
+      "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Tailscale처럼 여러 컴퓨터를 하나의 암호화된 사설망으로 연결하고, SSH 접속과 내부 서비스 공유, 공개 터널, 파일 전송을 같은 계정과 접근 정...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34204"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f679beb76330d054516eef1296ace13b038722d45e1b06c1ec3e3a9c34e82140",
+      "dedupeKey": "brief:opp_6c521bf8fbd278323a22:sha256:f679beb76330d054516eef1296ace13b038722d45e1b06c1ec3e3a9c34e82140",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_df0eade04ec8861440bf": {
+      "id": "opp_df0eade04ec8861440bf",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "canonicalUrl": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 23 Sep 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "summaryEvidence": [
+        "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36",
+      "dedupeKey": "brief:opp_df0eade04ec8861440bf:sha256:498ea1aaa7fe66997cb2cc7160267f67c8f15c24fd953a7fe49952d1ef769b36",
+      "firstSeenAt": "2026-09-24T03:37:58.674Z",
+      "lastSeenAt": "2026-09-24T03:37:58.674Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -65610,6 +65707,24 @@
       "opportunityId": "opp_5d2cf0cdad51f5bbefca",
       "sentAt": "2026-09-24T00:06:14.281Z",
       "messageId": "1552471187697959017"
+    },
+    "brief:opp_3b9edcda2365ec500333:sha256:b7e3348af7b632975cfbd950ad4237341fcf1d61a358c78e0a08037d5ed6767e": {
+      "status": "SENT",
+      "opportunityId": "opp_3b9edcda2365ec500333",
+      "sentAt": "2026-09-24T03:37:58.674Z",
+      "messageId": "1552524473700450335"
+    },
+    "brief:opp_4d3f2ea0758d132f3d45:sha256:26315754ede0577dfa4f5aa01f0bea89636dceccbfcf08fbf172279fad28b0fb": {
+      "status": "SENT",
+      "opportunityId": "opp_4d3f2ea0758d132f3d45",
+      "sentAt": "2026-09-24T03:37:58.674Z",
+      "messageId": "1552524473700450335"
+    },
+    "brief:opp_6c521bf8fbd278323a22:sha256:f679beb76330d054516eef1296ace13b038722d45e1b06c1ec3e3a9c34e82140": {
+      "status": "SENT",
+      "opportunityId": "opp_6c521bf8fbd278323a22",
+      "sentAt": "2026-09-24T03:37:58.674Z",
+      "messageId": "1552524473700450335"
     }
   },
   "pending": {},
