@@ -57985,13 +57985,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 5,
-        "contentScore": 10,
+        "communityRank": 18,
+        "contentScore": 9,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 9,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -57999,11 +57999,11 @@
       },
       "contentHash": "sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
       "dedupeKey": "brief:opp_6a2701e0c6315d1eb24e:sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb",
-      "firstSeenAt": "2026-09-24T00:06:14.281Z",
-      "lastSeenAt": "2026-09-24T00:06:14.281Z",
+      "firstSeenAt": "2026-09-25T00:06:04.478Z",
+      "lastSeenAt": "2026-09-25T00:06:04.478Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -59590,6 +59590,208 @@
       "dedupeKey": "brief:opp_d827635c3cafb92cd181:sha256:04345d4fae16ed0d842b4bd80526a47e8b0aff838d1d5bfaf7fc8523cac07734",
       "firstSeenAt": "2026-09-24T13:47:52.144Z",
       "lastSeenAt": "2026-09-24T13:47:52.144Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_170f6da3b7c4cfb89aef": {
+      "id": "opp_170f6da3b7c4cfb89aef",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98939",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+      "title": "When chat is the wrong UI",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:860986a24fedd545afb811119deb7850bab204b49cc2fbf3f454890bd7eb3de9",
+      "dedupeKey": "brief:opp_170f6da3b7c4cfb89aef:sha256:860986a24fedd545afb811119deb7850bab204b49cc2fbf3f454890bd7eb3de9",
+      "firstSeenAt": "2026-09-25T00:06:04.478Z",
+      "lastSeenAt": "2026-09-25T00:06:04.478Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fa38ad6d741dfc24e7d5": {
+      "id": "opp_fa38ad6d741dfc24e7d5",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98465",
+      "canonicalUrl": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 24 Sep 2026 18:26:12 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:49dc97bd6bc202650822c4d18898ae53395f37823ead7eb18d17d8954fbc2016",
+      "dedupeKey": "brief:opp_fa38ad6d741dfc24e7d5:sha256:49dc97bd6bc202650822c4d18898ae53395f37823ead7eb18d17d8954fbc2016",
+      "firstSeenAt": "2026-09-25T00:06:04.478Z",
+      "lastSeenAt": "2026-09-25T00:06:04.478Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_feb999124352de402680": {
+      "id": "opp_feb999124352de402680",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:XZuws4hFG4o",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XZuws4hFG4o",
+      "title": "[한영자막] AI에 대한 두려움, 엔비디아 CEO 젠슨 황의 진짜 생각은 무엇일까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T22:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아(NVIDIA) CEO 젠슨 황이 CBS News와의 단독 풀 인터뷰에서 AI 기술의 급격한 발전과 사회적 우려, 그리고 'AI 개발 속도 조절론'에 동의하지 않는 진짜 이유를 밝혔습니다. [주요 내용] • AI 위험론과 개발 속도 조절론에 대한 반론: 기술의 발전을 인위적으로 멈추기보다 기존 안전 규제와 제품 책임법을 통해 실질적으로 관리해야 하는 이유 • 차세대 AI 인프라와 데이터센터 혁명: 단순한 서버실을 넘어 새로운 가치를 생산해내는 현대판 '디지털 제조 공장'의 실체 • AI가",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XZuws4hFG4o"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-24T22:00:28.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:25a346f416a5946b317b447f98bba84d87a51b72fdf09e68cadacc94c3965d27",
+      "dedupeKey": "brief:opp_feb999124352de402680:sha256:25a346f416a5946b317b447f98bba84d87a51b72fdf09e68cadacc94c3965d27",
+      "firstSeenAt": "2026-09-25T00:06:04.478Z",
+      "lastSeenAt": "2026-09-25T00:06:04.478Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e56dd14194cc40f1a15e": {
+      "id": "opp_e56dd14194cc40f1a15e",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:RDO0c11_V5w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RDO0c11_V5w",
+      "title": "머스크 회사는 어떻게 이 속도를 낼까 — 인터뷰 나흘 뒤 xAI를 떠난 엔지니어가 말한 발전기 트럭 80대·커밋 1개 250만 달러",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T14:03:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "머스크의 AI 회사 xAI 에서 일하던 엔지니어 술레이만 고리가 팟캐스트 Relentless 에 나와, 한 시간 넘게 회사 안에서 일이 어떻게 돌아가는지를 구체적으로 이야기했습니다. 그리고 인터뷰 나흘 뒤 xAI 를 떠났다고 밝혔습니다. 이유는 본인도 회사도 말하지 않았습니다. 이 인터뷰가 왜 그렇게 퍼졌을까요. 세계에서 재산이 가장 많은 사람의 회사가 어떤 연료로 돌아가는지를, 안에 있던 사람이 아무렇지 않게 말했기 때문이라고 저는 봅니다. 땅과 전기, 컴퓨터, 코드, 사람, AI 동료, 머스크",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=RDO0c11_V5w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-24T14:03:10.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:88aa43859291abc8c6f35e1155c0ff8ebf079b628cbdcc80a9271332e2337519",
+      "dedupeKey": "brief:opp_e56dd14194cc40f1a15e:sha256:88aa43859291abc8c6f35e1155c0ff8ebf079b628cbdcc80a9271332e2337519",
+      "firstSeenAt": "2026-09-25T00:06:04.478Z",
+      "lastSeenAt": "2026-09-25T00:06:04.478Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -66095,6 +66297,36 @@
       "opportunityId": "opp_2ec36f1fcb21fd6aaa97",
       "sentAt": "2026-09-24T13:47:52.144Z",
       "messageId": "1552677957733191701"
+    },
+    "brief:opp_170f6da3b7c4cfb89aef:sha256:860986a24fedd545afb811119deb7850bab204b49cc2fbf3f454890bd7eb3de9": {
+      "status": "SENT",
+      "opportunityId": "opp_170f6da3b7c4cfb89aef",
+      "sentAt": "2026-09-25T00:06:04.478Z",
+      "messageId": "1552833533586706503"
+    },
+    "brief:opp_fa38ad6d741dfc24e7d5:sha256:49dc97bd6bc202650822c4d18898ae53395f37823ead7eb18d17d8954fbc2016": {
+      "status": "SENT",
+      "opportunityId": "opp_fa38ad6d741dfc24e7d5",
+      "sentAt": "2026-09-25T00:06:04.478Z",
+      "messageId": "1552833533586706503"
+    },
+    "brief:opp_e56dd14194cc40f1a15e:sha256:88aa43859291abc8c6f35e1155c0ff8ebf079b628cbdcc80a9271332e2337519": {
+      "status": "SENT",
+      "opportunityId": "opp_e56dd14194cc40f1a15e",
+      "sentAt": "2026-09-25T00:06:04.478Z",
+      "messageId": "1552833533586706503"
+    },
+    "brief:opp_feb999124352de402680:sha256:25a346f416a5946b317b447f98bba84d87a51b72fdf09e68cadacc94c3965d27": {
+      "status": "SENT",
+      "opportunityId": "opp_feb999124352de402680",
+      "sentAt": "2026-09-25T00:06:04.478Z",
+      "messageId": "1552833533586706503"
+    },
+    "brief:opp_6a2701e0c6315d1eb24e:sha256:d124a9e892aecbd7cff28b540ef740401f165aab6691fa8432292e2ffc1de1cb": {
+      "status": "SENT",
+      "opportunityId": "opp_6a2701e0c6315d1eb24e",
+      "sentAt": "2026-09-25T00:06:04.478Z",
+      "messageId": "1552833533586706503"
     }
   },
   "pending": {},
