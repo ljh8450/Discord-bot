@@ -59904,6 +59904,210 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_feb8b8758aaac6122b49": {
+      "id": "opp_feb8b8758aaac6122b49",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34245",
+      "canonicalUrl": "https://github.com/devdotfast/whiteboard",
+      "title": "Whiteboard - AI가 만든 코드를 이해하고 검토하는 오픈소스 캔버스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T07:42:05+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code와 Codex가 만든 코드의 구조와 변경 이유를 그림으로 살펴보는 데스크톱 앱으로, 기존 코딩 에이전트에 연결해 사용 에이전트가 캔버...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34245"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa23b063d5821462922a3e09add12e60cf08fdd6089c099d39b38860fc994076",
+      "dedupeKey": "brief:opp_feb8b8758aaac6122b49:sha256:fa23b063d5821462922a3e09add12e60cf08fdd6089c099d39b38860fc994076",
+      "firstSeenAt": "2026-09-25T09:05:27.063Z",
+      "lastSeenAt": "2026-09-25T09:05:27.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1cc16313c33e84e4248e": {
+      "id": "opp_1cc16313c33e84e4248e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34248",
+      "canonicalUrl": "https://github.com/tt-a1i/archify",
+      "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램을 생성 Cursor/Claude Code/Codex CL...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34248"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0f6fb939b660f69e2c2306d54dcb84bbd59b49ebaf09d61a4aeeda080b099533",
+      "dedupeKey": "brief:opp_1cc16313c33e84e4248e:sha256:0f6fb939b660f69e2c2306d54dcb84bbd59b49ebaf09d61a4aeeda080b099533",
+      "firstSeenAt": "2026-09-25T09:05:27.063Z",
+      "lastSeenAt": "2026-09-25T09:05:27.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_473fd4a93221a74cd923": {
+      "id": "opp_473fd4a93221a74cd923",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:zkmvCDSxqdc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zkmvCDSxqdc",
+      "title": "[한글자막] Cursor&xAI 개발자 Lauren Tan: 한 달에 PR 2,000개를 프로덕션에 반영한 워크플로우",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T09:00:29+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트가 코드를 대신 작성하는 수준을 넘어, 사람이 자리를 비워도 믿고 맡길 수 있는 개발 환경을 만드는 방법을 이야기합니다. Lauren Tan이 지난달 PR 2,000개를 프로덕션에 반영한 경험을 바탕으로, 에이전트의 신뢰도를 높이는 실전 원칙을 설명합니다. 주요 포인트 • 코드베이스와 아키텍처로 잘못된 경로를 원천적으로 막는 방법 • 정적 분석, 린트, 컴파일러, CI를 활용해 결과를 검증하는 방법 • rules, Bugbot, skills로 에이전트의 작업 품질을 높이는 방법 • 반복되는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=zkmvCDSxqdc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-25T09:00:29.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4167002592416daa2b87a5d14785413a0f0499d4c3b60e8023c64ba7fbc50a9b",
+      "dedupeKey": "brief:opp_473fd4a93221a74cd923:sha256:4167002592416daa2b87a5d14785413a0f0499d4c3b60e8023c64ba7fbc50a9b",
+      "firstSeenAt": "2026-09-25T09:05:27.063Z",
+      "lastSeenAt": "2026-09-25T09:05:27.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_baff2c933a9684c215e5": {
+      "id": "opp_baff2c933a9684c215e5",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:_gcSGIIMkAc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_gcSGIIMkAc",
+      "title": "인텔, EMIB-T 수율 개선, TSMC CoWoS와 함께 AI 칩 생산량 더 늘어난다 | AI칩 패키징 경쟁의 진짜 승부처",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T02:53:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. AI칩 패키징 시장에서 인텔 EMIB-T가 TSMC CoWoS의 대안으로 주목받고 있습니다. KIPOST 안석현 기자님의 EZKIPOST YouTube 보도에 따르면, EMIB-T 기판 수율은 2분기 20~25%에서 보도 당시 약 45%까지 개선됐습니다. 9월 말 약 50%는 달성을 목표로 제시된 수치로 구분해 살펴봅니다. 수율 개선이 실제 AI칩 공급 확대로 이어지려면 어떤 조건이 필요한지 짚습니다. GPU와 HBM을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_gcSGIIMkAc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-25T02:53:03.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:946ed3ab121e5d7c24ca51f64915a1261ae629fbec98d53ee3ee396ea61674f6",
+      "dedupeKey": "brief:opp_baff2c933a9684c215e5:sha256:946ed3ab121e5d7c24ca51f64915a1261ae629fbec98d53ee3ee396ea61674f6",
+      "firstSeenAt": "2026-09-25T09:05:27.063Z",
+      "lastSeenAt": "2026-09-25T09:05:27.063Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -66446,6 +66650,30 @@
       "opportunityId": "opp_5577458592f1a6958952",
       "sentAt": "2026-09-25T03:54:24.495Z",
       "messageId": "1552890996658937937"
+    },
+    "brief:opp_baff2c933a9684c215e5:sha256:946ed3ab121e5d7c24ca51f64915a1261ae629fbec98d53ee3ee396ea61674f6": {
+      "status": "SENT",
+      "opportunityId": "opp_baff2c933a9684c215e5",
+      "sentAt": "2026-09-25T09:05:27.063Z",
+      "messageId": "1552969272773312513"
+    },
+    "brief:opp_feb8b8758aaac6122b49:sha256:fa23b063d5821462922a3e09add12e60cf08fdd6089c099d39b38860fc994076": {
+      "status": "SENT",
+      "opportunityId": "opp_feb8b8758aaac6122b49",
+      "sentAt": "2026-09-25T09:05:27.063Z",
+      "messageId": "1552969272773312513"
+    },
+    "brief:opp_473fd4a93221a74cd923:sha256:4167002592416daa2b87a5d14785413a0f0499d4c3b60e8023c64ba7fbc50a9b": {
+      "status": "SENT",
+      "opportunityId": "opp_473fd4a93221a74cd923",
+      "sentAt": "2026-09-25T09:05:27.063Z",
+      "messageId": "1552969272773312513"
+    },
+    "brief:opp_1cc16313c33e84e4248e:sha256:0f6fb939b660f69e2c2306d54dcb84bbd59b49ebaf09d61a4aeeda080b099533": {
+      "status": "SENT",
+      "opportunityId": "opp_1cc16313c33e84e4248e",
+      "sentAt": "2026-09-25T09:05:27.063Z",
+      "messageId": "1552969272773312513"
     }
   },
   "pending": {},
