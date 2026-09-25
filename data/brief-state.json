@@ -59797,6 +59797,113 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_5577458592f1a6958952": {
+      "id": "opp_5577458592f1a6958952",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:myx3gxPwtw4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=myx3gxPwtw4",
+      "title": "EP 115. 조합적 놀이가 시작됐다: 올인 서밋 2026 총정리 (AI 페이싱·버블·중국)",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T00:00:04.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "All-In Summit 주요 세션을 바탕으로 AI 개발 속도 조절, 막대한 인프라 투자의 지속 가능성, 미국과 중국의 기술 경쟁을 살펴봅니다. Jensen Huang, Satya Nadella, Elon Musk 등 업계 리더들의 시각을 통해 AI 생태계의 수익이 모델에서 애플리케이션으로 이동할 가능성과 전력·데이터센터 병목을 짚어봅니다. 또한 RSI와 정렬 문제, 멀티 에이전트의 발전, AI 안전을 둘러싼 이해관계와 논쟁을 함께 다룹니다. 초파리 커넥톰과 Jev 같은 최신 실험이 보여주는 ‘조",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=myx3gxPwtw4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-25T00:00:04.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:de33123102f749532be9172b9d0b291a2e9747cb8f0e336b6478643edc0565cf",
+      "dedupeKey": "brief:opp_5577458592f1a6958952:sha256:de33123102f749532be9172b9d0b291a2e9747cb8f0e336b6478643edc0565cf",
+      "firstSeenAt": "2026-09-25T03:54:24.495Z",
+      "lastSeenAt": "2026-09-25T03:54:24.495Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b15815a59f4edb3f84ac": {
+      "id": "opp_b15815a59f4edb3f84ac",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:EOdXR6lU5ZA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=EOdXR6lU5ZA",
+      "title": "This NEW Jev + Claude OS Just Changed Every AI Workflow",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T00:47:11.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io In this video I break down the how and why behind combining the two top AI models: GPT 6 Astra and Clau",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=EOdXR6lU5ZA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-25T00:47:11.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:886658573dd69f3ecc059ae530e45a5e5a2f56175887bc7b0084b01627a84f3a",
+      "dedupeKey": "brief:opp_b15815a59f4edb3f84ac:sha256:886658573dd69f3ecc059ae530e45a5e5a2f56175887bc7b0084b01627a84f3a",
+      "firstSeenAt": "2026-09-25T03:54:24.495Z",
+      "lastSeenAt": "2026-09-25T03:54:24.495Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -66327,6 +66434,18 @@
       "opportunityId": "opp_6a2701e0c6315d1eb24e",
       "sentAt": "2026-09-25T00:06:04.478Z",
       "messageId": "1552833533586706503"
+    },
+    "brief:opp_b15815a59f4edb3f84ac:sha256:886658573dd69f3ecc059ae530e45a5e5a2f56175887bc7b0084b01627a84f3a": {
+      "status": "SENT",
+      "opportunityId": "opp_b15815a59f4edb3f84ac",
+      "sentAt": "2026-09-25T03:54:24.495Z",
+      "messageId": "1552890996658937937"
+    },
+    "brief:opp_5577458592f1a6958952:sha256:de33123102f749532be9172b9d0b291a2e9747cb8f0e336b6478643edc0565cf": {
+      "status": "SENT",
+      "opportunityId": "opp_5577458592f1a6958952",
+      "sentAt": "2026-09-25T03:54:24.495Z",
+      "messageId": "1552890996658937937"
     }
   },
   "pending": {},
