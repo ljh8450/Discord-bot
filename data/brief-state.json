@@ -60403,6 +60403,202 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_1bda0cbefa9899d55625": {
+      "id": "opp_1bda0cbefa9899d55625",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34251",
+      "canonicalUrl": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain",
+      "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T12:03:12+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude가 잊어버린 명령어 문법에 존재하지 않는 옵션을 답하는 일을 겪고 나서, 이미 배운 내용을 Obsidian에 직접 기록해 찾아 쓰기로 함 직접 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34251"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4edf5cc5440d554d1fc173eb57547e606f4eb74b699f81eeb87565b80f5d0fce",
+      "dedupeKey": "brief:opp_1bda0cbefa9899d55625:sha256:4edf5cc5440d554d1fc173eb57547e606f4eb74b699f81eeb87565b80f5d0fce",
+      "firstSeenAt": "2026-09-26T09:05:46.131Z",
+      "lastSeenAt": "2026-09-26T09:05:46.131Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e2d8ff45251688e692e4": {
+      "id": "opp_e2d8ff45251688e692e4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34297",
+      "canonicalUrl": "https://news.hada.io/topic?id=34297",
+      "title": "Show GN: Translight - 원문을 유지한 채 번역문을 바로 아래에 보여주는 Chrome 확장 프로그램",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T10:15:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Chrome 페이지 번역을 쓰다 보면 번역된 문장의 원문을 다시 확인하고 싶을 때가 있죠. 같은 기능을 하는ImmersiveTranslate 가 있지만 몇 번 쓰다...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34297"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d7c9f2eaadcc033fb366f76c73eccc0b091ef888d04f1b7f0d54b258846de4c0",
+      "dedupeKey": "brief:opp_e2d8ff45251688e692e4:sha256:d7c9f2eaadcc033fb366f76c73eccc0b091ef888d04f1b7f0d54b258846de4c0",
+      "firstSeenAt": "2026-09-26T09:05:46.131Z",
+      "lastSeenAt": "2026-09-26T09:05:46.131Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_75bb48c1419c91209b6b": {
+      "id": "opp_75bb48c1419c91209b6b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34288",
+      "canonicalUrl": "https://ollaya.dev/",
+      "title": "Ollaya - Jev 같은 의사결정 모델을 위한 Ollama",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T06:32:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "여러 공개 의사결정 모델을 내려받아 로컬에서 실행하는 오픈소스 도구로, Ollama처럼 명령줄과 데스크톱 앱, 로컬 API를 제공 이메일과 고객 문의...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34288"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:68b5277b2bb8277bda21e9de76b02beeed5f3a2db09b072d37c4a224ad889e6c",
+      "dedupeKey": "brief:opp_75bb48c1419c91209b6b:sha256:68b5277b2bb8277bda21e9de76b02beeed5f3a2db09b072d37c4a224ad889e6c",
+      "firstSeenAt": "2026-09-26T09:05:46.131Z",
+      "lastSeenAt": "2026-09-26T09:05:46.131Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4829a2bf0354148fbc50": {
+      "id": "opp_4829a2bf0354148fbc50",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34295",
+      "canonicalUrl": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "title": "알렉산더 왕: 내가 Muse를 만드는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T09:59:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사람들은 가족과 시간을 보내거나 가게를 열고 싶은 꿈이 있어도, 어디서 시작할지 몰라 실행하기도 전에 포기하는 경우가 많음 Muse가 지향하는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34295"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e848f170a68e17a26417c1b4fcf3c7cdfdb8d205595eb50ed816ed20bc247880",
+      "dedupeKey": "brief:opp_4829a2bf0354148fbc50:sha256:e848f170a68e17a26417c1b4fcf3c7cdfdb8d205595eb50ed816ed20bc247880",
+      "firstSeenAt": "2026-09-26T09:05:46.131Z",
+      "lastSeenAt": "2026-09-26T09:05:46.131Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -67005,6 +67201,18 @@
       "opportunityId": "opp_0feb41ee23c80d1db3bd",
       "sentAt": "2026-09-26T00:05:38.381Z",
       "messageId": "1553195812023050292"
+    },
+    "brief:opp_75bb48c1419c91209b6b:sha256:68b5277b2bb8277bda21e9de76b02beeed5f3a2db09b072d37c4a224ad889e6c": {
+      "status": "SENT",
+      "opportunityId": "opp_75bb48c1419c91209b6b",
+      "sentAt": "2026-09-26T09:05:46.131Z",
+      "messageId": "1553331740431491126"
+    },
+    "brief:opp_e2d8ff45251688e692e4:sha256:d7c9f2eaadcc033fb366f76c73eccc0b091ef888d04f1b7f0d54b258846de4c0": {
+      "status": "SENT",
+      "opportunityId": "opp_e2d8ff45251688e692e4",
+      "sentAt": "2026-09-26T09:05:46.131Z",
+      "messageId": "1553331740431491126"
     }
   },
   "pending": {},
