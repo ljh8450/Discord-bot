@@ -60108,6 +60108,301 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_4fce6ee45f47240045ff": {
+      "id": "opp_4fce6ee45f47240045ff",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34242",
+      "canonicalUrl": "https://bestmodelforyourbudget.terrydjony.com/",
+      "title": "API 가격대별 최고의 LLM 알아보기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T05:38:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "여러 LLM의 성능과 API 가격을 한눈에 비교하고, 지불하려는 가격대에서 가장 높은 점수를 받은 모델을 찾는 웹사이트 Artificial Analysis의 평가...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34242"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:62206e4887a54de1b1cb82cbf581dfa5dc944202d688e8a58abf1ae060769bf2",
+      "dedupeKey": "brief:opp_4fce6ee45f47240045ff:sha256:62206e4887a54de1b1cb82cbf581dfa5dc944202d688e8a58abf1ae060769bf2",
+      "firstSeenAt": "2026-09-26T00:05:38.381Z",
+      "lastSeenAt": "2026-09-26T00:05:38.381Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0feb41ee23c80d1db3bd": {
+      "id": "opp_0feb41ee23c80d1db3bd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34206",
+      "canonicalUrl": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "title": "Claude.ai를 2주 만에 3배 빠르게 만든 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-24T09:36:55+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "웹과 데스크톱 앱에서 실행, 대화 시작, 기존 대화 로딩, 메시지 전송 등 사용자 활동의 95%를 차지하는 흐름을 개선해 핵심 이용 구간을 약 3배 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34206"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3629b081bbf4510de05605215500032a1022a1f6811fb3d16541b8c3326e7025",
+      "dedupeKey": "brief:opp_0feb41ee23c80d1db3bd:sha256:3629b081bbf4510de05605215500032a1022a1f6811fb3d16541b8c3326e7025",
+      "firstSeenAt": "2026-09-26T00:05:38.381Z",
+      "lastSeenAt": "2026-09-26T00:05:38.381Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a42e570f7900d23c9643": {
+      "id": "opp_a42e570f7900d23c9643",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/proaction",
+      "canonicalUrl": "https://openai.com/index/proaction",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "summaryEvidence": [
+        "https://openai.com/index/proaction"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8c8b77dba8b96521dad9b63be401d671f8d1e21496d078277740cde1746f9c12",
+      "dedupeKey": "brief:opp_a42e570f7900d23c9643:sha256:8c8b77dba8b96521dad9b63be401d671f8d1e21496d078277740cde1746f9c12",
+      "firstSeenAt": "2026-09-26T00:05:38.381Z",
+      "lastSeenAt": "2026-09-26T00:05:38.381Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d2183867fc94cdf7acdc": {
+      "id": "opp_d2183867fc94cdf7acdc",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99027",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 25 Sep 2026 18:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases a",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c248ceaf8c6b4122129bfe1292daa65918ac8db2e7b27e96ef633c122df4e426",
+      "dedupeKey": "brief:opp_d2183867fc94cdf7acdc:sha256:c248ceaf8c6b4122129bfe1292daa65918ac8db2e7b27e96ef633c122df4e426",
+      "firstSeenAt": "2026-09-26T00:05:38.381Z",
+      "lastSeenAt": "2026-09-26T00:05:38.381Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f08bec32ebe31e20086c": {
+      "id": "opp_f08bec32ebe31e20086c",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99030",
+      "canonicalUrl": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+      "title": "Improving site performance by shipping more CSS",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c09b056aab5c50597838979e0e4d5f541fb541d52aefd9f5f56fb0f7d641e7e3",
+      "dedupeKey": "brief:opp_f08bec32ebe31e20086c:sha256:c09b056aab5c50597838979e0e4d5f541fb541d52aefd9f5f56fb0f7d641e7e3",
+      "firstSeenAt": "2026-09-26T00:05:38.381Z",
+      "lastSeenAt": "2026-09-26T00:05:38.381Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_314bf38c743ad2679438": {
+      "id": "opp_314bf38c743ad2679438",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:BJeHhsMVc8A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=BJeHhsMVc8A",
+      "title": "[한영자막] Jev로 더 빠르고 스마트한 에이전트 하네스를 구축하는 방법입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-25T22:00:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "LangChain 오픈소스 팀에서 TypeSafe AI의 신규 '시스템 1(System 1)' 모델인 Jev를 활용해 차세대 에이전트 하네스를 구축하는 방법을 소개합니다. 단순 텍스트 생성이 아닌 정형화된 판단에 특화된 Jev는 분류 작업에서 기존 LLM 대비 최대 200배 빠르고 400배 저렴합니다. 느리고 비싼 LLM의 한계를 극복하고 에이전트의 속도와 안정성을 극대화하는 실전 아키텍처를 확인해 보세요. 📌 주요 내용: • 시스템 1 vs 시스템 2: 대니얼 카너먼의 사고 이론을 모델 아키텍",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=BJeHhsMVc8A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-25T22:00:16.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:31781eb82a05ceca8a09ff73dd83bd2ba6fb27f533108701350270d60f7e819f",
+      "dedupeKey": "brief:opp_314bf38c743ad2679438:sha256:31781eb82a05ceca8a09ff73dd83bd2ba6fb27f533108701350270d60f7e819f",
+      "firstSeenAt": "2026-09-26T00:05:38.381Z",
+      "lastSeenAt": "2026-09-26T00:05:38.381Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -66674,6 +66969,42 @@
       "opportunityId": "opp_1cc16313c33e84e4248e",
       "sentAt": "2026-09-25T09:05:27.063Z",
       "messageId": "1552969272773312513"
+    },
+    "brief:opp_d2183867fc94cdf7acdc:sha256:c248ceaf8c6b4122129bfe1292daa65918ac8db2e7b27e96ef633c122df4e426": {
+      "status": "SENT",
+      "opportunityId": "opp_d2183867fc94cdf7acdc",
+      "sentAt": "2026-09-26T00:05:38.381Z",
+      "messageId": "1553195812023050292"
+    },
+    "brief:opp_a42e570f7900d23c9643:sha256:8c8b77dba8b96521dad9b63be401d671f8d1e21496d078277740cde1746f9c12": {
+      "status": "SENT",
+      "opportunityId": "opp_a42e570f7900d23c9643",
+      "sentAt": "2026-09-26T00:05:38.381Z",
+      "messageId": "1553195812023050292"
+    },
+    "brief:opp_f08bec32ebe31e20086c:sha256:c09b056aab5c50597838979e0e4d5f541fb541d52aefd9f5f56fb0f7d641e7e3": {
+      "status": "SENT",
+      "opportunityId": "opp_f08bec32ebe31e20086c",
+      "sentAt": "2026-09-26T00:05:38.381Z",
+      "messageId": "1553195812023050292"
+    },
+    "brief:opp_314bf38c743ad2679438:sha256:31781eb82a05ceca8a09ff73dd83bd2ba6fb27f533108701350270d60f7e819f": {
+      "status": "SENT",
+      "opportunityId": "opp_314bf38c743ad2679438",
+      "sentAt": "2026-09-26T00:05:38.381Z",
+      "messageId": "1553195812023050292"
+    },
+    "brief:opp_4fce6ee45f47240045ff:sha256:62206e4887a54de1b1cb82cbf581dfa5dc944202d688e8a58abf1ae060769bf2": {
+      "status": "SENT",
+      "opportunityId": "opp_4fce6ee45f47240045ff",
+      "sentAt": "2026-09-26T00:05:38.381Z",
+      "messageId": "1553195812023050292"
+    },
+    "brief:opp_0feb41ee23c80d1db3bd:sha256:3629b081bbf4510de05605215500032a1022a1f6811fb3d16541b8c3326e7025": {
+      "status": "SENT",
+      "opportunityId": "opp_0feb41ee23c80d1db3bd",
+      "sentAt": "2026-09-26T00:05:38.381Z",
+      "messageId": "1553195812023050292"
     }
   },
   "pending": {},
