@@ -60431,7 +60431,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 2,
+        "communityRank": 3,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -60445,11 +60445,11 @@
       },
       "contentHash": "sha256:4edf5cc5440d554d1fc173eb57547e606f4eb74b699f81eeb87565b80f5d0fce",
       "dedupeKey": "brief:opp_1bda0cbefa9899d55625:sha256:4edf5cc5440d554d1fc173eb57547e606f4eb74b699f81eeb87565b80f5d0fce",
-      "firstSeenAt": "2026-09-26T13:36:24.875Z",
-      "lastSeenAt": "2026-09-26T13:36:24.875Z",
+      "firstSeenAt": "2026-09-27T00:05:51.965Z",
+      "lastSeenAt": "2026-09-27T00:05:51.965Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -60676,7 +60676,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 5,
+        "communityRank": 8,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -60690,11 +60690,11 @@
       },
       "contentHash": "sha256:10f48da1e41079faaafde104814d4b847efc546cdb74f0020fcff6a922908221",
       "dedupeKey": "brief:opp_f74c0b2e826fb6daccb3:sha256:10f48da1e41079faaafde104814d4b847efc546cdb74f0020fcff6a922908221",
-      "firstSeenAt": "2026-09-26T13:36:24.875Z",
-      "lastSeenAt": "2026-09-26T13:36:24.875Z",
+      "firstSeenAt": "2026-09-27T00:05:51.965Z",
+      "lastSeenAt": "2026-09-27T00:05:51.965Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -60798,6 +60798,112 @@
       "dedupeKey": "brief:opp_f5b39939c0c782420f27:sha256:e51e4a1c28f71fc29d40560ba31a9126c4a97ad35b6ed9f115b810c2aebac167",
       "firstSeenAt": "2026-09-26T13:36:24.875Z",
       "lastSeenAt": "2026-09-26T13:36:24.875Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a678413c8cb3b65cea0": {
+      "id": "opp_8a678413c8cb3b65cea0",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:Be5b6D1IoLI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Be5b6D1IoLI",
+      "title": "코드 리뷰가 병목이 되는 이유 | 메타 시니어 엔지니어가 AI 코드 리뷰 하는법",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T23:00:11+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "PR 14개가 쌓여 있었습니다. 지금은 새벽에 AI가 다 봅니다 | 코드 리뷰 에이전트 만들기 (패스트캠퍼스 강의 무료 공개) 추석 무료 공개 두 번째 편입니다. 연휴 마지막 날, 가볍게 머리 한번 깨운다는 느낌으로 보세요. AI가 코드를 훨씬 빨리 쓰기 시작하면 다음 병목은 **리뷰**입니다. 사람이 PR 14개를 붙들고 있는 동안 팀 전체가 기다리죠. 이 영상에서는 저장소의 모든 PR에 자동으로 코멘트가 달리고, 리스크가 낮으면 머지까지 갈 수 있는 코드 리뷰 에이전트 워크플로우를 직접 만듭니",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Be5b6D1IoLI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-26T23:00:11.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa7169521373b27fdd7dee918eff7e95ea1c6dcda94a706abdd7731765c0d6d1",
+      "dedupeKey": "brief:opp_8a678413c8cb3b65cea0:sha256:fa7169521373b27fdd7dee918eff7e95ea1c6dcda94a706abdd7731765c0d6d1",
+      "firstSeenAt": "2026-09-27T00:05:51.965Z",
+      "lastSeenAt": "2026-09-27T00:05:51.965Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3524c4d90ff01334748a": {
+      "id": "opp_3524c4d90ff01334748a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:B1FXnXlIm8c",
+      "canonicalUrl": "https://www.youtube.com/watch?v=B1FXnXlIm8c",
+      "title": "[한영자막] AI 에이전트는 혁명이 아닙니다, 진짜 변화를 이끄는 '촉매'입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T22:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "모두가 AI 에이전트 자체에 주목하고 있지만, 진짜 중요한 이야기는 따로 있습니다. IBM의 데이터 사이언티스트 Sam Anthony가 AI 에이전트가 어떻게 데이터, 소프트웨어, 시스템, 그리고 우리의 사고방식까지 혁신하고 있는지 명쾌하게 설명합니다. 📌 주요 내용: • 데이터 계층 현대화: 흩어지고 갇혀 있던 데이터 사일로를 허물고 신뢰할 수 있는 기반 구축 • 시스템 표준화와 API 혁신: 기계와 사람 모두가 이해할 수 있는 예측 가능하고 잘 문서화된 API 요구 • 상호운용성(Intero",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=B1FXnXlIm8c"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-26T22:00:09.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:341994ee2da87b1b103621dd62d73bc41a84b0c2eb8fa5ab403908ce721a10e8",
+      "dedupeKey": "brief:opp_3524c4d90ff01334748a:sha256:341994ee2da87b1b103621dd62d73bc41a84b0c2eb8fa5ab403908ce721a10e8",
+      "firstSeenAt": "2026-09-27T00:05:51.965Z",
+      "lastSeenAt": "2026-09-27T00:05:51.965Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -67441,6 +67547,30 @@
       "opportunityId": "opp_4829a2bf0354148fbc50",
       "sentAt": "2026-09-26T13:36:24.875Z",
       "messageId": "1553399850446356502"
+    },
+    "brief:opp_8a678413c8cb3b65cea0:sha256:fa7169521373b27fdd7dee918eff7e95ea1c6dcda94a706abdd7731765c0d6d1": {
+      "status": "SENT",
+      "opportunityId": "opp_8a678413c8cb3b65cea0",
+      "sentAt": "2026-09-27T00:05:51.965Z",
+      "messageId": "1553558257761525785"
+    },
+    "brief:opp_3524c4d90ff01334748a:sha256:341994ee2da87b1b103621dd62d73bc41a84b0c2eb8fa5ab403908ce721a10e8": {
+      "status": "SENT",
+      "opportunityId": "opp_3524c4d90ff01334748a",
+      "sentAt": "2026-09-27T00:05:51.965Z",
+      "messageId": "1553558257761525785"
+    },
+    "brief:opp_f74c0b2e826fb6daccb3:sha256:10f48da1e41079faaafde104814d4b847efc546cdb74f0020fcff6a922908221": {
+      "status": "SENT",
+      "opportunityId": "opp_f74c0b2e826fb6daccb3",
+      "sentAt": "2026-09-27T00:05:51.965Z",
+      "messageId": "1553558257761525785"
+    },
+    "brief:opp_1bda0cbefa9899d55625:sha256:4edf5cc5440d554d1fc173eb57547e606f4eb74b699f81eeb87565b80f5d0fce": {
+      "status": "SENT",
+      "opportunityId": "opp_1bda0cbefa9899d55625",
+      "sentAt": "2026-09-27T00:05:51.965Z",
+      "messageId": "1553558257761525785"
     }
   },
   "pending": {},
