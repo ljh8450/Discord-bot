@@ -60985,26 +60985,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 11,
         "communityRank": 2,
-        "contentScore": 10,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:779b4145489d271be54728518e4471d3583c506a17443c4d845daab3af42e079",
       "dedupeKey": "brief:opp_f8dd517f0de755c6699f:sha256:779b4145489d271be54728518e4471d3583c506a17443c4d845daab3af42e079",
-      "firstSeenAt": "2026-09-27T09:06:10.230Z",
-      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "firstSeenAt": "2026-09-27T14:32:27.669Z",
+      "lastSeenAt": "2026-09-27T14:32:27.669Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -61213,6 +61213,104 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_821481f45d21254da272": {
+      "id": "opp_821481f45d21254da272",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34336",
+      "canonicalUrl": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "title": "LLM 시대에도 프로그래밍을 계속 즐기는 법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T06:40:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩은 사람이 맡고, LLM에는 계획 정리, 조사, 검토 등 주변 작업을 맡기는 방식으로 프로그래밍의 즐거움과 적당한 생산성 향상을 함께 추구할 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34336"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:950639790c275e126456acf7dadbb686668ef88dd5f13f0989306d14f580be87",
+      "dedupeKey": "brief:opp_821481f45d21254da272:sha256:950639790c275e126456acf7dadbb686668ef88dd5f13f0989306d14f580be87",
+      "firstSeenAt": "2026-09-27T14:32:27.669Z",
+      "lastSeenAt": "2026-09-27T14:32:27.669Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_26707b80aa5b9ddaa2da": {
+      "id": "opp_26707b80aa5b9ddaa2da",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34313",
+      "canonicalUrl": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians",
+      "title": "우리에게는 훨씬 더 많은 수학자가 필요할 것이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T19:34:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 만들어낼 중대한 발견을 인간이 이해하고 그에 기여하려면, 수학적 역량을 갖춘 연구자 공동체를 줄이는 대신 크게 확대해야 함 AI의 속도를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34313"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:574c88df6bee466853503c5d6f8382386b5f29555346e0b2ea9c89a96c6b1c9d",
+      "dedupeKey": "brief:opp_26707b80aa5b9ddaa2da:sha256:574c88df6bee466853503c5d6f8382386b5f29555346e0b2ea9c89a96c6b1c9d",
+      "firstSeenAt": "2026-09-27T14:32:27.669Z",
+      "lastSeenAt": "2026-09-27T14:32:27.669Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -67907,6 +68005,18 @@
       "opportunityId": "opp_2f7185cafed2af2a881f",
       "sentAt": "2026-09-27T09:06:10.230Z",
       "messageId": "1553694229904105575"
+    },
+    "brief:opp_821481f45d21254da272:sha256:950639790c275e126456acf7dadbb686668ef88dd5f13f0989306d14f580be87": {
+      "status": "SENT",
+      "opportunityId": "opp_821481f45d21254da272",
+      "sentAt": "2026-09-27T14:32:27.669Z",
+      "messageId": "1553776343119036527"
+    },
+    "brief:opp_f8dd517f0de755c6699f:sha256:779b4145489d271be54728518e4471d3583c506a17443c4d845daab3af42e079": {
+      "status": "SENT",
+      "opportunityId": "opp_f8dd517f0de755c6699f",
+      "sentAt": "2026-09-27T14:32:27.669Z",
+      "messageId": "1553776343119036527"
     }
   },
   "pending": {},
