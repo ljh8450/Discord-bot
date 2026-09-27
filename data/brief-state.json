@@ -60909,6 +60909,312 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_2f7185cafed2af2a881f": {
+      "id": "opp_2f7185cafed2af2a881f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34304",
+      "canonicalUrl": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "title": "계획 모드는 죽었다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T12:34:30+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "모델이 저장소를 탐색하고 합리적인 가정을 세우는 능력이 좋아지면서, 구현 방법을 사람이 미리 상세히 지시하는 계획(Plan) 모드의 필요성이 줄...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34304"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bdeaf6f3a9ce7e37b879d684e7cf06dc461648a476404cdaa05da80d2ba57684",
+      "dedupeKey": "brief:opp_2f7185cafed2af2a881f:sha256:bdeaf6f3a9ce7e37b879d684e7cf06dc461648a476404cdaa05da80d2ba57684",
+      "firstSeenAt": "2026-09-27T09:06:10.230Z",
+      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f8dd517f0de755c6699f": {
+      "id": "opp_f8dd517f0de755c6699f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34309",
+      "canonicalUrl": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now",
+      "title": "이제 OS란 대체 무엇인가?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-26T14:40:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프로그래머와 사용자 사이의 경계가 AI로 허물어지면서, 사용자가 자연어로 자신에게 필요한 프로그램을 직접 만드는 컴퓨팅 환경이 열리고 있음 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34309"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:779b4145489d271be54728518e4471d3583c506a17443c4d845daab3af42e079",
+      "dedupeKey": "brief:opp_f8dd517f0de755c6699f:sha256:779b4145489d271be54728518e4471d3583c506a17443c4d845daab3af42e079",
+      "firstSeenAt": "2026-09-27T09:06:10.230Z",
+      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2532bcfb3a678b566adf": {
+      "id": "opp_2532bcfb3a678b566adf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34327",
+      "canonicalUrl": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "title": "비전 모델까지 지원하는 Jev 스타일 LLM 래퍼",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T01:49:52+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "일반 LLM을 긴 답변 대신 선택지별 확률과 점수를 반환하는 도구로 사용하는 Python 함수 score()를 구현함 질문과 A/B/C 선택지를 주고 답에 해당...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34327"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7dc43928c9331033b6b71ff98e573e8e5b3995fe26a5b80300918ff6fcea4f25",
+      "dedupeKey": "brief:opp_2532bcfb3a678b566adf:sha256:7dc43928c9331033b6b71ff98e573e8e5b3995fe26a5b80300918ff6fcea4f25",
+      "firstSeenAt": "2026-09-27T09:06:10.230Z",
+      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6466fda26b4d02bd67cb": {
+      "id": "opp_6466fda26b4d02bd67cb",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:LXdWUZYzins",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LXdWUZYzins",
+      "title": "[한영자막] 스킬 엔지니어링의 숨겨진 비기(Dark Arts)를 소개합니다 — Paul Bakaus (Impeccable)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T09:00:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "jQuery UI의 제작자이자 Impeccable의 창시자인 Paul Bakaus가 단순히 프롬프트를 작성하는 것을 넘어, 하네스와 도구를 확장하여 AI 에이전트의 한계를 돌파하는 9가지 스킬 엔지니어링 심화 기법(Dark Arts)을 공개합니다. 📌 주요 내용: • 단순 프롬프트 제약의 한계와 AI 결과물이 천편일률적인 평균(Slop)으로 수렴하는 이유 • 서로를 보지 못하는 두 서브에이전트(디자인 디렉터와 린터)의 교차 검증 구조 • 모델의 뻔한 예측을 깨는 무작위 시드 주입과 표준 출력 지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=LXdWUZYzins"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-27T09:00:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c79f996edeceeda0b3d5a6bf65697b0ba57d5e5c6bf1fc81ada3546a960832fa",
+      "dedupeKey": "brief:opp_6466fda26b4d02bd67cb:sha256:c79f996edeceeda0b3d5a6bf65697b0ba57d5e5c6bf1fc81ada3546a960832fa",
+      "firstSeenAt": "2026-09-27T09:06:10.230Z",
+      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d3ebfdc766e543b890a1": {
+      "id": "opp_d3ebfdc766e543b890a1",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:nZbxgWmgo6M",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nZbxgWmgo6M",
+      "title": "IT뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T09:02:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nZbxgWmgo6M"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-27T09:02:09.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dd3cfda0a38bb435d897e373e629645f6de5f254d1f327c51f78380218ae99f8",
+      "dedupeKey": "brief:opp_d3ebfdc766e543b890a1:sha256:dd3cfda0a38bb435d897e373e629645f6de5f254d1f327c51f78380218ae99f8",
+      "firstSeenAt": "2026-09-27T09:06:10.230Z",
+      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_174e3623331a33738ce5": {
+      "id": "opp_174e3623331a33738ce5",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:SGNaTI8h26A",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SGNaTI8h26A",
+      "title": "레일즈 창시자 DHH가 손코딩을 멈춘 이유 — 에이전트 20개월에 21년 치 코드의 절반, 37signals가 일하는 법",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T04:24:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "타임라인 0:00 인트로 — DHH는 누구인가 1:07 초상화 화가와 카메라 1:58 2025년 11월 24일, 우리 시대의 코닥 브라우니 6:12 10배 프로그래머에서 1,000배 프로그래머로 7:59 20개월 만에 21년 치 코드의 절반 10:56 37signals, 손코딩을 멈추다 14:42 HEY는 웹을 떠나 네이티브 앱으로 18:43 뒷단은 러스트로 22:41 에이전트에게 동료처럼 일을 맡기다 24:20 그럼 레일즈는 어디에 남을까 28:20 루비보다 좋아진 언어, 그리고 프로그래머 은퇴",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=SGNaTI8h26A"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-27T04:24:37.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4ced11a6a828b8a2cf2eb538579c269456db907c550e9af5ded69ada3d5cb388",
+      "dedupeKey": "brief:opp_174e3623331a33738ce5:sha256:4ced11a6a828b8a2cf2eb538579c269456db907c550e9af5ded69ada3d5cb388",
+      "firstSeenAt": "2026-09-27T09:06:10.230Z",
+      "lastSeenAt": "2026-09-27T09:06:10.230Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -67571,6 +67877,36 @@
       "opportunityId": "opp_1bda0cbefa9899d55625",
       "sentAt": "2026-09-27T00:05:51.965Z",
       "messageId": "1553558257761525785"
+    },
+    "brief:opp_d3ebfdc766e543b890a1:sha256:dd3cfda0a38bb435d897e373e629645f6de5f254d1f327c51f78380218ae99f8": {
+      "status": "SENT",
+      "opportunityId": "opp_d3ebfdc766e543b890a1",
+      "sentAt": "2026-09-27T09:06:10.230Z",
+      "messageId": "1553694229904105575"
+    },
+    "brief:opp_174e3623331a33738ce5:sha256:4ced11a6a828b8a2cf2eb538579c269456db907c550e9af5ded69ada3d5cb388": {
+      "status": "SENT",
+      "opportunityId": "opp_174e3623331a33738ce5",
+      "sentAt": "2026-09-27T09:06:10.230Z",
+      "messageId": "1553694229904105575"
+    },
+    "brief:opp_2532bcfb3a678b566adf:sha256:7dc43928c9331033b6b71ff98e573e8e5b3995fe26a5b80300918ff6fcea4f25": {
+      "status": "SENT",
+      "opportunityId": "opp_2532bcfb3a678b566adf",
+      "sentAt": "2026-09-27T09:06:10.230Z",
+      "messageId": "1553694229904105575"
+    },
+    "brief:opp_6466fda26b4d02bd67cb:sha256:c79f996edeceeda0b3d5a6bf65697b0ba57d5e5c6bf1fc81ada3546a960832fa": {
+      "status": "SENT",
+      "opportunityId": "opp_6466fda26b4d02bd67cb",
+      "sentAt": "2026-09-27T09:06:10.230Z",
+      "messageId": "1553694229904105575"
+    },
+    "brief:opp_2f7185cafed2af2a881f:sha256:bdeaf6f3a9ce7e37b879d684e7cf06dc461648a476404cdaa05da80d2ba57684": {
+      "status": "SENT",
+      "opportunityId": "opp_2f7185cafed2af2a881f",
+      "sentAt": "2026-09-27T09:06:10.230Z",
+      "messageId": "1553694229904105575"
     }
   },
   "pending": {},
