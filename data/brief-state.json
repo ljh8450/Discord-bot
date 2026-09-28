@@ -61472,6 +61472,251 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_9bc9877ddf862da58ce9": {
+      "id": "opp_9bc9877ddf862da58ce9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34394",
+      "canonicalUrl": "https://emilyman.substack.com/p/enterprise-ai-is-finally-delivering",
+      "title": "기업용 AI가 마침내 SaaS의 약속을 실현하고 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T09:26:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SaaS는 전문성을 약속했지만 실제 구현은 컨설턴트와 구축 담당자에게 맡기는 경우가 많았음. 기업용 AI는 업무 경험에서 배운 노하우를 제품 자체...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34394"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a06307c0809473fb2eb193b6e0d7f74308537f02c536e0c31f9e764f0c303b19",
+      "dedupeKey": "brief:opp_9bc9877ddf862da58ce9:sha256:a06307c0809473fb2eb193b6e0d7f74308537f02c536e0c31f9e764f0c303b19",
+      "firstSeenAt": "2026-09-28T04:12:49.890Z",
+      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a2e19ad2340786cdac15": {
+      "id": "opp_a2e19ad2340786cdac15",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34397",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RMo04pSSiao",
+      "title": "계속 승진하는 것이 좋은 커리어일까? 엔지니어 Philip Su의 경험 [동영상]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T09:35:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "승진은 같은 일을 더 잘하는 것만을 뜻하지 않음. 높은 레벨에서는 코딩보다 방향 설정과 조직 간 조율이 늘어나며, 잘할 수 있는 일과 하고 싶은 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34397"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b37e2c0e1c26d84e713bd496564d1c3dd71c82882876f5debf968762c79473d0",
+      "dedupeKey": "brief:opp_a2e19ad2340786cdac15:sha256:b37e2c0e1c26d84e713bd496564d1c3dd71c82882876f5debf968762c79473d0",
+      "firstSeenAt": "2026-09-28T04:12:49.890Z",
+      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f58c9767ce7caf902ca9": {
+      "id": "opp_f58c9767ce7caf902ca9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34392",
+      "canonicalUrl": "https://x.com/mvernal/status/2099885132379500562",
+      "title": "해자와 소프트웨어의 바벨화",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T09:15:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "소프트웨어 산업이 소수 초대형 기업과 다수 소규모 사업자로 양극화되면서, 인터넷 이후 신문 산업처럼 중간 규모 기업의 입지가 줄어들 수 있음 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34392"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c5b743fe237b5d4b02875b3c8d7f28ae75589a0b2d12996537cfdd438552604",
+      "dedupeKey": "brief:opp_f58c9767ce7caf902ca9:sha256:7c5b743fe237b5d4b02875b3c8d7f28ae75589a0b2d12996537cfdd438552604",
+      "firstSeenAt": "2026-09-28T04:12:49.890Z",
+      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_51f376d9b4b7b145892b": {
+      "id": "opp_51f376d9b4b7b145892b",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34395",
+      "canonicalUrl": "https://github.com/Tencent/BrowserSkill",
+      "title": "BrowserSkill - 로그인된 내 브라우저를 AI 에이전트가 사용하게 하는 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Tencent가 공개한 브라우저 확장 프로그램과 CLI로, 이미 로그인된 Chrome이나 Edge를 AI 에이전트에 연결 별도 자동화 브라우저에 다시 로그인하...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34395"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0ba5fddc2d577ed0bb99ceeaa5b49b980c4bf65cd3c99e4ea61a614aa3481acc",
+      "dedupeKey": "brief:opp_51f376d9b4b7b145892b:sha256:0ba5fddc2d577ed0bb99ceeaa5b49b980c4bf65cd3c99e4ea61a614aa3481acc",
+      "firstSeenAt": "2026-09-28T04:12:49.890Z",
+      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6157fad26070c1fe1f69": {
+      "id": "opp_6157fad26070c1fe1f69",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34352",
+      "canonicalUrl": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "title": "OpenAI 연구원, “불법 복제 도서 사용이 Hacker News에 알려지면 곤란”",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T18:35:07+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "작가들의 OpenAI·Microsoft 상대 저작권 소송에서 도서 학습 데이터와 작가 대체를 논의한 내부 발언이 공개됨. Authors Guild가 원고 측 제출 서...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34352"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b303f358b43199f231a0213cb0197d4ad6a8099dfc426e0babe4aa012aa41814",
+      "dedupeKey": "brief:opp_6157fad26070c1fe1f69:sha256:b303f358b43199f231a0213cb0197d4ad6a8099dfc426e0babe4aa012aa41814",
+      "firstSeenAt": "2026-09-28T04:12:49.890Z",
+      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -68200,6 +68445,18 @@
       "opportunityId": "opp_26707b80aa5b9ddaa2da",
       "sentAt": "2026-09-28T00:05:57.530Z",
       "messageId": "1553920667706200149"
+    },
+    "brief:opp_a2e19ad2340786cdac15:sha256:b37e2c0e1c26d84e713bd496564d1c3dd71c82882876f5debf968762c79473d0": {
+      "status": "SENT",
+      "opportunityId": "opp_a2e19ad2340786cdac15",
+      "sentAt": "2026-09-28T04:12:49.890Z",
+      "messageId": "1553982796450627667"
+    },
+    "brief:opp_51f376d9b4b7b145892b:sha256:0ba5fddc2d577ed0bb99ceeaa5b49b980c4bf65cd3c99e4ea61a614aa3481acc": {
+      "status": "SENT",
+      "opportunityId": "opp_51f376d9b4b7b145892b",
+      "sentAt": "2026-09-28T04:12:49.890Z",
+      "messageId": "1553982796450627667"
     }
   },
   "pending": {},
