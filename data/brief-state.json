@@ -61499,26 +61499,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 1,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:a06307c0809473fb2eb193b6e0d7f74308537f02c536e0c31f9e764f0c303b19",
       "dedupeKey": "brief:opp_9bc9877ddf862da58ce9:sha256:a06307c0809473fb2eb193b6e0d7f74308537f02c536e0c31f9e764f0c303b19",
-      "firstSeenAt": "2026-09-28T04:12:49.890Z",
-      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -61597,8 +61597,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 4,
+        "communityPoints": 9,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -61612,8 +61612,8 @@
       },
       "contentHash": "sha256:7c5b743fe237b5d4b02875b3c8d7f28ae75589a0b2d12996537cfdd438552604",
       "dedupeKey": "brief:opp_f58c9767ce7caf902ca9:sha256:7c5b743fe237b5d4b02875b3c8d7f28ae75589a0b2d12996537cfdd438552604",
-      "firstSeenAt": "2026-09-28T04:12:49.890Z",
-      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -61696,7 +61696,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 6,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -61710,11 +61710,407 @@
       },
       "contentHash": "sha256:b303f358b43199f231a0213cb0197d4ad6a8099dfc426e0babe4aa012aa41814",
       "dedupeKey": "brief:opp_6157fad26070c1fe1f69:sha256:b303f358b43199f231a0213cb0197d4ad6a8099dfc426e0babe4aa012aa41814",
-      "firstSeenAt": "2026-09-28T04:12:49.890Z",
-      "lastSeenAt": "2026-09-28T04:12:49.890Z",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9a682c750c81096b8b31": {
+      "id": "opp_9a682c750c81096b8b31",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34375",
+      "canonicalUrl": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "title": "‘통제를 벗어난’ AI 에이전트란 없다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T03:37:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 일으킨 사고를 “에이전트가 통제를 벗어났다” 고 표현하면, 소프트웨어가 스스로 판단한 것처럼 보이게 하고 이를 개발·운영한 기업의 책임을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34375"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:735eb6b3ce1428f0d98b22fd172f87c3b1d44039f7bdacd7819a9995f6c74c4f",
+      "dedupeKey": "brief:opp_9a682c750c81096b8b31:sha256:735eb6b3ce1428f0d98b22fd172f87c3b1d44039f7bdacd7819a9995f6c74c4f",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b55ed16ba26936bcb461": {
+      "id": "opp_b55ed16ba26936bcb461",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34381",
+      "canonicalUrl": "https://pixelambacht.nl/2026/ten-lines-of-code",
+      "title": "내 세상을 바꾼 코드 열 줄",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T05:35:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "화면에 인사를 끝없이 출력하는 BASIC 두 줄만으로도, 컴퓨터가 내가 시킨 대로 움직인다는 사실에 눈이 휘둥그레지던 순간이 있었음 실행 중인 명...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34381"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
+      "dedupeKey": "brief:opp_b55ed16ba26936bcb461:sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8789cb4638a51301a611": {
+      "id": "opp_8789cb4638a51301a611",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34408",
+      "canonicalUrl": "https://news.hada.io/topic?id=34408",
+      "title": "Show GN: Icon Wiki - 무료 아이콘·이모지 12만 개를 한곳에서 검색하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T12:25:14+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "혼자 서비스를 만들다 보니 아이콘 찾을 일이 꽤 많았습니다. 그때마다 구글에서 검색해서 쓰고 있었는데, 찾아보니 무료로 공개된 아이콘 라이브...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34408"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7fdab307b93adc33cc84af4c612e2fb97ccac2f6b9ac6e0dc6a2e2808c8e2fd",
+      "dedupeKey": "brief:opp_8789cb4638a51301a611:sha256:c7fdab307b93adc33cc84af4c612e2fb97ccac2f6b9ac6e0dc6a2e2808c8e2fd",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd37a36a3b2b2bbfa3e4": {
+      "id": "opp_cd37a36a3b2b2bbfa3e4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34372",
+      "canonicalUrl": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "title": "설명할 수 없는 실패의 일상화",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T02:39:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 기반 소프트웨어에서 더 우려스러운 문제는 실패 증가 자체보다, “가끔은 그냥 안 된다”가 원인 조사의 종착점으로 받아들여지는 것임 판단과 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34372"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:639a244232e141cc03f23ebf10dcaead3f2acb48d367d83c623b6ecdcfaec5ba",
+      "dedupeKey": "brief:opp_cd37a36a3b2b2bbfa3e4:sha256:639a244232e141cc03f23ebf10dcaead3f2acb48d367d83c623b6ecdcfaec5ba",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b0fd5430b26651243ed2": {
+      "id": "opp_b0fd5430b26651243ed2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34368",
+      "canonicalUrl": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "title": "Mistral CEO: “AI는 소프트웨어다. 통제할 수 있다”",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T00:41:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 강력해질수록 통제도 정교해져야 하지만, 사용자 의도에 맞춘 학습과 격리·감시·검증으로 다룰 수 있는 소프트웨어라는 것이 Mistral CEO 아...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34368"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c950d3bada8ddece5749867b61be7b288653aba126b237bf5b4960ccc5400e97",
+      "dedupeKey": "brief:opp_b0fd5430b26651243ed2:sha256:c950d3bada8ddece5749867b61be7b288653aba126b237bf5b4960ccc5400e97",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_572d809d6159d016274e": {
+      "id": "opp_572d809d6159d016274e",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "dbe30a6c4244cd645075193fe8ea7f4dc55afe7f",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/woongjin-preedlife-aws-drs",
+      "title": "웅진프리드라이프의 AWS Elastic Disaster Recovery 기반 클라우드 DR 환경 구축",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 05:53:21 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "“재해 상황에서 모든 서버를 같은 방식으로 복구해야 할까요?” 재해복구(DR, Disaster Recovery)는 시스템 장애나 재해 상황에서 서비스를 복구하기 위한 체계입니다. 백업을 확보하고 복제를 구성하는 것까지는 비교적 명확한 작업에 해당합니다. 일반적으로 재해복구의 목표는 모든 시스템을 장애 이전 상태로 되돌리는 것으로 설정됩니다. 다만 모든 시스템에 동일한 복구 수준을 적용하려면 그만큼의 자원과 운영 부담이 따릅니다. 복구 시간을 짧게 잡을수록 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/woongjin-preedlife-aws-drs/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32900a7a685828b9cbbcb0d6fc6fe830dea5546b07a0842583ada979f484e15f",
+      "dedupeKey": "brief:opp_572d809d6159d016274e:sha256:32900a7a685828b9cbbcb0d6fc6fe830dea5546b07a0842583ada979f484e15f",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_034d57fabca22ea1ee1e": {
+      "id": "opp_034d57fabca22ea1ee1e",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "87c336903f914ec52c4b84090a596f461c7ff8f1",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/federated-learning-in-action-with-nvidia-flare-on-amazon-eks",
+      "title": "Amazon EKS와 NVIDIA FLARE로 구현하는 연합학습 (Federated Learning)",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 04:48:44 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "머신러닝의 학습 과정에서 고품질 모델을 훈련시키려면 대규모의 고품질 데이터가 필수적이며, 이를 준비하는 과정은 보통 여러 출처의 데이터를 한곳에 모으는 작업을 동반합니다. 이 방식은 효과적이지만 의료 기관, 금융 기관, 정부 기관과 같이 데이터 프라이버시, 규제 준수, 데이터 주권에 민감한 환경에서는 조직 밖으로 반출할 수 없는 소중한 데이터를 보유하고 있는 경우가 많습니다. 연합 학습(Federated Learning, FL)은 이에 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/federated-learning-in-action-with-nvidia-flare-on-amazon-eks/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:527b08aa99afc6bd762edc819f29e070dd6d082c2dc6bb372d5f978f4e00bf42",
+      "dedupeKey": "brief:opp_034d57fabca22ea1ee1e:sha256:527b08aa99afc6bd762edc819f29e070dd6d082c2dc6bb372d5f978f4e00bf42",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f48df8e0a2e2026121c1": {
+      "id": "opp_f48df8e0a2e2026121c1",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:S-bRN-avZ4Q",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S-bRN-avZ4Q",
+      "title": "[한영자막] AI 에이전트를 위한 문서 컨텍스트 레이어 구축하는 법 — Jerry Liu, LlamaIndex",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T09:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "LlamaIndex의 공동창업자이자 CEO인 Jerry Liu가 2026년 AI 에이전트 시대를 맞아 RAG와 문서 컨텍스트 레이어가 나아갈 방향을 명쾌하게 제시합니다. 10조 페이지 이상의 PDF, 워드, 파워포인트에 갇힌 비정형 지식을 에이전트가 완벽하게 소화할 수 있도록 만드는 파싱, 시맨틱 저장소, 워크플로 구축 전략을 만나보세요. 📌 주요 내용: • 2026년 RAG의 재정의: 단순 검색을 넘어 에이전트 하네스와 컨텍스트 레이어로의 진화 • 문서 OCR의 본질적 한계: 인쇄용으로 설계된",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=S-bRN-avZ4Q"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-28T09:00:34.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1188d17b51ab1bc5a2756527aecfc4925ac5751d78ab768734b821aaac2b7202",
+      "dedupeKey": "brief:opp_f48df8e0a2e2026121c1:sha256:1188d17b51ab1bc5a2756527aecfc4925ac5751d78ab768734b821aaac2b7202",
+      "firstSeenAt": "2026-09-28T09:06:08.087Z",
+      "lastSeenAt": "2026-09-28T09:06:08.087Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -68457,6 +68853,36 @@
       "opportunityId": "opp_51f376d9b4b7b145892b",
       "sentAt": "2026-09-28T04:12:49.890Z",
       "messageId": "1553982796450627667"
+    },
+    "brief:opp_034d57fabca22ea1ee1e:sha256:527b08aa99afc6bd762edc819f29e070dd6d082c2dc6bb372d5f978f4e00bf42": {
+      "status": "SENT",
+      "opportunityId": "opp_034d57fabca22ea1ee1e",
+      "sentAt": "2026-09-28T09:06:08.087Z",
+      "messageId": "1554056608579977268"
+    },
+    "brief:opp_572d809d6159d016274e:sha256:32900a7a685828b9cbbcb0d6fc6fe830dea5546b07a0842583ada979f484e15f": {
+      "status": "SENT",
+      "opportunityId": "opp_572d809d6159d016274e",
+      "sentAt": "2026-09-28T09:06:08.087Z",
+      "messageId": "1554056608579977268"
+    },
+    "brief:opp_9bc9877ddf862da58ce9:sha256:a06307c0809473fb2eb193b6e0d7f74308537f02c536e0c31f9e764f0c303b19": {
+      "status": "SENT",
+      "opportunityId": "opp_9bc9877ddf862da58ce9",
+      "sentAt": "2026-09-28T09:06:08.087Z",
+      "messageId": "1554056608579977268"
+    },
+    "brief:opp_9a682c750c81096b8b31:sha256:735eb6b3ce1428f0d98b22fd172f87c3b1d44039f7bdacd7819a9995f6c74c4f": {
+      "status": "SENT",
+      "opportunityId": "opp_9a682c750c81096b8b31",
+      "sentAt": "2026-09-28T09:06:08.087Z",
+      "messageId": "1554056608579977268"
+    },
+    "brief:opp_f48df8e0a2e2026121c1:sha256:1188d17b51ab1bc5a2756527aecfc4925ac5751d78ab768734b821aaac2b7202": {
+      "status": "SENT",
+      "opportunityId": "opp_f48df8e0a2e2026121c1",
+      "sentAt": "2026-09-28T09:06:08.087Z",
+      "messageId": "1554056608579977268"
     }
   },
   "pending": {},
