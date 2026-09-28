@@ -61291,8 +61291,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 5,
+        "communityPoints": 6,
+        "communityRank": 6,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -61306,11 +61306,170 @@
       },
       "contentHash": "sha256:574c88df6bee466853503c5d6f8382386b5f29555346e0b2ea9c89a96c6b1c9d",
       "dedupeKey": "brief:opp_26707b80aa5b9ddaa2da:sha256:574c88df6bee466853503c5d6f8382386b5f29555346e0b2ea9c89a96c6b1c9d",
-      "firstSeenAt": "2026-09-27T14:32:27.669Z",
-      "lastSeenAt": "2026-09-27T14:32:27.669Z",
+      "firstSeenAt": "2026-09-28T00:05:57.530Z",
+      "lastSeenAt": "2026-09-28T00:05:57.530Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a7624467c4e40261bc77": {
+      "id": "opp_a7624467c4e40261bc77",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:12fSRB3OY6U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=12fSRB3OY6U",
+      "title": "EP 116. 창의성을 배운 AI (Opus 5.5·GPT-6 Sol)",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T22:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Claude Opus 5.5와 GPT-6 Sol이 두 시간 차이로 공개된 주, 70일 주기로 새 모델이 나오는 프론티어의 속도와 가격 경쟁을 짚어봅니다. 이어 Opus 5.5가 에셋 없이 코드만으로 만든 모션 그래픽·화풍 재현·게임·PCM 음악 데모를 함께 보며, Jeffrey Katzenberg가 말한 'AI for Creativity'와 Kyle McDonald·Zach Lieberman 등 크리에이티브 코딩 진영의 반응을 살펴봅니다. 무엇이든 만들 수 있게 된 시대에 인간은 무엇을 만들고 무",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=12fSRB3OY6U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-27T22:00:15.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:93e78194116b5a2c469537a06f5aff5eaf81abc888a3c886060330c0f8342dde",
+      "dedupeKey": "brief:opp_a7624467c4e40261bc77:sha256:93e78194116b5a2c469537a06f5aff5eaf81abc888a3c886060330c0f8342dde",
+      "firstSeenAt": "2026-09-28T00:05:57.530Z",
+      "lastSeenAt": "2026-09-28T00:05:57.530Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_057b2a24ea54e3df3a3e": {
+      "id": "opp_057b2a24ea54e3df3a3e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:AzmloQSjvp0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AzmloQSjvp0",
+      "title": "[한영자막] Claude Code와 Codex를 인간 연구자들과 경쟁시켰습니다 — Elie Bakouch, Prime Intellect",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T22:00:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 실제 연구 과제에 도전하면 인간 연구자의 기록을 넘어설 수 있을까요? Prime Intellect의 연구 엔지니어 Elie Bakouch가 Claude Code와 Codex를 Optimizer Speedrun에 투입해 그 과정을 공개했습니다. 이번 영상에서는 두 AI 에이전트의 기록과 작업 방식, 연구 논문 활용을 비교하고 자동화된 AI 연구의 가능성과 한계를 살펴봅니다. 두 모델 모두 인간 기록을 깼지만, 새로운 최적화 알고리즘을 발명한 것은 아니었습니다. 주요 포인트 - Claude C",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=AzmloQSjvp0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-27T22:00:17.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b25ba0a718a20dd223142e16bb23433a958b86292e69f10c98deb7f1d331b170",
+      "dedupeKey": "brief:opp_057b2a24ea54e3df3a3e:sha256:b25ba0a718a20dd223142e16bb23433a958b86292e69f10c98deb7f1d331b170",
+      "firstSeenAt": "2026-09-28T00:05:57.530Z",
+      "lastSeenAt": "2026-09-28T00:05:57.530Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7cacfdfa7537bbd9fb83": {
+      "id": "opp_7cacfdfa7537bbd9fb83",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:V2q65iCAPcI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=V2q65iCAPcI",
+      "title": "크레딧 쓰기 전에 카메라부터 확인했습니다 — Claude Opus 5.5가 three.js로 만든 프리비즈, Higgsfield로 찍은 단편 2편",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-09-27T16:51:54+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ Claude에서 Higgsfield MCP 연결하기: https://higgsfield.ai/s/claude-opus-5-5-yt-ai-agentos-rkxcpx AI 영상은 생성 버튼을 누르고 크레딧을 쓴 뒤에야 결과를 알 수 있어요. 이 영상에서는 그 전에 카메라부터 확인했습니다. Claude Opus 5.5 에게 한 줄 브리프를 주고 three.js 로 된 HTML 프리비즈를 만들게 한 다음, Claude 안에서 Higgsfield MCP 로 Seedance 2.5 를 불러 실제 영상까지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=V2q65iCAPcI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-27T16:51:54.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:773bf3cd7f693cfbca428a007e3eb63f1e503f3989d034bab1984b5d39e1ad2e",
+      "dedupeKey": "brief:opp_7cacfdfa7537bbd9fb83:sha256:773bf3cd7f693cfbca428a007e3eb63f1e503f3989d034bab1984b5d39e1ad2e",
+      "firstSeenAt": "2026-09-28T00:05:57.530Z",
+      "lastSeenAt": "2026-09-28T00:05:57.530Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -68017,6 +68176,30 @@
       "opportunityId": "opp_f8dd517f0de755c6699f",
       "sentAt": "2026-09-27T14:32:27.669Z",
       "messageId": "1553776343119036527"
+    },
+    "brief:opp_7cacfdfa7537bbd9fb83:sha256:773bf3cd7f693cfbca428a007e3eb63f1e503f3989d034bab1984b5d39e1ad2e": {
+      "status": "SENT",
+      "opportunityId": "opp_7cacfdfa7537bbd9fb83",
+      "sentAt": "2026-09-28T00:05:57.530Z",
+      "messageId": "1553920667706200149"
+    },
+    "brief:opp_a7624467c4e40261bc77:sha256:93e78194116b5a2c469537a06f5aff5eaf81abc888a3c886060330c0f8342dde": {
+      "status": "SENT",
+      "opportunityId": "opp_a7624467c4e40261bc77",
+      "sentAt": "2026-09-28T00:05:57.530Z",
+      "messageId": "1553920667706200149"
+    },
+    "brief:opp_057b2a24ea54e3df3a3e:sha256:b25ba0a718a20dd223142e16bb23433a958b86292e69f10c98deb7f1d331b170": {
+      "status": "SENT",
+      "opportunityId": "opp_057b2a24ea54e3df3a3e",
+      "sentAt": "2026-09-28T00:05:57.530Z",
+      "messageId": "1553920667706200149"
+    },
+    "brief:opp_26707b80aa5b9ddaa2da:sha256:574c88df6bee466853503c5d6f8382386b5f29555346e0b2ea9c89a96c6b1c9d": {
+      "status": "SENT",
+      "opportunityId": "opp_26707b80aa5b9ddaa2da",
+      "sentAt": "2026-09-28T00:05:57.530Z",
+      "messageId": "1553920667706200149"
     }
   },
   "pending": {},
