@@ -61808,8 +61808,8 @@
       },
       "contentHash": "sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
       "dedupeKey": "brief:opp_b55ed16ba26936bcb461:sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62687,8 +62687,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 4,
+        "communityPoints": 16,
+        "communityRank": 3,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -62702,8 +62702,8 @@
       },
       "contentHash": "sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
       "dedupeKey": "brief:opp_ac6284d492cd730ffb33:sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62785,7 +62785,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
+        "communityPoints": 15,
         "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -62800,8 +62800,8 @@
       },
       "contentHash": "sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
       "dedupeKey": "brief:opp_a21fc89ff631928f1088:sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62931,26 +62931,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
+        "communityPoints": 26,
         "communityRank": 1,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:96ec4603d1c84bab0b786cc94d69e64eae6ea688349df89334f9c3caa8bfc9a7",
       "dedupeKey": "brief:opp_df81901425acc6781712:sha256:96ec4603d1c84bab0b786cc94d69e64eae6ea688349df89334f9c3caa8bfc9a7",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -62980,14 +62980,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 9,
-        "contentScore": 12,
+        "communityPoints": 8,
+        "communityRank": 8,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -62995,8 +62995,8 @@
       },
       "contentHash": "sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
       "dedupeKey": "brief:opp_89798e350e3b9370d825:sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63243,11 +63243,11 @@
       },
       "contentHash": "sha256:39b8bf1cc2457d6a306ea085ff33cff689f7304d3106e557750836b25bbdee68",
       "dedupeKey": "brief:opp_bf4313f468a0b2fab948:sha256:39b8bf1cc2457d6a306ea085ff33cff689f7304d3106e557750836b25bbdee68",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -63296,8 +63296,8 @@
       },
       "contentHash": "sha256:f7c135661f3908506965a0c54179f64adb4c828285d882b17a9d092eaec307fd",
       "dedupeKey": "brief:opp_2d84d1cd8145a13f0c18:sha256:f7c135661f3908506965a0c54179f64adb4c828285d882b17a9d092eaec307fd",
-      "firstSeenAt": "2026-09-29T09:05:39.945Z",
-      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63352,6 +63352,405 @@
       "dedupeKey": "brief:opp_954b0fbcbc938fd3cd99:sha256:23520c30566b68f9dc34aef170c35345a2f662ee63c33635b699daabccb18e87",
       "firstSeenAt": "2026-09-29T09:05:39.945Z",
       "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f7f8c2e7ac2d6dd19680": {
+      "id": "opp_f7f8c2e7ac2d6dd19680",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34459",
+      "canonicalUrl": "https://github.com/firelex/jeff",
+      "title": "Jeff - 집에서 학습한 Jev 호환 0.8B 의사결정 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T07:43:38+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Jeff는 상황과 선택지를 자연어로 입력하면 문장을 생성하지 않고 선택지별 확률을 반환하는 소형 의사결정 모델로, 고객 문의 분류·사용자 의도 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34459"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 6,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37db9898b94f42c531e0464ac17cad0f5c71ceaba8a2f2c472939620fa54018b",
+      "dedupeKey": "brief:opp_f7f8c2e7ac2d6dd19680:sha256:37db9898b94f42c531e0464ac17cad0f5c71ceaba8a2f2c472939620fa54018b",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_06fc0dd0cceaf5f96d62": {
+      "id": "opp_06fc0dd0cceaf5f96d62",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34457",
+      "canonicalUrl": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
+      "title": "칼 뉴포트: AI 연구소를 조사할 때다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T07:37:38+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "미국 의회가 OpenAI와 Anthropic의 연구 활동을 대상으로, 무엇을 어떻게 어떤 목적으로 연구하는지 공개적으로 사실관계를 조사해야 함 두 회사는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34457"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6cd027a0baacbf91651560c792d36fb546c3a8c18f8487fb380a0a2bd5e80e10",
+      "dedupeKey": "brief:opp_06fc0dd0cceaf5f96d62:sha256:6cd027a0baacbf91651560c792d36fb546c3a8c18f8487fb380a0a2bd5e80e10",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a737de5767c74733c0ed": {
+      "id": "opp_a737de5767c74733c0ed",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34452",
+      "canonicalUrl": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T06:37:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "“AI는 실수할 수 있으니 확인하세요”라고 요구한다면, 확인할 도구도 제공해야 함. 오류 검증은 작은 면책 문구가 아니라 제품의 핵심 기능이어야 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34452"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:256817139969ce17cfee4f50244d6c2b7b087ab395e4afed2beab546193ee962",
+      "dedupeKey": "brief:opp_a737de5767c74733c0ed:sha256:256817139969ce17cfee4f50244d6c2b7b087ab395e4afed2beab546193ee962",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09a0b472d628ddc3a49e": {
+      "id": "opp_09a0b472d628ddc3a49e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34444",
+      "canonicalUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+      "title": "Claude Sonnet 5.5 출시",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T03:45:21+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Sonnet 5.5는 코딩과 문서·슬라이드·스프레드시트 작업 성능을 높이고, Sonnet 5보다 출력 속도를 30% 이상 개선한 모델 API 가격은 100만 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34444"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cf991aea83f0e8e66bbffcd33a16dde4f48feb74331e0ab2b039e1179c22f709",
+      "dedupeKey": "brief:opp_09a0b472d628ddc3a49e:sha256:cf991aea83f0e8e66bbffcd33a16dde4f48feb74331e0ab2b039e1179c22f709",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a1087eac704289c45cbb": {
+      "id": "opp_a1087eac704289c45cbb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34456",
+      "canonicalUrl": "https://motherduck.com/blog/why-duckdb-20-is-faster",
+      "title": "DuckDB 2.0이 더 빠른 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T07:24:06+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "DuckDB 2.0 알파는 S3 데이터 읽기, 깊은 계층 탐색, JSON 형태 데이터 조회를 개선하며, 각각 비동기 I/O·재귀 CTE 엔진 재작성·VARIANT 필드 분...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34456"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:af05dedfa8c56f7f70e8eb29a94ad0ea6c63fa4ecfdda9217dc1dbbc26941fbc",
+      "dedupeKey": "brief:opp_a1087eac704289c45cbb:sha256:af05dedfa8c56f7f70e8eb29a94ad0ea6c63fa4ecfdda9217dc1dbbc26941fbc",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_447bfab62131c4cee896": {
+      "id": "opp_447bfab62131c4cee896",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99134",
+      "canonicalUrl": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead",
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 15:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:225a8dbb0ef1727b2515dad3d4c9947213bab1c8932eead8aef7aab770f75640",
+      "dedupeKey": "brief:opp_447bfab62131c4cee896:sha256:225a8dbb0ef1727b2515dad3d4c9947213bab1c8932eead8aef7aab770f75640",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_26df164e2c573897b398": {
+      "id": "opp_26df164e2c573897b398",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:KBlCLO7u-QY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KBlCLO7u-QY",
+      "title": "[LIVE] OpenAI DevDay 2026 함께봐요!!",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T13:36:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "[LIVE] OpenAI DevDay 2026 함께봐요!! #OpenAI #오픈AI",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=KBlCLO7u-QY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T13:36:30.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1c1232a590b552cc32c3589ceac35c913182bb3fe815cb51b9ac403a0f424dc3",
+      "dedupeKey": "brief:opp_26df164e2c573897b398:sha256:1c1232a590b552cc32c3589ceac35c913182bb3fe815cb51b9ac403a0f424dc3",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_577ff7326c30341c7e48": {
+      "id": "opp_577ff7326c30341c7e48",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:Ez4Su9C-uiQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Ez4Su9C-uiQ",
+      "title": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T10:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "구글은 이미 8세대 TPU까지 자체 AI 칩을 만들고 있습니다.그런데도 Google Cloud에서는 NVIDIA의 차세대 GPU 시스템을 계속 도입하고 있습니다. 이번 영상에서는 GPU와 TPU를 단순히 범용칩과 전용칩으로 나누기 어려운 이유부터 살펴봅니다.NVIDIA GPU 안의 Tensor Core와 Transformer Engine, 구글 TPU의 전용화 방식이 어디에서 닮고 갈리는지도 짚었습니다. 또 학습용 TPU 8t와 추론용 TPU 8i가 따로 만들어진 이유, 자체칩이 특히 유리해지는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Ez4Su9C-uiQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T10:00:34.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:987cf33389801ab339c71d6d2579440e0cd152191b544c80da91cabbe3e1bc6e",
+      "dedupeKey": "brief:opp_577ff7326c30341c7e48:sha256:987cf33389801ab339c71d6d2579440e0cd152191b544c80da91cabbe3e1bc6e",
+      "firstSeenAt": "2026-09-29T15:20:30.335Z",
+      "lastSeenAt": "2026-09-29T15:20:30.335Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -70247,6 +70646,42 @@
       "opportunityId": "opp_2f45306d987e9d5ea751",
       "sentAt": "2026-09-29T09:05:39.945Z",
       "messageId": "1554418880322211913"
+    },
+    "brief:opp_447bfab62131c4cee896:sha256:225a8dbb0ef1727b2515dad3d4c9947213bab1c8932eead8aef7aab770f75640": {
+      "status": "SENT",
+      "opportunityId": "opp_447bfab62131c4cee896",
+      "sentAt": "2026-09-29T15:20:30.335Z",
+      "messageId": "1554513210030297281"
+    },
+    "brief:opp_df81901425acc6781712:sha256:96ec4603d1c84bab0b786cc94d69e64eae6ea688349df89334f9c3caa8bfc9a7": {
+      "status": "SENT",
+      "opportunityId": "opp_df81901425acc6781712",
+      "sentAt": "2026-09-29T15:20:30.335Z",
+      "messageId": "1554513210030297281"
+    },
+    "brief:opp_09a0b472d628ddc3a49e:sha256:cf991aea83f0e8e66bbffcd33a16dde4f48feb74331e0ab2b039e1179c22f709": {
+      "status": "SENT",
+      "opportunityId": "opp_09a0b472d628ddc3a49e",
+      "sentAt": "2026-09-29T15:20:30.335Z",
+      "messageId": "1554513210030297281"
+    },
+    "brief:opp_26df164e2c573897b398:sha256:1c1232a590b552cc32c3589ceac35c913182bb3fe815cb51b9ac403a0f424dc3": {
+      "status": "SENT",
+      "opportunityId": "opp_26df164e2c573897b398",
+      "sentAt": "2026-09-29T15:20:30.335Z",
+      "messageId": "1554513210030297281"
+    },
+    "brief:opp_577ff7326c30341c7e48:sha256:987cf33389801ab339c71d6d2579440e0cd152191b544c80da91cabbe3e1bc6e": {
+      "status": "SENT",
+      "opportunityId": "opp_577ff7326c30341c7e48",
+      "sentAt": "2026-09-29T15:20:30.335Z",
+      "messageId": "1554513210030297281"
+    },
+    "brief:opp_bf4313f468a0b2fab948:sha256:39b8bf1cc2457d6a306ea085ff33cff689f7304d3106e557750836b25bbdee68": {
+      "status": "SENT",
+      "opportunityId": "opp_bf4313f468a0b2fab948",
+      "sentAt": "2026-09-29T15:20:30.335Z",
+      "messageId": "1554513210030297281"
     }
   },
   "pending": {},
