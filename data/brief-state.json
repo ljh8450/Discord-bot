@@ -61794,7 +61794,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 14,
-        "communityRank": 15,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -61808,8 +61808,8 @@
       },
       "contentHash": "sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
       "dedupeKey": "brief:opp_b55ed16ba26936bcb461:sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
-      "firstSeenAt": "2026-09-29T04:44:44.199Z",
-      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62638,26 +62638,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 2,
-        "contentScore": 12,
+        "communityPoints": 13,
+        "communityRank": 3,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:ce6fd6b55fecd23b46581de5477ee8e4d640639eb3d5bcf37c577c5bb943a120",
       "dedupeKey": "brief:opp_2f45306d987e9d5ea751:sha256:ce6fd6b55fecd23b46581de5477ee8e4d640639eb3d5bcf37c577c5bb943a120",
-      "firstSeenAt": "2026-09-29T04:44:44.199Z",
-      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -62687,23 +62687,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 3,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
       "dedupeKey": "brief:opp_ac6284d492cd730ffb33:sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
-      "firstSeenAt": "2026-09-29T04:44:44.199Z",
-      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62785,23 +62785,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 14,
         "communityRank": 5,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
       "dedupeKey": "brief:opp_a21fc89ff631928f1088:sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
-      "firstSeenAt": "2026-09-29T04:44:44.199Z",
-      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62899,6 +62899,459 @@
       "dedupeKey": "brief:opp_1f586e71ee5403040023:sha256:348343d20bb88d468383943f7a8f6d9d8fb42ba33cf8ee451eb49ba56bd00931",
       "firstSeenAt": "2026-09-29T04:44:44.199Z",
       "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_df81901425acc6781712": {
+      "id": "opp_df81901425acc6781712",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34478",
+      "canonicalUrl": "https://kciter.so/posts/server-monitoring-analysis-guide",
+      "title": "서버 모니터링 분석 가이드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T15:11:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "대시보드 설치 가이드는 많지만 그래프를 실제로 읽고 진단하는 방법에 대한 가이드는 드물다는 문제의식에서 모니터링을 어떻게 읽고 행동할지 정...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34478"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 13,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:96ec4603d1c84bab0b786cc94d69e64eae6ea688349df89334f9c3caa8bfc9a7",
+      "dedupeKey": "brief:opp_df81901425acc6781712:sha256:96ec4603d1c84bab0b786cc94d69e64eae6ea688349df89334f9c3caa8bfc9a7",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_89798e350e3b9370d825": {
+      "id": "opp_89798e350e3b9370d825",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34424",
+      "canonicalUrl": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "title": "Claude Opus 5.5 프롬프트 작성법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T19:49:18+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "기존 Opus 5 프롬프트는 대체로 그대로 쓸 수 있으며, 추론량은 effort의 기본값인 medium부터 조정하는 것이 권장됨. 이전 모델의 설정을 그대로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34424"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
+      "dedupeKey": "brief:opp_89798e350e3b9370d825:sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2b6da499fd8b12be407a": {
+      "id": "opp_2b6da499fd8b12be407a",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "canonicalUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "Towards safety cases for frontier AI training",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "summaryEvidence": [
+        "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8480a943cfeb3bfd201c75881ac597cbd8dfb518c78667f9d9007507f6cdbf9e",
+      "dedupeKey": "brief:opp_2b6da499fd8b12be407a:sha256:8480a943cfeb3bfd201c75881ac597cbd8dfb518c78667f9d9007507f6cdbf9e",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e26823a75cf6281c1389": {
+      "id": "opp_e26823a75cf6281c1389",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "5b5c800ca56e3dc6fb9f7944a2e1d9c317e1c9b5",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/physical-ai-model-pipeline",
+      "title": "Amazon SageMaker AI와 AWS IoT Greengrass를 활용한 Physical AI 학습 파이프라인 구축하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 08:09:54 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "로봇을 움직이는 제어 정책을 학습할 때는 수백만 번의 시행착오가 필요합니다. 학습한 모델로 원하는 동작을 수행하는지 반복해서 검증해야 하는데, 실제 로봇으로 이를 반복하면 시간이 오래 걸리고 비용이 크며 로봇이 파손될 위험이 있습니다. 그래서 로봇 개발팀은 시뮬레이션에서 학습하고 실제 로봇에서 검증하는 Sim-to-Real 접근법을 사용합니다. 하지만 시뮬레이션에서 수많은 시행착오를 거치고 사전 학습된 모델을 로봇 데이터로 미세 조정하는 작업은 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/physical-ai-model-pipeline/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a397413203ee44bc16e92f7d0dfdc18025880b6bb6e3d1d518f7f48455c9773c",
+      "dedupeKey": "brief:opp_e26823a75cf6281c1389:sha256:a397413203ee44bc16e92f7d0dfdc18025880b6bb6e3d1d518f7f48455c9773c",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_42025c66c482fbe61d0a": {
+      "id": "opp_42025c66c482fbe61d0a",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "54dbfda8c2e8aef4eb4e305cb60280244513e33c",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/mvnt-event-driven-music-to-dance-ai-infrastructure",
+      "title": "AWS 인프라를 활용한 무븐트의 music-to-dance AI 학습·서빙 인프라 구축기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 05:04:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "소개 무븐트(MVNT)는 춤을 위한 AI 인프라를 만드는 회사입니다. 전 세계 누구나 쉽게 춤을 만들 수 있도록 댄스 생성 AI 모델을 개발하고 있으며, 유명 안무가인 최영준 공동창업자를 필두로 모션 생성·3D·컴퓨터 비전·휴머노이드 백그라운드의 엔지니어들이 함께하고 있습니다. 현재 무븐트의 서비스는 웹앱과 API, 언리얼 엔진 플러그인 형태로 제공되고 있으며 안무가는 물론 K-Pop 기획사, AI UGC(사용자 생성 콘텐츠) 크리에이터, 게임 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/mvnt-event-driven-music-to-dance-ai-infrastructure/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35c8b5678ef5bddadded303716bf276241cfc2147495f38408d24dbc4af78f60",
+      "dedupeKey": "brief:opp_42025c66c482fbe61d0a:sha256:35c8b5678ef5bddadded303716bf276241cfc2147495f38408d24dbc4af78f60",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90073754f065f961d5bd": {
+      "id": "opp_90073754f065f961d5bd",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/7314597",
+      "canonicalUrl": "https://d2.naver.com/helloworld/7314597",
+      "title": "Hive는 잊으려 했지만, Spark는 기억하고 있었다: 사라진 get_table RPC 복원기",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T08:39:50Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<blockquote> <p dir=\"auto\"><code class=\"notranslate\">TApplicationException · UNKNOWN_METHOD</code></p> <p dir=\"auto\"><code class=\"notranslate\">Invalid method name: 'get_table'</code></p> </blockquote> <p dir=\"auto\">이 글은 네이버의 Hadoop 플랫폼인 C3의 Metastore를 Apache Hive 4.2로 올리는 과정에서 Sp",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/7314597"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2079004750079d1c3b0feb243eca11fe0ee9f05eb387f0a0402612d66f7de4fd",
+      "dedupeKey": "brief:opp_90073754f065f961d5bd:sha256:2079004750079d1c3b0feb243eca11fe0ee9f05eb387f0a0402612d66f7de4fd",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bf4313f468a0b2fab948": {
+      "id": "opp_bf4313f468a0b2fab948",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:kJj9sHyiRHI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kJj9sHyiRHI",
+      "title": "[한영자막] 스스로 개선되는 AI 에이전트는 어떻게 만들었을까요? | Weights & Biases",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T09:00:23+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Weights & Biases의 AI 에이전트 ARIA가 프로덕션 실행 기록(Trace)을 분석해 스스로 버그를 찾고 수정하며 성장하는 자율 개선 시스템의 구축 방법과 평가 프레임워크를 소개합니다. 📌 주요 내용: • 프로덕션 트레이스(Trace)를 오프라인 평가(Eval) 태스크로 전환하는 데이터 플라이휠 구축 • 연구 환경과 프로덕션 환경의 에이전트 코드를 바이트 단위까지 100% 동일하게 유지하는 아키텍처 • YAML 기반 다중 변형(Variants) 관리와 무제한 샌드박스를 통한 대규모",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=kJj9sHyiRHI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T09:00:23.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:39b8bf1cc2457d6a306ea085ff33cff689f7304d3106e557750836b25bbdee68",
+      "dedupeKey": "brief:opp_bf4313f468a0b2fab948:sha256:39b8bf1cc2457d6a306ea085ff33cff689f7304d3106e557750836b25bbdee68",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2d84d1cd8145a13f0c18": {
+      "id": "opp_2d84d1cd8145a13f0c18",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:AWeTIh3GyTY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AWeTIh3GyTY",
+      "title": "\"응답시간 500ms, 적절한 건가요?\" | 목표 응답시간 정하는 방법",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T01:11:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "목표 응답시간을 정할 때 참조할 수 있는 공신력 있는 기준들과, 그 기준을 우리 시스템에 어떻게 적용할지 정리했습니다. ⏰타임라인 00:00 검증가능한 기준으로 품질목표를 세워야 한다 00:15 그런데 목표값은 어떻게 정해야 할까? 00:32 구독자 댓글 01:11 목표응답시간 OOms 어떻게 정할까요? 01:18 요구사항 회의에서 01:45 참고할 수 있는 기준 숫자가 있습니다 01:59 기준 1. 사람은 얼마나 기다릴 수 있을까? 03:50 기준 2. 웹이라면 Google 기준이 있다 05:5",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=AWeTIh3GyTY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T01:11:10.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f7c135661f3908506965a0c54179f64adb4c828285d882b17a9d092eaec307fd",
+      "dedupeKey": "brief:opp_2d84d1cd8145a13f0c18:sha256:f7c135661f3908506965a0c54179f64adb4c828285d882b17a9d092eaec307fd",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_954b0fbcbc938fd3cd99": {
+      "id": "opp_954b0fbcbc938fd3cd99",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:UREYH2PX6sI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=UREYH2PX6sI",
+      "title": "I Tested Sonnet 5.5 vs Opus 5.5 vs GPT 6 Astra (No Hype)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T06:31:45+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai ⭐ Higgsfield: https://higgsfield.ai/s/chase-h-ai-mfVzhh 🔥FREE community: https://www.skool.com/chase-ai-community 💻 Need custom work: https://chaseai.io So much for the AI slowdown. In this video, I compare the newest",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=UREYH2PX6sI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T06:31:45.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:23520c30566b68f9dc34aef170c35345a2f662ee63c33635b699daabccb18e87",
+      "dedupeKey": "brief:opp_954b0fbcbc938fd3cd99:sha256:23520c30566b68f9dc34aef170c35345a2f662ee63c33635b699daabccb18e87",
+      "firstSeenAt": "2026-09-29T09:05:39.945Z",
+      "lastSeenAt": "2026-09-29T09:05:39.945Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -69758,6 +70211,42 @@
       "opportunityId": "opp_4426cfc3510333a3a174",
       "sentAt": "2026-09-29T04:44:44.199Z",
       "messageId": "1554353213115732079"
+    },
+    "brief:opp_90073754f065f961d5bd:sha256:2079004750079d1c3b0feb243eca11fe0ee9f05eb387f0a0402612d66f7de4fd": {
+      "status": "SENT",
+      "opportunityId": "opp_90073754f065f961d5bd",
+      "sentAt": "2026-09-29T09:05:39.945Z",
+      "messageId": "1554418880322211913"
+    },
+    "brief:opp_e26823a75cf6281c1389:sha256:a397413203ee44bc16e92f7d0dfdc18025880b6bb6e3d1d518f7f48455c9773c": {
+      "status": "SENT",
+      "opportunityId": "opp_e26823a75cf6281c1389",
+      "sentAt": "2026-09-29T09:05:39.945Z",
+      "messageId": "1554418880322211913"
+    },
+    "brief:opp_42025c66c482fbe61d0a:sha256:35c8b5678ef5bddadded303716bf276241cfc2147495f38408d24dbc4af78f60": {
+      "status": "SENT",
+      "opportunityId": "opp_42025c66c482fbe61d0a",
+      "sentAt": "2026-09-29T09:05:39.945Z",
+      "messageId": "1554418880322211913"
+    },
+    "brief:opp_954b0fbcbc938fd3cd99:sha256:23520c30566b68f9dc34aef170c35345a2f662ee63c33635b699daabccb18e87": {
+      "status": "SENT",
+      "opportunityId": "opp_954b0fbcbc938fd3cd99",
+      "sentAt": "2026-09-29T09:05:39.945Z",
+      "messageId": "1554418880322211913"
+    },
+    "brief:opp_2b6da499fd8b12be407a:sha256:8480a943cfeb3bfd201c75881ac597cbd8dfb518c78667f9d9007507f6cdbf9e": {
+      "status": "SENT",
+      "opportunityId": "opp_2b6da499fd8b12be407a",
+      "sentAt": "2026-09-29T09:05:39.945Z",
+      "messageId": "1554418880322211913"
+    },
+    "brief:opp_2f45306d987e9d5ea751:sha256:ce6fd6b55fecd23b46581de5477ee8e4d640639eb3d5bcf37c577c5bb943a120": {
+      "status": "SENT",
+      "opportunityId": "opp_2f45306d987e9d5ea751",
+      "sentAt": "2026-09-29T09:05:39.945Z",
+      "messageId": "1554418880322211913"
     }
   },
   "pending": {},
