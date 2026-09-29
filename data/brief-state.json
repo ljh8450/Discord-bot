@@ -61793,8 +61793,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 12,
-        "communityRank": 3,
+        "communityPoints": 14,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -61808,8 +61808,8 @@
       },
       "contentHash": "sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
       "dedupeKey": "brief:opp_b55ed16ba26936bcb461:sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
-      "firstSeenAt": "2026-09-29T00:06:12.874Z",
-      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62304,11 +62304,11 @@
       },
       "contentHash": "sha256:b783df94fd414a2d88430fdc824b84fef986869e5d810cdced27c5f37de97fd3",
       "dedupeKey": "brief:opp_4426cfc3510333a3a174:sha256:b783df94fd414a2d88430fdc824b84fef986869e5d810cdced27c5f37de97fd3",
-      "firstSeenAt": "2026-09-29T00:06:12.874Z",
-      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -62557,6 +62557,348 @@
       "dedupeKey": "brief:opp_7a026bb48290f249c4bd:sha256:ed40258724cfc2cb4cbe33bc466bb394d6b303e97423ba24c0bf096c81a24f7a",
       "firstSeenAt": "2026-09-29T00:06:12.874Z",
       "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f9a40c67dc54178c0916": {
+      "id": "opp_f9a40c67dc54178c0916",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34439",
+      "canonicalUrl": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
+      "title": "문제는 AI 코드가 아니라, 이제 아무도 아무것도 모른다는 것이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T02:43:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 만든 코드의 품질보다 더 큰 문제는 팀 안에 시스템의 구조와 설계 이유를 이해하는 사람이 없어지는 것임. 모두가 Claude에만 물으면 전체 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34439"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 16,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:7abc8929b651641b7556ef572dd5a15e325ddbd7028f7950931fd4f1b5109111",
+      "dedupeKey": "brief:opp_f9a40c67dc54178c0916:sha256:7abc8929b651641b7556ef572dd5a15e325ddbd7028f7950931fd4f1b5109111",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2f45306d987e9d5ea751": {
+      "id": "opp_2f45306d987e9d5ea751",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34435",
+      "canonicalUrl": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "title": "코딩은 해결된 문제가 아니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T00:42:55+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 코드 생성 비용을 낮췄다고 해서 소프트웨어 개발이 해결된 것은 아님. 실제 운영 비용의 큰 부분은 유지보수, 신뢰성, 보안, 확장성에 있으...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34435"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ce6fd6b55fecd23b46581de5477ee8e4d640639eb3d5bcf37c577c5bb943a120",
+      "dedupeKey": "brief:opp_2f45306d987e9d5ea751:sha256:ce6fd6b55fecd23b46581de5477ee8e4d640639eb3d5bcf37c577c5bb943a120",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ac6284d492cd730ffb33": {
+      "id": "opp_ac6284d492cd730ffb33",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34466",
+      "canonicalUrl": "https://thinkingsian.com/writers-block-one-principle",
+      "title": "글 쓰다가 막혔을 때 대처법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T10:10:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "제텔카스텐 같은 방법론으로 글의 재료와 구성은 쉬워져도, 디테일하게 쓰는 건 여전히 어려움. 좋은 글은 결국 디테일에서 갈림 글이 막히면 불편...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34466"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
+      "dedupeKey": "brief:opp_ac6284d492cd730ffb33:sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e848fa19d6a0d7d46608": {
+      "id": "opp_e848fa19d6a0d7d46608",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34463",
+      "canonicalUrl": "https://github.com/nobodywho-ooo/nobodywho",
+      "title": "NobodyWho - 앱과 게임에 로컬 AI를 넣는 온디바이스 추론 엔진",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "클라우드 API 대신 사용자의 기기에서 AI 모델을 실행해, 앱과 게임에 대화·이미지 이해·음성 기능을 넣는 오픈소스 추론 엔진 모델을 내려받으면 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34463"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1a6741c91cb4159499fc90baa0edfd53000004a3c5f87d7706a0f7341bad7342",
+      "dedupeKey": "brief:opp_e848fa19d6a0d7d46608:sha256:1a6741c91cb4159499fc90baa0edfd53000004a3c5f87d7706a0f7341bad7342",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a21fc89ff631928f1088": {
+      "id": "opp_a21fc89ff631928f1088",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34450",
+      "canonicalUrl": "https://fosscomics.com/ko/posts/10.%20The%20Life%20of%20Dennis%20Ritchie",
+      "title": "F/OSS Comics #10: C언어의 아버지, 데니스 리치의 일생",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T04:56:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "joone.net에서 있던 만화들은 그림과 내용을 업데이트에서 fosscomics.com에 공개하고 있습니다.. 이번 에피소드는 하버드에서 벨 연구소까지, C언...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34450"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
+      "dedupeKey": "brief:opp_a21fc89ff631928f1088:sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fcc1fcb1288aa8555c69": {
+      "id": "opp_fcc1fcb1288aa8555c69",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "canonicalUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "summaryEvidence": [
+        "https://openai.com/index/how-we-will-do-better-for-australia"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ccbbdfca42a82af9c6a39163d00be4908a13517e2d83fd500c512004ec293df",
+      "dedupeKey": "brief:opp_fcc1fcb1288aa8555c69:sha256:2ccbbdfca42a82af9c6a39163d00be4908a13517e2d83fd500c512004ec293df",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1f586e71ee5403040023": {
+      "id": "opp_1f586e71ee5403040023",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "b09d122cd34cde827654fa824353610eb80f1c20",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/sagemakerstudio-tip-accessgrants-athena",
+      "title": "SageMaker Studio에서 TIP와 S3 Access Grants를 활용한 Athena 쿼리 실행하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 02:44:08 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "개요 기업 환경에서 여러 데이터 과학자가 Amazon SageMaker Studio를 공유하여 사용할 때, 사용자별로 세밀한 데이터 접근 권한을 관리하고 감사 추적을 수행하는 것은 중요한 보안 요구사항입니다. 그러나 기존의 IAM Role 기반 접근 방식에서는 SageMaker Studio의 모든 사용자가 동일한 Execution Role을 공유하게 되어, 개별 사용자를 식별하고 차별화된 권한을 부여하는 것이 어려웠습니다. IAM Identity Center가 제공하는 Trusted Identit",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/sagemakerstudio-tip-accessgrants-athena/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:348343d20bb88d468383943f7a8f6d9d8fb42ba33cf8ee451eb49ba56bd00931",
+      "dedupeKey": "brief:opp_1f586e71ee5403040023:sha256:348343d20bb88d468383943f7a8f6d9d8fb42ba33cf8ee451eb49ba56bd00931",
+      "firstSeenAt": "2026-09-29T04:44:44.199Z",
+      "lastSeenAt": "2026-09-29T04:44:44.199Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -69386,6 +69728,36 @@
       "opportunityId": "opp_441fe464a66a2d3cffed",
       "sentAt": "2026-09-29T00:06:12.874Z",
       "messageId": "1554283121954787329"
+    },
+    "brief:opp_1f586e71ee5403040023:sha256:348343d20bb88d468383943f7a8f6d9d8fb42ba33cf8ee451eb49ba56bd00931": {
+      "status": "SENT",
+      "opportunityId": "opp_1f586e71ee5403040023",
+      "sentAt": "2026-09-29T04:44:44.199Z",
+      "messageId": "1554353213115732079"
+    },
+    "brief:opp_e848fa19d6a0d7d46608:sha256:1a6741c91cb4159499fc90baa0edfd53000004a3c5f87d7706a0f7341bad7342": {
+      "status": "SENT",
+      "opportunityId": "opp_e848fa19d6a0d7d46608",
+      "sentAt": "2026-09-29T04:44:44.199Z",
+      "messageId": "1554353213115732079"
+    },
+    "brief:opp_fcc1fcb1288aa8555c69:sha256:2ccbbdfca42a82af9c6a39163d00be4908a13517e2d83fd500c512004ec293df": {
+      "status": "SENT",
+      "opportunityId": "opp_fcc1fcb1288aa8555c69",
+      "sentAt": "2026-09-29T04:44:44.199Z",
+      "messageId": "1554353213115732079"
+    },
+    "brief:opp_f9a40c67dc54178c0916:sha256:7abc8929b651641b7556ef572dd5a15e325ddbd7028f7950931fd4f1b5109111": {
+      "status": "SENT",
+      "opportunityId": "opp_f9a40c67dc54178c0916",
+      "sentAt": "2026-09-29T04:44:44.199Z",
+      "messageId": "1554353213115732079"
+    },
+    "brief:opp_4426cfc3510333a3a174:sha256:b783df94fd414a2d88430fdc824b84fef986869e5d810cdced27c5f37de97fd3": {
+      "status": "SENT",
+      "opportunityId": "opp_4426cfc3510333a3a174",
+      "sentAt": "2026-09-29T04:44:44.199Z",
+      "messageId": "1554353213115732079"
     }
   },
   "pending": {},
