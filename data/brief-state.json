@@ -61696,7 +61696,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 7,
+        "communityRank": 8,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -61710,8 +61710,8 @@
       },
       "contentHash": "sha256:b303f358b43199f231a0213cb0197d4ad6a8099dfc426e0babe4aa012aa41814",
       "dedupeKey": "brief:opp_6157fad26070c1fe1f69:sha256:b303f358b43199f231a0213cb0197d4ad6a8099dfc426e0babe4aa012aa41814",
-      "firstSeenAt": "2026-09-28T17:19:40.014Z",
-      "lastSeenAt": "2026-09-28T17:19:40.014Z",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -61795,12 +61795,12 @@
         "sourcePriority": 100,
         "communityPoints": 12,
         "communityRank": 3,
-        "contentScore": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -61808,8 +61808,8 @@
       },
       "contentHash": "sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
       "dedupeKey": "brief:opp_b55ed16ba26936bcb461:sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
-      "firstSeenAt": "2026-09-28T17:19:40.014Z",
-      "lastSeenAt": "2026-09-28T17:19:40.014Z",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -61842,8 +61842,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 6,
+        "communityRank": 12,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -61857,8 +61857,8 @@
       },
       "contentHash": "sha256:c7fdab307b93adc33cc84af4c612e2fb97ccac2f6b9ac6e0dc6a2e2808c8e2fd",
       "dedupeKey": "brief:opp_8789cb4638a51301a611:sha256:c7fdab307b93adc33cc84af4c612e2fb97ccac2f6b9ac6e0dc6a2e2808c8e2fd",
-      "firstSeenAt": "2026-09-28T17:19:40.014Z",
-      "lastSeenAt": "2026-09-28T17:19:40.014Z",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -61891,14 +61891,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 13,
-        "contentScore": 11,
+        "communityPoints": 7,
+        "communityRank": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -61906,8 +61906,8 @@
       },
       "contentHash": "sha256:639a244232e141cc03f23ebf10dcaead3f2acb48d367d83c623b6ecdcfaec5ba",
       "dedupeKey": "brief:opp_cd37a36a3b2b2bbfa3e4:sha256:639a244232e141cc03f23ebf10dcaead3f2acb48d367d83c623b6ecdcfaec5ba",
-      "firstSeenAt": "2026-09-28T17:19:40.014Z",
-      "lastSeenAt": "2026-09-28T17:19:40.014Z",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -61941,7 +61941,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 9,
+        "communityRank": 13,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -61955,8 +61955,8 @@
       },
       "contentHash": "sha256:c950d3bada8ddece5749867b61be7b288653aba126b237bf5b4960ccc5400e97",
       "dedupeKey": "brief:opp_b0fd5430b26651243ed2:sha256:c950d3bada8ddece5749867b61be7b288653aba126b237bf5b4960ccc5400e97",
-      "firstSeenAt": "2026-09-28T17:19:40.014Z",
-      "lastSeenAt": "2026-09-28T17:19:40.014Z",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62210,6 +62210,353 @@
       "dedupeKey": "brief:opp_81ba4540963a80fcf768:sha256:40594cba58a339ed9a39d18a7c6cf246c37ae9a1c8f1d370196c22afe883dffb",
       "firstSeenAt": "2026-09-28T17:19:40.014Z",
       "lastSeenAt": "2026-09-28T17:19:40.014Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8645e865652c67997535": {
+      "id": "opp_8645e865652c67997535",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "canonicalUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "summaryEvidence": [
+        "https://openai.com/index/lenfest-ai-collaborative-expansion"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:38d6aa232a805334101adf59d24399bcaac4a3eb80732dc73d0d3e9f6353f90c",
+      "dedupeKey": "brief:opp_8645e865652c67997535:sha256:38d6aa232a805334101adf59d24399bcaac4a3eb80732dc73d0d3e9f6353f90c",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4426cfc3510333a3a174": {
+      "id": "opp_4426cfc3510333a3a174",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/form/codex-originals",
+      "canonicalUrl": "https://openai.com/form/codex-originals",
+      "title": "Are you a Codex Original?",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "summaryEvidence": [
+        "https://openai.com/form/codex-originals"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b783df94fd414a2d88430fdc824b84fef986869e5d810cdced27c5f37de97fd3",
+      "dedupeKey": "brief:opp_4426cfc3510333a3a174:sha256:b783df94fd414a2d88430fdc824b84fef986869e5d810cdced27c5f37de97fd3",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_441fe464a66a2d3cffed": {
+      "id": "opp_441fe464a66a2d3cffed",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "canonicalUrl": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "summaryEvidence": [
+        "https://openai.com/index/basis-tax-workbook-with-astra"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4b6e86d16951c16d4fc63c8c0547998204bbc35590142ee3ccf2fc16cfaa3279",
+      "dedupeKey": "brief:opp_441fe464a66a2d3cffed:sha256:4b6e86d16951c16d4fc63c8c0547998204bbc35590142ee3ccf2fc16cfaa3279",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ece9a3fa95d17a42c013": {
+      "id": "opp_ece9a3fa95d17a42c013",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=98105",
+      "canonicalUrl": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Bl",
+      "summaryEvidence": [
+        "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3b402a144a39f74cae8d9829b42e7b0701e01cb7f66097692550244fc36ddadf",
+      "dedupeKey": "brief:opp_ece9a3fa95d17a42c013:sha256:3b402a144a39f74cae8d9829b42e7b0701e01cb7f66097692550244fc36ddadf",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_223dec186bd455062100": {
+      "id": "opp_223dec186bd455062100",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99087",
+      "canonicalUrl": "https://github.blog/open-source/git/highlights-from-git-2-56",
+      "title": "Highlights from Git 2.56",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 28 Sep 2026 17:23:33 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/open-source/git/highlights-from-git-2-56/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:36dd2606ee6779421b5ae561fec0e44c011f86025bb8d174690a8311a9ffe996",
+      "dedupeKey": "brief:opp_223dec186bd455062100:sha256:36dd2606ee6779421b5ae561fec0e44c011f86025bb8d174690a8311a9ffe996",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d8f95ae53d9757a9bd52": {
+      "id": "opp_d8f95ae53d9757a9bd52",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:MsgkesEBZFc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=MsgkesEBZFc",
+      "title": "[한영자막] MS 사티아 나델라가 밝힌 AI 미래: 코파일럿과 오토파일럿, 그리고 다가올 제품 경쟁",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T22:00:20+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "마이크로소프트 CEO 사티아 나델라가 테크 저널리스트 디어드라 보사(Deirdre Bosa)와의 단독 대담을 통해, 차세대 코파일럿과 장시간 자율 비즈니스 에이전트인 오토파일럿(Autopilot), 그리고 격화되는 글로벌 AI 제품 경쟁의 핵심 전략을 심층적으로 밝혔습니다. 단순한 모델 개발 경쟁을 넘어 고객의 실제 워크플로를 장악하는 엔터프라이즈 AI 제품화와 신뢰, 보안 거버넌스(Agent 365), 토큰 한계비용 시대의 지속 가능한 비즈니스 모델, 미중 AI 정상회담 및 인프라 구축의 현실까",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=MsgkesEBZFc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-28T22:00:20.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3fbaf5c7dd056c3ea336c283fa9d35fc187c9fa6ed10ddb5bc0018a12bfc2772",
+      "dedupeKey": "brief:opp_d8f95ae53d9757a9bd52:sha256:3fbaf5c7dd056c3ea336c283fa9d35fc187c9fa6ed10ddb5bc0018a12bfc2772",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7a026bb48290f249c4bd": {
+      "id": "opp_7a026bb48290f249c4bd",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:aBPAmYi1FfU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=aBPAmYi1FfU",
+      "title": "Sonnet 5.5 Just Beat Opus At Coding (At Half The Cost...)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-28T19:44:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Sonnet is back. RESOURCES FROM THIS VIDEO: ➡️ Master Claude Code: h",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=aBPAmYi1FfU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-28T19:44:15.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ed40258724cfc2cb4cbe33bc466bb394d6b303e97423ba24c0bf096c81a24f7a",
+      "dedupeKey": "brief:opp_7a026bb48290f249c4bd:sha256:ed40258724cfc2cb4cbe33bc466bb394d6b303e97423ba24c0bf096c81a24f7a",
+      "firstSeenAt": "2026-09-29T00:06:12.874Z",
+      "lastSeenAt": "2026-09-29T00:06:12.874Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -69003,6 +69350,42 @@
       "opportunityId": "opp_f58c9767ce7caf902ca9",
       "sentAt": "2026-09-28T17:19:40.014Z",
       "messageId": "1554180811006284000"
+    },
+    "brief:opp_ece9a3fa95d17a42c013:sha256:3b402a144a39f74cae8d9829b42e7b0701e01cb7f66097692550244fc36ddadf": {
+      "status": "SENT",
+      "opportunityId": "opp_ece9a3fa95d17a42c013",
+      "sentAt": "2026-09-29T00:06:12.874Z",
+      "messageId": "1554283121954787329"
+    },
+    "brief:opp_223dec186bd455062100:sha256:36dd2606ee6779421b5ae561fec0e44c011f86025bb8d174690a8311a9ffe996": {
+      "status": "SENT",
+      "opportunityId": "opp_223dec186bd455062100",
+      "sentAt": "2026-09-29T00:06:12.874Z",
+      "messageId": "1554283121954787329"
+    },
+    "brief:opp_8645e865652c67997535:sha256:38d6aa232a805334101adf59d24399bcaac4a3eb80732dc73d0d3e9f6353f90c": {
+      "status": "SENT",
+      "opportunityId": "opp_8645e865652c67997535",
+      "sentAt": "2026-09-29T00:06:12.874Z",
+      "messageId": "1554283121954787329"
+    },
+    "brief:opp_d8f95ae53d9757a9bd52:sha256:3fbaf5c7dd056c3ea336c283fa9d35fc187c9fa6ed10ddb5bc0018a12bfc2772": {
+      "status": "SENT",
+      "opportunityId": "opp_d8f95ae53d9757a9bd52",
+      "sentAt": "2026-09-29T00:06:12.874Z",
+      "messageId": "1554283121954787329"
+    },
+    "brief:opp_7a026bb48290f249c4bd:sha256:ed40258724cfc2cb4cbe33bc466bb394d6b303e97423ba24c0bf096c81a24f7a": {
+      "status": "SENT",
+      "opportunityId": "opp_7a026bb48290f249c4bd",
+      "sentAt": "2026-09-29T00:06:12.874Z",
+      "messageId": "1554283121954787329"
+    },
+    "brief:opp_441fe464a66a2d3cffed:sha256:4b6e86d16951c16d4fc63c8c0547998204bbc35590142ee3ccf2fc16cfaa3279": {
+      "status": "SENT",
+      "opportunityId": "opp_441fe464a66a2d3cffed",
+      "sentAt": "2026-09-29T00:06:12.874Z",
+      "messageId": "1554283121954787329"
     }
   },
   "pending": {},
