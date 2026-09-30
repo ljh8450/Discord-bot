@@ -61794,13 +61794,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 14,
-        "communityRank": 16,
-        "contentScore": 11,
+        "communityRank": 17,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -61808,8 +61808,8 @@
       },
       "contentHash": "sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
       "dedupeKey": "brief:opp_b55ed16ba26936bcb461:sha256:906234cfaa21832b5813728c3841d0b03117bf06d14f41c25d953078c3d9be7c",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62687,7 +62687,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 16,
+        "communityPoints": 18,
         "communityRank": 3,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -62702,11 +62702,11 @@
       },
       "contentHash": "sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
       "dedupeKey": "brief:opp_ac6284d492cd730ffb33:sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -62786,13 +62786,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 15,
-        "communityRank": 5,
-        "contentScore": 12,
+        "communityRank": 6,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -62800,8 +62800,8 @@
       },
       "contentHash": "sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
       "dedupeKey": "brief:opp_a21fc89ff631928f1088:sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62981,7 +62981,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 8,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -62995,8 +62995,8 @@
       },
       "contentHash": "sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
       "dedupeKey": "brief:opp_89798e350e3b9370d825:sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63296,8 +63296,8 @@
       },
       "contentHash": "sha256:f7c135661f3908506965a0c54179f64adb4c828285d882b17a9d092eaec307fd",
       "dedupeKey": "brief:opp_2d84d1cd8145a13f0c18:sha256:f7c135661f3908506965a0c54179f64adb4c828285d882b17a9d092eaec307fd",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63385,13 +63385,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 6,
-        "contentScore": 12,
+        "communityRank": 11,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -63399,8 +63399,8 @@
       },
       "contentHash": "sha256:37db9898b94f42c531e0464ac17cad0f5c71ceaba8a2f2c472939620fa54018b",
       "dedupeKey": "brief:opp_f7f8c2e7ac2d6dd19680:sha256:37db9898b94f42c531e0464ac17cad0f5c71ceaba8a2f2c472939620fa54018b",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63434,13 +63434,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -63448,8 +63448,8 @@
       },
       "contentHash": "sha256:6cd027a0baacbf91651560c792d36fb546c3a8c18f8487fb380a0a2bd5e80e10",
       "dedupeKey": "brief:opp_06fc0dd0cceaf5f96d62:sha256:6cd027a0baacbf91651560c792d36fb546c3a8c18f8487fb380a0a2bd5e80e10",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63580,14 +63580,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 13,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 12,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -63595,8 +63595,8 @@
       },
       "contentHash": "sha256:af05dedfa8c56f7f70e8eb29a94ad0ea6c63fa4ecfdda9217dc1dbbc26941fbc",
       "dedupeKey": "brief:opp_a1087eac704289c45cbb:sha256:af05dedfa8c56f7f70e8eb29a94ad0ea6c63fa4ecfdda9217dc1dbbc26941fbc",
-      "firstSeenAt": "2026-09-29T15:20:30.335Z",
-      "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -63751,6 +63751,306 @@
       "dedupeKey": "brief:opp_577ff7326c30341c7e48:sha256:987cf33389801ab339c71d6d2579440e0cd152191b544c80da91cabbe3e1bc6e",
       "firstSeenAt": "2026-09-29T15:20:30.335Z",
       "lastSeenAt": "2026-09-29T15:20:30.335Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5bd10b6392bafdbb4f8e": {
+      "id": "opp_5bd10b6392bafdbb4f8e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34469",
+      "canonicalUrl": "https://cron.withuse.io/cron-every-5-minutes",
+      "title": "cron의 */45는 45분 간격이 아니다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T11:42:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "/45 를 \"45분마다\"로 읽는 경우가 많은데, 실제로는 45분과 15분이 교대로 나옵니다. /45 01:00 01:45 02:00 02:45 03:00 03:45 └45m┘ └15m┘ └45m┘...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34469"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fb41f2edf66350eac49eb48f9e31b6df39aa64f1fe779858a3d20cf2018531f4",
+      "dedupeKey": "brief:opp_5bd10b6392bafdbb4f8e:sha256:fb41f2edf66350eac49eb48f9e31b6df39aa64f1fe779858a3d20cf2018531f4",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ca97cb2f677918ce5f80": {
+      "id": "opp_ca97cb2f677918ce5f80",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "canonicalUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-gpt-6-1-sol"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c484696363f587c30490a69665428a327bd77c16f7d8abeadbacd3e156a931e4",
+      "dedupeKey": "brief:opp_ca97cb2f677918ce5f80:sha256:c484696363f587c30490a69665428a327bd77c16f7d8abeadbacd3e156a931e4",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9aa0362710607ec3a4e5": {
+      "id": "opp_9aa0362710607ec3a4e5",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/devday-2026-recap",
+      "canonicalUrl": "https://openai.com/index/devday-2026-recap",
+      "title": "DevDay 2026 Recap",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "summaryEvidence": [
+        "https://openai.com/index/devday-2026-recap"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32fc3c5a6c50990f3e8f15d95b633d68f19b48c7bc72af2e0319bc6588f71e8e",
+      "dedupeKey": "brief:opp_9aa0362710607ec3a4e5:sha256:32fc3c5a6c50990f3e8f15d95b633d68f19b48c7bc72af2e0319bc6588f71e8e",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_24aaa323eaaf0b0a0eb1": {
+      "id": "opp_24aaa323eaaf0b0a0eb1",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/introducing-dots",
+      "canonicalUrl": "https://openai.com/index/introducing-dots",
+      "title": "Introducing dots",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summaryEvidence": [
+        "https://openai.com/index/introducing-dots"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a23ea9d752749c312cf2f53f98c7ab0b3bd3cdaf3ed71788bb2ff925e53d5644",
+      "dedupeKey": "brief:opp_24aaa323eaaf0b0a0eb1:sha256:a23ea9d752749c312cf2f53f98c7ab0b3bd3cdaf3ed71788bb2ff925e53d5644",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_083c5242de3e93990bea": {
+      "id": "opp_083c5242de3e93990bea",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:cv2_Lzvd1mk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cv2_Lzvd1mk",
+      "title": "[한영자막] 루프 자체가 제품입니다 — xAI 출신 창업자가 밝히는 차세대 AI 에이전트의 핵심",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T22:00:24+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "xAI 출신이자 Introspection의 공동 창업자 롤랜드 가브릴레스쿠(Roland Gavrilescu)가 AI Engineer World's Fair에서 발표한 차세대 AI 에이전트 시스템 구축 전략입니다. 단순한 프롬프트나 단일 모델 호출을 넘어, 스스로 개선되고 확장 가능한 상용 에이전트 제품을 만드는 세 가지 핵심 원칙을 제시합니다. 📌 주요 내용: • 루프 자체가 제품이다: OODA 루프 기반의 에이전트 사이클과 강력한 검증기(Verifier)의 중요성 • 시스템 증류가 진정한 해자",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cv2_Lzvd1mk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T22:00:24.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3b3a2f0e92160042917d81e160ce31fc5a989ed3af1fcb0c7700b1df876805bd",
+      "dedupeKey": "brief:opp_083c5242de3e93990bea:sha256:3b3a2f0e92160042917d81e160ce31fc5a989ed3af1fcb0c7700b1df876805bd",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_35be60bede9fd66779a2": {
+      "id": "opp_35be60bede9fd66779a2",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:D2L22EbGa7s",
+      "canonicalUrl": "https://www.youtube.com/watch?v=D2L22EbGa7s",
+      "title": "I Got Early Access To ChatGPT Dots: Here's Everything You Need To Know",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T22:19:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻Get 1:1 help: https://chaseai.io ⏰TIMESTAMPS: 0:00 - Dots v Muse v Grokbot 4:10 - Setup 8:00 - Use Cases 16:34 - Final Verdict RESOURCES FROM THIS VIDEO: ➡️ Ma",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=D2L22EbGa7s"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-29T22:19:34.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:596cf3f2411c88e63f1bb1a5ebe5fbdc9ed7168af382a34c084e6faccc3b964b",
+      "dedupeKey": "brief:opp_35be60bede9fd66779a2:sha256:596cf3f2411c88e63f1bb1a5ebe5fbdc9ed7168af382a34c084e6faccc3b964b",
+      "firstSeenAt": "2026-09-30T00:05:37.604Z",
+      "lastSeenAt": "2026-09-30T00:05:37.604Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -70682,6 +70982,42 @@
       "opportunityId": "opp_bf4313f468a0b2fab948",
       "sentAt": "2026-09-29T15:20:30.335Z",
       "messageId": "1554513210030297281"
+    },
+    "brief:opp_ca97cb2f677918ce5f80:sha256:c484696363f587c30490a69665428a327bd77c16f7d8abeadbacd3e156a931e4": {
+      "status": "SENT",
+      "opportunityId": "opp_ca97cb2f677918ce5f80",
+      "sentAt": "2026-09-30T00:05:37.604Z",
+      "messageId": "1554645361514258523"
+    },
+    "brief:opp_9aa0362710607ec3a4e5:sha256:32fc3c5a6c50990f3e8f15d95b633d68f19b48c7bc72af2e0319bc6588f71e8e": {
+      "status": "SENT",
+      "opportunityId": "opp_9aa0362710607ec3a4e5",
+      "sentAt": "2026-09-30T00:05:37.604Z",
+      "messageId": "1554645361514258523"
+    },
+    "brief:opp_35be60bede9fd66779a2:sha256:596cf3f2411c88e63f1bb1a5ebe5fbdc9ed7168af382a34c084e6faccc3b964b": {
+      "status": "SENT",
+      "opportunityId": "opp_35be60bede9fd66779a2",
+      "sentAt": "2026-09-30T00:05:37.604Z",
+      "messageId": "1554645361514258523"
+    },
+    "brief:opp_083c5242de3e93990bea:sha256:3b3a2f0e92160042917d81e160ce31fc5a989ed3af1fcb0c7700b1df876805bd": {
+      "status": "SENT",
+      "opportunityId": "opp_083c5242de3e93990bea",
+      "sentAt": "2026-09-30T00:05:37.604Z",
+      "messageId": "1554645361514258523"
+    },
+    "brief:opp_ac6284d492cd730ffb33:sha256:d83fa09b67bf42657d2d78cc40672d606c41a4b8422e5e4f73bb6ffd78d7b17a": {
+      "status": "SENT",
+      "opportunityId": "opp_ac6284d492cd730ffb33",
+      "sentAt": "2026-09-30T00:05:37.604Z",
+      "messageId": "1554645361514258523"
+    },
+    "brief:opp_5bd10b6392bafdbb4f8e:sha256:fb41f2edf66350eac49eb48f9e31b6df39aa64f1fe779858a3d20cf2018531f4": {
+      "status": "SENT",
+      "opportunityId": "opp_5bd10b6392bafdbb4f8e",
+      "sentAt": "2026-09-30T00:05:37.604Z",
+      "messageId": "1554645361514258523"
     }
   },
   "pending": {},
