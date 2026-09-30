@@ -63920,7 +63920,7 @@
         "모델",
         "개발 도구"
       ],
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "summaryEvidence": [
         "https://openai.com/index/introducing-dots"
       ],
@@ -63940,13 +63940,13 @@
           "community": 0
         }
       },
-      "contentHash": "sha256:a23ea9d752749c312cf2f53f98c7ab0b3bd3cdaf3ed71788bb2ff925e53d5644",
-      "dedupeKey": "brief:opp_24aaa323eaaf0b0a0eb1:sha256:a23ea9d752749c312cf2f53f98c7ab0b3bd3cdaf3ed71788bb2ff925e53d5644",
-      "firstSeenAt": "2026-09-30T00:05:37.604Z",
-      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "contentHash": "sha256:7405d6c3997aef47de35a13a1bd06553b0ada46477b87139a2079895c8d62608",
+      "dedupeKey": "brief:opp_24aaa323eaaf0b0a0eb1:sha256:7405d6c3997aef47de35a13a1bd06553b0ada46477b87139a2079895c8d62608",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -64051,6 +64051,398 @@
       "dedupeKey": "brief:opp_35be60bede9fd66779a2:sha256:596cf3f2411c88e63f1bb1a5ebe5fbdc9ed7168af382a34c084e6faccc3b964b",
       "firstSeenAt": "2026-09-30T00:05:37.604Z",
       "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_be66b0e0f0c768aab786": {
+      "id": "opp_be66b0e0f0c768aab786",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34473",
+      "canonicalUrl": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+      "title": "cf - Cloudflare 전체 API를 다루는 에이전트용 CLI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T13:35:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Cloudflare가 cf 공개 베타를 출시해, Wrangler가 지원하던 약 280개 작업을 넘어 3,000개 이상의 Cloudflare API 작업을 하나의 CLI에서 처리할 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34473"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:15574ca356ff2096f4f3749a67e8899c3bab89672e6bc2a87d5e871ecf42e982",
+      "dedupeKey": "brief:opp_be66b0e0f0c768aab786:sha256:15574ca356ff2096f4f3749a67e8899c3bab89672e6bc2a87d5e871ecf42e982",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0535e47c2371b56ed1fa": {
+      "id": "opp_0535e47c2371b56ed1fa",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34513",
+      "canonicalUrl": "https://sujithjay.com/inventing-work",
+      "title": "스태프 엔지니어를 위한 일감 발굴 가이드",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T08:41:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "엔지니어링 주도 플랫폼 팀에서는 다음에 무엇을 만들지 스스로 찾아야 하며, 시스템, 사용자, 조직, 업계에서 개선할 일의 단서를 얻을 수 있음 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34513"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dd47ab9de910b958d24a8ccd56d904d18f9c9d24c8e6e63f2c2f3711b64e03a1",
+      "dedupeKey": "brief:opp_0535e47c2371b56ed1fa:sha256:dd47ab9de910b958d24a8ccd56d904d18f9c9d24c8e6e63f2c2f3711b64e03a1",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b11cca6cd9f112364cce": {
+      "id": "opp_b11cca6cd9f112364cce",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34470",
+      "canonicalUrl": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
+      "title": "그렇다, 이제 AI가 없는 것도 기능이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T12:02:08+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LibreOffice는 AI 자체를 거부하지 않지만, 사용자 통제와 프로젝트 원칙을 모두 충족하는 통합 방식이 나오기 전까지 기본 설치에 AI를 넣지 않음...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34470"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122",
+      "dedupeKey": "brief:opp_b11cca6cd9f112364cce:sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_79b5de6cff4eb10871a3": {
+      "id": "opp_79b5de6cff4eb10871a3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34468",
+      "canonicalUrl": "https://stateofutopia.com/experiments/microllmlab",
+      "title": "MicroLLM Lab - 브라우저에서 초소형 LLM 7개 체험하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-29T11:33:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "별도 설치나 계정 없이 소형 언어 모델 7개를 브라우저에서 실행하고, 직접 대화하며 답변과 속도를 비교하는 실험 도구 PetitGPT, SmolLM2, MiniM...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34468"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:17fc462667bb4423aa91a35948c780ffcc249f4d1e60223c710643ef36439ffe",
+      "dedupeKey": "brief:opp_79b5de6cff4eb10871a3:sha256:17fc462667bb4423aa91a35948c780ffcc249f4d1e60223c710643ef36439ffe",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fe23df3a1aa1f0ba09e1": {
+      "id": "opp_fe23df3a1aa1f0ba09e1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34501",
+      "canonicalUrl": "https://openai.com/ko-KR/index/introducing-dots",
+      "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T03:40:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI가 GPT-6 Astra 기반 Dots를 공개함. 자체 클라우드 컴퓨터에서 여러 프로젝트를 진행하고, 피드백을 통해 사용자의 선호와 업무 기준을 익...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34501"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:809794d548b1bc0c619bb7814d3762bc2c199a10dd9f2036d3a27cb96ddfe6f8",
+      "dedupeKey": "brief:opp_fe23df3a1aa1f0ba09e1:sha256:809794d548b1bc0c619bb7814d3762bc2c199a10dd9f2036d3a27cb96ddfe6f8",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7f64958aa3af718a03a9": {
+      "id": "opp_7f64958aa3af718a03a9",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/8118359",
+      "canonicalUrl": "https://d2.naver.com/helloworld/8118359",
+      "title": "에이전트, 개념부터 같이 정리해봐요 - 워크플로우 · 하네스 · Context/Memory · MCP/A2A",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T03:51:11Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<div class=\"se-viewer se-theme-default\" lang=\"ko-KR\"> <!-- SE_DOC_HEADER_START --> <!-- SE_DOC_HEADER_END --> <div class=\"se-main-container\"> <div class=\"se-component se-text se-l-default\" id=\"SE-10807bd9-2b05-4f8d-af75-34f07c7f764d\"> <div class=\"se-component-content\"> <div class",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/8118359"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2a1e2cf9bd0fb5758ab011a5709e2140b0ac6b67facdcde1888b7b11691c577d",
+      "dedupeKey": "brief:opp_7f64958aa3af718a03a9:sha256:2a1e2cf9bd0fb5758ab011a5709e2140b0ac6b67facdcde1888b7b11691c577d",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_96491925a269c774fdc7": {
+      "id": "opp_96491925a269c774fdc7",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/chipmunk",
+      "canonicalUrl": "https://toss.tech/article/chipmunk",
+      "title": "9인조 다람쥐 아이돌을 데뷔시켰습니다",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 30 Sep 2026 01:29:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "가입하고 한 번도 열어보지 않던 적금을, 매일 열어보게 만들었어요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/chipmunk"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d3f1c3d391c0ed47be3be89fed7291734027300d719933f77029a223d84378dc",
+      "dedupeKey": "brief:opp_96491925a269c774fdc7:sha256:d3f1c3d391c0ed47be3be89fed7291734027300d719933f77029a223d84378dc",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_772444e4b068ac07a4bf": {
+      "id": "opp_772444e4b068ac07a4bf",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/097551289b2a",
+      "canonicalUrl": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%8F%99%EB%84%A4%EA%B1%B7%EA%B8%B0-%EC%9C%84%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0-097551289b2a?source=rss----4505f82a2dbd---4",
+      "title": "당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 30 Sep 2026 03:32:44 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "들어가며 안녕하세요. 당근 로컬비즈니스실 동네걷기팀에서 FE 인턴으로 일하고 있는 카멜(진나영)이에요. 당근 동네걷기 는 걸음 수를 기록하고 보상을 제공하는 서비스예요. 그런데 모달, 바텀시트, OS 권한 팝업이 각기 다른 조건에서 열리다 보니, 한 화면에 여러 UI가 겹쳐 나타나는 문제 가 있었어요. 이 글은 제가 이 복잡도를 어떻게 풀었는지에 대한 기록이에요. 다만 “이렇게 만들었습니다” 보다는, 어떻게 문제를 정의하고 고민하며 해결해나갔는지 서술해보려고 해요. 이런 분들이 읽으면 재미있을 것",
+      "summaryEvidence": [
+        "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%8F%99%EB%84%A4%EA%B1%B7%EA%B8%B0-%EC%9C%84%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0-097551289b2a?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35ebc229abfa50cded08b633972a6a3fe052fd584aa66237efdd214965955996",
+      "dedupeKey": "brief:opp_772444e4b068ac07a4bf:sha256:35ebc229abfa50cded08b633972a6a3fe052fd584aa66237efdd214965955996",
+      "firstSeenAt": "2026-09-30T04:29:47.948Z",
+      "lastSeenAt": "2026-09-30T04:29:47.948Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -71018,6 +71410,42 @@
       "opportunityId": "opp_5bd10b6392bafdbb4f8e",
       "sentAt": "2026-09-30T00:05:37.604Z",
       "messageId": "1554645361514258523"
+    },
+    "brief:opp_7f64958aa3af718a03a9:sha256:2a1e2cf9bd0fb5758ab011a5709e2140b0ac6b67facdcde1888b7b11691c577d": {
+      "status": "SENT",
+      "opportunityId": "opp_7f64958aa3af718a03a9",
+      "sentAt": "2026-09-30T04:29:47.948Z",
+      "messageId": "1554711841693896737"
+    },
+    "brief:opp_772444e4b068ac07a4bf:sha256:35ebc229abfa50cded08b633972a6a3fe052fd584aa66237efdd214965955996": {
+      "status": "SENT",
+      "opportunityId": "opp_772444e4b068ac07a4bf",
+      "sentAt": "2026-09-30T04:29:47.948Z",
+      "messageId": "1554711841693896737"
+    },
+    "brief:opp_96491925a269c774fdc7:sha256:d3f1c3d391c0ed47be3be89fed7291734027300d719933f77029a223d84378dc": {
+      "status": "SENT",
+      "opportunityId": "opp_96491925a269c774fdc7",
+      "sentAt": "2026-09-30T04:29:47.948Z",
+      "messageId": "1554711841693896737"
+    },
+    "brief:opp_fe23df3a1aa1f0ba09e1:sha256:809794d548b1bc0c619bb7814d3762bc2c199a10dd9f2036d3a27cb96ddfe6f8": {
+      "status": "SENT",
+      "opportunityId": "opp_fe23df3a1aa1f0ba09e1",
+      "sentAt": "2026-09-30T04:29:47.948Z",
+      "messageId": "1554711841693896737"
+    },
+    "brief:opp_be66b0e0f0c768aab786:sha256:15574ca356ff2096f4f3749a67e8899c3bab89672e6bc2a87d5e871ecf42e982": {
+      "status": "SENT",
+      "opportunityId": "opp_be66b0e0f0c768aab786",
+      "sentAt": "2026-09-30T04:29:47.948Z",
+      "messageId": "1554711841693896737"
+    },
+    "brief:opp_24aaa323eaaf0b0a0eb1:sha256:7405d6c3997aef47de35a13a1bd06553b0ada46477b87139a2079895c8d62608": {
+      "status": "SENT",
+      "opportunityId": "opp_24aaa323eaaf0b0a0eb1",
+      "sentAt": "2026-09-30T04:29:47.948Z",
+      "messageId": "1554711841693896737"
     }
   },
   "pending": {},
