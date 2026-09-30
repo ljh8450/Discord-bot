@@ -62785,8 +62785,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 15,
-        "communityRank": 19,
+        "communityPoints": 16,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -62800,8 +62800,8 @@
       },
       "contentHash": "sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
       "dedupeKey": "brief:opp_a21fc89ff631928f1088:sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
-      "firstSeenAt": "2026-09-30T09:05:26.264Z",
-      "lastSeenAt": "2026-09-30T09:05:26.264Z",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62980,23 +62980,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 10,
+        "communityPoints": 11,
+        "communityRank": 19,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
       "dedupeKey": "brief:opp_89798e350e3b9370d825:sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
-      "firstSeenAt": "2026-09-30T00:05:37.604Z",
-      "lastSeenAt": "2026-09-30T00:05:37.604Z",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -64181,7 +64181,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 8,
         "communityRank": 6,
         "contentScore": 10,
         "contentScoreBreakdown": {
@@ -64196,8 +64196,8 @@
       },
       "contentHash": "sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122",
       "dedupeKey": "brief:opp_b11cca6cd9f112364cce:sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122",
-      "firstSeenAt": "2026-09-30T09:05:26.264Z",
-      "lastSeenAt": "2026-09-30T09:05:26.264Z",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -64245,11 +64245,11 @@
       },
       "contentHash": "sha256:17fc462667bb4423aa91a35948c780ffcc249f4d1e60223c710643ef36439ffe",
       "dedupeKey": "brief:opp_79b5de6cff4eb10871a3:sha256:17fc462667bb4423aa91a35948c780ffcc249f4d1e60223c710643ef36439ffe",
-      "firstSeenAt": "2026-09-30T09:05:26.264Z",
-      "lastSeenAt": "2026-09-30T09:05:26.264Z",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -64525,7 +64525,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 9,
+        "communityRank": 10,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -64539,11 +64539,11 @@
       },
       "contentHash": "sha256:4a38c2ec87b5361dcf4caf9b88012e261c1d43cf47b51b0bceb15b333840b4fc",
       "dedupeKey": "brief:opp_dd058042e6dbbaa03fa7:sha256:4a38c2ec87b5361dcf4caf9b88012e261c1d43cf47b51b0bceb15b333840b4fc",
-      "firstSeenAt": "2026-09-30T09:05:26.264Z",
-      "lastSeenAt": "2026-09-30T09:05:26.264Z",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -64648,6 +64648,112 @@
       "dedupeKey": "brief:opp_c8f90f15d4fbbdd68b52:sha256:a254863f58ce46fa79d06cddf70e6b52c15851376383958132730de2a6ab45d4",
       "firstSeenAt": "2026-09-30T09:05:26.264Z",
       "lastSeenAt": "2026-09-30T09:05:26.264Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1d89116419db7cdb3925": {
+      "id": "opp_1d89116419db7cdb3925",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:1eyDhaKx--w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1eyDhaKx--w",
+      "title": "5,300명 중 단 1명, 기업이 고른 AI 인재는 누구였을까 | AX 인재전쟁 본선 풀영상 | OpenAI × 조코딩AX파트너스",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T10:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩AX파트너스가 주최하고 OpenAI가 후원한 AI 시대의 새로운 인재 선발전, AX 인재전쟁 본선 풀영상입니다. 5,341명의 지원자 중 예선을 통과한 60명이 실제 기업의 문제를 받았습니다. 주어진 시간은 단 3시간, AI 사용에는 제한이 없습니다. 결과물을 만든 뒤에는 기업과의 면접에서 자신의 선택과 문제 해결 과정을 직접 증명해야 했고, 기업별 단 1명씩, 6명의 도메인 챔피언이 최종 무대에 올랐습니다. 행사명: AX 인재전쟁 본선 일시·장소: 2026년 7월 18일, 영등포 워크모어",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1eyDhaKx--w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-30T10:00:15.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:78906098612bde2bece0cfe7efc3cea390ae47a7ac6081d05d90a98622662698",
+      "dedupeKey": "brief:opp_1d89116419db7cdb3925:sha256:78906098612bde2bece0cfe7efc3cea390ae47a7ac6081d05d90a98622662698",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90168721f62cec94b594": {
+      "id": "opp_90168721f62cec94b594",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:d7hGpiHLSRI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=d7hGpiHLSRI",
+      "title": "초파리에게 운전 가르치기",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T09:00:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#광고 ✅총 상금 1억 2,500만원, AI_TOP_100 2026 참가 신청 D-1 작년에 큰 화제를 모았던 AI_TOP_100, 올해 더 커진 규모로 돌아왔습니다. 이번 대회는 정답형 문제 풀이가 아니라, 참가자가 직접 AI 에이전트를 설계·구축해 문제를 해결하는 방식으로 진행됩니다. 여러 AI 도구를 연결해 워크플로우를 만들어본 경험이 있다면 실력을 제대로 펼쳐볼 기회입니다. 만 14세 이상 누구나 참가 가능하며, 예선 통과자에게는 AI 도구 지원금 50만원이 제공됩니다. 지난 대회는 신청",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=d7hGpiHLSRI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-30T09:00:33.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:393e4a2af5f931550a11a5639cd82b5b86a198df56577894e45ea7ad5bf2e15d",
+      "dedupeKey": "brief:opp_90168721f62cec94b594:sha256:393e4a2af5f931550a11a5639cd82b5b86a198df56577894e45ea7ad5bf2e15d",
+      "firstSeenAt": "2026-09-30T15:36:05.357Z",
+      "lastSeenAt": "2026-09-30T15:36:05.357Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -71681,6 +71787,30 @@
       "opportunityId": "opp_2d84d1cd8145a13f0c18",
       "sentAt": "2026-09-30T09:05:26.264Z",
       "messageId": "1554781208611790949"
+    },
+    "brief:opp_1d89116419db7cdb3925:sha256:78906098612bde2bece0cfe7efc3cea390ae47a7ac6081d05d90a98622662698": {
+      "status": "SENT",
+      "opportunityId": "opp_1d89116419db7cdb3925",
+      "sentAt": "2026-09-30T15:36:05.357Z",
+      "messageId": "1554879519687442493"
+    },
+    "brief:opp_90168721f62cec94b594:sha256:393e4a2af5f931550a11a5639cd82b5b86a198df56577894e45ea7ad5bf2e15d": {
+      "status": "SENT",
+      "opportunityId": "opp_90168721f62cec94b594",
+      "sentAt": "2026-09-30T15:36:05.357Z",
+      "messageId": "1554879519687442493"
+    },
+    "brief:opp_dd058042e6dbbaa03fa7:sha256:4a38c2ec87b5361dcf4caf9b88012e261c1d43cf47b51b0bceb15b333840b4fc": {
+      "status": "SENT",
+      "opportunityId": "opp_dd058042e6dbbaa03fa7",
+      "sentAt": "2026-09-30T15:36:05.357Z",
+      "messageId": "1554879519687442493"
+    },
+    "brief:opp_79b5de6cff4eb10871a3:sha256:17fc462667bb4423aa91a35948c780ffcc249f4d1e60223c710643ef36439ffe": {
+      "status": "SENT",
+      "opportunityId": "opp_79b5de6cff4eb10871a3",
+      "sentAt": "2026-09-30T15:36:05.357Z",
+      "messageId": "1554879519687442493"
     }
   },
   "pending": {},
