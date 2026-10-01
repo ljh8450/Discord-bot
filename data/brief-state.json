@@ -65033,8 +65033,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 13,
+        "communityPoints": 8,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -65048,8 +65048,8 @@
       },
       "contentHash": "sha256:6cb973b1d4082334c36df90d59bb568e99348a7693d987e2a2798ff6cb11d84a",
       "dedupeKey": "brief:opp_c8b555981fee1e5f14ba:sha256:6cb973b1d4082334c36df90d59bb568e99348a7693d987e2a2798ff6cb11d84a",
-      "firstSeenAt": "2026-10-01T09:06:03.606Z",
-      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65180,8 +65180,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 4,
+        "communityPoints": 7,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -65195,11 +65195,11 @@
       },
       "contentHash": "sha256:709337f080b51f2a14ee5ec0cb14b290043161dabc24c71810d60e47f2d61369",
       "dedupeKey": "brief:opp_fd2b3615a1e7495a567d:sha256:709337f080b51f2a14ee5ec0cb14b290043161dabc24c71810d60e47f2d61369",
-      "firstSeenAt": "2026-10-01T09:06:03.606Z",
-      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -65229,8 +65229,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
+        "communityPoints": 8,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -65244,8 +65244,8 @@
       },
       "contentHash": "sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa",
       "dedupeKey": "brief:opp_9f6d2febcc8adaea1f7e:sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa",
-      "firstSeenAt": "2026-10-01T09:06:03.606Z",
-      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65278,8 +65278,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 6,
+        "communityPoints": 9,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -65293,8 +65293,8 @@
       },
       "contentHash": "sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac",
       "dedupeKey": "brief:opp_689132b335aa0bfd61bf:sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac",
-      "firstSeenAt": "2026-10-01T09:06:03.606Z",
-      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65328,7 +65328,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 8,
+        "communityRank": 12,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -65342,8 +65342,8 @@
       },
       "contentHash": "sha256:e7f48f6a6814d9309d60d402683425ffae8dcf4702405634c1637511a712f8f0",
       "dedupeKey": "brief:opp_feb8042d18bedcd036a9:sha256:e7f48f6a6814d9309d60d402683425ffae8dcf4702405634c1637511a712f8f0",
-      "firstSeenAt": "2026-10-01T09:06:03.606Z",
-      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65599,8 +65599,8 @@
       },
       "contentHash": "sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d",
       "dedupeKey": "brief:opp_96761ef27a11e01206ed:sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d",
-      "firstSeenAt": "2026-10-01T09:06:03.606Z",
-      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65654,6 +65654,311 @@
       "dedupeKey": "brief:opp_0533dda7b561f21a4abc:sha256:f00be79286f0609bbf0c394455ea5ee760ec6137de9d9bdf4081df8df7f2b9ad",
       "firstSeenAt": "2026-10-01T09:06:03.606Z",
       "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_81d6a1c3165f0c3875d5": {
+      "id": "opp_81d6a1c3165f0c3875d5",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34533",
+      "canonicalUrl": "https://news.ycombinator.com/item?id=49893157",
+      "title": "Ask HN: 요즘 무엇을 읽고 있나요?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T13:35:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "요즘 읽고 있는 책과 추천할 만한 읽을거리를 묻는 질문으로, 작성자는 《Dungeon Crawler Carl》과 코리 닥터로의 《Enshittification》을 읽으며...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34533"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 11,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5bd73f5833ff6368543542ec87302f8cc0f7d43f023ce067710db5becbaa123a",
+      "dedupeKey": "brief:opp_81d6a1c3165f0c3875d5:sha256:5bd73f5833ff6368543542ec87302f8cc0f7d43f023ce067710db5becbaa123a",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fa2480828916a98281a3": {
+      "id": "opp_fa2480828916a98281a3",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34577",
+      "canonicalUrl": "https://edgcpp.org/",
+      "title": "EDG, 상용 C/C++ 컴파일러 프런트엔드 오픈소스 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T09:38:30+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "EDG는 C/C++ 소스코드의 문법·타입·템플릿을 분석하는 컴파일러 엔진으로, 수십 년간 다른 회사의 컴파일러와 개발 도구에 상용으로 공급돼 왔음 V...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34577"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bcbc19845b09f3d352b776fb826ff66bd3702e887f49157f3f5b52f98bb2f2ea",
+      "dedupeKey": "brief:opp_fa2480828916a98281a3:sha256:bcbc19845b09f3d352b776fb826ff66bd3702e887f49157f3f5b52f98bb2f2ea",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2aa91205af5ea176a0d7": {
+      "id": "opp_2aa91205af5ea176a0d7",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99192",
+      "canonicalUrl": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Thu, 01 Oct 2026 15:07:16 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b04490fa3f0c87a89f36caeab20c8e10127567a10c9e2ee682c18374291b5a75",
+      "dedupeKey": "brief:opp_2aa91205af5ea176a0d7:sha256:b04490fa3f0c87a89f36caeab20c8e10127567a10c9e2ee682c18374291b5a75",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ae823546b7a968ae6491": {
+      "id": "opp_ae823546b7a968ae6491",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:cHsunDt0QUc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=cHsunDt0QUc",
+      "title": "[한영자막] 진짜 '소프트웨어 팩토리'를 만들려면 무엇이 필요할까요? — Factory Tereza",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T11:00:16+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "모두가 '소프트웨어 팩토리'를 말하지만, 이를 실제로 구현하고 운영하는 방법은 무엇일까요? Adobe, EY 등 글로벌 엔터프라이즈를 위한 소프트웨어 팩토리를 구축해 온 Factory의 Tereza Tížková가 소프트웨어 개발 전 주기를 자율화하기 위한 3대 핵심 원칙과 실전 아키텍처를 소개합니다. 📌 주요 내용: • 단순한 코딩 에이전트 무리가 아닌, 신호 수집부터 검증·개선까지 전 주기를 아우르는 소프트웨어 팩토리의 정의 • 모델/도구 비종속성(Agnostic): 자동 모델 라우팅으로 2",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=cHsunDt0QUc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T11:00:16.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a76879a320d9e880d0ff2469cc46276e4461f4e177c3ff5a3a5022e0ff07815c",
+      "dedupeKey": "brief:opp_ae823546b7a968ae6491:sha256:a76879a320d9e880d0ff2469cc46276e4461f4e177c3ff5a3a5022e0ff07815c",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ecee1a55fa50c6248a25": {
+      "id": "opp_ecee1a55fa50c6248a25",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:oYcCa3dVfnY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oYcCa3dVfnY",
+      "title": "5300명 중 단 1명, AI 해커톤 최종 우승자는 누굴까? | AX 인재전쟁 우승 인터뷰 | OpenAI × 조코딩AX파트너스",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T13:00:32+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "5,341명의 지원자, 60명의 본선 진출자, 그중 최종 1등, 마이리얼트립 문제를 선택한 유재민 님을 직접 만났습니다. \"AI한테 문제를 찾아줘라고 하기보다는, 제가 풀고 싶은 아이디어를 AI한테 잘 설명해서 문제 정의부터 다시 했던 것 같습니다.\" 유재민 님은 AI가 여행을 추천해도 결제로 이어지지 않는다는 병목을 플랫폼의 신뢰 문제라고 정의하고, 3만 명 규모의 마케팅 파트너가 직접 다녀와 검증한 후기를 AI로 분석해 예약까지 이어지는 프로덕트를 만들었습니다. 행사명: AX 인재전쟁 본선 일",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=oYcCa3dVfnY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T13:00:32.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ff1b26d0173cae79f41d1eab4750e79a828e851bc47f6900f7e0aa94da23cafb",
+      "dedupeKey": "brief:opp_ecee1a55fa50c6248a25:sha256:ff1b26d0173cae79f41d1eab4750e79a828e851bc47f6900f7e0aa94da23cafb",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e8d402041de169f73207": {
+      "id": "opp_e8d402041de169f73207",
+      "type": "CONTENT",
+      "sourceId": "youtube-eo-korea",
+      "externalId": "yt:video:2cgwDw01kqU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=2cgwDw01kqU",
+      "title": "틈새시장이 가장 큰 시장이 되는 순간 \"매스니치\" | 이오서재 어피닛 1부",
+      "organization": "EO Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T10:40:00+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "스타트업",
+        "개발 조직",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이오서재 2.0으로 돌아왔습니다. 매일매일 전쟁 같은 비즈니스 현장에 서 있는 창업가분들을 모시고, 마치 편안한 내 서재에서 대화하듯 그들의 '진짜' 이야기를 솔직하고 깊이 있게 들어보는 시간입니다. 이번 편에서는 인도 10억 명의 금융을 바꾸고 있는 AI 금융 기업 어피닛의 이철원 대표님, 그리고 인도 출신 방송인이자 사업가인 럭키님을 함께 모셨습니다. 한국에서 인도로 간 창업가와 인도에서 한국으로 온 사업가, 서로 다른 두 시선으로 바라본 인도 시장에 대해 뜻깊은 이야기를 나눴습니다. 1부:",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=2cgwDw01kqU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T10:40:00.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6d9e81c15849bbf2c87e469bda924585428d9d06492e910bae866555ad6ecf76",
+      "dedupeKey": "brief:opp_e8d402041de169f73207:sha256:6d9e81c15849bbf2c87e469bda924585428d9d06492e910bae866555ad6ecf76",
+      "firstSeenAt": "2026-10-01T15:58:58.047Z",
+      "lastSeenAt": "2026-10-01T15:58:58.047Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -72795,6 +73100,42 @@
       "opportunityId": "opp_2cbbbee19491cd3025ab",
       "sentAt": "2026-10-01T09:06:03.606Z",
       "messageId": "1555143754351124501"
+    },
+    "brief:opp_2aa91205af5ea176a0d7:sha256:b04490fa3f0c87a89f36caeab20c8e10127567a10c9e2ee682c18374291b5a75": {
+      "status": "SENT",
+      "opportunityId": "opp_2aa91205af5ea176a0d7",
+      "sentAt": "2026-10-01T15:58:58.047Z",
+      "messageId": "1555247664227033260"
+    },
+    "brief:opp_ae823546b7a968ae6491:sha256:a76879a320d9e880d0ff2469cc46276e4461f4e177c3ff5a3a5022e0ff07815c": {
+      "status": "SENT",
+      "opportunityId": "opp_ae823546b7a968ae6491",
+      "sentAt": "2026-10-01T15:58:58.047Z",
+      "messageId": "1555247664227033260"
+    },
+    "brief:opp_ecee1a55fa50c6248a25:sha256:ff1b26d0173cae79f41d1eab4750e79a828e851bc47f6900f7e0aa94da23cafb": {
+      "status": "SENT",
+      "opportunityId": "opp_ecee1a55fa50c6248a25",
+      "sentAt": "2026-10-01T15:58:58.047Z",
+      "messageId": "1555247664227033260"
+    },
+    "brief:opp_fa2480828916a98281a3:sha256:bcbc19845b09f3d352b776fb826ff66bd3702e887f49157f3f5b52f98bb2f2ea": {
+      "status": "SENT",
+      "opportunityId": "opp_fa2480828916a98281a3",
+      "sentAt": "2026-10-01T15:58:58.047Z",
+      "messageId": "1555247664227033260"
+    },
+    "brief:opp_e8d402041de169f73207:sha256:6d9e81c15849bbf2c87e469bda924585428d9d06492e910bae866555ad6ecf76": {
+      "status": "SENT",
+      "opportunityId": "opp_e8d402041de169f73207",
+      "sentAt": "2026-10-01T15:58:58.047Z",
+      "messageId": "1555247664227033260"
+    },
+    "brief:opp_fd2b3615a1e7495a567d:sha256:709337f080b51f2a14ee5ec0cb14b290043161dabc24c71810d60e47f2d61369": {
+      "status": "SENT",
+      "opportunityId": "opp_fd2b3615a1e7495a567d",
+      "sentAt": "2026-10-01T15:58:58.047Z",
+      "messageId": "1555247664227033260"
     }
   },
   "pending": {},
