@@ -62786,13 +62786,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 16,
-        "communityRank": 14,
-        "contentScore": 11,
+        "communityRank": 16,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -62800,8 +62800,8 @@
       },
       "contentHash": "sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
       "dedupeKey": "brief:opp_a21fc89ff631928f1088:sha256:4032ff0a06b26f40834d4b1be27aadfbb5f73845d6ec8d123458e7d1cd06cfbf",
-      "firstSeenAt": "2026-09-30T15:36:05.357Z",
-      "lastSeenAt": "2026-09-30T15:36:05.357Z",
+      "firstSeenAt": "2026-10-01T00:05:59.952Z",
+      "lastSeenAt": "2026-10-01T00:05:59.952Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -62981,7 +62981,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 19,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -62995,11 +62995,11 @@
       },
       "contentHash": "sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
       "dedupeKey": "brief:opp_89798e350e3b9370d825:sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485",
-      "firstSeenAt": "2026-09-30T15:36:05.357Z",
-      "lastSeenAt": "2026-09-30T15:36:05.357Z",
+      "firstSeenAt": "2026-10-01T00:05:59.952Z",
+      "lastSeenAt": "2026-10-01T00:05:59.952Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -64181,26 +64181,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 6,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 9,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122",
       "dedupeKey": "brief:opp_b11cca6cd9f112364cce:sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122",
-      "firstSeenAt": "2026-09-30T15:36:05.357Z",
-      "lastSeenAt": "2026-09-30T15:36:05.357Z",
+      "firstSeenAt": "2026-10-01T00:05:59.952Z",
+      "lastSeenAt": "2026-10-01T00:05:59.952Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -64754,6 +64754,155 @@
       "dedupeKey": "brief:opp_90168721f62cec94b594:sha256:393e4a2af5f931550a11a5639cd82b5b86a198df56577894e45ea7ad5bf2e15d",
       "firstSeenAt": "2026-09-30T15:36:05.357Z",
       "lastSeenAt": "2026-09-30T15:36:05.357Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9c1d31e71b71862ee98b": {
+      "id": "opp_9c1d31e71b71862ee98b",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "canonicalUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "summaryEvidence": [
+        "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d1fcd0995cfc11faaae1372ddbb0362627e50969a17c0ea7a22867d5132d991c",
+      "dedupeKey": "brief:opp_9c1d31e71b71862ee98b:sha256:d1fcd0995cfc11faaae1372ddbb0362627e50969a17c0ea7a22867d5132d991c",
+      "firstSeenAt": "2026-10-01T00:05:59.952Z",
+      "lastSeenAt": "2026-10-01T00:05:59.952Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4ec19bac8fd296f81cf0": {
+      "id": "opp_4ec19bac8fd296f81cf0",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "canonicalUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "title": "Helping small businesses put AI to work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "summaryEvidence": [
+        "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2f5fc2d873ce9d1fc02d5602f05d07d1a05a14b468fb348a4093f5b815baeb8c",
+      "dedupeKey": "brief:opp_4ec19bac8fd296f81cf0:sha256:2f5fc2d873ce9d1fc02d5602f05d07d1a05a14b468fb348a4093f5b815baeb8c",
+      "firstSeenAt": "2026-10-01T00:05:59.952Z",
+      "lastSeenAt": "2026-10-01T00:05:59.952Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3546c96dc4ca5b09bffe": {
+      "id": "opp_3546c96dc4ca5b09bffe",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:lr5cxvYJDLg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lr5cxvYJDLg",
+      "title": "[한영자막] AI가 여러분의 데이터를 노출하고 있습니다: 눈에 보이지 않는 AI 보안의 숨은 위험",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-09-30T22:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 도입이 가속화되면서 기존 보안 도구가 감지하지 못하는 민감한 데이터 노출 위험이 급증하고 있습니다. IBM의 Jeff Crume 박사가 AI 에이전트, RAG 파이프라인, 프롬프트, 외부 도구를 거치며 데이터가 어떻게 이동하고 변형되는지, 그리고 이를 사전에 통제하기 위한 핵심 보안 요구사항을 알기 쉽게 설명합니다. 주요 내용: • 섀도우 AI와 공개 챗봇: 무단 도입 및 프롬프트 입력을 통한 데이터 유출 취약점 • AI 아키텍처 내 데이터 흐름: 학습 데이터, RAG, 에이전트, 외부 도구",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lr5cxvYJDLg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-09-30T22:00:06.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3bbfd61f6737f7096ab07553e8562223dcb92e125d77e9c707095740e667e01d",
+      "dedupeKey": "brief:opp_3546c96dc4ca5b09bffe:sha256:3bbfd61f6737f7096ab07553e8562223dcb92e125d77e9c707095740e667e01d",
+      "firstSeenAt": "2026-10-01T00:05:59.952Z",
+      "lastSeenAt": "2026-10-01T00:05:59.952Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -71811,6 +71960,36 @@
       "opportunityId": "opp_79b5de6cff4eb10871a3",
       "sentAt": "2026-09-30T15:36:05.357Z",
       "messageId": "1554879519687442493"
+    },
+    "brief:opp_9c1d31e71b71862ee98b:sha256:d1fcd0995cfc11faaae1372ddbb0362627e50969a17c0ea7a22867d5132d991c": {
+      "status": "SENT",
+      "opportunityId": "opp_9c1d31e71b71862ee98b",
+      "sentAt": "2026-10-01T00:05:59.952Z",
+      "messageId": "1555007841939755140"
+    },
+    "brief:opp_4ec19bac8fd296f81cf0:sha256:2f5fc2d873ce9d1fc02d5602f05d07d1a05a14b468fb348a4093f5b815baeb8c": {
+      "status": "SENT",
+      "opportunityId": "opp_4ec19bac8fd296f81cf0",
+      "sentAt": "2026-10-01T00:05:59.952Z",
+      "messageId": "1555007841939755140"
+    },
+    "brief:opp_3546c96dc4ca5b09bffe:sha256:3bbfd61f6737f7096ab07553e8562223dcb92e125d77e9c707095740e667e01d": {
+      "status": "SENT",
+      "opportunityId": "opp_3546c96dc4ca5b09bffe",
+      "sentAt": "2026-10-01T00:05:59.952Z",
+      "messageId": "1555007841939755140"
+    },
+    "brief:opp_b11cca6cd9f112364cce:sha256:4cf6e5b04077e9828319706448b237a97d604b66ba4562d956f8f23fa0c4b122": {
+      "status": "SENT",
+      "opportunityId": "opp_b11cca6cd9f112364cce",
+      "sentAt": "2026-10-01T00:05:59.952Z",
+      "messageId": "1555007841939755140"
+    },
+    "brief:opp_89798e350e3b9370d825:sha256:5145698af81564ab193c9b300e135ad690b844df2fa46d180bddd6e956e02485": {
+      "status": "SENT",
+      "opportunityId": "opp_89798e350e3b9370d825",
+      "sentAt": "2026-10-01T00:05:59.952Z",
+      "messageId": "1555007841939755140"
     }
   },
   "pending": {},
