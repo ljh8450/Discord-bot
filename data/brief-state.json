@@ -65034,7 +65034,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 9,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -65048,8 +65048,8 @@
       },
       "contentHash": "sha256:6cb973b1d4082334c36df90d59bb568e99348a7693d987e2a2798ff6cb11d84a",
       "dedupeKey": "brief:opp_c8b555981fee1e5f14ba:sha256:6cb973b1d4082334c36df90d59bb568e99348a7693d987e2a2798ff6cb11d84a",
-      "firstSeenAt": "2026-10-01T04:41:13.133Z",
-      "lastSeenAt": "2026-10-01T04:41:13.133Z",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65099,6 +65099,561 @@
       "dedupeKey": "brief:opp_c19a9badd7156353e10f:sha256:912260d9612e1dffedabd537cb05362d6d5cd7b610fe3f30b445e7a95c06f637",
       "firstSeenAt": "2026-10-01T04:41:13.133Z",
       "lastSeenAt": "2026-10-01T04:41:13.133Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2721b4ba31c96b926851": {
+      "id": "opp_2721b4ba31c96b926851",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34572",
+      "canonicalUrl": "https://blog.wonkooklee.com/docs/api-and-interfaces/browser-realtime",
+      "title": "브라우저 실시간 통신 설계: 폴링·SSE·WebSocket과 상태 복구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T08:49:59+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "\"실시간\"이라는 요구를 보면 WebSocket부터 떠올리기 쉽지만, 채팅 메시지·작업 완료 알림·협업 커서는 기다릴 수 있는 시간도, 끊겼을 때 되찾아...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34572"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:af6a24a8ee30352ec5a034ede96e51f593a4950c35cd592294faf984608aeda2",
+      "dedupeKey": "brief:opp_2721b4ba31c96b926851:sha256:af6a24a8ee30352ec5a034ede96e51f593a4950c35cd592294faf984608aeda2",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fd2b3615a1e7495a567d": {
+      "id": "opp_fd2b3615a1e7495a567d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34581",
+      "canonicalUrl": "https://substack.com/home/post/p-216691876",
+      "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T11:17:11+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "VC 투자자 Akshay Mehra의 글. 5년 전만 해도 마켓플레이스, \"X계의 우버\", 버티컬 SaaS, 네오뱅크 피치가 넘쳤는데, 지금은 자본 집약적이라 외면...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34581"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:709337f080b51f2a14ee5ec0cb14b290043161dabc24c71810d60e47f2d61369",
+      "dedupeKey": "brief:opp_fd2b3615a1e7495a567d:sha256:709337f080b51f2a14ee5ec0cb14b290043161dabc24c71810d60e47f2d61369",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9f6d2febcc8adaea1f7e": {
+      "id": "opp_9f6d2febcc8adaea1f7e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34576",
+      "canonicalUrl": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "title": "싱가포르 정부 데이팅 앱, Gale-Shapley 안정 결혼 알고리듬 사용",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T09:35:30+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "싱가포르 GovTech의 데이팅 서비스 FirstDate는 관심사·생활 습관·가치관·선호를 설문으로 받아 Gale–Shapley 안정 결혼 알고리듬으로 상대를 추천...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34576"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa",
+      "dedupeKey": "brief:opp_9f6d2febcc8adaea1f7e:sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_689132b335aa0bfd61bf": {
+      "id": "opp_689132b335aa0bfd61bf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34557",
+      "canonicalUrl": "https://frostyard.github.io/nsl",
+      "title": "NSL - Linux용 WSL",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T03:41:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "nsl(NSpawn Subsystem for Linux) 은 개발 도구와 의존성을 호스트 운영체제 대신 별도의 Linux 환경에 설치해, 기존 시스템을 건드리지 않고 Debi...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34557"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac",
+      "dedupeKey": "brief:opp_689132b335aa0bfd61bf:sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_feb8042d18bedcd036a9": {
+      "id": "opp_feb8042d18bedcd036a9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34569",
+      "canonicalUrl": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
+      "title": "Anthropic의 IPO 투자설명서에 담긴 AI 비전과 급증하는 비용",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T07:38:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Anthropic의 IPO 투자설명서에서 빠른 매출 성장과 막대한 비용이 드러남. AI가 산업화·전기·인터넷보다 경제를 크게 바꿀 것이라는 전망 아래 대...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34569"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e7f48f6a6814d9309d60d402683425ffae8dcf4702405634c1637511a712f8f0",
+      "dedupeKey": "brief:opp_feb8042d18bedcd036a9:sha256:e7f48f6a6814d9309d60d402683425ffae8dcf4702405634c1637511a712f8f0",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2cbbbee19491cd3025ab": {
+      "id": "opp_2cbbbee19491cd3025ab",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34563",
+      "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
+      "title": "Google, Gemini 4 Argon 발표",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T05:37:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google이 장시간 이어지는 복잡한 작업을 위한 Gemini 4 Argon을 발표함. 소프트웨어 개발, 법률·금융 업무와 사이버 방어를 지원하며, 현재 신뢰...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34563"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0d178567abaaf11f80c17417d5183a159fcfe7100f5fc2e13e110d166e1cc7b0",
+      "dedupeKey": "brief:opp_2cbbbee19491cd3025ab:sha256:0d178567abaaf11f80c17417d5183a159fcfe7100f5fc2e13e110d166e1cc7b0",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_498c62df401efbc1ac4c": {
+      "id": "opp_498c62df401efbc1ac4c",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/barclays-scales-claude",
+      "canonicalUrl": "https://www.anthropic.com/news/barclays-scales-claude",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/barclays-scales-claude"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4350def04933d1a25ca2e7e08deb8c534cf37b44270621ea56e04bfbd7368bcb",
+      "dedupeKey": "brief:opp_498c62df401efbc1ac4c:sha256:4350def04933d1a25ca2e7e08deb8c534cf37b44270621ea56e04bfbd7368bcb",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e735062332aa3e7cfe02": {
+      "id": "opp_e735062332aa3e7cfe02",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:1MFJa7HfcUw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1MFJa7HfcUw",
+      "title": "메타 시니어 엔지니어가 직접 써본 Muse | 개인용 슈퍼 인텔리전스의 등장",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T07:30:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Hermes 대신 쓰고 있습니다 — 메타 Muse 직접 써봤습니다 (앱스토어 1위, 셋업 없는 개인 AI 에이전트) 지금 미국 앱스토어 무료 앱 1위는 ChatGPT가 아니라 Meta가 9월 8일에 낸 개인 AI 에이전트 Muse입니다. 출시 열흘 만에 ChatGPT를 2위로 밀어냈고, 메타 주가는 하루에 11% 올랐고 최고가인 777달러대까지 올라섰습니다. 무료로 일주일에 1억 토큰을 줍니다. 이번 영상에서는 Muse 웹앱을 처음부터 둘러봅니다. 나에 대해 아는 걸 바탕으로 만들어주는 개인화 피",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1MFJa7HfcUw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T07:30:30.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5fbd83fea9b35758a7f94f8d1b5bd35c580c2e094c4da1fa19d27e91a7c2d69d",
+      "dedupeKey": "brief:opp_e735062332aa3e7cfe02:sha256:5fbd83fea9b35758a7f94f8d1b5bd35c580c2e094c4da1fa19d27e91a7c2d69d",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4d7e5b9b1f4536120eca": {
+      "id": "opp_4d7e5b9b1f4536120eca",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:WWUxQgAZTu4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WWUxQgAZTu4",
+      "title": "[한영자막] 공장이 아니라 오케스트라입니다: 최고 속도로 개발하는 사람들의 일하는 방식",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T08:00:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "여러 코딩 에이전트를 동시에 다루는 앱 Conductor의 공동 창업자 Charlie Holtz가 AI Engineer World's Fair에서 발표한 세션입니다. 최고 수준의 개발자들을 가까이서 관찰하며 정리한 '가장 빠른 개발자들의 6가지 핵심 원칙'을 소개합니다. 📌 주요 내용: 1. 최전선에 머물러라: 새로운 모델과 코딩 도구가 나오면 바로 직접 써보세요. 2. 시장을 이기려 하지 마라: 보편적인 워크플로우는 대형 랩이 기본 탑재합니다. 나만의 진정한 '알파'가 있는 곳에만 시간을 쓰세",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=WWUxQgAZTu4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T08:00:39.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a63ec89672549df5a6adaf123be684c6fa56c5c1cedcdd3afcf2a7fd52ea0340",
+      "dedupeKey": "brief:opp_4d7e5b9b1f4536120eca:sha256:a63ec89672549df5a6adaf123be684c6fa56c5c1cedcdd3afcf2a7fd52ea0340",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_96761ef27a11e01206ed": {
+      "id": "opp_96761ef27a11e01206ed",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:A3DVNDsDTkw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A3DVNDsDTkw",
+      "title": "기술 스택, 많이 적을수록 유리할까? | 이직준비, 빠지기 쉬운 착각 #1",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T01:29:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "이직을 준비하다 보면 새로운 기술을 계속 추가해야 할 것 같은 불안감이 생깁니다. Redis, Kafka, Kubernetes… 이력서의 기술 스택은 늘어나는데, 정작 면접에서는 막히는 경우가 많습니다. 인프런 멘토링에서 이직을 준비하는 개발자분들을 만나며 반복해서 보았던 함정, \"기술을 많이 알수록 이직에 유리하겠지?\"를 이야기합니다. ▶ 이 영상에서 다루는 것 - 이직 준비가 '기술 스택 수집'이 되는 이유 - 이력서의 기술 한 줄이 면접 질문의 시작점이 되는 과정 - 피상적으로 아는 것과 제",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=A3DVNDsDTkw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T01:29:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d",
+      "dedupeKey": "brief:opp_96761ef27a11e01206ed:sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0533dda7b561f21a4abc": {
+      "id": "opp_0533dda7b561f21a4abc",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:w7b_oqMVJEg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=w7b_oqMVJEg",
+      "title": "AI 경쟁은 이제... 새로운 플랫폼 경쟁으로... 애플, 구글에서 벗어난 메타의 안경부터 OpenAI의 작업 공간까지… AI 기업들이 일상을 파고드는 이유",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T08:18:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI와 메타가 나란히 일을 맡길 수 있는 AI 에이전트를 선보였습니다.이번 영상에서는 OpenAI의 닷츠와 메타의 뮤즈를 통해 두 회사가 향하는 방향을 살펴봅니다.AI가 여러 업무 도구를 연결하면 우리가 앱을 사용하는 방식도 달라질 수 있습니다.에이전트가 판단하고, 도구를 쓰고, 결과를 확인하며 작업을 이어가는 원리를 설명합니다.챗GPT의 공동 작업 공간과 외부 서비스 연결이 갖는 의미도 짚어봅니다.모델 사용 비용이 낮아질 때 어떤 작은 업무까지 자동화할 수 있는지 알아봅니다.AI에게 일을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=w7b_oqMVJEg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T08:18:30.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f00be79286f0609bbf0c394455ea5ee760ec6137de9d9bdf4081df8df7f2b9ad",
+      "dedupeKey": "brief:opp_0533dda7b561f21a4abc:sha256:f00be79286f0609bbf0c394455ea5ee760ec6137de9d9bdf4081df8df7f2b9ad",
+      "firstSeenAt": "2026-10-01T09:06:03.606Z",
+      "lastSeenAt": "2026-10-01T09:06:03.606Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -72204,6 +72759,42 @@
       "opportunityId": "opp_2e61278916bed57c6fc1",
       "sentAt": "2026-10-01T04:41:13.133Z",
       "messageId": "1555077103190278185"
+    },
+    "brief:opp_0533dda7b561f21a4abc:sha256:f00be79286f0609bbf0c394455ea5ee760ec6137de9d9bdf4081df8df7f2b9ad": {
+      "status": "SENT",
+      "opportunityId": "opp_0533dda7b561f21a4abc",
+      "sentAt": "2026-10-01T09:06:03.606Z",
+      "messageId": "1555143754351124501"
+    },
+    "brief:opp_e735062332aa3e7cfe02:sha256:5fbd83fea9b35758a7f94f8d1b5bd35c580c2e094c4da1fa19d27e91a7c2d69d": {
+      "status": "SENT",
+      "opportunityId": "opp_e735062332aa3e7cfe02",
+      "sentAt": "2026-10-01T09:06:03.606Z",
+      "messageId": "1555143754351124501"
+    },
+    "brief:opp_498c62df401efbc1ac4c:sha256:4350def04933d1a25ca2e7e08deb8c534cf37b44270621ea56e04bfbd7368bcb": {
+      "status": "SENT",
+      "opportunityId": "opp_498c62df401efbc1ac4c",
+      "sentAt": "2026-10-01T09:06:03.606Z",
+      "messageId": "1555143754351124501"
+    },
+    "brief:opp_4d7e5b9b1f4536120eca:sha256:a63ec89672549df5a6adaf123be684c6fa56c5c1cedcdd3afcf2a7fd52ea0340": {
+      "status": "SENT",
+      "opportunityId": "opp_4d7e5b9b1f4536120eca",
+      "sentAt": "2026-10-01T09:06:03.606Z",
+      "messageId": "1555143754351124501"
+    },
+    "brief:opp_2721b4ba31c96b926851:sha256:af6a24a8ee30352ec5a034ede96e51f593a4950c35cd592294faf984608aeda2": {
+      "status": "SENT",
+      "opportunityId": "opp_2721b4ba31c96b926851",
+      "sentAt": "2026-10-01T09:06:03.606Z",
+      "messageId": "1555143754351124501"
+    },
+    "brief:opp_2cbbbee19491cd3025ab:sha256:0d178567abaaf11f80c17417d5183a159fcfe7100f5fc2e13e110d166e1cc7b0": {
+      "status": "SENT",
+      "opportunityId": "opp_2cbbbee19491cd3025ab",
+      "sentAt": "2026-10-01T09:06:03.606Z",
+      "messageId": "1555143754351124501"
     }
   },
   "pending": {},
