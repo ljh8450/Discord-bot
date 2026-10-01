@@ -64908,6 +64908,202 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_2e61278916bed57c6fc1": {
+      "id": "opp_2e61278916bed57c6fc1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34552",
+      "canonicalUrl": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
+      "title": "AI 경쟁이 난처해졌다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T02:48:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "중국 연구소의 모델 증류를 비판하던 서구 AI 기업들이, 이번에는 중국이 공개한 추론 최적화 기술의 수혜자가 됐다는 역설을 다룸 DeepSeek는 긴 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34552"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a7f1d9dd78f02ed76698105d1728b5cf5931bf59fd21b5a3c5ca93cc1577437b",
+      "dedupeKey": "brief:opp_2e61278916bed57c6fc1:sha256:a7f1d9dd78f02ed76698105d1728b5cf5931bf59fd21b5a3c5ca93cc1577437b",
+      "firstSeenAt": "2026-10-01T04:41:13.133Z",
+      "lastSeenAt": "2026-10-01T04:41:13.133Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a14fe168a2df97c60158": {
+      "id": "opp_a14fe168a2df97c60158",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34551",
+      "canonicalUrl": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "title": "텍스트 분류를 위한 언어 모델: Bag-of-Words에서 Jev까지",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T01:38:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Jev는 작업마다 별도 분류기를 학습하지 않고도 이메일 분류부터 게임의 행동 선택까지 처리하며, 대형 생성형 LLM보다 빠르고 저렴한 의사결정을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34551"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:77d88e5a1fb6d514be185c61c921b31c56485187708260b9336ef4d98e3ff5f2",
+      "dedupeKey": "brief:opp_a14fe168a2df97c60158:sha256:77d88e5a1fb6d514be185c61c921b31c56485187708260b9336ef4d98e3ff5f2",
+      "firstSeenAt": "2026-10-01T04:41:13.133Z",
+      "lastSeenAt": "2026-10-01T04:41:13.133Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c8b555981fee1e5f14ba": {
+      "id": "opp_c8b555981fee1e5f14ba",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34568",
+      "canonicalUrl": "https://news.hada.io/topic?id=34568",
+      "title": "Show GN: herdr web ui - 폰이나 브라우저에서 herdr 사용하는 플러그인",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T06:48:55+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 안쓰고 쓴 글이라 두서가 없을수도 있습니다. AI slop 글에 피로를 느껴서 직접 작성합니다. 1. 이게 뭐임 herdr( 를 브라우저, 폰에서 채팅이...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34568"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6cb973b1d4082334c36df90d59bb568e99348a7693d987e2a2798ff6cb11d84a",
+      "dedupeKey": "brief:opp_c8b555981fee1e5f14ba:sha256:6cb973b1d4082334c36df90d59bb568e99348a7693d987e2a2798ff6cb11d84a",
+      "firstSeenAt": "2026-10-01T04:41:13.133Z",
+      "lastSeenAt": "2026-10-01T04:41:13.133Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c19a9badd7156353e10f": {
+      "id": "opp_c19a9badd7156353e10f",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/53545",
+      "canonicalUrl": "https://toss.tech/article/53545",
+      "title": "추천 후보는 많을수록 좋을까? TopK를 최적화해 전환율을 높인 방법",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 01 Oct 2026 01:26:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "TopK를 감이 아닌 최적화로 정한 이야기",
+      "summaryEvidence": [
+        "https://toss.tech/article/53545"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:912260d9612e1dffedabd537cb05362d6d5cd7b610fe3f30b445e7a95c06f637",
+      "dedupeKey": "brief:opp_c19a9badd7156353e10f:sha256:912260d9612e1dffedabd537cb05362d6d5cd7b610fe3f30b445e7a95c06f637",
+      "firstSeenAt": "2026-10-01T04:41:13.133Z",
+      "lastSeenAt": "2026-10-01T04:41:13.133Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -71990,6 +72186,24 @@
       "opportunityId": "opp_89798e350e3b9370d825",
       "sentAt": "2026-10-01T00:05:59.952Z",
       "messageId": "1555007841939755140"
+    },
+    "brief:opp_c19a9badd7156353e10f:sha256:912260d9612e1dffedabd537cb05362d6d5cd7b610fe3f30b445e7a95c06f637": {
+      "status": "SENT",
+      "opportunityId": "opp_c19a9badd7156353e10f",
+      "sentAt": "2026-10-01T04:41:13.133Z",
+      "messageId": "1555077103190278185"
+    },
+    "brief:opp_a14fe168a2df97c60158:sha256:77d88e5a1fb6d514be185c61c921b31c56485187708260b9336ef4d98e3ff5f2": {
+      "status": "SENT",
+      "opportunityId": "opp_a14fe168a2df97c60158",
+      "sentAt": "2026-10-01T04:41:13.133Z",
+      "messageId": "1555077103190278185"
+    },
+    "brief:opp_2e61278916bed57c6fc1:sha256:a7f1d9dd78f02ed76698105d1728b5cf5931bf59fd21b5a3c5ca93cc1577437b": {
+      "status": "SENT",
+      "opportunityId": "opp_2e61278916bed57c6fc1",
+      "sentAt": "2026-10-01T04:41:13.133Z",
+      "messageId": "1555077103190278185"
     }
   },
   "pending": {},
