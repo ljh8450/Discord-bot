@@ -66309,6 +66309,611 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_9365845f070bb32423ca": {
+      "id": "opp_9365845f070bb32423ca",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34651",
+      "canonicalUrl": "https://news.hada.io/topic?id=34651",
+      "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T11:40:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 만든 긴 글을 사람이 읽기 쉬운 요약으로 만들어 줌 (Meat Proxy에서 벗어나기 위한 몸부림) 단축키(기본 ⌃X)를 누르면 어떤 앱에서든 바로 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34651"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1d01f2f2f2cf54ef489c1eb4990f2a911dfd5d1685db7edb3c7bf1db2563d433",
+      "dedupeKey": "brief:opp_9365845f070bb32423ca:sha256:1d01f2f2f2cf54ef489c1eb4990f2a911dfd5d1685db7edb3c7bf1db2563d433",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d481d42c67495dd09890": {
+      "id": "opp_d481d42c67495dd09890",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34645",
+      "canonicalUrl": "https://github.com/Tencent/AI-Infra-Guard",
+      "title": "AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Tencent가 개발한 AI 보안 점검 플랫폼으로, 서버의 알려진 취약점부터 에이전트의 도구 오용·정보 유출, LLM 탈옥 공격까지 검사 실행 중인 Ollam...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34645"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:98e693901472d6584272922a56454395ebefc5f974406c263db7069a67c07999",
+      "dedupeKey": "brief:opp_d481d42c67495dd09890:sha256:98e693901472d6584272922a56454395ebefc5f974406c263db7069a67c07999",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e681a48f719ab3a3caaf": {
+      "id": "opp_e681a48f719ab3a3caaf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34601",
+      "canonicalUrl": "https://ledge.sh/",
+      "title": "Ledge.sh - 실행 가능한 Markdown 노트",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T20:40:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Markdown 노트 안에서 셸 명령, 코드, SQL, AI 프롬프트를 실행하고, 결과를 코드 블록 바로 아래에 실시간으로 표시하는 개발자·DevOps용 노트 앱...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34601"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
+      "dedupeKey": "brief:opp_e681a48f719ab3a3caaf:sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e4b7b0435dd673f7da2d": {
+      "id": "opp_e4b7b0435dd673f7da2d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34627",
+      "canonicalUrl": "https://blog.gitbutler.com/git-3-sha-256",
+      "title": "Git 3.0의 SHA-256 기본값 전환은 값비싼 실수다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T04:47:14+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Git 3.0은 새 저장소의 기본 해시를 SHA-1에서 SHA-256으로 바꿀 계획이며, GitHub 공동 창업자 Scott Chacon은 보안상 이익보다 생태계의 전환 비...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34627"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5b006e8c6975d35e6df765352233c87572895ff4fe4d753629db88b84bc33431",
+      "dedupeKey": "brief:opp_e4b7b0435dd673f7da2d:sha256:5b006e8c6975d35e6df765352233c87572895ff4fe4d753629db88b84bc33431",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2e7d17f5dc5f2b15a024": {
+      "id": "opp_2e7d17f5dc5f2b15a024",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34623",
+      "canonicalUrl": "https://yedhu.me/posts/commit-description-as-a-thinking-tool",
+      "title": "생각을 정리하는 도구로서의 커밋 설명",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T03:55:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "커밋 설명을 직접 쓰는 과정은 코드 변경을 돌아보고 결정을 재검토하는 작업이며, AI가 만든 변경이 의도대로인지 확인하는 데도 도움이 됨 커밋 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34623"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:120313c34b6dd254371e855ceb75869734491b9294801a2cd970ce39339166cb",
+      "dedupeKey": "brief:opp_2e7d17f5dc5f2b15a024:sha256:120313c34b6dd254371e855ceb75869734491b9294801a2cd970ce39339166cb",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9390963562822da6edd7": {
+      "id": "opp_9390963562822da6edd7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34593",
+      "canonicalUrl": "https://56k.rip/",
+      "title": "56k.rip - 1996년 전화 접속 인터넷 체험",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T16:36:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "56k.rip는 데스크톱에서 전화 접속 네트워킹을 열고 모뎀 연결을 거쳐 홈페이지를 읽는 1996년 인터넷 경험을 브라우저에서 재현함 14.4/28.8/56k ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34593"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d878d6655621b2e2733532813f9627b1086f1766d56c7efa0ee5095cd9aa74f2",
+      "dedupeKey": "brief:opp_9390963562822da6edd7:sha256:d878d6655621b2e2733532813f9627b1086f1766d56c7efa0ee5095cd9aa74f2",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f7f4ededac3a5e7c9ff1": {
+      "id": "opp_f7f4ededac3a5e7c9ff1",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34639",
+      "canonicalUrl": "https://www.elenaverna.com/p/what-its-like-to-work-at-an-ai-native",
+      "title": "AI 네이티브 회사에서 일한다는 것",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T07:01:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Lovable에서는 AI가 개별 업무의 생산성을 높이는 데 그치지 않고, 직무 경계와 의사결정, 정보 흐름, 일을 잘한다는 기준까지 바꾸고 있음 세분화...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34639"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d",
+      "dedupeKey": "brief:opp_f7f4ededac3a5e7c9ff1:sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_83977cbd5b71041254fd": {
+      "id": "opp_83977cbd5b71041254fd",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/838",
+      "canonicalUrl": "https://tech.kakao.com/posts/838",
+      "title": "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Thu, 01 Oct 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "LLM 에이전트는 목표를 받으면 필요한 정보를 찾고 적절한 도구를 선택해 실행하며, 그 결과를 관찰한 뒤 다음 행동을 결정합니다. Anthropic은 에이전트를 활용한 여러 실험을 공개했습니다. Claude Sonnet 4.5로 Claude.ai를 재현하는 실험 과 Claude Opus 4.6 기반 에이전트가 Rust로 Linux 6.9 커널을 빌드할 수 있는 C 컴파일러를 개발한 사례를 소개했습니다. 이처럼 모델의 성능이 높아지면서 에이전트가 자율적으...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/838"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:36d16fc2e98b81c1d89ee5087271c9a8a6f7b1142cfa7c27ddd217b90ad29a8e",
+      "dedupeKey": "brief:opp_83977cbd5b71041254fd:sha256:36d16fc2e98b81c1d89ee5087271c9a8a6f7b1142cfa7c27ddd217b90ad29a8e",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7ad31e7eab5ea8de9561": {
+      "id": "opp_7ad31e7eab5ea8de9561",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:xRZHLI5SPWo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xRZHLI5SPWo",
+      "title": "[한영자막] 400개 기업 데이터로 본 소프트웨어 개발 AI의 현주소입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T09:00:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "DX의 부CTO 저스틴 리옥이 400개 이상 기업, 20만 명의 엔지니어 데이터를 바탕으로 AI 도입이 개발 현장에 미친 실제 영향과 5가지 핵심 트렌드를 공개합니다. 단순한 코드 작성을 넘어 조직의 진짜 병목을 해결하고 가치를 창출하는 실전 AI 엔지니어링 전략을 만나보세요. 주요 내용: • 배포 빈도는 늘었지만 변경 실패율 변동성이 극심해졌으며, 코드 유지보수성은 올랐으나 배포 확신도는 오히려 떨어졌습니다. • PR 크기가 44줄에서 72줄로 급증하면서 점진적 배포 원칙이 흔들리고 있습니다.",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=xRZHLI5SPWo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T09:00:13.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3ea9396edcb6c2e3123618bcf31b5b771b4905ff31d9c5c243e6f11e559ddd9b",
+      "dedupeKey": "brief:opp_7ad31e7eab5ea8de9561:sha256:3ea9396edcb6c2e3123618bcf31b5b771b4905ff31d9c5c243e6f11e559ddd9b",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c0b30f5393eb2b5f5552": {
+      "id": "opp_c0b30f5393eb2b5f5552",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:hXz9XNy0f6M",
+      "canonicalUrl": "https://www.youtube.com/watch?v=hXz9XNy0f6M",
+      "title": "클로드 Opus 5.5 vs GPT-6 Sol, 같은 프롬프트를 줬더니",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T09:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "▶ Higgsfield 직접 써보기 → https://higgsfield.ai/s/claude-opus-5-5-yt-midnightlog-official-UvaNCR Claude에 Higgsfield MCP를 연결하면 Claude Opus 5.5가 그림을 그리고, 그 그림을 3D 모델로 바꿔 영상에 바로 써요. 🎁 이 영상에서 쓴 프롬프트 전문을 그대로 올려 뒀어요 https://vibegame.kr/community/e7999d08-4f3a-4cae-a2d6-e400cfe5c748 🎮 영상",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=hXz9XNy0f6M"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T09:00:25.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e430f938f092943b69db808a461e655a0f512ab5376fc476a185658dde85372c",
+      "dedupeKey": "brief:opp_c0b30f5393eb2b5f5552:sha256:e430f938f092943b69db808a461e655a0f512ab5376fc476a185658dde85372c",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_38281277abda1e37f62a": {
+      "id": "opp_38281277abda1e37f62a",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:XZ12gXb5bhk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XZ12gXb5bhk",
+      "title": "대규모 트래픽에서 Cache Miss 폭발을 막는 전략 | 멤버십 영상",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T00:51:40+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "2026.02.19에 올렸던 멤버십 영상입니다. 대규모 트래픽 환경에서는 캐시를 잘 비우는 것만큼이나 중요한 것이 비워진 캐시를 안전하게 채우는 것입니다. 캐시를 잘 못 설계하면 캐시가 만료되는 순간 캐시 갱신을 위한 수 많은 요청이 원본 DB로 몰려들어 DB가 사망하는 경우가 발생할 수 있습니다. 이를 Cache Stampede라고 하는데요. 이 영상에서는 Cache Stampede에 대한 개념과 이를 방어하기 위한 4가지 아키텍처 패턴을 설명합니다. '아키텍트 인사이트 멤버십'과 함께 개발자를",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XZ12gXb5bhk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T00:51:40.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ca4768a06e12add8d619d2d9594ad4d702b04d5e41f22bd8fa4431234a9efe0e",
+      "dedupeKey": "brief:opp_38281277abda1e37f62a:sha256:ca4768a06e12add8d619d2d9594ad4d702b04d5e41f22bd8fa4431234a9efe0e",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b44b8932bd26525575a6": {
+      "id": "opp_b44b8932bd26525575a6",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:1M-z8O29ML8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=1M-z8O29ML8",
+      "title": "You're Using Jev + Claude Wrong",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T07:04:53+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻Get 1:1 help: https://chaseai.io Jev is one of the biggest AI releases of the year, but almost everyone is using it wrong. In this video, I breakdown the five",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=1M-z8O29ML8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T07:04:53.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:468cc0c7bd46ecb57fb1b976e08918b71eec78d1306d3420bede3d1c094e199a",
+      "dedupeKey": "brief:opp_b44b8932bd26525575a6:sha256:468cc0c7bd46ecb57fb1b976e08918b71eec78d1306d3420bede3d1c094e199a",
+      "firstSeenAt": "2026-10-02T09:05:55.010Z",
+      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -73541,6 +74146,42 @@
       "opportunityId": "opp_44c102fc141ac417b15f",
       "sentAt": "2026-10-02T04:32:50.128Z",
       "messageId": "1555437381455315006"
+    },
+    "brief:opp_83977cbd5b71041254fd:sha256:36d16fc2e98b81c1d89ee5087271c9a8a6f7b1142cfa7c27ddd217b90ad29a8e": {
+      "status": "SENT",
+      "opportunityId": "opp_83977cbd5b71041254fd",
+      "sentAt": "2026-10-02T09:05:55.010Z",
+      "messageId": "1555506104727769183"
+    },
+    "brief:opp_c0b30f5393eb2b5f5552:sha256:e430f938f092943b69db808a461e655a0f512ab5376fc476a185658dde85372c": {
+      "status": "SENT",
+      "opportunityId": "opp_c0b30f5393eb2b5f5552",
+      "sentAt": "2026-10-02T09:05:55.010Z",
+      "messageId": "1555506104727769183"
+    },
+    "brief:opp_d481d42c67495dd09890:sha256:98e693901472d6584272922a56454395ebefc5f974406c263db7069a67c07999": {
+      "status": "SENT",
+      "opportunityId": "opp_d481d42c67495dd09890",
+      "sentAt": "2026-10-02T09:05:55.010Z",
+      "messageId": "1555506104727769183"
+    },
+    "brief:opp_e4b7b0435dd673f7da2d:sha256:5b006e8c6975d35e6df765352233c87572895ff4fe4d753629db88b84bc33431": {
+      "status": "SENT",
+      "opportunityId": "opp_e4b7b0435dd673f7da2d",
+      "sentAt": "2026-10-02T09:05:55.010Z",
+      "messageId": "1555506104727769183"
+    },
+    "brief:opp_b44b8932bd26525575a6:sha256:468cc0c7bd46ecb57fb1b976e08918b71eec78d1306d3420bede3d1c094e199a": {
+      "status": "SENT",
+      "opportunityId": "opp_b44b8932bd26525575a6",
+      "sentAt": "2026-10-02T09:05:55.010Z",
+      "messageId": "1555506104727769183"
+    },
+    "brief:opp_7ad31e7eab5ea8de9561:sha256:3ea9396edcb6c2e3123618bcf31b5b771b4905ff31d9c5c243e6f11e559ddd9b": {
+      "status": "SENT",
+      "opportunityId": "opp_7ad31e7eab5ea8de9561",
+      "sentAt": "2026-10-02T09:05:55.010Z",
+      "messageId": "1555506104727769183"
     }
   },
   "pending": {},
