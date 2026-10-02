@@ -66336,7 +66336,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 9,
         "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -66351,11 +66351,11 @@
       },
       "contentHash": "sha256:1d01f2f2f2cf54ef489c1eb4990f2a911dfd5d1685db7edb3c7bf1db2563d433",
       "dedupeKey": "brief:opp_9365845f070bb32423ca:sha256:1d01f2f2f2cf54ef489c1eb4990f2a911dfd5d1685db7edb3c7bf1db2563d433",
-      "firstSeenAt": "2026-10-02T09:05:55.010Z",
-      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -66434,14 +66434,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityPoints": 7,
+        "communityRank": 8,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -66449,8 +66449,8 @@
       },
       "contentHash": "sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
       "dedupeKey": "brief:opp_e681a48f719ab3a3caaf:sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
-      "firstSeenAt": "2026-10-02T09:05:55.010Z",
-      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66532,8 +66532,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 8,
+        "communityPoints": 6,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -66547,8 +66547,8 @@
       },
       "contentHash": "sha256:120313c34b6dd254371e855ceb75869734491b9294801a2cd970ce39339166cb",
       "dedupeKey": "brief:opp_2e7d17f5dc5f2b15a024:sha256:120313c34b6dd254371e855ceb75869734491b9294801a2cd970ce39339166cb",
-      "firstSeenAt": "2026-10-02T09:05:55.010Z",
-      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66581,7 +66581,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 6,
         "communityRank": 10,
         "contentScore": 10,
         "contentScoreBreakdown": {
@@ -66596,8 +66596,8 @@
       },
       "contentHash": "sha256:d878d6655621b2e2733532813f9627b1086f1766d56c7efa0ee5095cd9aa74f2",
       "dedupeKey": "brief:opp_9390963562822da6edd7:sha256:d878d6655621b2e2733532813f9627b1086f1766d56c7efa0ee5095cd9aa74f2",
-      "firstSeenAt": "2026-10-02T09:05:55.010Z",
-      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66630,8 +66630,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 13,
+        "communityPoints": 9,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -66645,8 +66645,8 @@
       },
       "contentHash": "sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d",
       "dedupeKey": "brief:opp_f7f4ededac3a5e7c9ff1:sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d",
-      "firstSeenAt": "2026-10-02T09:05:55.010Z",
-      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66853,11 +66853,11 @@
       },
       "contentHash": "sha256:ca4768a06e12add8d619d2d9594ad4d702b04d5e41f22bd8fa4431234a9efe0e",
       "dedupeKey": "brief:opp_38281277abda1e37f62a:sha256:ca4768a06e12add8d619d2d9594ad4d702b04d5e41f22bd8fa4431234a9efe0e",
-      "firstSeenAt": "2026-10-02T09:05:55.010Z",
-      "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -66909,6 +66909,263 @@
       "dedupeKey": "brief:opp_b44b8932bd26525575a6:sha256:468cc0c7bd46ecb57fb1b976e08918b71eec78d1306d3420bede3d1c094e199a",
       "firstSeenAt": "2026-10-02T09:05:55.010Z",
       "lastSeenAt": "2026-10-02T09:05:55.010Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_93d56c6a62b2e8af752f": {
+      "id": "opp_93d56c6a62b2e8af752f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34633",
+      "canonicalUrl": "https://blog.jim-nielsen.com/2026/dear-software-makers",
+      "title": "소프트웨어를 만드는 여러분께",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T05:41:34+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "YouTube가 같은 영상의 여러 버전을 비교하는 A/B 테스트 기능을 도입하려 하지만, 같은 링크를 공유해도 서로 다른 내용을 보게 되면 함께 같은 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34633"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d66a536626b09e34af74dc95d3e585385fc0f46679c7e29d051241f1b919bfc4",
+      "dedupeKey": "brief:opp_93d56c6a62b2e8af752f:sha256:d66a536626b09e34af74dc95d3e585385fc0f46679c7e29d051241f1b919bfc4",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e5ab58bcb350b554b920": {
+      "id": "opp_e5ab58bcb350b554b920",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99170",
+      "canonicalUrl": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8727ef70ef36d5b64a5e88dce8700e69276662bb528d914c916b22308d3757a7",
+      "dedupeKey": "brief:opp_e5ab58bcb350b554b920:sha256:8727ef70ef36d5b64a5e88dce8700e69276662bb528d914c916b22308d3757a7",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e34994db22618afe07d9": {
+      "id": "opp_e34994db22618afe07d9",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:XyVUHSzKM2E",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XyVUHSzKM2E",
+      "title": "[한영자막] 소프트웨어 엔지니어링은 이제 소프트웨어 공장을 짓는 일이 될 것입니다 — Zach Lloyd (Warp)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T13:00:49+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Google Docs 엔지니어링을 이끌었던 구글 수석 엔지니어 출신이자 현재 Warp 창업자인 Zach Lloyd가 들려주는 AI 시대 소프트웨어 개발의 미래입니다. 지난 6개월간 직접 코드를 한 줄도 작성하지 않았다는 그가 '소프트웨어 엔지니어링은 왜 공장 공학으로 진화하는가'에 대한 핵심 통찰을 공유합니다. 📌 주요 포인트: - 소프트웨어 공장(Software Factory): CI/CD처럼 모든 프로젝트의 핵심 인프라가 될 AI 에이전트 기반 자동화 시스템 - 오픈소스 전략의 대전환: 소프",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XyVUHSzKM2E"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T13:00:49.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c501d7498f1d7bd2b505f85a584aeb38b1b6e1659fee7569c63f9a793a6a65ab",
+      "dedupeKey": "brief:opp_e34994db22618afe07d9:sha256:c501d7498f1d7bd2b505f85a584aeb38b1b6e1659fee7569c63f9a793a6a65ab",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_11c1cdecaa9485fe3069": {
+      "id": "opp_11c1cdecaa9485fe3069",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:Rn4nmFRPe0s",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Rn4nmFRPe0s",
+      "title": "Claude Mods Is The Biggest Claude Code Upgrade Since Skills",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T10:43:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻Get 1:1 help: https://chaseai.io Claude mods are the biggest upgrade to claude code since skills. In this video I breakdown how they work and which you should",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Rn4nmFRPe0s"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T10:43:31.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ed71095dc952d2ed66b50505a8b59c888d92d8d4d0eea16c0b91ff9827a21ed9",
+      "dedupeKey": "brief:opp_11c1cdecaa9485fe3069:sha256:ed71095dc952d2ed66b50505a8b59c888d92d8d4d0eea16c0b91ff9827a21ed9",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2ccb77567dc8300636d8": {
+      "id": "opp_2ccb77567dc8300636d8",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:A7D28b2bxT8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=A7D28b2bxT8",
+      "title": "AI 시대, 전력도 데이터를 읽어야 한다 | ‘멈추지 않는 전력’을 완성하는 변압기·배전반 예지보전 기술",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T10:00:00+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 데이터센터가 커질수록 필요한 전력도 빠르게 늘어나고 있습니다. 하지만 전력을 얼마나 많이 확보하느냐만큼 중요한 것이 실제 시설 안에서 전기를 안정적으로 운영하는 일입니다. 이번 영상에서는 데이터센터 장애와 삼성전자 오스틴 Fab 정전 사례를 통해 전력 중단이 얼마나 큰 비용으로 이어질 수 있는지 살펴봅니다. 변압기와 배전반, 차단기가 시설 안에서 어떤 역할을 하는지도 쉽게 풀어봤습니다.전력 연결부의 미세한 발열이나 부분방전처럼 대형 사고 전에 나타나는 위험 신호들을 짚어봅니다. 정해진 주기에",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=A7D28b2bxT8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T10:00:00.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:13c9b27246db63aba18555722382754b1b918061da5be639eb4ed7021e9ed9c9",
+      "dedupeKey": "brief:opp_2ccb77567dc8300636d8:sha256:13c9b27246db63aba18555722382754b1b918061da5be639eb4ed7021e9ed9c9",
+      "firstSeenAt": "2026-10-02T15:21:32.214Z",
+      "lastSeenAt": "2026-10-02T15:21:32.214Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -74182,6 +74439,42 @@
       "opportunityId": "opp_7ad31e7eab5ea8de9561",
       "sentAt": "2026-10-02T09:05:55.010Z",
       "messageId": "1555506104727769183"
+    },
+    "brief:opp_e5ab58bcb350b554b920:sha256:8727ef70ef36d5b64a5e88dce8700e69276662bb528d914c916b22308d3757a7": {
+      "status": "SENT",
+      "opportunityId": "opp_e5ab58bcb350b554b920",
+      "sentAt": "2026-10-02T15:21:32.214Z",
+      "messageId": "1555600633380216926"
+    },
+    "brief:opp_e34994db22618afe07d9:sha256:c501d7498f1d7bd2b505f85a584aeb38b1b6e1659fee7569c63f9a793a6a65ab": {
+      "status": "SENT",
+      "opportunityId": "opp_e34994db22618afe07d9",
+      "sentAt": "2026-10-02T15:21:32.214Z",
+      "messageId": "1555600633380216926"
+    },
+    "brief:opp_11c1cdecaa9485fe3069:sha256:ed71095dc952d2ed66b50505a8b59c888d92d8d4d0eea16c0b91ff9827a21ed9": {
+      "status": "SENT",
+      "opportunityId": "opp_11c1cdecaa9485fe3069",
+      "sentAt": "2026-10-02T15:21:32.214Z",
+      "messageId": "1555600633380216926"
+    },
+    "brief:opp_2ccb77567dc8300636d8:sha256:13c9b27246db63aba18555722382754b1b918061da5be639eb4ed7021e9ed9c9": {
+      "status": "SENT",
+      "opportunityId": "opp_2ccb77567dc8300636d8",
+      "sentAt": "2026-10-02T15:21:32.214Z",
+      "messageId": "1555600633380216926"
+    },
+    "brief:opp_9365845f070bb32423ca:sha256:1d01f2f2f2cf54ef489c1eb4990f2a911dfd5d1685db7edb3c7bf1db2563d433": {
+      "status": "SENT",
+      "opportunityId": "opp_9365845f070bb32423ca",
+      "sentAt": "2026-10-02T15:21:32.214Z",
+      "messageId": "1555600633380216926"
+    },
+    "brief:opp_38281277abda1e37f62a:sha256:ca4768a06e12add8d619d2d9594ad4d702b04d5e41f22bd8fa4431234a9efe0e": {
+      "status": "SENT",
+      "opportunityId": "opp_38281277abda1e37f62a",
+      "sentAt": "2026-10-02T15:21:32.214Z",
+      "messageId": "1555600633380216926"
     }
   },
   "pending": {},
