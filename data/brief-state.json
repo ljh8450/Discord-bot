@@ -66101,11 +66101,11 @@
       },
       "contentHash": "sha256:2d5ab127a04a9b4364d1787f1c502baf06bdc4d67aa1c748bb17c5325dea2aea",
       "dedupeKey": "brief:opp_a9e8ed040b3f4ad6b97a:sha256:2d5ab127a04a9b4364d1787f1c502baf06bdc4d67aa1c748bb17c5325dea2aea",
-      "firstSeenAt": "2026-10-02T00:05:52.523Z",
-      "lastSeenAt": "2026-10-02T00:05:52.523Z",
+      "firstSeenAt": "2026-10-02T04:32:50.128Z",
+      "lastSeenAt": "2026-10-02T04:32:50.128Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -66156,6 +66156,154 @@
       "dedupeKey": "brief:opp_ca8dc406297ea0452a97:sha256:ca3915e9b277b7679202a999acb6ddea775d4a1001a78465567cc536a94cd8f7",
       "firstSeenAt": "2026-10-02T00:05:52.523Z",
       "lastSeenAt": "2026-10-02T00:05:52.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_11113bbe4ca95bf27ff0": {
+      "id": "opp_11113bbe4ca95bf27ff0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34641",
+      "canonicalUrl": "https://earendil.com/posts/pi-durable",
+      "title": "Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T07:35:45+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "장시간 실행되는 AI 에이전트 애플리케이션을 만들기 위한 실험적 하네스로, 터미널 코딩 에이전트 Pi 1.0과 별도로 공개 작업 상태를 저장해 프로...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34641"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0a19cb052368abdc810ae3cb5dd8d9fede024815a911e3947bb1316ffe1490b9",
+      "dedupeKey": "brief:opp_11113bbe4ca95bf27ff0:sha256:0a19cb052368abdc810ae3cb5dd8d9fede024815a911e3947bb1316ffe1490b9",
+      "firstSeenAt": "2026-10-02T04:32:50.128Z",
+      "lastSeenAt": "2026-10-02T04:32:50.128Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_44c102fc141ac417b15f": {
+      "id": "opp_44c102fc141ac417b15f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34622",
+      "canonicalUrl": "https://turbopuffer.com/blog/rip-vector-database",
+      "title": "벡터 데이터베이스여, 안녕",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T03:52:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "turbopuffer가 벡터 검색 전용 DB에서 다양한 검색과 집계를 처리하는 엔진으로 확장하기 위해, v3에서 데이터 저장 구조를 개편 중임 기존에는 벡...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34622"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:cffe9e0577ed234ee9c33f05abb598854de51ecf9dfbb2655dad1e708dead8cf",
+      "dedupeKey": "brief:opp_44c102fc141ac417b15f:sha256:cffe9e0577ed234ee9c33f05abb598854de51ecf9dfbb2655dad1e708dead8cf",
+      "firstSeenAt": "2026-10-02T04:32:50.128Z",
+      "lastSeenAt": "2026-10-02T04:32:50.128Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_44060e4e2de7f8e2991a": {
+      "id": "opp_44060e4e2de7f8e2991a",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
+      "title": "LLM이 만든 SQL을 믿고 실행하기까지: A2A 기반의 대화형 BI 애플리케이션 개발기",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 02 Oct 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며안녕하세요. Game Platform실의 이형중, 김민희, 정소영입니다. 저희 조직은 게임 퍼블리싱에 필요한 다양한 기능을 개발하고 운영하는 역할을 맡고 있습니다.저희는 ‘...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:efb64cfed2fb2627c066d77c285787464fa0e46d9148108976e3da5a4c8ed4a9",
+      "dedupeKey": "brief:opp_44060e4e2de7f8e2991a:sha256:efb64cfed2fb2627c066d77c285787464fa0e46d9148108976e3da5a4c8ed4a9",
+      "firstSeenAt": "2026-10-02T04:32:50.128Z",
+      "lastSeenAt": "2026-10-02T04:32:50.128Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -73369,6 +73517,30 @@
       "opportunityId": "opp_689132b335aa0bfd61bf",
       "sentAt": "2026-10-02T00:05:52.523Z",
       "messageId": "1555370201934073867"
+    },
+    "brief:opp_44060e4e2de7f8e2991a:sha256:efb64cfed2fb2627c066d77c285787464fa0e46d9148108976e3da5a4c8ed4a9": {
+      "status": "SENT",
+      "opportunityId": "opp_44060e4e2de7f8e2991a",
+      "sentAt": "2026-10-02T04:32:50.128Z",
+      "messageId": "1555437381455315006"
+    },
+    "brief:opp_a9e8ed040b3f4ad6b97a:sha256:2d5ab127a04a9b4364d1787f1c502baf06bdc4d67aa1c748bb17c5325dea2aea": {
+      "status": "SENT",
+      "opportunityId": "opp_a9e8ed040b3f4ad6b97a",
+      "sentAt": "2026-10-02T04:32:50.128Z",
+      "messageId": "1555437381455315006"
+    },
+    "brief:opp_11113bbe4ca95bf27ff0:sha256:0a19cb052368abdc810ae3cb5dd8d9fede024815a911e3947bb1316ffe1490b9": {
+      "status": "SENT",
+      "opportunityId": "opp_11113bbe4ca95bf27ff0",
+      "sentAt": "2026-10-02T04:32:50.128Z",
+      "messageId": "1555437381455315006"
+    },
+    "brief:opp_44c102fc141ac417b15f:sha256:cffe9e0577ed234ee9c33f05abb598854de51ecf9dfbb2655dad1e708dead8cf": {
+      "status": "SENT",
+      "opportunityId": "opp_44c102fc141ac417b15f",
+      "sentAt": "2026-10-02T04:32:50.128Z",
+      "messageId": "1555437381455315006"
     }
   },
   "pending": {},
