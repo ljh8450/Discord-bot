@@ -65244,11 +65244,11 @@
       },
       "contentHash": "sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa",
       "dedupeKey": "brief:opp_9f6d2febcc8adaea1f7e:sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa",
-      "firstSeenAt": "2026-10-01T15:58:58.047Z",
-      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -65278,26 +65278,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 4,
+        "communityPoints": 10,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac",
       "dedupeKey": "brief:opp_689132b335aa0bfd61bf:sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac",
-      "firstSeenAt": "2026-10-01T15:58:58.047Z",
-      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -65328,13 +65328,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 12,
-        "contentScore": 11,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -65342,8 +65342,8 @@
       },
       "contentHash": "sha256:e7f48f6a6814d9309d60d402683425ffae8dcf4702405634c1637511a712f8f0",
       "dedupeKey": "brief:opp_feb8042d18bedcd036a9:sha256:e7f48f6a6814d9309d60d402683425ffae8dcf4702405634c1637511a712f8f0",
-      "firstSeenAt": "2026-10-01T15:58:58.047Z",
-      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65599,11 +65599,11 @@
       },
       "contentHash": "sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d",
       "dedupeKey": "brief:opp_96761ef27a11e01206ed:sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d",
-      "firstSeenAt": "2026-10-01T15:58:58.047Z",
-      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -65687,7 +65687,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 11,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -65701,8 +65701,8 @@
       },
       "contentHash": "sha256:5bd73f5833ff6368543542ec87302f8cc0f7d43f023ce067710db5becbaa123a",
       "dedupeKey": "brief:opp_81d6a1c3165f0c3875d5:sha256:5bd73f5833ff6368543542ec87302f8cc0f7d43f023ce067710db5becbaa123a",
-      "firstSeenAt": "2026-10-01T15:58:58.047Z",
-      "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -65959,6 +65959,203 @@
       "dedupeKey": "brief:opp_e8d402041de169f73207:sha256:6d9e81c15849bbf2c87e469bda924585428d9d06492e910bae866555ad6ecf76",
       "firstSeenAt": "2026-10-01T15:58:58.047Z",
       "lastSeenAt": "2026-10-01T15:58:58.047Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f4f21d356f18444cf06d": {
+      "id": "opp_f4f21d356f18444cf06d",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/the-eternal-complement",
+      "canonicalUrl": "https://openai.com/index/the-eternal-complement",
+      "title": "The eternal complement",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "summaryEvidence": [
+        "https://openai.com/index/the-eternal-complement"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:800224e9f16a1dbc2c5202402498796a6e58286a2176256d3043a70f6500c0e1",
+      "dedupeKey": "brief:opp_f4f21d356f18444cf06d:sha256:800224e9f16a1dbc2c5202402498796a6e58286a2176256d3043a70f6500c0e1",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_23ad10af2bbdab4950e9": {
+      "id": "opp_23ad10af2bbdab4950e9",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/albertsons-reimagining-retail",
+      "canonicalUrl": "https://openai.com/index/albertsons-reimagining-retail",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "summaryEvidence": [
+        "https://openai.com/index/albertsons-reimagining-retail"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1c0e90242888414906df2cfee3d56d34654e72a2ac2ab4122e94579229ee1500",
+      "dedupeKey": "brief:opp_23ad10af2bbdab4950e9:sha256:1c0e90242888414906df2cfee3d56d34654e72a2ac2ab4122e94579229ee1500",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a9e8ed040b3f4ad6b97a": {
+      "id": "opp_a9e8ed040b3f4ad6b97a",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/the-den-family-social",
+      "canonicalUrl": "https://openai.com/index/the-den-family-social",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "summaryEvidence": [
+        "https://openai.com/index/the-den-family-social"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2d5ab127a04a9b4364d1787f1c502baf06bdc4d67aa1c748bb17c5325dea2aea",
+      "dedupeKey": "brief:opp_a9e8ed040b3f4ad6b97a:sha256:2d5ab127a04a9b4364d1787f1c502baf06bdc4d67aa1c748bb17c5325dea2aea",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ca8dc406297ea0452a97": {
+      "id": "opp_ca8dc406297ea0452a97",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:T3SWxxQFr4o",
+      "canonicalUrl": "https://www.youtube.com/watch?v=T3SWxxQFr4o",
+      "title": "[한영자막] AI 시대, 스펙 기반 개발(SDD)을 실무에 적용하며 배운 교훈들",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-01T22:00:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 코드를 짜주는 시대, 왜 수많은 프로젝트가 유지보수 불능 상태에 빠질까요? 17년 차 엔터프라이즈 컨설턴트 Simon Martinelli가 AI 코딩 시대의 핵심 전략인 '스펙 기반 개발(Spec-driven Development)'과 'AI 통합 프로세스' 실전 노하우를 공유합니다. 📌 주요 내용: • 왜 무작정 코딩 대신 'SysML 유스케이스'와 '엔티티 모델'부터 정의해야 하는가? • 500개 마이크로서비스의 함정과 AI 협업에 최적화된 '자체 포함 시스템(SCS)' 아키텍처 •",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=T3SWxxQFr4o"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-01T22:00:04.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ca3915e9b277b7679202a999acb6ddea775d4a1001a78465567cc536a94cd8f7",
+      "dedupeKey": "brief:opp_ca8dc406297ea0452a97:sha256:ca3915e9b277b7679202a999acb6ddea775d4a1001a78465567cc536a94cd8f7",
+      "firstSeenAt": "2026-10-02T00:05:52.523Z",
+      "lastSeenAt": "2026-10-02T00:05:52.523Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -73136,6 +73333,42 @@
       "opportunityId": "opp_fd2b3615a1e7495a567d",
       "sentAt": "2026-10-01T15:58:58.047Z",
       "messageId": "1555247664227033260"
+    },
+    "brief:opp_23ad10af2bbdab4950e9:sha256:1c0e90242888414906df2cfee3d56d34654e72a2ac2ab4122e94579229ee1500": {
+      "status": "SENT",
+      "opportunityId": "opp_23ad10af2bbdab4950e9",
+      "sentAt": "2026-10-02T00:05:52.523Z",
+      "messageId": "1555370201934073867"
+    },
+    "brief:opp_f4f21d356f18444cf06d:sha256:800224e9f16a1dbc2c5202402498796a6e58286a2176256d3043a70f6500c0e1": {
+      "status": "SENT",
+      "opportunityId": "opp_f4f21d356f18444cf06d",
+      "sentAt": "2026-10-02T00:05:52.523Z",
+      "messageId": "1555370201934073867"
+    },
+    "brief:opp_ca8dc406297ea0452a97:sha256:ca3915e9b277b7679202a999acb6ddea775d4a1001a78465567cc536a94cd8f7": {
+      "status": "SENT",
+      "opportunityId": "opp_ca8dc406297ea0452a97",
+      "sentAt": "2026-10-02T00:05:52.523Z",
+      "messageId": "1555370201934073867"
+    },
+    "brief:opp_96761ef27a11e01206ed:sha256:1df886c7a700cd9477943b105c4f597b909be53bfbcda6f33e7e0f56ce5a7c7d": {
+      "status": "SENT",
+      "opportunityId": "opp_96761ef27a11e01206ed",
+      "sentAt": "2026-10-02T00:05:52.523Z",
+      "messageId": "1555370201934073867"
+    },
+    "brief:opp_9f6d2febcc8adaea1f7e:sha256:86b2cf81dc5e45362116a168c3fea0d762dea96508cf6a7f6ae7a59f855caafa": {
+      "status": "SENT",
+      "opportunityId": "opp_9f6d2febcc8adaea1f7e",
+      "sentAt": "2026-10-02T00:05:52.523Z",
+      "messageId": "1555370201934073867"
+    },
+    "brief:opp_689132b335aa0bfd61bf:sha256:3f06c680d6afd1944f50ce915d120049652bcb600cc3810ff91ff49176dfa4ac": {
+      "status": "SENT",
+      "opportunityId": "opp_689132b335aa0bfd61bf",
+      "sentAt": "2026-10-02T00:05:52.523Z",
+      "messageId": "1555370201934073867"
     }
   },
   "pending": {},
