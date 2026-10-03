@@ -66434,8 +66434,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 9,
+        "communityPoints": 9,
+        "communityRank": 19,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -66449,8 +66449,8 @@
       },
       "contentHash": "sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
       "dedupeKey": "brief:opp_e681a48f719ab3a3caaf:sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
-      "firstSeenAt": "2026-10-03T00:05:51.518Z",
-      "lastSeenAt": "2026-10-03T00:05:51.518Z",
+      "firstSeenAt": "2026-10-03T09:05:22.710Z",
+      "lastSeenAt": "2026-10-03T09:05:22.710Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -67397,7 +67397,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 1,
+        "communityRank": 2,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -67411,8 +67411,8 @@
       },
       "contentHash": "sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319",
       "dedupeKey": "brief:opp_a9dc3ed801bffc713bcb:sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319",
-      "firstSeenAt": "2026-10-03T04:15:35.075Z",
-      "lastSeenAt": "2026-10-03T04:15:35.075Z",
+      "firstSeenAt": "2026-10-03T09:05:22.710Z",
+      "lastSeenAt": "2026-10-03T09:05:22.710Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -67511,6 +67511,210 @@
       "dedupeKey": "brief:opp_00fcc4c701738d0358db:sha256:c59bc93e3ab5518dd3c2c00a6d6ed5406a4d4e96cda88ceaba934e69a66a6477",
       "firstSeenAt": "2026-10-03T04:15:35.075Z",
       "lastSeenAt": "2026-10-03T04:15:35.075Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09e3b0260aeff3939aef": {
+      "id": "opp_09e3b0260aeff3939aef",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34683",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T06:33:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함. 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34683"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3997be42ed40d007fa398ecbcfc2ec2218b110a5e7ab832a2096de1816c8ef05",
+      "dedupeKey": "brief:opp_09e3b0260aeff3939aef:sha256:3997be42ed40d007fa398ecbcfc2ec2218b110a5e7ab832a2096de1816c8ef05",
+      "firstSeenAt": "2026-10-03T09:05:22.710Z",
+      "lastSeenAt": "2026-10-03T09:05:22.710Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7a65e0eaea0bc8618380": {
+      "id": "opp_7a65e0eaea0bc8618380",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34679",
+      "canonicalUrl": "https://stillwet.art/",
+      "title": "Opus 5.5에게 가상 캔버스를 주고 그림을 그리게 해봤다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T04:45:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "stillwet은 Opus 5.5 등 AI 모델이 붓질을 코드로 작성해 유화를 그리는 실험으로, 이미지 생성 모델은 사용하지 않음 가상 작업실은 붓, 젖은 물...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34679"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:625a16e1ede7c757a5a183fecf969a010c44e61d8f415b8b08f21d4a96a36371",
+      "dedupeKey": "brief:opp_7a65e0eaea0bc8618380:sha256:625a16e1ede7c757a5a183fecf969a010c44e61d8f415b8b08f21d4a96a36371",
+      "firstSeenAt": "2026-10-03T09:05:22.710Z",
+      "lastSeenAt": "2026-10-03T09:05:22.710Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4f6c4be4313c11b3db04": {
+      "id": "opp_4f6c4be4313c11b3db04",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:OLYuAekOBeA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=OLYuAekOBeA",
+      "title": "Lauren Tan(SpaceX - Cursor & Grok Bot 개발자)의 AI 에이전트 개발 워크플로우",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T09:00:04+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Lauren Tan이 설명하는 AI 에이전트 개발 환경: 실제 앱 검증, 반복 절차의 코드화, 코드 구조와 린트 규칙, 버그 제보 재현과 환경 교정. 2,500 PR은 Lauren 본인의 공개 실적이며 새 기능 2,500개를 의미하지 않습니다. 원본 대담: https://www.youtube.com/watch?v=MN9dGgmLyso Lauren의 강의: https://youtu.be/zkmvCDSxqdc?si=ju_HDmT2MIPfl57E pstack 공식 저장소: https://github.c",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=OLYuAekOBeA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-03T09:00:04.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8bf8eef14201a77052fc8ec5a9b40b6fea8e689cad01e1f9c0aa0bc5fd858714",
+      "dedupeKey": "brief:opp_4f6c4be4313c11b3db04:sha256:8bf8eef14201a77052fc8ec5a9b40b6fea8e689cad01e1f9c0aa0bc5fd858714",
+      "firstSeenAt": "2026-10-03T09:05:22.710Z",
+      "lastSeenAt": "2026-10-03T09:05:22.710Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f188853ebb17e5a1710d": {
+      "id": "opp_f188853ebb17e5a1710d",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:XJEvxC6doTM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XJEvxC6doTM",
+      "title": "새 기술을 알아보는 0.9%의 조건 — 시골의사 박경철이 2008년 강연에서 말한 1993년 WWW와 휴대폰 이야기",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T05:52:07+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "1993년, 서울의 한 경제연구소 강당. 박사급 연구원들이 \"미친 소리\"라며 하나둘 걸어 나간 강연이 있었습니다. 그 자리에서 강연자를 붙잡은 사람은 백수 한 명뿐이었죠. 시골의사 박경철이 2008년 아주대 '아주강좌'에서 들려준 「W를 찾아서」를 강연 클립과 함께 다시 봅니다. 기술이 빠르게 바뀌는 지금, 예전 사람들은 새 기술을 어떻게 받아들였는지 찾아보다 만난 강연입니다. 타임라인 0:00 1993년, 박사들이 걸어 나간 강연 1:34 수술 세미나라는 거짓말 4:57 백수 친구와 1993년의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XJEvxC6doTM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-03T05:52:07.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:46981babb7d48c8d3f423369f9d4e5e7e7fec10a7b0440a9d168e1866b44e19c",
+      "dedupeKey": "brief:opp_f188853ebb17e5a1710d:sha256:46981babb7d48c8d3f423369f9d4e5e7e7fec10a7b0440a9d168e1866b44e19c",
+      "firstSeenAt": "2026-10-03T09:05:22.710Z",
+      "lastSeenAt": "2026-10-03T09:05:22.710Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -74868,6 +75072,30 @@
       "opportunityId": "opp_2800a16de612b3e942e7",
       "sentAt": "2026-10-03T04:15:35.075Z",
       "messageId": "1555795428199637013"
+    },
+    "brief:opp_f188853ebb17e5a1710d:sha256:46981babb7d48c8d3f423369f9d4e5e7e7fec10a7b0440a9d168e1866b44e19c": {
+      "status": "SENT",
+      "opportunityId": "opp_f188853ebb17e5a1710d",
+      "sentAt": "2026-10-03T09:05:22.710Z",
+      "messageId": "1555868357616607295"
+    },
+    "brief:opp_09e3b0260aeff3939aef:sha256:3997be42ed40d007fa398ecbcfc2ec2218b110a5e7ab832a2096de1816c8ef05": {
+      "status": "SENT",
+      "opportunityId": "opp_09e3b0260aeff3939aef",
+      "sentAt": "2026-10-03T09:05:22.710Z",
+      "messageId": "1555868357616607295"
+    },
+    "brief:opp_4f6c4be4313c11b3db04:sha256:8bf8eef14201a77052fc8ec5a9b40b6fea8e689cad01e1f9c0aa0bc5fd858714": {
+      "status": "SENT",
+      "opportunityId": "opp_4f6c4be4313c11b3db04",
+      "sentAt": "2026-10-03T09:05:22.710Z",
+      "messageId": "1555868357616607295"
+    },
+    "brief:opp_7a65e0eaea0bc8618380:sha256:625a16e1ede7c757a5a183fecf969a010c44e61d8f415b8b08f21d4a96a36371": {
+      "status": "SENT",
+      "opportunityId": "opp_7a65e0eaea0bc8618380",
+      "sentAt": "2026-10-03T09:05:22.710Z",
+      "messageId": "1555868357616607295"
     }
   },
   "pending": {},
