@@ -67369,6 +67369,153 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a9dc3ed801bffc713bcb": {
+      "id": "opp_a9dc3ed801bffc713bcb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34647",
+      "canonicalUrl": "https://molily.de/web-dev-education",
+      "title": "웹 개발 교육의 죽음",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T09:38:54+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "생성형 AI로 학습 수요가 이동하면서 웹 개발 강좌, 전자책, 튜토리얼로 생계를 이어온 독립 교육자들이 매출 급감과 사업 중단을 겪고 있음 교육 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34647"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319",
+      "dedupeKey": "brief:opp_a9dc3ed801bffc713bcb:sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319",
+      "firstSeenAt": "2026-10-03T04:15:35.075Z",
+      "lastSeenAt": "2026-10-03T04:15:35.075Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2800a16de612b3e942e7": {
+      "id": "opp_2800a16de612b3e942e7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34694",
+      "canonicalUrl": "https://github.com/picomq/picomq",
+      "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 순서대로 저장하고 실시간으로 전달하는 스트림 서버 읽던 위치부터 이어받거나 과거 기록을 다...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34694"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:87bd8c67cb4f6e0cba2ddeec9b607e72db8fbe350e204a2c6411fc95e2e38e61",
+      "dedupeKey": "brief:opp_2800a16de612b3e942e7:sha256:87bd8c67cb4f6e0cba2ddeec9b607e72db8fbe350e204a2c6411fc95e2e38e61",
+      "firstSeenAt": "2026-10-03T04:15:35.075Z",
+      "lastSeenAt": "2026-10-03T04:15:35.075Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_00fcc4c701738d0358db": {
+      "id": "opp_00fcc4c701738d0358db",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34653",
+      "canonicalUrl": "https://arxiv.org/abs/2609.37725",
+      "title": "컨텍스트 언어 모델 - 자신의 컨텍스트를 직접 편집하는 AI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T13:35:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "컨텍스트 언어 모델(CLM) 은 대화 기록과 도구 실행 결과 등 모델이 현재 읽는 내용을 파일로 만들고, 모델이 직접 편집하며 관리하는 방식임 정해...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34653"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c59bc93e3ab5518dd3c2c00a6d6ed5406a4d4e96cda88ceaba934e69a66a6477",
+      "dedupeKey": "brief:opp_00fcc4c701738d0358db:sha256:c59bc93e3ab5518dd3c2c00a6d6ed5406a4d4e96cda88ceaba934e69a66a6477",
+      "firstSeenAt": "2026-10-03T04:15:35.075Z",
+      "lastSeenAt": "2026-10-03T04:15:35.075Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -74709,6 +74856,18 @@
       "opportunityId": "opp_93d56c6a62b2e8af752f",
       "sentAt": "2026-10-03T00:05:51.518Z",
       "messageId": "1555732583495631052"
+    },
+    "brief:opp_00fcc4c701738d0358db:sha256:c59bc93e3ab5518dd3c2c00a6d6ed5406a4d4e96cda88ceaba934e69a66a6477": {
+      "status": "SENT",
+      "opportunityId": "opp_00fcc4c701738d0358db",
+      "sentAt": "2026-10-03T04:15:35.075Z",
+      "messageId": "1555795428199637013"
+    },
+    "brief:opp_2800a16de612b3e942e7:sha256:87bd8c67cb4f6e0cba2ddeec9b607e72db8fbe350e204a2c6411fc95e2e38e61": {
+      "status": "SENT",
+      "opportunityId": "opp_2800a16de612b3e942e7",
+      "sentAt": "2026-10-03T04:15:35.075Z",
+      "messageId": "1555795428199637013"
     }
   },
   "pending": {},
