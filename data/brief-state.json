@@ -66435,7 +66435,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 8,
+        "communityRank": 9,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -66449,8 +66449,8 @@
       },
       "contentHash": "sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
       "dedupeKey": "brief:opp_e681a48f719ab3a3caaf:sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
-      "firstSeenAt": "2026-10-02T15:21:32.214Z",
-      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66533,13 +66533,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityRank": 13,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -66547,8 +66547,8 @@
       },
       "contentHash": "sha256:120313c34b6dd254371e855ceb75869734491b9294801a2cd970ce39339166cb",
       "dedupeKey": "brief:opp_2e7d17f5dc5f2b15a024:sha256:120313c34b6dd254371e855ceb75869734491b9294801a2cd970ce39339166cb",
-      "firstSeenAt": "2026-10-02T15:21:32.214Z",
-      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66582,7 +66582,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 10,
+        "communityRank": 15,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -66596,8 +66596,8 @@
       },
       "contentHash": "sha256:d878d6655621b2e2733532813f9627b1086f1766d56c7efa0ee5095cd9aa74f2",
       "dedupeKey": "brief:opp_9390963562822da6edd7:sha256:d878d6655621b2e2733532813f9627b1086f1766d56c7efa0ee5095cd9aa74f2",
-      "firstSeenAt": "2026-10-02T15:21:32.214Z",
-      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -66630,26 +66630,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
+        "communityPoints": 10,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d",
       "dedupeKey": "brief:opp_f7f4ededac3a5e7c9ff1:sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d",
-      "firstSeenAt": "2026-10-02T15:21:32.214Z",
-      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -66941,14 +66941,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 8,
         "communityRank": 6,
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -66956,11 +66956,11 @@
       },
       "contentHash": "sha256:d66a536626b09e34af74dc95d3e585385fc0f46679c7e29d051241f1b919bfc4",
       "dedupeKey": "brief:opp_93d56c6a62b2e8af752f:sha256:d66a536626b09e34af74dc95d3e585385fc0f46679c7e29d051241f1b919bfc4",
-      "firstSeenAt": "2026-10-02T15:21:32.214Z",
-      "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -67166,6 +67166,204 @@
       "dedupeKey": "brief:opp_2ccb77567dc8300636d8:sha256:13c9b27246db63aba18555722382754b1b918061da5be639eb4ed7021e9ed9c9",
       "firstSeenAt": "2026-10-02T15:21:32.214Z",
       "lastSeenAt": "2026-10-02T15:21:32.214Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_93be70ce76e396a581d4": {
+      "id": "opp_93be70ce76e396a581d4",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/practical-guide-building-gpt-6",
+      "canonicalUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "summaryEvidence": [
+        "https://openai.com/index/practical-guide-building-gpt-6"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:82aa23c45d7fdfa827d1d719c9e194f77202b15dc79a4c5bf8370b5b7ecefe2d",
+      "dedupeKey": "brief:opp_93be70ce76e396a581d4:sha256:82aa23c45d7fdfa827d1d719c9e194f77202b15dc79a4c5bf8370b5b7ecefe2d",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0f26c0fae932dccc470e": {
+      "id": "opp_0f26c0fae932dccc470e",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/chatham-financial",
+      "canonicalUrl": "https://openai.com/index/chatham-financial",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "summaryEvidence": [
+        "https://openai.com/index/chatham-financial"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:97e1bb341ff22df0ebd83e06f77e25c439bd2ee66cc09e559f0ba686cad65cba",
+      "dedupeKey": "brief:opp_0f26c0fae932dccc470e:sha256:97e1bb341ff22df0ebd83e06f77e25c439bd2ee66cc09e559f0ba686cad65cba",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_317986e68a24d8577ca6": {
+      "id": "opp_317986e68a24d8577ca6",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/claude-frontier-academy",
+      "canonicalUrl": "https://www.anthropic.com/news/claude-frontier-academy",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/claude-frontier-academy"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:497c05b2c9c0cc633257375d1239c3df69996d38fe00b7c94be98cee9b8a833c",
+      "dedupeKey": "brief:opp_317986e68a24d8577ca6:sha256:497c05b2c9c0cc633257375d1239c3df69996d38fe00b7c94be98cee9b8a833c",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_debf4b05037541a902ed": {
+      "id": "opp_debf4b05037541a902ed",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:-TeOEuplMrQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-TeOEuplMrQ",
+      "title": "[한영자막] 코드 리뷰의 종말: 데이터가 보여주는 진짜 현실입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-02T22:00:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 에이전트 도입 이후 쏟아지는 방대한 코드 속에서, 전통적인 인간의 코드 리뷰 방식이 왜 한계에 봉착했는지 실제 산업 데이터로 분석합니다. npm 공동 창업자이자 Arize AI의 DevRel 총괄 로리 보스(Laurie Voss)가 코드 리뷰의 현재와 미래, 그리고 개발팀이 구축해야 할 실질적인 검증 시스템을 제시합니다. 주요 내용: • 에이전트 도입 후 작성 코드는 741% 증가했으나 실제 소프트웨어 출시는 30% 증가에 그친 원인 • 인간의 집중 한계(400줄)를 무너뜨리는 1만 줄",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-TeOEuplMrQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-02T22:00:14.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:109b398990312dbbbc7e60ca255d7eca711bc8e377ad675348bd14f1bd5036c8",
+      "dedupeKey": "brief:opp_debf4b05037541a902ed:sha256:109b398990312dbbbc7e60ca255d7eca711bc8e377ad675348bd14f1bd5036c8",
+      "firstSeenAt": "2026-10-03T00:05:51.518Z",
+      "lastSeenAt": "2026-10-03T00:05:51.518Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -74475,6 +74673,42 @@
       "opportunityId": "opp_38281277abda1e37f62a",
       "sentAt": "2026-10-02T15:21:32.214Z",
       "messageId": "1555600633380216926"
+    },
+    "brief:opp_93be70ce76e396a581d4:sha256:82aa23c45d7fdfa827d1d719c9e194f77202b15dc79a4c5bf8370b5b7ecefe2d": {
+      "status": "SENT",
+      "opportunityId": "opp_93be70ce76e396a581d4",
+      "sentAt": "2026-10-03T00:05:51.518Z",
+      "messageId": "1555732583495631052"
+    },
+    "brief:opp_0f26c0fae932dccc470e:sha256:97e1bb341ff22df0ebd83e06f77e25c439bd2ee66cc09e559f0ba686cad65cba": {
+      "status": "SENT",
+      "opportunityId": "opp_0f26c0fae932dccc470e",
+      "sentAt": "2026-10-03T00:05:51.518Z",
+      "messageId": "1555732583495631052"
+    },
+    "brief:opp_317986e68a24d8577ca6:sha256:497c05b2c9c0cc633257375d1239c3df69996d38fe00b7c94be98cee9b8a833c": {
+      "status": "SENT",
+      "opportunityId": "opp_317986e68a24d8577ca6",
+      "sentAt": "2026-10-03T00:05:51.518Z",
+      "messageId": "1555732583495631052"
+    },
+    "brief:opp_debf4b05037541a902ed:sha256:109b398990312dbbbc7e60ca255d7eca711bc8e377ad675348bd14f1bd5036c8": {
+      "status": "SENT",
+      "opportunityId": "opp_debf4b05037541a902ed",
+      "sentAt": "2026-10-03T00:05:51.518Z",
+      "messageId": "1555732583495631052"
+    },
+    "brief:opp_f7f4ededac3a5e7c9ff1:sha256:654ae6ae1c3309001602f0ea9f0a5c0d91827f08237b9270db1675e84127173d": {
+      "status": "SENT",
+      "opportunityId": "opp_f7f4ededac3a5e7c9ff1",
+      "sentAt": "2026-10-03T00:05:51.518Z",
+      "messageId": "1555732583495631052"
+    },
+    "brief:opp_93d56c6a62b2e8af752f:sha256:d66a536626b09e34af74dc95d3e585385fc0f46679c7e29d051241f1b919bfc4": {
+      "status": "SENT",
+      "opportunityId": "opp_93d56c6a62b2e8af752f",
+      "sentAt": "2026-10-03T00:05:51.518Z",
+      "messageId": "1555732583495631052"
     }
   },
   "pending": {},
