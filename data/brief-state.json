@@ -67397,7 +67397,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 2,
+        "communityRank": 5,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -67411,11 +67411,11 @@
       },
       "contentHash": "sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319",
       "dedupeKey": "brief:opp_a9dc3ed801bffc713bcb:sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319",
-      "firstSeenAt": "2026-10-03T09:05:22.710Z",
-      "lastSeenAt": "2026-10-03T09:05:22.710Z",
+      "firstSeenAt": "2026-10-03T14:07:45.779Z",
+      "lastSeenAt": "2026-10-03T14:07:45.779Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75096,6 +75096,12 @@
       "opportunityId": "opp_7a65e0eaea0bc8618380",
       "sentAt": "2026-10-03T09:05:22.710Z",
       "messageId": "1555868357616607295"
+    },
+    "brief:opp_a9dc3ed801bffc713bcb:sha256:aff21c547783e747b14a10a518e93720ebc98e296d551c72617e90d331387319": {
+      "status": "SENT",
+      "opportunityId": "opp_a9dc3ed801bffc713bcb",
+      "sentAt": "2026-10-03T14:07:45.779Z",
+      "messageId": "1555944455755010129"
     }
   },
   "pending": {},
