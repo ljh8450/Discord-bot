@@ -67871,6 +67871,165 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_ca15354169aa0529664f": {
+      "id": "opp_ca15354169aa0529664f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ffzZCOWth68",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ffzZCOWth68",
+      "title": "AI로 무엇이든 효과적으로 학습하는 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T06:55:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 설명을 읽을 땐 알겠는데, 혼자 해 보면 다시 막히나요? 설명을 이해하는 데서 그치지 않고 직접 떠올리고, 풀고, 설명하는 연습으로 이어가는 방법을 살펴봐요. 목표를 잡아 주는 인터뷰어부터 학습 지도, 질문, 시험, 오류 검토, 실전 연습까지. 공부할 때 AI에게 어떤 역할을 맡기고, 무엇을 직접 해야 하는지 구체적인 예시로 알아봐요. 00:00 AI 설명을 이해하는 것과 내 실력의 차이 00:51 기억에 남는 공부는 무엇이 다를까요? 02:19 AI에게 맡길 수 있는 10가지 역할 03:2",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ffzZCOWth68"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-04T06:55:13.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c3b94cc8baa186b361850eb07b61e8ea5b0470233b4c453fee2011fe89e74b6",
+      "dedupeKey": "brief:opp_ca15354169aa0529664f:sha256:7c3b94cc8baa186b361850eb07b61e8ea5b0470233b4c453fee2011fe89e74b6",
+      "firstSeenAt": "2026-10-04T09:05:30.054Z",
+      "lastSeenAt": "2026-10-04T09:05:30.054Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5fdb0927c53a4738eda6": {
+      "id": "opp_5fdb0927c53a4738eda6",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:yBd2IW12zYc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yBd2IW12zYc",
+      "title": "IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T09:00:20+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=yBd2IW12zYc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-04T09:00:20.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:654208f94c3cb31b0ec66d3b42e81dbd593f204104e97cd8dadf4cba42f158c1",
+      "dedupeKey": "brief:opp_5fdb0927c53a4738eda6:sha256:654208f94c3cb31b0ec66d3b42e81dbd593f204104e97cd8dadf4cba42f158c1",
+      "firstSeenAt": "2026-10-04T09:05:30.054Z",
+      "lastSeenAt": "2026-10-04T09:05:30.054Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a66efa112bc6091c9b59": {
+      "id": "opp_a66efa112bc6091c9b59",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:wi3tZ-c48YU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wi3tZ-c48YU",
+      "title": "에이전트 PR을 사람이 전부 리뷰하지 않아도 되는 기준 — 맷 포콕의 자동 체크·자동 리뷰·사람 리뷰 3겹",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T02:38:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "타임라인 0:00 인트로 — 에이전트 PR이 쌓이면 리뷰가 막힌다 1:10 슬롭 캐논과 브레이크 3겹 3:18 첫 번째 겹, 자동 체크는 싸지만 거짓말을 한다 4:41 에이전트가 쓴 테스트의 거짓말 세 가지 8:13 딥 모듈 — 속이기 어려운 코드베이스 설계 11:43 코딩 표준은 리뷰 에이전트에게 15:19 리뷰어는 코멘트 대신 커밋한다 17:35 한쪽 문, 양쪽 문 — PR 스킬 20:23 PR이 무엇을 하는지 보여 주기 21:42 같은 지적을 두 번 하지 않기 — retro 스킬 24:41",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=wi3tZ-c48YU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-04T02:38:39.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:15714d66a3965878fc913aa7ad87561ac51d4edae6c86b9733e1c8d9cbf14db5",
+      "dedupeKey": "brief:opp_a66efa112bc6091c9b59:sha256:15714d66a3965878fc913aa7ad87561ac51d4edae6c86b9733e1c8d9cbf14db5",
+      "firstSeenAt": "2026-10-04T09:05:30.054Z",
+      "lastSeenAt": "2026-10-04T09:05:30.054Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75277,6 +75436,24 @@
       "opportunityId": "opp_d33d66a1a5e9242a96fb",
       "sentAt": "2026-10-04T04:46:56.209Z",
       "messageId": "1556165706997960795"
+    },
+    "brief:opp_5fdb0927c53a4738eda6:sha256:654208f94c3cb31b0ec66d3b42e81dbd593f204104e97cd8dadf4cba42f158c1": {
+      "status": "SENT",
+      "opportunityId": "opp_5fdb0927c53a4738eda6",
+      "sentAt": "2026-10-04T09:05:30.054Z",
+      "messageId": "1556230775588913243"
+    },
+    "brief:opp_a66efa112bc6091c9b59:sha256:15714d66a3965878fc913aa7ad87561ac51d4edae6c86b9733e1c8d9cbf14db5": {
+      "status": "SENT",
+      "opportunityId": "opp_a66efa112bc6091c9b59",
+      "sentAt": "2026-10-04T09:05:30.054Z",
+      "messageId": "1556230775588913243"
+    },
+    "brief:opp_ca15354169aa0529664f:sha256:7c3b94cc8baa186b361850eb07b61e8ea5b0470233b4c453fee2011fe89e74b6": {
+      "status": "SENT",
+      "opportunityId": "opp_ca15354169aa0529664f",
+      "sentAt": "2026-10-04T09:05:30.054Z",
+      "messageId": "1556230775588913243"
     }
   },
   "pending": {},
