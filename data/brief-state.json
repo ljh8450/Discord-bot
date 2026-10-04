@@ -67773,6 +67773,104 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_d33d66a1a5e9242a96fb": {
+      "id": "opp_d33d66a1a5e9242a96fb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34713",
+      "canonicalUrl": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "title": "에이전트 코딩의 묵시록 4기사",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T23:03:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전트 코딩은 매우 유용하지만, 슬롭, 소외, 숙련도 저하, 팀 관계 약화라는 네 가지 문제를 낳으며 개발자의 호기심, 장인정신, 사회적 연결에...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34713"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6c4c00c7f6b7938b5d60109b5ba3701e719d5df878874c37c5e00079eb13865d",
+      "dedupeKey": "brief:opp_d33d66a1a5e9242a96fb:sha256:6c4c00c7f6b7938b5d60109b5ba3701e719d5df878874c37c5e00079eb13865d",
+      "firstSeenAt": "2026-10-04T04:46:56.209Z",
+      "lastSeenAt": "2026-10-04T04:46:56.209Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_716c32ee1b5df044c915": {
+      "id": "opp_716c32ee1b5df044c915",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34718",
+      "canonicalUrl": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "title": "하네스가 곧 회사다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T02:07:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SaaS 기업의 개발·기획·영업을 AI 에이전트가 수행하게 되면, 회사는 모델에 업무 지식과 도구, 권한, 검토 절차를 제공하는 하네스로 바뀔 수 있...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34718"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:08cdf2450de540b83f2c1c07fdfb25e130f8480d258c3e78626e862510591ad7",
+      "dedupeKey": "brief:opp_716c32ee1b5df044c915:sha256:08cdf2450de540b83f2c1c07fdfb25e130f8480d258c3e78626e862510591ad7",
+      "firstSeenAt": "2026-10-04T04:46:56.209Z",
+      "lastSeenAt": "2026-10-04T04:46:56.209Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75167,6 +75265,18 @@
       "opportunityId": "opp_e681a48f719ab3a3caaf",
       "sentAt": "2026-10-04T00:05:22.688Z",
       "messageId": "1556094849046945834"
+    },
+    "brief:opp_716c32ee1b5df044c915:sha256:08cdf2450de540b83f2c1c07fdfb25e130f8480d258c3e78626e862510591ad7": {
+      "status": "SENT",
+      "opportunityId": "opp_716c32ee1b5df044c915",
+      "sentAt": "2026-10-04T04:46:56.209Z",
+      "messageId": "1556165706997960795"
+    },
+    "brief:opp_d33d66a1a5e9242a96fb:sha256:6c4c00c7f6b7938b5d60109b5ba3701e719d5df878874c37c5e00079eb13865d": {
+      "status": "SENT",
+      "opportunityId": "opp_d33d66a1a5e9242a96fb",
+      "sentAt": "2026-10-04T04:46:56.209Z",
+      "messageId": "1556165706997960795"
     }
   },
   "pending": {},
