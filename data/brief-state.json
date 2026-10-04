@@ -66435,13 +66435,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 19,
-        "contentScore": 10,
+        "communityRank": 20,
+        "contentScore": 9,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 9,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -66449,11 +66449,11 @@
       },
       "contentHash": "sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
       "dedupeKey": "brief:opp_e681a48f719ab3a3caaf:sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039",
-      "firstSeenAt": "2026-10-03T09:05:22.710Z",
-      "lastSeenAt": "2026-10-03T09:05:22.710Z",
+      "firstSeenAt": "2026-10-04T00:05:22.688Z",
+      "lastSeenAt": "2026-10-04T00:05:22.688Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -67715,6 +67715,59 @@
       "dedupeKey": "brief:opp_f188853ebb17e5a1710d:sha256:46981babb7d48c8d3f423369f9d4e5e7e7fec10a7b0440a9d168e1866b44e19c",
       "firstSeenAt": "2026-10-03T09:05:22.710Z",
       "lastSeenAt": "2026-10-03T09:05:22.710Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_80f4e8f423e55c7cde74": {
+      "id": "opp_80f4e8f423e55c7cde74",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:9tPnHRSUNFA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=9tPnHRSUNFA",
+      "title": "[한영자막] 글을 쓰지 않는 AI 모델? Jev의 정체는 무엇일까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-03T22:00:25+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "텍스트를 전혀 작성하지 않고 정밀하게 보정된 확률만을 제시하는 독특한 AI 모델 'Jev'를 소개합니다. 대니얼 카너먼의 시스템 1 사고처럼 빠르고 저렴하게 즉각적인 판단을 내리는 Jev가 기존 LLM과 어떻게 결합하여 강력한 워크플로를 만드는지 살펴봅니다. 주요 내용: • 글을 쓰지 않는 AI: 텍스트 생성 대신 선택지별 신뢰성 있는 확률(Calibration)만을 즉시 출력하는 시스템 1 AI 모델 • RLCD(보정된 결정을 위한 강화 학습): 틀리면서도 확신에 찬 기존 모델의 한계를 넘어 실",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=9tPnHRSUNFA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-03T22:00:25.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4bb9493a47b08ba3a340e041be8c93b7ccd7d6ab72847785cfc2631656309485",
+      "dedupeKey": "brief:opp_80f4e8f423e55c7cde74:sha256:4bb9493a47b08ba3a340e041be8c93b7ccd7d6ab72847785cfc2631656309485",
+      "firstSeenAt": "2026-10-04T00:05:22.688Z",
+      "lastSeenAt": "2026-10-04T00:05:22.688Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -75102,6 +75155,18 @@
       "opportunityId": "opp_a9dc3ed801bffc713bcb",
       "sentAt": "2026-10-03T14:07:45.779Z",
       "messageId": "1555944455755010129"
+    },
+    "brief:opp_80f4e8f423e55c7cde74:sha256:4bb9493a47b08ba3a340e041be8c93b7ccd7d6ab72847785cfc2631656309485": {
+      "status": "SENT",
+      "opportunityId": "opp_80f4e8f423e55c7cde74",
+      "sentAt": "2026-10-04T00:05:22.688Z",
+      "messageId": "1556094849046945834"
+    },
+    "brief:opp_e681a48f719ab3a3caaf:sha256:fc3109af0ff6286f1c8e2e7e8b6df42e1ed364060d1a4a27dfaf0d9e4e158039": {
+      "status": "SENT",
+      "opportunityId": "opp_e681a48f719ab3a3caaf",
+      "sentAt": "2026-10-04T00:05:22.688Z",
+      "messageId": "1556094849046945834"
     }
   },
   "pending": {},
