@@ -68030,6 +68030,55 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_07d6195bd44244a97811": {
+      "id": "opp_07d6195bd44244a97811",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34720",
+      "canonicalUrl": "https://matduggan.com/what-does-my-dream-os-ui-look-like",
+      "title": "tmux를 OS로 만들자",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T02:13:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "터미널에서 작업을 유지하고 다시 이어가는 tmux의 경험을 일반 사용자용 데스크톱으로 확장하는 구상으로, 창을 일일이 옮기기보다 하던 일을 그...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34720"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ebd9e2a12628a2662a42992e4d0ca6250688b5246911fc5417b6a37e1bf71b28",
+      "dedupeKey": "brief:opp_07d6195bd44244a97811:sha256:ebd9e2a12628a2662a42992e4d0ca6250688b5246911fc5417b6a37e1bf71b28",
+      "firstSeenAt": "2026-10-04T14:36:38.689Z",
+      "lastSeenAt": "2026-10-04T14:36:38.689Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75454,6 +75503,12 @@
       "opportunityId": "opp_ca15354169aa0529664f",
       "sentAt": "2026-10-04T09:05:30.054Z",
       "messageId": "1556230775588913243"
+    },
+    "brief:opp_07d6195bd44244a97811:sha256:ebd9e2a12628a2662a42992e4d0ca6250688b5246911fc5417b6a37e1bf71b28": {
+      "status": "SENT",
+      "opportunityId": "opp_07d6195bd44244a97811",
+      "sentAt": "2026-10-04T14:36:38.689Z",
+      "messageId": "1556314111082762324"
     }
   },
   "pending": {},
