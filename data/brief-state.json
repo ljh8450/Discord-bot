@@ -68385,6 +68385,456 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_9d4aa31a4fbf60bc702e": {
+      "id": "opp_9d4aa31a4fbf60bc702e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34750",
+      "canonicalUrl": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "에이전트에게 필요한 것은 메모리가 아니라 문서다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T15:34:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 메모리보다 프로젝트 문서가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34750"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
+      "dedupeKey": "brief:opp_9d4aa31a4fbf60bc702e:sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_faac5283026fc5abec4f": {
+      "id": "opp_faac5283026fc5abec4f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34749",
+      "canonicalUrl": "https://blog.cloudflare.com/next-git-platform-on-cloudflare",
+      "title": "Cloudflare, 에이전트 시대의 Git 플랫폼 개발 대회 개최",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T13:43:55+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Cloudflare가 Workers와 Artifacts를 이용해 에이전트 시대의 Git 플랫폼을 만드는 대회를 개최함 기존 GitHub에 에이전트를 덧붙이는 수준을 넘어...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34749"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6b6e01d35601af9f432b7242a3cde666646e867ce98552b5f0705ceb1f0d9b69",
+      "dedupeKey": "brief:opp_faac5283026fc5abec4f:sha256:6b6e01d35601af9f432b7242a3cde666646e867ce98552b5f0705ceb1f0d9b69",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_93d921f8dd220e92ccb0": {
+      "id": "opp_93d921f8dd220e92ccb0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34734",
+      "canonicalUrl": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T07:42:52+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Opus 5.5는 긴 다단계 작업을 이어가는 능력이 개선돼, 작업 전체와 완료 조건, 멈춰서 질문할 조건을 한 번에 전달하는 방식이 적합함 모델이 응...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34734"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ac32391fbbae78fa6077e6aadd40a999f89d721d870faf6070b334c2f3eb0b8",
+      "dedupeKey": "brief:opp_93d921f8dd220e92ccb0:sha256:2ac32391fbbae78fa6077e6aadd40a999f89d721d870faf6070b334c2f3eb0b8",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_123c4aa8e265c767d6ea": {
+      "id": "opp_123c4aa8e265c767d6ea",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/eu-text-provenance",
+      "canonicalUrl": "https://openai.com/index/eu-text-provenance",
+      "title": "Our approach to EU text provenance rules",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "summaryEvidence": [
+        "https://openai.com/index/eu-text-provenance"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:aa46b158ae4538f1183b80de9066dacbaee6681a67dc1c95a650d73ad63b1e75",
+      "dedupeKey": "brief:opp_123c4aa8e265c767d6ea:sha256:aa46b158ae4538f1183b80de9066dacbaee6681a67dc1c95a650d73ad63b1e75",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1088d22a9178d6b9c2ef": {
+      "id": "opp_1088d22a9178d6b9c2ef",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "canonicalUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Building advertising for the way people use AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "summaryEvidence": [
+        "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8afec3761dd7a39d4541a2e84f648c69e52e3e1fb2f74b178b409c1f95b6d28b",
+      "dedupeKey": "brief:opp_1088d22a9178d6b9c2ef:sha256:8afec3761dd7a39d4541a2e84f648c69e52e3e1fb2f74b178b409c1f95b6d28b",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_59f327a1db71d2df429d": {
+      "id": "opp_59f327a1db71d2df429d",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99258",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 05 Oct 2026 15:59:40 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a45ba0d769c8caf47e2ea46793478195eab07d10e739e4771685aa26f574c19",
+      "dedupeKey": "brief:opp_59f327a1db71d2df429d:sha256:8a45ba0d769c8caf47e2ea46793478195eab07d10e739e4771685aa26f574c19",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7aaa5980c917940664c0": {
+      "id": "opp_7aaa5980c917940664c0",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:NJJYtWhaPRs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NJJYtWhaPRs",
+      "title": "EP 117. 강북의 IT가 바뀐다: AI 시대의 ERP와 지식 노동 (코스맥스 고종옥 부문장)",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T09:44:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코스맥스 PI 혁신 부문장 고종옥 님과 함께 '강북의 IT'로 불리는 엔터프라이즈 ERP 생태계가 AI로 어떻게 흔들리고 있는지 이야기했습니다. 10년 주기 차세대 ERP 프로젝트, SAP·ABAP 중심의 폐쇄적 생태계, 그리고 실제 업무는 ERP가 아닌 현업의 엑셀 위에서 돌아간다는 현실에서 출발해, 사내 도메인 전문가 100명 이상이 직접 코드를 커밋하며 자신의 업무를 DX·AX해 나간 과정을 공유합니다. 그 결과 향후 2~3년간 70억 원 규모의 솔루션 투자와 연간 유지보수비 상당 부분을 줄",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=NJJYtWhaPRs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-05T09:44:21.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a39c5d1aff598a6391cbe317edb52a9296666372d65f8c692f691575c0a984bc",
+      "dedupeKey": "brief:opp_7aaa5980c917940664c0:sha256:a39c5d1aff598a6391cbe317edb52a9296666372d65f8c692f691575c0a984bc",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eadb9bd171bac4f73ce7": {
+      "id": "opp_eadb9bd171bac4f73ce7",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:8DRjkp_X8yY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8DRjkp_X8yY",
+      "title": "[한영자막] AI 시대에 쏟아지는 PR 병목, 어떻게 해결해야 할까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T10:00:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트 덕분에 PR을 여는 속도는 폭발적으로 빨라졌지만, 검토(Review)가 조직 전체의 거대한 병목이 되고 있습니다. AIHero의 창립자이자 TypeScript 커뮤니티의 저명한 교육자인 맷 포콕(Matt Pocock)이 AI 엔지니어 파리 2026에서 발표한 PR 병목 현상의 근본 원인과 실전 해결 전략을 소개합니다. 📌 주요 내용: • 소프트웨어 팩토리와 쓰레기 대포: 쏟아지는 저품질 PR을 제어하기 위한 세 가지 브레이크(자동 검사, 자동 리뷰, 인간 검증) • 거짓말하는 테스",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=8DRjkp_X8yY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-05T10:00:35.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5f573381013a1ccc6bd00e6860b76a2f060e16d511d1b0cb74da92b716bd2d06",
+      "dedupeKey": "brief:opp_eadb9bd171bac4f73ce7:sha256:5f573381013a1ccc6bd00e6860b76a2f060e16d511d1b0cb74da92b716bd2d06",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6df20bf5943f82181e1d": {
+      "id": "opp_6df20bf5943f82181e1d",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:TBOhsw_nKNk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=TBOhsw_nKNk",
+      "title": "레일즈 창시자 DHH가 25년간 주 40시간만 일한 이유 — VC 투자 없이 수천만 달러를 번 37signals의 창업 원칙",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T11:33:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "타임라인 0:00 인트로 — 창업자는 하루 20시간 일해야 할까 4:24 개발자는 어떻게 되나 7:25 모든 코드는 프롬프트로 시작한다 10:09 왜 투자를 받지 않았나 15:32 제약이 무기다 18:46 지금 창업한다면 23:06 배포냐 제품이냐 23:47 제프 베조스와 세컨더리 28:29 판돈 일부를 먼저 챙기다 32:57 SaaS의 음악이 멈췄다 37:53 모든 결과를 받아들였다 40:56 러다이트와 생산성 43:59 뒤처지는 사람들 47:23 모델 T와 웨이모 50:53 진행자의 반박 —",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=TBOhsw_nKNk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-05T11:33:33.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2716c91ff306b21c460c5b6f0adcdc90ba734538668d7aaddd0a4e12c3c711a8",
+      "dedupeKey": "brief:opp_6df20bf5943f82181e1d:sha256:2716c91ff306b21c460c5b6f0adcdc90ba734538668d7aaddd0a4e12c3c711a8",
+      "firstSeenAt": "2026-10-05T17:50:44.343Z",
+      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75851,6 +76301,42 @@
       "opportunityId": "opp_0e2930ef1d8c73dc39ca",
       "sentAt": "2026-10-05T09:06:00.322Z",
       "messageId": "1556593290634068061"
+    },
+    "brief:opp_59f327a1db71d2df429d:sha256:8a45ba0d769c8caf47e2ea46793478195eab07d10e739e4771685aa26f574c19": {
+      "status": "SENT",
+      "opportunityId": "opp_59f327a1db71d2df429d",
+      "sentAt": "2026-10-05T17:50:44.343Z",
+      "messageId": "1556725344109862957"
+    },
+    "brief:opp_6df20bf5943f82181e1d:sha256:2716c91ff306b21c460c5b6f0adcdc90ba734538668d7aaddd0a4e12c3c711a8": {
+      "status": "SENT",
+      "opportunityId": "opp_6df20bf5943f82181e1d",
+      "sentAt": "2026-10-05T17:50:44.343Z",
+      "messageId": "1556725344109862957"
+    },
+    "brief:opp_1088d22a9178d6b9c2ef:sha256:8afec3761dd7a39d4541a2e84f648c69e52e3e1fb2f74b178b409c1f95b6d28b": {
+      "status": "SENT",
+      "opportunityId": "opp_1088d22a9178d6b9c2ef",
+      "sentAt": "2026-10-05T17:50:44.343Z",
+      "messageId": "1556725344109862957"
+    },
+    "brief:opp_123c4aa8e265c767d6ea:sha256:aa46b158ae4538f1183b80de9066dacbaee6681a67dc1c95a650d73ad63b1e75": {
+      "status": "SENT",
+      "opportunityId": "opp_123c4aa8e265c767d6ea",
+      "sentAt": "2026-10-05T17:50:44.343Z",
+      "messageId": "1556725344109862957"
+    },
+    "brief:opp_7aaa5980c917940664c0:sha256:a39c5d1aff598a6391cbe317edb52a9296666372d65f8c692f691575c0a984bc": {
+      "status": "SENT",
+      "opportunityId": "opp_7aaa5980c917940664c0",
+      "sentAt": "2026-10-05T17:50:44.343Z",
+      "messageId": "1556725344109862957"
+    },
+    "brief:opp_eadb9bd171bac4f73ce7:sha256:5f573381013a1ccc6bd00e6860b76a2f060e16d511d1b0cb74da92b716bd2d06": {
+      "status": "SENT",
+      "opportunityId": "opp_eadb9bd171bac4f73ce7",
+      "sentAt": "2026-10-05T17:50:44.343Z",
+      "messageId": "1556725344109862957"
     }
   },
   "pending": {},
