@@ -68230,6 +68230,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_0e2930ef1d8c73dc39ca": {
+      "id": "opp_0e2930ef1d8c73dc39ca",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34793",
+      "canonicalUrl": "https://x.com/philhchen/status/2072793818945167475",
+      "title": "AI 시대의 커리어 조언 - 문제를 푸는 능력보다 찾고 선택하는 능력",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T10:05:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI는 정답과 평가 기준을 명확히 정의할 수 있는 문제에서 빠르게 발전하므로, 앞으로의 가치는 훈련 과정 안에서 채점하기 어려운 문제를 발견하...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34793"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e82d00d7c861297e19e69bf5acba176505234d74cf0e7679c8fe52abca079c08",
+      "dedupeKey": "brief:opp_0e2930ef1d8c73dc39ca:sha256:e82d00d7c861297e19e69bf5acba176505234d74cf0e7679c8fe52abca079c08",
+      "firstSeenAt": "2026-10-05T09:06:00.322Z",
+      "lastSeenAt": "2026-10-05T09:06:00.322Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7dc1d51d1af114db9a3e": {
+      "id": "opp_7dc1d51d1af114db9a3e",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:F5EMgGQhnS4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=F5EMgGQhnS4",
+      "title": "개발자여! 기술이 아니라 논리로 설득하라 | 면접·보고·발표·논문 다 통하는 W²HO 프레임워크",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T08:56:31+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "(2026.05월에 업로드한 멤버십 영상입니다.) 기술은 충분히 아는데, 왜 면접이나 회의, 보고에서는 설득이 잘 안 될까요? 지식이 부족해서가 아니라, 아는 것을 논리적인 순서로 꺼내는 구조가 없었기 때문입니다. 이번 영상에서는 면접, 임원·팀장 보고, 기술 발표, 기술사 논술까지 모든 상황에 쓸 수 있는 W²HO 프레임워크(Why → What → How → Opinion)를 정리했습니다. --- '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.you",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=F5EMgGQhnS4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-05T08:56:31.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3e2beb1b6b2ff5cc396bd495ccc95ef681d8aae29c18d74e9dc5b16567dbeea2",
+      "dedupeKey": "brief:opp_7dc1d51d1af114db9a3e:sha256:3e2beb1b6b2ff5cc396bd495ccc95ef681d8aae29c18d74e9dc5b16567dbeea2",
+      "firstSeenAt": "2026-10-05T09:06:00.322Z",
+      "lastSeenAt": "2026-10-05T09:06:00.322Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1559647b3a2639d3fbb4": {
+      "id": "opp_1559647b3a2639d3fbb4",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:4N5NtERtbgU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4N5NtERtbgU",
+      "title": "보스턴 다이내믹스 로봇, 새로운 손 등장… 테슬라 옵티머스와 Figure 03의 차이는? 아틀라스가 손의 구조와 AI 학습을 연결한 이유",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T07:00:23+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "보스턴다이내믹스가 공개한 아틀라스의 새 손을 살펴봅니다. 네 손가락과 13자유도로 물건을 잡고 공구를 조작하는 설계를 다룹니다. 드릴을 지탱하면서 방아쇠를 누르는 상황을 통해, 물건을 잡은 뒤 필요한 힘과 움직임을 설명합니다. 관절의 힘 전달과 내부 마찰이 정교한 조작에 어떻게 영향을 주는지 알아봅니다. 테슬라의 공개 특허와 피겨의 공개 시연을 통해 힘줄 구동, 촉각센서와 손바닥 카메라의 역할도 살펴봅니다. 물체가 움직이거나 미끄러질 때 상태를 읽고 힘을 조절하는 과정도 짚어봅니다. 손 안에서 힘",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=4N5NtERtbgU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-05T07:00:23.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2930bd83a501f7f8565f84d9faeef46d0669751eabadb7d97a0670a4f5bfe2d5",
+      "dedupeKey": "brief:opp_1559647b3a2639d3fbb4:sha256:2930bd83a501f7f8565f84d9faeef46d0669751eabadb7d97a0670a4f5bfe2d5",
+      "firstSeenAt": "2026-10-05T09:06:00.322Z",
+      "lastSeenAt": "2026-10-05T09:06:00.322Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75678,6 +75833,24 @@
       "opportunityId": "opp_f429c7d6db448e8814b8",
       "sentAt": "2026-10-05T04:35:17.527Z",
       "messageId": "1556525163640651857"
+    },
+    "brief:opp_7dc1d51d1af114db9a3e:sha256:3e2beb1b6b2ff5cc396bd495ccc95ef681d8aae29c18d74e9dc5b16567dbeea2": {
+      "status": "SENT",
+      "opportunityId": "opp_7dc1d51d1af114db9a3e",
+      "sentAt": "2026-10-05T09:06:00.322Z",
+      "messageId": "1556593290634068061"
+    },
+    "brief:opp_1559647b3a2639d3fbb4:sha256:2930bd83a501f7f8565f84d9faeef46d0669751eabadb7d97a0670a4f5bfe2d5": {
+      "status": "SENT",
+      "opportunityId": "opp_1559647b3a2639d3fbb4",
+      "sentAt": "2026-10-05T09:06:00.322Z",
+      "messageId": "1556593290634068061"
+    },
+    "brief:opp_0e2930ef1d8c73dc39ca:sha256:e82d00d7c861297e19e69bf5acba176505234d74cf0e7679c8fe52abca079c08": {
+      "status": "SENT",
+      "opportunityId": "opp_0e2930ef1d8c73dc39ca",
+      "sentAt": "2026-10-05T09:06:00.322Z",
+      "messageId": "1556593290634068061"
     }
   },
   "pending": {},
