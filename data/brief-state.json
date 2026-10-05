@@ -68181,6 +68181,55 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_f429c7d6db448e8814b8": {
+      "id": "opp_f429c7d6db448e8814b8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34791",
+      "canonicalUrl": "https://threedots.tech/post/ddd-and-ai-coding",
+      "title": "AI가 코드를 쓸수록 도메인 주도 설계가 더 중요해지는 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 언어와 프레임워크의 구현 세부를 빠르게 처리해도, 어떤 문제를 어떤 방식으로 해결해야 하는지 이해하고 모델링하는 일은 여전히 사람이 맡...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34791"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:257610784c6364c66989e8205e737aae5a08802ff86b09688cb65f9fb0e151e6",
+      "dedupeKey": "brief:opp_f429c7d6db448e8814b8:sha256:257610784c6364c66989e8205e737aae5a08802ff86b09688cb65f9fb0e151e6",
+      "firstSeenAt": "2026-10-05T04:35:17.527Z",
+      "lastSeenAt": "2026-10-05T04:35:17.527Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75623,6 +75672,12 @@
       "opportunityId": "opp_a243b53a5cc1bec41d20",
       "sentAt": "2026-10-05T00:05:54.066Z",
       "messageId": "1556457368802304032"
+    },
+    "brief:opp_f429c7d6db448e8814b8:sha256:257610784c6364c66989e8205e737aae5a08802ff86b09688cb65f9fb0e151e6": {
+      "status": "SENT",
+      "opportunityId": "opp_f429c7d6db448e8814b8",
+      "sentAt": "2026-10-05T04:35:17.527Z",
+      "messageId": "1556525163640651857"
     }
   },
   "pending": {},
