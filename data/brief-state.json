@@ -68079,6 +68079,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a243b53a5cc1bec41d20": {
+      "id": "opp_a243b53a5cc1bec41d20",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34744",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+      "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T10:43:56+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사용량 기반 서비스와 API에는 월 예산을 넘으면 서비스를 중단하고 오류를 반환하는 강제 상한이 기본으로 필요하며, 경고 이메일만 보내는 방식...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34744"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:598f296c75f4d8e15b74a6cab5c51076dacd5ccb454887d30c54e1bb60c5e1e6",
+      "dedupeKey": "brief:opp_a243b53a5cc1bec41d20:sha256:598f296c75f4d8e15b74a6cab5c51076dacd5ccb454887d30c54e1bb60c5e1e6",
+      "firstSeenAt": "2026-10-05T00:05:54.066Z",
+      "lastSeenAt": "2026-10-05T00:05:54.066Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ec814e697c43d2629b9e": {
+      "id": "opp_ec814e697c43d2629b9e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:wrii8VocfZU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=wrii8VocfZU",
+      "title": "[한영자막] 샘 알트만이 OpenAI와 일상을 운영하기 위해 AI를 실제로 활용하는 방법입니다.",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-04T23:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI CEO 샘 알트만이 DevDay 현장에서 밝히는 AI 활용법과 일상의 혁신! 에이전트 시스템 'Dots', 실시간 협업 도구 'Space', 그리고 생각의 속도로 작업하는 'Ultra-fast' 프롬프팅까지, AI로 회사를 운영하고 삶의 주도권을 되찾는 생생한 인사이트를 만나보세요. 📌 주요 내용: • DevDay 22개 신제품 발표와 코딩 모델이 이끄는 엔지니어링의 미래 • 산업혁명(기계 중심) vs 르네상스(인간 중심): AI 시대 인간의 창의성 폭발 • 샘 알트만의 아침 루틴을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=wrii8VocfZU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-04T23:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2dc4213f723f3e808696a8ecd0ce33dc320ef87fdf210fea99f8992c0a485c43",
+      "dedupeKey": "brief:opp_ec814e697c43d2629b9e:sha256:2dc4213f723f3e808696a8ecd0ce33dc320ef87fdf210fea99f8992c0a485c43",
+      "firstSeenAt": "2026-10-05T00:05:54.066Z",
+      "lastSeenAt": "2026-10-05T00:05:54.066Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -75509,6 +75611,18 @@
       "opportunityId": "opp_07d6195bd44244a97811",
       "sentAt": "2026-10-04T14:36:38.689Z",
       "messageId": "1556314111082762324"
+    },
+    "brief:opp_ec814e697c43d2629b9e:sha256:2dc4213f723f3e808696a8ecd0ce33dc320ef87fdf210fea99f8992c0a485c43": {
+      "status": "SENT",
+      "opportunityId": "opp_ec814e697c43d2629b9e",
+      "sentAt": "2026-10-05T00:05:54.066Z",
+      "messageId": "1556457368802304032"
+    },
+    "brief:opp_a243b53a5cc1bec41d20:sha256:598f296c75f4d8e15b74a6cab5c51076dacd5ccb454887d30c54e1bb60c5e1e6": {
+      "status": "SENT",
+      "opportunityId": "opp_a243b53a5cc1bec41d20",
+      "sentAt": "2026-10-05T00:05:54.066Z",
+      "messageId": "1556457368802304032"
     }
   },
   "pending": {},
