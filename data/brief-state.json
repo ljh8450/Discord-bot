@@ -68412,7 +68412,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 7,
         "communityRank": 4,
         "contentScore": 10,
         "contentScoreBreakdown": {
@@ -68427,8 +68427,8 @@
       },
       "contentHash": "sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
       "dedupeKey": "brief:opp_9d4aa31a4fbf60bc702e:sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
-      "firstSeenAt": "2026-10-05T17:50:44.343Z",
-      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "firstSeenAt": "2026-10-06T00:06:13.177Z",
+      "lastSeenAt": "2026-10-06T00:06:13.177Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -68462,7 +68462,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 5,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -68476,11 +68476,11 @@
       },
       "contentHash": "sha256:6b6e01d35601af9f432b7242a3cde666646e867ce98552b5f0705ceb1f0d9b69",
       "dedupeKey": "brief:opp_faac5283026fc5abec4f:sha256:6b6e01d35601af9f432b7242a3cde666646e867ce98552b5f0705ceb1f0d9b69",
-      "firstSeenAt": "2026-10-05T17:50:44.343Z",
-      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "firstSeenAt": "2026-10-06T00:06:13.177Z",
+      "lastSeenAt": "2026-10-06T00:06:13.177Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -68510,26 +68510,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 15,
+        "communityPoints": 10,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:2ac32391fbbae78fa6077e6aadd40a999f89d721d870faf6070b334c2f3eb0b8",
       "dedupeKey": "brief:opp_93d921f8dd220e92ccb0:sha256:2ac32391fbbae78fa6077e6aadd40a999f89d721d870faf6070b334c2f3eb0b8",
-      "firstSeenAt": "2026-10-05T17:50:44.343Z",
-      "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "firstSeenAt": "2026-10-06T00:06:13.177Z",
+      "lastSeenAt": "2026-10-06T00:06:13.177Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -68830,6 +68830,59 @@
       "dedupeKey": "brief:opp_6df20bf5943f82181e1d:sha256:2716c91ff306b21c460c5b6f0adcdc90ba734538668d7aaddd0a4e12c3c711a8",
       "firstSeenAt": "2026-10-05T17:50:44.343Z",
       "lastSeenAt": "2026-10-05T17:50:44.343Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7fb3e7ede10581e0fc6b": {
+      "id": "opp_7fb3e7ede10581e0fc6b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:xgPyzfDIrPY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=xgPyzfDIrPY",
+      "title": "[한영자막] Rails에서 하네스 엔지니어링을 활용하는 방법 — Joël Quenneville",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T22:00:10+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 코드를 빠르게 작성해도 리뷰와 수정에 이틀이 걸린다면 무엇을 바꿔야 할까요? Joël Quenneville이 Rails에서 에이전트 루프, RuboCop, 제너레이터와 리뷰 스킬을 활용해 AI 코드의 최소 품질을 높이는 하네스 엔지니어링을 설명합니다. 주요 포인트 • 에이전트 루프와 테스트로 오류를 스스로 수정하게 만드는 방법 • AGENTS.md의 판단을 RuboCop과 훅 같은 결정론적 도구로 옮기는 방법 • Rails 제너레이터로 마이그레이션 파일명과 코드 패턴의 실수를 줄이는 방법",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=xgPyzfDIrPY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-05T22:00:10.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c48b491673d97f9009f94c3bf6b9143eba9d7278af9d50172ef88407058c616",
+      "dedupeKey": "brief:opp_7fb3e7ede10581e0fc6b:sha256:7c48b491673d97f9009f94c3bf6b9143eba9d7278af9d50172ef88407058c616",
+      "firstSeenAt": "2026-10-06T00:06:13.177Z",
+      "lastSeenAt": "2026-10-06T00:06:13.177Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -76337,6 +76390,24 @@
       "opportunityId": "opp_eadb9bd171bac4f73ce7",
       "sentAt": "2026-10-05T17:50:44.343Z",
       "messageId": "1556725344109862957"
+    },
+    "brief:opp_7fb3e7ede10581e0fc6b:sha256:7c48b491673d97f9009f94c3bf6b9143eba9d7278af9d50172ef88407058c616": {
+      "status": "SENT",
+      "opportunityId": "opp_7fb3e7ede10581e0fc6b",
+      "sentAt": "2026-10-06T00:06:13.177Z",
+      "messageId": "1556819839509860375"
+    },
+    "brief:opp_faac5283026fc5abec4f:sha256:6b6e01d35601af9f432b7242a3cde666646e867ce98552b5f0705ceb1f0d9b69": {
+      "status": "SENT",
+      "opportunityId": "opp_faac5283026fc5abec4f",
+      "sentAt": "2026-10-06T00:06:13.177Z",
+      "messageId": "1556819839509860375"
+    },
+    "brief:opp_93d921f8dd220e92ccb0:sha256:2ac32391fbbae78fa6077e6aadd40a999f89d721d870faf6070b334c2f3eb0b8": {
+      "status": "SENT",
+      "opportunityId": "opp_93d921f8dd220e92ccb0",
+      "sentAt": "2026-10-06T00:06:13.177Z",
+      "messageId": "1556819839509860375"
     }
   },
   "pending": {},
