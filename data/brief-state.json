@@ -68412,8 +68412,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 4,
+        "communityPoints": 8,
+        "communityRank": 20,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -68427,8 +68427,8 @@
       },
       "contentHash": "sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
       "dedupeKey": "brief:opp_9d4aa31a4fbf60bc702e:sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
-      "firstSeenAt": "2026-10-06T00:06:13.177Z",
-      "lastSeenAt": "2026-10-06T00:06:13.177Z",
+      "firstSeenAt": "2026-10-06T05:21:18.638Z",
+      "lastSeenAt": "2026-10-06T05:21:18.638Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -68883,6 +68883,252 @@
       "dedupeKey": "brief:opp_7fb3e7ede10581e0fc6b:sha256:7c48b491673d97f9009f94c3bf6b9143eba9d7278af9d50172ef88407058c616",
       "firstSeenAt": "2026-10-06T00:06:13.177Z",
       "lastSeenAt": "2026-10-06T00:06:13.177Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1f11622f4276b3aa7393": {
+      "id": "opp_1f11622f4276b3aa7393",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34857",
+      "canonicalUrl": "https://www.youtube.com/watch?v=KhjhRRz3VJw",
+      "title": "전 아마존 부사장에게 묻는 사내 정치의 어두운 면 [영상]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T09:35:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "전 Amazon VP Ethan Evans는 성과만 내고 인정받기를 기다리기보다, 자신의 기여를 알리고 원하는 역할과 승진 조건을 직접 협의해야 한다고 조언...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34857"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 12,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:5ab61a58bd40bd83f2d9f0be645f3b8b1daccb15b1f0b60dd0060c638e781fbc",
+      "dedupeKey": "brief:opp_1f11622f4276b3aa7393:sha256:5ab61a58bd40bd83f2d9f0be645f3b8b1daccb15b1f0b60dd0060c638e781fbc",
+      "firstSeenAt": "2026-10-06T05:21:18.638Z",
+      "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_050a132d8f6669fcdedb": {
+      "id": "opp_050a132d8f6669fcdedb",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34835",
+      "canonicalUrl": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "title": "Wikimedia에서 OpenAI의 ‘통제를 벗어난’ 에이전트 활동 발견",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T04:42:46+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Wikimedia 재단이 OpenAI가 운영한 것으로 추정되는 AI 에이전트의 무승인 편집, 침입 시도와 대량 데이터 수집을 자체 조사에서 확인함 에이전트...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34835"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
+      "dedupeKey": "brief:opp_050a132d8f6669fcdedb:sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
+      "firstSeenAt": "2026-10-06T05:21:18.638Z",
+      "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6fc013955280ffb1fe34": {
+      "id": "opp_6fc013955280ffb1fe34",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34833",
+      "canonicalUrl": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "title": "Anthropic, Claude를 일기처럼 쓰던 이용자의 총격 위협 신고…여성 체포",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T02:39:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "미국 플로리다에서 Claude를 일기장처럼 사용하던 여성이 보안관 사무실에 총격을 가하겠다는 내용을 입력한 뒤, Anthropic의 신고로 체포됨 체포 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34833"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fbee1df5cfd4405503e8228c96e00fb3b1dd9d77b8a1fa4d60567e63bae4b74c",
+      "dedupeKey": "brief:opp_6fc013955280ffb1fe34:sha256:fbee1df5cfd4405503e8228c96e00fb3b1dd9d77b8a1fa4d60567e63bae4b74c",
+      "firstSeenAt": "2026-10-06T05:21:18.638Z",
+      "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ef35af4d782d45cc766d": {
+      "id": "opp_ef35af4d782d45cc766d",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/5340546886b5",
+      "canonicalUrl": "https://medium.com/daangn/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-5340546886b5?source=rss----4505f82a2dbd---4",
+      "title": "한 문장으로 앱을 테스트하기까지",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 02:55:29 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안녕하세요! 당근 모바일실에서 Test Automation Engineer로 일하고 있는 Lily예요. 모바일실은 여러 팀이 당근 앱을 더 빠르고 안정적으로 만들 수 있게 그 바탕이 되는 플랫폼을 만드는 곳이에요. 그 안에서 저는 테스트 자동화를 맡고 있어요. 실제 기기에서 테스트를 실행할 수 있는 기반을 만들고, 매일 안정적으로 돌아가도록 다듬고 있어요. 각 팀이 직접 품질을 확인할 수 있게 하는 게 목표예요. 이 글에서는 QAHub를 만들면서 풀었던 문제들을 이야기해보려고 해요. 한 문장으로",
+      "summaryEvidence": [
+        "https://medium.com/daangn/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-5340546886b5?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9c7f38b2bda6bcbcf4dc9bfd41a03afff70a11493c2902dec501b097d618074d",
+      "dedupeKey": "brief:opp_ef35af4d782d45cc766d:sha256:9c7f38b2bda6bcbcf4dc9bfd41a03afff70a11493c2902dec501b097d618074d",
+      "firstSeenAt": "2026-10-06T05:21:18.638Z",
+      "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fe21d39b5dfaacd40751": {
+      "id": "opp_fe21d39b5dfaacd40751",
+      "type": "CONTENT",
+      "sourceId": "woowahan-tech",
+      "externalId": "https://techblog.woowa.in/?p=27821",
+      "canonicalUrl": "https://techblog.woowahan.com/27821",
+      "title": "플랫폼 행성에 떨어진 서비스 개발자",
+      "organization": "우아한형제들 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T05:00:35.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "느닷없이 거센 돌풍이 불어 낯선 땅에 착륙했다든지, 망망대해에서 방향을 잃고 외딴 섬에 표류하게 되었다든지, 시공간이 뒤틀려 새로운 행성에 도착했다든지. 낯선 곳에서 홀로 남겨져 살아남아야 하는 이야기들이 참 많습니다. 그중에서도 소설을 원작으로 한 영화 마션을 참 재미있게 봤습니다. 화성에 홀로 남겨진 우주비행사가 제한된 자원과 지식으로 살아남아 지구로 귀환하기 위해 고군분투하는 이야기입니다. 그리고 불과 몇 달 전, […] The post 플랫폼 행성에 떨어진 서비스 개발자 first appe",
+      "summaryEvidence": [
+        "https://techblog.woowahan.com/27821/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3434c92335c5090ed5350b749680b146d91bde0d22ce88a8b7d3713871f431c1",
+      "dedupeKey": "brief:opp_fe21d39b5dfaacd40751:sha256:3434c92335c5090ed5350b749680b146d91bde0d22ce88a8b7d3713871f431c1",
+      "firstSeenAt": "2026-10-06T05:21:18.638Z",
+      "lastSeenAt": "2026-10-06T05:21:18.638Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -76408,6 +76654,30 @@
       "opportunityId": "opp_93d921f8dd220e92ccb0",
       "sentAt": "2026-10-06T00:06:13.177Z",
       "messageId": "1556819839509860375"
+    },
+    "brief:opp_fe21d39b5dfaacd40751:sha256:3434c92335c5090ed5350b749680b146d91bde0d22ce88a8b7d3713871f431c1": {
+      "status": "SENT",
+      "opportunityId": "opp_fe21d39b5dfaacd40751",
+      "sentAt": "2026-10-06T05:21:18.638Z",
+      "messageId": "1556899132227199098"
+    },
+    "brief:opp_ef35af4d782d45cc766d:sha256:9c7f38b2bda6bcbcf4dc9bfd41a03afff70a11493c2902dec501b097d618074d": {
+      "status": "SENT",
+      "opportunityId": "opp_ef35af4d782d45cc766d",
+      "sentAt": "2026-10-06T05:21:18.638Z",
+      "messageId": "1556899132227199098"
+    },
+    "brief:opp_1f11622f4276b3aa7393:sha256:5ab61a58bd40bd83f2d9f0be645f3b8b1daccb15b1f0b60dd0060c638e781fbc": {
+      "status": "SENT",
+      "opportunityId": "opp_1f11622f4276b3aa7393",
+      "sentAt": "2026-10-06T05:21:18.638Z",
+      "messageId": "1556899132227199098"
+    },
+    "brief:opp_6fc013955280ffb1fe34:sha256:fbee1df5cfd4405503e8228c96e00fb3b1dd9d77b8a1fa4d60567e63bae4b74c": {
+      "status": "SENT",
+      "opportunityId": "opp_6fc013955280ffb1fe34",
+      "sentAt": "2026-10-06T05:21:18.638Z",
+      "messageId": "1556899132227199098"
     }
   },
   "pending": {},
