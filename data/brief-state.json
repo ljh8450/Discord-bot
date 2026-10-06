@@ -68965,7 +68965,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 2,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -68979,8 +68979,8 @@
       },
       "contentHash": "sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
       "dedupeKey": "brief:opp_050a132d8f6669fcdedb:sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
-      "firstSeenAt": "2026-10-06T05:21:18.638Z",
-      "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -69129,6 +69129,308 @@
       "dedupeKey": "brief:opp_fe21d39b5dfaacd40751:sha256:3434c92335c5090ed5350b749680b146d91bde0d22ce88a8b7d3713871f431c1",
       "firstSeenAt": "2026-10-06T05:21:18.638Z",
       "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_601ce3b29206d271c175": {
+      "id": "opp_601ce3b29206d271c175",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34865",
+      "canonicalUrl": "https://skamille.medium.com/the-managers-path-in-the-age-of-ai-279cb6611d66",
+      "title": "AI 시대, 매니저의 길",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T10:55:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 한 사람이 여러 사람 분량의 코드를 만들 수 있어도, 팀이 같은 방향으로 움직이게 하는 일까지 자동으로 해결되지는 않음. 관리자의 기술적 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34865"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 14,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:5a34aea6996b6c6831c4b1246f0a090f2ef9ffc9db83f6701b3bf9c05daad1d0",
+      "dedupeKey": "brief:opp_601ce3b29206d271c175:sha256:5a34aea6996b6c6831c4b1246f0a090f2ef9ffc9db83f6701b3bf9c05daad1d0",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e35a147e0004d7be6d87": {
+      "id": "opp_e35a147e0004d7be6d87",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34861",
+      "canonicalUrl": "https://news.hada.io/topic?id=34861",
+      "title": "Show GN: 모아모아 – 화제인 이슈 하나를 3분 안에 이해하게 풀어주는 뉴스 서비스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T10:11:10+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "큰 사건이 터지면 기사는 쏟아지는데, 며칠 지나면 \"그래서 그 일 어떻게 됐더라?\" 하고 다시 찾기 어렵습니다. 모아모아는 화제가 된 사건 하나를...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34861"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:27812dd247c0abbff9aa337237bfc2286468f0f1391b0deca32a1edaf9fcb5a0",
+      "dedupeKey": "brief:opp_e35a147e0004d7be6d87:sha256:27812dd247c0abbff9aa337237bfc2286468f0f1391b0deca32a1edaf9fcb5a0",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2f11a9d2b3755055a536": {
+      "id": "opp_2f11a9d2b3755055a536",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34815",
+      "canonicalUrl": "https://cedardb.com/blog/sqldoom",
+      "title": "SQLDoom - 오리지널 Doom을 SQL로 포팅하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T17:38:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SQLDoom은 1993년 Doom의 게임 로직과 렌더러를 SQL로 옮겨 CedarDB 안에서 실행함. Python 클라이언트는 입력, 타이밍과 완성된 화면 표시만 담당...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34815"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
+      "dedupeKey": "brief:opp_2f11a9d2b3755055a536:sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c76ea14456c567c23065": {
+      "id": "opp_c76ea14456c567c23065",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "f5c8dbbaf6a94c58cfa6d63fe6037727ac762fea",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/gs-energy-smus-agentcore",
+      "title": "GS에너지의 SageMaker Unified Studio와 Bedrock AgentCore로 구축하는 엔터프라이즈 에이전트 데이터 플랫폼",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 06:33:50 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "프로젝트 기반 데이터 구독과 에이전트 실행을 연결한 GS에너지 발전 계열사 통합 데이터 플랫폼 구축 사례 1. 소개 에너지 산업의 디지털 전환이 가속화되면서, 기업들은 단순한 데이터 저장과 분석을 넘어 AI가 데이터를 능동적으로 활용하는 플랫폼을 요구하고 있습니다. 에너지 기업의 운영 데이터는 발전소 설비 센서, 운전 지표, 환경 계측, 전력 거래, 시장 가격, 규제 공시처럼 성격이 서로 다른 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/gs-energy-smus-agentcore/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:844ca0d4bb2b6b16b4e18a1d1d02f51ffedfffca7e9fca22388a5b35e94f20bb",
+      "dedupeKey": "brief:opp_c76ea14456c567c23065:sha256:844ca0d4bb2b6b16b4e18a1d1d02f51ffedfffca7e9fca22388a5b35e94f20bb",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c3afad1303963877e167": {
+      "id": "opp_c3afad1303963877e167",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:oeL0uP-NO-U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=oeL0uP-NO-U",
+      "title": "[한영자막] AI 코딩 에이전트가 거대한 코드베이스를 망가뜨리고 있습니다 — Sourcegraph Dan Adler",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T03:00:21+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 에이전트가 만드는 코드가 늘어날수록, 거대한 코드베이스의 관리는 왜 더 어려워질까요? Sourcegraph CEO Dan Adler가 기업 규모의 코드 검색과 변경 관리 문제를 설명합니다. 주요 포인트 • AI 생성 코드와 중복·표준 이탈·취약점의 관계 • 저장소 9만 개를 관리하는 조직이 겪는 어려움 • 에이전트의 검색을 뒷받침하는 코드 가시성과 코드 그래프 • Agentic Batch Changes와 Mercari의 초기 사용자 사례 발표자의 주장과 소개 사례를 원본 오디오와 한영",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=oeL0uP-NO-U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-06T03:00:21.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e34b922f17d44f2151e8dc6d4da747f1df2009b3e847b0d5006484429871f39d",
+      "dedupeKey": "brief:opp_c3afad1303963877e167:sha256:e34b922f17d44f2151e8dc6d4da747f1df2009b3e847b0d5006484429871f39d",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f0a426966cd2f3ace878": {
+      "id": "opp_f0a426966cd2f3ace878",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:23MK8riMljY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=23MK8riMljY",
+      "title": "대한민국 은행권 AI 해킹 사태… 보안 회사가 해내야할 역할이 중요해지는 이유 | 팔로알토 네트웍스 | Microsoft | CrowdStrike",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T04:49:43+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "내가 한 번도 접속하지 않은 은행 서비스에서 내 정보가 샐 수도 있을까요. 신한·KB국민·하나은행의 직원·대출 업무용 서비스에서 고객정보가 유출된 사건을 살펴봅니다. 10월 4일 보도에서 금융당국은 인터넷·모바일뱅킹 영향과 금전 피해는 당시까지 없는 것으로 파악했습니다. 공격 관련 추정 서버에서 AI 도구의 흔적이 발견됐지만, 실제 공격에 쓰였는지는 확인되지 않았습니다. 사원증 비유로 로그인한 사람의 신분과 자료를 볼 권한을 따로 확인해야 하는 이유를 설명합니다. AI가 공격자의 자료 분석과 결과",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=23MK8riMljY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-06T04:49:43.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ce5ba109432f4d68aebc635fbb220cf9821087306d1049d78927fafb86c7bdf9",
+      "dedupeKey": "brief:opp_f0a426966cd2f3ace878:sha256:ce5ba109432f4d68aebc635fbb220cf9821087306d1049d78927fafb86c7bdf9",
+      "firstSeenAt": "2026-10-06T09:06:07.265Z",
+      "lastSeenAt": "2026-10-06T09:06:07.265Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -76678,6 +76980,36 @@
       "opportunityId": "opp_6fc013955280ffb1fe34",
       "sentAt": "2026-10-06T05:21:18.638Z",
       "messageId": "1556899132227199098"
+    },
+    "brief:opp_c76ea14456c567c23065:sha256:844ca0d4bb2b6b16b4e18a1d1d02f51ffedfffca7e9fca22388a5b35e94f20bb": {
+      "status": "SENT",
+      "opportunityId": "opp_c76ea14456c567c23065",
+      "sentAt": "2026-10-06T09:06:07.265Z",
+      "messageId": "1556955708669300827"
+    },
+    "brief:opp_f0a426966cd2f3ace878:sha256:ce5ba109432f4d68aebc635fbb220cf9821087306d1049d78927fafb86c7bdf9": {
+      "status": "SENT",
+      "opportunityId": "opp_f0a426966cd2f3ace878",
+      "sentAt": "2026-10-06T09:06:07.265Z",
+      "messageId": "1556955708669300827"
+    },
+    "brief:opp_c3afad1303963877e167:sha256:e34b922f17d44f2151e8dc6d4da747f1df2009b3e847b0d5006484429871f39d": {
+      "status": "SENT",
+      "opportunityId": "opp_c3afad1303963877e167",
+      "sentAt": "2026-10-06T09:06:07.265Z",
+      "messageId": "1556955708669300827"
+    },
+    "brief:opp_601ce3b29206d271c175:sha256:5a34aea6996b6c6831c4b1246f0a090f2ef9ffc9db83f6701b3bf9c05daad1d0": {
+      "status": "SENT",
+      "opportunityId": "opp_601ce3b29206d271c175",
+      "sentAt": "2026-10-06T09:06:07.265Z",
+      "messageId": "1556955708669300827"
+    },
+    "brief:opp_e35a147e0004d7be6d87:sha256:27812dd247c0abbff9aa337237bfc2286468f0f1391b0deca32a1edaf9fcb5a0": {
+      "status": "SENT",
+      "opportunityId": "opp_e35a147e0004d7be6d87",
+      "sentAt": "2026-10-06T09:06:07.265Z",
+      "messageId": "1556955708669300827"
     }
   },
   "pending": {},
