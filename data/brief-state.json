@@ -68965,7 +68965,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 7,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -68979,8 +68979,8 @@
       },
       "contentHash": "sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
       "dedupeKey": "brief:opp_050a132d8f6669fcdedb:sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
-      "firstSeenAt": "2026-10-06T09:06:07.265Z",
-      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -69259,8 +69259,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 7,
+        "communityRank": 7,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -69274,8 +69274,8 @@
       },
       "contentHash": "sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
       "dedupeKey": "brief:opp_2f11a9d2b3755055a536:sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
-      "firstSeenAt": "2026-10-06T09:06:07.265Z",
-      "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -69431,6 +69431,255 @@
       "dedupeKey": "brief:opp_f0a426966cd2f3ace878:sha256:ce5ba109432f4d68aebc635fbb220cf9821087306d1049d78927fafb86c7bdf9",
       "firstSeenAt": "2026-10-06T09:06:07.265Z",
       "lastSeenAt": "2026-10-06T09:06:07.265Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7cc949fdf9907e39c051": {
+      "id": "opp_7cc949fdf9907e39c051",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34877",
+      "canonicalUrl": "https://news.hada.io/topic?id=34877",
+      "title": "Show GN: 오름 – 주소만 넣으면 1분 안에 SEO 점수와 고칠 곳, AI 답변 노출까지 보여주는 진단 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T15:52:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "한국 사이트를 구글 검색 기준으로 진단해 주는 도구를 만들었습니다. 가입 없이 주소만 넣으면 됩니다. 만든 이유 해외 SEO 도구는 영어 기준이고...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34877"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:14a4b9a68b04478829eb72d65be599eee7ece3dc30675d13d11878c2c24fe9a7",
+      "dedupeKey": "brief:opp_7cc949fdf9907e39c051:sha256:14a4b9a68b04478829eb72d65be599eee7ece3dc30675d13d11878c2c24fe9a7",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1b7fdbec6ac9d30df22a": {
+      "id": "opp_1b7fdbec6ac9d30df22a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34858",
+      "canonicalUrl": "https://2026.stateofdevs.com/en-US",
+      "title": "2026년 개발자 현황 조사",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T09:45:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "개발자 5,463명이 참여한 Devographics 조사에서, 고용 불안과 불충분한 임금을 경험한 응답자가 각각 거의 절반에 달함 4분의 1 이상은 향후 5년 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34858"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e31d3ab1bb897179e08a23cde0f4ea455e084c3cb981fc022ef363ae1f3fc3e",
+      "dedupeKey": "brief:opp_1b7fdbec6ac9d30df22a:sha256:6e31d3ab1bb897179e08a23cde0f4ea455e084c3cb981fc022ef363ae1f3fc3e",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_648626fddd531a19520f": {
+      "id": "opp_648626fddd531a19520f",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "9feac6f2584f728ba8bd8edc93015fa57c9b2618",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/ks-ax-ai-platform-with-bedrock-agentcore",
+      "title": "경신홀딩스의 AX 도입을 위한 에이전트 플랫폼 구축: Amazon Bedrock AgentCore로 사내 데이터를 연결하고 에이전트를 운영하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 11:40:08 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "조직의 AI 전환(AX)을 위해서는 구성원이 AI로 업무에 필요한 정보를 찾고, 그 과정에서 만든 도구와 지식을 다른 구성원도 활용할 수 있어야 합니다. 또한 조직은 누가 얼마나 썼는지 알아야 하고, 사내 시스템과 안전하게 연결되어야 하고, 한 팀이 만든 것을 다른 팀이 다시 만들지 않아야 합니다. 이 문제가 해결되지 않으면 에이전트는 개인 PC 안에 머물고, 조직의 AX는 시작되지 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/ks-ax-ai-platform-with-bedrock-agentcore/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4abe316ba92afe441cfade1347f3ac2e611d375bddf19e2ac3f422fe02ecd327",
+      "dedupeKey": "brief:opp_648626fddd531a19520f:sha256:4abe316ba92afe441cfade1347f3ac2e611d375bddf19e2ac3f422fe02ecd327",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b24a71e737bf28283009": {
+      "id": "opp_b24a71e737bf28283009",
+      "type": "CONTENT",
+      "sourceId": "daangn-tech",
+      "externalId": "https://medium.com/p/16c6328dea50",
+      "canonicalUrl": "https://medium.com/daangn/aurora-mysql-%EC%9D%B8%EB%8D%B1%EC%8A%A4-ddl%EC%9D%B4-reader-%EB%B2%84%ED%8D%BC%ED%92%80%EC%9D%84-%EB%B9%84%EC%9A%B4%EB%8B%A4-16c6328dea50?source=rss----4505f82a2dbd---4",
+      "title": "Aurora MySQL 인덱스 DDL이 Reader 버퍼풀을 비운다?",
+      "organization": "당근 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 10:41:52 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "미사용 인덱스를 정리하다 만난 Aurora 엔진 결함, 그리고 3.14 릴리즈까지 안녕하세요. 당근 DB팀에서 근무하고 있는 Eden(이든)이에요. 당근 DB팀에서는 Aurora MySQL / Aurora PostgreSQL 및 MongoDB 를 운영하고 있어요. 이번에 Aurora MySQL 을 운영하며 경험했던 이슈를 소개해 드리려고 해요. “인덱스를 INVISIBLE 로 바꾸는 건 메타데이터만 건드리는 작업이니까 DB 에 부하를 주지 않는다.” DBA 라면 누구나 이렇게 말할 거예요. 저도",
+      "summaryEvidence": [
+        "https://medium.com/daangn/aurora-mysql-%EC%9D%B8%EB%8D%B1%EC%8A%A4-ddl%EC%9D%B4-reader-%EB%B2%84%ED%8D%BC%ED%92%80%EC%9D%84-%EB%B9%84%EC%9A%B4%EB%8B%A4-16c6328dea50?source=rss----4505f82a2dbd---4"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2836dd0abd174ce876e4407dc04d3b0632686849fd479e269d268e38ac95bcb6",
+      "dedupeKey": "brief:opp_b24a71e737bf28283009:sha256:2836dd0abd174ce876e4407dc04d3b0632686849fd479e269d268e38ac95bcb6",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7278cdf346d592074ed8": {
+      "id": "opp_7278cdf346d592074ed8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:PACIHCnvNMo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=PACIHCnvNMo",
+      "title": "[한영자막] 젠슨 황과 일론 머스크가 직접 밝히는 슈퍼 인텔리전스와 에너지, 우주 컴퓨팅의 미래",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T11:00:01+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "엔비디아 CEO 젠슨 황과 테슬라·SpaceX CEO 일론 머스크, Anthropic 공동 창업자 톰 브라운이 백악관 패널 토론에서 인공 초지능(Superintelligence)과 에너지, 우주 궤도 컴퓨팅의 미래를 심도 있게 논의했습니다. 📌 주요 내용: • 컴퓨팅 스택의 대전환: 기존 정보 검색을 넘어 실질적 경제 가치를 직접 생산하는 '초지능 공장(SI Factories)'과 데이터센터의 본질적 변화 • 에너지와 전력망의 필수성: AI 성장을 견인할 전력 확보 과제 및 미국 본토 재산업화와",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=PACIHCnvNMo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-06T11:00:01.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2453c93a6ef021e9c0e86f20864eb785ff81ea8c76e56ea00f077a5ee6d878ae",
+      "dedupeKey": "brief:opp_7278cdf346d592074ed8:sha256:2453c93a6ef021e9c0e86f20864eb785ff81ea8c76e56ea00f077a5ee6d878ae",
+      "firstSeenAt": "2026-10-06T15:40:33.580Z",
+      "lastSeenAt": "2026-10-06T15:40:33.580Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -77010,6 +77259,36 @@
       "opportunityId": "opp_e35a147e0004d7be6d87",
       "sentAt": "2026-10-06T09:06:07.265Z",
       "messageId": "1556955708669300827"
+    },
+    "brief:opp_648626fddd531a19520f:sha256:4abe316ba92afe441cfade1347f3ac2e611d375bddf19e2ac3f422fe02ecd327": {
+      "status": "SENT",
+      "opportunityId": "opp_648626fddd531a19520f",
+      "sentAt": "2026-10-06T15:40:33.580Z",
+      "messageId": "1557054972074397697"
+    },
+    "brief:opp_b24a71e737bf28283009:sha256:2836dd0abd174ce876e4407dc04d3b0632686849fd479e269d268e38ac95bcb6": {
+      "status": "SENT",
+      "opportunityId": "opp_b24a71e737bf28283009",
+      "sentAt": "2026-10-06T15:40:33.580Z",
+      "messageId": "1557054972074397697"
+    },
+    "brief:opp_7278cdf346d592074ed8:sha256:2453c93a6ef021e9c0e86f20864eb785ff81ea8c76e56ea00f077a5ee6d878ae": {
+      "status": "SENT",
+      "opportunityId": "opp_7278cdf346d592074ed8",
+      "sentAt": "2026-10-06T15:40:33.580Z",
+      "messageId": "1557054972074397697"
+    },
+    "brief:opp_7cc949fdf9907e39c051:sha256:14a4b9a68b04478829eb72d65be599eee7ece3dc30675d13d11878c2c24fe9a7": {
+      "status": "SENT",
+      "opportunityId": "opp_7cc949fdf9907e39c051",
+      "sentAt": "2026-10-06T15:40:33.580Z",
+      "messageId": "1557054972074397697"
+    },
+    "brief:opp_1b7fdbec6ac9d30df22a:sha256:6e31d3ab1bb897179e08a23cde0f4ea455e084c3cb981fc022ef363ae1f3fc3e": {
+      "status": "SENT",
+      "opportunityId": "opp_1b7fdbec6ac9d30df22a",
+      "sentAt": "2026-10-06T15:40:33.580Z",
+      "messageId": "1557054972074397697"
     }
   },
   "pending": {},
