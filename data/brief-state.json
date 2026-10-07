@@ -69259,23 +69259,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 6,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 17,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
       "dedupeKey": "brief:opp_2f11a9d2b3755055a536:sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
-      "firstSeenAt": "2026-10-07T00:06:14.126Z",
-      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -69872,11 +69872,11 @@
       },
       "contentHash": "sha256:b53b22f7d8334a9c4036f030abaf7eb3c68cb41b635b41669f07f9959bcee257",
       "dedupeKey": "brief:opp_5ddf4f3c53932774dd08:sha256:b53b22f7d8334a9c4036f030abaf7eb3c68cb41b635b41669f07f9959bcee257",
-      "firstSeenAt": "2026-10-07T00:06:14.126Z",
-      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -69920,11 +69920,11 @@
       },
       "contentHash": "sha256:7bdf803008d46c0ae09261319cc7b02b4991d612848907b9f98b2bf47676659f",
       "dedupeKey": "brief:opp_9a5c3ec48deae043d527:sha256:7bdf803008d46c0ae09261319cc7b02b4991d612848907b9f98b2bf47676659f",
-      "firstSeenAt": "2026-10-07T00:06:14.126Z",
-      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -70017,11 +70017,11 @@
       },
       "contentHash": "sha256:3f978070188a3f6694c6cb1ec2059cc8268348a02b9af82393fc33f13529f9b2",
       "dedupeKey": "brief:opp_9bbb6a8fa3c8182721d1:sha256:3f978070188a3f6694c6cb1ec2059cc8268348a02b9af82393fc33f13529f9b2",
-      "firstSeenAt": "2026-10-07T00:06:14.126Z",
-      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -70177,6 +70177,251 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b80ea6990892fca32cef": {
+      "id": "opp_b80ea6990892fca32cef",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34900",
+      "canonicalUrl": "https://jross.me/open-source-as-we-know-it-is-dead",
+      "title": "우리가 알던 오픈소스는 죽었다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T02:04:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 기여를 만드는 비용은 낮아졌지만 검토 비용은 줄지 않아, 오픈소스 유지관리자들이 외부 기여를 제한하거나 차단하고 있음 과거에는 상당한 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34900"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a1f02b3bb019a819f893d5268eb9efc409f043ec77dbd1b71a0a42b11753e99b",
+      "dedupeKey": "brief:opp_b80ea6990892fca32cef:sha256:a1f02b3bb019a819f893d5268eb9efc409f043ec77dbd1b71a0a42b11753e99b",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a72325c5df4a559a528d": {
+      "id": "opp_a72325c5df4a559a528d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34876",
+      "canonicalUrl": "https://www.vivienhenz.com/common-lisp",
+      "title": "Common Lisp이 이제 최고의 프로그래밍 언어인 이유",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T15:38:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "LLM이 코드를 빠르게 작성할수록 실행하고 확인하는 피드백 루프가 중요해짐. Common Lisp은 실행 중 함수를 교체하고 오류를 수정한 뒤 재개할 수...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34876"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
+      "dedupeKey": "brief:opp_a72325c5df4a559a528d:sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_97ce176ec9af94ed9cf8": {
+      "id": "opp_97ce176ec9af94ed9cf8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34916",
+      "canonicalUrl": "https://github.com/TencentCloud/Octop",
+      "title": "Octop - 가족과 소규모 팀이 함께 쓰는 셀프 호스팅 AI 비서",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "TencentCloud가 공개한 여러 사용자와 전문 에이전트를 지원하는 오픈소스 AI 비서 플랫폼으로, 개인 컴퓨터나 자체 서버에서 운영 사용자마다 작...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34916"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c05316b81d756b2db43884657edc2eeccd0e889fd3066047c30054fc92d8ba18",
+      "dedupeKey": "brief:opp_97ce176ec9af94ed9cf8:sha256:c05316b81d756b2db43884657edc2eeccd0e889fd3066047c30054fc92d8ba18",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a44099776666458c9119": {
+      "id": "opp_a44099776666458c9119",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34868",
+      "canonicalUrl": "https://qlabs.sh/research/dust",
+      "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T11:40:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Dust는 모델 내부의 계산값에 작은 무작위 변화를 주고, 예측 오류가 줄어드는 방향을 찾아 역전파 없이 트랜스포머를 처음부터 학습하는 방법임 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34868"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:774ed37c8785939a3bd878b36c4a7fe9a6d53ff2784b3e9b070d0b7012f0e808",
+      "dedupeKey": "brief:opp_a44099776666458c9119:sha256:774ed37c8785939a3bd878b36c4a7fe9a6d53ff2784b3e9b070d0b7012f0e808",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f87ed3c989358ab6a022": {
+      "id": "opp_f87ed3c989358ab6a022",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34898",
+      "canonicalUrl": "https://news.hada.io/topic?id=34898",
+      "title": "Show GN: Mytory Video Tools - 간단한 영상 작업을 초고속으로 처리하는 FFmpeg GUI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T00:46:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "영상 작업을 할 때가 많은데 몇 가지가 아쉬웠습니다. mkv를 mp4로 변경하는데 GUI 인코딩 툴들은 컨테이너만 바꾸는 기능을 찾질 못하겠더라고요....",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34898"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d4d88eb981b26521a45aea0b0e32b1f45f896dbb855ae7c6ef4f3619336bc02b",
+      "dedupeKey": "brief:opp_f87ed3c989358ab6a022:sha256:d4d88eb981b26521a45aea0b0e32b1f45f896dbb855ae7c6ef4f3619336bc02b",
+      "firstSeenAt": "2026-10-07T04:50:30.738Z",
+      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -77819,6 +78064,36 @@
       "opportunityId": "opp_aacd920de32a62bb3cc0",
       "sentAt": "2026-10-07T00:06:14.126Z",
       "messageId": "1557182228763512938"
+    },
+    "brief:opp_5ddf4f3c53932774dd08:sha256:b53b22f7d8334a9c4036f030abaf7eb3c68cb41b635b41669f07f9959bcee257": {
+      "status": "SENT",
+      "opportunityId": "opp_5ddf4f3c53932774dd08",
+      "sentAt": "2026-10-07T04:50:30.738Z",
+      "messageId": "1557253769337634880"
+    },
+    "brief:opp_9a5c3ec48deae043d527:sha256:7bdf803008d46c0ae09261319cc7b02b4991d612848907b9f98b2bf47676659f": {
+      "status": "SENT",
+      "opportunityId": "opp_9a5c3ec48deae043d527",
+      "sentAt": "2026-10-07T04:50:30.738Z",
+      "messageId": "1557253769337634880"
+    },
+    "brief:opp_97ce176ec9af94ed9cf8:sha256:c05316b81d756b2db43884657edc2eeccd0e889fd3066047c30054fc92d8ba18": {
+      "status": "SENT",
+      "opportunityId": "opp_97ce176ec9af94ed9cf8",
+      "sentAt": "2026-10-07T04:50:30.738Z",
+      "messageId": "1557253769337634880"
+    },
+    "brief:opp_b80ea6990892fca32cef:sha256:a1f02b3bb019a819f893d5268eb9efc409f043ec77dbd1b71a0a42b11753e99b": {
+      "status": "SENT",
+      "opportunityId": "opp_b80ea6990892fca32cef",
+      "sentAt": "2026-10-07T04:50:30.738Z",
+      "messageId": "1557253769337634880"
+    },
+    "brief:opp_9bbb6a8fa3c8182721d1:sha256:3f978070188a3f6694c6cb1ec2059cc8268348a02b9af82393fc33f13529f9b2": {
+      "status": "SENT",
+      "opportunityId": "opp_9bbb6a8fa3c8182721d1",
+      "sentAt": "2026-10-07T04:50:30.738Z",
+      "messageId": "1557253769337634880"
     }
   },
   "pending": {},
