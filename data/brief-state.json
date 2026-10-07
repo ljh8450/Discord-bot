@@ -68412,23 +68412,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 20,
+        "communityPoints": 10,
+        "communityRank": 18,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
       "dedupeKey": "brief:opp_9d4aa31a4fbf60bc702e:sha256:08b79b9240007cdfe1b29ca6c0c944359f7e99d1088992776101b755c7ec19db",
-      "firstSeenAt": "2026-10-06T05:21:18.638Z",
-      "lastSeenAt": "2026-10-06T05:21:18.638Z",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -68965,13 +68965,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityRank": 10,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -68979,8 +68979,8 @@
       },
       "contentHash": "sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
       "dedupeKey": "brief:opp_050a132d8f6669fcdedb:sha256:92533885ee39398e5e62661de047fc8578d75b7bdedc0426ecfdfaafb01db8fc",
-      "firstSeenAt": "2026-10-06T15:40:33.580Z",
-      "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -69259,8 +69259,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 7,
+        "communityPoints": 9,
+        "communityRank": 6,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -69274,8 +69274,8 @@
       },
       "contentHash": "sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
       "dedupeKey": "brief:opp_2f11a9d2b3755055a536:sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
-      "firstSeenAt": "2026-10-06T15:40:33.580Z",
-      "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -69680,6 +69680,500 @@
       "dedupeKey": "brief:opp_7278cdf346d592074ed8:sha256:2453c93a6ef021e9c0e86f20864eb785ff81ea8c76e56ea00f077a5ee6d878ae",
       "firstSeenAt": "2026-10-06T15:40:33.580Z",
       "lastSeenAt": "2026-10-06T15:40:33.580Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aacd920de32a62bb3cc0": {
+      "id": "opp_aacd920de32a62bb3cc0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34854",
+      "canonicalUrl": "https://github.com/mvschwarz/openrig",
+      "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude Code, Codex, Pi 등의 코딩 에이전트를 역할과 공유 문맥을 갖춘 지속적인 팀으로 구성하는 오픈소스 도구 개별 터미널 세션에 일일이 지시...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34854"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d84b1c4241c3f2a699d5bcc4c437690ddd580f3d815713010f4569023b70d80d",
+      "dedupeKey": "brief:opp_aacd920de32a62bb3cc0:sha256:d84b1c4241c3f2a699d5bcc4c437690ddd580f3d815713010f4569023b70d80d",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f716032549a90f757cdc": {
+      "id": "opp_f716032549a90f757cdc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34813",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "title": "AI로 의도, 품질, 예술성을 확장하는 법 [영상]",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-05T16:36:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI로 누구나 빠르게 제품을 만드는 시대에는 맥락과 개성 없이 외형만 그럴듯한 ‘좀비 UI’가 늘어날 수 있음 AI는 고유한 브랜드와 사용자 맥락보...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34813"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5c91ee5ff8c71ff8082c304895e32d59ac1cdf59b4a83ffe65144770cef7378b",
+      "dedupeKey": "brief:opp_f716032549a90f757cdc:sha256:5c91ee5ff8c71ff8082c304895e32d59ac1cdf59b4a83ffe65144770cef7378b",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eba9f48c0920f80de308": {
+      "id": "opp_eba9f48c0920f80de308",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/jump-trading",
+      "canonicalUrl": "https://openai.com/index/jump-trading",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "summaryEvidence": [
+        "https://openai.com/index/jump-trading"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5c16e88f6740b9021d5b6cf62caf5c486faeb469b7d3352fa763954dd80724d6",
+      "dedupeKey": "brief:opp_eba9f48c0920f80de308:sha256:5c16e88f6740b9021d5b6cf62caf5c486faeb469b7d3352fa763954dd80724d6",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5ddf4f3c53932774dd08": {
+      "id": "opp_5ddf4f3c53932774dd08",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "canonicalUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "summaryEvidence": [
+        "https://openai.com/index/sharing-ai-progress-in-mathematics"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b53b22f7d8334a9c4036f030abaf7eb3c68cb41b635b41669f07f9959bcee257",
+      "dedupeKey": "brief:opp_5ddf4f3c53932774dd08:sha256:b53b22f7d8334a9c4036f030abaf7eb3c68cb41b635b41669f07f9959bcee257",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9a5c3ec48deae043d527": {
+      "id": "opp_9a5c3ec48deae043d527",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "canonicalUrl": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "Advancing computer use with Ironclad",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "summaryEvidence": [
+        "https://openai.com/index/advancing-computer-use-with-ironclad"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7bdf803008d46c0ae09261319cc7b02b4991d612848907b9f98b2bf47676659f",
+      "dedupeKey": "brief:opp_9a5c3ec48deae043d527:sha256:7bdf803008d46c0ae09261319cc7b02b4991d612848907b9f98b2bf47676659f",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_927b8eddc3a8b8d5d53f": {
+      "id": "opp_927b8eddc3a8b8d5d53f",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/atlassian-partnership",
+      "canonicalUrl": "https://openai.com/index/atlassian-partnership",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "summaryEvidence": [
+        "https://openai.com/index/atlassian-partnership"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:21f61f47c6f97eaba6a695be7538356b0b0575977f2a43b318c73e8bdf447948",
+      "dedupeKey": "brief:opp_927b8eddc3a8b8d5d53f:sha256:21f61f47c6f97eaba6a695be7538356b0b0575977f2a43b318c73e8bdf447948",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9bbb6a8fa3c8182721d1": {
+      "id": "opp_9bbb6a8fa3c8182721d1",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/cyber-verification-program",
+      "canonicalUrl": "https://www.anthropic.com/news/cyber-verification-program",
+      "title": "Expanding the Cyber Verification Program",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/cyber-verification-program"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3f978070188a3f6694c6cb1ec2059cc8268348a02b9af82393fc33f13529f9b2",
+      "dedupeKey": "brief:opp_9bbb6a8fa3c8182721d1:sha256:3f978070188a3f6694c6cb1ec2059cc8268348a02b9af82393fc33f13529f9b2",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e27d5e6d59674c20d59": {
+      "id": "opp_7e27d5e6d59674c20d59",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99275",
+      "canonicalUrl": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "title": "Building Git infrastructure for agent-scale development",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 06 Oct 2026 20:57:56 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:316836f6b1ce554265ef0155fa7b5978963632a9fa2d7da8e54b041877c5f653",
+      "dedupeKey": "brief:opp_7e27d5e6d59674c20d59:sha256:316836f6b1ce554265ef0155fa7b5978963632a9fa2d7da8e54b041877c5f653",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8328ad13cea6c4d334c8": {
+      "id": "opp_8328ad13cea6c4d334c8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:_0zB1Qj-xoE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_0zB1Qj-xoE",
+      "title": "[한영자막] 켄트 벡이 밝히는 AI 시대의 소프트웨어 엔지니어링, 진짜 개발의 본질은 무엇일까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T22:00:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "익스트림 프로그래밍(XP)과 TDD의 창시자이자 애자일 선언문의 첫 번째 서명자인 켄트 벡(Kent Beck)이 AI 시대의 소프트웨어 엔지니어링과 장인정신에 대해 이야기합니다. AI 모델이 코드의 대부분을 작성하는 시대, 개발자가 놓치지 말아야 할 진짜 본질은 무엇일까요? 📌 주요 내용: • 그럴듯한 코드(Plausible)와 작동하는 코드(Working)의 차이: AI를 '지니'라 부르는 이유 • 기능(Features) vs 미래의 선택권(Futures): 음표 사이의 쉼표처럼 기능 사이에",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_0zB1Qj-xoE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-06T22:00:28.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3075c2d3402b34acea70671a95146ee1acb00240978e5e5c6779a796e8046ba3",
+      "dedupeKey": "brief:opp_8328ad13cea6c4d334c8:sha256:3075c2d3402b34acea70671a95146ee1acb00240978e5e5c6779a796e8046ba3",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_47759f72615e2e26cd67": {
+      "id": "opp_47759f72615e2e26cd67",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:rscb1DgJtNg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=rscb1DgJtNg",
+      "title": "Claude Now Does Video (FOR FREE) Thanks To JavaScript",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T17:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻Get 1:1 help: https://chaseai.io Claude mods are the biggest upgrade to claude code since skills. In this video I breakdown how they work and which you should",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=rscb1DgJtNg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-06T17:00:09.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0c67c8814ff8792397cedb03cce98835398e0beec0cf055db5e1c1356daa7470",
+      "dedupeKey": "brief:opp_47759f72615e2e26cd67:sha256:0c67c8814ff8792397cedb03cce98835398e0beec0cf055db5e1c1356daa7470",
+      "firstSeenAt": "2026-10-07T00:06:14.126Z",
+      "lastSeenAt": "2026-10-07T00:06:14.126Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -77289,6 +77783,42 @@
       "opportunityId": "opp_1b7fdbec6ac9d30df22a",
       "sentAt": "2026-10-06T15:40:33.580Z",
       "messageId": "1557054972074397697"
+    },
+    "brief:opp_7e27d5e6d59674c20d59:sha256:316836f6b1ce554265ef0155fa7b5978963632a9fa2d7da8e54b041877c5f653": {
+      "status": "SENT",
+      "opportunityId": "opp_7e27d5e6d59674c20d59",
+      "sentAt": "2026-10-07T00:06:14.126Z",
+      "messageId": "1557182228763512938"
+    },
+    "brief:opp_927b8eddc3a8b8d5d53f:sha256:21f61f47c6f97eaba6a695be7538356b0b0575977f2a43b318c73e8bdf447948": {
+      "status": "SENT",
+      "opportunityId": "opp_927b8eddc3a8b8d5d53f",
+      "sentAt": "2026-10-07T00:06:14.126Z",
+      "messageId": "1557182228763512938"
+    },
+    "brief:opp_eba9f48c0920f80de308:sha256:5c16e88f6740b9021d5b6cf62caf5c486faeb469b7d3352fa763954dd80724d6": {
+      "status": "SENT",
+      "opportunityId": "opp_eba9f48c0920f80de308",
+      "sentAt": "2026-10-07T00:06:14.126Z",
+      "messageId": "1557182228763512938"
+    },
+    "brief:opp_8328ad13cea6c4d334c8:sha256:3075c2d3402b34acea70671a95146ee1acb00240978e5e5c6779a796e8046ba3": {
+      "status": "SENT",
+      "opportunityId": "opp_8328ad13cea6c4d334c8",
+      "sentAt": "2026-10-07T00:06:14.126Z",
+      "messageId": "1557182228763512938"
+    },
+    "brief:opp_47759f72615e2e26cd67:sha256:0c67c8814ff8792397cedb03cce98835398e0beec0cf055db5e1c1356daa7470": {
+      "status": "SENT",
+      "opportunityId": "opp_47759f72615e2e26cd67",
+      "sentAt": "2026-10-07T00:06:14.126Z",
+      "messageId": "1557182228763512938"
+    },
+    "brief:opp_aacd920de32a62bb3cc0:sha256:d84b1c4241c3f2a699d5bcc4c437690ddd580f3d815713010f4569023b70d80d": {
+      "status": "SENT",
+      "opportunityId": "opp_aacd920de32a62bb3cc0",
+      "sentAt": "2026-10-07T00:06:14.126Z",
+      "messageId": "1557182228763512938"
     }
   },
   "pending": {},
