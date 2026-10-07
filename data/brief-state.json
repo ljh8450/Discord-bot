@@ -70256,7 +70256,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 7,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -70270,8 +70270,8 @@
       },
       "contentHash": "sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
       "dedupeKey": "brief:opp_a72325c5df4a559a528d:sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
-      "firstSeenAt": "2026-10-07T09:06:21.283Z",
-      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70451,7 +70451,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 9,
         "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -70466,8 +70466,8 @@
       },
       "contentHash": "sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec",
       "dedupeKey": "brief:opp_d185d9fb4f3480132077:sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec",
-      "firstSeenAt": "2026-10-07T09:06:21.283Z",
-      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70500,26 +70500,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityPoints": 10,
+        "communityRank": 5,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:1f644499de0bdb6ede4fc741aed84e2d48fabff965af51a3174c07d55f42debb",
       "dedupeKey": "brief:opp_eb5dc166a14d87d032b9:sha256:1f644499de0bdb6ede4fc741aed84e2d48fabff965af51a3174c07d55f42debb",
-      "firstSeenAt": "2026-10-07T09:06:21.283Z",
-      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -70549,8 +70549,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 8,
+        "communityPoints": 9,
+        "communityRank": 9,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -70564,8 +70564,8 @@
       },
       "contentHash": "sha256:67e4199cf6b7bd9e299511d83840c546646863d624be98429ea1cd431eed549f",
       "dedupeKey": "brief:opp_334b74c7817d3ac1eeaa:sha256:67e4199cf6b7bd9e299511d83840c546646863d624be98429ea1cd431eed549f",
-      "firstSeenAt": "2026-10-07T09:06:21.283Z",
-      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70648,7 +70648,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 11,
+        "communityRank": 12,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -70662,8 +70662,8 @@
       },
       "contentHash": "sha256:b524f101cc2e322d5dd78663bf88d2f17dd2d54ece2cec0e08f69fdec5961156",
       "dedupeKey": "brief:opp_5b4660d3e1102abf3f89:sha256:b524f101cc2e322d5dd78663bf88d2f17dd2d54ece2cec0e08f69fdec5961156",
-      "firstSeenAt": "2026-10-07T09:06:21.283Z",
-      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70815,6 +70815,157 @@
       "dedupeKey": "brief:opp_59c8bd00968c7a6afd9b:sha256:fb3a20c9debdbc00743d8d83a0ece9c08080e2c79811f94d5d835c0910a1761f",
       "firstSeenAt": "2026-10-07T09:06:21.283Z",
       "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7c730130c7296417ebc2": {
+      "id": "opp_7c730130c7296417ebc2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34932",
+      "canonicalUrl": "https://medium.com/@afaics/jev%EA%B0%80-%EC%97%AC%EB%8A%94-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EC%84%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A1%9C-6ec58ea5d338",
+      "title": "jev가 여는 비즈니스 AI: 에이전트에서 컴포넌트로",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T16:24:23+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "TypeSafe AI의 jev 발표를 계기로, 엔터프라이즈 비즈니스 파이프라인에서 생성형 LLM을 다루며 느낀 구조적 한계와 아키텍처적 대안을 정리한 에...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34932"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:40eac4b5587572d2fb7672ec06357879ba28f19aa88808a1c5f4140925ced682",
+      "dedupeKey": "brief:opp_7c730130c7296417ebc2:sha256:40eac4b5587572d2fb7672ec06357879ba28f19aa88808a1c5f4140925ced682",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cb46a99360f17059015d": {
+      "id": "opp_cb46a99360f17059015d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34922",
+      "canonicalUrl": "https://x.com/jeffreykWNDR/status/2102774995315245469",
+      "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T10:05:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI를 받아들일지 거부할지만 논쟁하기보다 창작자의 기여 인정, 동의와 보상을 먼저 정해야 함. 창작자의 작업 위에 일방적으로 쌓아 올리지 말고,...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34922"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f2873b3bf5fd045c7604ac10c7a1807c2876e42233a24f838a54a4f83c284cc8",
+      "dedupeKey": "brief:opp_cb46a99360f17059015d:sha256:f2873b3bf5fd045c7604ac10c7a1807c2876e42233a24f838a54a4f83c284cc8",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ac60027cc6b362324f2f": {
+      "id": "opp_ac60027cc6b362324f2f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:31XD1O74pks",
+      "canonicalUrl": "https://www.youtube.com/watch?v=31XD1O74pks",
+      "title": "[한영자막] 토큰 제한을 멈추세요: 하네스가 최적의 모델을 직접 고르게 해보세요",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T09:00:17+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "개발자들의 코딩 에이전트 토큰 비용이 폭증할 때, 사용량을 억지로 제한하는 것은 개발 생산성을 크게 떨어뜨립니다. Cast AI는 토큰 단가가 아닌 '작업당 비용(Cost per Task)'에 주목하여, 결과 품질을 유지하면서 최적의 모델(오픈소스/상용)을 자동으로 전환하는 오픈소스 하네스 'Kimchi'를 개발했습니다. 주요 내용: • 토큰당 단가보다 '작업당 비용'을 측정해야 하는 이유 • 결과 품질 점수에 따라 모델을 스스로 바꾸는 스마트 하네스 • 3개월간 사내 엔지니어 300명이 검증한",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=31XD1O74pks"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-07T09:00:17.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3bf7e10ff65f714ca1fd09fc417bf536958c2f2a83e846e5d3c3b2eeded94424",
+      "dedupeKey": "brief:opp_ac60027cc6b362324f2f:sha256:3bf7e10ff65f714ca1fd09fc417bf536958c2f2a83e846e5d3c3b2eeded94424",
+      "firstSeenAt": "2026-10-07T16:04:41.028Z",
+      "lastSeenAt": "2026-10-07T16:04:41.028Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -78520,6 +78671,24 @@
       "opportunityId": "opp_a44099776666458c9119",
       "sentAt": "2026-10-07T09:06:21.283Z",
       "messageId": "1557318154890387560"
+    },
+    "brief:opp_ac60027cc6b362324f2f:sha256:3bf7e10ff65f714ca1fd09fc417bf536958c2f2a83e846e5d3c3b2eeded94424": {
+      "status": "SENT",
+      "opportunityId": "opp_ac60027cc6b362324f2f",
+      "sentAt": "2026-10-07T16:04:41.028Z",
+      "messageId": "1557423430494716005"
+    },
+    "brief:opp_7c730130c7296417ebc2:sha256:40eac4b5587572d2fb7672ec06357879ba28f19aa88808a1c5f4140925ced682": {
+      "status": "SENT",
+      "opportunityId": "opp_7c730130c7296417ebc2",
+      "sentAt": "2026-10-07T16:04:41.028Z",
+      "messageId": "1557423430494716005"
+    },
+    "brief:opp_eb5dc166a14d87d032b9:sha256:1f644499de0bdb6ede4fc741aed84e2d48fabff965af51a3174c07d55f42debb": {
+      "status": "SENT",
+      "opportunityId": "opp_eb5dc166a14d87d032b9",
+      "sentAt": "2026-10-07T16:04:41.028Z",
+      "messageId": "1557423430494716005"
     }
   },
   "pending": {},
