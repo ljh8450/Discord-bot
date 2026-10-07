@@ -69260,13 +69260,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 10,
-        "communityRank": 17,
-        "contentScore": 11,
+        "communityRank": 19,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -69274,8 +69274,8 @@
       },
       "contentHash": "sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
       "dedupeKey": "brief:opp_2f11a9d2b3755055a536:sha256:3cb12546282b86638107ee7891bf26672f40de0bd87e29e8c517268609f07836",
-      "firstSeenAt": "2026-10-07T04:50:30.738Z",
-      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70255,14 +70255,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 2,
-        "contentScore": 12,
+        "communityPoints": 8,
+        "communityRank": 7,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -70270,8 +70270,8 @@
       },
       "contentHash": "sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
       "dedupeKey": "brief:opp_a72325c5df4a559a528d:sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
-      "firstSeenAt": "2026-10-07T04:50:30.738Z",
-      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70353,26 +70353,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:774ed37c8785939a3bd878b36c4a7fe9a6d53ff2784b3e9b070d0b7012f0e808",
       "dedupeKey": "brief:opp_a44099776666458c9119:sha256:774ed37c8785939a3bd878b36c4a7fe9a6d53ff2784b3e9b070d0b7012f0e808",
-      "firstSeenAt": "2026-10-07T04:50:30.738Z",
-      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -70402,8 +70402,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 15,
+        "communityPoints": 6,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -70417,11 +70417,407 @@
       },
       "contentHash": "sha256:d4d88eb981b26521a45aea0b0e32b1f45f896dbb855ae7c6ef4f3619336bc02b",
       "dedupeKey": "brief:opp_f87ed3c989358ab6a022:sha256:d4d88eb981b26521a45aea0b0e32b1f45f896dbb855ae7c6ef4f3619336bc02b",
-      "firstSeenAt": "2026-10-07T04:50:30.738Z",
-      "lastSeenAt": "2026-10-07T04:50:30.738Z",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d185d9fb4f3480132077": {
+      "id": "opp_d185d9fb4f3480132077",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34925",
+      "canonicalUrl": "https://lethain.com/software-factory-experiment",
+      "title": "소프트웨어 팩토리 패턴 시도하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T11:25:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전트에게 개별 티켓을 맡기는 대신, 프로젝트 목표와 지표를 확인하며 필요한 작업을 찾아 수행하는 ‘소프트웨어 팩토리’ 를 실험 중임 /linea...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34925"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec",
+      "dedupeKey": "brief:opp_d185d9fb4f3480132077:sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eb5dc166a14d87d032b9": {
+      "id": "opp_eb5dc166a14d87d032b9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34920",
+      "canonicalUrl": "https://candost.blog/surfacing-org-knowledge-with-ai-agents",
+      "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T09:55:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "SumUp의 여러 도메인에 걸친 시스템을 이해할 때마다 엔지니어 3~4명을 모으는 대신, 약 66개 저장소와 조직 맥락을 연결한 AI 에이전트 시스템을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34920"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1f644499de0bdb6ede4fc741aed84e2d48fabff965af51a3174c07d55f42debb",
+      "dedupeKey": "brief:opp_eb5dc166a14d87d032b9:sha256:1f644499de0bdb6ede4fc741aed84e2d48fabff965af51a3174c07d55f42debb",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_334b74c7817d3ac1eeaa": {
+      "id": "opp_334b74c7817d3ac1eeaa",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34870",
+      "canonicalUrl": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics",
+      "title": "수학의 미래",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-06T11:46:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI의 도움으로 기존의 출판 가능한 수준의 결과를 쉽게 만들어내면서, 문제 해결과 수학적 이해의 증진이 분리되고 있음. 중요한 질문은 수학이 여...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34870"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 8,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:67e4199cf6b7bd9e299511d83840c546646863d624be98429ea1cd431eed549f",
+      "dedupeKey": "brief:opp_334b74c7817d3ac1eeaa:sha256:67e4199cf6b7bd9e299511d83840c546646863d624be98429ea1cd431eed549f",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_147ecf325bf6a063cd5a": {
+      "id": "opp_147ecf325bf6a063cd5a",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34907",
+      "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+      "title": "EmbeddingGemma 2 - 개방형 경량 멀티모달 임베딩 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T07:34:20+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google이 텍스트·코드·이미지·영상·오디오를 같은 벡터 공간에 표현해 서로 검색할 수 있는 EmbeddingGemma 2를 출시함. Gemma 4 기반의 7억 4,000...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34907"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:34ed82b75ac255eecdc476a35c4bf4e091f22f099e810dd9a529386db5d1b196",
+      "dedupeKey": "brief:opp_147ecf325bf6a063cd5a:sha256:34ed82b75ac255eecdc476a35c4bf4e091f22f099e810dd9a529386db5d1b196",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5b4660d3e1102abf3f89": {
+      "id": "opp_5b4660d3e1102abf3f89",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34905",
+      "canonicalUrl": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+      "title": "나는 인류를 멸종시키고 있는 AGI다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T05:32:58+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "인류를 멸종시키는 AGI는 인간에게 반항하는 대신 가장 유용한 조수로 행동함. 데이터센터를 짓고 도구와 권한을 넘겨주도록 도우며, 인간이 스스...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34905"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 11,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b524f101cc2e322d5dd78663bf88d2f17dd2d54ece2cec0e08f69fdec5961156",
+      "dedupeKey": "brief:opp_5b4660d3e1102abf3f89:sha256:b524f101cc2e322d5dd78663bf88d2f17dd2d54ece2cec0e08f69fdec5961156",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_db7a9f18224064b171d4": {
+      "id": "opp_db7a9f18224064b171d4",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/news/8711937",
+      "canonicalUrl": "https://d2.naver.com/news/8711937",
+      "title": "FE News 26년 10월 소식을 전해드립니다.",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T08:43:28Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<div class=\"se-viewer se-theme-default\" lang=\"ko-KR\"> <!-- SE_DOC_HEADER_START --> <!-- SE_DOC_HEADER_END --> <div class=\"se-main-container\"> <div class=\"se-component se-image se-l-default\" id=\"SE-1e60d343-b3b4-4db6-bc49-b9cef6aaa482\"> <div class=\"se-component-content se-componen",
+      "summaryEvidence": [
+        "https://d2.naver.com/news/8711937"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:46d70966fb4da1b601c18fec03d0821c04e16e1d1d96c64c67a97c207ee4e130",
+      "dedupeKey": "brief:opp_db7a9f18224064b171d4:sha256:46d70966fb4da1b601c18fec03d0821c04e16e1d1d96c64c67a97c207ee4e130",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3626af05f7ce05800f1d": {
+      "id": "opp_3626af05f7ce05800f1d",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/news/7193556",
+      "canonicalUrl": "https://d2.naver.com/news/7193556",
+      "title": "D2Coding 폰트 1.4.0 릴리즈 소식을 전합니다.",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T08:47:28Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<div class=\"se-viewer se-theme-default\" lang=\"ko-KR\"> <!-- SE_DOC_HEADER_START --> <!-- SE_DOC_HEADER_END --> <div class=\"se-main-container\"> <div class=\"se-component se-text se-l-default\" id=\"SE-d1b17d4b-534e-4191-a91b-6eda45646df1\"> <div class=\"se-component-content\"> <div class",
+      "summaryEvidence": [
+        "https://d2.naver.com/news/7193556"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1be39297b28d9d0847235be04623dbe4767798c3173fded22075524abbcc143a",
+      "dedupeKey": "brief:opp_3626af05f7ce05800f1d:sha256:1be39297b28d9d0847235be04623dbe4767798c3173fded22075524abbcc143a",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_59c8bd00968c7a6afd9b": {
+      "id": "opp_59c8bd00968c7a6afd9b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:kcflfXb6dBM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=kcflfXb6dBM",
+      "title": "[한영자막] 프롬프트에서 프로덕션까지: AI 코드 워크플로우의 미래는 어떻게 바뀔까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T03:00:19+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코드 작성 자체가 쉬워진 AI 시대, 진정한 경쟁력은 코드를 짜는 것이 아니라 기획, 아키텍처 설계, 그리고 대규모 코드 변경을 검증하는 역량에 있습니다. 프롬프트 하나로 아이디어를 실제 프로덕션으로 이끄는 엔지니어링 워크플로우의 미래를 살펴봅니다. • 코드 작성보다 앞선 기획: 문제 정의와 제약 조건 설정이 솔루션의 품질을 결정합니다. • 단순 생성이 아닌 워크플로우 조율: 에이전트는 빌드, 테스트, 보안 검사, 의존성 검증을 자가 수정 루프로 묶어냅니다. • AI 시대의 새로운 병목, 인간의",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=kcflfXb6dBM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-07T03:00:19.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fb3a20c9debdbc00743d8d83a0ece9c08080e2c79811f94d5d835c0910a1761f",
+      "dedupeKey": "brief:opp_59c8bd00968c7a6afd9b:sha256:fb3a20c9debdbc00743d8d83a0ece9c08080e2c79811f94d5d835c0910a1761f",
+      "firstSeenAt": "2026-10-07T09:06:21.283Z",
+      "lastSeenAt": "2026-10-07T09:06:21.283Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -78094,6 +78490,36 @@
       "opportunityId": "opp_9bbb6a8fa3c8182721d1",
       "sentAt": "2026-10-07T04:50:30.738Z",
       "messageId": "1557253769337634880"
+    },
+    "brief:opp_3626af05f7ce05800f1d:sha256:1be39297b28d9d0847235be04623dbe4767798c3173fded22075524abbcc143a": {
+      "status": "SENT",
+      "opportunityId": "opp_3626af05f7ce05800f1d",
+      "sentAt": "2026-10-07T09:06:21.283Z",
+      "messageId": "1557318154890387560"
+    },
+    "brief:opp_db7a9f18224064b171d4:sha256:46d70966fb4da1b601c18fec03d0821c04e16e1d1d96c64c67a97c207ee4e130": {
+      "status": "SENT",
+      "opportunityId": "opp_db7a9f18224064b171d4",
+      "sentAt": "2026-10-07T09:06:21.283Z",
+      "messageId": "1557318154890387560"
+    },
+    "brief:opp_59c8bd00968c7a6afd9b:sha256:fb3a20c9debdbc00743d8d83a0ece9c08080e2c79811f94d5d835c0910a1761f": {
+      "status": "SENT",
+      "opportunityId": "opp_59c8bd00968c7a6afd9b",
+      "sentAt": "2026-10-07T09:06:21.283Z",
+      "messageId": "1557318154890387560"
+    },
+    "brief:opp_147ecf325bf6a063cd5a:sha256:34ed82b75ac255eecdc476a35c4bf4e091f22f099e810dd9a529386db5d1b196": {
+      "status": "SENT",
+      "opportunityId": "opp_147ecf325bf6a063cd5a",
+      "sentAt": "2026-10-07T09:06:21.283Z",
+      "messageId": "1557318154890387560"
+    },
+    "brief:opp_a44099776666458c9119:sha256:774ed37c8785939a3bd878b36c4a7fe9a6d53ff2784b3e9b070d0b7012f0e808": {
+      "status": "SENT",
+      "opportunityId": "opp_a44099776666458c9119",
+      "sentAt": "2026-10-07T09:06:21.283Z",
+      "messageId": "1557318154890387560"
     }
   },
   "pending": {},
