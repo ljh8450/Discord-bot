@@ -71108,8 +71108,8 @@
       },
       "contentHash": "sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
       "dedupeKey": "brief:opp_e906dc58b148f6ef2be3:sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
-      "firstSeenAt": "2026-10-08T09:05:32.452Z",
-      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71346,7 +71346,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 9,
         "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -71361,11 +71361,11 @@
       },
       "contentHash": "sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0",
       "dedupeKey": "brief:opp_f5dfc6fd573939933613:sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0",
-      "firstSeenAt": "2026-10-08T09:05:32.452Z",
-      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -71493,26 +71493,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 10,
         "communityRank": 3,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:dc2f92c3267dbeb62678d0c96723034474f39111020bd73fad1f2985f60ae6ae",
       "dedupeKey": "brief:opp_77324a06351e31a60c9c:sha256:dc2f92c3267dbeb62678d0c96723034474f39111020bd73fad1f2985f60ae6ae",
-      "firstSeenAt": "2026-10-08T09:05:32.452Z",
-      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -71542,7 +71542,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 7,
         "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -71557,8 +71557,8 @@
       },
       "contentHash": "sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
       "dedupeKey": "brief:opp_c48885d383c6c1f96aef:sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
-      "firstSeenAt": "2026-10-08T09:05:32.452Z",
-      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71810,8 +71810,8 @@
       },
       "contentHash": "sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
       "dedupeKey": "brief:opp_c02dec16ff984fd7fc41:sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
-      "firstSeenAt": "2026-10-08T09:05:32.452Z",
-      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71918,6 +71918,258 @@
       "dedupeKey": "brief:opp_6dbf8ac29d3a17699366:sha256:132bbf4bc6a737b5528b31e21231a852d7d73fb1048990f57c7d5e0d2ade3fd1",
       "firstSeenAt": "2026-10-08T09:05:32.452Z",
       "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_edabb147cfae65bc66c0": {
+      "id": "opp_edabb147cfae65bc66c0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34974",
+      "canonicalUrl": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay",
+      "title": "소프트웨어 개발자들은 괜찮지 않다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:07:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 개발의 미래라는 말을 믿고 받아들였던 개발자들조차 업계를 떠나고 있음. 직접 사용해 본 뒤, 그 미래가 더는 즐겁지 않고 자신에게 해롭다...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34974"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f9c2c238a53a5b13122145384551d603b37d10be764f1519cf772b9fe8fbcdbf",
+      "dedupeKey": "brief:opp_edabb147cfae65bc66c0:sha256:f9c2c238a53a5b13122145384551d603b37d10be764f1519cf772b9fe8fbcdbf",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b55cf49c26d32b1f62df": {
+      "id": "opp_b55cf49c26d32b1f62df",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "canonicalUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "summaryEvidence": [
+        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b1ea0a0025417de865510b0fe1d0bd6fd3337bbbb2d7313df623fb3b1f69386a",
+      "dedupeKey": "brief:opp_b55cf49c26d32b1f62df:sha256:b1ea0a0025417de865510b0fe1d0bd6fd3337bbbb2d7313df623fb3b1f69386a",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_60cc8578fac49845313e": {
+      "id": "opp_60cc8578fac49845313e",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/genesis-mission-commitment",
+      "canonicalUrl": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/genesis-mission-commitment"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c4dc71097d4db3220128da80b76f1a00449b61828859f0fdfe966b8130a35e31",
+      "dedupeKey": "brief:opp_60cc8578fac49845313e:sha256:c4dc71097d4db3220128da80b76f1a00449b61828859f0fdfe966b8130a35e31",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a428b42a0c6d962546f2": {
+      "id": "opp_a428b42a0c6d962546f2",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:nUP3FlbtYvs",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nUP3FlbtYvs",
+      "title": "AI 에이전트 시대, 인간의 자리는 어디인가 | 실밸개발자 x 커리어해커 알렉스 AI 토크 1부-파트3",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:21:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "구독 해지·스팸 정리·경비 처리 — Meta Muse에 실제로 맡겨본 일들 (with 커리어해커 알렉스) 커리어해커 알렉스와 나눈 \"AI 시대, 우리는 무슨 일을 할까?\" 3편, 에이전트 이야기입니다. 1편 근황은 이 채널에, 2편 Opus 5.5·Astra 실전 활용은 커리어해커 알렉스 채널에 있습니다. 대담 주제를 모을 때 가장 많이 들어온 질문이 에이전트였습니다. 에이전트를 쓰는 건 알겠는데, 일을 잘 못하거나 잘 끝냈는지 확인할 방법이 없다는 질문이요. 그래서 먼저 에이전트를 정의하고 갑니",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=nUP3FlbtYvs"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-08T09:21:09.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c013e9374063dc0ab045a77bed12e2720503c821eea568672b23ada65eabaa1f",
+      "dedupeKey": "brief:opp_a428b42a0c6d962546f2:sha256:c013e9374063dc0ab045a77bed12e2720503c821eea568672b23ada65eabaa1f",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6011b3f39f7ae4506d77": {
+      "id": "opp_6011b3f39f7ae4506d77",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:B-tCy2bKSMc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=B-tCy2bKSMc",
+      "title": "100명이 10년 걸리던 엉망을 AI로 혼자 1주일 만에 — JUnit 만든 켄트 벡이 말하는 '기능 사이에 멈추는 법'",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:55:46+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "제이유닛을 만들고 테스트 주도 개발과 익스트림 프로그래밍을 이끈 켄트 벡이 \"이제 AI가 사람보다 코딩을 잘한다\"는 말에 정면으로 반대했습니다. 지난 1년 반쯤 매일 AI와 함께 코딩해 온 경험을 정리한 Prodacity 2026 발표를 클립과 함께 봅니다. 예전엔 100명이 10년을 써야 도착하던, 아무것도 고칠 수 없는 프로젝트에 이제 AI로 혼자 1주일이면 도착합니다. 기능(Features)과 앞으로 바꿀 여지(Futures)의 그래프로 그 이유를 설명하고, 기능 사이에 멈춰 여지를 되찾는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=B-tCy2bKSMc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-08T09:55:46.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6e7e7720cd4ce9d701772061ec639f031d10a6f6d17631495a0bc236e9b7244c",
+      "dedupeKey": "brief:opp_6011b3f39f7ae4506d77:sha256:6e7e7720cd4ce9d701772061ec639f031d10a6f6d17631495a0bc236e9b7244c",
+      "firstSeenAt": "2026-10-08T16:06:40.341Z",
+      "lastSeenAt": "2026-10-08T16:06:40.341Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -79731,6 +79983,42 @@
       "opportunityId": "opp_2e91272c783552517eb0",
       "sentAt": "2026-10-08T09:05:32.452Z",
       "messageId": "1557680338086662228"
+    },
+    "brief:opp_6011b3f39f7ae4506d77:sha256:6e7e7720cd4ce9d701772061ec639f031d10a6f6d17631495a0bc236e9b7244c": {
+      "status": "SENT",
+      "opportunityId": "opp_6011b3f39f7ae4506d77",
+      "sentAt": "2026-10-08T16:06:40.341Z",
+      "messageId": "1557786319348826133"
+    },
+    "brief:opp_b55cf49c26d32b1f62df:sha256:b1ea0a0025417de865510b0fe1d0bd6fd3337bbbb2d7313df623fb3b1f69386a": {
+      "status": "SENT",
+      "opportunityId": "opp_b55cf49c26d32b1f62df",
+      "sentAt": "2026-10-08T16:06:40.341Z",
+      "messageId": "1557786319348826133"
+    },
+    "brief:opp_60cc8578fac49845313e:sha256:c4dc71097d4db3220128da80b76f1a00449b61828859f0fdfe966b8130a35e31": {
+      "status": "SENT",
+      "opportunityId": "opp_60cc8578fac49845313e",
+      "sentAt": "2026-10-08T16:06:40.341Z",
+      "messageId": "1557786319348826133"
+    },
+    "brief:opp_a428b42a0c6d962546f2:sha256:c013e9374063dc0ab045a77bed12e2720503c821eea568672b23ada65eabaa1f": {
+      "status": "SENT",
+      "opportunityId": "opp_a428b42a0c6d962546f2",
+      "sentAt": "2026-10-08T16:06:40.341Z",
+      "messageId": "1557786319348826133"
+    },
+    "brief:opp_77324a06351e31a60c9c:sha256:dc2f92c3267dbeb62678d0c96723034474f39111020bd73fad1f2985f60ae6ae": {
+      "status": "SENT",
+      "opportunityId": "opp_77324a06351e31a60c9c",
+      "sentAt": "2026-10-08T16:06:40.341Z",
+      "messageId": "1557786319348826133"
+    },
+    "brief:opp_f5dfc6fd573939933613:sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0": {
+      "status": "SENT",
+      "opportunityId": "opp_f5dfc6fd573939933613",
+      "sentAt": "2026-10-08T16:06:40.341Z",
+      "messageId": "1557786319348826133"
     }
   },
   "pending": {},
