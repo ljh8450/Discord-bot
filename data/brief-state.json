@@ -70256,7 +70256,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -70270,8 +70270,8 @@
       },
       "contentHash": "sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
       "dedupeKey": "brief:opp_a72325c5df4a559a528d:sha256:40fb1ca3d0c413d7c09cca773b74b5829c39fa07bae1a03cd75c5bb34ad7546c",
-      "firstSeenAt": "2026-10-07T16:04:41.028Z",
-      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70452,7 +70452,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 4,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -70466,11 +70466,11 @@
       },
       "contentHash": "sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec",
       "dedupeKey": "brief:opp_d185d9fb4f3480132077:sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec",
-      "firstSeenAt": "2026-10-07T16:04:41.028Z",
-      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -70564,8 +70564,8 @@
       },
       "contentHash": "sha256:67e4199cf6b7bd9e299511d83840c546646863d624be98429ea1cd431eed549f",
       "dedupeKey": "brief:opp_334b74c7817d3ac1eeaa:sha256:67e4199cf6b7bd9e299511d83840c546646863d624be98429ea1cd431eed549f",
-      "firstSeenAt": "2026-10-07T16:04:41.028Z",
-      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70648,13 +70648,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 12,
-        "contentScore": 11,
+        "communityRank": 15,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -70662,8 +70662,8 @@
       },
       "contentHash": "sha256:b524f101cc2e322d5dd78663bf88d2f17dd2d54ece2cec0e08f69fdec5961156",
       "dedupeKey": "brief:opp_5b4660d3e1102abf3f89:sha256:b524f101cc2e322d5dd78663bf88d2f17dd2d54ece2cec0e08f69fdec5961156",
-      "firstSeenAt": "2026-10-07T16:04:41.028Z",
-      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70897,7 +70897,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 14,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -70911,8 +70911,8 @@
       },
       "contentHash": "sha256:f2873b3bf5fd045c7604ac10c7a1807c2876e42233a24f838a54a4f83c284cc8",
       "dedupeKey": "brief:opp_cb46a99360f17059015d:sha256:f2873b3bf5fd045c7604ac10c7a1807c2876e42233a24f838a54a4f83c284cc8",
-      "firstSeenAt": "2026-10-07T16:04:41.028Z",
-      "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -70966,6 +70966,305 @@
       "dedupeKey": "brief:opp_ac60027cc6b362324f2f:sha256:3bf7e10ff65f714ca1fd09fc417bf536958c2f2a83e846e5d3c3b2eeded94424",
       "firstSeenAt": "2026-10-07T16:04:41.028Z",
       "lastSeenAt": "2026-10-07T16:04:41.028Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_223b23cbd4115e514bb6": {
+      "id": "opp_223b23cbd4115e514bb6",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/teens-learn-and-plan",
+      "canonicalUrl": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "summaryEvidence": [
+        "https://openai.com/index/teens-learn-and-plan"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:df316bbc6c544a29b59142ab625c59deb0ecf0c712c03b06142decc5ca932aa9",
+      "dedupeKey": "brief:opp_223b23cbd4115e514bb6:sha256:df316bbc6c544a29b59142ab625c59deb0ecf0c712c03b06142decc5ca932aa9",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f89966e738dca18d0767": {
+      "id": "opp_f89966e738dca18d0767",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/radisson",
+      "canonicalUrl": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "summaryEvidence": [
+        "https://openai.com/index/radisson"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:10c0bba4ef172de2f4ef29d0b09140a46457880891047316072f1e1a10ce510d",
+      "dedupeKey": "brief:opp_f89966e738dca18d0767:sha256:10c0bba4ef172de2f4ef29d0b09140a46457880891047316072f1e1a10ce510d",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e906dc58b148f6ef2be3": {
+      "id": "opp_e906dc58b148f6ef2be3",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/gpt-6-for-everyone",
+      "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "summaryEvidence": [
+        "https://openai.com/index/gpt-6-for-everyone"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
+      "dedupeKey": "brief:opp_e906dc58b148f6ef2be3:sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_231b71a1550ceb914274": {
+      "id": "opp_231b71a1550ceb914274",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99310",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "title": "Secret protection must scale with software",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 07 Oct 2026 17:45:34 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d77d34bc011a5198633c411e1ebf6bbfa68017d06210de3c8fcfbc219dba5a8f",
+      "dedupeKey": "brief:opp_231b71a1550ceb914274:sha256:d77d34bc011a5198633c411e1ebf6bbfa68017d06210de3c8fcfbc219dba5a8f",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ae372a3800cdbf02b51e": {
+      "id": "opp_ae372a3800cdbf02b51e",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:eTtZlAPA9H4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=eTtZlAPA9H4",
+      "title": "[한영자막] 코딩 에이전트를 전략 게임으로 만들었습니다 — Ido Salomon, AgentCraft",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T22:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코딩 에이전트를 여러 개 돌릴 때 사람은 왜 병목이 될까요? AgentCraft 개발자 Ido Salomon이 전략 게임에서 가져온 인터페이스로 에이전트를 관리하는 방법을 시연합니다. 주요 내용 • 에이전트의 작업과 파일 변경을 지도·히트맵으로 확인하는 방법 • 퀘스트, 오케스트레이터, 루프로 반복 작업을 맡기는 방식 • 변경 사항을 영상·사진으로 확인하는 검토 도구 • 사람과 에이전트가 같은 방에서 함께 작업하는 협업 기능 • 숙련된 사용자의 가능성을 넓히고 초보자의 진입 문턱을 낮추는 접근 #",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=eTtZlAPA9H4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-07T22:00:34.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:325049338bfacd5c636e8167d6ead868e0aa3593fdf7d4408cdc460ce266125f",
+      "dedupeKey": "brief:opp_ae372a3800cdbf02b51e:sha256:325049338bfacd5c636e8167d6ead868e0aa3593fdf7d4408cdc460ce266125f",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1d64f133f8aff9a9fde6": {
+      "id": "opp_1d64f133f8aff9a9fde6",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:omNMcR6WWzQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=omNMcR6WWzQ",
+      "title": "Claude Haiku 5.5 Is LIVE (RIP OpenAI)",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-10-07T18:50:05+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai 🔥FREE community🔥 https://www.skool.com/chase-ai-community 💻 Need custom work? Book a consult 💻 https://chaseai.io Anthropic just revived Haiku. RESOURCES FROM THIS VIDEO: ➡️ Master",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=omNMcR6WWzQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-07T18:50:05.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1a6d5697151f28b8ebb2fc19db17b9ca65dcb758bec0253b4628ac3cb9809f7d",
+      "dedupeKey": "brief:opp_1d64f133f8aff9a9fde6:sha256:1a6d5697151f28b8ebb2fc19db17b9ca65dcb758bec0253b4628ac3cb9809f7d",
+      "firstSeenAt": "2026-10-08T00:06:12.017Z",
+      "lastSeenAt": "2026-10-08T00:06:12.017Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -78689,6 +78988,42 @@
       "opportunityId": "opp_eb5dc166a14d87d032b9",
       "sentAt": "2026-10-07T16:04:41.028Z",
       "messageId": "1557423430494716005"
+    },
+    "brief:opp_231b71a1550ceb914274:sha256:d77d34bc011a5198633c411e1ebf6bbfa68017d06210de3c8fcfbc219dba5a8f": {
+      "status": "SENT",
+      "opportunityId": "opp_231b71a1550ceb914274",
+      "sentAt": "2026-10-08T00:06:12.017Z",
+      "messageId": "1557544608223854654"
+    },
+    "brief:opp_223b23cbd4115e514bb6:sha256:df316bbc6c544a29b59142ab625c59deb0ecf0c712c03b06142decc5ca932aa9": {
+      "status": "SENT",
+      "opportunityId": "opp_223b23cbd4115e514bb6",
+      "sentAt": "2026-10-08T00:06:12.017Z",
+      "messageId": "1557544608223854654"
+    },
+    "brief:opp_f89966e738dca18d0767:sha256:10c0bba4ef172de2f4ef29d0b09140a46457880891047316072f1e1a10ce510d": {
+      "status": "SENT",
+      "opportunityId": "opp_f89966e738dca18d0767",
+      "sentAt": "2026-10-08T00:06:12.017Z",
+      "messageId": "1557544608223854654"
+    },
+    "brief:opp_ae372a3800cdbf02b51e:sha256:325049338bfacd5c636e8167d6ead868e0aa3593fdf7d4408cdc460ce266125f": {
+      "status": "SENT",
+      "opportunityId": "opp_ae372a3800cdbf02b51e",
+      "sentAt": "2026-10-08T00:06:12.017Z",
+      "messageId": "1557544608223854654"
+    },
+    "brief:opp_1d64f133f8aff9a9fde6:sha256:1a6d5697151f28b8ebb2fc19db17b9ca65dcb758bec0253b4628ac3cb9809f7d": {
+      "status": "SENT",
+      "opportunityId": "opp_1d64f133f8aff9a9fde6",
+      "sentAt": "2026-10-08T00:06:12.017Z",
+      "messageId": "1557544608223854654"
+    },
+    "brief:opp_d185d9fb4f3480132077:sha256:1dca115143860ab4fdb734f16d960df58273a3c86d7fcf51623ccc688e3172ec": {
+      "status": "SENT",
+      "opportunityId": "opp_d185d9fb4f3480132077",
+      "sentAt": "2026-10-08T00:06:12.017Z",
+      "messageId": "1557544608223854654"
     }
   },
   "pending": {},
