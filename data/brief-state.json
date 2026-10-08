@@ -71108,8 +71108,8 @@
       },
       "contentHash": "sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
       "dedupeKey": "brief:opp_e906dc58b148f6ef2be3:sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
-      "firstSeenAt": "2026-10-08T00:06:12.017Z",
-      "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "firstSeenAt": "2026-10-08T05:00:14.345Z",
+      "lastSeenAt": "2026-10-08T05:00:14.345Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71265,6 +71265,202 @@
       "dedupeKey": "brief:opp_1d64f133f8aff9a9fde6:sha256:1a6d5697151f28b8ebb2fc19db17b9ca65dcb758bec0253b4628ac3cb9809f7d",
       "firstSeenAt": "2026-10-08T00:06:12.017Z",
       "lastSeenAt": "2026-10-08T00:06:12.017Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d0cb58c01a50788eb5ed": {
+      "id": "opp_d0cb58c01a50788eb5ed",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34962",
+      "canonicalUrl": "https://refactoringenglish.com/blog/anti-patterns-software-blogging",
+      "title": "개발 블로그 글쓰기의 안티패턴",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T04:46:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "개발 블로그에서 가장 흔한 실수는 본론에 도달하기까지 너무 오래 걸리는 것임. 제목과 첫 세 문장 안에 누구를 위한 글인지, 읽으면 무엇을 얻는...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34962"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 10,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:5c569a1261f7e74f3b32be4a2d695988fb1e08e749749649f9f1e946f3e90816",
+      "dedupeKey": "brief:opp_d0cb58c01a50788eb5ed:sha256:5c569a1261f7e74f3b32be4a2d695988fb1e08e749749649f9f1e946f3e90816",
+      "firstSeenAt": "2026-10-08T05:00:14.345Z",
+      "lastSeenAt": "2026-10-08T05:00:14.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f5dfc6fd573939933613": {
+      "id": "opp_f5dfc6fd573939933613",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34960",
+      "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "OpenAI, GPT‑6 확대 적용과 더 똑똑한 대화형 UI 도입",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T04:40:36+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI가 ChatGPT에 GPT‑6와 대화형 인터페이스 ‘Intelligent UI’ 를 도입해, 텍스트 답변뿐 아니라 버튼·폼·차트·조작 가능한 도표를 대화 안에서...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34960"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0",
+      "dedupeKey": "brief:opp_f5dfc6fd573939933613:sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0",
+      "firstSeenAt": "2026-10-08T05:00:14.345Z",
+      "lastSeenAt": "2026-10-08T05:00:14.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b3d0367a0b5119b1cc13": {
+      "id": "opp_b3d0367a0b5119b1cc13",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34980",
+      "canonicalUrl": "https://a16z.com/100-gen-ai-apps-7",
+      "title": "a16z의 2026년 소비자 AI 앱 Top 100",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:45:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "ChatGPT가 웹·모바일 이용량과 미국 소비자 지출에서 선두를 유지하며, Claude는 웹 3위로 올라 DeepSeek와 Perplexity를 앞섬 소비자 지출 분석을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34980"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c0b32c1ea1fb63c0bf643ee7618c87681c2e8b549df162124dc2fb9c02e89228",
+      "dedupeKey": "brief:opp_b3d0367a0b5119b1cc13:sha256:c0b32c1ea1fb63c0bf643ee7618c87681c2e8b549df162124dc2fb9c02e89228",
+      "firstSeenAt": "2026-10-08T05:00:14.345Z",
+      "lastSeenAt": "2026-10-08T05:00:14.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6c64bb50a67c1616f549": {
+      "id": "opp_6c64bb50a67c1616f549",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "7b914a520d18d01837fce56ba89b27c7fea73e1c",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team",
+      "title": "넷마블넥서스의 AI 코딩 도구 도입기 – 게임 개발팀의 Kiro 도입 및 활용 여정",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 08 Oct 2026 02:36:25 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "생성형 AI는 현재 다양한 영역에서 활용되고 있습니다. 그 중 많은 조직에서 적극적으로 도입 및 활용하고 있는 것이 바로 AI 코딩 도구 또는 AI 코딩 어시스턴트라고 불리는 코드 작성을 돕는 AI 도구입니다. 이미 시장에는 다양한 제품들이 나와 있고, 더 이상 AI 코딩 도구를 사용하는 방법 자체가 어려운 시기는 아닙니다. 그러나 개인적으로 AI 코딩 도구를 사용하여 생산성을 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c9a349a3db6968617fcae2f80be9e5b5af4fa2b9df39bc60bcb968472cc0b4a2",
+      "dedupeKey": "brief:opp_6c64bb50a67c1616f549:sha256:c9a349a3db6968617fcae2f80be9e5b5af4fa2b9df39bc60bcb968472cc0b4a2",
+      "firstSeenAt": "2026-10-08T05:00:14.345Z",
+      "lastSeenAt": "2026-10-08T05:00:14.345Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -79024,6 +79220,24 @@
       "opportunityId": "opp_d185d9fb4f3480132077",
       "sentAt": "2026-10-08T00:06:12.017Z",
       "messageId": "1557544608223854654"
+    },
+    "brief:opp_6c64bb50a67c1616f549:sha256:c9a349a3db6968617fcae2f80be9e5b5af4fa2b9df39bc60bcb968472cc0b4a2": {
+      "status": "SENT",
+      "opportunityId": "opp_6c64bb50a67c1616f549",
+      "sentAt": "2026-10-08T05:00:14.345Z",
+      "messageId": "1557618604659314770"
+    },
+    "brief:opp_b3d0367a0b5119b1cc13:sha256:c0b32c1ea1fb63c0bf643ee7618c87681c2e8b549df162124dc2fb9c02e89228": {
+      "status": "SENT",
+      "opportunityId": "opp_b3d0367a0b5119b1cc13",
+      "sentAt": "2026-10-08T05:00:14.345Z",
+      "messageId": "1557618604659314770"
+    },
+    "brief:opp_d0cb58c01a50788eb5ed:sha256:5c569a1261f7e74f3b32be4a2d695988fb1e08e749749649f9f1e946f3e90816": {
+      "status": "SENT",
+      "opportunityId": "opp_d0cb58c01a50788eb5ed",
+      "sentAt": "2026-10-08T05:00:14.345Z",
+      "messageId": "1557618604659314770"
     }
   },
   "pending": {},
