@@ -71108,8 +71108,8 @@
       },
       "contentHash": "sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
       "dedupeKey": "brief:opp_e906dc58b148f6ef2be3:sha256:d2b7333e33c7f49406b1a6c3bfcb61511ea2e79b41ddead7f4fdd48a2d492eb0",
-      "firstSeenAt": "2026-10-08T05:00:14.345Z",
-      "lastSeenAt": "2026-10-08T05:00:14.345Z",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71347,7 +71347,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 2,
+        "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -71361,8 +71361,8 @@
       },
       "contentHash": "sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0",
       "dedupeKey": "brief:opp_f5dfc6fd573939933613:sha256:26266abc6e583ed6cb0ebb0cf8aadff16534341e07662be3c2bbe02193a45ac0",
-      "firstSeenAt": "2026-10-08T05:00:14.345Z",
-      "lastSeenAt": "2026-10-08T05:00:14.345Z",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71461,6 +71461,463 @@
       "dedupeKey": "brief:opp_6c64bb50a67c1616f549:sha256:c9a349a3db6968617fcae2f80be9e5b5af4fa2b9df39bc60bcb968472cc0b4a2",
       "firstSeenAt": "2026-10-08T05:00:14.345Z",
       "lastSeenAt": "2026-10-08T05:00:14.345Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_77324a06351e31a60c9c": {
+      "id": "opp_77324a06351e31a60c9c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34991",
+      "canonicalUrl": "https://news.hada.io/article/sqlite-a-database-for-every-app",
+      "title": "SQLite의 확장은 더 큰 DB가 아니라 더 많은 DB",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T13:17:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "사실 Postgres 하나면 대부분의 애플리케이션을 만들 수 있습니다. 여러 사용자가 동시에 데이터를 수정하고, 여러 서버와 도구가 하나의 상태를 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34991"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dc2f92c3267dbeb62678d0c96723034474f39111020bd73fad1f2985f60ae6ae",
+      "dedupeKey": "brief:opp_77324a06351e31a60c9c:sha256:dc2f92c3267dbeb62678d0c96723034474f39111020bd73fad1f2985f60ae6ae",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c48885d383c6c1f96aef": {
+      "id": "opp_c48885d383c6c1f96aef",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34967",
+      "canonicalUrl": "https://scottaaronson.blog/?p=10169",
+      "title": "수학의 아포칼립스 - AI가 평생의 연구 문제를 풀어버린 뒤",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T07:37:12+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "“엄마가 평생 연구한 문제를 로봇이 풀었다며?”라는 아홉 살 아들의 놀림이 현실이 됨. OpenAI가 공개한 수학 성과에는 Dana Moshkovitz가 오랫동...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34967"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
+      "dedupeKey": "brief:opp_c48885d383c6c1f96aef:sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_43a966e061e4a5f0fe4d": {
+      "id": "opp_43a966e061e4a5f0fe4d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34977",
+      "canonicalUrl": "https://github.com/TencentARC/WorldCrafter",
+      "title": "WorldCrafter - 이미지 한 장으로 탐색하고 돌아올 수 있는 AI 세계 만들기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:35:01+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Tencent ARC Lab과 베이징대학교가 개발한 영상 월드 모델로, 이미지 한 장이나 텍스트 설명에서 시작해 카메라를 움직이며 탐색하는 장면을 생성 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34977"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e936eb1c54fa791f0aece2195ee28184e5fb87671c9f7702d0e1405cdaa5f297",
+      "dedupeKey": "brief:opp_43a966e061e4a5f0fe4d:sha256:e936eb1c54fa791f0aece2195ee28184e5fb87671c9f7702d0e1405cdaa5f297",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2e91272c783552517eb0": {
+      "id": "opp_2e91272c783552517eb0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "34976",
+      "canonicalUrl": "https://github.com/lemma-work/lemma-platform",
+      "title": "Lemma - 사람과 AI 에이전트가 한 팀으로 일하는 오픈소스 작업 공간",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "여러 사람이 같은 AI 동료와 업무 데이터·문서·작업 흐름을 공유하며 일하는 오픈소스 플랫폼 Claude Code, Codex, Cursor, OpenCode에 원하는 업...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=34976"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a9c75fbe62d6b3f0c71afca624cfb6c122f3e51de51218ea402d69601fcb0e3",
+      "dedupeKey": "brief:opp_2e91272c783552517eb0:sha256:8a9c75fbe62d6b3f0c71afca624cfb6c122f3e51de51218ea402d69601fcb0e3",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_eb9f7ce8709848e09faa": {
+      "id": "opp_eb9f7ce8709848e09faa",
+      "type": "CONTENT",
+      "sourceId": "naver-d2",
+      "externalId": "https://d2.naver.com/helloworld/4149925",
+      "canonicalUrl": "https://d2.naver.com/helloworld/4149925",
+      "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편",
+      "organization": "NAVER D2",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T06:44:57Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "<html><head></head><body><p dir=\"auto\"><a href=\"https://d2.naver.com/helloworld/4452165\" rel=\"nofollow\">Python의 멀티프로세싱과 Airflow의 task 동작 방식 - Python과 Airflow, 그리고 관련된 문제 해결기 1편</a>에서는 Airflow가 task를 실행할 때 요구되는 병렬성과 격리성을 살펴보고, 이를 만족하기 위해 Airflow가 task마다 만들었다 버리는 단기 프로세스와 만들어 두고 재사",
+      "summaryEvidence": [
+        "https://d2.naver.com/helloworld/4149925"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9278993b9cade61b595f3a01b11eab99831b6a38742b96f61fa3c6c496026de5",
+      "dedupeKey": "brief:opp_eb9f7ce8709848e09faa:sha256:9278993b9cade61b595f3a01b11eab99831b6a38742b96f61fa3c6c496026de5",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1f69572be5612922db96": {
+      "id": "opp_1f69572be5612922db96",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:6YuIp-MwPv4",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6YuIp-MwPv4",
+      "title": "[한영자막] Uber에서 디버깅 에이전트 하네스를 구축하는 방법 — Kriti Dangi",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:00:00+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Uber의 시니어 소프트웨어 엔지니어 Kriti Dangi가 AI 디버깅 에이전트 Debug Assist의 구축 과정과 실제 운영 사례를 소개합니다. LangGraph, MCP, Claude Sonnet·Opus를 연결해 근본 원인 분석부터 수정안 검증과 PR 생성까지 처리하는 구조를 살펴봅니다. 주요 내용 • Wisdom과 Healthline으로 버그 신고, 로그, 스택 트레이스를 수집하는 방법 • 배터리 소모와 푸시 알림 충돌을 분석하고 수정한 실제 사례 • 결정적 노드와 LLM 노드의 역할",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6YuIp-MwPv4"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-08T09:00:00.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:776f36e063be187eaf46c94c4e7c90d356642847540ab2f683823ea927546453",
+      "dedupeKey": "brief:opp_1f69572be5612922db96:sha256:776f36e063be187eaf46c94c4e7c90d356642847540ab2f683823ea927546453",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c02dec16ff984fd7fc41": {
+      "id": "opp_c02dec16ff984fd7fc41",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:D7q8fa589FY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=D7q8fa589FY",
+      "title": "[한영자막] AI 에이전트의 엉망진창 결과물(Slop)을 없애려면 '이 구조'를 도입해야 합니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T03:00:37+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트에게 긴 프롬프트 하나만 주고 모든 것을 위임하면, 통제되지 않는 엉망진창 결과물(Slop)과 예측 불가능한 오류가 발생하기 쉽습니다. Stately 창립자이자 XState 제작자인 David Khourshid가 명시적인 유한 상태 머신(Finite State Machine)과 결정론적 구조를 도입해 에이전트의 행동을 관측 가능하게 만들고, 에이전트 스스로 워크플로우를 진화시키는 실전 방법을 소개합니다. 📌 주요 내용: • 에이전트가 헛소리와 엉망인 결과물을 내는 근본적인 이유 (구",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=D7q8fa589FY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-08T09:00:00.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
+      "dedupeKey": "brief:opp_c02dec16ff984fd7fc41:sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b9d747038ac8098db9ee": {
+      "id": "opp_b9d747038ac8098db9ee",
+      "type": "CONTENT",
+      "sourceId": "youtube-midnight-log",
+      "externalId": "yt:video:YziURYuljsI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YziURYuljsI",
+      "title": "OpenAI CEO는 닷을 어떻게 사용하고 있을까? | OpenAI CEO의 dot 활용법",
+      "organization": "미드나잇 로그 Midnight Log",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T09:00:18+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "바이브 코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "#OpenAI #ChatGPT #dot OpenAI CEO는 아침 시간까지 AI에게 맡기는데, 끝까지 직접 하는 일은 무엇일까요? ChatGPT 데스크톱에 새로 생긴 에이전트 닷(dot)을 샘 알트먼이 어떻게 쓰는지 인터뷰에서 짚어 봤어요. 저도 닷을 며칠 써 봤고, 좋았던 점과 아쉬운 점을 같이 전해요. 영상 중간중간 원본 클립이 영어와 한국어 자막으로 들어가요. 🍿 타임스탬프 0:00 ChatGPT 데스크톱의 새 기능, 닷 1:09 아침을 닷에게 맡긴 알트먼 2:46 아직 거친 닷, 제가 써",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=YziURYuljsI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC64nZb1bXGZfEXaFSvK15dw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-08T09:00:18.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4e6b03f2241814a7165b65f96b38adda156baf2ce785197dde2c745ff5ed8a0a",
+      "dedupeKey": "brief:opp_b9d747038ac8098db9ee:sha256:4e6b03f2241814a7165b65f96b38adda156baf2ce785197dde2c745ff5ed8a0a",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6dbf8ac29d3a17699366": {
+      "id": "opp_6dbf8ac29d3a17699366",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:-fotMlYGMOc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=-fotMlYGMOc",
+      "title": "AI인데 글 생성을 못해서 난리난 Jev",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T03:49:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "아 JevJev이야 AI 에이전트 https://codingapple.com/ 개별강의 10% 할인쿠폰 jejeiya339 (자주 바뀜 최신영상 참고) 사용한 자료 typesafe.ai https://www.dogdrip.net/592340078 https://www.researchgate.net/figure/A-simplified-CNN-architecture-for-dog-Classification_fig1_336304381 https://tenor.com/lKBtzTWU4zn.gif http",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=-fotMlYGMOc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-08T03:49:38.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:132bbf4bc6a737b5528b31e21231a852d7d73fb1048990f57c7d5e0d2ade3fd1",
+      "dedupeKey": "brief:opp_6dbf8ac29d3a17699366:sha256:132bbf4bc6a737b5528b31e21231a852d7d73fb1048990f57c7d5e0d2ade3fd1",
+      "firstSeenAt": "2026-10-08T09:05:32.452Z",
+      "lastSeenAt": "2026-10-08T09:05:32.452Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -79238,6 +79695,42 @@
       "opportunityId": "opp_d0cb58c01a50788eb5ed",
       "sentAt": "2026-10-08T05:00:14.345Z",
       "messageId": "1557618604659314770"
+    },
+    "brief:opp_eb9f7ce8709848e09faa:sha256:9278993b9cade61b595f3a01b11eab99831b6a38742b96f61fa3c6c496026de5": {
+      "status": "SENT",
+      "opportunityId": "opp_eb9f7ce8709848e09faa",
+      "sentAt": "2026-10-08T09:05:32.452Z",
+      "messageId": "1557680338086662228"
+    },
+    "brief:opp_1f69572be5612922db96:sha256:776f36e063be187eaf46c94c4e7c90d356642847540ab2f683823ea927546453": {
+      "status": "SENT",
+      "opportunityId": "opp_1f69572be5612922db96",
+      "sentAt": "2026-10-08T09:05:32.452Z",
+      "messageId": "1557680338086662228"
+    },
+    "brief:opp_b9d747038ac8098db9ee:sha256:4e6b03f2241814a7165b65f96b38adda156baf2ce785197dde2c745ff5ed8a0a": {
+      "status": "SENT",
+      "opportunityId": "opp_b9d747038ac8098db9ee",
+      "sentAt": "2026-10-08T09:05:32.452Z",
+      "messageId": "1557680338086662228"
+    },
+    "brief:opp_6dbf8ac29d3a17699366:sha256:132bbf4bc6a737b5528b31e21231a852d7d73fb1048990f57c7d5e0d2ade3fd1": {
+      "status": "SENT",
+      "opportunityId": "opp_6dbf8ac29d3a17699366",
+      "sentAt": "2026-10-08T09:05:32.452Z",
+      "messageId": "1557680338086662228"
+    },
+    "brief:opp_43a966e061e4a5f0fe4d:sha256:e936eb1c54fa791f0aece2195ee28184e5fb87671c9f7702d0e1405cdaa5f297": {
+      "status": "SENT",
+      "opportunityId": "opp_43a966e061e4a5f0fe4d",
+      "sentAt": "2026-10-08T09:05:32.452Z",
+      "messageId": "1557680338086662228"
+    },
+    "brief:opp_2e91272c783552517eb0:sha256:8a9c75fbe62d6b3f0c71afca624cfb6c122f3e51de51218ea402d69601fcb0e3": {
+      "status": "SENT",
+      "opportunityId": "opp_2e91272c783552517eb0",
+      "sentAt": "2026-10-08T09:05:32.452Z",
+      "messageId": "1557680338086662228"
     }
   },
   "pending": {},
