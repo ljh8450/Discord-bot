@@ -71796,13 +71796,13 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-08T22:00:36.000Z",
-        "contentScore": 11,
+        "latestChannelActivityAt": "2026-10-09T03:00:14.000Z",
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -71810,8 +71810,8 @@
       },
       "contentHash": "sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
       "dedupeKey": "brief:opp_c02dec16ff984fd7fc41:sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
-      "firstSeenAt": "2026-10-09T00:05:38.741Z",
-      "lastSeenAt": "2026-10-09T00:05:38.741Z",
+      "firstSeenAt": "2026-10-09T05:03:24.369Z",
+      "lastSeenAt": "2026-10-09T05:03:24.369Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -72361,11 +72361,11 @@
       },
       "contentHash": "sha256:01e1dc44225fd8a7bd62da8bae9cc714b4431740351a6353f3f6a470868bd69d",
       "dedupeKey": "brief:opp_2c91d3a7986134fcae1b:sha256:01e1dc44225fd8a7bd62da8bae9cc714b4431740351a6353f3f6a470868bd69d",
-      "firstSeenAt": "2026-10-09T00:05:38.741Z",
-      "lastSeenAt": "2026-10-09T00:05:38.741Z",
+      "firstSeenAt": "2026-10-09T05:03:24.369Z",
+      "lastSeenAt": "2026-10-09T05:03:24.369Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -72546,7 +72546,7 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-08T22:00:36.000Z",
+        "latestChannelActivityAt": "2026-10-09T03:00:14.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -72560,11 +72560,11 @@
       },
       "contentHash": "sha256:96f33cd243626c516a8bd49a4f11b7b4ac99f2d6d843a064a704a63036d20ace",
       "dedupeKey": "brief:opp_8896e1614afd1c370e7d:sha256:96f33cd243626c516a8bd49a4f11b7b4ac99f2d6d843a064a704a63036d20ace",
-      "firstSeenAt": "2026-10-09T00:05:38.741Z",
-      "lastSeenAt": "2026-10-09T00:05:38.741Z",
+      "firstSeenAt": "2026-10-09T05:03:24.369Z",
+      "lastSeenAt": "2026-10-09T05:03:24.369Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -72616,6 +72616,161 @@
       "dedupeKey": "brief:opp_1c6c9c12ef317bb8ded9:sha256:1728640754d4ee073de29a2a9df30c27c086091aabcc2e5b4d56cb7d2697e9bf",
       "firstSeenAt": "2026-10-09T00:05:38.741Z",
       "lastSeenAt": "2026-10-09T00:05:38.741Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f95090e4bcf6405da553": {
+      "id": "opp_f95090e4bcf6405da553",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35040",
+      "canonicalUrl": "https://www.sahilbloom.com/newsletter/stop-making-a-5-year-plan-do-this-instead",
+      "title": "5년 계획을 세우지 말고, 대신 이렇게 하라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T09:55:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "5년 뒤의 모습을 정하기보다, 그때 선택할 수 있는 길을 넓혀야 함. 지금 가진 경험만으로 미래를 계획하면 기존 경력의 조금 다른 버전만 떠올리...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35040"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8e86f89de07b28492aa41d7d14a6a95b2f7ba799dd0157fedbd70715bb9717a8",
+      "dedupeKey": "brief:opp_f95090e4bcf6405da553:sha256:8e86f89de07b28492aa41d7d14a6a95b2f7ba799dd0157fedbd70715bb9717a8",
+      "firstSeenAt": "2026-10-09T05:03:24.369Z",
+      "lastSeenAt": "2026-10-09T05:03:24.369Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c4b4d4c35d4626dba795": {
+      "id": "opp_c4b4d4c35d4626dba795",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:HjQ1G1NvvHQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=HjQ1G1NvvHQ",
+      "title": "[한영자막] 인간은 비동기 API입니다: AI 에이전트가 사람을 기다리다 멈추지 않는 법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T03:00:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "인간은 200밀리초 만에 즉각 응답하지 않습니다. AI 에이전트가 사람의 개입을 기다리는 동안 멈추거나 상태를 잃지 않고 안정적으로 동작하도록 만드는 비결을 Temporal의 멜라니 워릭(Melanie Warrick)이 설명합니다. Google ADK와 LangGraph를 활용한 멀티 에이전트 아이스크림 배달 데모를 통해, 에이전트 하네스에 내구성(Durability)이 왜 필수적인지, 그리고 Temporal의 프리미티브가 어떻게 중단 없는 시스템을 보장하는지 확인해 보세요. 📌 주요 내용: •",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=HjQ1G1NvvHQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-09T03:00:14.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c936426e2e04fdf728235c7bb8fd684913685930e663fad8bf4a87b0cb6523c0",
+      "dedupeKey": "brief:opp_c4b4d4c35d4626dba795:sha256:c936426e2e04fdf728235c7bb8fd684913685930e663fad8bf4a87b0cb6523c0",
+      "firstSeenAt": "2026-10-09T05:03:24.369Z",
+      "lastSeenAt": "2026-10-09T05:03:24.369Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3a0cc794840594ac1bbb": {
+      "id": "opp_3a0cc794840594ac1bbb",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:bRb-DEsgPBQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=bRb-DEsgPBQ",
+      "title": "마누스 2.0과 Cue 등장... 패치의 반도체 게임부터 홍보 영상까지 | AI 직원들이 서로 일을 넘긴다… 광고 메일 정리부터 여행 일정 점검",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T04:00:06+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "* Manus 바로가기 - http://manus.im/ * Cue 바로가기 - https://cue.im/ 마누스 2.0으로 패치가 직접 반도체를 모으는 게임을 만들어봤습니다. 메모리 쇼티지와 파운드리를 배경으로, 직접 플레이하며 캐릭터의 움직임과 점프 높이를 다듬었습니다. 게임 화면과 채널 이미지를 활용해 트레일러와 안될공학 인트로도 제작했습니다. 참고 영상으로 원하는 분위기를 전달하고, 타임라인에서 필요한 부분을 수정하는 과정도 살펴봤습니다. 영상 생성과 코드 기반 그래픽이 어떻게 함께 쓰이",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=bRb-DEsgPBQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-09T04:00:06.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:35fae53b9e2e06b4aee5fad9092f0878939a52349df441b81191c0b2503e4c78",
+      "dedupeKey": "brief:opp_3a0cc794840594ac1bbb:sha256:35fae53b9e2e06b4aee5fad9092f0878939a52349df441b81191c0b2503e4c78",
+      "firstSeenAt": "2026-10-09T05:03:24.369Z",
+      "lastSeenAt": "2026-10-09T05:03:24.369Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -80501,6 +80656,36 @@
       "opportunityId": "opp_ed8fa483d51f77c17ce5",
       "sentAt": "2026-10-09T00:05:38.741Z",
       "messageId": "1557906856368807947"
+    },
+    "brief:opp_2c91d3a7986134fcae1b:sha256:01e1dc44225fd8a7bd62da8bae9cc714b4431740351a6353f3f6a470868bd69d": {
+      "status": "SENT",
+      "opportunityId": "opp_2c91d3a7986134fcae1b",
+      "sentAt": "2026-10-09T05:03:24.369Z",
+      "messageId": "1557981790612881541"
+    },
+    "brief:opp_c4b4d4c35d4626dba795:sha256:c936426e2e04fdf728235c7bb8fd684913685930e663fad8bf4a87b0cb6523c0": {
+      "status": "SENT",
+      "opportunityId": "opp_c4b4d4c35d4626dba795",
+      "sentAt": "2026-10-09T05:03:24.369Z",
+      "messageId": "1557981790612881541"
+    },
+    "brief:opp_3a0cc794840594ac1bbb:sha256:35fae53b9e2e06b4aee5fad9092f0878939a52349df441b81191c0b2503e4c78": {
+      "status": "SENT",
+      "opportunityId": "opp_3a0cc794840594ac1bbb",
+      "sentAt": "2026-10-09T05:03:24.369Z",
+      "messageId": "1557981790612881541"
+    },
+    "brief:opp_f95090e4bcf6405da553:sha256:8e86f89de07b28492aa41d7d14a6a95b2f7ba799dd0157fedbd70715bb9717a8": {
+      "status": "SENT",
+      "opportunityId": "opp_f95090e4bcf6405da553",
+      "sentAt": "2026-10-09T05:03:24.369Z",
+      "messageId": "1557981790612881541"
+    },
+    "brief:opp_8896e1614afd1c370e7d:sha256:96f33cd243626c516a8bd49a4f11b7b4ac99f2d6d843a064a704a63036d20ace": {
+      "status": "SENT",
+      "opportunityId": "opp_8896e1614afd1c370e7d",
+      "sentAt": "2026-10-09T05:03:24.369Z",
+      "messageId": "1557981790612881541"
     }
   },
   "pending": {},
