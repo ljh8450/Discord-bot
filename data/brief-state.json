@@ -72803,8 +72803,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 2,
+        "communityPoints": 8,
+        "communityRank": 3,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -72818,11 +72818,11 @@
       },
       "contentHash": "sha256:d304f39cb7370fc16c815405e8a1c77e41d010c4058db74c8b4a30fe84cdbb36",
       "dedupeKey": "brief:opp_ab1ff23073ce6ba1e454:sha256:d304f39cb7370fc16c815405e8a1c77e41d010c4058db74c8b4a30fe84cdbb36",
-      "firstSeenAt": "2026-10-09T09:05:52.528Z",
-      "lastSeenAt": "2026-10-09T09:05:52.528Z",
+      "firstSeenAt": "2026-10-09T15:48:30.210Z",
+      "lastSeenAt": "2026-10-09T15:48:30.210Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -72966,6 +72966,157 @@
       "dedupeKey": "brief:opp_c9ecfeeac8792135f5ea:sha256:f7eedafbaf99ed988f250734db4e185ad282e9dc033c407b2aa7e9d0e6e450c4",
       "firstSeenAt": "2026-10-09T09:05:52.528Z",
       "lastSeenAt": "2026-10-09T09:05:52.528Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b21e3aa63833f8496535": {
+      "id": "opp_b21e3aa63833f8496535",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35031",
+      "canonicalUrl": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "title": "일러스트레이터에게 우리 집 그림을 의뢰했다. 이제 그 그림이 Home Assistant 대시보드다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T06:35:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "실제 집을 그린 인터랙티브 대시보드를 만들어, 기존 Home Assistant 앱을 쓰려 하지 않던 가족들도 기기를 직접 제어하게 됨 벽난로의 불꽃, 정원...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35031"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bbe0c31eb8bc164f8350629df1893af00cec79c51070d749f60022ab5223ce2d",
+      "dedupeKey": "brief:opp_b21e3aa63833f8496535:sha256:bbe0c31eb8bc164f8350629df1893af00cec79c51070d749f60022ab5223ce2d",
+      "firstSeenAt": "2026-10-09T15:48:30.210Z",
+      "lastSeenAt": "2026-10-09T15:48:30.210Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bb78ed718f45a7d967bf": {
+      "id": "opp_bb78ed718f45a7d967bf",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35022",
+      "canonicalUrl": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software",
+      "title": "오래가는 소프트웨어가 천천히 만들어지는 과정 - Zotero의 탄생",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T01:46:35+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Zotero는 연구 자료의 수집·정리·주석·인용·공유를 돕는 무료 오픈소스 도구로, 역사학자들의 협업에서 출발해 출시 20년 만에 2,000만 명 이상이 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35022"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ba688de0c8a690123729772be94d6b4fe2271298ccd044d80c45b4d5828a7f4c",
+      "dedupeKey": "brief:opp_bb78ed718f45a7d967bf:sha256:ba688de0c8a690123729772be94d6b4fe2271298ccd044d80c45b4d5828a7f4c",
+      "firstSeenAt": "2026-10-09T15:48:30.210Z",
+      "lastSeenAt": "2026-10-09T15:48:30.210Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6e89eb24f163c12e631b": {
+      "id": "opp_6e89eb24f163c12e631b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:5tdMgKkX5dU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5tdMgKkX5dU",
+      "title": "[한영자막] 팟캐스트 풀버전 - SpaceX에서 매달 수천 개의 PR을 반영하는 방법을 알아봅니다 | Cursor & Grok Bot 개발자 Lauren Tan(poteto)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T11:00:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "SpaceX에서 에이전트를 활용해 매달 수천 개의 PR을 반영하는 방법을 pstack 개발자 Lauren Tan과 함께 살펴봅니다. 코드 작성뿐 아니라 검증, 개발 환경, 리뷰 루프를 어떻게 설계하는지 이야기합니다. 주요 포인트 • 에이전트의 결과를 검증하며 신뢰를 쌓는 과정 • 반복 작업을 CLI와 스킬로 옮겨 전문성을 전달하는 방법 • 작은 작업 단위와 자동 검증으로 PR 처리량을 늘리는 구조 • 내부·외부 피드백 루프를 연결하고 코드베이스를 관리하는 습관 • 되돌리기 어려운 변경을 신중하게",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=5tdMgKkX5dU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-09T11:00:03.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a40e6d4bf11a6c157cb99eab54730d08175446ba7e366bc465ec9ac3bc07912e",
+      "dedupeKey": "brief:opp_6e89eb24f163c12e631b:sha256:a40e6d4bf11a6c157cb99eab54730d08175446ba7e366bc465ec9ac3bc07912e",
+      "firstSeenAt": "2026-10-09T15:48:30.210Z",
+      "lastSeenAt": "2026-10-09T15:48:30.210Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -80905,6 +81056,24 @@
       "opportunityId": "opp_c02dec16ff984fd7fc41",
       "sentAt": "2026-10-09T09:05:52.528Z",
       "messageId": "1558042809515384888"
+    },
+    "brief:opp_bb78ed718f45a7d967bf:sha256:ba688de0c8a690123729772be94d6b4fe2271298ccd044d80c45b4d5828a7f4c": {
+      "status": "SENT",
+      "opportunityId": "opp_bb78ed718f45a7d967bf",
+      "sentAt": "2026-10-09T15:48:30.210Z",
+      "messageId": "1558144151025877043"
+    },
+    "brief:opp_6e89eb24f163c12e631b:sha256:a40e6d4bf11a6c157cb99eab54730d08175446ba7e366bc465ec9ac3bc07912e": {
+      "status": "SENT",
+      "opportunityId": "opp_6e89eb24f163c12e631b",
+      "sentAt": "2026-10-09T15:48:30.210Z",
+      "messageId": "1558144151025877043"
+    },
+    "brief:opp_ab1ff23073ce6ba1e454:sha256:d304f39cb7370fc16c815405e8a1c77e41d010c4058db74c8b4a30fe84cdbb36": {
+      "status": "SENT",
+      "opportunityId": "opp_ab1ff23073ce6ba1e454",
+      "sentAt": "2026-10-09T15:48:30.210Z",
+      "messageId": "1558144151025877043"
     }
   },
   "pending": {},
