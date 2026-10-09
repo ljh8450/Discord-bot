@@ -71543,7 +71543,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 6,
+        "communityRank": 20,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -71557,8 +71557,8 @@
       },
       "contentHash": "sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
       "dedupeKey": "brief:opp_c48885d383c6c1f96aef:sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
-      "firstSeenAt": "2026-10-09T00:05:38.741Z",
-      "lastSeenAt": "2026-10-09T00:05:38.741Z",
+      "firstSeenAt": "2026-10-09T09:05:52.528Z",
+      "lastSeenAt": "2026-10-09T09:05:52.528Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -71810,11 +71810,11 @@
       },
       "contentHash": "sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
       "dedupeKey": "brief:opp_c02dec16ff984fd7fc41:sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0",
-      "firstSeenAt": "2026-10-09T05:03:24.369Z",
-      "lastSeenAt": "2026-10-09T05:03:24.369Z",
+      "firstSeenAt": "2026-10-09T09:05:52.528Z",
+      "lastSeenAt": "2026-10-09T09:05:52.528Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -72771,6 +72771,201 @@
       "dedupeKey": "brief:opp_3a0cc794840594ac1bbb:sha256:35fae53b9e2e06b4aee5fad9092f0878939a52349df441b81191c0b2503e4c78",
       "firstSeenAt": "2026-10-09T05:03:24.369Z",
       "lastSeenAt": "2026-10-09T05:03:24.369Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ab1ff23073ce6ba1e454": {
+      "id": "opp_ab1ff23073ce6ba1e454",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35041",
+      "canonicalUrl": "https://www.bannerbear.com/blog/how-to-pivot-your-saas-company-in-the-age-of-ai",
+      "title": "AI 시대에 SaaS 기업을 피벗하는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T10:05:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩 도구로 기능 개발과 복제가 저렴해지면서, 경쟁사와 같은 기능에 몇 가지를 더하는 전략만으로는 SaaS의 경쟁력을 유지하기 어려워짐 코드...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35041"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d304f39cb7370fc16c815405e8a1c77e41d010c4058db74c8b4a30fe84cdbb36",
+      "dedupeKey": "brief:opp_ab1ff23073ce6ba1e454:sha256:d304f39cb7370fc16c815405e8a1c77e41d010c4058db74c8b4a30fe84cdbb36",
+      "firstSeenAt": "2026-10-09T09:05:52.528Z",
+      "lastSeenAt": "2026-10-09T09:05:52.528Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d91d38ea36a64e84fe3e": {
+      "id": "opp_d91d38ea36a64e84fe3e",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35009",
+      "canonicalUrl": "https://sheets.works/data-viz/holding-up-the-internet",
+      "title": "인터넷을 떠받치는 사람들",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-08T22:40:16+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "휴대전화·브라우저·서버가 의존하는 오픈소스 프로젝트 23개 중 11개는 최근 1년간 정기적으로 코드를 변경한 사람이 한두 명뿐이었음 40억 대 휴...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35009"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:32876e03dffead29e4c75537960d8ced1f11c79e71a9952691ab2373aaa3ff66",
+      "dedupeKey": "brief:opp_d91d38ea36a64e84fe3e:sha256:32876e03dffead29e4c75537960d8ced1f11c79e71a9952691ab2373aaa3ff66",
+      "firstSeenAt": "2026-10-09T09:05:52.528Z",
+      "lastSeenAt": "2026-10-09T09:05:52.528Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fa158a58e16467acbd9d": {
+      "id": "opp_fa158a58e16467acbd9d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35038",
+      "canonicalUrl": "https://github.com/tarwin/tinyjsapp",
+      "title": "tinyjs - JavaScript로 약 6MB 데스크톱 앱을 만드는 경량 프레임워크",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프런트엔드와 백엔드를 모두 JavaScript로 작성하는 데스크톱 앱 프레임워크로, 배포 크기는 약 6MB Electron·Node.js·Chromium을 앱에 포함하지 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35038"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ac6839b140c229da91c8764449fd4fb578ab10db028676d7bba3362c2c4b7c60",
+      "dedupeKey": "brief:opp_fa158a58e16467acbd9d:sha256:ac6839b140c229da91c8764449fd4fb578ab10db028676d7bba3362c2c4b7c60",
+      "firstSeenAt": "2026-10-09T09:05:52.528Z",
+      "lastSeenAt": "2026-10-09T09:05:52.528Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c9ecfeeac8792135f5ea": {
+      "id": "opp_c9ecfeeac8792135f5ea",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/sophos",
+      "canonicalUrl": "https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "summaryEvidence": [
+        "https://openai.com/index/sophos"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f7eedafbaf99ed988f250734db4e185ad282e9dc033c407b2aa7e9d0e6e450c4",
+      "dedupeKey": "brief:opp_c9ecfeeac8792135f5ea:sha256:f7eedafbaf99ed988f250734db4e185ad282e9dc033c407b2aa7e9d0e6e450c4",
+      "firstSeenAt": "2026-10-09T09:05:52.528Z",
+      "lastSeenAt": "2026-10-09T09:05:52.528Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -80686,6 +80881,30 @@
       "opportunityId": "opp_8896e1614afd1c370e7d",
       "sentAt": "2026-10-09T05:03:24.369Z",
       "messageId": "1557981790612881541"
+    },
+    "brief:opp_c9ecfeeac8792135f5ea:sha256:f7eedafbaf99ed988f250734db4e185ad282e9dc033c407b2aa7e9d0e6e450c4": {
+      "status": "SENT",
+      "opportunityId": "opp_c9ecfeeac8792135f5ea",
+      "sentAt": "2026-10-09T09:05:52.528Z",
+      "messageId": "1558042809515384888"
+    },
+    "brief:opp_fa158a58e16467acbd9d:sha256:ac6839b140c229da91c8764449fd4fb578ab10db028676d7bba3362c2c4b7c60": {
+      "status": "SENT",
+      "opportunityId": "opp_fa158a58e16467acbd9d",
+      "sentAt": "2026-10-09T09:05:52.528Z",
+      "messageId": "1558042809515384888"
+    },
+    "brief:opp_d91d38ea36a64e84fe3e:sha256:32876e03dffead29e4c75537960d8ced1f11c79e71a9952691ab2373aaa3ff66": {
+      "status": "SENT",
+      "opportunityId": "opp_d91d38ea36a64e84fe3e",
+      "sentAt": "2026-10-09T09:05:52.528Z",
+      "messageId": "1558042809515384888"
+    },
+    "brief:opp_c02dec16ff984fd7fc41:sha256:f52d81c632b6efc17c6741586fcf19a8f86dc965e98dfa2d95c988eca82ef0f0": {
+      "status": "SENT",
+      "opportunityId": "opp_c02dec16ff984fd7fc41",
+      "sentAt": "2026-10-09T09:05:52.528Z",
+      "messageId": "1558042809515384888"
     }
   },
   "pending": {},
