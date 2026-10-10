@@ -73298,14 +73298,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 1,
-        "contentScore": 11,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -73313,11 +73313,11 @@
       },
       "contentHash": "sha256:37d395078be44712f7eeed70e4c682d474102625e5228a8642bb630cd04faaad",
       "dedupeKey": "brief:opp_a22e8f67c47c1bc488da:sha256:37d395078be44712f7eeed70e4c682d474102625e5228a8642bb630cd04faaad",
-      "firstSeenAt": "2026-10-10T09:06:12.735Z",
-      "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "firstSeenAt": "2026-10-10T15:01:55.025Z",
+      "lastSeenAt": "2026-10-10T15:01:55.025Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -73519,6 +73519,214 @@
       "dedupeKey": "brief:opp_d704c11e73c142918518:sha256:e5b54648888f47b712d6cbd0a8ba5e78b3057d679ec3845d8322e8763905f425",
       "firstSeenAt": "2026-10-10T09:06:12.735Z",
       "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f8e3d02674e526ecb807": {
+      "id": "opp_f8e3d02674e526ecb807",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35046",
+      "canonicalUrl": "https://github.com/duckdb/ducklake",
+      "title": "DuckLake - SQL과 Parquet 기반의 데이터 레이크하우스 형식",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T12:35:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Parquet 데이터를 SQL로 관리하면서 트랜잭션, 과거 시점 조회, 스키마 변경이 필요한 개발자를 위한 개방형 레이크하우스 형식 메타데이터는 SQL ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35046"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:83186bd19ec1960be1ecf66c69153479b6d4bf3eca35c509a6a4625a808c8a49",
+      "dedupeKey": "brief:opp_f8e3d02674e526ecb807:sha256:83186bd19ec1960be1ecf66c69153479b6d4bf3eca35c509a6a4625a808c8a49",
+      "firstSeenAt": "2026-10-10T15:01:55.025Z",
+      "lastSeenAt": "2026-10-10T15:01:55.025Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fe2f0720ba5cc7a6e013": {
+      "id": "opp_fe2f0720ba5cc7a6e013",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:J1BGMIWTJ1U",
+      "canonicalUrl": "https://www.youtube.com/watch?v=J1BGMIWTJ1U",
+      "title": "[한영자막] 준비되기 전에 AI로 만들기 시작하세요 | OpenAI 공동창업자 그렉 브록만",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T09:30:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI 공동 창업자이자 전 Stripe CTO인 그렉 브록만(Greg Brockman)이 밝히는 AI 시대의 창업과 생산성 혁신 전략입니다. 코딩 에이전트의 급격한 발전부터 1인 기업과 소상공인이 갖게 될 거대한 기회, 그리고 AI를 대하는 올바른 태도까지 깊이 있는 통찰을 만나보세요. 📌 핵심 포인트: • 스스로 코드를 직접 짜지 않고 AI를 지휘해 소프트웨어를 만드는 이유 • 새로운 모델이 나와도 도태되지 않고 가치를 유지하는 AI 제품의 조건 • 비즈니스의 본질과 도메인 전문성이 AI",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=J1BGMIWTJ1U"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-10T09:30:15.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2ad18e7bce1d899e517662bac7feb3d6e8c364dc8c846514b02d8e8da03cd0ee",
+      "dedupeKey": "brief:opp_fe2f0720ba5cc7a6e013:sha256:2ad18e7bce1d899e517662bac7feb3d6e8c364dc8c846514b02d8e8da03cd0ee",
+      "firstSeenAt": "2026-10-10T15:01:55.025Z",
+      "lastSeenAt": "2026-10-10T15:01:55.025Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3d005642285acdf9d3b9": {
+      "id": "opp_3d005642285acdf9d3b9",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:AHlWV-nI9yo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=AHlWV-nI9yo",
+      "title": "조코딩의 AI 리터러시 특강 1강 : 2026년, AI 지능은 어디까지 발전했나?",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T13:44:08+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 역량을 키우고 싶은 분들을 위해 만든 「업무를 위한 AI 리터러시」 강의의 첫 파트를 4개 강의로 나눠 무료로 공개합니다. 1강에서는 AI 지능이 지금 어디까지 와 있는지 살펴봅니다. 📚 AI 리터러시 6시간 전체 강의는 AX인재전쟁 온라인에서 이어집니다. AX인재 패키지 ▶️ https://axacademy.ai/go/yjld - 업무를 위한 AI 리터러시 (6시간 · 영상 39개) - 바이브코딩 IT 기초 (52분) - AI 역량평가 응시권 1회 (결과 리포트 포함) - 정가 128,0",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=AHlWV-nI9yo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-10T13:44:08.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:351465e39a3a0f8af5eccababf6cbb37928041ebfd25a818ca88c00f7b0c19f4",
+      "dedupeKey": "brief:opp_3d005642285acdf9d3b9:sha256:351465e39a3a0f8af5eccababf6cbb37928041ebfd25a818ca88c00f7b0c19f4",
+      "firstSeenAt": "2026-10-10T15:01:55.025Z",
+      "lastSeenAt": "2026-10-10T15:01:55.025Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7b2e36ef058617bb47ed": {
+      "id": "opp_7b2e36ef058617bb47ed",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:YAVwKFTIkIk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=YAVwKFTIkIk",
+      "title": "사람 없이 광고 찍는 법 — 힉스필드 AI 인플루언서로 캐릭터 만들고 움직이게 하기",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T10:35:51+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Create your AI Influencer: https://higgsfield.ai/s/higgsfield-ai-influencer-2-0-yt-ai-agentos-HJmVyP 카메라도, 촬영 장소도, 모델도 없이 Higgsfield AI Influencer로 캐릭터를 직접 만들고, 정해진 동작을 따라 하게 시키고, 배경과 들고 있는 제품까지 바꿔 봤습니다. ※ 이 영상은 Higgsfield의 유료 광고를 포함하고 있습니다. ━━━━━━━━━━━━━━━━━━━━ Higgsfield AI Inf",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=YAVwKFTIkIk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-10T10:35:51.000Z",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:152bd2fb47099da3ca5003679c6e6cc3b12326d56d9207baf43af736539dc864",
+      "dedupeKey": "brief:opp_7b2e36ef058617bb47ed:sha256:152bd2fb47099da3ca5003679c6e6cc3b12326d56d9207baf43af736539dc864",
+      "firstSeenAt": "2026-10-10T15:01:55.025Z",
+      "lastSeenAt": "2026-10-10T15:01:55.025Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -81530,6 +81738,36 @@
       "opportunityId": "opp_c4988e9401896fa6b23d",
       "sentAt": "2026-10-10T09:06:12.735Z",
       "messageId": "1558405282101727344"
+    },
+    "brief:opp_7b2e36ef058617bb47ed:sha256:152bd2fb47099da3ca5003679c6e6cc3b12326d56d9207baf43af736539dc864": {
+      "status": "SENT",
+      "opportunityId": "opp_7b2e36ef058617bb47ed",
+      "sentAt": "2026-10-10T15:01:55.025Z",
+      "messageId": "1558494798757756980"
+    },
+    "brief:opp_3d005642285acdf9d3b9:sha256:351465e39a3a0f8af5eccababf6cbb37928041ebfd25a818ca88c00f7b0c19f4": {
+      "status": "SENT",
+      "opportunityId": "opp_3d005642285acdf9d3b9",
+      "sentAt": "2026-10-10T15:01:55.025Z",
+      "messageId": "1558494798757756980"
+    },
+    "brief:opp_fe2f0720ba5cc7a6e013:sha256:2ad18e7bce1d899e517662bac7feb3d6e8c364dc8c846514b02d8e8da03cd0ee": {
+      "status": "SENT",
+      "opportunityId": "opp_fe2f0720ba5cc7a6e013",
+      "sentAt": "2026-10-10T15:01:55.025Z",
+      "messageId": "1558494798757756980"
+    },
+    "brief:opp_a22e8f67c47c1bc488da:sha256:37d395078be44712f7eeed70e4c682d474102625e5228a8642bb630cd04faaad": {
+      "status": "SENT",
+      "opportunityId": "opp_a22e8f67c47c1bc488da",
+      "sentAt": "2026-10-10T15:01:55.025Z",
+      "messageId": "1558494798757756980"
+    },
+    "brief:opp_f8e3d02674e526ecb807:sha256:83186bd19ec1960be1ecf66c69153479b6d4bf3eca35c509a6a4625a808c8a49": {
+      "status": "SENT",
+      "opportunityId": "opp_f8e3d02674e526ecb807",
+      "sentAt": "2026-10-10T15:01:55.025Z",
+      "messageId": "1558494798757756980"
     }
   },
   "pending": {},
