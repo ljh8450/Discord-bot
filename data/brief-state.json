@@ -71543,13 +71543,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 20,
-        "contentScore": 10,
+        "communityRank": 17,
+        "contentScore": 9,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 9,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -71557,11 +71557,11 @@
       },
       "contentHash": "sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
       "dedupeKey": "brief:opp_c48885d383c6c1f96aef:sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370",
-      "firstSeenAt": "2026-10-09T09:05:52.528Z",
-      "lastSeenAt": "2026-10-09T09:05:52.528Z",
+      "firstSeenAt": "2026-10-10T00:06:03.709Z",
+      "lastSeenAt": "2026-10-10T00:06:03.709Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -72999,13 +72999,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 6,
-        "contentScore": 11,
+        "communityRank": 10,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -73013,11 +73013,11 @@
       },
       "contentHash": "sha256:bbe0c31eb8bc164f8350629df1893af00cec79c51070d749f60022ab5223ce2d",
       "dedupeKey": "brief:opp_b21e3aa63833f8496535:sha256:bbe0c31eb8bc164f8350629df1893af00cec79c51070d749f60022ab5223ce2d",
-      "firstSeenAt": "2026-10-09T15:48:30.210Z",
-      "lastSeenAt": "2026-10-09T15:48:30.210Z",
+      "firstSeenAt": "2026-10-10T00:06:03.709Z",
+      "lastSeenAt": "2026-10-10T00:06:03.709Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -73117,6 +73117,155 @@
       "dedupeKey": "brief:opp_6e89eb24f163c12e631b:sha256:a40e6d4bf11a6c157cb99eab54730d08175446ba7e366bc465ec9ac3bc07912e",
       "firstSeenAt": "2026-10-09T15:48:30.210Z",
       "lastSeenAt": "2026-10-09T15:48:30.210Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dc670f9954c6a76bb2bb": {
+      "id": "opp_dc670f9954c6a76bb2bb",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/asana-browser-agent",
+      "canonicalUrl": "https://openai.com/index/asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "summaryEvidence": [
+        "https://openai.com/index/asana-browser-agent"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2fc214df53567d34ef9075cf7173ca889f458f047ed2bee9b8945b41e923b9ae",
+      "dedupeKey": "brief:opp_dc670f9954c6a76bb2bb:sha256:2fc214df53567d34ef9075cf7173ca889f458f047ed2bee9b8945b41e923b9ae",
+      "firstSeenAt": "2026-10-10T00:06:03.709Z",
+      "lastSeenAt": "2026-10-10T00:06:03.709Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_454d31d0df383985ab64": {
+      "id": "opp_454d31d0df383985ab64",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99381",
+      "canonicalUrl": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build",
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Fri, 09 Oct 2026 16:00:00 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:237b9be92571ea18551285929cd996cab7fc23404a343d54524872a8741bb718",
+      "dedupeKey": "brief:opp_454d31d0df383985ab64:sha256:237b9be92571ea18551285929cd996cab7fc23404a343d54524872a8741bb718",
+      "firstSeenAt": "2026-10-10T00:06:03.709Z",
+      "lastSeenAt": "2026-10-10T00:06:03.709Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6ef6e33e671700925e36": {
+      "id": "opp_6ef6e33e671700925e36",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:5bg469hWGGc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=5bg469hWGGc",
+      "title": "[한영자막] 대시보드는 끝났습니다: AI 에이전트가 소프트웨어를 쓰는 법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T22:00:34+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "지난 6개월 동안 매일 Datadog을 쓰면서도 단 한 번도 대시보드를 직접 열어보지 않았다는 고백으로 시작하는 이 발표는, 우리가 오랫동안 익숙하게 써온 '대시보드'의 시대가 왜 끝나가고 있는지를 명쾌하게 짚어냅니다. 인간을 위한 복잡한 UI와 쿼리 언어에서 시작해 AI 버튼을 거쳐 MCP(Model Context Protocol)에 이르기까지의 진화 과정을 되짚고, 여러 앱을 넘나드는 실제 작업에서 MCP가 겪는 구조적 한계와 이를 해결하기 위한 '에이전트 전용 인터페이스'의 필요성을 생생한",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=5bg469hWGGc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-09T22:00:34.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9a5fc20ae4572bd5fdb36a76d02decb4c7ac18aaba1e65d4a3ff0d955134db4a",
+      "dedupeKey": "brief:opp_6ef6e33e671700925e36:sha256:9a5fc20ae4572bd5fdb36a76d02decb4c7ac18aaba1e65d4a3ff0d955134db4a",
+      "firstSeenAt": "2026-10-10T00:06:03.709Z",
+      "lastSeenAt": "2026-10-10T00:06:03.709Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -81074,6 +81223,36 @@
       "opportunityId": "opp_ab1ff23073ce6ba1e454",
       "sentAt": "2026-10-09T15:48:30.210Z",
       "messageId": "1558144151025877043"
+    },
+    "brief:opp_454d31d0df383985ab64:sha256:237b9be92571ea18551285929cd996cab7fc23404a343d54524872a8741bb718": {
+      "status": "SENT",
+      "opportunityId": "opp_454d31d0df383985ab64",
+      "sentAt": "2026-10-10T00:06:03.709Z",
+      "messageId": "1558269349272223817"
+    },
+    "brief:opp_dc670f9954c6a76bb2bb:sha256:2fc214df53567d34ef9075cf7173ca889f458f047ed2bee9b8945b41e923b9ae": {
+      "status": "SENT",
+      "opportunityId": "opp_dc670f9954c6a76bb2bb",
+      "sentAt": "2026-10-10T00:06:03.709Z",
+      "messageId": "1558269349272223817"
+    },
+    "brief:opp_6ef6e33e671700925e36:sha256:9a5fc20ae4572bd5fdb36a76d02decb4c7ac18aaba1e65d4a3ff0d955134db4a": {
+      "status": "SENT",
+      "opportunityId": "opp_6ef6e33e671700925e36",
+      "sentAt": "2026-10-10T00:06:03.709Z",
+      "messageId": "1558269349272223817"
+    },
+    "brief:opp_b21e3aa63833f8496535:sha256:bbe0c31eb8bc164f8350629df1893af00cec79c51070d749f60022ab5223ce2d": {
+      "status": "SENT",
+      "opportunityId": "opp_b21e3aa63833f8496535",
+      "sentAt": "2026-10-10T00:06:03.709Z",
+      "messageId": "1558269349272223817"
+    },
+    "brief:opp_c48885d383c6c1f96aef:sha256:64042e32b58fab8b16e97f5c7094fb0a0d7b899bae8f31c2cb637e5ee04b7370": {
+      "status": "SENT",
+      "opportunityId": "opp_c48885d383c6c1f96aef",
+      "sentAt": "2026-10-10T00:06:03.709Z",
+      "messageId": "1558269349272223817"
     }
   },
   "pending": {},
