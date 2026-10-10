@@ -73271,6 +73271,259 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_a22e8f67c47c1bc488da": {
+      "id": "opp_a22e8f67c47c1bc488da",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35070",
+      "canonicalUrl": "https://iminafleeting.com/",
+      "title": "Fleeting - “지금 회의 중입니다”를 위한 가짜 회의 재생 서비스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T22:38:39+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "가상의 회의 음성과 화상회의 화면을 재생해 회의 중인 것처럼 보이게 하는 웹 서비스로, 주변의 방해 없이 시간을 확보하는 용도 개발팀 스탠드업...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35070"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:37d395078be44712f7eeed70e4c682d474102625e5228a8642bb630cd04faaad",
+      "dedupeKey": "brief:opp_a22e8f67c47c1bc488da:sha256:37d395078be44712f7eeed70e4c682d474102625e5228a8642bb630cd04faaad",
+      "firstSeenAt": "2026-10-10T09:06:12.735Z",
+      "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_33ea88873e1384b95dd2": {
+      "id": "opp_33ea88873e1384b95dd2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35087",
+      "canonicalUrl": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "title": "프로그래밍은 특별하지 않다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T09:02:37+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "프로그래밍도 예술이며, 기능적인 결과물을 만든다는 이유로 다른 창작 분야와 달리 AI 사용을 정당화할 수는 없음 예술은 초월적인 작품에만 한정...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35087"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fa45edc571bdb720b5a4edc055f03ec3b4b762d5e91a649855f1b93fa4ea2fee",
+      "dedupeKey": "brief:opp_33ea88873e1384b95dd2:sha256:fa45edc571bdb720b5a4edc055f03ec3b4b762d5e91a649855f1b93fa4ea2fee",
+      "firstSeenAt": "2026-10-10T09:06:12.735Z",
+      "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c4988e9401896fa6b23d": {
+      "id": "opp_c4988e9401896fa6b23d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35085",
+      "canonicalUrl": "https://www.python.org/downloads/release/python-3150",
+      "title": "Python 3.15 정식 출시 - 지연 임포트, 불변 딕셔너리, UTF-8 기본 인코딩 도입",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T08:49:33+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Python 3.15.0 정식 출시로 UTF-8을 기본 인코딩으로 사용하고, 불변 딕셔너리 frozendict와 고유한 표식 값을 만드는 sentinel 내장 타입 추가 명...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35085"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:534f4193b3a219fcd42144e8a8bc96a4e758976dad800df5800e3055c9b2314b",
+      "dedupeKey": "brief:opp_c4988e9401896fa6b23d:sha256:534f4193b3a219fcd42144e8a8bc96a4e758976dad800df5800e3055c9b2314b",
+      "firstSeenAt": "2026-10-10T09:06:12.735Z",
+      "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_29fa93a92f9e6e17faba": {
+      "id": "opp_29fa93a92f9e6e17faba",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:NfEoedIXRdM",
+      "canonicalUrl": "https://www.youtube.com/watch?v=NfEoedIXRdM",
+      "title": "AI가 다 해주는 시대, 진짜 실력은 어디서 갈릴까? | 실밸개발자 x 커리어해커 알렉스 AI 토크 2부-파트2",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T09:03:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 시대에 중요한 역량, 결국 끈기입니다 (with 커리어해커 알렉스) 커리어해커 알렉스와 나눈 두 번째 대담에서 \"우리는 어디에 집중해야 하는가\"를 이야기했습니다. 앞 편에서 AI가 아직 못하는 일을 짚었으니, 이번에는 앞으로 중요한 역량은 무엇이고 지금부터 무엇을 배우면 좋을지입니다. 시작은 AI가 빨라질수록 사람이 게을러진다는 이야기입니다. AI가 나오고 시간이 남기는커녕 더 부족해졌고, 돌리는 일이 많아질수록 관리가 어려워졌습니다. 에이전트 열몇 개를 돌려 일을 끝내고 보고서로 정리하라고",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=NfEoedIXRdM"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-10T09:03:28.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7ac09ab064ea639ace7f5c1e2f6e7d954bec8b4554dbe47dc7707302473c32fa",
+      "dedupeKey": "brief:opp_29fa93a92f9e6e17faba:sha256:7ac09ab064ea639ace7f5c1e2f6e7d954bec8b4554dbe47dc7707302473c32fa",
+      "firstSeenAt": "2026-10-10T09:06:12.735Z",
+      "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d704c11e73c142918518": {
+      "id": "opp_d704c11e73c142918518",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:RVnSsolR3uE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=RVnSsolR3uE",
+      "title": "[한영자막] Codex로 요리하기 — OpenAI의 Charlie Guo와 Gabriel Chua",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T04:00:24+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI 개발팀의 Charlie Guo와 Gabriel Chua가 실제 Codex 프로젝트를 만들며 컨텍스트, 플러그인, 사람의 감독이 개발 과정에서 어떤 역할을 하는지 보여줍니다. Slack 대화에서 macOS 번역 앱을 만들고, 원격 작업과 자동화, 장시간 프로젝트 관리까지 살펴봅니다. 주요 내용 - Slack 맥락으로 실시간 번역 앱을 만들고 테스트합니다. - 플러그인과 스킬로 반복 가능한 개발 지침을 적용합니다. - 원격 스레드, 서브에이전트, Goals와 감사를 활용해 장시간 작업을",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=RVnSsolR3uE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-10T04:00:24.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e5b54648888f47b712d6cbd0a8ba5e78b3057d679ec3845d8322e8763905f425",
+      "dedupeKey": "brief:opp_d704c11e73c142918518:sha256:e5b54648888f47b712d6cbd0a8ba5e78b3057d679ec3845d8322e8763905f425",
+      "firstSeenAt": "2026-10-10T09:06:12.735Z",
+      "lastSeenAt": "2026-10-10T09:06:12.735Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -81253,6 +81506,30 @@
       "opportunityId": "opp_c48885d383c6c1f96aef",
       "sentAt": "2026-10-10T00:06:03.709Z",
       "messageId": "1558269349272223817"
+    },
+    "brief:opp_29fa93a92f9e6e17faba:sha256:7ac09ab064ea639ace7f5c1e2f6e7d954bec8b4554dbe47dc7707302473c32fa": {
+      "status": "SENT",
+      "opportunityId": "opp_29fa93a92f9e6e17faba",
+      "sentAt": "2026-10-10T09:06:12.735Z",
+      "messageId": "1558405282101727344"
+    },
+    "brief:opp_d704c11e73c142918518:sha256:e5b54648888f47b712d6cbd0a8ba5e78b3057d679ec3845d8322e8763905f425": {
+      "status": "SENT",
+      "opportunityId": "opp_d704c11e73c142918518",
+      "sentAt": "2026-10-10T09:06:12.735Z",
+      "messageId": "1558405282101727344"
+    },
+    "brief:opp_33ea88873e1384b95dd2:sha256:fa45edc571bdb720b5a4edc055f03ec3b4b762d5e91a649855f1b93fa4ea2fee": {
+      "status": "SENT",
+      "opportunityId": "opp_33ea88873e1384b95dd2",
+      "sentAt": "2026-10-10T09:06:12.735Z",
+      "messageId": "1558405282101727344"
+    },
+    "brief:opp_c4988e9401896fa6b23d:sha256:534f4193b3a219fcd42144e8a8bc96a4e758976dad800df5800e3055c9b2314b": {
+      "status": "SENT",
+      "opportunityId": "opp_c4988e9401896fa6b23d",
+      "sentAt": "2026-10-10T09:06:12.735Z",
+      "messageId": "1558405282101727344"
     }
   },
   "pending": {},
