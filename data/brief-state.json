@@ -73785,6 +73785,104 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_87a357c26af2053530fa": {
+      "id": "opp_87a357c26af2053530fa",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35105",
+      "canonicalUrl": "https://rea.tools/",
+      "title": "REA Reverse - 무엇이든 리버스 엔지니어링하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T12:32:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "REA는 코딩 에이전트가 프로그램 자체를 검사하고 동작을 설명하도록 도구를 제공하며, 분석한 기능을 변경하거나 재구현하는 데 활용할 수 있음 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35105"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ee38edc15024c3f3ffe76fe1254e4fb8361c18b63be997eda0e2bbae1abba931",
+      "dedupeKey": "brief:opp_87a357c26af2053530fa:sha256:ee38edc15024c3f3ffe76fe1254e4fb8361c18b63be997eda0e2bbae1abba931",
+      "firstSeenAt": "2026-10-11T04:34:53.922Z",
+      "lastSeenAt": "2026-10-11T04:34:53.922Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cf069163a4a79ac1defa": {
+      "id": "opp_cf069163a4a79ac1defa",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35060",
+      "canonicalUrl": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs",
+      "title": "Windows와 Mac의 키보드 차이 - Ctrl을 Command로 바꾸는 것만으로는 부족하다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-09T19:34:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "같은 코드베이스로 Windows와 Mac을 지원하는 웹 앱도 키 이름, 보조 키, 문자 입력과 커서 이동 관행의 차이를 고려해야 함 Windows의 Ctrl 중심 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35060"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 19,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ff04d0dde5ace352f96f6028cf84ed59837e6566345fbc8761f76b5eee66d278",
+      "dedupeKey": "brief:opp_cf069163a4a79ac1defa:sha256:ff04d0dde5ace352f96f6028cf84ed59837e6566345fbc8761f76b5eee66d278",
+      "firstSeenAt": "2026-10-11T04:34:53.922Z",
+      "lastSeenAt": "2026-10-11T04:34:53.922Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -81827,6 +81925,18 @@
       "opportunityId": "opp_efa3fe8b58e6c4f6803d",
       "sentAt": "2026-10-11T00:05:50.333Z",
       "messageId": "1558631680787353631"
+    },
+    "brief:opp_87a357c26af2053530fa:sha256:ee38edc15024c3f3ffe76fe1254e4fb8361c18b63be997eda0e2bbae1abba931": {
+      "status": "SENT",
+      "opportunityId": "opp_87a357c26af2053530fa",
+      "sentAt": "2026-10-11T04:34:53.922Z",
+      "messageId": "1558699391085187123"
+    },
+    "brief:opp_cf069163a4a79ac1defa:sha256:ff04d0dde5ace352f96f6028cf84ed59837e6566345fbc8761f76b5eee66d278": {
+      "status": "SENT",
+      "opportunityId": "opp_cf069163a4a79ac1defa",
+      "sentAt": "2026-10-11T04:34:53.922Z",
+      "messageId": "1558699391085187123"
     }
   },
   "pending": {},
