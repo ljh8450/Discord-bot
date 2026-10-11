@@ -73883,6 +73883,263 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_5af24c14478a198ea18c": {
+      "id": "opp_5af24c14478a198ea18c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35140",
+      "canonicalUrl": "https://vercel.com/eve",
+      "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "에이전트 개발자가 Markdown과 TypeScript 파일만으로 에이전트를 실행하거나 배포할 수 있는 프레임워크 지침, 도구, 채널을 정의하고 상태를 유...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35140"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:342574908a085db53691527ab4e11505cee6fc34325672b5612036a95849da38",
+      "dedupeKey": "brief:opp_5af24c14478a198ea18c:sha256:342574908a085db53691527ab4e11505cee6fc34325672b5612036a95849da38",
+      "firstSeenAt": "2026-10-11T09:05:34.107Z",
+      "lastSeenAt": "2026-10-11T09:05:34.107Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5d600664a53711c2b737": {
+      "id": "opp_5d600664a53711c2b737",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35104",
+      "canonicalUrl": "https://mtlynch.io/why-are-coding-agents-so-dumb",
+      "title": "코딩 에이전트는 왜 이렇게 멍청할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T12:03:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 지원 개발은 발전했지만, 모델을 코드베이스와 시스템에 연결하는 에이전트는 작업 관리, 위임, 소통에서 여전히 병목으로 남아 있음 작업을 하...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35104"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c00d49be7a565042f71c6a3f1605ef110b9d60fe6c67f64c5ec214d524024a2",
+      "dedupeKey": "brief:opp_5d600664a53711c2b737:sha256:7c00d49be7a565042f71c6a3f1605ef110b9d60fe6c67f64c5ec214d524024a2",
+      "firstSeenAt": "2026-10-11T09:05:34.107Z",
+      "lastSeenAt": "2026-10-11T09:05:34.107Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5cf9004bdee37746e352": {
+      "id": "opp_5cf9004bdee37746e352",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:4JfLShdp92k",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4JfLShdp92k",
+      "title": "[한영자막] 모든 AI 기업이 어쩌다 보니 은행을 짓고 있는 이유입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T09:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 기업들이 제품을 대규모로 서비스하면서 마주한 가격 대란과 막대한 적자, 그 진짜 원인은 비즈니스 모델이 아니라 '금융 인프라'의 부재였습니다. Stigg의 공동 창업자이자 CEO인 Dor Sasson이 모든 AI 기업이 어쩌다 보니 은행식 금융 시스템을 직접 구축하게 되는 필연적인 이유와 OpenAI가 구축한 런타임 아키텍처, 그리고 AI 시대에 필요한 핵심 인프라 패턴을 명쾌하게 분석합니다. 📌 주요 내용: • 2026년 4월 가격 대란의 진실: Anthropic의 OpenClaw 차단",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=4JfLShdp92k"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T09:00:27.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9ad6c2263c9caccdecead4cfe7120f49fa9c0bb58a861a1b465cb085feb10927",
+      "dedupeKey": "brief:opp_5cf9004bdee37746e352:sha256:9ad6c2263c9caccdecead4cfe7120f49fa9c0bb58a861a1b465cb085feb10927",
+      "firstSeenAt": "2026-10-11T09:05:34.107Z",
+      "lastSeenAt": "2026-10-11T09:05:34.107Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_77acdeea049b2a23248b": {
+      "id": "opp_77acdeea049b2a23248b",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:0kVsv2WlL44",
+      "canonicalUrl": "https://www.youtube.com/watch?v=0kVsv2WlL44",
+      "title": "[한영자막] AI 에이전트에 학습하는 메모리를 제공해 보세요 — Jake Broekhuizen, LangChain",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T03:00:15+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 같은 실수를 반복한다면 실행 기록을 쌓는 것만으로는 부족합니다. LangChain Labs 리드 Jake Broekhuizen이 경험을 다음 실행에 반영하는 에이전트 메모리의 구조를 설명합니다. 주요 포인트 • 관찰 가능성과 학습의 차이: 로그가 지속적인 컨텍스트로 바뀌어야 합니다. • 의미·일화·절차 메모리와 작업 메모리·장기 메모리의 역할을 구분합니다. • 컨텍스트 읽기 → 실행 → 증거 필터링 → 메모리 갱신의 순환을 살펴봅니다. • LangSmith와 Context Hub를",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=0kVsv2WlL44"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T09:00:27.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dfb5c739f3abaf208468eb1b5b805e5af6eadbd06a768f114549371ad33ba408",
+      "dedupeKey": "brief:opp_77acdeea049b2a23248b:sha256:dfb5c739f3abaf208468eb1b5b805e5af6eadbd06a768f114549371ad33ba408",
+      "firstSeenAt": "2026-10-11T09:05:34.107Z",
+      "lastSeenAt": "2026-10-11T09:05:34.107Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_866bc7dd98f99cda725a": {
+      "id": "opp_866bc7dd98f99cda725a",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:51l0BDEm9Z0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=51l0BDEm9Z0",
+      "title": "Stripe 디자인팀이 애니메이션 하나를 56번 다시 만든 이유 — 케이티 딜이 말하는 '좀비 UI' 피하는 법",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T01:37:49+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI로 화면을 만들면 왜 다 비슷해 보일까요. Stripe 디자인 총괄 케이티 딜(전 에어비앤비·리프트)은 AI가 쏟아내는 화면들을 '좀비 UI'라고 부릅니다. 2026년 9월 레니 앤 프렌즈 서밋에서 한 발표를 클립과 함께 봅니다. 2차 세계대전 직후 건축 붐이 영혼 없는 '좀비 빌딩'을 남겼듯, AI 붐이 좀비 UI를 남길 수 있다는 경고 세 가지. 그리고 이를 피하는 네 가지 제안 — 관점을 가질 것, 기준을 기계에 심을 것, 다 됐다와 좋다를 구분할 것, AI로 새로 만들 것. 서밋 오프닝",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=51l0BDEm9Z0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T01:37:49.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bd90ad101e76eec3e2ae4cc7353104f73031f1ad59b4d38647245a85f09634bf",
+      "dedupeKey": "brief:opp_866bc7dd98f99cda725a:sha256:bd90ad101e76eec3e2ae4cc7353104f73031f1ad59b4d38647245a85f09634bf",
+      "firstSeenAt": "2026-10-11T09:05:34.107Z",
+      "lastSeenAt": "2026-10-11T09:05:34.107Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -81937,6 +82194,36 @@
       "opportunityId": "opp_cf069163a4a79ac1defa",
       "sentAt": "2026-10-11T04:34:53.922Z",
       "messageId": "1558699391085187123"
+    },
+    "brief:opp_866bc7dd98f99cda725a:sha256:bd90ad101e76eec3e2ae4cc7353104f73031f1ad59b4d38647245a85f09634bf": {
+      "status": "SENT",
+      "opportunityId": "opp_866bc7dd98f99cda725a",
+      "sentAt": "2026-10-11T09:05:34.107Z",
+      "messageId": "1558767508318724187"
+    },
+    "brief:opp_5cf9004bdee37746e352:sha256:9ad6c2263c9caccdecead4cfe7120f49fa9c0bb58a861a1b465cb085feb10927": {
+      "status": "SENT",
+      "opportunityId": "opp_5cf9004bdee37746e352",
+      "sentAt": "2026-10-11T09:05:34.107Z",
+      "messageId": "1558767508318724187"
+    },
+    "brief:opp_77acdeea049b2a23248b:sha256:dfb5c739f3abaf208468eb1b5b805e5af6eadbd06a768f114549371ad33ba408": {
+      "status": "SENT",
+      "opportunityId": "opp_77acdeea049b2a23248b",
+      "sentAt": "2026-10-11T09:05:34.107Z",
+      "messageId": "1558767508318724187"
+    },
+    "brief:opp_5af24c14478a198ea18c:sha256:342574908a085db53691527ab4e11505cee6fc34325672b5612036a95849da38": {
+      "status": "SENT",
+      "opportunityId": "opp_5af24c14478a198ea18c",
+      "sentAt": "2026-10-11T09:05:34.107Z",
+      "messageId": "1558767508318724187"
+    },
+    "brief:opp_5d600664a53711c2b737:sha256:7c00d49be7a565042f71c6a3f1605ef110b9d60fe6c67f64c5ec214d524024a2": {
+      "status": "SENT",
+      "opportunityId": "opp_5d600664a53711c2b737",
+      "sentAt": "2026-10-11T09:05:34.107Z",
+      "messageId": "1558767508318724187"
     }
   },
   "pending": {},
