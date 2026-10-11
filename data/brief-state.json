@@ -74140,6 +74140,161 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_4aeec46deed013b11d2c": {
+      "id": "opp_4aeec46deed013b11d2c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35124",
+      "canonicalUrl": "https://x.com/bunjavascript/status/2108441841498804715",
+      "title": "Bun, TypeScript를 네이티브 코드로 선행 컴파일하는 AOT 컴파일러 실험 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T23:55:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Bun이 TypeScript/JavaScript를 실행 전에 네이티브 코드로 컴파일하는 AOT(Ahead-of-Time) 컴파일러의 실험 결과를 공개함 기존 bun build --comp...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35124"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 19,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0deab3e24dee3fedf06bc0c27abbf1eb4c91e48d7436d18e6f29775f7bb647c2",
+      "dedupeKey": "brief:opp_4aeec46deed013b11d2c:sha256:0deab3e24dee3fedf06bc0c27abbf1eb4c91e48d7436d18e6f29775f7bb647c2",
+      "firstSeenAt": "2026-10-11T15:19:09.448Z",
+      "lastSeenAt": "2026-10-11T15:19:09.448Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4f75e0f1b2516502f8bf": {
+      "id": "opp_4f75e0f1b2516502f8bf",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:gcFqz2lgCvA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gcFqz2lgCvA",
+      "title": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T11:27:43+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gcFqz2lgCvA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T11:27:43.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8c3189dbbd71815f94a331578510f83d6b442026825aeb1d02ae5fdab7dadccf",
+      "dedupeKey": "brief:opp_4f75e0f1b2516502f8bf:sha256:8c3189dbbd71815f94a331578510f83d6b442026825aeb1d02ae5fdab7dadccf",
+      "firstSeenAt": "2026-10-11T15:19:09.448Z",
+      "lastSeenAt": "2026-10-11T15:19:09.448Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9e22d0a7d1a0156c5dfc": {
+      "id": "opp_9e22d0a7d1a0156c5dfc",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:gPrqv8MWOEA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gPrqv8MWOEA",
+      "title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고… 몇 주 간 계속 터진 AI 회사들의 안전 논란",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T10:24:58+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI가 안전 연구원 세 명을 해고하면서 논란이 커졌습니다.회사는 민감한 정보 취급 규정 위반을 이유로 들었고, 연구원들은 당시 업무 범위와 관행 안에서 일했다고 반박했습니다.재스민 왕이 설명한 이메일 접근 경위와 세 사람이 공개한 서한을 살펴봅니다.외부 연구기관과의 안전 검증이 왜 회사의 기밀 관리 문제와 충돌하는지도 짚어봅니다.허깅페이스 보안 사고와 앤트로픽이 공개한 평가 중 사고는 이러한 논쟁의 배경입니다.앤트로픽 연구원 제이컵 콕슨의 퇴사와 경고도 함께 다룹니다.OpenAI가 안전 문",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gPrqv8MWOEA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T10:24:58.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:17d9cbd27d6d5af603194d88a20cc09d63e8f98c592a7131871058b388cfc198",
+      "dedupeKey": "brief:opp_9e22d0a7d1a0156c5dfc:sha256:17d9cbd27d6d5af603194d88a20cc09d63e8f98c592a7131871058b388cfc198",
+      "firstSeenAt": "2026-10-11T15:19:09.448Z",
+      "lastSeenAt": "2026-10-11T15:19:09.448Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -82224,6 +82379,24 @@
       "opportunityId": "opp_5d600664a53711c2b737",
       "sentAt": "2026-10-11T09:05:34.107Z",
       "messageId": "1558767508318724187"
+    },
+    "brief:opp_4f75e0f1b2516502f8bf:sha256:8c3189dbbd71815f94a331578510f83d6b442026825aeb1d02ae5fdab7dadccf": {
+      "status": "SENT",
+      "opportunityId": "opp_4f75e0f1b2516502f8bf",
+      "sentAt": "2026-10-11T15:19:09.448Z",
+      "messageId": "1558861524460904551"
+    },
+    "brief:opp_9e22d0a7d1a0156c5dfc:sha256:17d9cbd27d6d5af603194d88a20cc09d63e8f98c592a7131871058b388cfc198": {
+      "status": "SENT",
+      "opportunityId": "opp_9e22d0a7d1a0156c5dfc",
+      "sentAt": "2026-10-11T15:19:09.448Z",
+      "messageId": "1558861524460904551"
+    },
+    "brief:opp_4aeec46deed013b11d2c:sha256:0deab3e24dee3fedf06bc0c27abbf1eb4c91e48d7436d18e6f29775f7bb647c2": {
+      "status": "SENT",
+      "opportunityId": "opp_4aeec46deed013b11d2c",
+      "sentAt": "2026-10-11T15:19:09.448Z",
+      "messageId": "1558861524460904551"
     }
   },
   "pending": {},
