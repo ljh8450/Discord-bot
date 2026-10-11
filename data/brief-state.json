@@ -73732,6 +73732,59 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_efa3fe8b58e6c4f6803d": {
+      "id": "opp_efa3fe8b58e6c4f6803d",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:sAu_4QuAI0w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sAu_4QuAI0w",
+      "title": "[한영자막] 하네스 엔지니어링: 코딩 에이전트로 '소프트웨어 팩토리'를 만드는 방법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T22:00:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "소프트웨어 팩토리에서는 코딩 에이전트가 사용자가 마주할 모든 프로덕트 코드를 작성하고, 개발자는 그 에이전트들이 일할 팩토리를 만듭니다. 단순히 코딩 에이전트를 쓰는 단계를 넘어, 조직 전체가 소프트웨어 팩토리로 나아가기 위한 핵심 역량인 '하네스 엔지니어링(Harness Engineering)'의 실전 구축 전략을 소개합니다. 📌 주요 포인트: • 소프트웨어 팩토리의 본질과 세 가지 지표(자율성, 자동화, 품질) • 개발 속도보다 '품질 향상'이 소프트웨어 팩토리의 진짜 이점인 이유 • 이너(",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sAu_4QuAI0w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-10T22:00:02.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9aa8c07d9f546a860402352a36516f0a70dea8c3f1029e5f0c704b20111d7af8",
+      "dedupeKey": "brief:opp_efa3fe8b58e6c4f6803d:sha256:9aa8c07d9f546a860402352a36516f0a70dea8c3f1029e5f0c704b20111d7af8",
+      "firstSeenAt": "2026-10-11T00:05:50.333Z",
+      "lastSeenAt": "2026-10-11T00:05:50.333Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -81768,6 +81821,12 @@
       "opportunityId": "opp_f8e3d02674e526ecb807",
       "sentAt": "2026-10-10T15:01:55.025Z",
       "messageId": "1558494798757756980"
+    },
+    "brief:opp_efa3fe8b58e6c4f6803d:sha256:9aa8c07d9f546a860402352a36516f0a70dea8c3f1029e5f0c704b20111d7af8": {
+      "status": "SENT",
+      "opportunityId": "opp_efa3fe8b58e6c4f6803d",
+      "sentAt": "2026-10-11T00:05:50.333Z",
+      "messageId": "1558631680787353631"
     }
   },
   "pending": {},
