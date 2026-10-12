@@ -74424,26 +74424,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 28,
+        "communityPoints": 39,
         "communityRank": 1,
-        "contentScore": 13,
+        "contentScore": 14,
         "contentScoreBreakdown": {
-          "total": 13,
+          "total": 14,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 2
+          "community": 3
         }
       },
       "contentHash": "sha256:42a35e70a7fd55d20e72439e4d71aca085b2527c4032844e32d2f4967078cc39",
       "dedupeKey": "brief:opp_e69cad4fb2391a153976:sha256:42a35e70a7fd55d20e72439e4d71aca085b2527c4032844e32d2f4967078cc39",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -74522,8 +74522,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 8,
+        "communityPoints": 8,
+        "communityRank": 10,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -74537,8 +74537,8 @@
       },
       "contentHash": "sha256:f44e51d22a687688043f7eb2de26056fe4c7b39c9edaee24fda76689427af821",
       "dedupeKey": "brief:opp_68b5e99927a8e06dbee6:sha256:f44e51d22a687688043f7eb2de26056fe4c7b39c9edaee24fda76689427af821",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74571,8 +74571,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 5,
+        "communityPoints": 16,
+        "communityRank": 4,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -74586,8 +74586,8 @@
       },
       "contentHash": "sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
       "dedupeKey": "brief:opp_42ee3b68a5564236a866:sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74620,23 +74620,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
+        "communityPoints": 20,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
       "dedupeKey": "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74669,8 +74669,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 6,
+        "communityPoints": 16,
+        "communityRank": 5,
         "contentScore": 13,
         "contentScoreBreakdown": {
           "total": 13,
@@ -74684,8 +74684,8 @@
       },
       "contentHash": "sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca",
       "dedupeKey": "brief:opp_a08b74e33664346a14d5:sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74865,23 +74865,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 8,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c",
       "dedupeKey": "brief:opp_614bcd2ab6a0da9bf443:sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74915,7 +74915,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 10,
+        "communityRank": 11,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -74929,8 +74929,8 @@
       },
       "contentHash": "sha256:9477ade3b5878bb24556d9530fd844664db3570196faf50c5e669b4ace8db706",
       "dedupeKey": "brief:opp_65a1d300915f141a93e7:sha256:9477ade3b5878bb24556d9530fd844664db3570196faf50c5e669b4ace8db706",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74963,26 +74963,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 11,
-        "contentScore": 12,
+        "communityPoints": 10,
+        "communityRank": 9,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:78e5ec89e8c3d1d2e9143d25936851c68936a353d9991f1380dbf02532d6dd09",
       "dedupeKey": "brief:opp_0ca5720aaffb9ec05fc7:sha256:78e5ec89e8c3d1d2e9143d25936851c68936a353d9991f1380dbf02532d6dd09",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75061,7 +75061,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
+        "communityPoints": 6,
         "communityRank": 14,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -75076,8 +75076,8 @@
       },
       "contentHash": "sha256:fba9aacb22c8296233af9cccd507097c104fcd25ff9201d6bd384238ef31883b",
       "dedupeKey": "brief:opp_5115c3e242fee7237d54:sha256:fba9aacb22c8296233af9cccd507097c104fcd25ff9201d6bd384238ef31883b",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75280,11 +75280,11 @@
       },
       "contentHash": "sha256:9b10aae07e411ae0a29be112edca6dd184b8491951b156f2a97ab3f48150af79",
       "dedupeKey": "brief:opp_187be404fc7fa0026b54:sha256:9b10aae07e411ae0a29be112edca6dd184b8491951b156f2a97ab3f48150af79",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75439,11 +75439,210 @@
       },
       "contentHash": "sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5",
       "dedupeKey": "brief:opp_c8a98ca2d1fd1e6821c4:sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5",
-      "firstSeenAt": "2026-10-12T09:06:09.061Z",
-      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd72bf29b48462ec66e2": {
+      "id": "opp_cd72bf29b48462ec66e2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35217",
+      "canonicalUrl": "https://news.hada.io/topic?id=35217",
+      "title": "Show GN: 모퉁이 라디오 - 맥/윈도우 라디오 앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T11:28:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "안녕하세요. 평소 작업하거나 코딩할 때 라디오를 틀어놓는 걸 좋아하는데, 모바일 버전이 아닌 PC용으론 적절한 라디오 프로그램을 찾기 힘들더라...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35217"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:efe789f44e5dcff32d52fab133cde2dde9898d6da47dcdb685182201e03a170d",
+      "dedupeKey": "brief:opp_cd72bf29b48462ec66e2:sha256:efe789f44e5dcff32d52fab133cde2dde9898d6da47dcdb685182201e03a170d",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_026509789885c9f00f58": {
+      "id": "opp_026509789885c9f00f58",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "9cb3f035025b87c61e21add618ce34415e8327d4",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-opensearch-service-custom-nori-analyzer-user-dictionary-tuning",
+      "title": "Amazon OpenSearch Service 고급 활용 – 자체 빌드 Nori 분석기를 통한 사용자 사전 미세 조정",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Mon, 12 Oct 2026 09:54:42 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "검색 서비스에서는 브랜드명이나 상품명처럼 해당 분야에서 사용하는 도메인 용어를 정확하게 처리하는 것이 중요합니다. 이런 용어가 의도와 다르게 분리되면 사용자가 찾는 상품을 놓치거나 관련 없는 결과가 검색될 수 있으며 점진적으로 사용자 경험 저하라는 악순환이 반복됩니다. Amazon OpenSearch Service는&nbsp;커스텀 패키지를 통해 사용자 사전과 동의어 사전을 적용할 수 있습니다. 이를 활용하면 서비스에 필요한 용어를 추가하고 서로 다른 검색 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-opensearch-service-custom-nori-analyzer-user-dictionary-tuning/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c23764c7d2a910ee4d75fa8656bf39e3933b7e335c503689dfe7210948d14ce0",
+      "dedupeKey": "brief:opp_026509789885c9f00f58:sha256:c23764c7d2a910ee4d75fa8656bf39e3933b7e335c503689dfe7210948d14ce0",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b6c0acb4e3f95360d3bc": {
+      "id": "opp_b6c0acb4e3f95360d3bc",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99409",
+      "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Mon, 12 Oct 2026 17:43:59 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:01551e8303bb36d2302735a2eae0209bc51144b3567a4e68a806f7a33f5ee005",
+      "dedupeKey": "brief:opp_b6c0acb4e3f95360d3bc:sha256:01551e8303bb36d2302735a2eae0209bc51144b3567a4e68a806f7a33f5ee005",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_02a26df6dc4576a03d1f": {
+      "id": "opp_02a26df6dc4576a03d1f",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:tq7LoppNXW8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tq7LoppNXW8",
+      "title": "영상 광고는 다시 안 찍고 가방만 바꿨습니다 — 힉스필드 Ads Studio 직접 써 본 비용 (48·96크레딧)",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T15:07:44+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Try Higgsfield Ads Studio: https://higgsfield.ai/s/higgsfield-ads-studio-yt-ai-agentos-ACmYIv 가방 사진 네 장으로 이미지 광고 열두 장을 만들고, 이미 있던 영상 광고는 다시 찍지 않고 들고 있는 가방만 우리 제품으로 바꿔 봤습니다. 힉스필드 Ads Studio 에서 Static Ads 와 Ad Multiplier 를 둘 다 처음부터 끝까지 써 보고, 단계마다 든 크레딧까지 그대로 보여 드립니다. ※ 이 영상은 Higgsf",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=tq7LoppNXW8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-12T15:07:44.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9bc61bb49c6192114a9289364f8bb4425c0891ba3a16f4478641c30a582bef47",
+      "dedupeKey": "brief:opp_02a26df6dc4576a03d1f:sha256:9bc61bb49c6192114a9289364f8bb4425c0891ba3a16f4478641c30a582bef47",
+      "firstSeenAt": "2026-10-12T18:33:51.951Z",
+      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -83614,6 +83813,42 @@
       "opportunityId": "opp_10902ca9e391c2adeeed",
       "sentAt": "2026-10-12T09:06:09.061Z",
       "messageId": "1559130043311980656"
+    },
+    "brief:opp_b6c0acb4e3f95360d3bc:sha256:01551e8303bb36d2302735a2eae0209bc51144b3567a4e68a806f7a33f5ee005": {
+      "status": "SENT",
+      "opportunityId": "opp_b6c0acb4e3f95360d3bc",
+      "sentAt": "2026-10-12T18:33:51.951Z",
+      "messageId": "1559272912941350975"
+    },
+    "brief:opp_026509789885c9f00f58:sha256:c23764c7d2a910ee4d75fa8656bf39e3933b7e335c503689dfe7210948d14ce0": {
+      "status": "SENT",
+      "opportunityId": "opp_026509789885c9f00f58",
+      "sentAt": "2026-10-12T18:33:51.951Z",
+      "messageId": "1559272912941350975"
+    },
+    "brief:opp_e69cad4fb2391a153976:sha256:42a35e70a7fd55d20e72439e4d71aca085b2527c4032844e32d2f4967078cc39": {
+      "status": "SENT",
+      "opportunityId": "opp_e69cad4fb2391a153976",
+      "sentAt": "2026-10-12T18:33:51.951Z",
+      "messageId": "1559272912941350975"
+    },
+    "brief:opp_02a26df6dc4576a03d1f:sha256:9bc61bb49c6192114a9289364f8bb4425c0891ba3a16f4478641c30a582bef47": {
+      "status": "SENT",
+      "opportunityId": "opp_02a26df6dc4576a03d1f",
+      "sentAt": "2026-10-12T18:33:51.951Z",
+      "messageId": "1559272912941350975"
+    },
+    "brief:opp_0ca5720aaffb9ec05fc7:sha256:78e5ec89e8c3d1d2e9143d25936851c68936a353d9991f1380dbf02532d6dd09": {
+      "status": "SENT",
+      "opportunityId": "opp_0ca5720aaffb9ec05fc7",
+      "sentAt": "2026-10-12T18:33:51.951Z",
+      "messageId": "1559272912941350975"
+    },
+    "brief:opp_187be404fc7fa0026b54:sha256:9b10aae07e411ae0a29be112edca6dd184b8491951b156f2a97ab3f48150af79": {
+      "status": "SENT",
+      "opportunityId": "opp_187be404fc7fa0026b54",
+      "sentAt": "2026-10-12T18:33:51.951Z",
+      "messageId": "1559272912941350975"
     }
   },
   "pending": {},
