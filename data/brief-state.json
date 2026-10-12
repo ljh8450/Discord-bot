@@ -74295,6 +74295,108 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_27ddba413fe69eff9288": {
+      "id": "opp_27ddba413fe69eff9288",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35100",
+      "canonicalUrl": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry",
+      "title": "Microsoft-Decision-1 - 선택지별 확률을 반환하는 저비용 의사결정 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-10T11:39:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Microsoft가 분류, 모델 라우팅, 우선순위 지정, 검증, 에이전트 제어를 위한 Microsoft-Decision-1을 출시함. 정해진 선택지마다 확률을 반환해 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35100"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 7,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:448fa9218249ce307e32745fe41114f3fa4e10b2a7b179a5f40b97874ef49783",
+      "dedupeKey": "brief:opp_27ddba413fe69eff9288:sha256:448fa9218249ce307e32745fe41114f3fa4e10b2a7b179a5f40b97874ef49783",
+      "firstSeenAt": "2026-10-12T00:05:58.784Z",
+      "lastSeenAt": "2026-10-12T00:05:58.784Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_72ead5b0c8e6c5c54784": {
+      "id": "opp_72ead5b0c8e6c5c54784",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:S3knIZq7jM8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=S3knIZq7jM8",
+      "title": "[한영자막] 평가 플랫폼 만들기가 생각보다 어려운 이유 — Braintrust",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T22:00:23.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트 평가 플랫폼은 스프레드시트에 UI를 얹는 것만으로 완성되지 않습니다. Braintrust의 Hossein Niazmandi가 평가와 관측 가능성, 운영 데이터를 활용한 품질 개선 과정을 설명합니다. 주요 포인트 • 운영 투입 전 평가와 운영 중 관측 가능성이 모두 필요한 이유 • 스프레드시트에서 맞춤 UI, 공동 실험, 운영 환경 연결로 발전하는 과정 • 크고 복잡한 에이전트 트레이스와 실시간·장기 쿼리의 요구사항 • 코딩 에이전트가 평가를 반복하고 사람이 결과를 검토하는 방식 #A",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=S3knIZq7jM8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T22:00:23.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7496191e05ac4e71dd0aa5381f0915aa474dc86ce48420f94135d9e269bdd8c1",
+      "dedupeKey": "brief:opp_72ead5b0c8e6c5c54784:sha256:7496191e05ac4e71dd0aa5381f0915aa474dc86ce48420f94135d9e269bdd8c1",
+      "firstSeenAt": "2026-10-12T00:05:58.784Z",
+      "lastSeenAt": "2026-10-12T00:05:58.784Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -82397,6 +82499,18 @@
       "opportunityId": "opp_4aeec46deed013b11d2c",
       "sentAt": "2026-10-11T15:19:09.448Z",
       "messageId": "1558861524460904551"
+    },
+    "brief:opp_72ead5b0c8e6c5c54784:sha256:7496191e05ac4e71dd0aa5381f0915aa474dc86ce48420f94135d9e269bdd8c1": {
+      "status": "SENT",
+      "opportunityId": "opp_72ead5b0c8e6c5c54784",
+      "sentAt": "2026-10-12T00:05:58.784Z",
+      "messageId": "1558994105089138689"
+    },
+    "brief:opp_27ddba413fe69eff9288:sha256:448fa9218249ce307e32745fe41114f3fa4e10b2a7b179a5f40b97874ef49783": {
+      "status": "SENT",
+      "opportunityId": "opp_27ddba413fe69eff9288",
+      "sentAt": "2026-10-12T00:05:58.784Z",
+      "messageId": "1558994105089138689"
     }
   },
   "pending": {},
