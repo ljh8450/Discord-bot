@@ -74424,23 +74424,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 14,
+        "communityPoints": 28,
         "communityRank": 1,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:42a35e70a7fd55d20e72439e4d71aca085b2527c4032844e32d2f4967078cc39",
       "dedupeKey": "brief:opp_e69cad4fb2391a153976:sha256:42a35e70a7fd55d20e72439e4d71aca085b2527c4032844e32d2f4967078cc39",
-      "firstSeenAt": "2026-10-12T04:49:51.640Z",
-      "lastSeenAt": "2026-10-12T04:49:51.640Z",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74522,8 +74522,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 3,
+        "communityPoints": 7,
+        "communityRank": 8,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -74537,8 +74537,8 @@
       },
       "contentHash": "sha256:f44e51d22a687688043f7eb2de26056fe4c7b39c9edaee24fda76689427af821",
       "dedupeKey": "brief:opp_68b5e99927a8e06dbee6:sha256:f44e51d22a687688043f7eb2de26056fe4c7b39c9edaee24fda76689427af821",
-      "firstSeenAt": "2026-10-12T04:49:51.640Z",
-      "lastSeenAt": "2026-10-12T04:49:51.640Z",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74571,23 +74571,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 5,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
       "dedupeKey": "brief:opp_42ee3b68a5564236a866:sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
-      "firstSeenAt": "2026-10-12T04:49:51.640Z",
-      "lastSeenAt": "2026-10-12T04:49:51.640Z",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74620,23 +74620,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 14,
+        "communityRank": 2,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
       "dedupeKey": "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
-      "firstSeenAt": "2026-10-12T04:49:51.640Z",
-      "lastSeenAt": "2026-10-12T04:49:51.640Z",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74669,23 +74669,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 11,
         "communityRank": 6,
-        "contentScore": 12,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 4,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca",
       "dedupeKey": "brief:opp_a08b74e33664346a14d5:sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca",
-      "firstSeenAt": "2026-10-12T04:49:51.640Z",
-      "lastSeenAt": "2026-10-12T04:49:51.640Z",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74767,26 +74767,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 9,
-        "contentScore": 12,
+        "communityPoints": 14,
+        "communityRank": 3,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:46e5b98d8f36f715f2ff396f214c9396af646caafa7adb08a13a8da5f9607ce0",
       "dedupeKey": "brief:opp_b774a78dcf6c34539e8f:sha256:46e5b98d8f36f715f2ff396f214c9396af646caafa7adb08a13a8da5f9607ce0",
-      "firstSeenAt": "2026-10-12T04:49:51.640Z",
-      "lastSeenAt": "2026-10-12T04:49:51.640Z",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -74836,6 +74836,614 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_614bcd2ab6a0da9bf443": {
+      "id": "opp_614bcd2ab6a0da9bf443",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35212",
+      "canonicalUrl": "https://seldo.com/posts/we-are-all-product-engineers-now",
+      "title": "이제 우리는 모두 제품 엔지니어다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T09:45:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 개발 생명주기 전체를 자동화한다면, 소프트웨어 개발의 중심은 고객 요구 파악, 좋은 결과 정의, 즐거운 사용 경험 설계로 옮겨갈 것 이 전...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35212"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c",
+      "dedupeKey": "brief:opp_614bcd2ab6a0da9bf443:sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_65a1d300915f141a93e7": {
+      "id": "opp_65a1d300915f141a93e7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35192",
+      "canonicalUrl": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "title": "바이브 코딩으로 만든 Halo, The Simpsons: Hit And Run, GTA 브라우저 이식판이 잘 작동함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T04:47:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "최근 몇 주 사이 AI 디컴파일과 바이브 코딩으로 만든 에뮬레이터와 게임 수백 개가 등장했으며, 브라우저 이식판 일부는 직접 플레이에서 거의 흠...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35192"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9477ade3b5878bb24556d9530fd844664db3570196faf50c5e669b4ace8db706",
+      "dedupeKey": "brief:opp_65a1d300915f141a93e7:sha256:9477ade3b5878bb24556d9530fd844664db3570196faf50c5e669b4ace8db706",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0ca5720aaffb9ec05fc7": {
+      "id": "opp_0ca5720aaffb9ec05fc7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35204",
+      "canonicalUrl": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "title": "패스키는 함정이다. 사용하지 말라",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T08:39:40+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "패스키는 보안성과 편의성을 높일 수 있지만, 서비스가 허용할 인증 방식과 소프트웨어를 제한해 사용자 통제권을 줄일 수 있음 같은 패스키라는 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35204"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 11,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:78e5ec89e8c3d1d2e9143d25936851c68936a353d9991f1380dbf02532d6dd09",
+      "dedupeKey": "brief:opp_0ca5720aaffb9ec05fc7:sha256:78e5ec89e8c3d1d2e9143d25936851c68936a353d9991f1380dbf02532d6dd09",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3b8b3e87c9eff5440977": {
+      "id": "opp_3b8b3e87c9eff5440977",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35214",
+      "canonicalUrl": "https://breadcrumb.vc/local-ai-models-the-catalyst-for-the-great-reset-2b93ece0687e",
+      "title": "로컬 AI 모델 - 클라우드 중심 구조를 바꿀 대전환의 촉매",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T10:05:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "로컬 AI 추론이 GPU 부족과 높은 클라우드 연산 비용을 해결하고, 중앙집중형 AI에서 분산형 구조로의 기술 대전환을 이끌 것임 MoE 모델은 토큰마...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35214"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:dbf7428183cd163a81b6ac1fddc795b369af88a6a31a84e531578d3acf0a78ec",
+      "dedupeKey": "brief:opp_3b8b3e87c9eff5440977:sha256:dbf7428183cd163a81b6ac1fddc795b369af88a6a31a84e531578d3acf0a78ec",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5115c3e242fee7237d54": {
+      "id": "opp_5115c3e242fee7237d54",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35206",
+      "canonicalUrl": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "title": "GitHub의 문제점",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T09:20:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "GNU Project는 GitHub 저장소 호스팅을 피할 것을 권고함. 불명확한 라이선스 안내, 비자유 JavaScript 요구, 사용자가 통제할 수 없는 원격 서비...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35206"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fba9aacb22c8296233af9cccd507097c104fcd25ff9201d6bd384238ef31883b",
+      "dedupeKey": "brief:opp_5115c3e242fee7237d54:sha256:fba9aacb22c8296233af9cccd507097c104fcd25ff9201d6bd384238ef31883b",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_bbc45cfc8830b7a44b6c": {
+      "id": "opp_bbc45cfc8830b7a44b6c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35201",
+      "canonicalUrl": "https://news.hada.io/topic?id=35201",
+      "title": "Show GN: PartsPlan - AI가 제조사 데이터시트의 쪽을 근거로 답하게 하는 MCP 서버",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T08:06:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "전자부품 설계 값(열저항, 절대 최대 정격, 그래프에만 있는 특성 값)은 수십~수백 쪽 데이터시트 안쪽 표와 그래프에 있습니다. AI에게 물으면 기...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35201"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a2b9e5c6b56e7a515b9a7a18fe790516db7d91387c597bc59054ab63751b15d2",
+      "dedupeKey": "brief:opp_bbc45cfc8830b7a44b6c:sha256:a2b9e5c6b56e7a515b9a7a18fe790516db7d91387c597bc59054ab63751b15d2",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0c0daddce8b12e6e1a73": {
+      "id": "opp_0c0daddce8b12e6e1a73",
+      "type": "CONTENT",
+      "sourceId": "kakao-tech",
+      "externalId": "https://tech.kakao.com/posts/839",
+      "canonicalUrl": "https://tech.kakao.com/posts/839",
+      "title": "if(kakao)26, 온라인 라이브로 함께해요!",
+      "organization": "Kakao Tech",
+      "status": "OPEN",
+      "publishedAt": "Sun, 11 Oct 2026 15:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "AI"
+      ],
+      "summary": "if(kakao)26, 온라인 라이브로 함께하세요 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열립니다. 현장에 함께하기 어려운 분들도 온라인으로 발표를 만나보실 수 있습니다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며, 누구나 온라인 시청이 가능합니다. if(kakao)26 DAY 1 키노트 & AI 시대의 개발자 신뢰와 안전 AI 방향성 상생과 성장 Model & Agent : if(kakao)...",
+      "summaryEvidence": [
+        "https://tech.kakao.com/posts/839"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f34fa6d1e2267b318dc97b250c36e235b16b7f710eb1312729b175486f3fe4fc",
+      "dedupeKey": "brief:opp_0c0daddce8b12e6e1a73:sha256:f34fa6d1e2267b318dc97b250c36e235b16b7f710eb1312729b175486f3fe4fc",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_10902ca9e391c2adeeed": {
+      "id": "opp_10902ca9e391c2adeeed",
+      "type": "CONTENT",
+      "sourceId": "youtube-silicon-valley-developer",
+      "externalId": "yt:video:a0jy3J_glR0",
+      "canonicalUrl": "https://www.youtube.com/watch?v=a0jy3J_glR0",
+      "title": "메타 시니어 개발자가 8개월전에 만든 AI 서비스, 지금은 어떨까?",
+      "organization": "실밸개발자",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T00:40:02+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "올해 1월 Claude Code로 처음 제대로 만든 서비스, 8개월이 지난 지금은 어떻게 됐을까요? 미네의플랜비 미네님과 함께 만든 '그로스노트'는 쿠팡 로켓그로스 셀러가 정산 엑셀을 올리면 상품별로 얼마나 남는지, 이번 달에 무엇을 확인해야 하는지 보여주는 서비스입니다. 1월에 미네님이 정산 마스터 시트를 공유해 주시면서 시작했고, 2월에 MVP를 만들고, 4월 초에 론칭해서 지금까지 6개월째 혼자 운영하고 있습니다. 이번 영상은 세 부분입니다. 1. 무슨 문제를 어떻게 풀었나 — 로켓그로스는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=a0jy3J_glR0"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC6VbqOLKkdDhdtnhuTYPKxA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-12T00:40:02.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:06e618187debb4e8293f071e5ae2d3dc8e8d16d628a4d160f005a07278b4b819",
+      "dedupeKey": "brief:opp_10902ca9e391c2adeeed:sha256:06e618187debb4e8293f071e5ae2d3dc8e8d16d628a4d160f005a07278b4b819",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_187be404fc7fa0026b54": {
+      "id": "opp_187be404fc7fa0026b54",
+      "type": "CONTENT",
+      "sourceId": "youtube-ai-frontier-korea",
+      "externalId": "yt:video:IUDl4bD1UMA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=IUDl4bD1UMA",
+      "title": "EP 118. 특이점의 한가운데: AI 투자 사이클, 수학 쇼크, 샌프란시스코 분위기",
+      "organization": "AI Frontier Korea",
+      "status": "OPEN",
+      "publishedAt": "2026-10-11T22:00:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "2026년 10월 둘째 주, 노정석·최승준·박종현이 \"우리는 정말 특이점을 지나는 중인가\"라는 질문을 각자의 관점에서 풀어봅니다. 노정석은 2026년 빅테크 4사가 쓰겠다는 7,250억 달러(약 1천조 원)의 capex와 그 10분의 1 수준인 AI 매출을 철도 붐의 과투자 사이클에 비추어 보고, 거품이 한 번 꺼진 뒤에야 진짜 성장이 시작되며 가치는 결국 맥락과 책임이 쌓이고 불확실성 속에서 결정을 내리는 '희소한 곳'으로 이동한다고 이야기합니다. 샌프란시스코에 머물고 있는 박종현은 \"GPU만",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=IUDl4bD1UMA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCz-BiVywYdO6iXhjXkw_Kgw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-11T22:00:38.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9b10aae07e411ae0a29be112edca6dd184b8491951b156f2a97ab3f48150af79",
+      "dedupeKey": "brief:opp_187be404fc7fa0026b54:sha256:9b10aae07e411ae0a29be112edca6dd184b8491951b156f2a97ab3f48150af79",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e3223eb926ef4b372ba": {
+      "id": "opp_7e3223eb926ef4b372ba",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:jDdgfTp_PXw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jDdgfTp_PXw",
+      "title": "[한영자막] 36%에서 100%로: 자기 개선 에이전트는 어떻게 스스로 스킬을 작성할까요? — Runlayer Rafal Wilinski",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T09:00:13+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 에이전트가 문제를 해결한 경험을 스킬로 저장하고, MCP로 회사 전체에 공유하는 방법을 살펴봅니다. Runlayer의 Rafal Wilinski가 자기 개선 에이전트와 조직의 학습 순환, 성공률 36%에서 100%로 개선된 테스트 사례를 소개합니다. 주요 포인트 • 에이전트가 오래 일할수록 처음 방향을 잡아 주는 스킬이 중요해지는 이유 • 비개발자도 스킬을 활용하도록 MCP를 배포 계층으로 사용하는 방법 • Voyager의 스킬 라이브러리와 성공·실패 실행 기록에서 절차를 추출하는 방법 •",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=jDdgfTp_PXw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-12T09:00:13.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7c323daa63f1bc22836a2a008a84adfb1aaec877341978e3b47c7a3b34c1d15d",
+      "dedupeKey": "brief:opp_7e3223eb926ef4b372ba:sha256:7c323daa63f1bc22836a2a008a84adfb1aaec877341978e3b47c7a3b34c1d15d",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_62bb93ea5ce3c0107a0a": {
+      "id": "opp_62bb93ea5ce3c0107a0a",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:21do1LvDNFI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=21do1LvDNFI",
+      "title": "Vercel CEO는 AI를 이렇게 씁니다 | 실제 개발 워크플로 공개",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T03:00:30+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Vercel CEO 기예르모 라우치가 실제로 AI 에이전트와 함께 일하는 방식을 살펴봅니다. 리서치 폴더와 AGENTS.md, 새 프로젝트 시작, fx0의 앱 구조, 에이전트가 만든 결과를 이해하는 방법, 보안과 실행 환경까지 원본 인터뷰의 주요 구간을 한국어 번역 자막과 짧은 해설로 구성했습니다. 원본 발언과 화면이 전체 영상의 약 90%를 차지합니다. 00:00 AI 에이전트와 어떻게 일할까? 01:04 리서치 폴더와 새 프로젝트 03:54 에이전트 실행 구조를 앱 안에 넣기 04:45 fx0",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=21do1LvDNFI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-12T09:00:13.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:69dcbbc1898068b1a5890809f1525d3da0d254c57cd90da9105331e9f581de21",
+      "dedupeKey": "brief:opp_62bb93ea5ce3c0107a0a:sha256:69dcbbc1898068b1a5890809f1525d3da0d254c57cd90da9105331e9f581de21",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c8a98ca2d1fd1e6821c4": {
+      "id": "opp_c8a98ca2d1fd1e6821c4",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:I1CCrDjuE5w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=I1CCrDjuE5w",
+      "title": "DRAM 1등이던 SK하이닉스 3등 위기설과 반전... 문제는 기술력이 아니다 | HBM 가격 역전과 2027년 반도체 경쟁",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T02:31:39+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "지난해 HBM 경쟁력을 앞세워 D램 시장 1위에 올랐던 SK하이닉스. 그런데 올해는 삼성전자가 다시 1위를 탈환했고, 마이크론과 하이닉스의 점유율 격차도 크게 좁혀졌습니다. 하이닉스의 HBM 경쟁력이 약해진 걸까요? 이번 영상에서는 삼성전자의 점유율 상승과 마이크론의 추격, 그리고 하이닉스의 매출 성장률이 상대적으로 낮아진 이유를 살펴봅니다. 특히 일반 D램과 HBM의 가격 상승 시차가 세 회사의 실적에 어떤 영향을 미쳤는지 분석했습니다. 삼성의 HBM4 전략과 하이닉스의 TSMC 협력 구조도 함",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=I1CCrDjuE5w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-12T02:31:39.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5",
+      "dedupeKey": "brief:opp_c8a98ca2d1fd1e6821c4:sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5",
+      "firstSeenAt": "2026-10-12T09:06:09.061Z",
+      "lastSeenAt": "2026-10-12T09:06:09.061Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -82970,6 +83578,42 @@
       "opportunityId": "opp_3b88f67bb2c878cc3c83",
       "sentAt": "2026-10-12T04:49:51.640Z",
       "messageId": "1559065545113079829"
+    },
+    "brief:opp_0c0daddce8b12e6e1a73:sha256:f34fa6d1e2267b318dc97b250c36e235b16b7f710eb1312729b175486f3fe4fc": {
+      "status": "SENT",
+      "opportunityId": "opp_0c0daddce8b12e6e1a73",
+      "sentAt": "2026-10-12T09:06:09.061Z",
+      "messageId": "1559130043311980656"
+    },
+    "brief:opp_62bb93ea5ce3c0107a0a:sha256:69dcbbc1898068b1a5890809f1525d3da0d254c57cd90da9105331e9f581de21": {
+      "status": "SENT",
+      "opportunityId": "opp_62bb93ea5ce3c0107a0a",
+      "sentAt": "2026-10-12T09:06:09.061Z",
+      "messageId": "1559130043311980656"
+    },
+    "brief:opp_3b8b3e87c9eff5440977:sha256:dbf7428183cd163a81b6ac1fddc795b369af88a6a31a84e531578d3acf0a78ec": {
+      "status": "SENT",
+      "opportunityId": "opp_3b8b3e87c9eff5440977",
+      "sentAt": "2026-10-12T09:06:09.061Z",
+      "messageId": "1559130043311980656"
+    },
+    "brief:opp_b774a78dcf6c34539e8f:sha256:46e5b98d8f36f715f2ff396f214c9396af646caafa7adb08a13a8da5f9607ce0": {
+      "status": "SENT",
+      "opportunityId": "opp_b774a78dcf6c34539e8f",
+      "sentAt": "2026-10-12T09:06:09.061Z",
+      "messageId": "1559130043311980656"
+    },
+    "brief:opp_7e3223eb926ef4b372ba:sha256:7c323daa63f1bc22836a2a008a84adfb1aaec877341978e3b47c7a3b34c1d15d": {
+      "status": "SENT",
+      "opportunityId": "opp_7e3223eb926ef4b372ba",
+      "sentAt": "2026-10-12T09:06:09.061Z",
+      "messageId": "1559130043311980656"
+    },
+    "brief:opp_10902ca9e391c2adeeed:sha256:06e618187debb4e8293f071e5ae2d3dc8e8d16d628a4d160f005a07278b4b819": {
+      "status": "SENT",
+      "opportunityId": "opp_10902ca9e391c2adeeed",
+      "sentAt": "2026-10-12T09:06:09.061Z",
+      "messageId": "1559130043311980656"
     }
   },
   "pending": {},
