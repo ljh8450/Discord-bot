@@ -74523,13 +74523,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 10,
-        "contentScore": 11,
+        "communityRank": 13,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -74537,8 +74537,8 @@
       },
       "contentHash": "sha256:f44e51d22a687688043f7eb2de26056fe4c7b39c9edaee24fda76689427af821",
       "dedupeKey": "brief:opp_68b5e99927a8e06dbee6:sha256:f44e51d22a687688043f7eb2de26056fe4c7b39c9edaee24fda76689427af821",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74572,7 +74572,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 16,
-        "communityRank": 4,
+        "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -74586,8 +74586,8 @@
       },
       "contentHash": "sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
       "dedupeKey": "brief:opp_42ee3b68a5564236a866:sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74620,7 +74620,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 20,
+        "communityPoints": 24,
         "communityRank": 2,
         "contentScore": 12,
         "contentScoreBreakdown": {
@@ -74635,8 +74635,8 @@
       },
       "contentHash": "sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
       "dedupeKey": "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74670,7 +74670,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 16,
-        "communityRank": 5,
+        "communityRank": 6,
         "contentScore": 13,
         "contentScoreBreakdown": {
           "total": 13,
@@ -74684,11 +74684,11 @@
       },
       "contentHash": "sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca",
       "dedupeKey": "brief:opp_a08b74e33664346a14d5:sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -74865,8 +74865,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 8,
+        "communityPoints": 12,
+        "communityRank": 9,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -74880,11 +74880,11 @@
       },
       "contentHash": "sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c",
       "dedupeKey": "brief:opp_614bcd2ab6a0da9bf443:sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -74914,14 +74914,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 11,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 14,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -74929,8 +74929,8 @@
       },
       "contentHash": "sha256:9477ade3b5878bb24556d9530fd844664db3570196faf50c5e669b4ace8db706",
       "dedupeKey": "brief:opp_65a1d300915f141a93e7:sha256:9477ade3b5878bb24556d9530fd844664db3570196faf50c5e669b4ace8db706",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75062,7 +75062,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 14,
+        "communityRank": 16,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -75076,8 +75076,8 @@
       },
       "contentHash": "sha256:fba9aacb22c8296233af9cccd507097c104fcd25ff9201d6bd384238ef31883b",
       "dedupeKey": "brief:opp_5115c3e242fee7237d54:sha256:fba9aacb22c8296233af9cccd507097c104fcd25ff9201d6bd384238ef31883b",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75403,7 +75403,7 @@
       "title": "DRAM 1등이던 SK하이닉스 3등 위기설과 반전... 문제는 기술력이 아니다 | HBM 가격 역전과 2027년 반도체 경쟁",
       "organization": "안될공학",
       "status": "OPEN",
-      "publishedAt": "2026-10-12T02:31:39+00:00",
+      "publishedAt": "2026-10-12T02:31:39.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -75422,7 +75422,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-10-12T02:31:39.000Z",
@@ -75439,11 +75439,11 @@
       },
       "contentHash": "sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5",
       "dedupeKey": "brief:opp_c8a98ca2d1fd1e6821c4:sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5",
-      "firstSeenAt": "2026-10-12T18:33:51.951Z",
-      "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75640,6 +75640,108 @@
       "dedupeKey": "brief:opp_02a26df6dc4576a03d1f:sha256:9bc61bb49c6192114a9289364f8bb4425c0891ba3a16f4478641c30a582bef47",
       "firstSeenAt": "2026-10-12T18:33:51.951Z",
       "lastSeenAt": "2026-10-12T18:33:51.951Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e809eb1db8dc2b400f2f": {
+      "id": "opp_e809eb1db8dc2b400f2f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35195",
+      "canonicalUrl": "https://epoch.ai/publications/innovationeval",
+      "title": "최신 AI 모델들, 인간의 알고리듬 혁신에 필적하는 성과를 내는 데 어려움 겪어",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T05:43:32+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Epoch AI의 InnovationEval은 AI가 아이디어 구상부터 구현, 실험과 분석까지 수행해 인간이 개발한 후속 학습 기법 SDPO에 필적하는 새로운 방법...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35195"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 17,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:027b06b53c30c9dfd0ba66552848fd8373184d831abaebe6b93b166f599fd0bb",
+      "dedupeKey": "brief:opp_e809eb1db8dc2b400f2f:sha256:027b06b53c30c9dfd0ba66552848fd8373184d831abaebe6b93b166f599fd0bb",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f2d18de5c410a429a3f8": {
+      "id": "opp_f2d18de5c410a429a3f8",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:zAglgqN5Lhw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=zAglgqN5Lhw",
+      "title": "[한영자막] 데미스 하사비스가 말하는 AI 혁명, AI의 미래와 인간의 창의성 | Hannah Fry",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T22:00:11.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "데미스 하사비스가 AI의 미래와 인간의 창의성에 관해 Hannah Fry와 나눈 대담입니다. 게임 개발과 뇌과학 연구에서 출발해 AI 창작 도구, 인간의 가치, 건축과 교육의 변화를 이야기합니다. 주요 포인트 • 게임 디자인과 과학 연구에 공통으로 필요한 직관과 창의성 • AI 도구가 예술가와 신진 창작자의 작업에 주는 가능성과 한계 • 인간의 연결, 장인정신, 예술의 의미를 어떻게 바라볼지 • 과학적 발견과 풍요로운 미래를 위해 사회가 선택할 방향 • AI 시대에 맞춰 교육과 교실 수업을 바꾸는",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=zAglgqN5Lhw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-12T22:00:11.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1779e801b8c4951cbe90a35337fb2b8d061c13220b0af708cecbd4ccabd333a3",
+      "dedupeKey": "brief:opp_f2d18de5c410a429a3f8:sha256:1779e801b8c4951cbe90a35337fb2b8d061c13220b0af708cecbd4ccabd333a3",
+      "firstSeenAt": "2026-10-13T00:05:25.619Z",
+      "lastSeenAt": "2026-10-13T00:05:25.619Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -83849,6 +83951,30 @@
       "opportunityId": "opp_187be404fc7fa0026b54",
       "sentAt": "2026-10-12T18:33:51.951Z",
       "messageId": "1559272912941350975"
+    },
+    "brief:opp_a08b74e33664346a14d5:sha256:94a82b9de590fd95fd28a8875465af1935a5fa09ede66ad4c6c6280350ea1aca": {
+      "status": "SENT",
+      "opportunityId": "opp_a08b74e33664346a14d5",
+      "sentAt": "2026-10-13T00:05:25.619Z",
+      "messageId": "1559356353565425825"
+    },
+    "brief:opp_614bcd2ab6a0da9bf443:sha256:df32720b1d32e89d7d349c2f018a95609b7fd15d81b979abaa15135f648ef35c": {
+      "status": "SENT",
+      "opportunityId": "opp_614bcd2ab6a0da9bf443",
+      "sentAt": "2026-10-13T00:05:25.619Z",
+      "messageId": "1559356353565425825"
+    },
+    "brief:opp_f2d18de5c410a429a3f8:sha256:1779e801b8c4951cbe90a35337fb2b8d061c13220b0af708cecbd4ccabd333a3": {
+      "status": "SENT",
+      "opportunityId": "opp_f2d18de5c410a429a3f8",
+      "sentAt": "2026-10-13T00:05:25.619Z",
+      "messageId": "1559356353565425825"
+    },
+    "brief:opp_c8a98ca2d1fd1e6821c4:sha256:2495160e4431444611d82120c42187610ca9556560c2188284e27db01ea222f5": {
+      "status": "SENT",
+      "opportunityId": "opp_c8a98ca2d1fd1e6821c4",
+      "sentAt": "2026-10-13T00:05:25.619Z",
+      "messageId": "1559356353565425825"
     }
   },
   "pending": {},
