@@ -74620,8 +74620,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 28,
-        "communityRank": 12,
+        "communityPoints": 29,
+        "communityRank": 5,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -74635,11 +74635,11 @@
       },
       "contentHash": "sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
       "dedupeKey": "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75823,14 +75823,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 2,
-        "contentScore": 12,
+        "communityPoints": 12,
+        "communityRank": 3,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -75838,8 +75838,8 @@
       },
       "contentHash": "sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
       "dedupeKey": "brief:opp_9dabdb172ae627db985d:sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75873,13 +75873,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityRank": 7,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -75887,8 +75887,8 @@
       },
       "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
       "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75921,8 +75921,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
+        "communityPoints": 8,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -75936,11 +75936,11 @@
       },
       "contentHash": "sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494",
       "dedupeKey": "brief:opp_99e061573b4399967645:sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75971,7 +75971,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 7,
-        "communityRank": 6,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -75985,8 +75985,8 @@
       },
       "contentHash": "sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
       "dedupeKey": "brief:opp_417f6b1ce5be0b219c3f:sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76117,14 +76117,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 7,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 8,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -76132,8 +76132,8 @@
       },
       "contentHash": "sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
       "dedupeKey": "brief:opp_7e676a1b85dc8497d418:sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76314,7 +76314,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 10,
+        "communityRank": 13,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -76328,8 +76328,8 @@
       },
       "contentHash": "sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b",
       "dedupeKey": "brief:opp_6b35dd713a6adbb62cb8:sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76362,8 +76362,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 13,
+        "communityPoints": 6,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -76377,8 +76377,8 @@
       },
       "contentHash": "sha256:2bba8ac3c114f99caf928dbb2c2ae47b09284cdfd7ea17797fb64d001ee4df9a",
       "dedupeKey": "brief:opp_0218d4f35db35b3f8982:sha256:2bba8ac3c114f99caf928dbb2c2ae47b09284cdfd7ea17797fb64d001ee4df9a",
-      "firstSeenAt": "2026-10-13T09:05:24.825Z",
-      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76485,6 +76485,210 @@
       "dedupeKey": "brief:opp_c28fd3c524ec5929d93c:sha256:ced727f8f4a623c6c4aa82972cb68b12a93ac04974f21599a4a6ed3de674ad52",
       "firstSeenAt": "2026-10-13T09:05:24.825Z",
       "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fb56ab19b8b472a5acc9": {
+      "id": "opp_fb56ab19b8b472a5acc9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35260",
+      "canonicalUrl": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "title": "Google에서 약 1.2억 원 포상금을 받은 원격 코드 실행 취약점 발견기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T06:38:08+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google 개발자 문서 플랫폼 DevSite의 Flask 세션 쿠키에 쿠키 자체의 서명 키가 포함돼, 로그인 없이 유효한 세션을 위조할 수 있는 취약점 발견 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35260"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 15,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:bd122868fb09be5fdde82301be8ad94a6cc7b640c1e5ce44a90d48fc79b64b8b",
+      "dedupeKey": "brief:opp_fb56ab19b8b472a5acc9:sha256:bd122868fb09be5fdde82301be8ad94a6cc7b640c1e5ce44a90d48fc79b64b8b",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e6eea7440839e954a4ba": {
+      "id": "opp_e6eea7440839e954a4ba",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/rpg-savings",
+      "canonicalUrl": "https://toss.tech/article/rpg-savings",
+      "title": "디자이너의 아이디어가 금융상품이 되기까지",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 13 Oct 2026 13:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "요청받지 않은 경험 개선을, 팀이 출시할 이유로 바꾼 과정을 공유해요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/rpg-savings"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b7f470291c9b78edafb03ec84a708b517d07c893b9187df9bc04fd16d0e75c2c",
+      "dedupeKey": "brief:opp_e6eea7440839e954a4ba:sha256:b7f470291c9b78edafb03ec84a708b517d07c893b9187df9bc04fd16d0e75c2c",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f07cdadc4c806756d61c": {
+      "id": "opp_f07cdadc4c806756d61c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:gnXwThtDnIo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=gnXwThtDnIo",
+      "title": "[한영자막] AI가 코드를 쏟아내는 시대, 검증은 대체 누가 해야 할까요?",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T09:00:09+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI가 코드를 쏟아내면서 PR 수는 폭증하고 크기는 거대해졌습니다. 개발 속도를 늦춰가며 일일이 리뷰할 것인지, 대충 승인하고 프로덕션 장애를 감수할 것인지 고민하는 팀들에게 에이전트 기반 코드 검증이 새로운 해답을 제시합니다. Gitar(Sonar)의 공동 창업자 알리레자(Ali-Reza)가 노이즈 없는 코드 리뷰부터 CI 오류 자동 수정, 완전 자율 머지까지 이어지는 에이전트 검증 파이프라인의 실전 아키텍처를 공개합니다. 📌 주요 내용: • AI 생성 코드가 CI와 코드 리뷰를 병목으로 만드",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=gnXwThtDnIo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-13T09:00:09.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:0a748276b9a314fe6e70f9fc7dbd38e26794f5412269e4e6c53dda81e4355c9b",
+      "dedupeKey": "brief:opp_f07cdadc4c806756d61c:sha256:0a748276b9a314fe6e70f9fc7dbd38e26794f5412269e4e6c53dda81e4355c9b",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9eff4256b73cb3a206c3": {
+      "id": "opp_9eff4256b73cb3a206c3",
+      "type": "CONTENT",
+      "sourceId": "youtube-agent-os",
+      "externalId": "yt:video:8S1loKhmykk",
+      "canonicalUrl": "https://www.youtube.com/watch?v=8S1loKhmykk",
+      "title": "인스타 스토리·릴스를 만든 구글 부사장이 20년 가까이 쓴 결정법 3단계 — 에이전트가 다 만드는 시대에 PM이 하는 일",
+      "organization": "AgentOS",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T09:51:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "에이전트 몇 개만 붙이면 앱이 하루 만에 만들어지기도 하는 지금, 무엇을 만들지는 누가 정할까요. 구글 제품 부사장 로비 스타인은 인스타그램에서 스토리를 처음 만들어 출시한 팀을 이끌었고, 릴스와 메시지도 맡았습니다. 2026년 9월 레니 앤 프렌즈 서밋에서 한 발표를 클립과 함께 봅니다. 거의 무엇이든 만들 수 있게 된 지금, PM의 가치는 일을 챙기는 것보다 무엇이 좋은지 고르는 결정에 있다는 이야기. 그 결정을 만드는 세 단계 — 사람을 깊이 이해하기, 근본 원인 진단, 크래프트. 단계마다",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=8S1loKhmykk"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC2ODfJSf8L4PeCw4ebTECJQ",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-13T09:51:03.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d7324d60168d77cbbc32ae066b0f94171a7dd6f8cbbfa537a41e1dbbd29d9a6b",
+      "dedupeKey": "brief:opp_9eff4256b73cb3a206c3:sha256:d7324d60168d77cbbc32ae066b0f94171a7dd6f8cbbfa537a41e1dbbd29d9a6b",
+      "firstSeenAt": "2026-10-13T16:42:23.108Z",
+      "lastSeenAt": "2026-10-13T16:42:23.108Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -84760,6 +84964,36 @@
       "opportunityId": "opp_c28fd3c524ec5929d93c",
       "sentAt": "2026-10-13T09:05:24.825Z",
       "messageId": "1559492244699091017"
+    },
+    "brief:opp_e6eea7440839e954a4ba:sha256:b7f470291c9b78edafb03ec84a708b517d07c893b9187df9bc04fd16d0e75c2c": {
+      "status": "SENT",
+      "opportunityId": "opp_e6eea7440839e954a4ba",
+      "sentAt": "2026-10-13T16:42:23.108Z",
+      "messageId": "1559607246084644951"
+    },
+    "brief:opp_9eff4256b73cb3a206c3:sha256:d7324d60168d77cbbc32ae066b0f94171a7dd6f8cbbfa537a41e1dbbd29d9a6b": {
+      "status": "SENT",
+      "opportunityId": "opp_9eff4256b73cb3a206c3",
+      "sentAt": "2026-10-13T16:42:23.108Z",
+      "messageId": "1559607246084644951"
+    },
+    "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01": {
+      "status": "SENT",
+      "opportunityId": "opp_b7522f242a81fe112a42",
+      "sentAt": "2026-10-13T16:42:23.108Z",
+      "messageId": "1559607246084644951"
+    },
+    "brief:opp_f07cdadc4c806756d61c:sha256:0a748276b9a314fe6e70f9fc7dbd38e26794f5412269e4e6c53dda81e4355c9b": {
+      "status": "SENT",
+      "opportunityId": "opp_f07cdadc4c806756d61c",
+      "sentAt": "2026-10-13T16:42:23.108Z",
+      "messageId": "1559607246084644951"
+    },
+    "brief:opp_99e061573b4399967645:sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494": {
+      "status": "SENT",
+      "opportunityId": "opp_99e061573b4399967645",
+      "sentAt": "2026-10-13T16:42:23.108Z",
+      "messageId": "1559607246084644951"
     }
   },
   "pending": {},
