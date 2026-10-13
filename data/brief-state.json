@@ -74621,7 +74621,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 28,
-        "communityRank": 11,
+        "communityRank": 12,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -74635,8 +74635,8 @@
       },
       "contentHash": "sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
       "dedupeKey": "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75838,8 +75838,8 @@
       },
       "contentHash": "sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
       "dedupeKey": "brief:opp_9dabdb172ae627db985d:sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75873,7 +75873,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 3,
+        "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -75887,8 +75887,8 @@
       },
       "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
       "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75936,8 +75936,8 @@
       },
       "contentHash": "sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494",
       "dedupeKey": "brief:opp_99e061573b4399967645:sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75970,7 +75970,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
+        "communityPoints": 7,
         "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -75985,8 +75985,8 @@
       },
       "contentHash": "sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
       "dedupeKey": "brief:opp_417f6b1ce5be0b219c3f:sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76020,7 +76020,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 7,
+        "communityRank": 9,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -76034,11 +76034,11 @@
       },
       "contentHash": "sha256:211c39f1a6bd60528fc9052cd5f9282ce36eb981d57a55f6dab1e4cd3228818a",
       "dedupeKey": "brief:opp_ccc43f10a5ae07f7dbb2:sha256:211c39f1a6bd60528fc9052cd5f9282ce36eb981d57a55f6dab1e4cd3228818a",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -76117,8 +76117,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 9,
+        "communityPoints": 7,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -76132,8 +76132,8 @@
       },
       "contentHash": "sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
       "dedupeKey": "brief:opp_7e676a1b85dc8497d418:sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76166,8 +76166,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 10,
+        "communityPoints": 6,
+        "communityRank": 8,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -76181,11 +76181,11 @@
       },
       "contentHash": "sha256:6a19ceacf254ad77fa6343b2b118ce5c8719fbc06de3f98f53393ab04e421904",
       "dedupeKey": "brief:opp_3fc1a33648d80fa367f4:sha256:6a19ceacf254ad77fa6343b2b118ce5c8719fbc06de3f98f53393ab04e421904",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -76216,7 +76216,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 14,
+        "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -76230,8 +76230,8 @@
       },
       "contentHash": "sha256:6ce1e405df92d9c1983412bc83aeae26da9a2c6b60866c2a35d4178b06cc120d",
       "dedupeKey": "brief:opp_8c23a54cd1bad87ec276:sha256:6ce1e405df92d9c1983412bc83aeae26da9a2c6b60866c2a35d4178b06cc120d",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76281,6 +76281,210 @@
       "dedupeKey": "brief:opp_051a76f736403d8692e2:sha256:a32cede5c64d0eae34c18237d9877716b11405b2b13449960c689935a784a0ba",
       "firstSeenAt": "2026-10-13T05:53:01.501Z",
       "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6b35dd713a6adbb62cb8": {
+      "id": "opp_6b35dd713a6adbb62cb8",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35267",
+      "canonicalUrl": "https://tpy-lang.org/",
+      "title": "TurboPython - Python 코드를 C++를 거쳐 네이티브 실행 파일로 컴파일하는 언어",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T09:30:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Python 문법으로 독립 실행 파일과 네이티브 라이브러리를 만들려는 개발자를 위한 정적 타입 언어와 컴파일러 타입을 지정한 코드를 C++로 변환한...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35267"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 10,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b",
+      "dedupeKey": "brief:opp_6b35dd713a6adbb62cb8:sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0218d4f35db35b3f8982": {
+      "id": "opp_0218d4f35db35b3f8982",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35265",
+      "canonicalUrl": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "title": "Linus Torvalds, Claude Code로 Linux 커널의 대폭 개선 작업 진행 중",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T09:02:44+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "리누스 토발즈가 Claude Code를 활용해 여러 스레드가 한 파일을 조금씩 읽을 때 발생하는 Linux 커널의 병목을 개선하고 있음 병목은 folio 참조 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35265"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 13,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2bba8ac3c114f99caf928dbb2c2ae47b09284cdfd7ea17797fb64d001ee4df9a",
+      "dedupeKey": "brief:opp_0218d4f35db35b3f8982:sha256:2bba8ac3c114f99caf928dbb2c2ae47b09284cdfd7ea17797fb64d001ee4df9a",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aa30defb97ba1729238f": {
+      "id": "opp_aa30defb97ba1729238f",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:GRMr7YdoJzo",
+      "canonicalUrl": "https://www.youtube.com/watch?v=GRMr7YdoJzo",
+      "title": "[한영자막] OpenAI가 직접 밝힌 Codex 하네스 위에 나만의 에이전트를 구축하는 법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T03:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "OpenAI의 Codex 개발자 경험(DevX) 팀 리드 도미닉 쿤델(Dominik Kundel)이 직접 설명하는 'Codex App Server'의 내부 아키텍처와 활용법입니다. 자체적인 코딩 에이전트 하네스(Harness)를 밑바닥부터 만드는 대신, 이미 OpenAI Codex 공식 앱과 다양한 IDE 확장을 강력하게 구동하고 있는 검증된 오픈소스 하네스를 그대로 활용하여 여러분만의 독창적인 AI 에이전트를 구축하는 실전 노하우를 확인해 보세요! 📌 주요 핵심 내용: • Codex App S",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=GRMr7YdoJzo"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-13T03:00:36.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d1a246c8ff144d5f815bff5a2b2498f64672a353c76946cbcdbc9b6561472c20",
+      "dedupeKey": "brief:opp_aa30defb97ba1729238f:sha256:d1a246c8ff144d5f815bff5a2b2498f64672a353c76946cbcdbc9b6561472c20",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c28fd3c524ec5929d93c": {
+      "id": "opp_c28fd3c524ec5929d93c",
+      "type": "CONTENT",
+      "sourceId": "youtube-unrealtech",
+      "externalId": "yt:video:LM9NDhnEKkQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=LM9NDhnEKkQ",
+      "title": "AI 메모리 쇼티지는 끝일까...? 중국 CXMT D램기술 4F², 삼성보다 2년 먼저 적용 | 작은 셀이 만드는 큰 차이",
+      "organization": "안될공학",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T00:33:57+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "인프라",
+        "개발 도구",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "중국 메모리 기업 CXMT가 4F² 기반 서버용 D램 제품을 연내 출시할 계획이라는 보도가 나왔습니다. 삼성전자의 도입 목표로 보도된 2028년과 비교하며 ‘2년 먼저’라는 표현도 등장했습니다. 이번 영상에서는 이 일정 차이가 무엇을 의미하는지 살펴봅니다. 4F²는 메모리의 정보를 담는 셀 하나가 차지하는 면적과 관련된 기술입니다. 같은 조건에서 셀 면적을 줄이면 얼마나 더 많은 정보를 담을 수 있는지 설명합니다. 트랜지스터를 세우는 구조와 배선 간섭, 셀과 주변 회로를 따로 만드는 방식도 알아봅",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=LM9NDhnEKkQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCeN2YeJcBCRJoXgzF_OU3qw",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-13T00:33:57.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ced727f8f4a623c6c4aa82972cb68b12a93ac04974f21599a4a6ed3de674ad52",
+      "dedupeKey": "brief:opp_c28fd3c524ec5929d93c:sha256:ced727f8f4a623c6c4aa82972cb68b12a93ac04974f21599a4a6ed3de674ad52",
+      "firstSeenAt": "2026-10-13T09:05:24.825Z",
+      "lastSeenAt": "2026-10-13T09:05:24.825Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -84532,6 +84736,30 @@
       "opportunityId": "opp_b19772f693fe32f54628",
       "sentAt": "2026-10-13T05:53:01.501Z",
       "messageId": "1559443829080465480"
+    },
+    "brief:opp_aa30defb97ba1729238f:sha256:d1a246c8ff144d5f815bff5a2b2498f64672a353c76946cbcdbc9b6561472c20": {
+      "status": "SENT",
+      "opportunityId": "opp_aa30defb97ba1729238f",
+      "sentAt": "2026-10-13T09:05:24.825Z",
+      "messageId": "1559492244699091017"
+    },
+    "brief:opp_3fc1a33648d80fa367f4:sha256:6a19ceacf254ad77fa6343b2b118ce5c8719fbc06de3f98f53393ab04e421904": {
+      "status": "SENT",
+      "opportunityId": "opp_3fc1a33648d80fa367f4",
+      "sentAt": "2026-10-13T09:05:24.825Z",
+      "messageId": "1559492244699091017"
+    },
+    "brief:opp_ccc43f10a5ae07f7dbb2:sha256:211c39f1a6bd60528fc9052cd5f9282ce36eb981d57a55f6dab1e4cd3228818a": {
+      "status": "SENT",
+      "opportunityId": "opp_ccc43f10a5ae07f7dbb2",
+      "sentAt": "2026-10-13T09:05:24.825Z",
+      "messageId": "1559492244699091017"
+    },
+    "brief:opp_c28fd3c524ec5929d93c:sha256:ced727f8f4a623c6c4aa82972cb68b12a93ac04974f21599a4a6ed3de674ad52": {
+      "status": "SENT",
+      "opportunityId": "opp_c28fd3c524ec5929d93c",
+      "sentAt": "2026-10-13T09:05:24.825Z",
+      "messageId": "1559492244699091017"
     }
   },
   "pending": {},
