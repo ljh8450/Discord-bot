@@ -74571,14 +74571,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 16,
-        "communityRank": 5,
-        "contentScore": 12,
+        "communityPoints": 18,
+        "communityRank": 17,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -74586,8 +74586,8 @@
       },
       "contentHash": "sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
       "dedupeKey": "brief:opp_42ee3b68a5564236a866:sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
-      "firstSeenAt": "2026-10-13T00:05:25.619Z",
-      "lastSeenAt": "2026-10-13T00:05:25.619Z",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -74620,8 +74620,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 24,
-        "communityRank": 2,
+        "communityPoints": 28,
+        "communityRank": 11,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -74635,8 +74635,8 @@
       },
       "contentHash": "sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
       "dedupeKey": "brief:opp_b7522f242a81fe112a42:sha256:1abaa9704f818f48f63d666f051f6d0a2eb0091c2a522ce970343d7ca37bbe01",
-      "firstSeenAt": "2026-10-13T00:05:25.619Z",
-      "lastSeenAt": "2026-10-13T00:05:25.619Z",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75742,6 +75742,545 @@
       "dedupeKey": "brief:opp_f2d18de5c410a429a3f8:sha256:1779e801b8c4951cbe90a35337fb2b8d061c13220b0af708cecbd4ccabd333a3",
       "firstSeenAt": "2026-10-13T00:05:25.619Z",
       "lastSeenAt": "2026-10-13T00:05:25.619Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b19772f693fe32f54628": {
+      "id": "opp_b19772f693fe32f54628",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35259",
+      "canonicalUrl": "https://www.spinellis.gr/blog/20261008?li261008",
+      "title": "생각은 취미가 될 것이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T06:35:08+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI가 오늘날 인지 노동의 대부분을 맡게 되면서, 인간의 사고는 경제적 목적에서 분리돼 여가 활동으로 바뀔 것으로 전망함 AI의 우위를 이끄는 세...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35259"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:6081fda854784f6988daa05bf71f6478f780711e86edbef02ca162e3459c5fa0",
+      "dedupeKey": "brief:opp_b19772f693fe32f54628:sha256:6081fda854784f6988daa05bf71f6478f780711e86edbef02ca162e3459c5fa0",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9dabdb172ae627db985d": {
+      "id": "opp_9dabdb172ae627db985d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35239",
+      "canonicalUrl": "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html",
+      "title": "Fable이 내 일자리를 빼앗았다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T19:38:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "회사에 마지막으로 남은 엔지니어의 해고 경험. Fable이 일을 더 잘해서가 아니라 인건비보다 저렴했고, 경영진은 AI로 인수합병까지 버틸 수 있다...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35239"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 11,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
+      "dedupeKey": "brief:opp_9dabdb172ae627db985d:sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7740ba5fdaa43ac7568d": {
+      "id": "opp_7740ba5fdaa43ac7568d",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35244",
+      "canonicalUrl": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "title": "Postgres가 느린 게 아니라 스토리지가 느린 것이다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T21:39:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "동일한 33억 행 PostgreSQL 무작위 UPDATE 부하에서 로컬 NVMe는 3,000 IOPS의 기본 gp3 EBS보다 처리량이 9.24배 높았음. 이 결과는 해당 워크로...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35244"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
+      "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_99e061573b4399967645": {
+      "id": "opp_99e061573b4399967645",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35271",
+      "canonicalUrl": "https://news.hada.io/topic?id=35271",
+      "title": "Show GN: 돼동여지도 - 「풍자의 또간집」에 나온 식당 323곳을 지역별로 모은 지도",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T10:28:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "직접 만들었습니다. 유튜브 예능 「풍자의 또간집」에 나온 식당 323곳을 지도 한 장에 모은 웹입니다(주소 표기: 돼동여지도.com). 또간집 투어를...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35271"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494",
+      "dedupeKey": "brief:opp_99e061573b4399967645:sha256:3fce0fa1baed0aff3c8bb331afd07e265c70c8b022e97a2c588e6ad89c827494",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_417f6b1ce5be0b219c3f": {
+      "id": "opp_417f6b1ce5be0b219c3f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35257",
+      "canonicalUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "title": "AI 코딩 에이전트는 더 많은 코드를 만들지만, 더 많은 소프트웨어를 만들지는 못함",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T05:40:00+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "700곳 넘는 기업의 개발 활동을 분석한 연구에서 AI 코딩 에이전트 도입 후 코드 생산량은 늘었지만, 기업 차원의 소프트웨어 산출량 증가를 뒷받...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35257"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
+      "dedupeKey": "brief:opp_417f6b1ce5be0b219c3f:sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ccc43f10a5ae07f7dbb2": {
+      "id": "opp_ccc43f10a5ae07f7dbb2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35251",
+      "canonicalUrl": "https://research.meta.ai/blog/muse-wonder",
+      "title": "Muse Wonder - 대화 간 기억과 장기 작업 수행을 강화한 Meta의 AI 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T03:39:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Meta가 개인용/업무용 에이전트를 위한 Muse Wonder와 Muse Wonder Full 공개. 코딩, 전문 지식 활용, 대화 간 기억, 장기 작업 수행을 함께 강화 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35251"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 7,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:211c39f1a6bd60528fc9052cd5f9282ce36eb981d57a55f6dab1e4cd3228818a",
+      "dedupeKey": "brief:opp_ccc43f10a5ae07f7dbb2:sha256:211c39f1a6bd60528fc9052cd5f9282ce36eb981d57a55f6dab1e4cd3228818a",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b4fe8c59dda9fd26259c": {
+      "id": "opp_b4fe8c59dda9fd26259c",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35266",
+      "canonicalUrl": "https://adrianstudio3.hashnode.dev/15-ways-ai-coding-agents-fail-in-real-repos-and-the-guardrails-that-fix-them",
+      "title": "AI 코딩 에이전트(Claude Code·Codex·Gemini CLI) 세팅이 실패하는 15가지 패턴과 해결법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T09:18:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "코딩 에이전트를 몇 주 쓰다 보면 \"일은 많이 했는데 실제로 반영된 건 없는\" 상태가 돼요. 원인은 대부분 모델 성능이 아니라 운영 설정이에요. ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35266"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 8,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4126e7110d2290f8055c064ff7c2bdf0fab2105171a1601e1bf8a6a2c4bdaf0c",
+      "dedupeKey": "brief:opp_b4fe8c59dda9fd26259c:sha256:4126e7110d2290f8055c064ff7c2bdf0fab2105171a1601e1bf8a6a2c4bdaf0c",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_7e676a1b85dc8497d418": {
+      "id": "opp_7e676a1b85dc8497d418",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35237",
+      "canonicalUrl": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+      "title": "바이브 코딩으로 만든 Photoshop 복제 앱들의 공세",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-12T18:06:22+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "바이브 코딩으로 만든 Photoshop 복제 앱들이 늘고 있지만, 겉모습을 복제하는 데 비해 브러시 성능과 전문 편집 기능의 완성도가 부족하다는 비판...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35237"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 9,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
+      "dedupeKey": "brief:opp_7e676a1b85dc8497d418:sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3fc1a33648d80fa367f4": {
+      "id": "opp_3fc1a33648d80fa367f4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35252",
+      "canonicalUrl": "https://z.ai/blog/glm-legal",
+      "title": "GLM-Legal - 계약 검토와 증거 분석, 법률 문서 작성을 위한 AI 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T03:42:24+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Z.ai가 GLM-5.3-Flash 기반 법률 특화 모델 GLM-Legal 공개. 원문 문서 분석부터 법규 적용, 논증 구성, 최종 문서 작성까지 이어지는 업무를 대상...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35252"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6a19ceacf254ad77fa6343b2b118ce5c8719fbc06de3f98f53393ab04e421904",
+      "dedupeKey": "brief:opp_3fc1a33648d80fa367f4:sha256:6a19ceacf254ad77fa6343b2b118ce5c8719fbc06de3f98f53393ab04e421904",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8c23a54cd1bad87ec276": {
+      "id": "opp_8c23a54cd1bad87ec276",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35261",
+      "canonicalUrl": "https://news.hada.io/topic?id=35261",
+      "title": "Show GN: green-in - 횡단보도 도착 전에 초록불까지 몇 초 남았는지 보여주는 웹앱",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T07:03:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "서울 교차로의 보행 신호와 남은 시간을 실시간으로 보여주는 웹앱을 만들었습니다. 횡단보도에 도착하기 전에 미리 보고 \"서두를지, 천천히 갈지\"...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35261"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6ce1e405df92d9c1983412bc83aeae26da9a2c6b60866c2a35d4178b06cc120d",
+      "dedupeKey": "brief:opp_8c23a54cd1bad87ec276:sha256:6ce1e405df92d9c1983412bc83aeae26da9a2c6b60866c2a35d4178b06cc120d",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_051a76f736403d8692e2": {
+      "id": "opp_051a76f736403d8692e2",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/ai-platform-foundation",
+      "canonicalUrl": "https://toss.tech/article/ai-platform-foundation",
+      "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Tue, 13 Oct 2026 01:34:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다.",
+      "summaryEvidence": [
+        "https://toss.tech/article/ai-platform-foundation"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a32cede5c64d0eae34c18237d9877716b11405b2b13449960c689935a784a0ba",
+      "dedupeKey": "brief:opp_051a76f736403d8692e2:sha256:a32cede5c64d0eae34c18237d9877716b11405b2b13449960c689935a784a0ba",
+      "firstSeenAt": "2026-10-13T05:53:01.501Z",
+      "lastSeenAt": "2026-10-13T05:53:01.501Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -83975,6 +84514,24 @@
       "opportunityId": "opp_c8a98ca2d1fd1e6821c4",
       "sentAt": "2026-10-13T00:05:25.619Z",
       "messageId": "1559356353565425825"
+    },
+    "brief:opp_051a76f736403d8692e2:sha256:a32cede5c64d0eae34c18237d9877716b11405b2b13449960c689935a784a0ba": {
+      "status": "SENT",
+      "opportunityId": "opp_051a76f736403d8692e2",
+      "sentAt": "2026-10-13T05:53:01.501Z",
+      "messageId": "1559443829080465480"
+    },
+    "brief:opp_b4fe8c59dda9fd26259c:sha256:4126e7110d2290f8055c064ff7c2bdf0fab2105171a1601e1bf8a6a2c4bdaf0c": {
+      "status": "SENT",
+      "opportunityId": "opp_b4fe8c59dda9fd26259c",
+      "sentAt": "2026-10-13T05:53:01.501Z",
+      "messageId": "1559443829080465480"
+    },
+    "brief:opp_b19772f693fe32f54628:sha256:6081fda854784f6988daa05bf71f6478f780711e86edbef02ca162e3459c5fa0": {
+      "status": "SENT",
+      "opportunityId": "opp_b19772f693fe32f54628",
+      "sentAt": "2026-10-13T05:53:01.501Z",
+      "messageId": "1559443829080465480"
     }
   },
   "pending": {},
