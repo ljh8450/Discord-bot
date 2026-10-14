@@ -76843,6 +76843,55 @@
         "status": "SENT",
         "reason": "브리프 기준 통과"
       }
+    },
+    "opp_e6bed6c473d89d957e6f": {
+      "id": "opp_e6bed6c473d89d957e6f",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35320",
+      "canonicalUrl": "https://github.com/facebook/rebalancer",
+      "title": "Rebalancer - 복잡한 제약 조건에 맞춰 작업과 자원을 배치하는 Meta의 최적화 도구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T09:30:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "서버에 작업을 배치하거나 샤드를 분산할 때, 용량 제한/부하 균형/장애 대비등의 조건을 고려해 배치안을 계산 복잡한 수학식 대신 25개 이상의 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35320"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d075664ce739ec7d57be0ef0f3852b69a893396fd001a31d6fbb03f9c5247e48",
+      "dedupeKey": "brief:opp_e6bed6c473d89d957e6f:sha256:d075664ce739ec7d57be0ef0f3852b69a893396fd001a31d6fbb03f9c5247e48",
+      "firstSeenAt": "2026-10-14T03:56:10.425Z",
+      "lastSeenAt": "2026-10-14T03:56:10.425Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
     }
   },
   "deliveries": {
@@ -85173,6 +85222,12 @@
       "opportunityId": "opp_9dabdb172ae627db985d",
       "sentAt": "2026-10-14T00:06:07.630Z",
       "messageId": "1559718917633482814"
+    },
+    "brief:opp_e6bed6c473d89d957e6f:sha256:d075664ce739ec7d57be0ef0f3852b69a893396fd001a31d6fbb03f9c5247e48": {
+      "status": "SENT",
+      "opportunityId": "opp_e6bed6c473d89d957e6f",
+      "sentAt": "2026-10-14T03:56:10.425Z",
+      "messageId": "1559776810114486363"
     }
   },
   "pending": {},
