@@ -75874,12 +75874,12 @@
         "sourcePriority": 100,
         "communityPoints": 11,
         "communityRank": 19,
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -75887,8 +75887,8 @@
       },
       "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
       "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
-      "firstSeenAt": "2026-10-14T09:06:07.929Z",
-      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76968,14 +76968,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 3,
-        "contentScore": 12,
+        "communityPoints": 9,
+        "communityRank": 5,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 3,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -76983,8 +76983,8 @@
       },
       "contentHash": "sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234",
       "dedupeKey": "brief:opp_6ca39844571cb6f69f81:sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234",
-      "firstSeenAt": "2026-10-14T09:06:07.929Z",
-      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -77017,26 +77017,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 3,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:784fa5a2db8fad46d16ebc15de9c61650478b29a1d5af66870e8727dd0474311",
       "dedupeKey": "brief:opp_a3a8bd7c8a7b3b452b46:sha256:784fa5a2db8fad46d16ebc15de9c61650478b29a1d5af66870e8727dd0474311",
-      "firstSeenAt": "2026-10-14T09:06:07.929Z",
-      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -77066,8 +77066,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 5,
+        "communityPoints": 7,
+        "communityRank": 6,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -77081,8 +77081,8 @@
       },
       "contentHash": "sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
       "dedupeKey": "brief:opp_fd6289c7b13b32a17e88:sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
-      "firstSeenAt": "2026-10-14T09:06:07.929Z",
-      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -77165,7 +77165,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 9,
+        "communityRank": 10,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -77179,11 +77179,11 @@
       },
       "contentHash": "sha256:57a9bdb339c9992bcb54aceece9da30eac89a542190d2417a0c85753a5065c1d",
       "dedupeKey": "brief:opp_d8595fc588e058b092bd:sha256:57a9bdb339c9992bcb54aceece9da30eac89a542190d2417a0c85753a5065c1d",
-      "firstSeenAt": "2026-10-14T09:06:07.929Z",
-      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -77393,6 +77393,315 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_60afc521a47f24ba9282": {
+      "id": "opp_60afc521a47f24ba9282",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "canonicalUrl": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "title": "The EU’s next chapter in AI is agentic",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "summaryEvidence": [
+        "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a14c781f7fb3074f66ebbee762e2882097c98b287ac03db0628071f2c9eb4e08",
+      "dedupeKey": "brief:opp_60afc521a47f24ba9282:sha256:a14c781f7fb3074f66ebbee762e2882097c98b287ac03db0628071f2c9eb4e08",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4a9c5bfb4bd2b6d93837": {
+      "id": "opp_4a9c5bfb4bd2b6d93837",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/singapore-office-opening",
+      "canonicalUrl": "https://www.anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Announcements · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/singapore-office-opening"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Announcements",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b10b5925b9391e3c7c95a484c2c84360c2ee017d36508f1bf1bfee5a47192f84",
+      "dedupeKey": "brief:opp_4a9c5bfb4bd2b6d93837:sha256:b10b5925b9391e3c7c95a484c2c84360c2ee017d36508f1bf1bfee5a47192f84",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_972ad96076c3f881ff61": {
+      "id": "opp_972ad96076c3f881ff61",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:6gakvEF9m20",
+      "canonicalUrl": "https://www.youtube.com/watch?v=6gakvEF9m20",
+      "title": "알렉산더 왕이 밝힌 Muse 제작기: 고장 나던 AI는 어떻게 출시됐나",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T12:00:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "메타의 개인 AI 에이전트 Muse는 어떻게 시제품에서 실제 서비스가 됐을까요? 알렉산더 왕이 David Senra와 나눈 인터뷰를 따라, 고장 나던 첫 시제품부터 일곱 달의 개선, 출시 판단, 사람들의 첫 사용 경험까지 살펴봅니다. 원음 인터뷰는 직접 번역 자막으로, 나머지는 테크브릿지의 한국어 해설로 구성했습니다. 영상에서 언급하는 Muse 이용자 수는 왕의 인터뷰 발언이며, 집계 기준과 기간은 독립적으로 확인되지 않았습니다. Muse Wonder 발표는 인터뷰 공개 다음 날의 별도 공식 자료",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=6gakvEF9m20"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T12:00:33.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
+      "dedupeKey": "brief:opp_972ad96076c3f881ff61:sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_daae52a3051930635191": {
+      "id": "opp_daae52a3051930635191",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:XejHwIKi5qg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=XejHwIKi5qg",
+      "title": "[한영자막] 코드 슬롭(Code Slop)과의 싸움: 소프트웨어 팩토리의 현실을 짚어봅니다 - Dex Horthy",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T09:00:11+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "HumanLayer의 CEO이자 공동 창업자인 Dex Horthy가 AI 코딩 시대의 화두인 '소프트웨어 팩토리'의 현실과 코드 슬롭(Code Slop) 문제의 본질을 날카롭게 짚어봅니다. AI 모델이 아무리 발전해도 사람의 감독 없는 '무인 공장(Lights-off Factory)'이 왜 환상일 수밖에 없는지, SlopCodeBench 벤치마크 데이터를 통해 입증된 모델의 아키텍처 한계와 이를 극복하기 위한 '12-팩터 팩토리' 실천 방안을 제시합니다. 📌 주요 내용: 1. 무인 공장의 환상:",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=XejHwIKi5qg"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T12:00:33.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f57599d123b09f7c00240f6fdec014e0a56e1336fd71bf73be218a5815adcfe8",
+      "dedupeKey": "brief:opp_daae52a3051930635191:sha256:f57599d123b09f7c00240f6fdec014e0a56e1336fd71bf73be218a5815adcfe8",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0318b38d1a4fff7ea2d5": {
+      "id": "opp_0318b38d1a4fff7ea2d5",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:lN1IOA6evoQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lN1IOA6evoQ",
+      "title": "조코딩의 AI 리터러시 강의 2강 : AI는 모든 형태의 콘텐츠를 다룬다",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T12:00:38+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 AI 리터러시 강의 2강입니다. 이번에는 텍스트를 넘어 이미지, 목소리, 음악, 영상까지 AI가 어디까지 만들 수 있는지 직접 뽑아본 결과로 보여드립니다. 스마트폰으로 대충 찍은 햄버거 사진을 스튜디오 사진으로 바꾸고, 감정까지 연기하는 AI 목소리, 행사 정보만 넣어 만든 노래, 그리고 프롬프트 한 번으로 만든 30초 뮤직비디오까지. 3년 전 손가락이 6개 나오던 AI와 지금을 비교해 보면, 이제 중요한 건 ‘어떻게 만드느냐’보다 ‘무엇을 시키느냐’입니다. 📚 AI 리터러시 6시간 전",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lN1IOA6evoQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T12:00:38.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3fb35b07dc566146f4348ceff58dc82013b76c16568230bdde6aaa31a8690398",
+      "dedupeKey": "brief:opp_0318b38d1a4fff7ea2d5:sha256:3fb35b07dc566146f4348ceff58dc82013b76c16568230bdde6aaa31a8690398",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_90884ad35ece827a22a1": {
+      "id": "opp_90884ad35ece827a22a1",
+      "type": "CONTENT",
+      "sourceId": "youtube-coding-pe",
+      "externalId": "yt:video:u3CsiKUZEeI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=u3CsiKUZEeI",
+      "title": "개발자를 신나게 일하도록 만드는 방법 | 리더의 자질",
+      "organization": "코딩하는 기술사",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T11:33:14+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "소프트웨어 아키텍처",
+        "개발자 커리어",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "(2026.06월에 업로드 한 멤버십 영상입니다) 좋은 개발자는 왜 회사를 떠나는가? 연봉을 올려줬는데도 떠나는 개발자가 있습니다. 반대로, 더 좋은 조건을 마다하고 남는 개발자도 있습니다. 그 차이는 어디서 올까요? --- --- '아키텍트 인사이트 멤버십'과 함께 개발자를 넘어 아키텍트로 성장하세요 https://www.youtube.com/playlist?list=UUMORpOx7jjy2PuuVeRrYKbdCA 삼성멀티캠퍼스 Redis(대면강의) https://m.multicampus.com",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=u3CsiKUZEeI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCRpOx7jjy2PuuVeRrYKbdCA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T11:33:14.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 1,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:207fa2d942b9779347fdedb5bd9070f86406d09bd7cd9fe3265ce8d0e8b661a4",
+      "dedupeKey": "brief:opp_90884ad35ece827a22a1:sha256:207fa2d942b9779347fdedb5bd9070f86406d09bd7cd9fe3265ce8d0e8b661a4",
+      "firstSeenAt": "2026-10-14T14:18:55.745Z",
+      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -85767,6 +86076,42 @@
       "opportunityId": "opp_641c9c9795adf803e108",
       "sentAt": "2026-10-14T09:06:07.929Z",
       "messageId": "1559854814089715723"
+    },
+    "brief:opp_60afc521a47f24ba9282:sha256:a14c781f7fb3074f66ebbee762e2882097c98b287ac03db0628071f2c9eb4e08": {
+      "status": "SENT",
+      "opportunityId": "opp_60afc521a47f24ba9282",
+      "sentAt": "2026-10-14T14:18:55.745Z",
+      "messageId": "1559933531675959359"
+    },
+    "brief:opp_4a9c5bfb4bd2b6d93837:sha256:b10b5925b9391e3c7c95a484c2c84360c2ee017d36508f1bf1bfee5a47192f84": {
+      "status": "SENT",
+      "opportunityId": "opp_4a9c5bfb4bd2b6d93837",
+      "sentAt": "2026-10-14T14:18:55.745Z",
+      "messageId": "1559933531675959359"
+    },
+    "brief:opp_0318b38d1a4fff7ea2d5:sha256:3fb35b07dc566146f4348ceff58dc82013b76c16568230bdde6aaa31a8690398": {
+      "status": "SENT",
+      "opportunityId": "opp_0318b38d1a4fff7ea2d5",
+      "sentAt": "2026-10-14T14:18:55.745Z",
+      "messageId": "1559933531675959359"
+    },
+    "brief:opp_daae52a3051930635191:sha256:f57599d123b09f7c00240f6fdec014e0a56e1336fd71bf73be218a5815adcfe8": {
+      "status": "SENT",
+      "opportunityId": "opp_daae52a3051930635191",
+      "sentAt": "2026-10-14T14:18:55.745Z",
+      "messageId": "1559933531675959359"
+    },
+    "brief:opp_a3a8bd7c8a7b3b452b46:sha256:784fa5a2db8fad46d16ebc15de9c61650478b29a1d5af66870e8727dd0474311": {
+      "status": "SENT",
+      "opportunityId": "opp_a3a8bd7c8a7b3b452b46",
+      "sentAt": "2026-10-14T14:18:55.745Z",
+      "messageId": "1559933531675959359"
+    },
+    "brief:opp_d8595fc588e058b092bd:sha256:57a9bdb339c9992bcb54aceece9da30eac89a542190d2417a0c85753a5065c1d": {
+      "status": "SENT",
+      "opportunityId": "opp_d8595fc588e058b092bd",
+      "sentAt": "2026-10-14T14:18:55.745Z",
+      "messageId": "1559933531675959359"
     }
   },
   "pending": {},
