@@ -75872,23 +75872,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 8,
-        "contentScore": 10,
+        "communityPoints": 11,
+        "communityRank": 19,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
       "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
-      "firstSeenAt": "2026-10-14T00:06:07.630Z",
-      "lastSeenAt": "2026-10-14T00:06:07.630Z",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76887,6 +76887,509 @@
       "dedupeKey": "brief:opp_e6bed6c473d89d957e6f:sha256:d075664ce739ec7d57be0ef0f3852b69a893396fd001a31d6fbb03f9c5247e48",
       "firstSeenAt": "2026-10-14T03:56:10.425Z",
       "lastSeenAt": "2026-10-14T03:56:10.425Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_641c9c9795adf803e108": {
+      "id": "opp_641c9c9795adf803e108",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35322",
+      "canonicalUrl": "https://github.com/microsoft/AesCode",
+      "title": "AesCode - 이미지의 디자인을 참고해 HTML/CSS를 생성하는 AI 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T09:40:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "슬라이드와 포스터, 대시보드를 수정 가능한 HTML/CSS로 생성하는 Microsoft의 AI 모델 이미지 생성 모델이 만든 참고 이미지에서 레이아웃과 스타...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35322"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 9,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c7e26bb3af4503a07768c0ab8fb692c84839456dcf25931beebb9bed2c8a56a5",
+      "dedupeKey": "brief:opp_641c9c9795adf803e108:sha256:c7e26bb3af4503a07768c0ab8fb692c84839456dcf25931beebb9bed2c8a56a5",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6ca39844571cb6f69f81": {
+      "id": "opp_6ca39844571cb6f69f81",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35298",
+      "canonicalUrl": "https://github.com/prabanta-dev/janas",
+      "title": "Janas - SSD를 활용해 RAM보다 큰 MoE 언어 모델을 실행하는 추론 엔진",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T22:41:02+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "RAM에 다 들어가지 않는 MoE 언어 모델을 일반 PC에서 실행하는 로컬 추론 엔진으로, 토큰마다 필요한 가중치를 NVMe SSD에서 읽어 사용 MoE 모델 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35298"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 3,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234",
+      "dedupeKey": "brief:opp_6ca39844571cb6f69f81:sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a3a8bd7c8a7b3b452b46": {
+      "id": "opp_a3a8bd7c8a7b3b452b46",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35319",
+      "canonicalUrl": "https://www.natemeyvis.com/where-is-all-the-new-good-software",
+      "title": "AI 코딩이 그렇게 뛰어나다면, 새롭고 좋은 소프트웨어는 다 어디에 있나?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T09:06:50+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩이 뛰어나다면 왜 새롭고 좋은 소프트웨어가 더 많이 보이지 않을까? 기존 제품의 개선, 비공개 도구의 증가, 조직의 병목 등 9가지 가설을...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35319"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 8,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:784fa5a2db8fad46d16ebc15de9c61650478b29a1d5af66870e8727dd0474311",
+      "dedupeKey": "brief:opp_a3a8bd7c8a7b3b452b46:sha256:784fa5a2db8fad46d16ebc15de9c61650478b29a1d5af66870e8727dd0474311",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_fd6289c7b13b32a17e88": {
+      "id": "opp_fd6289c7b13b32a17e88",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35309",
+      "canonicalUrl": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "Anthropic, AI 코딩으로 늘어난 변경량에 대응해 Git을 자체 버전 관리 시스템 Scion으로 교체",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T04:43:48+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 코딩으로 소스 관리와 빌드, CI가 병목이 되자 자체 버전 관리 시스템 Scion을 개발하고 5개월 만에 모노레포를 Git에서 이전 하루 병합량은 20...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35309"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
+      "dedupeKey": "brief:opp_fd6289c7b13b32a17e88:sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a35a60fd342c14102f2": {
+      "id": "opp_8a35a60fd342c14102f2",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35306",
+      "canonicalUrl": "https://deepmind.google/models/gemini",
+      "title": "Google, Gemini 4 Argon 정식 출시 - 긴 추론과 대규모 코드 작업 지원",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T02:35:14+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "대규모 코드 리팩터링, 과학 연구, 3D 제작과 여러 단계의 자율 작업을 위한 Google의 추론 모델로, 일반 이용자와 개발자를 대상으로 정식 공개 l...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35306"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d725c134b07d3099321bb6dfb663ed78521b2d29a2997c32fc2204a5ba0ed3b6",
+      "dedupeKey": "brief:opp_8a35a60fd342c14102f2:sha256:d725c134b07d3099321bb6dfb663ed78521b2d29a2997c32fc2204a5ba0ed3b6",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d8595fc588e058b092bd": {
+      "id": "opp_d8595fc588e058b092bd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35275",
+      "canonicalUrl": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
+      "title": "OpenAI와 Anthropic을 단호히 거부하자",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T12:33:42+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "오픈 웨이트 모델을 활용하면 ChatGPT와 Claude에 의존하지 않고도 강력한 LLM을 사용할 수 있으며, 실행 환경과 추론 제공업체를 선택할 수 있음 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35275"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 9,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:57a9bdb339c9992bcb54aceece9da30eac89a542190d2417a0c85753a5065c1d",
+      "dedupeKey": "brief:opp_d8595fc588e058b092bd:sha256:57a9bdb339c9992bcb54aceece9da30eac89a542190d2417a0c85753a5065c1d",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e0028a0fa472e9d5d63e": {
+      "id": "opp_e0028a0fa472e9d5d63e",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/spark-connect-on-kubernetes-2",
+      "canonicalUrl": "https://toss.tech/article/spark-connect-on-kubernetes-2",
+      "title": "Spark Connect on Kubernetes #2: Operator로 만드는 Control Plane",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 05:06:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "Spark 서버 하나의 기동과 복구부터, 여러 서버의 세션을 유지하는 교체까지. Kubernetes 위에 Spark Tenant Operator를 만든 과정을 소개합니다.",
+      "summaryEvidence": [
+        "https://toss.tech/article/spark-connect-on-kubernetes-2"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7538e9d0726067af2312cd297da964a8635a93c190dbf7b5e6d9f119204336b1",
+      "dedupeKey": "brief:opp_e0028a0fa472e9d5d63e:sha256:7538e9d0726067af2312cd297da964a8635a93c190dbf7b5e6d9f119204336b1",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2866b93dbbb87629f47d": {
+      "id": "opp_2866b93dbbb87629f47d",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:djKIU-30YVc",
+      "canonicalUrl": "https://www.youtube.com/watch?v=djKIU-30YVc",
+      "title": "[한영자막] RAG만으로는 부족합니다: 토큰 비용을 절반으로 줄이는 관계형 컨텍스트 엔진",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T03:00:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "\"지난주에 내가 머지한 PR이 뭐지?\" 벡터 검색은 이런 질문에 답하지 못합니다. 코딩 에이전트에게 진짜 필요한 것은 단순 코드 검색이 아니라, 코드 뒤에 숨겨진 맥락(PR, 슬랙 대화, 장애 이력)을 연결해 주는 '관계형 컨텍스트 엔진'입니다. 이번 영상에서는 Unblocked의 창립 엔지니어 피터 웨리(Peter Werry)가 컨텍스트 엔진의 개념과 실제 에이전트 적용 사례를 소개합니다. 컨텍스트 유무에 따라 토큰 비용이 50% 절감되는 과정과 모델 성능 저하 원인을 추적하는 데모를 살펴보고,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=djKIU-30YVc"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T03:00:33.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b7126d708e3f9a42afba61c0792c3cbc7e091da492b821cbe515ae2d952535e9",
+      "dedupeKey": "brief:opp_2866b93dbbb87629f47d:sha256:b7126d708e3f9a42afba61c0792c3cbc7e091da492b821cbe515ae2d952535e9",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_ff1a2929ed605e9f4e90": {
+      "id": "opp_ff1a2929ed605e9f4e90",
+      "type": "CONTENT",
+      "sourceId": "youtube-codingapple",
+      "externalId": "yt:video:ppEIjQyQnBI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ppEIjQyQnBI",
+      "title": "리버스 엔지니어링으로 대환장파티중",
+      "organization": "코딩애플",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T03:15:12+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "코딩",
+        "개발 트렌드",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "코덱스 어케써요 https://codingapple.com/ 개별강의 10% 할인쿠폰 jejeiya339 (자주 바뀜 최신영상 참고) 사용한 자료 https://www.youtube.com/watch?v=ckWTcWtp8l0 https://www.youtube.com/watch?v=9UbADrcEW5w https://imgur.com/gallery/success-cat-noyjaFq https://www.facebook.com/groups/codeepic/posts/1083711629876550/",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ppEIjQyQnBI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T03:15:12.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:21ffb48795238d62f0ff96410e8dd431178c1bebe85ad0d93d4e5d2ed4e2abc3",
+      "dedupeKey": "brief:opp_ff1a2929ed605e9f4e90:sha256:21ffb48795238d62f0ff96410e8dd431178c1bebe85ad0d93d4e5d2ed4e2abc3",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c6501038f88d2e61ff6e": {
+      "id": "opp_c6501038f88d2e61ff6e",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:o8LjTSvza0E",
+      "canonicalUrl": "https://www.youtube.com/watch?v=o8LjTSvza0E",
+      "title": "This Viral Open Source Repo Lets Claude Clone ANYTHING",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T06:04:43+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻Get 1:1 help: https://chaseai.io Claude can now reverse engineer anything with REA. ⏰TIMESTAMPS: 0:00 - Intro 1:30 - How It Works 8:22 - Outro RESOURCES FROM T",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=o8LjTSvza0E"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T06:04:43.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6829c2958741e5e3a26263d0afb97f2409aaff8629744347c79ccaa48ed1f324",
+      "dedupeKey": "brief:opp_c6501038f88d2e61ff6e:sha256:6829c2958741e5e3a26263d0afb97f2409aaff8629744347c79ccaa48ed1f324",
+      "firstSeenAt": "2026-10-14T09:06:07.929Z",
+      "lastSeenAt": "2026-10-14T09:06:07.929Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -85228,6 +85731,42 @@
       "opportunityId": "opp_e6bed6c473d89d957e6f",
       "sentAt": "2026-10-14T03:56:10.425Z",
       "messageId": "1559776810114486363"
+    },
+    "brief:opp_e0028a0fa472e9d5d63e:sha256:7538e9d0726067af2312cd297da964a8635a93c190dbf7b5e6d9f119204336b1": {
+      "status": "SENT",
+      "opportunityId": "opp_e0028a0fa472e9d5d63e",
+      "sentAt": "2026-10-14T09:06:07.929Z",
+      "messageId": "1559854814089715723"
+    },
+    "brief:opp_c6501038f88d2e61ff6e:sha256:6829c2958741e5e3a26263d0afb97f2409aaff8629744347c79ccaa48ed1f324": {
+      "status": "SENT",
+      "opportunityId": "opp_c6501038f88d2e61ff6e",
+      "sentAt": "2026-10-14T09:06:07.929Z",
+      "messageId": "1559854814089715723"
+    },
+    "brief:opp_2866b93dbbb87629f47d:sha256:b7126d708e3f9a42afba61c0792c3cbc7e091da492b821cbe515ae2d952535e9": {
+      "status": "SENT",
+      "opportunityId": "opp_2866b93dbbb87629f47d",
+      "sentAt": "2026-10-14T09:06:07.929Z",
+      "messageId": "1559854814089715723"
+    },
+    "brief:opp_8a35a60fd342c14102f2:sha256:d725c134b07d3099321bb6dfb663ed78521b2d29a2997c32fc2204a5ba0ed3b6": {
+      "status": "SENT",
+      "opportunityId": "opp_8a35a60fd342c14102f2",
+      "sentAt": "2026-10-14T09:06:07.929Z",
+      "messageId": "1559854814089715723"
+    },
+    "brief:opp_ff1a2929ed605e9f4e90:sha256:21ffb48795238d62f0ff96410e8dd431178c1bebe85ad0d93d4e5d2ed4e2abc3": {
+      "status": "SENT",
+      "opportunityId": "opp_ff1a2929ed605e9f4e90",
+      "sentAt": "2026-10-14T09:06:07.929Z",
+      "messageId": "1559854814089715723"
+    },
+    "brief:opp_641c9c9795adf803e108:sha256:c7e26bb3af4503a07768c0ab8fb692c84839456dcf25931beebb9bed2c8a56a5": {
+      "status": "SENT",
+      "opportunityId": "opp_641c9c9795adf803e108",
+      "sentAt": "2026-10-14T09:06:07.929Z",
+      "messageId": "1559854814089715723"
     }
   },
   "pending": {},
