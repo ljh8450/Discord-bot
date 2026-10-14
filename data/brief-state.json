@@ -74571,7 +74571,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 18,
+        "communityPoints": 19,
         "communityRank": 17,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -74586,8 +74586,8 @@
       },
       "contentHash": "sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
       "dedupeKey": "brief:opp_42ee3b68a5564236a866:sha256:9459533169d1562a59b3e4af1acbd9316efbe680de138032275edd11039253ab",
-      "firstSeenAt": "2026-10-13T05:53:01.501Z",
-      "lastSeenAt": "2026-10-13T05:53:01.501Z",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75838,11 +75838,11 @@
       },
       "contentHash": "sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
       "dedupeKey": "brief:opp_9dabdb172ae627db985d:sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab",
-      "firstSeenAt": "2026-10-13T16:42:23.108Z",
-      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -75872,8 +75872,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 7,
+        "communityPoints": 9,
+        "communityRank": 8,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -75887,8 +75887,8 @@
       },
       "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
       "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
-      "firstSeenAt": "2026-10-13T16:42:23.108Z",
-      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -75970,14 +75970,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 9,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -75985,8 +75985,8 @@
       },
       "contentHash": "sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
       "dedupeKey": "brief:opp_417f6b1ce5be0b219c3f:sha256:38663ea04dda20c993b91714afc1d956e63c7c5ad669bf570065c60fa46079f5",
-      "firstSeenAt": "2026-10-13T16:42:23.108Z",
-      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76118,7 +76118,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 8,
+        "communityRank": 12,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -76132,8 +76132,8 @@
       },
       "contentHash": "sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
       "dedupeKey": "brief:opp_7e676a1b85dc8497d418:sha256:e2ccb3554ada3d9b258a6831563d1ad0fa11b182f9e62a77553ca0ead88e37c2",
-      "firstSeenAt": "2026-10-13T16:42:23.108Z",
-      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76313,8 +76313,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 13,
+        "communityPoints": 7,
+        "communityRank": 16,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -76328,11 +76328,11 @@
       },
       "contentHash": "sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b",
       "dedupeKey": "brief:opp_6b35dd713a6adbb62cb8:sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b",
-      "firstSeenAt": "2026-10-13T16:42:23.108Z",
-      "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -76689,6 +76689,155 @@
       "dedupeKey": "brief:opp_9eff4256b73cb3a206c3:sha256:d7324d60168d77cbbc32ae066b0f94171a7dd6f8cbbfa537a41e1dbbd29d9a6b",
       "firstSeenAt": "2026-10-13T16:42:23.108Z",
       "lastSeenAt": "2026-10-13T16:42:23.108Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_3a861efeacff24cbff99": {
+      "id": "opp_3a861efeacff24cbff99",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "canonicalUrl": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "summaryEvidence": [
+        "https://openai.com/index/higgsfield-longer-videos-voice"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3c3c539646043ec004c3c848d8198aea2b3725e17ed773dce484ee355b56370c",
+      "dedupeKey": "brief:opp_3a861efeacff24cbff99:sha256:3c3c539646043ec004c3c848d8198aea2b3725e17ed773dce484ee355b56370c",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1885adfeea8e614bdc85": {
+      "id": "opp_1885adfeea8e614bdc85",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99413",
+      "canonicalUrl": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Tue, 13 Oct 2026 17:56:33 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:6ecb2c31e353813ba0c9d4bf17d1824a19ee2f5ff33cb7d4bd09c557ac41b1fc",
+      "dedupeKey": "brief:opp_1885adfeea8e614bdc85:sha256:6ecb2c31e353813ba0c9d4bf17d1824a19ee2f5ff33cb7d4bd09c557ac41b1fc",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_25588b8c8268dc3dfbca": {
+      "id": "opp_25588b8c8268dc3dfbca",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:sInGHWqJg0I",
+      "canonicalUrl": "https://www.youtube.com/watch?v=sInGHWqJg0I",
+      "title": "[한영자막] 프롬프트는 이제 그만하세요 — Greg Pstrucha, Sentry",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T22:00:36+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "Greg Pstrucha가 Sentry 사례를 바탕으로, 코딩 에이전트에게 같은 수정을 반복해서 요청하는 대신 규칙을 린터와 저장소 정책으로 남기는 방법을 설명합니다. 에이전트 스킬을 OpenAPI와 맞추는 사례부터 정성적 코드 리뷰와 지표 최적화의 한계까지 살펴봅니다. 주요 포인트 - 반복되는 에이전트 실수를 린터 규칙으로 바꾸는 방법 - 과거 대화와 PR 리뷰에서 결정적 검사 규칙을 찾는 접근 - OpenAPI 스키마에 맞춰 Sentry API와 에이전트 스킬을 검증한 사례 - 린터가 다루지",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=sInGHWqJg0I"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-13T22:00:36.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ee1f063215ca0d0210b27d478055ee20c1edbb7f385aa165aa0cf5a26772db5d",
+      "dedupeKey": "brief:opp_25588b8c8268dc3dfbca:sha256:ee1f063215ca0d0210b27d478055ee20c1edbb7f385aa165aa0cf5a26772db5d",
+      "firstSeenAt": "2026-10-14T00:06:07.630Z",
+      "lastSeenAt": "2026-10-14T00:06:07.630Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -84994,6 +85143,36 @@
       "opportunityId": "opp_99e061573b4399967645",
       "sentAt": "2026-10-13T16:42:23.108Z",
       "messageId": "1559607246084644951"
+    },
+    "brief:opp_1885adfeea8e614bdc85:sha256:6ecb2c31e353813ba0c9d4bf17d1824a19ee2f5ff33cb7d4bd09c557ac41b1fc": {
+      "status": "SENT",
+      "opportunityId": "opp_1885adfeea8e614bdc85",
+      "sentAt": "2026-10-14T00:06:07.630Z",
+      "messageId": "1559718917633482814"
+    },
+    "brief:opp_3a861efeacff24cbff99:sha256:3c3c539646043ec004c3c848d8198aea2b3725e17ed773dce484ee355b56370c": {
+      "status": "SENT",
+      "opportunityId": "opp_3a861efeacff24cbff99",
+      "sentAt": "2026-10-14T00:06:07.630Z",
+      "messageId": "1559718917633482814"
+    },
+    "brief:opp_25588b8c8268dc3dfbca:sha256:ee1f063215ca0d0210b27d478055ee20c1edbb7f385aa165aa0cf5a26772db5d": {
+      "status": "SENT",
+      "opportunityId": "opp_25588b8c8268dc3dfbca",
+      "sentAt": "2026-10-14T00:06:07.630Z",
+      "messageId": "1559718917633482814"
+    },
+    "brief:opp_6b35dd713a6adbb62cb8:sha256:1037e5143c2798111944a33fdf38fd4688323edf12eb8095bf393b3a17e7070b": {
+      "status": "SENT",
+      "opportunityId": "opp_6b35dd713a6adbb62cb8",
+      "sentAt": "2026-10-14T00:06:07.630Z",
+      "messageId": "1559718917633482814"
+    },
+    "brief:opp_9dabdb172ae627db985d:sha256:87a9933409aea81594076029e7c8b30679ee8907fc12d8f75187b9e5510812ab": {
+      "status": "SENT",
+      "opportunityId": "opp_9dabdb172ae627db985d",
+      "sentAt": "2026-10-14T00:06:07.630Z",
+      "messageId": "1559718917633482814"
     }
   },
   "pending": {},
