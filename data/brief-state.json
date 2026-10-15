@@ -77067,7 +77067,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 11,
-        "communityRank": 18,
+        "communityRank": 20,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -77081,8 +77081,8 @@
       },
       "contentHash": "sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
       "dedupeKey": "brief:opp_fd6289c7b13b32a17e88:sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
-      "firstSeenAt": "2026-10-15T03:38:05.880Z",
-      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -78219,14 +78219,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 13,
+        "communityPoints": 16,
         "communityRank": 2,
-        "contentScore": 12,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 1
@@ -78234,8 +78234,8 @@
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-15T09:05:30.364Z",
-      "lastSeenAt": "2026-10-15T09:05:30.364Z",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -78469,7 +78469,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 5,
-        "communityRank": 6,
+        "communityRank": 7,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -78483,11 +78483,313 @@
       },
       "contentHash": "sha256:3d104d39869bf44304e24e9c00dae88bb3caee75e25a6a9e79774e841e6e6b28",
       "dedupeKey": "brief:opp_e2e4d7406861d13ed720:sha256:3d104d39869bf44304e24e9c00dae88bb3caee75e25a6a9e79774e841e6e6b28",
-      "firstSeenAt": "2026-10-15T09:05:30.364Z",
-      "lastSeenAt": "2026-10-15T09:05:30.364Z",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e5097c4135d40b6531fe": {
+      "id": "opp_e5097c4135d40b6531fe",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35384",
+      "canonicalUrl": "https://www.techfounderstack.com/p/your-moat-is-dead-anyone-can-rebuild",
+      "title": "당신의 경쟁 해자는 죽었다. 누구나 당신의 제품을 다시 만들 수 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T10:42:28+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "AI 에이전트가 관찰 가능한 소프트웨어를 재구현하는 비용을 크게 낮추면서, 코드 자체를 경쟁 해자로 삼는 전략이 흔들리고 있음 Photoshop을 Rus...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35384"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e3c31fca5644871345ff398646f9db4ff5aa0cda7f5615e8f04cde297145a963",
+      "dedupeKey": "brief:opp_e5097c4135d40b6531fe:sha256:e3c31fca5644871345ff398646f9db4ff5aa0cda7f5615e8f04cde297145a963",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_97fa150e6bf9c6fed289": {
+      "id": "opp_97fa150e6bf9c6fed289",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35326",
+      "canonicalUrl": "https://developers.googleblog.com/gemini-4-argon-for-robotics",
+      "title": "Google, Gemini 4 Argon의 로봇 제어와 시뮬레이션 활용 사례 공개",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T10:34:07+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Google이 Gemini 4 Argon으로 로봇을 제어하고 시뮬레이션과 학습 데이터를 만드는 활용 사례를 공개. 코드 생성과 영상 분석, 물리 추론을 로봇 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35326"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a7a0737f344a7eddb21061279cc6d33d7bc4fbc780afb10cb0f62c9223c0331c",
+      "dedupeKey": "brief:opp_97fa150e6bf9c6fed289:sha256:a7a0737f344a7eddb21061279cc6d33d7bc4fbc780afb10cb0f62c9223c0331c",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_8a3f6eab864ad8534e33": {
+      "id": "opp_8a3f6eab864ad8534e33",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "92e97ce8444eff62ed339bdb9b518084908adc2d",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/pcs-1",
+      "title": "ParallelCluster 잘 쓰고 있는데, 왜 AWS PCS인가(1부) — 관리형 Slurm의 가치와 비용 구조",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 15 Oct 2026 13:19:19 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "HPC 클러스터를 AWS 환경에서 운영해 온 고객이라면, 거의 대부분 AWS ParallelCluster를 사용해 왔을 것입니다. 오픈소스이기 때문에 무료이며, 원하는 대로 변경할 수 있는 강력한 클러스터 운영 플랫폼입니다. 그런데 실제로 장기간 운영하다 보면 반복해서 부딪히는 지점이 있습니다. ParallelCluster 버전을 올리려면 클러스터를 다시 만들어야 하고, 헤드 노드가 죽으면 사용자가 직접 복구해야 하고, OS와 스케줄러 패치를 적용하려면 며칠씩 돌고 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/pcs-1/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7d29e061dddcda0f47e9dc689fb0c65b1eacab9c4222d450e9596fc2bbaa6a49",
+      "dedupeKey": "brief:opp_8a3f6eab864ad8534e33:sha256:7d29e061dddcda0f47e9dc689fb0c65b1eacab9c4222d450e9596fc2bbaa6a49",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_965df194f661858f03ba": {
+      "id": "opp_965df194f661858f03ba",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/package-management-1",
+      "canonicalUrl": "https://toss.tech/article/package-management-1",
+      "title": "토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Thu, 15 Oct 2026 09:23:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "ESM과 CJS를 함께 제공할 때 생길 수 있는 상태 분리와 타입 누락 문제를 살펴보고, 패키지를 ESM-only로 전환한 이유를 소개해요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/package-management-1"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:658f371e5ebe7e98d6c1bf5a4e1701736e306a970f7b5c26f92069ed175796cf",
+      "dedupeKey": "brief:opp_965df194f661858f03ba:sha256:658f371e5ebe7e98d6c1bf5a4e1701736e306a970f7b5c26f92069ed175796cf",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_af8a424f41492f602b57": {
+      "id": "opp_af8a424f41492f602b57",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:lnLqwKTPTYU",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lnLqwKTPTYU",
+      "title": "[한영자막] 버그 리포트에서 배포까지: '소프트웨어 팩토리'가 바꿀 개발의 미래",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T09:00:03+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "버그 리포트와 사용자 피드백이 들어오는 순간 프로덕션 배포 코드까지 자동으로 완성되는 '소프트웨어 팩토리(Software Factory)'의 개념과 실전 구축 원칙을 Factory의 Davis Palmie가 명쾌하게 제시합니다. 단순히 코드를 타이핑하던 시대에서 수많은 자율 에이전트를 감독하고 조율하는 거버넌스 시대로 넘어가는 AI 엔지니어링의 핵심 전환점을 확인해보세요. 📌 주요 내용: • 코딩은 결코 개발의 병목이 아니었다: 코드 작성 자체보다 코드 리뷰, 디버깅, 문서화, 테스트 등 SDL",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=lnLqwKTPTYU"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-15T09:00:03.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4a1b796e72bafb80abdfbe1b7f231333980c9e96b3cb681b83e553778a879109",
+      "dedupeKey": "brief:opp_af8a424f41492f602b57:sha256:4a1b796e72bafb80abdfbe1b7f231333980c9e96b3cb681b83e553778a879109",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_26cf5a104d6864efadb4": {
+      "id": "opp_26cf5a104d6864efadb4",
+      "type": "CONTENT",
+      "sourceId": "youtube-jocoding",
+      "externalId": "yt:video:Y3Xz4C3kgBA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Y3Xz4C3kgBA",
+      "title": "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무",
+      "organization": "조코딩 JoCoding",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T11:50:41+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "코딩",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "조코딩의 AI 리터러시 특강 3강입니다. 묻고 답하는 챗봇에서, 스스로 생각하는 추론 모델을 거쳐, 이제는 목표만 주면 계획하고 도구를 쓰고 결과까지 확인하는 AI 에이전트의 시대입니다. 이번 영상에서는 조코딩이 직접 에이전트에게 일을 맡겨본 사례를 보여드립니다. 광고 캠페인 생성과 집행, 3D 모델링, 메일·세금처리, AI 인플루언서 공장까지. 이제 우리는 7개월 마다 두 배로 좋아지는 AI에게 무엇을 시키고 무엇을 통과시킬지가 남았습니다. 📚 AI 리터러시 6시간 전체 강의는 AX인재전쟁 온",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Y3Xz4C3kgBA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-15T11:50:41.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:befe8ba53493110021b0aefe5d589cc31c1bd559eae0184eb8f374638c5c1800",
+      "dedupeKey": "brief:opp_26cf5a104d6864efadb4:sha256:befe8ba53493110021b0aefe5d589cc31c1bd559eae0184eb8f374638c5c1800",
+      "firstSeenAt": "2026-10-15T13:55:26.514Z",
+      "lastSeenAt": "2026-10-15T13:55:26.514Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -86994,6 +87296,42 @@
       "opportunityId": "opp_90884ad35ece827a22a1",
       "sentAt": "2026-10-15T09:05:30.364Z",
       "messageId": "1560217043888902175"
+    },
+    "brief:opp_8a3f6eab864ad8534e33:sha256:7d29e061dddcda0f47e9dc689fb0c65b1eacab9c4222d450e9596fc2bbaa6a49": {
+      "status": "SENT",
+      "opportunityId": "opp_8a3f6eab864ad8534e33",
+      "sentAt": "2026-10-15T13:55:26.514Z",
+      "messageId": "1560290008890478704"
+    },
+    "brief:opp_965df194f661858f03ba:sha256:658f371e5ebe7e98d6c1bf5a4e1701736e306a970f7b5c26f92069ed175796cf": {
+      "status": "SENT",
+      "opportunityId": "opp_965df194f661858f03ba",
+      "sentAt": "2026-10-15T13:55:26.514Z",
+      "messageId": "1560290008890478704"
+    },
+    "brief:opp_26cf5a104d6864efadb4:sha256:befe8ba53493110021b0aefe5d589cc31c1bd559eae0184eb8f374638c5c1800": {
+      "status": "SENT",
+      "opportunityId": "opp_26cf5a104d6864efadb4",
+      "sentAt": "2026-10-15T13:55:26.514Z",
+      "messageId": "1560290008890478704"
+    },
+    "brief:opp_af8a424f41492f602b57:sha256:4a1b796e72bafb80abdfbe1b7f231333980c9e96b3cb681b83e553778a879109": {
+      "status": "SENT",
+      "opportunityId": "opp_af8a424f41492f602b57",
+      "sentAt": "2026-10-15T13:55:26.514Z",
+      "messageId": "1560290008890478704"
+    },
+    "brief:opp_e5097c4135d40b6531fe:sha256:e3c31fca5644871345ff398646f9db4ff5aa0cda7f5615e8f04cde297145a963": {
+      "status": "SENT",
+      "opportunityId": "opp_e5097c4135d40b6531fe",
+      "sentAt": "2026-10-15T13:55:26.514Z",
+      "messageId": "1560290008890478704"
+    },
+    "brief:opp_e2e4d7406861d13ed720:sha256:3d104d39869bf44304e24e9c00dae88bb3caee75e25a6a9e79774e841e6e6b28": {
+      "status": "SENT",
+      "opportunityId": "opp_e2e4d7406861d13ed720",
+      "sentAt": "2026-10-15T13:55:26.514Z",
+      "messageId": "1560290008890478704"
     }
   },
   "pending": {},
