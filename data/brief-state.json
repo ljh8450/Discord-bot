@@ -77502,7 +77502,7 @@
       "title": "알렉산더 왕이 밝힌 Muse 제작기: 고장 나던 AI는 어떻게 출시됐나",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-10-14T12:00:33.000Z",
+      "publishedAt": "2026-10-14T12:00:33+00:00",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -77521,7 +77521,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "feedly-cache",
+        "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-10-15T03:00:30.000Z",
@@ -77538,11 +77538,11 @@
       },
       "contentHash": "sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
       "dedupeKey": "brief:opp_972ad96076c3f881ff61:sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
-      "firstSeenAt": "2026-10-15T03:38:05.880Z",
-      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "firstSeenAt": "2026-10-15T09:05:30.364Z",
+      "lastSeenAt": "2026-10-15T09:05:30.364Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -77697,11 +77697,11 @@
       },
       "contentHash": "sha256:207fa2d942b9779347fdedb5bd9070f86406d09bd7cd9fe3265ce8d0e8b661a4",
       "dedupeKey": "brief:opp_90884ad35ece827a22a1:sha256:207fa2d942b9779347fdedb5bd9070f86406d09bd7cd9fe3265ce8d0e8b661a4",
-      "firstSeenAt": "2026-10-14T14:18:55.745Z",
-      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "firstSeenAt": "2026-10-15T09:05:30.364Z",
+      "lastSeenAt": "2026-10-15T09:05:30.364Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -78219,23 +78219,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 13,
         "communityRank": 2,
-        "contentScore": 11,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-15T03:38:05.880Z",
-      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "firstSeenAt": "2026-10-15T09:05:30.364Z",
+      "lastSeenAt": "2026-10-15T09:05:30.364Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -78317,26 +78317,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 6,
-        "communityRank": 4,
-        "contentScore": 12,
+        "communityPoints": 11,
+        "communityRank": 3,
+        "contentScore": 13,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 13,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:436e0057d779c98d86ab4facca233790fdcef3a8f862c8c39d3c84505c1ec71b",
       "dedupeKey": "brief:opp_13dd478d4f8d4772ffbc:sha256:436e0057d779c98d86ab4facca233790fdcef3a8f862c8c39d3c84505c1ec71b",
-      "firstSeenAt": "2026-10-15T03:38:05.880Z",
-      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "firstSeenAt": "2026-10-15T09:05:30.364Z",
+      "lastSeenAt": "2026-10-15T09:05:30.364Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -78366,26 +78366,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:78763edf9c990f0602d38ea0da2daf63d31a63134b6f369d4147f49b411d7c19",
       "dedupeKey": "brief:opp_30143e1094c939f5aac0:sha256:78763edf9c990f0602d38ea0da2daf63d31a63134b6f369d4147f49b411d7c19",
-      "firstSeenAt": "2026-10-15T03:38:05.880Z",
-      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "firstSeenAt": "2026-10-15T09:05:30.364Z",
+      "lastSeenAt": "2026-10-15T09:05:30.364Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -78439,6 +78439,55 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e2e4d7406861d13ed720": {
+      "id": "opp_e2e4d7406861d13ed720",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35359",
+      "canonicalUrl": "https://github.com/timescale/pg_vectorsearch",
+      "title": "Pg_vectorsearch - pgvector의 IVFFlat과 HNSW보다 빠른 인덱스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T03:48:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "pgvectorsearch는 PostgreSQL에서 고성능 근사 최근접 이웃, ANN 검색을 제공하는 확장으로, C로 구현한 PRISM 인덱스를 사용 개발팀의 1억 벡터 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35359"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 6,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3d104d39869bf44304e24e9c00dae88bb3caee75e25a6a9e79774e841e6e6b28",
+      "dedupeKey": "brief:opp_e2e4d7406861d13ed720:sha256:3d104d39869bf44304e24e9c00dae88bb3caee75e25a6a9e79774e841e6e6b28",
+      "firstSeenAt": "2026-10-15T09:05:30.364Z",
+      "lastSeenAt": "2026-10-15T09:05:30.364Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -86921,6 +86970,30 @@
       "opportunityId": "opp_40b630ec845c1d576d5c",
       "sentAt": "2026-10-15T03:38:05.880Z",
       "messageId": "1560134648343044239"
+    },
+    "brief:opp_13dd478d4f8d4772ffbc:sha256:436e0057d779c98d86ab4facca233790fdcef3a8f862c8c39d3c84505c1ec71b": {
+      "status": "SENT",
+      "opportunityId": "opp_13dd478d4f8d4772ffbc",
+      "sentAt": "2026-10-15T09:05:30.364Z",
+      "messageId": "1560217043888902175"
+    },
+    "brief:opp_30143e1094c939f5aac0:sha256:78763edf9c990f0602d38ea0da2daf63d31a63134b6f369d4147f49b411d7c19": {
+      "status": "SENT",
+      "opportunityId": "opp_30143e1094c939f5aac0",
+      "sentAt": "2026-10-15T09:05:30.364Z",
+      "messageId": "1560217043888902175"
+    },
+    "brief:opp_972ad96076c3f881ff61:sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2": {
+      "status": "SENT",
+      "opportunityId": "opp_972ad96076c3f881ff61",
+      "sentAt": "2026-10-15T09:05:30.364Z",
+      "messageId": "1560217043888902175"
+    },
+    "brief:opp_90884ad35ece827a22a1:sha256:207fa2d942b9779347fdedb5bd9070f86406d09bd7cd9fe3265ce8d0e8b661a4": {
+      "status": "SENT",
+      "opportunityId": "opp_90884ad35ece827a22a1",
+      "sentAt": "2026-10-15T09:05:30.364Z",
+      "messageId": "1560217043888902175"
     }
   },
   "pending": {},
