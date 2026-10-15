@@ -75872,8 +75872,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 11,
-        "communityRank": 19,
+        "communityPoints": 12,
+        "communityRank": 16,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -75887,8 +75887,8 @@
       },
       "contentHash": "sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
       "dedupeKey": "brief:opp_7740ba5fdaa43ac7568d:sha256:c6a40eeeee6538f769e296bb3f2631846276d6191bf2a6cc2007099d4179c0e0",
-      "firstSeenAt": "2026-10-14T14:18:55.745Z",
-      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -76968,26 +76968,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 11,
+        "communityRank": 4,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 3,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234",
       "dedupeKey": "brief:opp_6ca39844571cb6f69f81:sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234",
-      "firstSeenAt": "2026-10-14T14:18:55.745Z",
-      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -77066,23 +77066,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 6,
+        "communityPoints": 10,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
       "dedupeKey": "brief:opp_fd6289c7b13b32a17e88:sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
-      "firstSeenAt": "2026-10-14T14:18:55.745Z",
-      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -77502,7 +77502,7 @@
       "title": "알렉산더 왕이 밝힌 Muse 제작기: 고장 나던 AI는 어떻게 출시됐나",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-10-14T12:00:33+00:00",
+      "publishedAt": "2026-10-14T12:00:33.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -77521,10 +77521,10 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-14T12:00:33.000Z",
+        "latestChannelActivityAt": "2026-10-14T22:00:07.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -77538,8 +77538,8 @@
       },
       "contentHash": "sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
       "dedupeKey": "brief:opp_972ad96076c3f881ff61:sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
-      "firstSeenAt": "2026-10-14T14:18:55.745Z",
-      "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -77699,6 +77699,445 @@
       "dedupeKey": "brief:opp_90884ad35ece827a22a1:sha256:207fa2d942b9779347fdedb5bd9070f86406d09bd7cd9fe3265ce8d0e8b661a4",
       "firstSeenAt": "2026-10-14T14:18:55.745Z",
       "lastSeenAt": "2026-10-14T14:18:55.745Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d70262fa281e4f62f835": {
+      "id": "opp_d70262fa281e4f62f835",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35280",
+      "canonicalUrl": "https://taylor.town/kk-ai-2026",
+      "title": "Kevin Kelly가 2016년에 내다본 AI의 미래, 10년 뒤 다시 읽기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-13T14:43:55+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Kevin Kelly는 2016년 출간한 《The Inevitable》 에서 Google이 검색으로 AI를 훈련하고 있으며, 2026년에는 검색보다 AI가 주력 제품이 될 것으...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35280"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 12,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c5adcf858a5359b3e62e117cfaf9bf5e98120eb8d73c3b2649f073e506d3785e",
+      "dedupeKey": "brief:opp_d70262fa281e4f62f835:sha256:c5adcf858a5359b3e62e117cfaf9bf5e98120eb8d73c3b2649f073e506d3785e",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1d5859f0ded5a810ec65": {
+      "id": "opp_1d5859f0ded5a810ec65",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/amp-beyond-coding",
+      "canonicalUrl": "https://openai.com/index/amp-beyond-coding",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "summaryEvidence": [
+        "https://openai.com/index/amp-beyond-coding"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d03c1435c0c48f79129af3a7baf1b1fb8c0762e9d814dae6d012095ec537bd9d",
+      "dedupeKey": "brief:opp_1d5859f0ded5a810ec65:sha256:d03c1435c0c48f79129af3a7baf1b1fb8c0762e9d814dae6d012095ec537bd9d",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_0bb171e8ab12e96cd578": {
+      "id": "opp_0bb171e8ab12e96cd578",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/sentinelone",
+      "canonicalUrl": "https://openai.com/index/sentinelone",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "summaryEvidence": [
+        "https://openai.com/index/sentinelone"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ae8684aae3754db4ee12e65ba9724f7dcc15c720532c8f194f25634f4a3ef446",
+      "dedupeKey": "brief:opp_0bb171e8ab12e96cd578:sha256:ae8684aae3754db4ee12e65ba9724f7dcc15c720532c8f194f25634f4a3ef446",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_1e6539dc5c00aef35f4c": {
+      "id": "opp_1e6539dc5c00aef35f4c",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/third-moment-research",
+      "canonicalUrl": "https://openai.com/index/third-moment-research",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "summaryEvidence": [
+        "https://openai.com/index/third-moment-research"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ee5f11be7fc473e3e6c60ea1e9c9d23560a0e974fa0f32121d75d9709b7639ef",
+      "dedupeKey": "brief:opp_1e6539dc5c00aef35f4c:sha256:ee5f11be7fc473e3e6c60ea1e9c9d23560a0e974fa0f32121d75d9709b7639ef",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_263644c4ce509e64e5b8": {
+      "id": "opp_263644c4ce509e64e5b8",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/block-ai-powered-security",
+      "canonicalUrl": "https://openai.com/index/block-ai-powered-security",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "summaryEvidence": [
+        "https://openai.com/index/block-ai-powered-security"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9986c884597352950f4730949e51f6cdd435caf821a271fe824c1e3576d98921",
+      "dedupeKey": "brief:opp_263644c4ce509e64e5b8:sha256:9986c884597352950f4730949e51f6cdd435caf821a271fe824c1e3576d98921",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_44a70f2ff6c1d28abec9": {
+      "id": "opp_44a70f2ff6c1d28abec9",
+      "type": "CONTENT",
+      "sourceId": "anthropic-news",
+      "externalId": "/news/2026-us-midterms",
+      "canonicalUrl": "https://www.anthropic.com/news/2026-us-midterms",
+      "title": "Preparing for the 2026 US midterms",
+      "organization": "Anthropic",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "Claude",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Policy · Anthropic 공식 업데이트",
+      "summaryEvidence": [
+        "https://www.anthropic.com/news/2026-us-midterms"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "contentCategory": "Policy",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b27109f5af09169bf3d410cb0f14f605f5a0ce292e6307425f4cd81ce44b4a5d",
+      "dedupeKey": "brief:opp_44a70f2ff6c1d28abec9:sha256:b27109f5af09169bf3d410cb0f14f605f5a0ce292e6307425f4cd81ce44b4a5d",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a55520210c9a94dfc842": {
+      "id": "opp_a55520210c9a94dfc842",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99506",
+      "canonicalUrl": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
+      "title": "GitHub availability report: September 2026",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 20:01:35 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "summaryEvidence": [
+        "https://github.blog/news-insights/company-news/github-availability-report-september-2026/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:23eb64aaf37a26f6af5be11a3357cc17cc1843c599e3fe651a0c0ad4739465d9",
+      "dedupeKey": "brief:opp_a55520210c9a94dfc842:sha256:23eb64aaf37a26f6af5be11a3357cc17cc1843c599e3fe651a0c0ad4739465d9",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e4c539416c839c3b4fdc": {
+      "id": "opp_e4c539416c839c3b4fdc",
+      "type": "CONTENT",
+      "sourceId": "github-blog",
+      "externalId": "https://github.blog/?p=99364",
+      "canonicalUrl": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "organization": "GitHub",
+      "status": "OPEN",
+      "publishedAt": "Wed, 14 Oct 2026 19:11:33 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "GitHub",
+        "Copilot"
+      ],
+      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The Gi",
+      "summaryEvidence": [
+        "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:854b51ec4e6f822ca4df689290f03c2ce3c9681540ee556958c6778f38725586",
+      "dedupeKey": "brief:opp_e4c539416c839c3b4fdc:sha256:854b51ec4e6f822ca4df689290f03c2ce3c9681540ee556958c6778f38725586",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_40b630ec845c1d576d5c": {
+      "id": "opp_40b630ec845c1d576d5c",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:utMfI1DXTOE",
+      "canonicalUrl": "https://www.youtube.com/watch?v=utMfI1DXTOE",
+      "title": "[한영자막] 생성은 저렴하지만 검토는 비쌉니다: 엉터리 AI 코드 배포를 멈추는 법",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T22:00:07.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 도구로 코드 생성이 너무 쉬워진 시대, 진짜 병목은 어디에 있을까요? G2i의 엔지니어링 매니저 가브리엘 마르티네스가 AI로 만들어진 엉터리 코드(AI Slop)의 본질과 이를 방지하는 실전 아키텍처 원칙을 명쾌하게 설명합니다. 📌 주요 내용: • AI 슬롭(Slop)의 본질: 슬롭은 단순히 AI가 작성한 코드가 아니라, '생각과 판단이 끝나기 전에 완성된 것처럼 보이는 작업물'입니다. • 코드는 자산이 아니라 부채: 에이전트가 코드를 쏟아낼수록 코드베이스는 더 거대한 진흙탕이 되며,",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=utMfI1DXTOE"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-14T22:00:07.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4c171f5b6c08f6f9617b0afbabe033c7a61334d30bcd1f575eabd4977d1d4db7",
+      "dedupeKey": "brief:opp_40b630ec845c1d576d5c:sha256:4c171f5b6c08f6f9617b0afbabe033c7a61334d30bcd1f575eabd4977d1d4db7",
+      "firstSeenAt": "2026-10-15T00:05:30.492Z",
+      "lastSeenAt": "2026-10-15T00:05:30.492Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -86112,6 +86551,42 @@
       "opportunityId": "opp_d8595fc588e058b092bd",
       "sentAt": "2026-10-14T14:18:55.745Z",
       "messageId": "1559933531675959359"
+    },
+    "brief:opp_a55520210c9a94dfc842:sha256:23eb64aaf37a26f6af5be11a3357cc17cc1843c599e3fe651a0c0ad4739465d9": {
+      "status": "SENT",
+      "opportunityId": "opp_a55520210c9a94dfc842",
+      "sentAt": "2026-10-15T00:05:30.492Z",
+      "messageId": "1560081148988620842"
+    },
+    "brief:opp_e4c539416c839c3b4fdc:sha256:854b51ec4e6f822ca4df689290f03c2ce3c9681540ee556958c6778f38725586": {
+      "status": "SENT",
+      "opportunityId": "opp_e4c539416c839c3b4fdc",
+      "sentAt": "2026-10-15T00:05:30.492Z",
+      "messageId": "1560081148988620842"
+    },
+    "brief:opp_1d5859f0ded5a810ec65:sha256:d03c1435c0c48f79129af3a7baf1b1fb8c0762e9d814dae6d012095ec537bd9d": {
+      "status": "SENT",
+      "opportunityId": "opp_1d5859f0ded5a810ec65",
+      "sentAt": "2026-10-15T00:05:30.492Z",
+      "messageId": "1560081148988620842"
+    },
+    "brief:opp_1e6539dc5c00aef35f4c:sha256:ee5f11be7fc473e3e6c60ea1e9c9d23560a0e974fa0f32121d75d9709b7639ef": {
+      "status": "SENT",
+      "opportunityId": "opp_1e6539dc5c00aef35f4c",
+      "sentAt": "2026-10-15T00:05:30.492Z",
+      "messageId": "1560081148988620842"
+    },
+    "brief:opp_44a70f2ff6c1d28abec9:sha256:b27109f5af09169bf3d410cb0f14f605f5a0ce292e6307425f4cd81ce44b4a5d": {
+      "status": "SENT",
+      "opportunityId": "opp_44a70f2ff6c1d28abec9",
+      "sentAt": "2026-10-15T00:05:30.492Z",
+      "messageId": "1560081148988620842"
+    },
+    "brief:opp_6ca39844571cb6f69f81:sha256:60dd161bb26d741df943aac65684b5c40ad4d39c6495f6abf794dbfa2d5d2234": {
+      "status": "SENT",
+      "opportunityId": "opp_6ca39844571cb6f69f81",
+      "sentAt": "2026-10-15T00:05:30.492Z",
+      "messageId": "1560081148988620842"
     }
   },
   "pending": {},
