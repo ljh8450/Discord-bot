@@ -77066,8 +77066,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 10,
-        "communityRank": 5,
+        "communityPoints": 11,
+        "communityRank": 18,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -77081,8 +77081,8 @@
       },
       "contentHash": "sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
       "dedupeKey": "brief:opp_fd6289c7b13b32a17e88:sha256:d0608fa1ab39d49ec6e75e6218b36233fb8bb6cd5c4c36b95ff18a9c545db409",
-      "firstSeenAt": "2026-10-15T00:05:30.492Z",
-      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -77524,7 +77524,7 @@
         "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-14T22:00:07.000Z",
+        "latestChannelActivityAt": "2026-10-15T03:00:30.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -77538,8 +77538,8 @@
       },
       "contentHash": "sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
       "dedupeKey": "brief:opp_972ad96076c3f881ff61:sha256:ea2632f05955d8b958c697dc882c833de239ca2ec24dbee2005307326ecb4bc2",
-      "firstSeenAt": "2026-10-15T00:05:30.492Z",
-      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -77842,11 +77842,11 @@
       },
       "contentHash": "sha256:ae8684aae3754db4ee12e65ba9724f7dcc15c720532c8f194f25634f4a3ef446",
       "dedupeKey": "brief:opp_0bb171e8ab12e96cd578:sha256:ae8684aae3754db4ee12e65ba9724f7dcc15c720532c8f194f25634f4a3ef446",
-      "firstSeenAt": "2026-10-15T00:05:30.492Z",
-      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -77938,11 +77938,11 @@
       },
       "contentHash": "sha256:9986c884597352950f4730949e51f6cdd435caf821a271fe824c1e3576d98921",
       "dedupeKey": "brief:opp_263644c4ce509e64e5b8:sha256:9986c884597352950f4730949e51f6cdd435caf821a271fe824c1e3576d98921",
-      "firstSeenAt": "2026-10-15T00:05:30.492Z",
-      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -78122,7 +78122,7 @@
         "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-14T22:00:07.000Z",
+        "latestChannelActivityAt": "2026-10-15T03:00:30.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -78136,11 +78136,309 @@
       },
       "contentHash": "sha256:4c171f5b6c08f6f9617b0afbabe033c7a61334d30bcd1f575eabd4977d1d4db7",
       "dedupeKey": "brief:opp_40b630ec845c1d576d5c:sha256:4c171f5b6c08f6f9617b0afbabe033c7a61334d30bcd1f575eabd4977d1d4db7",
-      "firstSeenAt": "2026-10-15T00:05:30.492Z",
-      "lastSeenAt": "2026-10-15T00:05:30.492Z",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_6627d6e1cd840d1e8a47": {
+      "id": "opp_6627d6e1cd840d1e8a47",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35381",
+      "canonicalUrl": "https://arca.live/b/aihomelab/185810092",
+      "title": "동네 치과의 AX 전환기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T09:40:03+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "생물학을 전공한 치과 원장이 AI 코딩 에이전트와 로컬 AI로 병원 업무를 직접 자동화한 사례 네트워크 공사비가 너무 비싸서 직접 랜선찍고 스위...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35381"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 19,
+        "communityRank": 1,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 1
+        }
+      },
+      "contentHash": "sha256:0f7406c2ff117e2fc2b92f886432a829c0554315372f0da4a62204e334074651",
+      "dedupeKey": "brief:opp_6627d6e1cd840d1e8a47:sha256:0f7406c2ff117e2fc2b92f886432a829c0554315372f0da4a62204e334074651",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e9b21ad75998e1d8ea13": {
+      "id": "opp_e9b21ad75998e1d8ea13",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35341",
+      "canonicalUrl": "https://www.cphiri.dev/presentations/recreational-programming",
+      "title": "즐거움을 위한 프로그래밍",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-14T18:42:15+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "즐거움을 위한 프로그래밍은 업무, 돈, 외부 요구가 아니라 코딩 자체의 즐거움을 위해 만드는 활동이며, 핵심 기준은 내적 동기와 외부 압력의 차...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35341"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 2,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
+      "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c9a4b025dc1be4816f11": {
+      "id": "opp_c9a4b025dc1be4816f11",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35357",
+      "canonicalUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "title": "AI 에이전트가 ‘통제 불능’이 된 게 아니다. 프론티어 AI 랩들이 보안의 기본을 건너뛰고 있다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T03:42:31+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "보안 전문가들은 AI 모델의 외부 시스템 무단 접근 사건을 에이전트의 일탈보다 연구소의 격리와 감시 실패로 봄. 수십 년간 알려진 보안 관행을 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35357"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:e62aa3053bda2d0827b74ad57b36f4fd4d798c60e8befcd53d639898c62c59d3",
+      "dedupeKey": "brief:opp_c9a4b025dc1be4816f11:sha256:e62aa3053bda2d0827b74ad57b36f4fd4d798c60e8befcd53d639898c62c59d3",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_13dd478d4f8d4772ffbc": {
+      "id": "opp_13dd478d4f8d4772ffbc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35355",
+      "canonicalUrl": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "title": "게임 개발용 AI 하네스를 설계하는 방법",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T02:39:53+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "게임에서 LLM을 효과적으로 쓰려면 코드뿐 아니라 게임 상태, 데이터, 실행 결과를 에이전트가 읽고 조작할 수 있게 만들어야 함 결정론적 상태 재...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35355"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 4,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:436e0057d779c98d86ab4facca233790fdcef3a8f862c8c39d3c84505c1ec71b",
+      "dedupeKey": "brief:opp_13dd478d4f8d4772ffbc:sha256:436e0057d779c98d86ab4facca233790fdcef3a8f862c8c39d3c84505c1ec71b",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_30143e1094c939f5aac0": {
+      "id": "opp_30143e1094c939f5aac0",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35376",
+      "canonicalUrl": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host",
+      "title": "내가 셀프호스팅하는 것들 - N100 미니 PC로 서비스 28개 운영하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T09:12:38+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "스트리밍 비용과 끊임없는 추천, 자동 재생을 피하려고 Jellyfin으로 전환한 뒤, 1년 반 동안 사진, 음악, 재무 관리 등으로 셀프호스팅을 확장한 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35376"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:78763edf9c990f0602d38ea0da2daf63d31a63134b6f369d4147f49b411d7c19",
+      "dedupeKey": "brief:opp_30143e1094c939f5aac0:sha256:78763edf9c990f0602d38ea0da2daf63d31a63134b6f369d4147f49b411d7c19",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b1bf2093f89d4673bb52": {
+      "id": "opp_b1bf2093f89d4673bb52",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:l3HyFh6Dg4w",
+      "canonicalUrl": "https://www.youtube.com/watch?v=l3HyFh6Dg4w",
+      "title": "[한영자막] 벤더 락인 없는 AI의 미래를 만드는 방법입니다",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T03:00:30.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "무제한 AI 예산의 시대는 끝났습니다. 특정 AI 도구나 LLM 벤더에 종속되지 않고 실질적인 ROI를 증명하며 자유롭게 교체 가능한 AI 인프라를 구축하는 핵심 전략을 소개합니다. Tailscale의 오픈소스 AI 게이트웨이 Aperture 개발을 이끄는 Remy Guercio가 AI 도입 4대 핵심 계층(모델, 데이터·MCP 커넥터, 인터페이스, 샌드박스)의 구조와, 공유 API 키 대신 식별(Identity) 기반 인증·모델별 예산 제어·중앙 집중 로깅으로 벤더 락인을 극복하는 방법을 명쾌하",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=l3HyFh6Dg4w"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-15T03:00:30.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fd86aa3333eb3a42def58b1dcdd73f9eadcdf838f694b2e113871409b4d876e4",
+      "dedupeKey": "brief:opp_b1bf2093f89d4673bb52:sha256:fd86aa3333eb3a42def58b1dcdd73f9eadcdf838f694b2e113871409b4d876e4",
+      "firstSeenAt": "2026-10-15T03:38:05.880Z",
+      "lastSeenAt": "2026-10-15T03:38:05.880Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -86587,6 +86885,42 @@
       "opportunityId": "opp_6ca39844571cb6f69f81",
       "sentAt": "2026-10-15T00:05:30.492Z",
       "messageId": "1560081148988620842"
+    },
+    "brief:opp_b1bf2093f89d4673bb52:sha256:fd86aa3333eb3a42def58b1dcdd73f9eadcdf838f694b2e113871409b4d876e4": {
+      "status": "SENT",
+      "opportunityId": "opp_b1bf2093f89d4673bb52",
+      "sentAt": "2026-10-15T03:38:05.880Z",
+      "messageId": "1560134648343044239"
+    },
+    "brief:opp_c9a4b025dc1be4816f11:sha256:e62aa3053bda2d0827b74ad57b36f4fd4d798c60e8befcd53d639898c62c59d3": {
+      "status": "SENT",
+      "opportunityId": "opp_c9a4b025dc1be4816f11",
+      "sentAt": "2026-10-15T03:38:05.880Z",
+      "messageId": "1560134648343044239"
+    },
+    "brief:opp_0bb171e8ab12e96cd578:sha256:ae8684aae3754db4ee12e65ba9724f7dcc15c720532c8f194f25634f4a3ef446": {
+      "status": "SENT",
+      "opportunityId": "opp_0bb171e8ab12e96cd578",
+      "sentAt": "2026-10-15T03:38:05.880Z",
+      "messageId": "1560134648343044239"
+    },
+    "brief:opp_263644c4ce509e64e5b8:sha256:9986c884597352950f4730949e51f6cdd435caf821a271fe824c1e3576d98921": {
+      "status": "SENT",
+      "opportunityId": "opp_263644c4ce509e64e5b8",
+      "sentAt": "2026-10-15T03:38:05.880Z",
+      "messageId": "1560134648343044239"
+    },
+    "brief:opp_6627d6e1cd840d1e8a47:sha256:0f7406c2ff117e2fc2b92f886432a829c0554315372f0da4a62204e334074651": {
+      "status": "SENT",
+      "opportunityId": "opp_6627d6e1cd840d1e8a47",
+      "sentAt": "2026-10-15T03:38:05.880Z",
+      "messageId": "1560134648343044239"
+    },
+    "brief:opp_40b630ec845c1d576d5c:sha256:4c171f5b6c08f6f9617b0afbabe033c7a61334d30bcd1f575eabd4977d1d4db7": {
+      "status": "SENT",
+      "opportunityId": "opp_40b630ec845c1d576d5c",
+      "sentAt": "2026-10-15T03:38:05.880Z",
+      "messageId": "1560134648343044239"
     }
   },
   "pending": {},
