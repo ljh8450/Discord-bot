@@ -78219,14 +78219,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 25,
-        "communityRank": 9,
-        "contentScore": 12,
+        "communityPoints": 26,
+        "communityRank": 7,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 12,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 2
@@ -78234,8 +78234,8 @@
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -78979,11 +78979,11 @@
       },
       "contentHash": "sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0",
       "dedupeKey": "brief:opp_e556b7974c2c113f6242:sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79313,7 +79313,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
+        "communityPoints": 9,
         "communityRank": 3,
         "contentScore": 10,
         "contentScoreBreakdown": {
@@ -79328,8 +79328,8 @@
       },
       "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
       "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79363,7 +79363,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 6,
-        "communityRank": 6,
+        "communityRank": 9,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -79377,11 +79377,11 @@
       },
       "contentHash": "sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64",
       "dedupeKey": "brief:opp_9dd14ec9c0c46da6ffdd:sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79621,8 +79621,8 @@
       },
       "contentHash": "sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
       "dedupeKey": "brief:opp_b3bed8b4a5e6192fa092:sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79670,8 +79670,8 @@
       },
       "contentHash": "sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
       "dedupeKey": "brief:opp_113778c532b46c9e3c69:sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79803,7 +79803,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
+        "communityPoints": 8,
         "communityRank": 4,
         "contentScore": 11,
         "contentScoreBreakdown": {
@@ -79818,8 +79818,8 @@
       },
       "contentHash": "sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
       "dedupeKey": "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79867,8 +79867,8 @@
       },
       "contentHash": "sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
       "dedupeKey": "brief:opp_9fb71941aeaa09385aab:sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -80063,11 +80063,11 @@
       },
       "contentHash": "sha256:4f797ff3a1aac5af583669e2229740780c013fad7c4247d15fe519023e06d7d5",
       "dedupeKey": "brief:opp_4231f4eea4ecc8905e26:sha256:4f797ff3a1aac5af583669e2229740780c013fad7c4247d15fe519023e06d7d5",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -80151,7 +80151,7 @@
         "feedFormat": "atom",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-16T03:00:33.000Z",
+        "latestChannelActivityAt": "2026-10-16T11:42:28.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -80165,11 +80165,215 @@
       },
       "contentHash": "sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
       "dedupeKey": "brief:opp_d10dee7606978c074995:sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
-      "firstSeenAt": "2026-10-16T09:05:28.610Z",
-      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c251fe8d4f61734fc9d7": {
+      "id": "opp_c251fe8d4f61734fc9d7",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35437",
+      "canonicalUrl": "https://zachlandes.com/trolley-problem",
+      "title": "의사결정 AI Jev, 트롤리 문제를 만나다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T06:34:09+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "문장 대신 선택과 확률을 반환하는 Jev 등 14개 모델에 트롤리 문제를 여러 방식으로 질문. 같은 상황에서도 문구와 설명 순서에 따라 사람을 구할...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35437"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 10,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8a4644d088c0d0fa191acd70d29905aa89f4e372c540341ea88a48b6587259f1",
+      "dedupeKey": "brief:opp_c251fe8d4f61734fc9d7:sha256:8a4644d088c0d0fa191acd70d29905aa89f4e372c540341ea88a48b6587259f1",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_31cb26670b3c99a76f2a": {
+      "id": "opp_31cb26670b3c99a76f2a",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ea5e32a3cc9af710ee3be46023b4609636b754d8",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-data-analysis-agent-sdbiosensor",
+      "title": "Amazon Bedrock AgentCore로 대화형 데이터 분석 에이전트를 프로덕션 아키텍처로 전환하기: SD바이오센서 사례",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 13:17:02 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "본 사례는 AWS 3A(Agentic AI Acceleration) 프로그램을 통해 고객과 진행하였습니다. 3A 프로그램은 생성형 AI 에이전트를 프로덕션에 적용하려는 고객을 대상으로, 아키텍처 리뷰와 참조 구현을 제공하는 AWS의 기술 지원 프로그램입니다. 들어가며 에스디바이오센서(SD Biosensor)는 체외진단(IVD)과 바이오센서 분야의 글로벌 기업으로, 진단 장비와 센서에서 생성되는 대규모 데이터를 다룹니다. 이러한 데이터를 담당자가 직접 쿼리를 작성하지 않고 자연어 질문만으로 조회하고",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-data-analysis-agent-sdbiosensor/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:8586361e86fb7c382a7a77691cb9b081a2b363bacec2a0b47aa2e014b7cfe4e0",
+      "dedupeKey": "brief:opp_31cb26670b3c99a76f2a:sha256:8586361e86fb7c382a7a77691cb9b081a2b363bacec2a0b47aa2e014b7cfe4e0",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5b68e5748951e04cc20d": {
+      "id": "opp_5b68e5748951e04cc20d",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:_RSwx0GvVvY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_RSwx0GvVvY",
+      "title": "동네 치과 원장님의 AX 전환기 | AI로 치과 업무를 통째로 바꿨다!",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T11:42:28+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "동네 치과 뒷방에 AI 컴퓨터가 12대? 진료도 하는 IT팀장이 된 원장님의 이야기입니다. 아카라이브 「동네 치과의 AX전환기」를 바탕으로, 한 치과 원장님이 전화·보험 서류·상담·동의서·경영 리포트 등 반복 업무를 AI와 직접 만든 시스템으로 바꿔간 과정을 풀어봤습니다. 00:00 치과 뒷방의 AI 컴퓨터 12대 00:35 랜선 공사에서 출근부 자동화까지 01:21 환자 정보는 병원 안에서 02:10 전화 전사·요약과 사라진 퇴근 02:57 보험 서류와 확인할 대상을 줄이는 AI 03:51 원장",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=_RSwx0GvVvY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-16T11:42:28.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27",
+      "dedupeKey": "brief:opp_5b68e5748951e04cc20d:sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b971d06ff312b6193545": {
+      "id": "opp_b971d06ff312b6193545",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:T8UcAUunSMw",
+      "canonicalUrl": "https://www.youtube.com/watch?v=T8UcAUunSMw",
+      "title": "[한영자막] AI 에이전트로 코딩할 때 알아야 할 5가지 개념",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T09:00:27+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI 코딩 에이전트가 기능을 직접 구현하는 시대, 개발자의 역할은 어떻게 달라질까요? IBM Technology의 Cedric Clyburn이 AI 에이전트와 함께 일할 때 알아둘 핵심 개념을 설명합니다. 스펙 주도 개발부터 컨텍스트·루프 엔지니어링, 모델의 작동 원리와 보안까지 살펴봅니다. 주요 포인트 • AI가 개발자의 업무와 개발 프로세스를 어떻게 바꾸는지 • 요구사항과 결과를 명세로 정리하는 스펙 주도 개발 • 구현에서 아키텍처 설계와 시스템 오케스트레이션으로 이동하는 역할 • 컨텍스트 엔",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=T8UcAUunSMw"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-16T11:42:28.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:34a2f4c26d9a5f3f0806bf45da6c7903f57674b3a1a2ebfaa8dd8a3996afdb7a",
+      "dedupeKey": "brief:opp_b971d06ff312b6193545:sha256:34a2f4c26d9a5f3f0806bf45da6c7903f57674b3a1a2ebfaa8dd8a3996afdb7a",
+      "firstSeenAt": "2026-10-16T13:43:55.459Z",
+      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     }
@@ -88820,6 +89024,42 @@
       "opportunityId": "opp_d2a86becfd6cb6f05e36",
       "sentAt": "2026-10-16T09:05:28.610Z",
       "messageId": "1560579440122142731"
+    },
+    "brief:opp_31cb26670b3c99a76f2a:sha256:8586361e86fb7c382a7a77691cb9b081a2b363bacec2a0b47aa2e014b7cfe4e0": {
+      "status": "SENT",
+      "opportunityId": "opp_31cb26670b3c99a76f2a",
+      "sentAt": "2026-10-16T13:43:55.459Z",
+      "messageId": "1560649498022252605"
+    },
+    "brief:opp_4231f4eea4ecc8905e26:sha256:4f797ff3a1aac5af583669e2229740780c013fad7c4247d15fe519023e06d7d5": {
+      "status": "SENT",
+      "opportunityId": "opp_4231f4eea4ecc8905e26",
+      "sentAt": "2026-10-16T13:43:55.459Z",
+      "messageId": "1560649498022252605"
+    },
+    "brief:opp_b971d06ff312b6193545:sha256:34a2f4c26d9a5f3f0806bf45da6c7903f57674b3a1a2ebfaa8dd8a3996afdb7a": {
+      "status": "SENT",
+      "opportunityId": "opp_b971d06ff312b6193545",
+      "sentAt": "2026-10-16T13:43:55.459Z",
+      "messageId": "1560649498022252605"
+    },
+    "brief:opp_c251fe8d4f61734fc9d7:sha256:8a4644d088c0d0fa191acd70d29905aa89f4e372c540341ea88a48b6587259f1": {
+      "status": "SENT",
+      "opportunityId": "opp_c251fe8d4f61734fc9d7",
+      "sentAt": "2026-10-16T13:43:55.459Z",
+      "messageId": "1560649498022252605"
+    },
+    "brief:opp_9dd14ec9c0c46da6ffdd:sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64": {
+      "status": "SENT",
+      "opportunityId": "opp_9dd14ec9c0c46da6ffdd",
+      "sentAt": "2026-10-16T13:43:55.459Z",
+      "messageId": "1560649498022252605"
+    },
+    "brief:opp_e556b7974c2c113f6242:sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0": {
+      "status": "SENT",
+      "opportunityId": "opp_e556b7974c2c113f6242",
+      "sentAt": "2026-10-16T13:43:55.459Z",
+      "messageId": "1560649498022252605"
     }
   },
   "pending": {},
