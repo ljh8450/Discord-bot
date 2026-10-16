@@ -78219,8 +78219,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 17,
-        "communityRank": 4,
+        "communityPoints": 18,
+        "communityRank": 15,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -78234,8 +78234,8 @@
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-16T00:05:31.757Z",
-      "lastSeenAt": "2026-10-16T00:05:31.757Z",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -78930,11 +78930,11 @@
       },
       "contentHash": "sha256:8f4fac54861a09c4b3df436e5630f50f480f5e020904e5a73fa52e86b33f82a6",
       "dedupeKey": "brief:opp_502674448fac0568c349:sha256:8f4fac54861a09c4b3df436e5630f50f480f5e020904e5a73fa52e86b33f82a6",
-      "firstSeenAt": "2026-10-16T00:05:31.757Z",
-      "lastSeenAt": "2026-10-16T00:05:31.757Z",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -78979,8 +78979,8 @@
       },
       "contentHash": "sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0",
       "dedupeKey": "brief:opp_e556b7974c2c113f6242:sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0",
-      "firstSeenAt": "2026-10-16T00:05:31.757Z",
-      "lastSeenAt": "2026-10-16T00:05:31.757Z",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79190,7 +79190,7 @@
       "title": "[한영자막] 코딩 에이전트의 Agentic Search와 Vector Search, 직접 평가해봤습니다 — Braintrust",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-10-15T22:00:13+00:00",
+      "publishedAt": "2026-10-15T22:00:13.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -79209,7 +79209,7 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-10-15T22:00:13.000Z",
@@ -79226,11 +79226,11 @@
       },
       "contentHash": "sha256:3fc0fa3dd4cdb30581eee97c625456b6215cac0b4c2877cd61022e83df146d34",
       "dedupeKey": "brief:opp_ac07591d9a8e01aba225:sha256:3fc0fa3dd4cdb30581eee97c625456b6215cac0b4c2877cd61022e83df146d34",
-      "firstSeenAt": "2026-10-16T00:05:31.757Z",
-      "lastSeenAt": "2026-10-16T00:05:31.757Z",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79281,6 +79281,496 @@
       "dedupeKey": "brief:opp_19729d9c9c8f7fba4bfc:sha256:ed446a0f96b9fb5a91922f62a2891894cb78726085b3ba68b049de1c4e6ef8dc",
       "firstSeenAt": "2026-10-16T00:05:31.757Z",
       "lastSeenAt": "2026-10-16T00:05:31.757Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_060dac21d93755a891ee": {
+      "id": "opp_060dac21d93755a891ee",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35390",
+      "canonicalUrl": "https://tinylittleoffice.com/",
+      "title": "Tiny Little Office - 링크 자체가 문서인 무료 웹 오피스",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-15T12:31:26+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "문서 내용이 링크 안에 담겨, 계정 없이 작성하고 주소를 복사하는 것만으로 공유할 수 있는 무료 웹 오피스 링크를 받은 사람이 문서를 수정하면 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35390"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 1,
+        "contentScore": 10,
+        "contentScoreBreakdown": {
+          "total": 10,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
+      "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9dd14ec9c0c46da6ffdd": {
+      "id": "opp_9dd14ec9c0c46da6ffdd",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35433",
+      "canonicalUrl": "https://www.krea.ai/krea-3",
+      "title": "Krea 3 - 필요한 부분만 바꾸는 고속 이미지 편집 모델",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T04:40:06+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "제품의 외형과 장면 구성을 유지하면서 배경 변경, 객체 제거, 광고 이미지 변형 등을 처리하는 이미지 편집 모델 이미지 전체를 다시 그리는 대신...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35433"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 2,
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64",
+      "dedupeKey": "brief:opp_9dd14ec9c0c46da6ffdd:sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_93e86ad5880bc1545939": {
+      "id": "opp_93e86ad5880bc1545939",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35447",
+      "canonicalUrl": "https://x.com/domschats/status/2109071150089445424",
+      "title": "월간 소셜 조회수 0에서 1억 회까지 늘리는 3단계 전략",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T09:37:19+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "초기에는 조회수보다 제품에 관심 있는 잠재 고객을 모으는 것이 중요. 제품과 무관한 바이럴 콘텐츠로 늘린 팔로워는 이후 제품 콘텐츠에 반응하...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35447"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:abd310b82abbaecf77a0bd198a650071841939054bad2d8950eace02e09c159a",
+      "dedupeKey": "brief:opp_93e86ad5880bc1545939:sha256:abd310b82abbaecf77a0bd198a650071841939054bad2d8950eace02e09c159a",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d2a86becfd6cb6f05e36": {
+      "id": "opp_d2a86becfd6cb6f05e36",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/sullivan-cromwell",
+      "canonicalUrl": "https://openai.com/index/sullivan-cromwell",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "summaryEvidence": [
+        "https://openai.com/index/sullivan-cromwell"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4469a50175c66535dcac7bbc7207513c6c35b28022a813d76f3b7a8f954a0f46",
+      "dedupeKey": "brief:opp_d2a86becfd6cb6f05e36:sha256:4469a50175c66535dcac7bbc7207513c6c35b28022a813d76f3b7a8f954a0f46",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_74e1d41e7b24fff84d02": {
+      "id": "opp_74e1d41e7b24fff84d02",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "c8de732d5a709464b8af621ddd053d0a800cc9c2",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/lotte-department-store-ai-biz-center",
+      "title": "롯데백화점의 생성형 AI 기반 파트너 제안 채널 ‘AI 비즈센터’ 구축기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 02:40:13 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "AI 비즈센터 키 비주얼 롯데백화점은 수천 개의 입점 브랜드 및 파트너사와 협력하며 입점, 계약, 행사 기획, 마케팅 제휴 등 다양한 비즈니스 프로세스를 운영하고 있습니다. 고객용 앱에서 AI 컨시어지 ‘더스틴‘을 운영하는 등 생성형 AI를 고객 접점에 적용해 왔으며, 이번에는 그 활용 범위를 파트너사의 입점 및 협업 지원 영역으로 확장했습니다. 롯데백화점은 파트너사의 정보 탐색과 제안 준비, 제안서 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/lotte-department-store-ai-biz-center/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:367c7780f5b9dd20737d487dfdc575e6e7d019503efbee9b90cc5ea976470123",
+      "dedupeKey": "brief:opp_74e1d41e7b24fff84d02:sha256:367c7780f5b9dd20737d487dfdc575e6e7d019503efbee9b90cc5ea976470123",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5bd07ce1b10ba07e0c6b": {
+      "id": "opp_5bd07ce1b10ba07e0c6b",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "fe20cda766c526acdff7b9c1c6f1e76c51a116d3",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/accelerating-product-engineering-with-teamcenter-simulation-on-aws",
+      "title": "AWS에서 Teamcenter Simulation으로 제품 개발 가속하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 01:13:39 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 AWS for Industries 블로그에 게시된 Accelerating Product Engineering with Teamcenter Simulation on AWS by Chandan Murthy, Vedanth Srinivasan, and Wouter Dehandschutter를 한국어로 번역 및 편집하였습니다. (원문 보기) 오늘날 빠르게 변화하는 경쟁적인 제조 환경에서 조직들은 제품 개발 프로세스를 가속화하고 최적화하기 위해 엔지니어링 시뮬레이션과 같은 가상 엔지니어링 워크플로",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/accelerating-product-engineering-with-teamcenter-simulation-on-aws/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d0a0a08a334bef8bfd1d9da136184f7f20fc583ea691a831c907fc64c7774cef",
+      "dedupeKey": "brief:opp_5bd07ce1b10ba07e0c6b:sha256:d0a0a08a334bef8bfd1d9da136184f7f20fc583ea691a831c907fc64c7774cef",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_b3bed8b4a5e6192fa092": {
+      "id": "opp_b3bed8b4a5e6192fa092",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "ee62560f5be1b965dbd6b98d59e6273f7c80d5ee",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/accelerate-teamcenter-simulation-with-aws-parallelcluster",
+      "title": "AWS ParallelCluster로 Teamcenter 시뮬레이션 가속하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 01:12:27 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "이 글은 AWS for Industries 블로그에 게시된 Run HPC Simulations faster with Siemens Teamcenter and AWS ParallelCluster by Chandan Murthy, Amanda Greer, and Ramin Torabi를 한국어로 번역 및 편집하였습니다. (원문 보기) 제조 조직은 이제 Teamcenter Simulation을 AWS ParallelCluster와 통합하여 시뮬레이션 주기 시간을 며칠에서 몇 시간으로 단축할 수 있습니다",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/accelerate-teamcenter-simulation-with-aws-parallelcluster/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
+      "dedupeKey": "brief:opp_b3bed8b4a5e6192fa092:sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_113778c532b46c9e3c69": {
+      "id": "opp_113778c532b46c9e3c69",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "6a76ab9ac2953e8f2e01cfded986427356412d53",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/law-and-company-hackathon-voc-agent",
+      "title": "AWS X 로앤컴퍼니 AI 해커톤 : VOC 자동 조사 에이전트 “민붕이” 개발기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 00:46:43 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "로앤컴퍼니(Law&amp;Company)는 법률서비스의 대중화와 선진화를 목표로 하는 리걸테크 스타트업입니다. 현재 로앤컴퍼니에서는 법률 종합 포털 ‘로톡(lawtalk)’, AI 기반 통합 법률정보 서비스 ‘빅케이스(BigCase)’, 국내 최초이자 유일한 상용 법률 AI 서비스 ‘슈퍼로이어(SuperLawyer)’ 등의 서비스를 제공하고 있으며, 최신 AI 기술을 다양한 서비스에 적극 활용하여 법률 업무의 생산성과 완성도를 높이기 위해 노력하고 있습니다. 지난 6월, 로앤컴퍼니는 구성원의 반복",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/law-and-company-hackathon-voc-agent/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
+      "dedupeKey": "brief:opp_113778c532b46c9e3c69:sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_dd13d547fe7005e5276c": {
+      "id": "opp_dd13d547fe7005e5276c",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/package-management-2",
+      "canonicalUrl": "https://toss.tech/article/package-management-2",
+      "title": "토스뱅크가 패키지를 관리하는 방식 #2: 토스뱅크 패키지의 세 가지 기준",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 01:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "안정성, 예측 가능성, 디버깅 편의성. 패키지가 갖춰야 할 세 가지 기준과, 문법 변환과 번들링을 사용하는 서비스에 맡긴 이유를 소개해요.",
+      "summaryEvidence": [
+        "https://toss.tech/article/package-management-2"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:fcf15093cace51e0120366dcd41cf23fa33dce3be1a859cd9956bdcc5be80d0f",
+      "dedupeKey": "brief:opp_dd13d547fe7005e5276c:sha256:fcf15093cace51e0120366dcd41cf23fa33dce3be1a859cd9956bdcc5be80d0f",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_810e4146692113740ff2": {
+      "id": "opp_810e4146692113740ff2",
+      "type": "CONTENT",
+      "sourceId": "lycorp-tech",
+      "externalId": "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
+      "canonicalUrl": "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
+      "title": "AI로 E2E 회귀 테스트 자동화하기: ‘딸깍’을 파이프라인으로 바꾸기까지",
+      "organization": "LINE·LY 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 02:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터",
+        "AI"
+      ],
+      "summary": "들어가며안녕하세요. LINE Plus에서 대만 Giftshop 서비스 QA를 담당하고 있는 김혜영입니다.최근 AI를 테스트 자동화에 활용하려는 다양한 시도와 실제 적용 사례를 접하...",
+      "summaryEvidence": [
+        "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:9b9f7a75979708f4e321bb4319de086ba6ce8a96de610fb023386ab2e9219485",
+      "dedupeKey": "brief:opp_810e4146692113740ff2:sha256:9b9f7a75979708f4e321bb4319de086ba6ce8a96de610fb023386ab2e9219485",
+      "firstSeenAt": "2026-10-16T03:34:08.186Z",
+      "lastSeenAt": "2026-10-16T03:34:08.186Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -87862,6 +88352,42 @@
       "opportunityId": "opp_19729d9c9c8f7fba4bfc",
       "sentAt": "2026-10-16T00:05:31.757Z",
       "messageId": "1560443542948814859"
+    },
+    "brief:opp_810e4146692113740ff2:sha256:9b9f7a75979708f4e321bb4319de086ba6ce8a96de610fb023386ab2e9219485": {
+      "status": "SENT",
+      "opportunityId": "opp_810e4146692113740ff2",
+      "sentAt": "2026-10-16T03:34:08.186Z",
+      "messageId": "1560496038731849792"
+    },
+    "brief:opp_5bd07ce1b10ba07e0c6b:sha256:d0a0a08a334bef8bfd1d9da136184f7f20fc583ea691a831c907fc64c7774cef": {
+      "status": "SENT",
+      "opportunityId": "opp_5bd07ce1b10ba07e0c6b",
+      "sentAt": "2026-10-16T03:34:08.186Z",
+      "messageId": "1560496038731849792"
+    },
+    "brief:opp_74e1d41e7b24fff84d02:sha256:367c7780f5b9dd20737d487dfdc575e6e7d019503efbee9b90cc5ea976470123": {
+      "status": "SENT",
+      "opportunityId": "opp_74e1d41e7b24fff84d02",
+      "sentAt": "2026-10-16T03:34:08.186Z",
+      "messageId": "1560496038731849792"
+    },
+    "brief:opp_dd13d547fe7005e5276c:sha256:fcf15093cace51e0120366dcd41cf23fa33dce3be1a859cd9956bdcc5be80d0f": {
+      "status": "SENT",
+      "opportunityId": "opp_dd13d547fe7005e5276c",
+      "sentAt": "2026-10-16T03:34:08.186Z",
+      "messageId": "1560496038731849792"
+    },
+    "brief:opp_502674448fac0568c349:sha256:8f4fac54861a09c4b3df436e5630f50f480f5e020904e5a73fa52e86b33f82a6": {
+      "status": "SENT",
+      "opportunityId": "opp_502674448fac0568c349",
+      "sentAt": "2026-10-16T03:34:08.186Z",
+      "messageId": "1560496038731849792"
+    },
+    "brief:opp_ac07591d9a8e01aba225:sha256:3fc0fa3dd4cdb30581eee97c625456b6215cac0b4c2877cd61022e83df146d34": {
+      "status": "SENT",
+      "opportunityId": "opp_ac07591d9a8e01aba225",
+      "sentAt": "2026-10-16T03:34:08.186Z",
+      "messageId": "1560496038731849792"
     }
   },
   "pending": {},
