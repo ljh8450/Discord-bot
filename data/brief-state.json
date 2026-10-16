@@ -78219,23 +78219,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 18,
-        "communityRank": 15,
-        "contentScore": 11,
+        "communityPoints": 25,
+        "communityRank": 9,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 1
+          "community": 2
         }
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -78979,8 +78979,8 @@
       },
       "contentHash": "sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0",
       "dedupeKey": "brief:opp_e556b7974c2c113f6242:sha256:c4dd0a9be2670e980f07f0d97a77082c5ee13612c23b9b25c535242c69042be0",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79313,8 +79313,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 1,
+        "communityPoints": 8,
+        "communityRank": 3,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -79328,8 +79328,8 @@
       },
       "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
       "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79362,8 +79362,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 2,
+        "communityPoints": 6,
+        "communityRank": 6,
         "contentScore": 12,
         "contentScoreBreakdown": {
           "total": 12,
@@ -79377,8 +79377,8 @@
       },
       "contentHash": "sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64",
       "dedupeKey": "brief:opp_9dd14ec9c0c46da6ffdd:sha256:586d11f4b753841648e65f3c26cb318c49e77ccba3f051e2774fb3d954371c64",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79411,26 +79411,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 5,
-        "communityRank": 3,
-        "contentScore": 11,
+        "communityPoints": 16,
+        "communityRank": 1,
+        "contentScore": 12,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 12,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 3,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:abd310b82abbaecf77a0bd198a650071841939054bad2d8950eace02e09c159a",
       "dedupeKey": "brief:opp_93e86ad5880bc1545939:sha256:abd310b82abbaecf77a0bd198a650071841939054bad2d8950eace02e09c159a",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79474,11 +79474,11 @@
       },
       "contentHash": "sha256:4469a50175c66535dcac7bbc7207513c6c35b28022a813d76f3b7a8f954a0f46",
       "dedupeKey": "brief:opp_d2a86becfd6cb6f05e36:sha256:4469a50175c66535dcac7bbc7207513c6c35b28022a813d76f3b7a8f954a0f46",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79621,8 +79621,8 @@
       },
       "contentHash": "sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
       "dedupeKey": "brief:opp_b3bed8b4a5e6192fa092:sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79670,8 +79670,8 @@
       },
       "contentHash": "sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
       "dedupeKey": "brief:opp_113778c532b46c9e3c69:sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
-      "firstSeenAt": "2026-10-16T03:34:08.186Z",
-      "lastSeenAt": "2026-10-16T03:34:08.186Z",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79774,6 +79774,402 @@
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5ec17185782781722230": {
+      "id": "opp_5ec17185782781722230",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35429",
+      "canonicalUrl": "https://already-clean.goodfire.com/",
+      "title": "신경망은 이미 깔끔하다 - 뉴런과 회로를 직접 읽는 AI 해석 연구",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T04:05:57+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "신경망을 먼저 분해하거나 재구성하지 않아도, 원래 뉴런과 회로를 직접 연구해 이해할 수 있다는 가설. 무관한 개념이 뒤섞여 보이던 사례 상당수...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35429"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 4,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
+      "dedupeKey": "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_9fb71941aeaa09385aab": {
+      "id": "opp_9fb71941aeaa09385aab",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35424",
+      "canonicalUrl": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "title": "수학자들이 왜 우는지 나는 안다",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T01:44:13+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "OpenAI가 수백 건의 수학적 성과를 공개한 뒤, 필즈상 수상자 Hugo Duminil-Copin과 수학자 Steven Strogatz는 경탄과 함께 눈물을 흘림. 평생의 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35424"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 7,
+        "communityRank": 5,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
+      "dedupeKey": "brief:opp_9fb71941aeaa09385aab:sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_41cf5c5be0ca7427c820": {
+      "id": "opp_41cf5c5be0ca7427c820",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35449",
+      "canonicalUrl": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "title": "코딩 에이전트 하네스는 돈값을 할까?",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T10:01:18+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "같은 API 서비스(Java로 만드는 BFF)를 코딩 에이전트에게 맡기고, 하네스를 줬을 때와 안 줬을 때를 모델마다 10번씩 비교한 실험입니다. 하네스...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35449"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 8,
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:78c1c59a59ff32d0838b7be79864de2835a2a6cfcb83a22d3521bf0aa269e343",
+      "dedupeKey": "brief:opp_41cf5c5be0ca7427c820:sha256:78c1c59a59ff32d0838b7be79864de2835a2a6cfcb83a22d3521bf0aa269e343",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_a68d478a40273871b6d7": {
+      "id": "opp_a68d478a40273871b6d7",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "794025245411ee51adb7f01d6c5d301c43b19464",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/cj-oliveyoung-operations-agent-bedrock",
+      "title": "CJ올리브영의 AI 기반 운영 이슈 분석과 일일 점검 자동화",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 08:57:20 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "Amazon Bedrock과 Strands Agents SDK를 활용한 운영 에이전트 구축기 글로벌 프로모션 운영 중 장애가 발생하면, 운영자는 장애의 기술적 원인과 실제 고객 영향도를 동시에 파악해야 하는 복잡한 과제에 직면합니다. 시스템 로그에서 에러를 감지하는 것만으로는 부족합니다. 어떤 고객이 혜택을 받지 못했는지, 고객별 피해 수준과 보상 기준은 무엇인지 판별하려면 서비스 로그와 함께 주문, 쿠폰, 가격 데이터 등 다양한 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/cj-oliveyoung-operations-agent-bedrock/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:c0fde0f84dfb9a5f70680722660136ce86f2371332fb6593cf1f79c5d70d9fb5",
+      "dedupeKey": "brief:opp_a68d478a40273871b6d7:sha256:c0fde0f84dfb9a5f70680722660136ce86f2371332fb6593cf1f79c5d70d9fb5",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_5fda6417b05fc0418425": {
+      "id": "opp_5fda6417b05fc0418425",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "1c519ae1bd1e532a8fb482f81bb88ddf526e85e1",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/modooparking-ai-voice-parking-ai-dlc",
+      "title": "모두의주차장 AI 음성 주차 개발기: AWS AI-DLC 워크숍에서 출시까지",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 07:19:38 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "모두의주차장 소개 모두의주차장은 쏘카가 운영하는 온라인 주차 플랫폼으로, 2013년 서비스를 시작했습니다. 일주차와 월주차, 공유주차 정보를 제공하며, 사용자는 앱에서 목적지 주변 주차장의 위치와 요금, 이용 시간을 비교하고 제휴 주차장의 할인 주차권을 구매할 수 있습니다. 주차장을 선택한 뒤에는 티맵이나 카카오내비로 길 안내를 받을 수 있습니다. 주차장 운영자에게는 비어 있는 주차 공간을 운전자와 연결하고, 판매와 정산을 관리할 수 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/modooparking-ai-voice-parking-ai-dlc/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:b3209ed92e228ccd91a422e61b69be797865c51995c9cb15892304090e2f5aae",
+      "dedupeKey": "brief:opp_5fda6417b05fc0418425:sha256:b3209ed92e228ccd91a422e61b69be797865c51995c9cb15892304090e2f5aae",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_4231f4eea4ecc8905e26": {
+      "id": "opp_4231f4eea4ecc8905e26",
+      "type": "CONTENT",
+      "sourceId": "aws-korea-tech",
+      "externalId": "beb726a1d7ebf9ba467ac3e033deb765eb12134f",
+      "canonicalUrl": "https://aws.amazon.com/ko/blogs/tech/generating-vod-auto-chapters-with-mediaconvert-and-amazon-bedrock",
+      "title": "AWS Elemental MediaConvert와 Amazon Bedrock으로 VOD 자동 챕터 생성하기",
+      "organization": "AWS Korea 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 07:04:35 +0000",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "클라우드",
+        "아키텍처",
+        "AI"
+      ],
+      "summary": "10분이 넘는 영상에서 다시 보고 싶은 장면을 찾으려면 시청자는 프로그레스바를 이리저리 옮겨 가며 더듬어야 합니다. 영상이 주제별 챕터로 나뉘어 있으면 시청자는 제목과 썸네일을 보고 원하는 구간으로 바로 이동할 수 있습니다. 서비스 입장에서도 챕터 제목과 요약은 영상 속 내용을 설명하는 메타데이터가 되어, 구간 단위 검색이나 추천 같은 기능으로 이어갈 수 있습니다. 다만 업로드되는 영상이 늘어날수록, 모든 […]",
+      "summaryEvidence": [
+        "https://aws.amazon.com/ko/blogs/tech/generating-vod-auto-chapters-with-mediaconvert-and-amazon-bedrock/"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 90,
+        "feedFormat": "rss",
+        "contentScore": 14,
+        "contentScoreBreakdown": {
+          "total": 14,
+          "relevance": 3,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4f797ff3a1aac5af583669e2229740780c013fad7c4247d15fe519023e06d7d5",
+      "dedupeKey": "brief:opp_4231f4eea4ecc8905e26:sha256:4f797ff3a1aac5af583669e2229740780c013fad7c4247d15fe519023e06d7d5",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_513b584360a522e66446": {
+      "id": "opp_513b584360a522e66446",
+      "type": "CONTENT",
+      "sourceId": "toss-tech",
+      "externalId": "https://toss.tech/article/dw-airflow-migration",
+      "canonicalUrl": "https://toss.tech/article/dw-airflow-migration",
+      "title": "실행은 도메인별로, 문맥은 한 레포에",
+      "organization": "토스 기술 블로그",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 06:15:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "백엔드",
+        "프론트엔드",
+        "데이터"
+      ],
+      "summary": "중앙 DW Airflow를 멈추지 않고 도메인별 DW로 나눈 9개월",
+      "summaryEvidence": [
+        "https://toss.tech/article/dw-airflow-migration"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 15,
+        "contentScoreBreakdown": {
+          "total": 15,
+          "relevance": 4,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:638ad58c5cdb5deb26798efd7938c3175726e3aa0da3c90e2085d9abf68ec91c",
+      "dedupeKey": "brief:opp_513b584360a522e66446:sha256:638ad58c5cdb5deb26798efd7938c3175726e3aa0da3c90e2085d9abf68ec91c",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_d10dee7606978c074995": {
+      "id": "opp_d10dee7606978c074995",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:ks55L-DkLE8",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ks55L-DkLE8",
+      "title": "[한영자막] 직접 만드는 SDLC — Andy Wong, Andrei Bocan, Shane Wolf (Atlassian)",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T03:00:33+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "AI Engineer World’s Fair에서 Atlassian의 Andy Wong, Andrei Bocan, Shane Wolf가 직접 설계하는 소프트웨어 개발 수명 주기(SDLC)를 이야기합니다. Jira 코딩 에이전트와 Autodev가 계획, 코드 리뷰, 조직 맥락, 운영에 어떻게 연결되는지 살펴봅니다. 주요 내용 - 에이전트가 Jira 작업을 처리하고 pull request를 만드는 흐름 - AI 코드 리뷰로 버그와 기준 위반을 찾고 불필요한 의견을 줄이는 방법 - AI Context E",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=ks55L-DkLE8"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-16T03:00:33.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
+      "dedupeKey": "brief:opp_d10dee7606978c074995:sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
+      "firstSeenAt": "2026-10-16T09:05:28.610Z",
+      "lastSeenAt": "2026-10-16T09:05:28.610Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
         "reason": "브리프 기준 통과"
       }
     }
@@ -88388,6 +88784,42 @@
       "opportunityId": "opp_ac07591d9a8e01aba225",
       "sentAt": "2026-10-16T03:34:08.186Z",
       "messageId": "1560496038731849792"
+    },
+    "brief:opp_a68d478a40273871b6d7:sha256:c0fde0f84dfb9a5f70680722660136ce86f2371332fb6593cf1f79c5d70d9fb5": {
+      "status": "SENT",
+      "opportunityId": "opp_a68d478a40273871b6d7",
+      "sentAt": "2026-10-16T09:05:28.610Z",
+      "messageId": "1560579440122142731"
+    },
+    "brief:opp_513b584360a522e66446:sha256:638ad58c5cdb5deb26798efd7938c3175726e3aa0da3c90e2085d9abf68ec91c": {
+      "status": "SENT",
+      "opportunityId": "opp_513b584360a522e66446",
+      "sentAt": "2026-10-16T09:05:28.610Z",
+      "messageId": "1560579440122142731"
+    },
+    "brief:opp_5fda6417b05fc0418425:sha256:b3209ed92e228ccd91a422e61b69be797865c51995c9cb15892304090e2f5aae": {
+      "status": "SENT",
+      "opportunityId": "opp_5fda6417b05fc0418425",
+      "sentAt": "2026-10-16T09:05:28.610Z",
+      "messageId": "1560579440122142731"
+    },
+    "brief:opp_41cf5c5be0ca7427c820:sha256:78c1c59a59ff32d0838b7be79864de2835a2a6cfcb83a22d3521bf0aa269e343": {
+      "status": "SENT",
+      "opportunityId": "opp_41cf5c5be0ca7427c820",
+      "sentAt": "2026-10-16T09:05:28.610Z",
+      "messageId": "1560579440122142731"
+    },
+    "brief:opp_93e86ad5880bc1545939:sha256:abd310b82abbaecf77a0bd198a650071841939054bad2d8950eace02e09c159a": {
+      "status": "SENT",
+      "opportunityId": "opp_93e86ad5880bc1545939",
+      "sentAt": "2026-10-16T09:05:28.610Z",
+      "messageId": "1560579440122142731"
+    },
+    "brief:opp_d2a86becfd6cb6f05e36:sha256:4469a50175c66535dcac7bbc7207513c6c35b28022a813d76f3b7a8f954a0f46": {
+      "status": "SENT",
+      "opportunityId": "opp_d2a86becfd6cb6f05e36",
+      "sentAt": "2026-10-16T09:05:28.610Z",
+      "messageId": "1560579440122142731"
     }
   },
   "pending": {},
