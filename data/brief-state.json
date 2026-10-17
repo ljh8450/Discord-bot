@@ -78219,8 +78219,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 26,
-        "communityRank": 5,
+        "communityPoints": 27,
+        "communityRank": 14,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -78234,8 +78234,8 @@
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-17T00:05:27.485Z",
-      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79314,7 +79314,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 6,
+        "communityRank": 20,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -79328,8 +79328,8 @@
       },
       "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
       "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
-      "firstSeenAt": "2026-10-17T00:05:27.485Z",
-      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79803,8 +79803,8 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 7,
+        "communityPoints": 9,
+        "communityRank": 19,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -79818,8 +79818,8 @@
       },
       "contentHash": "sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
       "dedupeKey": "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
-      "firstSeenAt": "2026-10-17T00:05:27.485Z",
-      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79852,26 +79852,26 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 8,
-        "communityRank": 8,
-        "contentScore": 10,
+        "communityPoints": 10,
+        "communityRank": 15,
+        "contentScore": 11,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 11,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 2,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
       "dedupeKey": "brief:opp_9fb71941aeaa09385aab:sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
-      "firstSeenAt": "2026-10-17T00:05:27.485Z",
-      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -80152,12 +80152,12 @@
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
         "latestChannelActivityAt": "2026-10-16T22:00:10.000Z",
-        "contentScore": 11,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -80165,11 +80165,11 @@
       },
       "contentHash": "sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
       "dedupeKey": "brief:opp_d10dee7606978c074995:sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
-      "firstSeenAt": "2026-10-17T00:05:27.485Z",
-      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -80316,11 +80316,11 @@
       },
       "contentHash": "sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27",
       "dedupeKey": "brief:opp_5b68e5748951e04cc20d:sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27",
-      "firstSeenAt": "2026-10-17T00:05:27.485Z",
-      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -80623,6 +80623,55 @@
       "dedupeKey": "brief:opp_c7596c7da0810a12ac62:sha256:91eed61d3c65fdb13845655e2895a3c98adc15126ac32f473914695bf3fac8d2",
       "firstSeenAt": "2026-10-17T00:05:27.485Z",
       "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_92a8efac42b0b53744fc": {
+      "id": "opp_92a8efac42b0b53744fc",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35475",
+      "canonicalUrl": "https://tombh.co.uk/religious-studies-in-software-engineering",
+      "title": "종교학으로 바라본 소프트웨어 공학",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T21:05:29+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "종교학에서 배운 관점으로 소프트웨어 개발과 기술에 대한 믿음을 돌아보는 에세이. 종교와 이데올로기도 인간과 사회를 특정한 결과로 이끄는 규...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35475"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:2d67f77ec8138bef73e8366af491b5209ad242d87d320b13f9457c31e8bc61cf",
+      "dedupeKey": "brief:opp_92a8efac42b0b53744fc:sha256:2d67f77ec8138bef73e8366af491b5209ad242d87d320b13f9457c31e8bc61cf",
+      "firstSeenAt": "2026-10-17T03:24:19.754Z",
+      "lastSeenAt": "2026-10-17T03:24:19.754Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -89348,6 +89397,30 @@
       "opportunityId": "opp_c7596c7da0810a12ac62",
       "sentAt": "2026-10-17T00:05:27.485Z",
       "messageId": "1560805913558913135"
+    },
+    "brief:opp_92a8efac42b0b53744fc:sha256:2d67f77ec8138bef73e8366af491b5209ad242d87d320b13f9457c31e8bc61cf": {
+      "status": "SENT",
+      "opportunityId": "opp_92a8efac42b0b53744fc",
+      "sentAt": "2026-10-17T03:24:19.754Z",
+      "messageId": "1560855959239266377"
+    },
+    "brief:opp_5b68e5748951e04cc20d:sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27": {
+      "status": "SENT",
+      "opportunityId": "opp_5b68e5748951e04cc20d",
+      "sentAt": "2026-10-17T03:24:19.754Z",
+      "messageId": "1560855959239266377"
+    },
+    "brief:opp_9fb71941aeaa09385aab:sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8": {
+      "status": "SENT",
+      "opportunityId": "opp_9fb71941aeaa09385aab",
+      "sentAt": "2026-10-17T03:24:19.754Z",
+      "messageId": "1560855959239266377"
+    },
+    "brief:opp_d10dee7606978c074995:sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e": {
+      "status": "SENT",
+      "opportunityId": "opp_d10dee7606978c074995",
+      "sentAt": "2026-10-17T03:24:19.754Z",
+      "messageId": "1560855959239266377"
     }
   },
   "pending": {},
