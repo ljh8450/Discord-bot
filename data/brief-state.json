@@ -78220,7 +78220,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 26,
-        "communityRank": 7,
+        "communityRank": 5,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -78234,8 +78234,8 @@
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79314,7 +79314,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 3,
+        "communityRank": 6,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -79328,8 +79328,8 @@
       },
       "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
       "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79621,11 +79621,11 @@
       },
       "contentHash": "sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
       "dedupeKey": "brief:opp_b3bed8b4a5e6192fa092:sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79670,11 +79670,11 @@
       },
       "contentHash": "sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
       "dedupeKey": "brief:opp_113778c532b46c9e3c69:sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79804,13 +79804,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 8,
-        "communityRank": 4,
-        "contentScore": 11,
+        "communityRank": 7,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -79818,8 +79818,8 @@
       },
       "contentHash": "sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
       "dedupeKey": "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79852,14 +79852,14 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 7,
-        "communityRank": 5,
-        "contentScore": 11,
+        "communityPoints": 8,
+        "communityRank": 8,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 11,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 3,
+          "freshness": 2,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -79867,8 +79867,8 @@
       },
       "contentHash": "sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
       "dedupeKey": "brief:opp_9fb71941aeaa09385aab:sha256:5d691dbab83257469f380c03902505d583f534902f00a0531ed43d91606046c8",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -80129,7 +80129,7 @@
       "title": "[한영자막] 직접 만드는 SDLC — Andy Wong, Andrei Bocan, Shane Wolf (Atlassian)",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-10-16T03:00:33+00:00",
+      "publishedAt": "2026-10-16T03:00:33.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -80148,10 +80148,10 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-16T11:42:28.000Z",
+        "latestChannelActivityAt": "2026-10-16T22:00:10.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -80165,8 +80165,8 @@
       },
       "contentHash": "sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
       "dedupeKey": "brief:opp_d10dee7606978c074995:sha256:4c8a0058da6b8867438caeb3d0c2dfc9e66443ed540bd33cbf1df6d4b20bb86e",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -80280,7 +80280,7 @@
       "title": "동네 치과 원장님의 AX 전환기 | AI로 치과 업무를 통째로 바꿨다!",
       "organization": "Tech Bridge",
       "status": "OPEN",
-      "publishedAt": "2026-10-16T11:42:28+00:00",
+      "publishedAt": "2026-10-16T11:42:28.000Z",
       "closesAt": null,
       "locations": [],
       "eligibility": [],
@@ -80299,10 +80299,10 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 0,
-        "feedFormat": "atom",
+        "feedFormat": "feedly-cache",
         "channelId": "UC895rbZX2iXLTDfji7W4PfA",
         "contentFormat": "VIDEO",
-        "latestChannelActivityAt": "2026-10-16T11:42:28.000Z",
+        "latestChannelActivityAt": "2026-10-16T22:00:10.000Z",
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -80316,8 +80316,8 @@
       },
       "contentHash": "sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27",
       "dedupeKey": "brief:opp_5b68e5748951e04cc20d:sha256:93a945b22a23ce4fdeba1aa6d19553f66741b52962b7f013d237e12c1896be27",
-      "firstSeenAt": "2026-10-16T13:43:55.459Z",
-      "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -80371,6 +80371,258 @@
       "dedupeKey": "brief:opp_b971d06ff312b6193545:sha256:34a2f4c26d9a5f3f0806bf45da6c7903f57674b3a1a2ebfaa8dd8a3996afdb7a",
       "firstSeenAt": "2026-10-16T13:43:55.459Z",
       "lastSeenAt": "2026-10-16T13:43:55.459Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_e9b8297dcfecac822896": {
+      "id": "opp_e9b8297dcfecac822896",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35448",
+      "canonicalUrl": "https://x.com/gregisenberg/status/2108188646973313195",
+      "title": "마케팅 엔지니어: AI 에이전트로 100배 더 많은 실험하기",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T09:41:49+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "마케팅 엔지니어는 고객 조사, 페이지 제작, 광고 생성, 데이터 연결, 실험 실행을 직접 수행하며, 여러 AI 에이전트를 캠페인을 지속적으로 만드...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35448"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 5,
+        "communityRank": 14,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:3ec3a535be3b757adb0bb625148687d6bae7aed38cedcec75cc963167abc16bc",
+      "dedupeKey": "brief:opp_e9b8297dcfecac822896:sha256:3ec3a535be3b757adb0bb625148687d6bae7aed38cedcec75cc963167abc16bc",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "APPROVED",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_cd4cc219bf77e8b57dd2": {
+      "id": "opp_cd4cc219bf77e8b57dd2",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/itau-generative-ai",
+      "canonicalUrl": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "summaryEvidence": [
+        "https://openai.com/index/itau-generative-ai"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:eb03b2e74a0b209ab14799a07902fe72a87f53da0a10c613794f5112b60b81f4",
+      "dedupeKey": "brief:opp_cd4cc219bf77e8b57dd2:sha256:eb03b2e74a0b209ab14799a07902fe72a87f53da0a10c613794f5112b60b81f4",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_867295e3853c94e92b84": {
+      "id": "opp_867295e3853c94e92b84",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "canonicalUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "summaryEvidence": [
+        "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:85cdf12c5f3912f87df81461d98ba0ccfda258310c244709a804a4ddc7153d02",
+      "dedupeKey": "brief:opp_867295e3853c94e92b84:sha256:85cdf12c5f3912f87df81461d98ba0ccfda258310c244709a804a4ddc7153d02",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_37b4270ced8bfb4643b2": {
+      "id": "opp_37b4270ced8bfb4643b2",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:VOToAHcnhyA",
+      "canonicalUrl": "https://www.youtube.com/watch?v=VOToAHcnhyA",
+      "title": "[한영자막] 샌드박스는 선택이 아닙니다: 코딩 에이전트 격리 방법 4가지",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T22:00:10.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "샌드박스는 코딩 에이전트를 안전하게 운영하기 위한 선택이 아니라 기본 조건입니다. OpenHands의 CEO Robert Brennan이 로컬 실행부터 클라우드 격리까지 네 가지 접근법과 각각의 보안·확장성 trade-off를 설명합니다. 주요 내용 • 로컬 코딩 에이전트와 권한 생략이 만드는 보안 위험 • 최소 권한 원칙과 에이전트 샌드박싱 • 로컬 Docker, GitHub Actions, 전용 VM, Kubernetes 비교 • 샌드박스의 한계와 OpenHands Agent Canvas 챕터",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=VOToAHcnhyA"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-16T22:00:10.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:98ca03dc28253ffbee1ea0e2b56f4440afcc72478580161b3ea387b270701929",
+      "dedupeKey": "brief:opp_37b4270ced8bfb4643b2:sha256:98ca03dc28253ffbee1ea0e2b56f4440afcc72478580161b3ea387b270701929",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_c7596c7da0810a12ac62": {
+      "id": "opp_c7596c7da0810a12ac62",
+      "type": "CONTENT",
+      "sourceId": "youtube-chase-ai",
+      "externalId": "yt:video:mKjxGy6vCnY",
+      "canonicalUrl": "https://www.youtube.com/watch?v=mKjxGy6vCnY",
+      "title": "Claude Code’s Secret Upgrade Is an Orchestration Beast",
+      "organization": "Chase AI",
+      "status": "OPEN",
+      "publishedAt": "2026-10-16T22:28:23.000Z",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "AI Agent",
+        "Claude Code",
+        "자동화",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "⚡Master Claude Code + Codex: https://www.skool.com/chase-ai 🔥FREE community: https://www.skool.com/chase-ai-community 💻Get 1:1 help: https://chaseai.io Claude Projects turns Claude Code into a multi agent cloud orchestrating beast. ⏰TIMESTAMPS: 0:00 - Intro 0:36 - What Projects",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=mKjxGy6vCnY"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 3,
+        "sourcePriority": 0,
+        "feedFormat": "feedly-cache",
+        "channelId": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-16T22:28:23.000Z",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 2,
+          "practicalValue": 3,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:91eed61d3c65fdb13845655e2895a3c98adc15126ac32f473914695bf3fac8d2",
+      "dedupeKey": "brief:opp_c7596c7da0810a12ac62:sha256:91eed61d3c65fdb13845655e2895a3c98adc15126ac32f473914695bf3fac8d2",
+      "firstSeenAt": "2026-10-17T00:05:27.485Z",
+      "lastSeenAt": "2026-10-17T00:05:27.485Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -89060,6 +89312,42 @@
       "opportunityId": "opp_e556b7974c2c113f6242",
       "sentAt": "2026-10-16T13:43:55.459Z",
       "messageId": "1560649498022252605"
+    },
+    "brief:opp_b3bed8b4a5e6192fa092:sha256:ebccb643de84d7310083c76ffe277c899f5c448461365f02641a54fd2b571ead": {
+      "status": "SENT",
+      "opportunityId": "opp_b3bed8b4a5e6192fa092",
+      "sentAt": "2026-10-17T00:05:27.485Z",
+      "messageId": "1560805913558913135"
+    },
+    "brief:opp_113778c532b46c9e3c69:sha256:7796dfa1a8a69ac3da69156b42c25552ef8bf0578f4de8d4ff4bfdef46a2e87e": {
+      "status": "SENT",
+      "opportunityId": "opp_113778c532b46c9e3c69",
+      "sentAt": "2026-10-17T00:05:27.485Z",
+      "messageId": "1560805913558913135"
+    },
+    "brief:opp_37b4270ced8bfb4643b2:sha256:98ca03dc28253ffbee1ea0e2b56f4440afcc72478580161b3ea387b270701929": {
+      "status": "SENT",
+      "opportunityId": "opp_37b4270ced8bfb4643b2",
+      "sentAt": "2026-10-17T00:05:27.485Z",
+      "messageId": "1560805913558913135"
+    },
+    "brief:opp_cd4cc219bf77e8b57dd2:sha256:eb03b2e74a0b209ab14799a07902fe72a87f53da0a10c613794f5112b60b81f4": {
+      "status": "SENT",
+      "opportunityId": "opp_cd4cc219bf77e8b57dd2",
+      "sentAt": "2026-10-17T00:05:27.485Z",
+      "messageId": "1560805913558913135"
+    },
+    "brief:opp_867295e3853c94e92b84:sha256:85cdf12c5f3912f87df81461d98ba0ccfda258310c244709a804a4ddc7153d02": {
+      "status": "SENT",
+      "opportunityId": "opp_867295e3853c94e92b84",
+      "sentAt": "2026-10-17T00:05:27.485Z",
+      "messageId": "1560805913558913135"
+    },
+    "brief:opp_c7596c7da0810a12ac62:sha256:91eed61d3c65fdb13845655e2895a3c98adc15126ac32f473914695bf3fac8d2": {
+      "status": "SENT",
+      "opportunityId": "opp_c7596c7da0810a12ac62",
+      "sentAt": "2026-10-17T00:05:27.485Z",
+      "messageId": "1560805913558913135"
     }
   },
   "pending": {},
