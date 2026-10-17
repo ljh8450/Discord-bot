@@ -79313,23 +79313,23 @@
         "authority": 2,
         "practicalValue": 2,
         "sourcePriority": 100,
-        "communityPoints": 9,
+        "communityPoints": 10,
         "communityRank": 14,
-        "contentScore": 9,
+        "contentScore": 10,
         "contentScoreBreakdown": {
-          "total": 9,
+          "total": 10,
           "relevance": 2,
           "practicalValue": 2,
           "freshness": 1,
           "authority": 2,
           "novelty": 2,
-          "community": 0
+          "community": 1
         }
       },
       "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
       "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
-      "firstSeenAt": "2026-10-17T09:05:30.868Z",
-      "lastSeenAt": "2026-10-17T09:05:30.868Z",
+      "firstSeenAt": "2026-10-17T12:40:41.141Z",
+      "lastSeenAt": "2026-10-17T12:40:41.141Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79804,7 +79804,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 13,
+        "communityRank": 15,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -79818,11 +79818,11 @@
       },
       "contentHash": "sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
       "dedupeKey": "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
-      "firstSeenAt": "2026-10-17T09:05:30.868Z",
-      "lastSeenAt": "2026-10-17T09:05:30.868Z",
+      "firstSeenAt": "2026-10-17T12:40:41.141Z",
+      "lastSeenAt": "2026-10-17T12:40:41.141Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -80822,6 +80822,108 @@
       "dedupeKey": "brief:opp_f753e2455509a276b3a3:sha256:73b3a6c28dd888f2c7b015f23f589d180e95b8cbc1aa4c943fed163ee8216fe0",
       "firstSeenAt": "2026-10-17T09:05:30.868Z",
       "lastSeenAt": "2026-10-17T09:05:30.868Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_aeb2e9c7b2f7d51093b9": {
+      "id": "opp_aeb2e9c7b2f7d51093b9",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35495",
+      "canonicalUrl": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "title": "Claude Code 팀의 코드 리뷰 방식",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-17T07:36:23+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Claude가 자체 코드의 약 90%를 작성하는 Claude Code 팀은 코드 읽기의 대부분을 자동화하고, 사람은 위험 판단과 결과 책임에 집중하도록 리뷰 ...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35495"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 3,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:7a21a9f78a413af4748b5346af6e4826649581a058e4917110a1eb57e78613b8",
+      "dedupeKey": "brief:opp_aeb2e9c7b2f7d51093b9:sha256:7a21a9f78a413af4748b5346af6e4826649581a058e4917110a1eb57e78613b8",
+      "firstSeenAt": "2026-10-17T12:40:41.141Z",
+      "lastSeenAt": "2026-10-17T12:40:41.141Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_2aa709e6b0957179d9f7": {
+      "id": "opp_2aa709e6b0957179d9f7",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:N8gD8ebFlMI",
+      "canonicalUrl": "https://www.youtube.com/watch?v=N8gD8ebFlMI",
+      "title": "[한영자막] Grok Bot 같은 상시 작동 에이전트는 어떻게 작동할까요? | SpaceX 엔지니어 Lee Robinson의 스탠퍼드 강연",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-17T12:00:11+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "SpaceX 엔지니어 Lee Robinson이 스탠퍼드 CS146S에서 상시 작동 에이전트를 주제로 진행한 강연입니다. Grok Bot 같은 에이전트의 구조와 설계를 살펴봅니다. 상시 작동 에이전트는 어떻게 오랜 시간 일하고, 필요한 순간에만 사용자에게 알릴까요? 스탠퍼드 CS146S 강연을 통해 에이전트의 서버 구조와 하네스 설계, 메모리와 컨텍스트 관리 방법을 살펴봅니다. 주요 내용 • 에이전트가 도구와 하위 에이전트를 활용하는 방식 • 서버와 가상 머신을 이용한 상시 작동 구조 • 작업 대기",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=N8gD8ebFlMI"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-17T12:00:11.000Z",
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:4308da965ac748c0900e1b567ff56799d3d7efb1bd7f65bf0f6e359eb2de2be9",
+      "dedupeKey": "brief:opp_2aa709e6b0957179d9f7:sha256:4308da965ac748c0900e1b567ff56799d3d7efb1bd7f65bf0f6e359eb2de2be9",
+      "firstSeenAt": "2026-10-17T12:40:41.141Z",
+      "lastSeenAt": "2026-10-17T12:40:41.141Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -89595,6 +89697,24 @@
       "opportunityId": "opp_e9b21ad75998e1d8ea13",
       "sentAt": "2026-10-17T09:05:30.868Z",
       "messageId": "1560941822572892161"
+    },
+    "brief:opp_2aa709e6b0957179d9f7:sha256:4308da965ac748c0900e1b567ff56799d3d7efb1bd7f65bf0f6e359eb2de2be9": {
+      "status": "SENT",
+      "opportunityId": "opp_2aa709e6b0957179d9f7",
+      "sentAt": "2026-10-17T12:40:41.141Z",
+      "messageId": "1560995971171754045"
+    },
+    "brief:opp_aeb2e9c7b2f7d51093b9:sha256:7a21a9f78a413af4748b5346af6e4826649581a058e4917110a1eb57e78613b8": {
+      "status": "SENT",
+      "opportunityId": "opp_aeb2e9c7b2f7d51093b9",
+      "sentAt": "2026-10-17T12:40:41.141Z",
+      "messageId": "1560995971171754045"
+    },
+    "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b": {
+      "status": "SENT",
+      "opportunityId": "opp_5ec17185782781722230",
+      "sentAt": "2026-10-17T12:40:41.141Z",
+      "messageId": "1560995971171754045"
     }
   },
   "pending": {},
