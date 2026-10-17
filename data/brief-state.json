@@ -78220,7 +78220,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 27,
-        "communityRank": 14,
+        "communityRank": 9,
         "contentScore": 11,
         "contentScoreBreakdown": {
           "total": 11,
@@ -78234,11 +78234,11 @@
       },
       "contentHash": "sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
       "dedupeKey": "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d",
-      "firstSeenAt": "2026-10-17T03:24:19.754Z",
-      "lastSeenAt": "2026-10-17T03:24:19.754Z",
+      "firstSeenAt": "2026-10-17T09:05:30.868Z",
+      "lastSeenAt": "2026-10-17T09:05:30.868Z",
       "eventType": "PUBLISHED",
       "review": {
-        "status": "APPROVED",
+        "status": "SENT",
         "reason": "브리프 기준 통과"
       }
     },
@@ -79314,13 +79314,13 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 20,
-        "contentScore": 10,
+        "communityRank": 14,
+        "contentScore": 9,
         "contentScoreBreakdown": {
-          "total": 10,
+          "total": 9,
           "relevance": 2,
           "practicalValue": 2,
-          "freshness": 2,
+          "freshness": 1,
           "authority": 2,
           "novelty": 2,
           "community": 0
@@ -79328,8 +79328,8 @@
       },
       "contentHash": "sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
       "dedupeKey": "brief:opp_060dac21d93755a891ee:sha256:824dc4bfd90d05158f482ad64fc6285d4d1df3537a8fd3a1b762ca5d77829bb8",
-      "firstSeenAt": "2026-10-17T03:24:19.754Z",
-      "lastSeenAt": "2026-10-17T03:24:19.754Z",
+      "firstSeenAt": "2026-10-17T09:05:30.868Z",
+      "lastSeenAt": "2026-10-17T09:05:30.868Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -79804,7 +79804,7 @@
         "practicalValue": 2,
         "sourcePriority": 100,
         "communityPoints": 9,
-        "communityRank": 19,
+        "communityRank": 13,
         "contentScore": 10,
         "contentScoreBreakdown": {
           "total": 10,
@@ -79818,8 +79818,8 @@
       },
       "contentHash": "sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
       "dedupeKey": "brief:opp_5ec17185782781722230:sha256:f4ba1e110169c4720b2f95cde6d15339af0e2aaa20045cefdf4de1dcb5f0ac0b",
-      "firstSeenAt": "2026-10-17T03:24:19.754Z",
-      "lastSeenAt": "2026-10-17T03:24:19.754Z",
+      "firstSeenAt": "2026-10-17T09:05:30.868Z",
+      "lastSeenAt": "2026-10-17T09:05:30.868Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "APPROVED",
@@ -80672,6 +80672,156 @@
       "dedupeKey": "brief:opp_92a8efac42b0b53744fc:sha256:2d67f77ec8138bef73e8366af491b5209ad242d87d320b13f9457c31e8bc61cf",
       "firstSeenAt": "2026-10-17T03:24:19.754Z",
       "lastSeenAt": "2026-10-17T03:24:19.754Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_409c32dd7215039cf5a4": {
+      "id": "opp_409c32dd7215039cf5a4",
+      "type": "CONTENT",
+      "sourceId": "geeknews-popular",
+      "externalId": "35504",
+      "canonicalUrl": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com",
+      "title": "Linus Torvalds “AI 사용을 금지하지 않겠다. 자신이 하는 일을 이해해야 한다”",
+      "organization": "GeekNews",
+      "status": "OPEN",
+      "publishedAt": "2026-10-17T09:05:43+09:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "개발",
+        "AI",
+        "커뮤니티"
+      ],
+      "summary": "Linus Torvalds가 Linux 커널 기여에서 특정 작업에 AI 사용을 금지하는 규칙을 만들지 않겠다고 밝힘. 기여자의 역량을 도구 사용 여부로 판단하...",
+      "summaryEvidence": [
+        "https://news.hada.io/topic?id=35504"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 100,
+        "communityPoints": 6,
+        "communityRank": 1,
+        "contentScore": 11,
+        "contentScoreBreakdown": {
+          "total": 11,
+          "relevance": 2,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:1e7f20851de1788260f581ea7ca36892a7766c7ec986521e4f3fad85284c37ae",
+      "dedupeKey": "brief:opp_409c32dd7215039cf5a4:sha256:1e7f20851de1788260f581ea7ca36892a7766c7ec986521e4f3fad85284c37ae",
+      "firstSeenAt": "2026-10-17T09:05:30.868Z",
+      "lastSeenAt": "2026-10-17T09:05:30.868Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_09f5331bc78904f30ed6": {
+      "id": "opp_09f5331bc78904f30ed6",
+      "type": "CONTENT",
+      "sourceId": "openai-news",
+      "externalId": "https://openai.com/index/benefit-street-partners",
+      "canonicalUrl": "https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "organization": "OpenAI",
+      "status": "OPEN",
+      "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "모델",
+        "개발 도구"
+      ],
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "summaryEvidence": [
+        "https://openai.com/index/benefit-street-partners"
+      ],
+      "attributes": {
+        "authority": 3,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "rss",
+        "contentScore": 12,
+        "contentScoreBreakdown": {
+          "total": 12,
+          "relevance": 3,
+          "practicalValue": 2,
+          "freshness": 2,
+          "authority": 3,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:d29d0ff37e41e9bedbf895622f6c7e28b713ef5c2ac61bc78b1d02b1e59b605b",
+      "dedupeKey": "brief:opp_09f5331bc78904f30ed6:sha256:d29d0ff37e41e9bedbf895622f6c7e28b713ef5c2ac61bc78b1d02b1e59b605b",
+      "firstSeenAt": "2026-10-17T09:05:30.868Z",
+      "lastSeenAt": "2026-10-17T09:05:30.868Z",
+      "eventType": "PUBLISHED",
+      "review": {
+        "status": "SENT",
+        "reason": "브리프 기준 통과"
+      }
+    },
+    "opp_f753e2455509a276b3a3": {
+      "id": "opp_f753e2455509a276b3a3",
+      "type": "CONTENT",
+      "sourceId": "youtube-tech-bridge",
+      "externalId": "yt:video:Eu4D795nMsQ",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Eu4D795nMsQ",
+      "title": "[한영자막] 지능을 빌리는 건 그만: 특화 AI의 학습부터 배포까지",
+      "organization": "Tech Bridge",
+      "status": "OPEN",
+      "publishedAt": "2026-10-17T04:00:35+00:00",
+      "closesAt": null,
+      "locations": [],
+      "eligibility": [],
+      "tags": [
+        "AI",
+        "개발",
+        "글로벌 테크",
+        "YouTube",
+        "영상"
+      ],
+      "summary": "폐쇄형 모델의 높은 비용과 품질 격차에 대응해, 오픈 모델을 자체 데이터로 학습하고 서비스에 배포하는 과정을 Fireworks AI 사례로 살펴봅니다. Jetashree Ravi가 Fireworks의 학습 방식과 운영 사례, 학습부터 서빙까지 이어지는 반복 개선 구조를 설명합니다. 주요 내용 • 오픈 모델의 현재 수준과 맞춤 학습이 품질 격차를 줄이는 방법 • FireAttention, CUDA 커널, speculative decoding • Training Agent, 관리형 학습, Traini",
+      "summaryEvidence": [
+        "https://www.youtube.com/watch?v=Eu4D795nMsQ"
+      ],
+      "attributes": {
+        "authority": 2,
+        "practicalValue": 2,
+        "sourcePriority": 0,
+        "feedFormat": "atom",
+        "channelId": "UC895rbZX2iXLTDfji7W4PfA",
+        "contentFormat": "VIDEO",
+        "latestChannelActivityAt": "2026-10-17T04:00:35.000Z",
+        "contentScore": 13,
+        "contentScoreBreakdown": {
+          "total": 13,
+          "relevance": 4,
+          "practicalValue": 2,
+          "freshness": 3,
+          "authority": 2,
+          "novelty": 2,
+          "community": 0
+        }
+      },
+      "contentHash": "sha256:73b3a6c28dd888f2c7b015f23f589d180e95b8cbc1aa4c943fed163ee8216fe0",
+      "dedupeKey": "brief:opp_f753e2455509a276b3a3:sha256:73b3a6c28dd888f2c7b015f23f589d180e95b8cbc1aa4c943fed163ee8216fe0",
+      "firstSeenAt": "2026-10-17T09:05:30.868Z",
+      "lastSeenAt": "2026-10-17T09:05:30.868Z",
       "eventType": "PUBLISHED",
       "review": {
         "status": "SENT",
@@ -89421,6 +89571,30 @@
       "opportunityId": "opp_d10dee7606978c074995",
       "sentAt": "2026-10-17T03:24:19.754Z",
       "messageId": "1560855959239266377"
+    },
+    "brief:opp_f753e2455509a276b3a3:sha256:73b3a6c28dd888f2c7b015f23f589d180e95b8cbc1aa4c943fed163ee8216fe0": {
+      "status": "SENT",
+      "opportunityId": "opp_f753e2455509a276b3a3",
+      "sentAt": "2026-10-17T09:05:30.868Z",
+      "messageId": "1560941822572892161"
+    },
+    "brief:opp_09f5331bc78904f30ed6:sha256:d29d0ff37e41e9bedbf895622f6c7e28b713ef5c2ac61bc78b1d02b1e59b605b": {
+      "status": "SENT",
+      "opportunityId": "opp_09f5331bc78904f30ed6",
+      "sentAt": "2026-10-17T09:05:30.868Z",
+      "messageId": "1560941822572892161"
+    },
+    "brief:opp_409c32dd7215039cf5a4:sha256:1e7f20851de1788260f581ea7ca36892a7766c7ec986521e4f3fad85284c37ae": {
+      "status": "SENT",
+      "opportunityId": "opp_409c32dd7215039cf5a4",
+      "sentAt": "2026-10-17T09:05:30.868Z",
+      "messageId": "1560941822572892161"
+    },
+    "brief:opp_e9b21ad75998e1d8ea13:sha256:a5b6674535c33e7cf52bdbff4f1693fcfd6e8a8c930de3c2877e5db73ce00a1d": {
+      "status": "SENT",
+      "opportunityId": "opp_e9b21ad75998e1d8ea13",
+      "sentAt": "2026-10-17T09:05:30.868Z",
+      "messageId": "1560941822572892161"
     }
   },
   "pending": {},
